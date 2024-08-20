@@ -1,0 +1,40 @@
+nude, <[eznips]>
+functionally nude
+fully clothed, skimpy clothes, {<[ezcovered]>|} 
+virgin killer sweater, <[ezcovered]>, functionally nude
+virgin destroyer sweater, <[ezcovered]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
+reverse bunnysuit, {heart pasties, <[ezcovered]>|}, functionally nude 
+bunnysuit, <[ezcovered]>, functionally nude
+zero suit, <[ezcovered]>, fully clothed, tight clothes
+fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, pussy, (bottomless:1.2)
+fully clothed, skimpy clothes, wedding dress, bride, wedding
+fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
+fully clothed, skimpy clothes, see-through bikini, <[ezcovered]>
+fully clothed, kimono
+loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear
+(symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[ezcovered]>
+school uniform
+serafuku
+school swimsuit
+naked shirt
+naked scarf
+naked apron
+naked armor
+naked coat
+naked cape
+naked cloak
+naked jacket
+naked hoodie
+naked kimono
+naked overalls
+(painted clothes, false clothes, bodypaint:1.2), <[ezcovered]>
+naked raincoat
+business suit, tight clothes, <[ezcovered]>
+cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, pussy**{pom poms, holding pom poms,  pom \(cheerleading\)|}**
+open bra, sheer panties
+see-through, ballerina, black thighhighs, <[ezcovered]>
+fully clothed, loose dress gown, covered nipples, pussy
+fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume
+<[ezMaleSwimwearChallenge]>
+fully clothed, impossible clothes, {<[ezcovered]>|}
+sling bikini

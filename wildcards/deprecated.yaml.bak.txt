@@ -1,0 +1,56 @@
+'<[characterpreset][--futanari]>, <[Particle][BeastFellatio]>':
+  Description:
+    - Beast Fellatio
+  Tags:
+    - NSFW
+    - 1girl
+    - Bestiality
+    - ezBeastFellatio
+'<[RandomLoli]>, <[ezfuta]>':
+  Description:
+    - Random Loli Futanari
+  Tags:
+    - CharacterPreset
+    - MyPreset
+    - RandomFutanariLoli
+    - 1girl
+    - Futanari
+    - NSFW
+'<[RandomTeen]>, <[ezfuta]>':
+  Description:
+    - Random Teen Futanari
+  Tags:
+    - CharacterPreset
+    - MyPreset
+    - RandomFutanariTeen
+    - 1girl
+    - Futanari
+    - NSFW
+'<[RandomWoman]>, <[ezfuta]>':
+  Description:
+    - Random Adult Futanari
+  Tags:
+    - CharacterPreset
+    - MyPreset
+    - RandomFutanariWoman
+    - 1girl
+    - Futanari
+    - NSFW
+'<[RandomUpper]>, <[ezfuta]>':
+  Description:
+    - Random Mature Futanari
+  Tags:
+    - CharacterPreset
+    - MyPreset
+    - RandomFutanariUpper
+    - 1girl
+    - Futanari
+    - NSFW
+'<[characters][celebrities]>, {(<[EZTeenGirl]>:1.3)|<[EZWoman]>}, <[Emotions][positive|neutral]>, solo, 1girl, facing the camera, looking at viewer, <[ImageFormat]>, (nude:1.3), <lora:ALTXL_001_4:1> <lora:nudify:1>':
+  Description:
+    - Random Celeb (for use with SDXL models)
+  Tags:
+    - Preset
+    - RandomCeleb
+    - 1girl
+    - NSFW

@@ -1,0 +1,24 @@
+princess, warrior princess**(animal ears, tail:2.0), (holding, weapon, sword, spear, shield:1.7)**
+queen, warrior queen**(animal ears, tail:2.0), (evil, ugly, holding, weapon, sword, spear, shield:1.7)**
+magical girl, precure
+cyborg, (cyborg, robot girl:1.1), (mecha musume:0.5), cyberpunk
+zombie, zombie girl, (corpse, wounded, injury, gore, guro, bloody, pale skin:1.3), undead, dead girl, empty eyes, no pupils**green skin**
+tomboy, short hair, muscular
+demon, demon girl
+succubus, demon girl
+angel, angel girl
+fallen angel, angel girl, corrpution
+angewomon, digimon
+ladydevimon, digimon
+lilithmon, digimon
+mastemon, digimon
+shark, shark anthro
+dolphin, dolphin anthro
+mermaid, mermaid princess
+mermaid, mermaid queen
+orca, orca anthro, killer whale, killer whale anthro
+draenei, draenei \(world of warcraft\)**shoes, footwear**
+nun
+idol, jpop idol, kpop idol
+vampire
+knight, female knight, female holy knight, paladin**(plate, helmet, headwear, hat:2.0), (holding, weapon, sword, spear, shield:1.7)**

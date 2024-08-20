@@ -1,0 +1,240 @@
+'(<[EZLoli]>:1.3)':
+  Description:
+    - Loli Age
+  Tags:
+    - EZAge
+    - Lower
+    - Loli
+'(<[EZTeenGirl]>:1.3)':
+  Description:
+    - Teen Age
+  Tags:
+    - EZAge
+    - Lower
+    - Middle
+    - Teen
+'<[EZWoman]>':
+  Description:
+    - Adult Age
+  Tags:
+    - EZAge
+    - Middle
+    - Upper
+    - Adult
+'<[EZThiccWoman]>':
+  Description:
+    - Mature Age
+  Tags:
+    - EZAge
+    - Upper
+    - Mature
+'(__Species/Species__:1.3)**(hair, headwear:1.7)**':
+  Description:
+    - Random Species
+  Tags:
+    - Characters
+    - MySpecies
+    - Species
+'(__Species/Special Kinds__:1.3)':
+  Description:
+    - Random Types of Characters
+  Tags:
+    - Characters
+    - MySpecies
+    - Species
+'(__Franchise Girls__:1.3)':
+  Description:
+    - Legacy Characters
+  Tags:
+    - Characters
+    - Franchise
+'(__Characters/Ace Attorney__:1.3)':
+  Description:
+    - Ace Attorney Characters
+  Tags:
+    - Characters
+    - Ace Attorney
+'(__Characters/Azur Lane__:1.3), azur lane':
+  Description:
+    - Azur Lane Characters
+  Tags:
+    - Characters
+    - Azur Lane
+'(__Characters/Celebrities__:1.3)':
+  Description:
+    - Random Celebrities
+  Tags:
+    - Characters
+    - Celebrities
+    - Celebrity
+'(__Characters/Comics__:1.3)':
+  Description:
+    - Comic Book Characters
+  Tags:
+    - Characters
+    - Comics
+'(__Characters/Disney__:1.3)':
+  Description:
+    - Disney Characters
+  Tags:
+    - Characters
+    - Disney
+'(__Characters/Evangelion__:1.3), neon genesis evangelion':
+  Description:
+    - Evangelion Characters
+  Tags:
+    - Characters
+    - Evangelion
+'(__Characters/Fighters__:1.3)':
+  Description:
+    - Fighting Game Characters
+  Tags:
+    - Characters
+    - Fighters
+'(__Characters/FiM__:1.3), {my little pony: friendship is magic|my little pony: equestria girls}, pony anthro':
+  Description:
+    - Friendship is Magic Characters
+  Tags:
+    - Characters
+    - FiM
+    - Pony
+    - Ponies
+'(__Characters/Final Fantasy__:1.3), final fantasy':
+  Description:
+    - Final Fantasy Characters
+  Tags:
+    - Characters
+    - Final Fantasy
+'(__Characters/Fire Emblem__:1.3), fire emblem':
+  Description:
+    - Fire Emblem Characters
+  Tags:
+    - Characters
+    - Fire Emblem
+'(__Characters/Genshin__:1.3), genshin impact':
+  Description:
+    - Genshin Characters
+  Tags:
+    - Characters
+    - Genshin
+'(__Characters/LiS__:1.3), life is strange**(beanie, hat, headwear, hair ornament:2.0)**':
+  Description:
+    - Life is Strange Characters
+  Tags:
+    - Characters
+    - LiS
+'(__Characters/LoL__:1.3)':
+  Description:
+    - League of Legends Characters
+  Tags:
+    - Characters
+    - LoL
+'(__Characters/MahoAko__:1.3)':
+  Description:
+    - MahoAko Characters
+  Tags:
+    - Characters
+    - MahoAko
+'(__Characters/Misc__:1.3)':
+  Description:
+    - Uncategorized Characters
+  Tags:
+    - Characters
+    - Misc
+'(__Characters/Nintendo__:1.3)':
+  Description:
+    - Nintendo Characters
+  Tags:
+    - Characters
+    - Nintendo
+'(__Characters/Overwatch__:1.3)**(headwear, glasses, goggles, hat:2.0), (holding, weapon, gun, sword, staff:2.0)**':
+  Description:
+    - Overwatch Characters
+  Tags:
+    - Characters
+    - Overwatch
+'(__Characters/Persona__:1.3), persona \(series\)':
+  Description:
+    - Persona Characters
+  Tags:
+    - Characters
+    - Persona
+'(__Characters/Pokemon__:1.3), pokemon**(pokeball:1.5)**':
+  Description:
+    - Pokemon Characters
+  Tags:
+    - Characters
+    - Pokemon
+'(__Characters/Upsample__:1.3)':
+  Description:
+    - Danbooru Upsample Characters
+  Tags:
+    - Characters
+    - Upsample
+'(__Characters/Vocaloid__:1.3), vocaloid':
+  Description:
+    - Vocaloid Characters
+  Tags:
+    - Characters
+    - Vocaloid
+'(__Characters/Xenoblade__:1.3), xenoblade chronicles':
+  Description:
+    - Xenoblade Characters
+  Tags:
+    - Characters
+    - Xenoblade
+'[<[Characters][--Species]>|<[Characters][--Species]>]':
+  Description:
+    - Blend of Characters
+  Tags:
+    - Characters
+    - Blend
+'__MyClothing__':
+  Description:
+    - Random Clothes
+  Tags:
+    - Clothing
+    - MyClothing
+'__merged-clothes__':
+  Description:
+    - Found Clothes
+  Tags:
+    - Clothing
+    - MergedClothes
+'__Artists/Web Artists__':
+  Description:
+    - Random Artist Names for LoRA
+  Tags:
+    - Artists
+'__Artists/3D__':
+  Description:
+    - Random Artist Names for LoRA
+  Tags:
+    - Artists
+    - 3D
+'__Artists/Common__':
+  Description:
+    - Random Artist Names for LoRA
+  Tags:
+    - Artists
+    - 3D
+'by (cutesexyrobutts:1.3)':
+  Description:
+    - Robutts style
+  Tags:
+    - Artists
+'by ([personal ami|personal ami, (aroma sensei:0.5)]:1.3) <lora:ALTXL_pony_0061_8:1>**(long torso:2.0)**':
+  Description:
+    - Ami Sensei style
+  Tags:
+    - Artists
+'by (realjohndoe, john doe:1.3)':
+  Description:
+    - John Doe style
+  Tags:
+    - Artists
+'[__Web Artists__|__Web Artists__]':
+  Description:
+    - Blend Random Artist Names for LoRA
+  Tags:
+    - Artists

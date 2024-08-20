@@ -95,7 +95,7 @@ Bored, {Narrowed eyes|Half-closed eyes|Blank stare|Ringed eyes|Expressionless|Ti
   - Meta
   - Emotions
   - Neutral
-Embarrassed, {Blush|Full blush|Tears|Full-face blush, constricted pupils, ear blush}:
+Embarrassed, {Blush|Full blush|Full-face blush, constricted pupils, ear blush}:
  Tags:
   - Meta
   - Emotions
@@ -104,7 +104,7 @@ Anxious, {Nervous expression|Averting eyes|Trembling|Shaking|Crying with eyes op
  Tags:
   - Meta
   - Emotions
-  - Neutral
+  - Negative
 Disgust, {Loathing|Narrowed eyes|Sneer}:
  Tags:
   - Meta

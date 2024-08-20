@@ -1,0 +1,72 @@
+'outdoors, (tropical beach with the ocean in the background:1.2)':
+  Description:
+    - Beach
+  Tags:
+    - Particle
+    - MyLocation
+'outdoors, (on the street of a medieval fantasy town:1.4)':
+  Description:
+    - Fantasy Town
+  Tags:
+    - Particle
+    - MyLocation
+'(in a corporate office:1.2)':
+  Description:
+    - Office
+  Tags:
+    - Particle
+    - MyLocation
+'(in an abandoned warehouse:1.3)':
+  Description:
+    - Warehouse
+  Tags:
+    - Particle
+    - MyLocation
+'(white background, simple background:1.3)':
+  Description:
+    - Solid white
+  Tags:
+    - Particle
+    - MyLocation
+'(grey background, simple background:1.3)':
+  Description:
+    - Solid grey
+  Tags:
+    - Particle
+    - MyLocation
+'(in an urban public park:1.4)':
+  Description:
+    - Park
+  Tags:
+    - Particle
+    - MyLocation
+'(on the rooftops in a futuristic cyberpunk city:1.4)':
+  Description:
+    - Cyberpunk City
+  Tags:
+    - Particle
+    - MyLocation
+'(in a bedroom:1.4)':
+  Description:
+    - Bedroom
+  Tags:
+    - Particle
+    - MyLocation
+'(in a fancy hotel penthouse:1.4)':
+  Description:
+    - Penthouse
+  Tags:
+    - Particle
+    - MyLocation
+'(in a snowy nordic forest:1.2)':
+  Description:
+    - Snowy Forest
+  Tags:
+    - Particle
+    - MyLocation
+'<[MyLocation]>, (at night:1.5)':
+  Description:
+    - Night Addon
+  Tags:
+    - Particle
+    - MyLocation
