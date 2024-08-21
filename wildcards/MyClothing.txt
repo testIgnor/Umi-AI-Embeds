@@ -19,7 +19,7 @@ school swimsuit
 naked shirt
 naked scarf
 naked apron
-naked armor
+naked armor, armor**(plate, helmet, headwear, hat:2.0), (holding, weapon, sword, spear, shield:1.7)**
 naked coat
 naked cape
 naked cloak
@@ -38,3 +38,4 @@ fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume
 <[ezMaleSwimwearChallenge]>
 fully clothed, impossible clothes, {<[ezcovered]>|}
 sling bikini
+(heavy armor, fully clothed, armor:1.2), <[ezcovered]>**(plate, helmet, headwear, hat:2.0), (holding, weapon, sword, spear, shield:1.7)**

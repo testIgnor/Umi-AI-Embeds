@@ -28,7 +28,7 @@
     - EZAge
     - Upper
     - Mature
-'(__Species/Species__:1.3)**(hair, headwear:1.7)**':
+'(__Species/Species__:1.3)**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
@@ -159,7 +159,7 @@
   Tags:
     - Characters
     - Persona
-'(__Characters/Pokemon__:1.3), pokemon**(pokeball:1.5)**':
+'(__Characters/Pokemon__:1.3), pokemon**(pokeball:2.0)**':
   Description:
     - Pokemon Characters
   Tags:

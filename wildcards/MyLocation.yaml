@@ -64,6 +64,12 @@
   Tags:
     - Particle
     - MyLocation
+'(vaporwave background:1.2)':
+  Description:
+    - Vaporwave
+  Tags:
+    - Particle
+    - MyLocation
 '<[MyLocation]>, (at night:1.5)':
   Description:
     - Night Addon
