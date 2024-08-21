@@ -195,39 +195,12 @@
     - MechagodzillaPreset
     - 1girl
     - Clothed
-'NSFW, 1girl, <[characters][overwatch]>, <[Artists]>, <[ezage][middle]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Random Overwatch Character
-  Tags:
-    - MyPreset
-    - 1girl
-    - RandomOverwatch
-'<[RandomOverwatch]>, <[FutaAddon][--Beast]>':
-  Description:
-    - Overwatch Futa
-  Tags:
-    - MyPreset
-    - 1girl
-    - Futanari
-'NSFW, 1girl, <[characters][LiS]>, <[Artists]>, <[ezage][lower]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Random LiS Character
-  Tags:
-    - 1girl
-    - RandomLiS
-'<[RandomLiS]>, <[FutaAddon][--Beast]>':
-  Description:
-    - LiS Futa
-  Tags:
-    - 1girl
-    - Futanari
 'NSFW, 1girl, <[characters][FiM]>, <[Artists]>, <[ezage][--lower]>, <[Emotions][positive|neutral]>,  solo, solo focus, <[GazeFormat]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), nude, <[eznips]>, <[ezpussy]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Pony Pinup
   Tags:
     - MyPreset
     - 1girl
-    - toMerge
 'NSFW, 1girl, <[characters][xenoblade]>, <[Artists]>, <[ezage][--lower]>, <[Emotions][positive|neutral]>, solo, solo focus, facing the camera, presenting, looking at viewer, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), (reverse bunnysuit:1.3), presenting, spread pussy, <[eznips]>, <[ezpussy]>, <[ezcovered]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Aegis Reverse Bunnysuit
