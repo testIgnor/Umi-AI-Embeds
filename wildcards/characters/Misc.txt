@@ -27,7 +27,7 @@ android 18
 android 21
 yamamura sadako
 kitten \(gravity daze\)
-crow \(gravity daze\)
+crow \(gravity daze\)**(crow, bird:2.0)**
 mechagodzilla, <[MechagodzillaCharacter]>
 godzilla, genderswap, (scalie:1.3)**(human, car, vehicle:1.7)**
 korra, the legend of korra
