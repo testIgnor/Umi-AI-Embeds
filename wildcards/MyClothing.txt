@@ -7,7 +7,13 @@ reverse bunnysuit, {heart pasties, <[ezcovered]>|}, functionally nude
 bunnysuit, <[ezcovered]>, functionally nude
 zero suit, <[ezcovered]>, fully clothed, tight clothes
 fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, pussy, (bottomless:1.2)
-fully clothed, skimpy clothes, wedding dress, bride, wedding
+fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered]>
+fully clothed, wedding dress, bride, wedding
+fully clothed, wedding dress, sheer wedding dress, bride, wedding, <[ezcovered]>
+functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered]>
+functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered]>
+fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered]>
+fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered]>
 fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered]>
 fully clothed, kimono
