@@ -189,13 +189,13 @@
   Tags:
     - Characters
     - Blend
-'__MyClothing__':
+'(__MyClothing__:1.4)':
   Description:
     - Random Clothes
   Tags:
     - Clothing
     - MyClothing
-'__merged-clothes__':
+'(__merged-clothes__:1.4)':
   Description:
     - Found Clothes
   Tags:
