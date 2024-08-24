@@ -28,12 +28,27 @@
     - AllPiercings
     - Female
     - Sexywear
-'{large nipples|inverted nipples}, large areolae, nipples, puffy nipples':
+'(large nipples, erect nipples, large areolae, nipples, puffy nipples:1.2)':
   Description:
     - Nipples addon
   Tags:
     - Particle
     - eznips
+    - Erect
+'(large nipples, large areolae, nipples, puffy nipples:1.2)':
+  Description:
+    - Nipples addon
+  Tags:
+    - Particle
+    - eznips
+    - Normal
+'(inverted nipples, large areolae, nipples, puffy nipples:1.2)':
+  Description:
+    - Nipples addon
+  Tags:
+    - Particle
+    - eznips
+    - Inverted
 '<[eznips]>, lactation, milky breasts, (pregnant:1.2)':
   Description:
     - Pregnant addon
@@ -52,32 +67,118 @@
   Tags:
     - Particle
     - ezcumshot
-'covered nipples, cameltoe':
+'(covered nipples, cameltoe:1.1)':
   Description:
     - Genitals under clothes
   Tags:
     - Particle
     - ezcovered
-'pussy, large clitoris, erect clitoris, {pussy juice|}':
+'(pussy, large clitoris, erect clitoris:1.1)':
   Description:
     - Pussy preset
   Tags:
     - Particle
     - ezpussy
-'{tiny|small|medium|large} penis, (erection:1.1)':
+'(pussy, large clitoris, erect clitoris, pussy juice:1.1)':
+  Description:
+    - Pussy preset
+  Tags:
+    - Particle
+    - ezpussy
+'tiny penis, (erection:1.1)':
   Description:
     - Penis sizes
   Tags:
     - Particle
     - ezpenis
     - hard
-'{tiny|small|medium|large} penis, (flaccid:1.1)':
+    - tiny
+    - lower
+'small penis, (erection:1.1)':
+  Description:
+    - Penis sizes
+  Tags:
+    - Particle
+    - ezpenis
+    - hard
+    - small
+    - lower
+'medium penis, (erection:1.1)':
+  Description:
+    - Penis sizes
+  Tags:
+    - Particle
+    - ezpenis
+    - hard
+    - medium
+    - lower
+    - middle
+'large penis, (erection:1.1)':
+  Description:
+    - Penis sizes
+  Tags:
+    - Particle
+    - ezpenis
+    - hard
+    - large
+    - middle
+    - upper
+'huge penis, (erection:1.1)':
+  Description:
+    - Penis sizes
+  Tags:
+    - Particle
+    - ezpenis
+    - hard
+    - huge
+    - upper
+'tiny penis, (flaccid:1.1)':
   Description:
     - Penis sizes
   Tags:
     - Particle
     - ezpenis
     - soft
+    - tiny
+    - lower
+'small penis, (flaccid:1.1)':
+  Description:
+    - Penis sizes
+  Tags:
+    - Particle
+    - ezpenis
+    - soft
+    - small
+    - lower
+'medium penis, (flaccid:1.1)':
+  Description:
+    - Penis sizes
+  Tags:
+    - Particle
+    - ezpenis
+    - soft
+    - medium
+    - lower
+    - middle
+'large penis, (flaccid:1.1)':
+  Description:
+    - Penis sizes
+  Tags:
+    - Particle
+    - ezpenis
+    - soft
+    - large
+    - middle
+    - upper
+'huge penis, (flaccid:1.1)':
+  Description:
+    - Penis sizes
+  Tags:
+    - Particle
+    - ezpenis
+    - soft
+    - huge
+    - upper
 '(futanari, dickgirl:1.3), <[ezpenis]>**(disembodied penis:1.5)**':
   Description:
     - Futanari Add-on
@@ -85,7 +186,7 @@
     - Particle
     - FutaAddon
     - ezfuta
-'(futanari, horse futanari, dickgirl, horse penis:1.3), <[ezpenis][hard]>**(disembodied penis, horse, animal ears:1.5)**':
+'(futanari, horse futanari, dickgirl, horse penis:1.3), <[ezpenis][hard][--lower]>**(disembodied penis, horse, animal ears:1.5)**':
   Description:
     - Horse futanari
   Tags:
@@ -93,7 +194,7 @@
     - FutaAddon
     - Beast
     - ezhorsefuta
-'(futanari, dog futanari, dickgirl, canine penis:1.3), sheath, knot, animal genitalia, <[ezpenis][hard]>**(disembodied penis, dog, sword, animal ears:1.5)**':
+'(futanari, dog futanari, dickgirl, canine penis:1.3), sheath, knot, animal genitalia, <[ezpenis][hard][--lower]>**(disembodied penis, dog, sword, animal ears:1.5)**':
   Description:
     - Dog futanari
   Tags:
@@ -101,7 +202,7 @@
     - FutaAddon
     - Beast
     - ezdogfuta
-'(futanari, dragon futanari, dickgirl, dragon penis:1.3), <[ezpenis]>**(disembodied penis, dragon:1.5)**':
+'(futanari, dragon futanari, dickgirl, dragon penis:1.3), <[ezpenis][hard][--lower]>**(disembodied penis, dragon:1.5)**':
   Description:
     - Dragon futanari
   Tags:
@@ -109,27 +210,27 @@
     - FutaAddon
     - Beast
     - ezdragonfuta
-'(futanari, robot futanari, dickgirl, robot penis, mechanical penis:1.3), <[ezpenis]>**(disembodied penis, robot, robot joints:1.5)**':
+'(futanari, robot futanari, dickgirl, robot penis, mechanical penis:1.3), <[ezpenis][--lower]>**(disembodied penis, robot, robot joints:1.5)**':
   Description:
     - Robot futanari
   Tags:
     - Particle
     - FutaAddon
     - ezrobotfuta
-'(strapon, __colors__ strapon:1.5), <[ezpenis][hard]>**(disembodied penis:1.5), (penis:1.3)**':
+'(strapon, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3)**':
   Description:
     - Strapon
   Tags:
     - Particle
     - FutaAddon
     - ezstrapon
-'[(strapon, __colors__ strapon:1.5), <[ezpenis][hard]>|(precum, chastity cage:1.5), <[ezpenis][soft]>]**(disembodied penis:1.5), (penis:1.3)**':
+'[(strapon, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>|(precum, chastity cage:1.5), <[ezpenis][soft][lower]>]**(disembodied penis:1.5), (penis:1.3)**':
   Description:
     - Strapon with Chastity
   Tags:
     - Particle
     - FutaAddon
-'<[FutaAddon][--Beast]>, (precum, chastity cage:1.5)':
+'(futanari, dickgirl:1.3), <[ezpenis][soft][--upper]>, (precum, chastity cage:1.5)':
   Description:
     - Futanari with Chastity
   Tags:
@@ -142,7 +243,7 @@
     - Particle
     - FutaAddon
     - ezmagicalfuta
-'(futanari, dickgirl, demon penis, demonic penis:1.3), glowing {red|purple} penis, <[ezpenis]>**(disembodied penis:1.5), demon, succubus**':
+'(futanari, dickgirl, demon penis, demonic penis:1.3), glowing {red|purple} penis, <[ezpenis]>**(disembodied penis, condom:1.5), (horns, demon horns, tail, demon tail, wings, demon wings:2.0)**':
   Description:
     - Demon Futanari Add-on
   Tags:
@@ -156,7 +257,7 @@
     - Particle
     - FutaAddon
     - Beast
-'(futanari, dickgirl, (robot penis, mechanical penis:1.5), dragon penis, <[ezpenis]>, precum, cum on penis, cum, cumshot:1.2)**(testicles, balls, full package:1.4)**':
+'(futanari, dickgirl, (robot penis, mechanical penis:1.5), dragon penis, <[ezpenis][--lower]>, precum, cum on penis, cum, cumshot:1.2)**(testicles, balls, full package:1.4)**':
   Description:
     - Mechagodzilla Futanari
   Tags:
@@ -253,7 +354,7 @@
   Tags:
     - Particle
     - MechagodzillaBase
-'outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, (nude:1.1), <[eznips]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), (cameltoe:0.7)**(bikini top, bra, female underwear, bikini bottom, panties:1.5), (pulled down pants, pulled down shorts, swim trunks on ground, holding swimwear:2.0), (beanie, hat, headwear, hair ornament:2.0)**':
+'outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, (nude:1.1), <[eznips]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), (cameltoe:0.7)**(bikini top, bra, female underwear, bikini bottom, panties:1.5), (pulled down pants, pulled down shorts, swim trunks on ground, holding swimwear, clothes pull:2.0), (beanie, hat, headwear, hair ornament:2.0)**':
   Description:
     - Swimwear Challenge Addon
   Tags:

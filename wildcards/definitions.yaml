@@ -91,7 +91,15 @@
   Tags:
     - Characters
     - Fighters
-'(__Characters/FiM__:1.3), {my little pony: friendship is magic|my little pony: equestria girls}, pony anthro':
+'(__Characters/FiM__:1.3), my little pony: friendship is magic, pony anthro':
+  Description:
+    - Friendship is Magic Characters
+  Tags:
+    - Characters
+    - FiM
+    - Pony
+    - Ponies
+'(__Characters/FiM__:1.3), my little pony: equestria girls, humanized**(pony anthro, anthro:1.5)**':
   Description:
     - Friendship is Magic Characters
   Tags:
