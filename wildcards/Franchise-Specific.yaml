@@ -328,3 +328,18 @@
     - MyPreset
     - 1girl
     - Futanari
+
+'NSFW, 1girl, <[characters][Species][SpecialKinds]>, <[Artists]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Species Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomSpeciesSpecial
+'<[RandomSpeciesSpecial]>, <[FutaAddon]>':
+  Description:
+    - Species Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
