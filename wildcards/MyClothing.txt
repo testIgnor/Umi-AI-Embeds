@@ -1,5 +1,5 @@
 nude, <[eznips]>
-functionally nude
+functionally nude, <[eznips]>
 fully clothed, skimpy clothes, <[ezcovered]>
 fully clothed, skimpy clothes
 virgin killer sweater, <[ezcovered]>, functionally nude
@@ -8,7 +8,7 @@ reverse bunnysuit, heart pasties, <[ezcovered]>, functionally nude
 reverse bunnysuit, functionally nude
 bunnysuit, <[ezcovered]>, functionally nude
 zero suit, <[ezcovered]>, fully clothed, tight clothes
-fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, pussy, (bottomless:1.2)
+fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, <[ezpussy]>, (bottomless:1.2)
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered]>
 fully clothed, wedding dress, bride, wedding
 fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered]>
@@ -39,7 +39,7 @@ naked overalls
 (painted clothes, false clothes, bodypaint:1.2), fully clothed, functionally nude, <[ezcovered]>
 naked raincoat
 business suit, tight clothes, <[ezcovered]>
-cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, pussy**(pom poms, holding pom poms,  pom \(cheerleading\):2.0)**
+cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, pussy**(holding pom poms, pom poms, pom \(cheerleading\):2.5)**
 open bra, sheer panties, see through panties, open panties
 see-through, ballerina, black thighhighs, <[ezcovered]>
 fully clothed, loose dress gown, covered nipples, pussy
@@ -54,3 +54,6 @@ monokini
 (fully clothed, __colors__ china dress, qipao:1.3), long dress, <[ezcovered]>
 maid, maid uniform, maid headdress, maid apron
 maid, maid uniform, maid headdress, maid apron, <[ezcovered]>
+chastity belt
+topless, <[eznips]>
+open dress, <[eznips]>
