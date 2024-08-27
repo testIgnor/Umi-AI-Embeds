@@ -17,7 +17,7 @@ functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white l
 fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered]>
 fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered]>
 fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
-wedding dress, (painted clothes, false clothes, white bodypaint:1.2), fully clothed, functionally nude, <[ezcovered]>
+(wedding dress:0.7), (painted clothes, false clothes, white bodypaint, painted on wedding dress:1.2), fully clothed, functionally nude, <[ezcovered]>**(skirt, bridal veil:2.0)**
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered]>
 fully clothed, kimono
 loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear

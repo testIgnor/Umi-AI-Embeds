@@ -284,6 +284,20 @@
     - 1girl
     - Futanari
 
+'NSFW, 1girl, <[characters][RWBY]>, <[Artists]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random RWBY Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomRWBY
+'<[RandomRWBY]>, <[FutaAddon][--Beast]>':
+  Description:
+    - RWBY Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
 'NSFW, 1girl, <[characters][Vocaloid]>, <[Artists]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Vocaloid Character

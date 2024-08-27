@@ -24,3 +24,4 @@ vampire
 knight, female knight, female holy knight, paladin**(plate, helmet, headwear, hat:2.0), (holding, weapon, sword, spear, shield:1.7)**
 maid
 centaur
+nekomata
