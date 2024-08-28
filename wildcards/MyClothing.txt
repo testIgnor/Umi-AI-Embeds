@@ -57,3 +57,5 @@ maid, maid uniform, maid headdress, maid apron, <[ezcovered]>
 chastity belt
 topless, <[eznips]>
 open dress, <[eznips]>
+magical girl, magical girl costume
+dark magical girl, corrupted magical girl costume, corruption, corrupt girl
