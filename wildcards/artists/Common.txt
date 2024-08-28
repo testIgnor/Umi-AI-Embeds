@@ -1,5 +1,26 @@
-(by dandon fuga:1.3)
-(by [dandon fuga|sakimichan]:1.3)
-(by andava:1.3)
-(by ponpu:1.3)
-(by [andava|ponpu]:1.3)
+by dandon fuga
+by [dandon fuga|sakimichan]
+by andava
+by ponpu
+by [andava|ponpu]
+(by [personal ami|personal ami, (aroma sensei:0.5)]:1.3) <lora:ALTXL_pony_0061_8:1>**(long torso:2.0)**
+by realjohndoe, john doe
+by cutesexyrobutts
+by dosh
+by utterangle
+by redwolfxiii
+by goonie-san
+by tril-mizzrim
+by photonoko
+by nelly63
+by chunie
+by nowandlater
+by domasarts
+by seibear
+by maldu
+by hinar miler
+by notglacier
+by kluclew
+by redvais
+by dafka
+by romarom
