@@ -25,3 +25,4 @@ knight, female knight, female holy knight, paladin**(plate, helmet, headwear, ha
 maid
 centaur
 nekomata
+valkyrie
