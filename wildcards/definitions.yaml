@@ -239,7 +239,7 @@
   Tags:
     - Artists
     - Common
-'[<[Artists]>|<[Artists]>]':
+'[<[Artists]>|<[Artists][--3D]>]':
   Description:
     - Blend Random Artist Names for LoRA
   Tags:
