@@ -15,8 +15,9 @@ bayonetta
 paya \(zelda\)
 purah
 krystal, fox anthro
-princess ruto
+princess ruto <lora:Ruto_Zelda_P1:1>
 great fairy \(zelda\)**(princess zelda, malon, cremia, romani \(zelda\), midna, linkle:1.7)**
 isabelle \(animal crossing\)
 raymond \(animal crossing\)
 ankha \(animal crossing\)
+riju, aaRiju, dark skin, <lora:Riju_Zelda_TotK_P1:1>
