@@ -21,3 +21,4 @@ isabelle \(animal crossing\)
 raymond \(animal crossing\)
 ankha \(animal crossing\)
 riju, aaRiju, dark skin, <lora:Riju_Zelda_TotK_P1:1>
+nabooru, zzNabooru, dark skin, long pony tail <lora:Nabooru_P1:1>

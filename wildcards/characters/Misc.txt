@@ -78,3 +78,5 @@ gwen tennyson
 harvest goddess \(harvest moon\), goddess, holy, divinity
 virgin mary, the virgin mary, goddess, holy, divinity
 amaterasu \(ookami\), ammy \(ookami\)
+AnubisCitronOC, dark skin, black hair, yellow eyes <lora:Anubis_Citron_OC_P1:1>
+Morathi, elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <lora:Morathi3216XL:1>
