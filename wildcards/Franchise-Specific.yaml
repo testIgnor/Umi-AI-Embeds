@@ -14,6 +14,21 @@
     - 1girl
     - Futanari
 
+'NSFW, 1girl, <[characters][ATLA]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random ATLA Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomATLA
+'<[RandomATLA]>, <[FutaAddon][--Beast]>':
+  Description:
+    - ATLA Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
 'NSFW, 1girl, <[characters][Azur Lane]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Azur Lane Character
@@ -59,6 +74,21 @@
     - 1girl
     - Futanari
 
+'NSFW, 1girl, <[characters][Digimon]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Digimon Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomDigimon
+'<[RandomDigimon]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Digimon Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
 'NSFW, 1girl, <[characters][Disney]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Disney Character
@@ -74,7 +104,37 @@
     - 1girl
     - Futanari
 
-'NSFW, 1girl, <[characters][Evangelion]>, <[Artists][--3D]>, <[ezage][--upper]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Dragon Quest]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Dragon Quest Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomDragon Quest
+'<[RandomDragon Quest]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Dragon Quest Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
+'NSFW, 1girl, <[characters][Dragonball]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Dragonball Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomDragonball
+'<[RandomDragonball]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Dragonball Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
+'NSFW, 1girl, <[characters][Evangelion]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Evangelion Character
   Tags:
@@ -164,7 +224,7 @@
     - 1girl
     - Futanari
 
-'NSFW, 1girl, <[characters][LiS]>, <[Artists][--3D]>, <[ezage][lower]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][LiS]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random LiS Character
   Tags:
@@ -194,7 +254,7 @@
     - 1girl
     - Futanari
 
-'NSFW, 1girl, <[characters][MahoAko]>, <[Artists][--3D]>, <[ezage][lower]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][MahoAko]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random MahoAko Character
   Tags:
@@ -224,6 +284,36 @@
     - 1girl
     - Futanari
 
+'NSFW, 1girl, <[characters][Naruto]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Naruto Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomNaruto
+'<[RandomNaruto]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Naruto Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
+'NSFW, 1girl, <[characters][Nier]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Nier Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomNier
+'<[RandomNier]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Nier Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
 'NSFW, 1girl, <[characters][Nintendo]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Nintendo Character
@@ -239,7 +329,7 @@
     - 1girl
     - Futanari
 
-'NSFW, 1girl, <[characters][Overwatch]>, <[Artists][--3D]>, <[ezage][middle]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Overwatch]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Overwatch Character
   Tags:
@@ -254,7 +344,7 @@
     - 1girl
     - Futanari
 
-'NSFW, 1girl, <[characters][Persona]>, <[Artists][--3D]>, <[ezage][lower]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Persona]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Persona Character
   Tags:
@@ -284,6 +374,21 @@
     - 1girl
     - Futanari
 
+'NSFW, 1girl, <[characters][Resident Evil]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Resident Evil Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomResident Evil
+'<[RandomResident Evil]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Resident Evil Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
 'NSFW, 1girl, <[characters][RWBY]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random RWBY Character
@@ -298,6 +403,52 @@
     - MyPreset
     - 1girl
     - Futanari
+
+'NSFW, 1girl, <[characters][She-ra]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random She-ra Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomShe-ra
+'<[RandomShe-ra]>, <[FutaAddon][--Beast]>':
+  Description:
+    - She-ra Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
+'NSFW, 1girl, <[characters][Splatoon]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Splatoon Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomSplatoon
+'<[RandomSplatoon]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Splatoon Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
+'NSFW, 1girl, <[characters][Upsample]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Upsample Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomUpsample
+'<[RandomUpsample]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Upsample Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
 'NSFW, 1girl, <[characters][Vocaloid]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Vocaloid Character
@@ -308,6 +459,21 @@
 '<[RandomVocaloid]>, <[FutaAddon][--Beast]>':
   Description:
     - Vocaloid Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
+'NSFW, 1girl, <[characters][Witcher]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Witcher Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomWitcher
+'<[RandomWitcher]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Witcher Futa
   Tags:
     - MyPreset
     - 1girl
@@ -328,31 +494,31 @@
     - 1girl
     - Futanari
 
-'NSFW, 1girl, <[characters][Species]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][MySpecies]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Random Species Character
+    - Random MySpecies Character
   Tags:
     - MyPreset
     - 1girl
-    - RandomSpecies
-'<[RandomSpecies]>, <[FutaAddon]>':
+    - RandomMySpecies
+'<[RandomMySpecies]>, <[FutaAddon][--Beast]>':
   Description:
-    - Species Futa
+    - MySpecies Futa
   Tags:
     - MyPreset
     - 1girl
     - Futanari
 
-'NSFW, 1girl, <[characters][Species][SpecialKinds]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Special Kinds]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Random Species Character
+    - Random Special Kinds Character
   Tags:
     - MyPreset
     - 1girl
-    - RandomSpeciesSpecial
-'<[RandomSpeciesSpecial]>, <[FutaAddon]>':
+    - RandomSpecial Kinds
+'<[RandomSpecial Kinds]>, <[FutaAddon][--Beast]>':
   Description:
-    - Species Futa
+    - Special Kinds Futa
   Tags:
     - MyPreset
     - 1girl

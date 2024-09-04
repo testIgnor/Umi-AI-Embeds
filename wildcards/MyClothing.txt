@@ -61,3 +61,4 @@ magical girl, magical girl costume
 dark magical girl, corrupted magical girl costume, corruption, corrupt girl
 bondage outfit, bondage clothing, HDA_BondageOutfitXL
 biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered]>**(helmet, headwear, hat:2.0)**
+harem outfit
