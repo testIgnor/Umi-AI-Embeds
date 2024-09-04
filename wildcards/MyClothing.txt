@@ -17,7 +17,7 @@ functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white l
 fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered]>
 fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered]>
 fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
-(wedding dress:0.7), (painted clothes, false clothes, white bodypaint, painted on wedding dress:1.2), fully clothed, functionally nude, <[ezcovered]>**(skirt, bridal veil:2.0)**
+(wedding dress:0.7), (painted clothes, false clothes, painted on wedding dress:1.2), fully clothed, functionally nude, <[ezcovered]>**(skirt, bridal veil:2.0)**
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered]>
 fully clothed, kimono
 loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear
@@ -36,10 +36,10 @@ naked jacket
 naked hoodie
 naked kimono
 naked overalls
-(painted clothes, false clothes, bodypaint:1.2), fully clothed, functionally nude, <[ezcovered]>
+(painted clothes, false clothes:1.2), fully clothed, functionally nude, <[ezcovered]>
 naked raincoat
 business suit, tight clothes, <[ezcovered]>
-cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, pussy**(holding pom poms, pom poms, pom \(cheerleading\):2.5)**
+cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, pussy
 open bra, sheer panties, see through panties, open panties
 see-through, ballerina, black thighhighs, <[ezcovered]>
 fully clothed, loose dress gown, covered nipples, pussy
@@ -47,7 +47,7 @@ fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume
 <[ezMaleSwimwearChallenge]>
 fully clothed, impossible clothes, <[ezcovered]>
 fully clothed, impossible clothes
-sling bikini, <[ezcovered]>
+sling bikini, slingshot swimsuit, <[ezcovered]>
 monokini
 (heavy armor, fully clothed, armor:1.2), <[ezcovered]>**(plate, helmet, headwear, hat:2.0), (holding, weapon, sword, spear, shield:1.7)**
 (fully clothed, __colors__ kimono, kimono:1.3), long dress, <[ezcovered]>
@@ -60,3 +60,4 @@ open dress, <[eznips]>
 magical girl, magical girl costume
 dark magical girl, corrupted magical girl costume, corruption, corrupt girl
 bondage outfit, bondage clothing, HDA_BondageOutfitXL
+biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered]>**(helmet, headwear, hat:2.0)**
