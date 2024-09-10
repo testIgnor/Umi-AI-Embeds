@@ -39,10 +39,10 @@ naked overalls
 (painted clothes, false clothes:1.2), fully clothed, functionally nude, <[ezcovered]>
 naked raincoat
 business suit, tight clothes, <[ezcovered]>
-cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, pussy
-open bra, sheer panties, see through panties, open panties
+cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezpussy]>, (bottomless:1.2)
+nippleless bra, crotchless panties, sheer panties, see through panties
 see-through, ballerina, black thighhighs, <[ezcovered]>
-fully clothed, loose dress gown, covered nipples, pussy
+fully clothed, loose dress gown, covered nipples, <[ezpussy]>, (bottomless:1.2)
 fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume
 <[ezMaleSwimwearChallenge]>
 fully clothed, impossible clothes, <[ezcovered]>
@@ -62,3 +62,4 @@ dark magical girl, corrupted magical girl costume, corruption, corrupt girl
 bondage outfit, bondage clothing, HDA_BondageOutfitXL
 biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered]>**(helmet, headwear, hat:2.0)**
 harem outfit
+tight t-shirt, wet t-shirt, short shorts, <[ezcovered]>
