@@ -41,6 +41,9 @@ naked raincoat
 business suit, tight clothes, <[ezcovered]>
 cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezpussy]>, (bottomless:1.2)
 nippleless bra, crotchless panties, sheer panties, see through panties
+cupless bra, crotchless panties, sheer panties, see through panties
+nippleless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
+cupless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
 see-through, ballerina, black thighhighs, <[ezcovered]>
 fully clothed, loose dress gown, covered nipples, <[ezpussy]>, (bottomless:1.2)
 fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume

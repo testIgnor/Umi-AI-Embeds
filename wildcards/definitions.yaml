@@ -34,7 +34,7 @@
   Tags:
     - Location
     - MyLocation
-'(__Species/Species__:1.3)**(hair, hat, headwear:2.0)**':
+'(__Species/MySpecies__:1.3)**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
