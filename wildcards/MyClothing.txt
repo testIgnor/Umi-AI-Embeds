@@ -42,6 +42,8 @@ business suit, tight clothes, <[ezcovered]>
 cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezpussy]>, (bottomless:1.2)
 nippleless bra, crotchless panties, sheer panties, see through panties
 cupless bra, crotchless panties, sheer panties, see through panties
+nippleless bra, crotchless panties, sheer panties, see through panties, condom belt
+cupless bra, crotchless panties, sheer panties, see through panties, condom belt
 nippleless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
 cupless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
 see-through, ballerina, black thighhighs, <[ezcovered]>
@@ -58,6 +60,8 @@ monokini
 maid, maid uniform, maid headdress, maid apron
 maid, maid uniform, maid headdress, maid apron, <[ezcovered]>
 chastity belt
+chastity belt, topless
+bottomless
 topless, <[eznips]>
 open dress, <[eznips]>
 magical girl, magical girl costume
