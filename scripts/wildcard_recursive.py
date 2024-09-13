@@ -36,6 +36,8 @@ UsageGuide = """
                     * `<[tag1|tag2]>` will pick a random item from yaml files in wildcard folder with `tag1` **or** `tag2`
                     * `<[--tag]>` will pick a random item from yaml files in wildcard folder that does not have the given `tag`
                     * `<file:[tag]>` will pick a random item from yaml file `file`.yaml in wildcard folder with given tag
+                    * `$#expression;key#$` will save the result of `expression` to be recalled with key `key` (note usage of semicolon `;`)
+                    * `$#key#$` recalls the expression with key `key`
                     
                     ### Settings override
                     * `@@width=512, height=768@@` will set the width of the image to be `512` and height to be `768`. 
@@ -417,6 +419,24 @@ class PromptGenerator:
 
         return prompt
 
+    def prompt_memory_replace(self, prompt, memory_dict={}):
+        p = prompt
+        memory_regex = re.compile('((__|\$\#)(.*?)(__|\#\$))')
+        # match regex for $#foo;bar#$ here
+        results = memory_regex.findall(p)
+        for result in results:
+            match = result[2]
+            match_and_key = match.split(';')
+            # this is a value key combination
+            if len(match_and_key) == 2:
+                memory_dict.update( {match_and_key[1]: match_and_key[0]} )
+                p = p.replace(result[0], match_and_key[0])
+            # this is just a key
+            else:
+                sub = memory_dict[match_and_key[0]]
+                p = p.replace(result[0], sub)
+        return p, memory_dict
+
     def generate_single_prompt(self, original_prompt):
         previous_prompt = original_prompt
         start = time.time()
@@ -455,7 +475,7 @@ class NegativePromptGenerator:
         return self.strip_negative_tags(prompt)
 
     def get_negative_tags(self):
-        return " ".join(self.negative_tag)
+        return ", ".join(self.negative_tag)
 
 
 # @@settings@@ notation
@@ -603,6 +623,7 @@ class Script(scripts.Script):
                 prompt_generator.negative_tag_generator.negative_tag = set()
 
                 prompt = prompt_generator.generate_single_prompt(original_prompt)
+                prompt, memory_dict = prompt_generator.prompt_memory_replace(prompt)
                 p.all_prompts[index] = prompt
                 if hr_fix_enabled:
                     p.all_hr_prompts[index] = prompt
@@ -610,6 +631,8 @@ class Script(scripts.Script):
                 if debug: print(f'Prompt: "{prompt}"')
 
                 negative = original_negative_prompt
+                negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
+                negative += ', '
                 if negative_prompt and hasattr(p, "all_negative_prompts"): # hasattr to fix crash on old webui versions
                     negative += prompt_generator.get_negative_tags()
                     p.all_negative_prompts[index] = negative
