@@ -509,6 +509,21 @@
     - 1girl
     - Futanari
 
+'NSFW, 1girl, <[characters][Royalty]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Royalty Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomRoyalty
+'<[RandomRoyalty]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Royalty Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+
 'NSFW, 1girl, <[characters][Special Kinds]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Special Kinds Character

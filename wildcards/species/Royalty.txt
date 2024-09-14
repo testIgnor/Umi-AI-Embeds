@@ -1,0 +1,21 @@
+queen
+princess
+princess, egyptian pharaoh, egyptian princess
+queen, egyptian pharaoh, egyptian queen
+priestess, egyptian priestess
+priestess
+princess, european princess
+queen, european queen
+princess, african princess
+queen, african queen
+princess, asian princess
+queen, asian queen
+empress, asian empress
+empress, roman empress
+princess, warrior princess
+queen, warrior queen
+prince, (genderswap:1.5)
+king, (genderswap:1.5)
+emperor, (genderswap:1.5)
+duchess
+countess

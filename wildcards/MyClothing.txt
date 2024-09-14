@@ -10,6 +10,7 @@ bunnysuit, <[ezcovered]>, functionally nude
 zero suit, <[ezcovered]>, fully clothed, tight clothes
 fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, <[ezpussy]>, (bottomless:1.2)
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered]>
+fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered]>
 fully clothed, wedding dress, bride, wedding
 fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered]>
 functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered]>
@@ -42,8 +43,8 @@ business suit, tight clothes, <[ezcovered]>
 cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezpussy]>, (bottomless:1.2)
 nippleless bra, crotchless panties, sheer panties, see through panties
 cupless bra, crotchless panties, sheer panties, see through panties
-nippleless bra, crotchless panties, sheer panties, see through panties, condom belt
-cupless bra, crotchless panties, sheer panties, see through panties, condom belt
+nippleless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom
+cupless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom
 nippleless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
 cupless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
 see-through, ballerina, black thighhighs, <[ezcovered]>
@@ -67,6 +68,13 @@ open dress, <[eznips]>
 magical girl, magical girl costume
 dark magical girl, corrupted magical girl costume, corruption, corrupt girl
 bondage outfit, bondage clothing, HDA_BondageOutfitXL
+dominatrix outfit, bondage outfit, bondage clothing
 biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered]>**(helmet, headwear, hat:2.0)**
 harem outfit
 tight t-shirt, wet t-shirt, short shorts, <[ezcovered]>
+shibari
+shibari under clothes, see-through clothes, <[ezcovered]>
+shibari over clothes, <[ezcovered]>
+fully clothed, ballroom gown
+fully clothed, dress
+fully clothed, formal dress
