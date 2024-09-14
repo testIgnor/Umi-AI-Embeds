@@ -1,13 +1,13 @@
 queen
 princess
-princess, egyptian pharaoh, egyptian princess
-queen, egyptian pharaoh, egyptian queen
-priestess, egyptian priestess
+princess, egyptian pharaoh, egyptian princess, dark skin
+queen, egyptian pharaoh, egyptian queen, dark skin
+priestess, egyptian priestess, dark skin
 priestess
 princess, european princess
 queen, european queen
-princess, african princess
-queen, african queen
+princess, african princess, dark skin
+queen, african queen, dark skin
 princess, asian princess
 queen, asian queen
 empress, asian empress
