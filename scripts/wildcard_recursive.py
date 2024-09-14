@@ -566,6 +566,10 @@ class Script(scripts.Script):
                                           value=False, 
                                           elem_id=elemid_prefix + "verbose",
                                           tooltip="Displays UmiAI log messages. Useful when prompt crafting, or debugging file-path errors.")
+                    debug = gr.Checkbox(label="Debug logging", 
+                                          value=False, 
+                                          elem_id=elemid_prefix + "debug",
+                                          tooltip="Displays UmiAI debugging logs.")
                     negative_prompt = gr.Checkbox(label='**negative keywords**', 
                                                   value=True,
                                                   elem_id=elemid_prefix + "negative-keywords", 
@@ -578,15 +582,13 @@ class Script(scripts.Script):
             with gr.Tab("Usage"):
                 gr.Markdown(UsageGuide)
 
-        return [enabled, verbose, cache_files, ignore_folders, same_seed, negative_prompt, shared_seed,
+        return [enabled, verbose, cache_files, ignore_folders, same_seed, negative_prompt, shared_seed, debug
                 ]
 
     def process(self, p, enabled, verbose, cache_files, ignore_folders, same_seed, negative_prompt,
-                shared_seed, *args):
+                shared_seed, debug=False, *args):
         if not enabled:
             return
-
-        debug = False
 
         if debug: print(f'\nModel: {p.sampler_name}, Seed: {int(p.seed)}, Batch Count: {p.n_iter}, Batch Size: {p.batch_size}, CFG: {p.cfg_scale}, Steps: {p.steps}\nOriginal Prompt: "{p.prompt}"\nOriginal Negatives: "{p.negative_prompt}"\n')
         
@@ -629,12 +631,11 @@ class Script(scripts.Script):
                     p.all_hr_prompts[index] = prompt
 
                 if debug: print(f'Prompt: "{prompt}"')
-
+                if debug: print(f'Memory dict:\n{memory_dict}')
                 negative = original_negative_prompt
-                negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
-                negative += ', '
                 if negative_prompt and hasattr(p, "all_negative_prompts"): # hasattr to fix crash on old webui versions
                     negative += prompt_generator.get_negative_tags()
+                    negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
                     p.all_negative_prompts[index] = negative
                     if hr_fix_enabled:
                         p.all_hr_negative_prompts[index] = negative
