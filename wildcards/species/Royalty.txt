@@ -19,3 +19,4 @@ king, (genderswap:1.5)
 emperor, (genderswap:1.5)
 duchess
 countess
+princess, knight, princess knight, female knight, female holy knight, paladin
