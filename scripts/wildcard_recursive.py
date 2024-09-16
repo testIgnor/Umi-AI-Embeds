@@ -433,8 +433,11 @@ class PromptGenerator:
                 p = p.replace(result[0], match_and_key[0])
             # this is just a key
             else:
-                sub = memory_dict[match_and_key[0]]
-                p = p.replace(result[0], sub)
+                try:
+                    sub = memory_dict[match_and_key[0]]
+                    p = p.replace(result[0], sub)
+                except KeyError as e:
+                    print(f'\nWARNING: key {match_and_key[0]} referenced before assignment.\nkey {match_and_key[0]} will NOT be replaced!\n')
         return p, memory_dict
 
     def generate_single_prompt(self, original_prompt):
