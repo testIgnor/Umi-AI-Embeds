@@ -186,6 +186,10 @@ class TagSelector:
         self.selected_options = dict(options).get('selected_options', {})
         self.verbose = dict(options).get('verbose', False)
         self.cache_files = dict(options).get('cache_files', True)
+        self.used_tags = set()
+    
+    def get_used_tags(self):
+        return self.used_tags
     
     def select_value_from_candidates(self, candidates):
         if len(candidates) == 1:
@@ -244,6 +248,7 @@ class TagSelector:
                     continue
             candidates.append(tag)
         if len(candidates) > 0:
+            self.used_tags = self.used_tags.union(pos_groups_set)
             if self.verbose:
                 print(
                     f'UmiAI: Found {len(candidates)} candidates for "{parsed_tag}" with tags: {groups}, first 10: {candidates[:10]}'
@@ -307,6 +312,12 @@ class TagReplacer:
     def replace_wildcard_recursive(self, prompt):
         p = self.wildcard_regex.sub(self.replace_wildcard, prompt)
         while p != prompt:
+            # todo: parse if-then logic here
+            #print('\n\n\n')
+            #print('Before regex sub')
+            #print(self.tag_selector.get_used_tags())
+            #print('\n\n\n')
+            # self.parse_if-then_logic
             prompt = p
             p = self.wildcard_regex.sub(self.replace_wildcard, prompt)
 
