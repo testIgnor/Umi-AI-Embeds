@@ -631,7 +631,10 @@ class Script(scripts.Script):
                     p.all_hr_prompts[index] = prompt
 
                 if debug: print(f'Prompt: "{prompt}"')
-                if debug: print(f'Memory dict:\n{memory_dict}')
+                if debug: 
+                    print('Dumping Memory dict:\n')
+                    for key in memory_dict.keys():
+                        print(f'key: {key}\tvalue: {memory_dict[key]}')
                 negative = original_negative_prompt
                 if negative_prompt and hasattr(p, "all_negative_prompts"): # hasattr to fix crash on old webui versions
                     negative += prompt_generator.get_negative_tags()
