@@ -17,8 +17,8 @@ makoto \(street fighter\)
 menat
 rainbow mika
 kasugano sakura
-bridget \(guilty gear\)**(hat, headwear, hair ornament, glasses, goggles, holding, weapon, gun, sword, spear, staff:2.0)**
-may \(guilty gear\)**(hat, headwear, hair ornament, glasses, goggles, holding, weapon, gun, sword, spear, staff:2.0)**
+bridget \(guilty gear\)**(hat, headwear, hair ornament, glasses, goggles, holding, weapon:2.0)**
+may \(guilty gear\)**(hat, headwear, hair ornament, glasses, goggles, holding, weapon:2.0)**
 elphelt valentine
 platinum the trinity
 giovanna \(guilty gear\)
