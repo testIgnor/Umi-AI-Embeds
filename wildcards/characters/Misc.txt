@@ -6,7 +6,7 @@ yamamura sadako
 kitten \(gravity daze\)
 crow \(gravity daze\)**(crow, bird:2.0)**
 mechagodzilla, <[MechagodzillaCharacter]>
-godzilla, genderswap, (scalie:1.3)**(human, car, vehicle:1.7)**
+godzilla, genderswap, (scalie:1.3)**(human, car, vehicle:2.0)**
 taylor swift
 billie eilish
 lady gaga
@@ -28,3 +28,5 @@ virgin mary, the virgin mary, goddess, holy, divinity
 amaterasu \(ookami\), ammy \(ookami\)
 AnubisCitronOC, dark skin, black hair, yellow eyes <lora:Anubis_Citron_OC_P1:1>
 Morathi, elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <lora:Morathi3216XL:1>
+jarl elisif the fair, elleJarl, the elder scrolls v: skyrim, orange hair, single braid, long hair
+valerie the adventurer, valAdventurer, the elder scrolls v: skyrim, brown hair, short hair, athletic female
