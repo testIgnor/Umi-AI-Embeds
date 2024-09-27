@@ -79,3 +79,4 @@ fully clothed, ballroom gown
 fully clothed, dress
 fully clothed, formal dress
 official outfit, official style, original outfit, original style
+ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered]>
