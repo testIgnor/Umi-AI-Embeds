@@ -10,5 +10,6 @@ siren \(final fantasy\)
 garuda \(final fantasy\)
 hydaelyn \(final fantasy\)
 tsukuyomi \(final fantasy\)
-lightning farron, claire farron
+lightning farron, claire farron, eclaire farron
 serah farron
+lumina farron, {serah farron|lightning farron, claire farron, eclaire farron}

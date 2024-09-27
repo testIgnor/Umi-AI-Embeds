@@ -274,3 +274,10 @@
     - 2girls
     - LegacyPrompt
     - ElsAnna
+'NSFW, (1girl:1.5), princess, princess, <[artists][--3D]>, <[ezage][lower]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <[imageformat][cowboyshot]>, <[MyLocation]>, solo, (nude:1.3), regal, elegant, royal family, royal, crown, tiara <lora:PDXL_artist_tags_v2_big:0.5> ADDCOMM ($#princess, european princess, light-skinned female, light skin, blonde hair;character1#$:1.5) ADDCOL ($#princess, african princess, dark-skinned female, dark skin, black hair;character2#$:1.5)**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines:2.0), (anthro, animal ears, tail:2.0), (evil, ugly, holding:1.7), ADDCOMM ($#character2#$:2.0) ADDCOL ($#character1#$:2.0)**':
+  Description:
+    - Half Princess
+  Tags:
+    - MyPreset
+    - 1girl
+    - LegacyPrompt
