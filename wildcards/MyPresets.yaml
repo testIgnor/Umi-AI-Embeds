@@ -220,6 +220,13 @@
     - MyPreset
     - 1girl
     - Pregnant
+"<[FranchisePreset]>, <[ezpreg]>":
+  Description:
+    - Franchise with Pregnancy
+  Tags:
+    - MyPreset
+    - 1girl
+    - Pregnant
 '<[2girlsbase]> <[ezage]>, ADDCOMM, $#<[characters]>;character1#$, $#<[myclothing]>;clothes1#$ ADDCOL $#<[characters]>;character2#$, $#<[myclothing]>;clothes2#$**ADDCOMM $#character2#$, $#clothes2#$ ADDCOL $#character1#$, $#clothes1#$**':
   Description:
     - Random 2 girls
