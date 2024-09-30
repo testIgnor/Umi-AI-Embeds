@@ -60,6 +60,14 @@ monokini
 (fully clothed, __colors__ china dress, qipao:1.3), long dress, <[ezcovered]>
 maid, maid uniform, maid headdress, maid apron
 maid, maid uniform, maid headdress, maid apron, <[ezcovered]>
+unconventional maid, maid bikini
+unconventional maid, jersey maid
+unconventional maid, maid leotard
+unconventional maid, maid one-piece swimsuit
+unconventional maid, yuino maid dress
+unconventional maid, tactical maid
+unconventional maid, wa maid, traditional japanese maid
+unconventional maid
 chastity belt
 chastity belt, topless
 bottomless
