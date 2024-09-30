@@ -49,7 +49,7 @@
     - Particle
     - eznips
     - Inverted
-'<[eznips]>, lactation, milky breasts, (pregnant:1.2)':
+'lactation, milky breasts, (pregnant:1.2)':
   Description:
     - Pregnant addon
   Tags:
@@ -67,6 +67,20 @@
   Tags:
     - Particle
     - ezcumshot
+'(after sex, cum in mouth, facial, after fellatio, cum on breasts, after paizuri, cum on body:1.1)':
+  Description:
+    - Facial
+  Tags:
+    - Particle
+    - ezfacial
+    - ezaftersex
+'(after sex, cum in pussy, creampie, cum on ass, cum on body, cum:1.1)**(pie:2.0)**':
+  Description:
+    - Creampie
+  Tags:
+    - Particle
+    - ezcreampie
+    - ezaftersex
 '(covered nipples, covered genitals, genitals under clothes:1.1)':
   Description:
     - Genitals under clothes
