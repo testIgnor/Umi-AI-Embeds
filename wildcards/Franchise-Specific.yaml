@@ -560,6 +560,23 @@
     - Futanari
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Demons]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Demons Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomDemons
+    - FranchisePreset
+'<[RandomDemons]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Demons Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][MySpecies]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random MySpecies Character
@@ -571,6 +588,23 @@
 '<[RandomMySpecies]>, <[FutaAddon][--Beast]>':
   Description:
     - MySpecies Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Robots]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Robots Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomRobots
+    - FranchisePreset
+'<[RandomRobots]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Robots Futa
   Tags:
     - MyPreset
     - 1girl
