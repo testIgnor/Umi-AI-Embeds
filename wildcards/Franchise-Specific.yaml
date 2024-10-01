@@ -305,6 +305,23 @@
     - Futanari
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Masss Effect]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Masss Effect Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomMasss Effect
+    - FranchisePreset
+'<[RandomMasss Effect]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Masss Effect Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][Misc]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Misc Character
@@ -588,6 +605,23 @@
 '<[RandomMagical Girls]>, <[FutaAddon][--Beast]>':
   Description:
     - Magical Girls Futa
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Mass Effect Aliens]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[myclothing]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Mass Effect Aliens Character
+  Tags:
+    - MyPreset
+    - 1girl
+    - RandomMass Effect Aliens
+    - FranchisePreset
+'<[RandomMass Effect Aliens]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Mass Effect Aliens Futa
   Tags:
     - MyPreset
     - 1girl
