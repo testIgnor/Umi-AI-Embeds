@@ -88,3 +88,8 @@ fully clothed, dress
 fully clothed, formal dress
 official outfit, official style, original outfit, original style
 ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered]>
+tied shirt
+crop top
+crop top, tied shirt
+front-tie top
+crop top, front-tie top
