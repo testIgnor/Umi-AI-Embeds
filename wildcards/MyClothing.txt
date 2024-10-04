@@ -94,3 +94,4 @@ crop top, tied shirt
 front-tie top
 crop top, front-tie top
 race queen, race queen outfit
+tribal clothing, tribal outfit
