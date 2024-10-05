@@ -95,3 +95,4 @@ front-tie top
 crop top, front-tie top
 race queen, race queen outfit
 tribal clothing, tribal outfit
+backless dress, sleevless dress, loose dress, (areola slip:1.2)

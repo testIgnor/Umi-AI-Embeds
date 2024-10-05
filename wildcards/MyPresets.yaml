@@ -5,6 +5,7 @@
     - CharacterPreset
     - MyPreset
     - RandomLoli
+    - Lower
     - 1girl
 'NSFW, 1girl, <[characters]>, <[Artists][--3D]>, <[ezage][teen]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[ImageFormat]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
@@ -13,6 +14,8 @@
     - CharacterPreset
     - MyPreset
     - RandomTeen
+    - Lower
+    - Middle
     - 1girl
 'NSFW, 1girl, <[characters]>, <[Artists][--3D]>, <[ezage][adult]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[ImageFormat]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
@@ -21,6 +24,8 @@
     - CharacterPreset
     - MyPreset
     - RandomWoman
+    - Middle
+    - Upper
     - 1girl
 'NSFW, 1girl, <[characters]>, <[Artists][--3D]>, <[ezage][mature]>, milf, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[ImageFormat]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
   Description:
@@ -29,6 +34,16 @@
     - CharacterPreset
     - MyPreset
     - RandomUpper
+    - Upper
+    - 1girl
+'<[RandomUpper]>, (pinup, exhibitionism:1.1), <[eznips]>, pussy juice, {pubic hair,|} {armpit hair|}':
+  Description:
+    - Random Milf
+  Tags:
+    - CharacterPreset
+    - MyPreset
+    - RandomMilf
+    - Upper
     - 1girl
 '<[RandomLoli]>, <[FutaAddon]>':
   Description:
@@ -104,125 +119,33 @@
     - MyPreset
     - RandomAfterFella
     - 1girl
-'<[CharacterPreset]>, (at a rave, in a night club, rave, neon:1.3), {(goth:1.5),|} (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), (tattoo:1.3), <[ezcovered]>, <[eznips]>, <[ezpussy]>, navel, <[AllPiercings]>':
-  Description:
-    - Random Rave
-  Tags:
-    - MyPreset
-    - RandomRave
-    - 1girl
-    - Rave
-'<[CharacterPreset][--Futanari]>, <[ezMaleSwimwearChallenge]>':
-  Description:
-    - Random Male Swimwear Challenge
-  Tags:
-    - MyPreset
-    - RandomSwimwearChallenge
-    - 1girl
-    - MaleSwimwearChallenge
-'<[RandomLoli]>, <[ezMaleSwimwearChallenge]>':
-  Description:
-    - Random Loli Male Swimwear Challenge
-  Tags:
-    - MyPreset
-    - RandomSwimwearChallengeLoli
-    - 1girl
-    - MaleSwimwearChallenge
-'<[RandomTeen]>, <[ezMaleSwimwearChallenge]>':
-  Description:
-    - Random Teen Male Swimwear Challenge
-  Tags:
-    - MyPreset
-    - RandomSwimwearChallengeTeen
-    - 1girl
-    - MaleSwimwearChallenge
-'<[RandomUpper]>, (pinup, exhibitionism:1.1), (fully clothed:1.3), tight clothes, <[ezcovered]>, <[eznips]>, pussy juice, {pubic hair,|} {armpit hair|}':
-  Description:
-    - Random Milf
-  Tags:
-    - MyPreset
-    - RandomMilf
-    - 1girl
 '<[CharacterPreset]>, <[Clothing]>':
   Description:
     - Random Characters with Random Clothes
   Tags:
     - MyPreset
     - 1girl
-'<[MechagodzillaBase]>, (nude:1.3), <[eznips]>, <[ezpussy]>':
+'<[CharacterPreset][Lower]>, <[Clothing]>':
   Description:
-    - Mechagodzilla Nude
-  Tags:
-    - MyPreset
-    - MechagodzillaPreset
-    - MechagodzillaNude
-    - 1girl
-'<[MechagodzillaBase]>, (nude:1.3), <[eznips]>, <[ezMechagodzillaFuta]>':
-  Description:
-    - Mechagodzilla Futa
-  Tags:
-    - MyPreset
-    - MechagodzillaPreset
-    - MechagodzillaFuta
-    - Futanari
-    - 1girl
-'<[MechagodzillaFuta]>, <[ezfutafap]>':
-  Description:
-    - Mechagodzilla Futanari Fap
-  Tags:
-    - MyPreset
-    - MechagodzillaPreset
-    - 1girl
-'<[MechagodzillaPreset]>, <[ezpreg]>':
-  Description:
-    - Mechagodzilla Pregnant
-  Tags:
-    - MyPreset
-    - MechagodzillaPreset
-    - 1girl
-    - Pregnant
-'<[MechagodzillaBase]>, <[clothing]>':
-  Description:
-    - Mechagodzilla with clothes
-  Tags:
-    - MyPreset
-    - MechagodzillaPreset
-    - 1girl
-'NSFW, 1girl, <[characters][FiM]>, <[Artists][--3D]>, <[ezage][--lower]>, <[Emotions][positive|neutral]>,  solo, solo focus, <[GazeFormat]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), nude, <[eznips]>, <[ezpussy]> <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Pony Pinup
+    - Random Characters with Random Clothes
   Tags:
     - MyPreset
     - 1girl
-'NSFW, 1girl, <[characters][xenoblade]>, <[Artists][--3D]>, <[ezage][--lower]>, <[Emotions][positive|neutral]>, solo, solo focus, facing the camera, presenting, looking at viewer, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), (reverse bunnysuit:1.3), presenting, spread pussy, <[eznips]>, <[ezpussy]>, <[ezcovered]> <lora:PDXL_artist_tags_v2_big:1>':
+'<[CharacterPreset][Middle]>, <[Clothing]>':
   Description:
-    - Aegis Reverse Bunnysuit
+    - Random Characters with Random Clothes
   Tags:
     - MyPreset
     - 1girl
-'NSFW, 1girl, <[characters][overwatch]>, <[Artists][--3D]>, <[ezage][--lower]>, <[Emotions][positive|neutral]>, solo, solo focus, facing the camera, presenting, looking at viewer, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), (reverse bunnysuit:1.3), presenting, spread pussy, <[eznips]>, <[ezpussy]>, <[ezcovered]> <lora:PDXL_artist_tags_v2_big:1>':
+'<[CharacterPreset][Upper]>, <[Clothing]>':
   Description:
-    - Overwatch Reverse Bunnysuit
+    - Random Characters with Random Clothes
   Tags:
     - MyPreset
     - 1girl
-"NSFW, 2girls, <[Artists][--3D]>, <[ImageFormat][FromSide]>, <[MyLocation]>, exhibitionism, (nude:1.1), public indecency, <[ezage]>, <[eznips]>, <[ezhorsefuta]>, (frottage:1.3), symmetrical docking, mutual masturbation <lora:PDXL_artist_tags_v2_big:0.5> ADDCOMM $#<[characters][fim]>;character1#$, <[emotions][positive]>, ADDCOL $#<[characters][fim]>;character2#$, <[emotions][positive]>**(1boy, male, men, disembodied penis:1.7) ADDCOMM ($#character2#$:2.0) ADDCOL ($#character1#$:2.0)**":
-  Description:
-    - FIM Frotage
-  Tags:
-    - MyPreset
-    - 2girls
-    - Futanari
-"<[MyPreset][1girl]>, <[ezpreg]>":
+"<[MyPreset][1girl][--LegacyPrompt]>, <[ezpreg]>":
   Description:
     - 1girl with Pregnancy
-  Tags:
-    - MyPreset
-    - 1girl
-    - Pregnant
-"<[FranchisePreset]>, <[ezpreg]>":
-  Description:
-    - Franchise with Pregnancy
   Tags:
     - MyPreset
     - 1girl
@@ -240,28 +163,20 @@
   Tags:
     - MyPreset
     - 2girls
-'<[2girlsbase]> <[ezage]>, symmetrical docking, (hug, nuzzle, cuddling, making out, kissing, french kiss:1.2), yuri ADDCOMM, $#<[characters][royalty]>;character1#$, $#<[myclothing]>;clothes1#$ ADDCOL $#<[characters][royalty]>;character2#$, $#<[myclothing]>;clothes2#$**ADDCOMM $#character2#$, $#clothes2#$ ADDCOL $#character1#$, $#clothes1#$**':
+'<[LegacyPrompt]>':
   Description:
-    - Royal makeout
+    - Legacy Prompts
   Tags:
     - MyPreset
-    - 2girls
-"NSFW, 2girls, <[Artists][--3D]>, <[ImageFormat][FromSide]>, <[MyLocation]>, exhibitionism, (nude:1.1), public indecency, <[ezage]>, <[eznips]>, <[ezpussy]>, symmetrical docking, (hug, nuzzle, cuddling, making out, kissing, french kiss:1.2), yuri <lora:PDXL_artist_tags_v2_big:0.5> ADDCOMM $#<[characters][fim]>;character1#$, <[emotions][positive]>, ADDCOL $#<[characters][fim]>;character2#$, <[emotions][positive]>**(1boy, male, men, disembodied penis:1.7) ADDCOMM ($#character2#$:2.0) ADDCOL ($#character1#$:2.0)**":
+'<[FranchisePreset]>':
   Description:
-    - FIM Makeout
+    - Franchise-specific Prompts
   Tags:
     - MyPreset
-    - 2girls
-    - Futanari
-'NSFW, 1girl, <[species][royalty]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, solo focus, <[GazeFormat]>, <[ImageFormat]>, (wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring|ball} gag:1.3), outdoors, (on the street of a medieval fantasy town:1.4), <[eznips]>, <[ezpussy]>, <[allpiercings]>, tiara, slutty, sluts, slut, regal, elegant, royal family, royal <lora:PDXL_artist_tags_v2_big:1>':
+"<[FranchisePreset]>, <[ezpreg]>":
   Description:
-    - Royal BDSM
+    - Franchise with Pregnancy
   Tags:
     - MyPreset
     - 1girl
-'NSFW, 1girl, <[species][royalty]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, solo focus, <[GazeFormat]>, <[ImageFormat]>, (fully clothed, wearing tight leather armor, armor:1.3), outdoors, (on the street of a medieval fantasy town:1.4), <[eznips]>, <[ezpussy]>, <[ezcovered]> <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Royal with tight armor
-  Tags:
-    - MyPreset
-    - 1girl
+    - Pregnant
