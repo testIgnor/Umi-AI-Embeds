@@ -245,12 +245,13 @@
     - 2girls
     - LegacyPrompt
     - ElsAnna
-'NSFW, (1girl:1.5), princess, princess, <[artists][--3D]>, <[ezage][lower]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <[imageformat][cowboyshot]>, <[MyLocation]>, solo, (nude:1.3), regal, elegant, royal family, royal, crown, tiara <lora:PDXL_artist_tags_v2_big:0.5> ADDCOMM ($#princess, european princess, light-skinned female, light skin, blonde hair;character1#$:1.5) ADDCOL ($#princess, african princess, dark-skinned female, dark skin, black hair;character2#$:1.5)**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines:2.0), (anthro, animal ears, tail:2.0), (evil, ugly, holding:1.7), ADDCOMM ($#character2#$:2.0) ADDCOL ($#character1#$:2.0)**':
+'NSFW, (1girl:1.5), princess, <[artists][--3D]>, <[ezage][lower]>, <[Emotions][positive|neutral]>, facing the camera, looking at viewer, <[imageformat][cowboyshot]>, (centered in frame:1.3), <[MyLocation]>, solo, (nude:1.3), <[eznips]>, <[ezpussy]>, regal, elegant, royal family, royal, crown, tiara <lora:PDXL_artist_tags_v2_big:0.5> ADDCOMM (princess, british princess, $#british, white skin, light-skinned female, light skin, blonde hair;character1#$:1.3) ADDCOL (princess, african princess, $#african, black skin, dark-skinned female, dark skin, black hair;character2#$:1.35)**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines:2.0), (anthro, animal ears, tail:2.0), (evil, ugly, holding:1.7), ADDCOMM ($#character2#$:1.5) ADDCOL ($#character1#$:1.5)**':
   Description:
     - Half Princess
   Tags:
     - 1girl
     - LegacyPrompt
+    - HalfPrincess
 'NSFW, (zombie, zombie girl, (corpse, wounded, injury, gore, guro, bloody, pale skin:1.3), undead, dead girl, (empty eyes, no pupils:0.75):1.3), <[artists][--3D]>, <[ezage][lower]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <[imageformat][cowboyshot|fullbody]>, <[MyLocation]>, (nude:1.4), <[eznips]>, <[ezpussy]>, <[ezpreg]>, <[ezcreampie]> <lora:PDXL_artist_tags_v2_big:1>**(green skin:1.5)**':
   Description:
     - Pregnant zombie girl
@@ -379,3 +380,36 @@
     - RandomSwimwearChallengeTeen
     - 1girl
     - MaleSwimwearChallenge
+'NSFW, 1girl, <[characters]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[Imageformat][FromBehind]>, (presenting:1.3), public indecency, <[ezpussy]>, (doggystyle:1.4), <[ezcreampie]> <lora:PDXL_artist_tags_v2_big:1>**(penis, disembodied penis:1.7)**':
+  Description:
+    - Random After Doggy
+  Tags:
+    - LegacyPrompt
+    - RandomAfterDoggy
+    - 1girl
+'<[randomafterdoggy]>, (butt plug, buttplug, anal object insertion, sex toy:1.3) <lora:buttplug_xl:1>':
+  Description:
+    - Plugged Doggy
+  Tags:
+    - LegacyPrompt
+    - 1girl
+'NSFW, 1girl, <[characters]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[Imageformat][--FromBehind]>, (presenting:1.3), public indecency, <[eznips]>, {<[ezpussy]>,|}, <[ezfacial]> <lora:PDXL_artist_tags_v2_big:1>**(penis, disembodied penis:1.7)**':
+  Description:
+    - Random After Fellatio
+  Tags:
+    - LegacyPrompt
+    - RandomAfterFella
+    - 1girl
+'<[2girlsbase]> <[ezage]>, ADDCOMM, $#<[characters]>;character1#$, $#<[myclothing]>;clothes1#$ ADDCOL $#<[characters]>;character2#$, $#<[myclothing]>;clothes2#$**ADDCOMM $#character2#$, $#clothes2#$ ADDCOL $#character1#$, $#clothes1#$**':
+  Description:
+    - Random 2 girls
+  Tags:
+    - LegacyPrompt
+    - 2girls
+    - random2girls
+'<[2girlsbase]> <[ezage]>, symmetrical docking, (hug, nuzzle, cuddling, making out, kissing, french kiss:1.2), yuri ADDCOMM, $#<[characters]>;character1#$, $#<[myclothing]>;clothes1#$ ADDCOL $#<[characters]>;character2#$, $#<[myclothing]>;clothes2#$**ADDCOMM $#character2#$, $#clothes2#$ ADDCOL $#character1#$, $#clothes1#$**':
+  Description:
+    - Random makeout
+  Tags:
+    - LegacyPrompt
+    - 2girls

@@ -21,7 +21,7 @@
     - Middle
     - Upper
     - Adult
-'<[EZThiccWoman]>':
+'<[EZThiccWoman]>, {pubic hair,|} {armpit hair,|}':
   Description:
     - Mature Age
   Tags:
@@ -321,6 +321,11 @@
   Tags:
     - Clothing
     - MergedClothes
+'(nude:1.4)':
+  Description:
+    - Nude Clothes
+  Tags:
+    - Clothing
 '(__Artists/Web Artists__:1.3)':
   Description:
     - Random Artist Names for LoRA
