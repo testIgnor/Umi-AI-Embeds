@@ -393,7 +393,7 @@
   Tags:
     - LegacyPrompt
     - 1girl
-'NSFW, 1girl, <[characters]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[Imageformat][--FromBehind]>, (presenting:1.3), public indecency, <[eznips]>, {<[ezpussy]>,|}, <[ezfacial]> <lora:PDXL_artist_tags_v2_big:1>**(penis, disembodied penis:1.7)**':
+'NSFW, 1girl, <[characters]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[Imageformat][--FromBehind]>, (presenting:1.3), public indecency, <[eznips]>, {<[ezpussy]>,|} <[ezfacial]> <lora:PDXL_artist_tags_v2_big:1>**(penis, disembodied penis:1.7)**':
   Description:
     - Random After Fellatio
   Tags:
@@ -413,3 +413,9 @@
   Tags:
     - LegacyPrompt
     - 2girls
+'<[MechagodzillaPreset]>':
+  Description:
+    - Mechagodzilla Presets
+  Tags:
+    - LegacyPrompt
+    - 1girl
