@@ -31,3 +31,4 @@ Morathi, elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <l
 jarl elisif the fair, elleJarl, the elder scrolls v: skyrim, orange hair, single braid, long hair
 valerie the adventurer, valAdventurer, the elder scrolls v: skyrim, brown hair, short hair, athletic female
 the virgin mary, virginMary, nun, traditional nun, medieval holy maiden, dark brown hair, medium hair, blue eyes
+[<[Characters][--Species]>|<[Characters][--Species]>]
