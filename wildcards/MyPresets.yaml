@@ -8,14 +8,37 @@
     - Franchise-specific Prompts
   Tags:
     - MyPreset
-'<[FranchisePreset][--Futanari]>, (lying on back, on back, presenting, pinup:1.3), (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>':
+    - CharacterPreset
+'<[FranchisePreset]>, <[FutaAddon][--Beast]>':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - MyPreset
+    - Futanari
+    - CharacterPreset
+'<[FranchisePreset]>, <[ezpreg]>':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - MyPreset
+    - Pregnant
+    - CharacterPreset
+'<[FranchisePreset]>, <[FutaAddon][--Beast]>, <[ezpreg]>':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - MyPreset
+    - Futanari
+    - Pregnant
+    - CharacterPreset
+'<[CharacterPreset][--Futanari]>, (lying on back, on back, presenting, pinup:1.3), (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>':
   Description:
     - Random Presenting
   Tags:
     - MyPreset
     - RandomPresenting
     - 1girl
-'<[FranchisePreset][Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[eznips]>, {<[ezfutafap]>,|} {<[ezcumshot]>,|}, exhibitionism, (nude:1.2)':
+'<[CharacterPreset][Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[eznips]>, {<[ezfutafap]>,|} {<[ezcumshot]>,|}, exhibitionism, (nude:1.2)':
   Description:
     - Random Futanari Presenting
   Tags:
@@ -23,7 +46,7 @@
     - RandomFutanariPresenting
     - 1girl
     - Futanari
-'<[FranchisePreset][Futanari]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>|}':
+'<[CharacterPreset][Futanari]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>|}':
   Description:
     - Random Futanari Fap
   Tags:
