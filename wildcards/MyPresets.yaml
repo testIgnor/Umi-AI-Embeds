@@ -9,6 +9,7 @@
   Tags:
     - MyPreset
     - CharacterPreset
+    - 1girl
 '<[FranchisePreset]>, <[FutaAddon][--Beast]>':
   Description:
     - Franchise-specific Prompts
@@ -16,6 +17,7 @@
     - MyPreset
     - Futanari
     - CharacterPreset
+    - 1girl
 '<[FranchisePreset]>, <[ezpreg]>':
   Description:
     - Franchise-specific Prompts
@@ -23,6 +25,7 @@
     - MyPreset
     - Pregnant
     - CharacterPreset
+    - 1girl
 '<[FranchisePreset]>, <[FutaAddon][--Beast]>, <[ezpreg]>':
   Description:
     - Franchise-specific Prompts
@@ -31,6 +34,35 @@
     - Futanari
     - Pregnant
     - CharacterPreset
+    - 1girl
+'<[FranchisePreset]>, <[Clothing]>':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - MyPreset
+    - 1girl
+'<[FranchisePreset]>, <[FutaAddon][--Beast]>, <[Clothing]>':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - MyPreset
+    - Futanari
+    - 1girl
+'<[FranchisePreset]>, <[ezpreg]>, <[Clothing]>':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - MyPreset
+    - Pregnant
+    - 1girl
+'<[FranchisePreset]>, <[FutaAddon][--Beast]>, <[ezpreg]>, <[Clothing]>':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - MyPreset
+    - Futanari
+    - Pregnant
+    - 1girl
 '<[CharacterPreset][--Futanari]>, (lying on back, on back, presenting, pinup:1.3), (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>':
   Description:
     - Random Presenting
