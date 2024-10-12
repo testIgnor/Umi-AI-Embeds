@@ -5,7 +5,7 @@
     - EZAge
     - Lower
     - Loli
-'(<[EZTeenGirl]>:1.3), {pubic hair,|}':
+'(<[EZTeenGirl]>:1.3){, pubic hair|}':
   Description:
     - Teen Age
   Tags:
@@ -13,7 +13,7 @@
     - Lower
     - Middle
     - Teen
-'<[EZWoman]>, {pubic hair,|}':
+'<[EZWoman]>{, pubic hair|}':
   Description:
     - Adult Age
   Tags:
@@ -21,7 +21,7 @@
     - Middle
     - Upper
     - Adult
-'<[EZThiccWoman]>, {pubic hair,|} {armpit hair,|}':
+'<[EZThiccWoman]>{, pubic hair|}{, armpit hair|}':
   Description:
     - Mature Age
   Tags:
@@ -325,7 +325,7 @@
     - Random Artist Names for LoRA
   Tags:
     - Artists
-'(__Artists/3D__:1.1)':
+'(__Artists/3D__:0.75)':
   Description:
     - Random Artist Names for LoRA
   Tags:
