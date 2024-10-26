@@ -3,33 +3,24 @@
     - Legacy Prompts
   Tags:
     - MyPreset
-'<[FranchisePreset]>{15%, <[ezpreg]>|}, <[imageformat]>':
+'<[FranchisePreset]>{15%, <[ezpreg]>|}':
   Description:
     - Franchise-specific Prompts
   Tags:
-    - MyPreset
     - CharacterPreset
     - 1girl
-'<[FranchisePreset]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}, <[imageformat]>':
+'<[FranchisePreset]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}':
   Description:
     - Franchise-specific Prompts
   Tags:
-    - MyPreset
     - Futanari
     - CharacterPreset
     - 1girl
-'<[FranchisePreset]>, <[Clothing]>{15%, <[ezpreg]>|}, <[imageformat]>':
+'<[CharacterPreset]>, <[Clothing]>, <[imageformat]>, <[MyLocation]>':
   Description:
     - Franchise-specific Prompts
   Tags:
     - MyPreset
-    - 1girl
-'<[FranchisePreset]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}, <[Clothing]>{15%, <[ezpreg]>|}, <[imageformat]>':
-  Description:
-    - Franchise-specific Prompts
-  Tags:
-    - MyPreset
-    - Futanari
     - 1girl
 '<[CharacterPreset][--Futanari]>, (lying on back, on back, presenting, pinup:1.3), (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>':
   Description:
@@ -69,3 +60,9 @@
     - RandomRave
     - 1girl
     - Rave
+'<[MechagodzillaPreset]>':
+  Description:
+    - Mechagodzilla Presets
+  Tags:
+    - MyPreset
+    - 1girl
