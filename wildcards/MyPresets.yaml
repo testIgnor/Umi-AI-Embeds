@@ -9,6 +9,7 @@
   Tags:
     - CharacterPreset
     - 1girl
+    - MyPreset
 '<[FranchisePreset]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}':
   Description:
     - Franchise-specific Prompts
@@ -16,6 +17,7 @@
     - Futanari
     - CharacterPreset
     - 1girl
+    - MyPreset
 '<[CharacterPreset]>, <[Clothing]>, <[imageformat]>, <[MyLocation]>':
   Description:
     - Franchise-specific Prompts
