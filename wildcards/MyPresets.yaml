@@ -24,14 +24,15 @@
   Tags:
     - MyPreset
     - 1girl
-'<[CharacterPreset][--Futanari]>, (lying on back, on back, presenting, pinup:1.3), (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>':
+    - 1girlBase
+'<[CharacterPreset][--Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>':
   Description:
     - Random Presenting
   Tags:
     - MyPreset
     - RandomPresenting
     - 1girl
-'<[CharacterPreset][Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[eznips]>{, <[ezfutafap]>|} {, <[ezcumshot]>|}, exhibitionism, (nude:1.2)':
+'<[CharacterPreset][Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznips]>{, <[ezfutafap]>|} {, <[ezcumshot]>|}, exhibitionism, (nude:1.2)':
   Description:
     - Random Futanari Presenting
   Tags:
@@ -39,14 +40,14 @@
     - RandomFutanariPresenting
     - 1girl
     - Futanari
-'<[CharacterPreset][Futanari]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>|}':
+'<[CharacterPreset][Futanari]>, (nude:1.4), <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>|}':
   Description:
     - Random Futanari Fap
   Tags:
     - MyPreset
     - 1girl
     - Futanari
-'<[CharacterPreset][--Futanari]>, <[ezMaleSwimwearChallenge]>':
+'<[CharacterPreset][--Futanari]>, <[imageformat]>, <[ezMaleSwimwearChallenge]>':
   Description:
     - Random Male Swimwear Challenge
   Tags:
@@ -62,6 +63,24 @@
     - RandomRave
     - 1girl
     - Rave
+'<[1girlbase]>, <[ezgoth]>':
+  Description:
+    - Goth Girl
+  Description:
+    - MyPreset
+    - 1girl
+'<[1girlbase]>, <[ezgyaru]>':
+  Description:
+    - Gyaru Girl
+  Description:
+    - MyPreset
+    - 1girl
+'<[1girlbase]>, <[ezslut]>':
+  Description:
+    - Slut Girl
+  Description:
+    - MyPreset
+    - 1girl
 '<[MechagodzillaPreset]>':
   Description:
     - Mechagodzilla Presets

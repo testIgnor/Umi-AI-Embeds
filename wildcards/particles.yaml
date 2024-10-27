@@ -19,7 +19,7 @@
     - Particle
     - BeastFellatio
     - Lion
-'jewelry, piercings, piercing, ear piercing, navel piercing, nipple piercing, clitoris piercing':
+'jewelry, {1-4$$ear piercing|navel piercing|nipple piercing|clitoris piercing}':
   Description:
     - All Piercings
   Tags:
@@ -434,7 +434,7 @@
   Tags:
     - Particle
     - MechagodzillaCharacter
-'(mechagodzilla, mecha godzilla:1.6), kiryu \(godzilla\), (genderswap:1.2), (scalie, female robot scalie:1.5), (tall female:1.2), (mecha, robot, (silver:1.5) metal skin, robot joints:1.6), (giantess:0.6), 100 meters tall, (high heels:1.2), (digitigrade feet:1.1)**(wings, wing, weapon, weapons, gun, missile, human, car, vehicle:2.0)**':
+'(mechagodzilla, mecha godzilla:1.6), kiryu \(godzilla\), (genderswap:1.2), (scalie, female robot scalie:1.5), (tall female:1.2), (mecha, robot, (silver:1.5) metal skin, robot joints:1.6), (high heels:1.2), (digitigrade feet:1.1)**(wings, wing, weapon, weapons, gun, missile, human, car, vehicle:2.0)**':
   Description:
     - Alternate Mechagodzilla Character
   Tags:
@@ -489,3 +489,21 @@
     - ZebraFellatio
     - CharacterFellatio
     - Receiving
+'(goth:1.5){, <[allpiercings]>|}{, heavy makeup|}{, runny mascara, runny makeup, ruined makeup|}{, black lipstick, smeared lipstick|}':
+  Description:
+    - Goth Addon
+  Tags:
+    - Particle
+    - ezGoth
+'(gyaru:1.5){, <[allpiercings]>|}{, heavy makeup|}{, runny mascara, runny makeup, ruined makeup|}{, smeared lipstick|}':
+  Description:
+    - Gyaru Addon
+  Tags:
+    - Particle
+    - ezGyaru
+'(slut, slutty, whore, prostitute:1.5){, <[allpiercings]>|}{, heavy makeup|}{, runny mascara, runny makeup, ruined makeup|}{, smeared lipstick|}':
+  Description:
+    - Slut Addon
+  Tags:
+    - Particle
+    - ezSlut
