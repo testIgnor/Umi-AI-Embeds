@@ -18,7 +18,7 @@ arcane caitlyn
 sona \(league of legends\)
 seraphine \(league of legends\)
 soraka \(league of legends\)
-miss fortune**(hat, headwear:2.0)**
+miss fortune \(league of legends\)**(hat, headwear:2.0)**
 riven \(league of legends\)
 lillia \(league of legends\)
 aurora \(league of legends\)
@@ -53,3 +53,8 @@ janna \(league of legends\)
 kai'sa \(league of legends\)
 qiyana \(league of legends\)
 nami \(league of legends\)
+akali \(league of legends\)
+lulu \(league of legends\)
+lamb \(league of legends\)
+annie \(league of legends\)
+xayah \(league of legends\)
