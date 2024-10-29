@@ -79,6 +79,14 @@
     - RandomEvangelion
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Fate]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Fate Character
+  Tags:
+    - 1girl
+    - RandomFate
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][Fighters]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Fighters Character
@@ -117,6 +125,30 @@
   Tags:
     - 1girl
     - RandomGenshin
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Granblue]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Granblue Character
+  Tags:
+    - 1girl
+    - RandomGranblue
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Honkai]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Honkai Character
+  Tags:
+    - 1girl
+    - RandomHonkai
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Kantai Collection]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Kantai Collection Character
+  Tags:
+    - 1girl
+    - RandomKantai Collection
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][LiS]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
