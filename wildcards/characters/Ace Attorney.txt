@@ -8,3 +8,5 @@ ema skye, ace attorney, long hair, blue eyes, short hair, brown hair
 iris wilson, ace attorney, drill hair, pink hair, short hair, closed eyes, blonde hair, long hair, blue eyes, bow-shaped hair, black hair
 kay faraday, ace attorney, brown hair, short hair, closed eyes, grey hair, long hair, green eyes, black hair
 geiru toneido, ace attorney, pink hair, medium hair
+maya fey, maya fey possessed by mia fey, ayasato mayoi, mia fey, ace attorney, half updo, black hair, long hair**(hair ornament:1.5)**
+pearl fey, pearl fey possessed by mia fey, ayasato harumi, mia fey, ace attorney, short hair, brown hair, (hair rings:1.2)**(updo, half updo:1.5)**
