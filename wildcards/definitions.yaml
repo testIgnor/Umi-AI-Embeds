@@ -110,8 +110,14 @@
   Description:
     - Azur Lane Characters
   Tags:
-    - Characters
+    - Disrupted
     - Azur Lane
+'(__Characters/Blue Archive__:1.3), blue archive':
+  Description:
+    - Blue Archive Characters
+  Tags:
+    - Disrupted
+    - Blue Archive
 '(__Characters/Celebrities__:1.3)':
   Description:
     - Random Celebrities
@@ -141,25 +147,25 @@
   Description:
     - Dragon Quest Characters
   Tags:
-    - Characters
+    - Disrupted
     - Dragon Quest
 '(__Characters/Evangelion__:1.3), neon genesis evangelion':
   Description:
     - Evangelion Characters
   Tags:
-    - Characters
+    - Disrupted
     - Evangelion
 '(__Characters/Fate__:1.3), fate \(series\)':
   Description:
     - Fate Characters
   Tags:
-    - Characters
+    - Disrupted
     - Fate
 '(__Characters/Fighters__:1.3)':
   Description:
     - Fighting Game Characters
   Tags:
-    - Characters
+    - Disrupted
     - Fighters
 '(__Characters/FiM__:1.3), my little pony: friendship is magic, pony anthro':
   Description:
@@ -181,43 +187,43 @@
   Description:
     - Final Fantasy Characters
   Tags:
-    - Characters
+    - Disrupted
     - Final Fantasy
 '(__Characters/Fire Emblem__:1.3), fire emblem':
   Description:
     - Fire Emblem Characters
   Tags:
-    - Characters
+    - Disrupted
     - Fire Emblem
 '(__Characters/Genshin__:1.3), genshin impact':
   Description:
     - Genshin Characters
   Tags:
-    - Characters
+    - Disrupted
     - Genshin
 '(__Characters/Granblue__:1.3), granblue fantasy':
   Description:
     - Granblue Characters
   Tags:
-    - Characters
+    - Disrupted
     - Granblue
 '(__Characters/Hololive__:1.3), hololive':
   Description:
     - Hololive Characters
   Tags:
-    - Characters
+    - Disrupted
     - Hololive
 '(__Characters/Honkai__:1.3), honkai \(series\)':
   Description:
     - Honkai Characters
   Tags:
-    - Characters
+    - Disrupted
     - Honkai
 '(__Characters/Kantai Collection__:1.3), kantai collection, kancolle':
   Description:
     - Kantai Characters
   Tags:
-    - Characters
+    - Disrupted
     - Kantai Collection
 '(__Characters/LiS__:1.3), life is strange**(beanie, hat, headwear, hair ornament:2.0)**':
   Description:
@@ -229,7 +235,7 @@
   Description:
     - League of Legends Characters
   Tags:
-    - Characters
+    - Disrupted
     - LoL
 '(__Characters/MahoAko__:1.3)':
   Description:
@@ -254,31 +260,31 @@
   Description:
     - Naruto Characters
   Tags:
-    - Characters
+    - Disrupted
     - Naruto
 '(__Characters/Nier__:1.3), nier \(series\)':
   Description:
     - Nier Characters
   Tags:
-    - Characters
+    - Disrupted
     - Nier
 '(__Characters/Nintendo__:1.3)':
   Description:
     - Nintendo Characters
   Tags:
-    - Characters
+    - Disrupted
     - Nintendo
 '(__Characters/Overwatch__:1.3)**(headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0)**':
   Description:
     - Overwatch Characters
   Tags:
-    - Characters
+    - Disrupted
     - Overwatch
 '(__Characters/Persona__:1.3), persona \(series\)':
   Description:
     - Persona Characters
   Tags:
-    - Characters
+    - Disrupted
     - Persona
 '(__Characters/Pokemon__:1.3), pokemon**(pokeball:2.0)**':
   Description:
@@ -290,7 +296,7 @@
   Description:
     - Resident Evil Characters
   Tags:
-    - Characters
+    - Disrupted
     - Resident Evil
 '(__Characters/RWBY__:1.3), RWBY**(holding, weapon:2.0)**':
   Description:
@@ -320,7 +326,7 @@
   Description:
     - Vocaloid Characters
   Tags:
-    - Characters
+    - Disrupted
     - Vocaloid
 '(__Characters/Witcher__:1.3), the witcher \(series\)':
   Description:
@@ -332,7 +338,7 @@
   Description:
     - Xenoblade Characters
   Tags:
-    - Characters
+    - Disrupted
     - Xenoblade
 '(__MyClothing__:1.4)':
   Description:
