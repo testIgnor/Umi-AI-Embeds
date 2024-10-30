@@ -1,34 +1,33 @@
-praxis \(xenoblade\)
-mecha-fiora
-pneuma \(xenoblade\)
-nia \(xenoblade\)
-a \(xenoblade\)
-eunie \(xenoblade\)
-poppi alpha \(xenoblade\)
-poppi qt \(xenoblade\)
-mythra \(massive melee\) \(xenoblade\)
-nia \(fancy sundress\) \(xenoblade\)
-sena \(xenoblade\)
-brighid \(xenoblade\)
-sharla \(xenoblade\)
+praxis \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+mecha-fiora**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 nia \(xenoblade\)**mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-glimmer \(xenoblade\)
-poppi qtpi \(xenoblade\)
-na'el \(xenoblade\)
-poppi \(xenoblade\)
-dromarch \(xenoblade\)
-morag ladair \(xenoblade\)
+a \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+eunie \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+poppi alpha \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+poppi qt \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+mythra \(massive melee\) \(xenoblade\)
+nia \(fancy sundress\) \(xenoblade\)**mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+sena \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+brighid \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+sharla \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+nia \(xenoblade\)**mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+glimmer \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+poppi qtpi \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+na'el \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+poppi \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+dromarch \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+morag ladair \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 pyra \(pro swimmer\) \(xenoblade\)
 pyra \(xenoblade\)
-ethel \(xenoblade\)
-elma \(xenoblade x\)
-melia antiqua
-mythra \(xenoblade\)
-morag ladair \(obligatory leave\) \(xenoblade\)
-fiora \(xenoblade\)
+ethel \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+elma \(xenoblade x\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+melia antiqua**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+mythra \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+morag ladair \(obligatory leave\) \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+fiora \(xenoblade\)**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 pneuma \(xenoblade\), long hair, high ponytail
 mythra \(radiant beach\) \(xenoblade\)
-fan la norne
-mio \(xenoblade\)
-nia \(blade\) \(xenoblade\)
-kos-mos re
+fan la norne**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+mio \(xenoblade\)**nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+nia \(blade\) \(xenoblade\)**mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+kos-mos re**nia \(xenoblade\), mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
