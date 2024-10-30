@@ -135,6 +135,14 @@
     - RandomGranblue
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Hololive]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Hololive Character
+  Tags:
+    - 1girl
+    - RandomHololive
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][Honkai]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Honkai Character
