@@ -183,12 +183,12 @@
     - RandomMahoAko
     - FranchisePreset
 
-'NSFW, 1girl, <[characters][Masss Effect]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Mass Effect]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Random Masss Effect Character
+    - Random Mass Effect Character
   Tags:
     - 1girl
-    - RandomMasss Effect
+    - RandomMass Effect
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Misc]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
