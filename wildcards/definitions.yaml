@@ -106,13 +106,13 @@
   Tags:
     - Characters
     - ATLA
-'(__Characters/Azur Lane__:1.3), azur lane':
+'(__Characters/Azur Lane__:1.3)':
   Description:
     - Azur Lane Characters
   Tags:
     - Characters
     - Azur Lane
-'(__Characters/Blue Archive__:1.3), blue archive':
+'(__Characters/Blue Archive__:1.3)':
   Description:
     - Blue Archive Characters
   Tags:
@@ -131,31 +131,49 @@
   Tags:
     - Characters
     - Comics
+'(__Characters/Darkstalkers__:1.3)':
+  Description:
+    - Darkstalkers Characters
+  Tags:
+    - Characters
+    - Darkstalkers
 '(__Characters/Digimon__:1.3), digimon':
   Description:
     - Digimon Characters
   Tags:
     - Characters
     - Digimon
+'(__Characters/Dead or Alive__:1.3)':
+  Description:
+    - Dead or Alive Characters
+  Tags:
+    - Characters
+    - Dead or Alive
 '(__Characters/Disney__:1.3)':
   Description:
     - Disney Characters
   Tags:
     - Characters
     - Disney
-'(__Characters/Dragon Quest__:1.3), dragon quest':
+'(__Characters/Dragon Quest__:1.3)':
   Description:
     - Dragon Quest Characters
   Tags:
     - Characters
     - Dragon Quest
-'(__Characters/Evangelion__:1.3), neon genesis evangelion':
+'(__Characters/Dragonball__:1.3)':
+  Description:
+    - Dragonball Characters
+  Tags:
+    - Characters
+    - Dragonball
+'(__Characters/Evangelion__:1.3)':
   Description:
     - Evangelion Characters
   Tags:
     - Characters
     - Evangelion
-'(__Characters/Fate__:1.3), fate \(series\)':
+'(__Characters/Fate__:1.3)':
   Description:
     - Fate Characters
   Tags:
@@ -165,7 +183,7 @@
   Description:
     - Fighting Game Characters
   Tags:
-    - Characters
+    - Disrupted
     - Fighters
 '(__Characters/FiM__:1.3), my little pony: friendship is magic, pony anthro':
   Description:
@@ -183,43 +201,49 @@
     - FiM
     - Pony
     - Ponies
-'(__Characters/Final Fantasy__:1.3), final fantasy':
+'(__Characters/Final Fantasy__:1.3)':
   Description:
     - Final Fantasy Characters
   Tags:
     - Characters
     - Final Fantasy
-'(__Characters/Fire Emblem__:1.3), fire emblem':
+'(__Characters/Fire Emblem__:1.3)':
   Description:
     - Fire Emblem Characters
   Tags:
     - Characters
     - Fire Emblem
-'(__Characters/Genshin__:1.3), genshin impact':
+'(__Characters/Genshin__:1.3)':
   Description:
     - Genshin Characters
   Tags:
     - Characters
     - Genshin
-'(__Characters/Granblue__:1.3), granblue fantasy':
+'(__Characters/Granblue__:1.3)':
   Description:
     - Granblue Characters
   Tags:
     - Characters
     - Granblue
-'(__Characters/Hololive__:1.3), hololive':
+'(__Characters/Guilty Gear__:1.3)':
+  Description:
+    - Guilty Gear Characters
+  Tags:
+    - Characters
+    - Guilty Gear
+'(__Characters/Hololive__:1.3)':
   Description:
     - Hololive Characters
   Tags:
     - Characters
     - Hololive
-'(__Characters/Honkai__:1.3), honkai \(series\)':
+'(__Characters/Honkai__:1.3)':
   Description:
     - Honkai Characters
   Tags:
     - Characters
     - Honkai
-'(__Characters/Kantai Collection__:1.3), kantai collection, kancolle':
+'(__Characters/Kantai Collection__:1.3)':
   Description:
     - Kantai Characters
   Tags:
@@ -256,13 +280,13 @@
   Tags:
     - Characters
     - Misc
-'(__Characters/Naruto__:1.3), naruto \(series\)':
+'(__Characters/Naruto__:1.3)':
   Description:
     - Naruto Characters
   Tags:
     - Characters
     - Naruto
-'(__Characters/Nier__:1.3), nier \(series\)':
+'(__Characters/Nier__:1.3)':
   Description:
     - Nier Characters
   Tags:
@@ -280,7 +304,7 @@
   Tags:
     - Characters
     - Overwatch
-'(__Characters/Persona__:1.3), persona \(series\)':
+'(__Characters/Persona__:1.3)':
   Description:
     - Persona Characters
   Tags:
@@ -292,7 +316,7 @@
   Tags:
     - Characters
     - Pokemon
-'(__Characters/Resident Evil__:1.3), resident evil':
+'(__Characters/Resident Evil__:1.3)':
   Description:
     - Resident Evil Characters
   Tags:
@@ -310,19 +334,31 @@
   Tags:
     - Characters
     - She-ra
-'(__Characters/Splatoon__:1.3), spsplatoon \(series\)':
+'(__Characters/Splatoon__:1.3), splatoon \(series\)':
   Description:
     - Splatoon Characters
   Tags:
     - Characters
     - Splatoon
+'(__Characters/Street Fighter__:1.3)':
+  Description:
+    - Street Fighter Characters
+  Tags:
+    - Characters
+    - Street Fighter
+'(__Characters/Tekken__:1.3)':
+  Description:
+    - Tekken Characters
+  Tags:
+    - Characters
+    - Tekken
 '(__Characters/Upsample__:1.3)':
   Description:
     - Danbooru Upsample Characters
   Tags:
     - Characters
     - Upsample
-'(__Characters/Vocaloid__:1.3), vocaloid':
+'(__Characters/Vocaloid__:1.3)':
   Description:
     - Vocaloid Characters
   Tags:
@@ -334,12 +370,18 @@
   Tags:
     - Characters
     - Witcher
-'(__Characters/Xenoblade__:1.3), xenoblade chronicles':
+'(__Characters/Xenoblade__:1.3)':
   Description:
     - Xenoblade Characters
   Tags:
     - Characters
     - Xenoblade
+'(__Characters/Zelda__:1.3)':
+  Description:
+    - Zelda Characters
+  Tags:
+    - Characters
+    - Zelda
 '(__MyClothing__:1.4)':
   Description:
     - Random Clothes

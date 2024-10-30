@@ -1,7 +1,7 @@
-jill valentine
-sherry birkin
-ada wong
-sheva alomar
-alcina dimitrescu
-ashley graham
-claire redfield
+jill valentine, resident evil, blue eyes, short hair, brown hair
+ada wong, resident evil, brown eyes, short hair, black hair
+alcina dimitrescu, resident evil, pale skin, short hair, yellow eyes, black hair
+claire redfield, resident evil, long hair, blue eyes, short hair, brown hair
+rebecca chambers, resident evil, blue eyes, short hair, brown hair
+sheva alomar, resident evil, dark-skinned female, brown eyes, brown hair, short hair, dark skin
+nemesis \(resident evil\), resident evil, blue eyes, short hair, brown hair

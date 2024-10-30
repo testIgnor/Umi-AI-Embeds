@@ -1,31 +1,24 @@
-takemi tae
-niijima sae
-niijima makoto
-tougou hifumi
-sakura futaba
-yoshizawa sumire
-caroline \(persona 5\)
-yoshizawa kasumi
-kujikawa rise
-kirijou mitsuru
-okumura haru
-yamagishi fuuka
-yoshino chidori
-aegis \(persona\)
-elizabeth \(persona\)
-kawakami sadayo
-alice \(megami tensei\)
-takeba yukari
-satonaka chie
-toudou naoya
-lavenza \(persona 5\)
-margaret \(persona\)
-lisa silverman
-justine \(persona 5\)
-takamaki anne
-metis \(persona\)
-amano maya
-marie \(persona 4\)
-labrys \(persona\)
-fushimi chihiro
-amagi yukiko
+shirogane naoto, persona, blue hair, blue eyes, short hair
+satonaka chie, persona, brown eyes, brown hair, short hair, long hair, black hair
+aegis \(persona\), persona, blonde hair, blue eyes, short hair
+takamaki anne, persona, blonde hair, blue eyes, long hair
+sakura futaba, persona, orange hair, long hair, purple eyes
+takeba yukari, persona, brown eyes, short hair, brown hair
+kirijou mitsuru, persona, brown hair, red eyes, short hair, long hair, red hair
+niijima makoto, persona, red eyes, short hair, brown hair, black hair
+okumura haru, persona, brown eyes, short hair, brown hair
+doujima nanako, persona, brown eyes, brown hair, short hair, closed eyes, grey hair
+yoshizawa kasumi, persona, long hair, red eyes, red hair
+kawakami sadayo, persona, brown eyes, short hair, brown hair, black hair
+elizabeth \(persona\), persona, grey hair, white hair, short hair, yellow eyes
+takemi tae, persona, brown eyes, red eyes, short hair, blue hair, black hair
+yoshino chidori, persona, long hair, red hair
+marie \(persona 4\), persona, brown hair, short hair, green eyes, blue eyes, black hair
+labrys \(persona\), persona, red eyes, short hair, long hair, blue hair, aqua hair, very long hair
+yoshizawa sumire, persona, long hair, red eyes, red hair
+niijima sae, persona, brown eyes, brown hair, red eyes, short hair, grey hair, long hair
+tougou hifumi, persona, long hair, green eyes, brown hair, black hair
+lisa silverman, persona, brown hair, short hair, blonde hair, blue eyes, black hair
+izanami \(persona\), persona, grey hair, red eyes, short hair
+lavenza \(persona 5\), persona, yellow eyes, grey hair, blonde hair, long hair, very long hair
+fushimi chihiro, persona, long hair, brown eyes, brown hair
