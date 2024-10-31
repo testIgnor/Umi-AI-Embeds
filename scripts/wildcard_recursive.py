@@ -400,7 +400,7 @@ class DynamicPromptReplacer:
                 variants.pop(index)
                 weights.pop(index)
 
-            return " , ".join(picked)
+            return ", ".join(picked)
         except ValueError as e:
             return ""
 
