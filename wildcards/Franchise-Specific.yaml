@@ -7,6 +7,14 @@
     - RandomAce Attorney
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Arknights]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Arknights Character
+  Tags:
+    - 1girl
+    - RandomArknights
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][ATLA]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random ATLA Character
@@ -183,12 +191,28 @@
     - RandomHonkai
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Idol Master]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Idol Master Character
+  Tags:
+    - 1girl
+    - RandomIdol Master
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][Kantai Collection]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Kantai Collection Character
   Tags:
     - 1girl
     - RandomKantai Collection
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Kemono Friends]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Kemono Friends Character
+  Tags:
+    - 1girl
+    - RandomKemono Friends
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][LiS]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -205,6 +229,14 @@
   Tags:
     - 1girl
     - RandomLoL
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Love Live]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Love Live Character
+  Tags:
+    - 1girl
+    - RandomLove Live
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][MahoAko]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -247,6 +279,14 @@
     - RandomNier
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Nikke]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Nikke Character
+  Tags:
+    - 1girl
+    - RandomNikke
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][Nintendo]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Nintendo Character
@@ -279,6 +319,22 @@
     - RandomPokemon
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Precure]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Precure Character
+  Tags:
+    - 1girl
+    - RandomPrecure
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Princess Connect]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Princess Connect Character
+  Tags:
+    - 1girl
+    - RandomPrincess Connect
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][Resident Evil]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Resident Evil Character
@@ -293,6 +349,14 @@
   Tags:
     - 1girl
     - RandomRWBY
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Sailor Moon]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Sailor Moon Character
+  Tags:
+    - 1girl
+    - RandomSailor Moon
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][She-ra]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -333,6 +397,22 @@
   Tags:
     - 1girl
     - RandomTekken
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Touhou]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Touhou Character
+  Tags:
+    - 1girl
+    - RandomTouhou
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Umamusume]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Umamusume Character
+  Tags:
+    - 1girl
+    - RandomUmamusume
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Upsample]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
