@@ -69,5 +69,5 @@ perrin \(pokemon\), pokemon, brown eyes, gradient hair, blue hair, multicolored 
 chloe \(pokemon\), pokemon, green eyes, blue eyes, black hair, brown hair, long hair
 coral \(pokemon\), pokemon, black eyes, pink hair, grey eyes
 mina \(pokemon\), pokemon, blue eyes, grey eyes, blonde hair, half-closed eyes, long hair
-delia ketchum, delia scarlet \(pokemon\), brown eyes, brown hair, closed eyes, black hair, short hair, long hair
-jenny \(pokemon\), long hair, green hair
+delia ketchum, delia scarlet \(pokemon\), pokemon, brown eyes, brown hair, closed eyes, black hair, short hair, long hair
+jenny \(pokemon\), pokemon, long hair, green hair
