@@ -1,60 +1,73 @@
-cynthia \(pokemon\)
-lusamine \(pokemon\)
-nessa \(pokemon\)
-sonia \(pokemon\)
-aurea juniper, professor juniper \(pokemon\)
-serena \(pokemon\)
-rosa \(pokemon\)
-may \(pokemon\)
-marnie \(pokemon\)
-gloria \(pokemon\)
-lillie \(pokemon\)
-hilda \(pokemon\)
-dawn \(pokemon\)
-bea \(pokemon\)
-bianca \(pokemon\)
-roxanne \(pokemon\)
-misty \(pokemon\)
-erika \(pokemon\)
-sabrina \(pokemon\)
-jasmine \(pokemon\)
-flannery \(pokemon\)
-gardenia \(pokemon\)
-maylene \(pokemon\)
-candice \(pokemon\)
-lenora \(pokemon\)
-elesa \(pokemon\)
-skyla \(pokemon\)
-iris \(pokemon\)
-roxie \(pokemon\)
-viola \(pokemon\)
-korrina \(pokemon\)
-valerie \(pokemon\)
-olympia \(pokemon\)
-melony \(pokemon\)
-iono \(pokemon\)
-diantha \(pokemon\)
-nemona \(pokemon\)
-geeta \(pokemon\)
-team magma grunt, pokemon
-juliana \(pokemon\)
-penny \(pokemon\)
-jenny \(pokemon\)
-joy \(pokemon\)
-jessie \(pokemon\)**(jessie rasberry:2.0)**
-delia ketchum, delia scarlet \(pokemon\)
-lana \(pokemon\)
-lana's mother \(pokemon\)
-shauna \(pokemon\)
-acerola \(pokemon\)
-anabel \(pokemon\)
-mallow \(pokemon\)
-mina \(pokemon\)
-olivia \(pokemon\)
-selene \(pokemon\)
-sina \(pokemon\)
-plumeria \(pokemon\)
-karen \(pokemon\)
-lorelei \(pokemon\)
-kris \(pokemon\)
-phoebe \(pokemon\)
+dawn \(pokemon\), pokemon, blue hair, black hair, long hair, blue eyes
+rosa \(pokemon\), pokemon, brown hair, long hair, blue eyes
+lillie \(pokemon\), pokemon, blonde hair, green eyes, long hair
+hilda \(pokemon\), pokemon, brown hair, long hair, blue eyes
+may \(pokemon\), pokemon, brown hair, long hair, blue eyes
+marnie \(pokemon\), pokemon, medium hair, long hair, green eyes, black hair
+selene \(pokemon\), pokemon, blonde hair, short hair, long hair, black hair
+gloria \(pokemon\), pokemon, brown hair, brown eyes, short hair
+serena \(pokemon\), pokemon, blue eyes, brown hair, blonde hair, short hair, long hair
+cynthia \(pokemon\), pokemon, blonde hair, very long hair, long hair, grey eyes
+akari \(pokemon\), pokemon, grey eyes, long hair, black hair
+misty \(pokemon\), pokemon, short hair, orange hair, green eyes, blue eyes
+iono \(pokemon\), pokemon, split-color hair, blue hair, two-tone hair, multicolored hair, low-tied long hair, bow-shaped hair, pink eyes, pink hair, long hair, very long hair
+nessa \(pokemon\), pokemon, blue eyes, blue hair, black hair, two-tone hair, multicolored hair, dark skin, dark-skinned female, long hair
+bea \(pokemon\), pokemon, hair between eyes, blue eyes, grey eyes, grey hair, dark skin, dark-skinned female, short hair
+lyra \(pokemon\), pokemon, brown hair, brown eyes, long hair
+hex maniac \(pokemon\), pokemon, hair between eyes, purple eyes, messy hair, black hair, purple hair, long hair, very long hair
+rika \(pokemon\), pokemon, green hair, red eyes, long hair
+skyla \(pokemon\), pokemon, red hair, long hair, blue eyes
+leaf \(pokemon\), pokemon, brown hair, brown eyes, long hair
+lana \(pokemon\), pokemon, blue hair, short hair, blue eyes
+lusamine \(pokemon\), pokemon, blonde hair, green eyes, long hair, very long hair
+sonia \(pokemon\), pokemon, green eyes, dark skin, aqua eyes, orange hair, long hair
+carmine \(pokemon\), pokemon, hair between eyes, red hair, colored inner hair, black hair, two-tone hair, multicolored hair, yellow eyes, long hair
+mallow \(pokemon\), pokemon, green hair, green eyes, blue hair, blonde hair, dark skin, dark-skinned female, short hair, long hair
+irida \(pokemon\), pokemon, blonde hair, hair between eyes, short hair, blue eyes
+elesa \(pokemon\), pokemon, blue eyes, black hair, blonde hair, short hair, long hair
+bianca \(pokemon\), pokemon, green eyes, black hair, brown hair, blonde hair, short hair
+nemona \(pokemon\), pokemon, green hair, brown eyes, orange eyes, black hair, two-tone hair, multicolored hair, brown hair, dark skin, dark-skinned female, long hair, streaked hair
+liko \(pokemon\), pokemon, multicolored hair, blue eyes, short hair, black hair
+green \(pokemon\), pokemon, brown hair, long hair, blue eyes
+iris \(pokemon\), pokemon, brown eyes, big hair, black hair, purple hair, dark skin, dark-skinned female, long hair, very long hair
+sabrina \(pokemon\), pokemon, red eyes, purple hair, long hair, black hair
+kris \(pokemon\), pokemon, blue eyes, blue hair, black hair, brown hair, long hair
+acerola \(pokemon\), pokemon, flipped hair, purple hair, short hair, purple eyes
+courtney \(pokemon\), pokemon, purple hair, short hair, purple eyes
+melony \(pokemon\), pokemon, blue eyes, multicolored hair, blonde hair, long hair, streaked hair
+jasmine \(pokemon\), pokemon, brown hair, brown eyes, long hair
+whitney \(pokemon\), pokemon, pink eyes, pink hair, long hair
+penny \(pokemon\), pokemon, red hair, blue hair, grey eyes, black hair, two-tone hair, multicolored hair, brown hair, short hair, long hair
+flannery \(pokemon\), pokemon, red eyes, red hair, long hair
+erika \(pokemon\), pokemon, short hair, black hair
+roxie \(pokemon\), pokemon, white hair, short hair, blue eyes
+lana's mother \(pokemon\), pokemon, blue hair, long hair, blue eyes
+lisia \(pokemon\), pokemon, green hair, long hair, green eyes
+clair \(pokemon\), pokemon, blue hair, long hair, blue eyes
+lacey \(pokemon\), pokemon, brown eyes, multicolored hair, purple hair, yellow eyes, pink hair, short hair
+aether foundation employee, pokemon, dark-skinned female, short hair, dark skin, black hair
+zinnia \(pokemon\), pokemon, red eyes, short hair, dark skin, black hair
+wicke \(pokemon\), pokemon, short hair, purple hair, big hair, green eyes
+female protagonist \(pokemon go\), pokemon, brown hair, long hair, blue eyes
+klara \(pokemon\), pokemon, flipped hair, purple eyes, drill hair, pink hair, short hair
+gardenia \(pokemon\), pokemon, short hair, brown eyes, orange eyes, black hair, two-tone hair, multicolored hair, brown hair, orange hair
+miriam \(pokemon\), pokemon, green eyes, multicolored hair, purple hair, bow-shaped hair, pink hair, long hair, streaked hair
+shauntal \(pokemon\), pokemon, purple hair, short hair, purple eyes
+joy \(pokemon\), pokemon, pink hair, long hair, blue eyes
+yellow \(pokemon\), pokemon, blonde hair, long hair
+lass \(pokemon\), pokemon, brown eyes, blue eyes, brown hair, blonde hair, short hair, long hair
+ace trainer \(pokemon\), pokemon, brown hair, blonde hair, long hair, blue eyes
+karen \(pokemon\), pokemon, blue eyes, wavy hair, blue hair, light blue hair, long hair
+cogita \(pokemon\), pokemon, grey hair, white hair, blonde hair, grey eyes
+shauna \(pokemon\), pokemon, green eyes, brown hair, dark skin, dark-skinned female, long hair
+roxanne \(pokemon\), pokemon, brown hair, red eyes, long hair
+lorelei \(pokemon\), pokemon, red eyes, red hair, long hair
+poke kid \(pokemon\), pokemon, brown hair, brown eyes, short hair, black hair
+barry \(pokemon\), pokemon, blonde hair, short hair, long hair, black hair
+caitlin \(pokemon\), pokemon, green eyes, blue eyes, blonde hair, long hair, very long hair
+perrin \(pokemon\), pokemon, brown eyes, gradient hair, blue hair, multicolored hair, short hair
+chloe \(pokemon\), pokemon, green eyes, blue eyes, black hair, brown hair, long hair
+coral \(pokemon\), pokemon, black eyes, pink hair, grey eyes
+mina \(pokemon\), pokemon, blue eyes, grey eyes, blonde hair, half-closed eyes, long hair
+delia ketchum, delia scarlet \(pokemon\), brown eyes, brown hair, closed eyes, black hair, short hair, long hair
+jenny \(pokemon\), long hair, green hair
