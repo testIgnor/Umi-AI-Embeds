@@ -225,6 +225,18 @@
   Tags:
     - Characters
     - Genshin
+'(__Characters/Girls Frontline__:1.3)':
+  Description:
+    - Girls Frontline Characters
+  Tags:
+    - Characters
+    - Girls Frontline
+'(__Characters/Girls und Panzer__:1.3)':
+  Description:
+    - Girls und Panzer Characters
+  Tags:
+    - Characters
+    - Girls und Panzer
 '(__Characters/Granblue__:1.3)':
   Description:
     - Granblue Characters
@@ -261,6 +273,18 @@
   Tags:
     - Characters
     - Kantai Collection
+'(__Characters/Kill la Kill__:1.3)':
+  Description:
+    - Kill la Kill Characters
+  Tags:
+    - Characters
+    - Kill la Kill Friends
+'(__Characters/KoF__:1.3)':
+  Description:
+    - KoF Characters
+  Tags:
+    - Characters
+    - KoF
 '(__Characters/Kemono Friends__:1.3)':
   Description:
     - Kemono Friends Characters
@@ -316,6 +340,12 @@
   Tags:
     - Characters
     - Nier
+'(__Characters/Nijisanji__:1.3)':
+  Description:
+    - Nijisanji Characters
+  Tags:
+    - Characters
+    - Nijisanji
 '(__Characters/Nikke__:1.3)':
   Description:
     - Nikke Characters
@@ -352,6 +382,12 @@
   Tags:
     - Characters
     - Precure
+'(__Characters/Project Sekai__:1.3)':
+  Description:
+    - Project Sekai Characters
+  Tags:
+    - Characters
+    - Project Sekai
 '(__Characters/Princess Connect__:1.3)':
   Description:
     - Princess Connect Characters
@@ -376,12 +412,30 @@
   Tags:
     - Characters
     - Sailor Moon
+'(__Characters/SamSho__:1.3)':
+  Description:
+    - SamSho Characters
+  Tags:
+    - Characters
+    - SamSho
+'(__Characters/SAO__:1.3)':
+  Description:
+    - SAO Characters
+  Tags:
+    - Characters
+    - SAO
 '(__Characters/She-ra__:1.3), she-ra and the princesses of power':
   Description:
     - She-ra Characters
   Tags:
     - Characters
     - She-ra
+'(__Characters/Shingeki no Kyojin__:1.3)':
+  Description:
+    - Shingeki no Kyojin Characters
+  Tags:
+    - Characters
+    - Shingeki no Kyojin
 '(__Characters/Soulcalibur__:1.3)':
   Description:
     - Soulcalibur Characters
@@ -400,6 +454,12 @@
   Tags:
     - Characters
     - Street Fighter
+'(__Characters/Tales__:1.3)':
+  Description:
+    - Tales Characters
+  Tags:
+    - Characters
+    - Tales
 '(__Characters/Tekken__:1.3)':
   Description:
     - Tekken Characters
@@ -430,12 +490,24 @@
   Tags:
     - Characters
     - Vocaloid
+'(__Characters/Vshojo__:1.3)':
+  Description:
+    - Vshojo Characters
+  Tags:
+    - Characters
+    - Vshojo
 '(__Characters/Witcher__:1.3), the witcher \(series\)':
   Description:
     - Witcher Characters
   Tags:
     - Characters
     - Witcher
+'(__Characters/World Witches__:1.3)':
+  Description:
+    - World Witches Characters
+  Tags:
+    - Characters
+    - World Witches
 '(__Characters/Xenoblade__:1.3)':
   Description:
     - Xenoblade Characters
@@ -448,6 +520,12 @@
   Tags:
     - Characters
     - Zelda
+'(__Characters/ZZZ__:1.3)':
+  Description:
+    - ZZZ Characters
+  Tags:
+    - Characters
+    - ZZZ
 '(__MyClothing__:1.4)':
   Description:
     - Random Clothes

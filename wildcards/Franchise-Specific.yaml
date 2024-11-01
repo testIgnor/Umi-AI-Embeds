@@ -159,6 +159,22 @@
     - RandomGenshin
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Girls Frontline]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Girls Frontline Character
+  Tags:
+    - 1girl
+    - RandomGirls Frontline
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Girls und Panzer]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Girls und Panzer Character
+  Tags:
+    - 1girl
+    - RandomGirls und Panzer
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][Granblue]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Granblue Character
@@ -277,6 +293,14 @@
   Tags:
     - 1girl
     - RandomNier
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Nijisanji]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Nijisanji Character
+  Tags:
+    - 1girl
+    - RandomNijisanji
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Nikke]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -439,6 +463,14 @@
     - RandomWitcher
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][World Witches]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random World Witches Character
+  Tags:
+    - 1girl
+    - RandomWorld Witches
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][Xenoblade]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Xenoblade Character
@@ -453,6 +485,14 @@
   Tags:
     - 1girl
     - RandomZelda
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][ZZZ]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random ZZZ Character
+  Tags:
+    - 1girl
+    - RandomZZZ
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Demons]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
