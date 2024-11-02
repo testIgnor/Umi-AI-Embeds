@@ -87,3 +87,18 @@
   Tags:
     - MyPreset
     - 1girl
+'<[FranchisePreset][Godzilla]>{15%, <[ezpreg]>|}':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - CharacterPreset
+    - 1girl
+    - MyPreset
+'<[FranchisePreset][Godzilla]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - Futanari
+    - CharacterPreset
+    - 1girl
+    - MyPreset

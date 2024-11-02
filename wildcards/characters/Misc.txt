@@ -1,12 +1,6 @@
 miao ying, soboro_miao, white hair, long hair, high ponytail, lipstick, makeup, blue eyes, glowing eyes, bright pupils
-quiet \(metal gear\)
 lara croft
-asuna \(sao\)
 yamamura sadako
-kitten \(gravity daze\)
-crow \(gravity daze\)**(crow, bird:2.0)**
-mechagodzilla, <[MechagodzillaCharacter]>
-godzilla, genderswap, (scalie:1.3)**(human, car, vehicle:2.0)**
 taylor swift
 billie eilish
 lady gaga
@@ -19,8 +13,6 @@ nicole aniston
 ana foxxx
 charlotte stokely
 katy perry
-madeline \(celeste\), red hair, red eyes
-badeline \(celeste\), purple hair, purple eyes
 wilykit, thundercats
 gwen tennyson
 harvest goddess \(harvest moon\), goddess, holy, divinity

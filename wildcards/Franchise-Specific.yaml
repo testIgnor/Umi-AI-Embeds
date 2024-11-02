@@ -4,7 +4,7 @@
     - Random Ace Attorney Character
   Tags:
     - 1girl
-    - RandomAce Attorney
+    - Ace Attorney
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Arknights]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -12,7 +12,7 @@
     - Random Arknights Character
   Tags:
     - 1girl
-    - RandomArknights
+    - Arknights
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][ATLA]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -20,7 +20,7 @@
     - Random ATLA Character
   Tags:
     - 1girl
-    - RandomATLA
+    - ATLA
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Azur Lane]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -28,7 +28,7 @@
     - Random Azur Lane Character
   Tags:
     - 1girl
-    - RandomAzur Lane
+    - Azur Lane
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Blue Archive]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -36,7 +36,7 @@
     - Random Blue Archive Character
   Tags:
     - 1girl
-    - RandomBlue Archive
+    - Blue Archive
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Celebrities]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -44,7 +44,15 @@
     - Random Celebrities Character
   Tags:
     - 1girl
-    - RandomCelebrities
+    - Celebrities
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Celeste]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Celeste Character
+  Tags:
+    - 1girl
+    - Celeste
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Comics]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -52,7 +60,7 @@
     - Random Comics Character
   Tags:
     - 1girl
-    - RandomComics
+    - Comics
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Darkstalkers]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -60,7 +68,7 @@
     - Random Darkstalkers Character
   Tags:
     - 1girl
-    - RandomDarkstalkers
+    - Darkstalkers
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Dead or Alive]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -68,7 +76,7 @@
     - Random Dead or Alive Character
   Tags:
     - 1girl
-    - RandomDead or Alive
+    - Dead or Alive
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Digimon]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -76,7 +84,7 @@
     - Random Digimon Character
   Tags:
     - 1girl
-    - RandomDigimon
+    - Digimon
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Disney]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -84,7 +92,7 @@
     - Random Disney Character
   Tags:
     - 1girl
-    - RandomDisney
+    - Disney
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Dragon Quest]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -92,7 +100,7 @@
     - Random Dragon Quest Character
   Tags:
     - 1girl
-    - RandomDragon Quest
+    - Dragon Quest
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Dragonball]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -100,7 +108,7 @@
     - Random Dragonball Character
   Tags:
     - 1girl
-    - RandomDragonball
+    - Dragonball
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Evangelion]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -108,7 +116,7 @@
     - Random Evangelion Character
   Tags:
     - 1girl
-    - RandomEvangelion
+    - Evangelion
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Fate]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -116,7 +124,7 @@
     - Random Fate Character
   Tags:
     - 1girl
-    - RandomFate
+    - Fate
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Fighters]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -124,7 +132,7 @@
     - Random Fighters Character
   Tags:
     - 1girl
-    - RandomFighters
+    - Fighters
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][FiM]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -132,7 +140,7 @@
     - Random FiM Character
   Tags:
     - 1girl
-    - RandomFiM
+    - FiM
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Final Fantasy]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -140,7 +148,7 @@
     - Random Final Fantasy Character
   Tags:
     - 1girl
-    - RandomFinal Fantasy
+    - Final Fantasy
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Fire Emblem]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -148,7 +156,7 @@
     - Random Fire Emblem Character
   Tags:
     - 1girl
-    - RandomFire Emblem
+    - Fire Emblem
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Genshin]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -156,7 +164,7 @@
     - Random Genshin Character
   Tags:
     - 1girl
-    - RandomGenshin
+    - Genshin
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Girls Frontline]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -164,7 +172,7 @@
     - Random Girls Frontline Character
   Tags:
     - 1girl
-    - RandomGirls Frontline
+    - Girls Frontline
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Girls und Panzer]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -172,7 +180,15 @@
     - Random Girls und Panzer Character
   Tags:
     - 1girl
-    - RandomGirls und Panzer
+    - Girls und Panzer
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Godzilla]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Godzilla Character
+  Tags:
+    - 1girl
+    - Godzilla
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Granblue]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -180,7 +196,15 @@
     - Random Granblue Character
   Tags:
     - 1girl
-    - RandomGranblue
+    - Granblue
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Gravity Rush]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Gravity Rush Character
+  Tags:
+    - 1girl
+    - Gravity Rush
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Guilty Gear]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -188,7 +212,7 @@
     - Random Guilty Gear Character
   Tags:
     - 1girl
-    - RandomGuilty Gear
+    - Guilty Gear
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Hololive]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -196,7 +220,7 @@
     - Random Hololive Character
   Tags:
     - 1girl
-    - RandomHololive
+    - Hololive
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Honkai]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -204,7 +228,7 @@
     - Random Honkai Character
   Tags:
     - 1girl
-    - RandomHonkai
+    - Honkai
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Idol Master]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -212,7 +236,7 @@
     - Random Idol Master Character
   Tags:
     - 1girl
-    - RandomIdol Master
+    - Idol Master
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Kantai Collection]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -220,7 +244,7 @@
     - Random Kantai Collection Character
   Tags:
     - 1girl
-    - RandomKantai Collection
+    - Kantai Collection
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Kemono Friends]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -228,7 +252,23 @@
     - Random Kemono Friends Character
   Tags:
     - 1girl
-    - RandomKemono Friends
+    - Kemono Friends
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Kill la Kill]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Kill la Kill Character
+  Tags:
+    - 1girl
+    - Kill la Kill
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][KoF]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random KoF Character
+  Tags:
+    - 1girl
+    - KoF
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][LiS]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -236,7 +276,7 @@
     - Random LiS Character
   Tags:
     - 1girl
-    - RandomLiS
+    - LiS
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][LoL]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -244,7 +284,7 @@
     - Random LoL Character
   Tags:
     - 1girl
-    - RandomLoL
+    - LoL
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Love Live]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -252,7 +292,7 @@
     - Random Love Live Character
   Tags:
     - 1girl
-    - RandomLove Live
+    - Love Live
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][MahoAko]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -260,7 +300,7 @@
     - Random MahoAko Character
   Tags:
     - 1girl
-    - RandomMahoAko
+    - MahoAko
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Mass Effect]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -268,7 +308,15 @@
     - Random Mass Effect Character
   Tags:
     - 1girl
-    - RandomMass Effect
+    - Mass Effect
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Metal Gear]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Metal Gear Character
+  Tags:
+    - 1girl
+    - Metal Gear
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Misc]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -276,7 +324,7 @@
     - Random Misc Character
   Tags:
     - 1girl
-    - RandomMisc
+    - Misc
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Naruto]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -284,7 +332,7 @@
     - Random Naruto Character
   Tags:
     - 1girl
-    - RandomNaruto
+    - Naruto
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Nier]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -292,7 +340,7 @@
     - Random Nier Character
   Tags:
     - 1girl
-    - RandomNier
+    - Nier
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Nijisanji]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -300,7 +348,7 @@
     - Random Nijisanji Character
   Tags:
     - 1girl
-    - RandomNijisanji
+    - Nijisanji
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Nikke]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -308,7 +356,7 @@
     - Random Nikke Character
   Tags:
     - 1girl
-    - RandomNikke
+    - Nikke
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Nintendo]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -316,7 +364,7 @@
     - Random Nintendo Character
   Tags:
     - 1girl
-    - RandomNintendo
+    - Nintendo
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Overwatch]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -324,7 +372,7 @@
     - Random Overwatch Character
   Tags:
     - 1girl
-    - RandomOverwatch
+    - Overwatch
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Persona]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -332,7 +380,7 @@
     - Random Persona Character
   Tags:
     - 1girl
-    - RandomPersona
+    - Persona
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Pokemon]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -340,7 +388,7 @@
     - Random Pokemon Character
   Tags:
     - 1girl
-    - RandomPokemon
+    - Pokemon
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Precure]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -348,7 +396,7 @@
     - Random Precure Character
   Tags:
     - 1girl
-    - RandomPrecure
+    - Precure
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Princess Connect]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -356,7 +404,15 @@
     - Random Princess Connect Character
   Tags:
     - 1girl
-    - RandomPrincess Connect
+    - Princess Connect
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Project Sekai]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Project Sekai Character
+  Tags:
+    - 1girl
+    - Project Sekai
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Resident Evil]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -364,7 +420,7 @@
     - Random Resident Evil Character
   Tags:
     - 1girl
-    - RandomResident Evil
+    - Resident Evil
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][RWBY]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -372,7 +428,7 @@
     - Random RWBY Character
   Tags:
     - 1girl
-    - RandomRWBY
+    - RWBY
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Sailor Moon]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -380,7 +436,23 @@
     - Random Sailor Moon Character
   Tags:
     - 1girl
-    - RandomSailor Moon
+    - Sailor Moon
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][SamSho]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random SamSho Character
+  Tags:
+    - 1girl
+    - SamSho
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][SAO]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random SAO Character
+  Tags:
+    - 1girl
+    - SAO
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][She-ra]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -388,7 +460,15 @@
     - Random She-ra Character
   Tags:
     - 1girl
-    - RandomShe-ra
+    - She-ra
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Shingeki no Kyojin]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Shingeki no Kyojin Character
+  Tags:
+    - 1girl
+    - Shingeki no Kyojin
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Soulcalibur]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -396,7 +476,7 @@
     - Random Soulcalibur Character
   Tags:
     - 1girl
-    - RandomSoulcalibur
+    - Soulcalibur
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Splatoon]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -404,7 +484,7 @@
     - Random Splatoon Character
   Tags:
     - 1girl
-    - RandomSplatoon
+    - Splatoon
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Street Fighter]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -412,7 +492,15 @@
     - Random Street Fighter Character
   Tags:
     - 1girl
-    - RandomStreet Fighter
+    - Street Fighter
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Tales]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Tales Character
+  Tags:
+    - 1girl
+    - Tales
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Tekken]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -420,7 +508,7 @@
     - Random Tekken Character
   Tags:
     - 1girl
-    - RandomTekken
+    - Tekken
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Touhou]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -428,7 +516,7 @@
     - Random Touhou Character
   Tags:
     - 1girl
-    - RandomTouhou
+    - Touhou
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Umamusume]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -436,7 +524,7 @@
     - Random Umamusume Character
   Tags:
     - 1girl
-    - RandomUmamusume
+    - Umamusume
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Upsample]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -444,7 +532,7 @@
     - Random Upsample Character
   Tags:
     - 1girl
-    - RandomUpsample
+    - Upsample
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Vocaloid]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -452,7 +540,15 @@
     - Random Vocaloid Character
   Tags:
     - 1girl
-    - RandomVocaloid
+    - Vocaloid
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Vshojo]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Vshojo Character
+  Tags:
+    - 1girl
+    - Vshojo
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Witcher]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -460,7 +556,7 @@
     - Random Witcher Character
   Tags:
     - 1girl
-    - RandomWitcher
+    - Witcher
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][World Witches]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -468,7 +564,7 @@
     - Random World Witches Character
   Tags:
     - 1girl
-    - RandomWorld Witches
+    - World Witches
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Xenoblade]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -476,7 +572,7 @@
     - Random Xenoblade Character
   Tags:
     - 1girl
-    - RandomXenoblade
+    - Xenoblade
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Zelda]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -484,7 +580,7 @@
     - Random Zelda Character
   Tags:
     - 1girl
-    - RandomZelda
+    - Zelda
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][ZZZ]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -492,7 +588,7 @@
     - Random ZZZ Character
   Tags:
     - 1girl
-    - RandomZZZ
+    - ZZZ
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Demons]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -500,7 +596,7 @@
     - Random Demons Character
   Tags:
     - 1girl
-    - RandomDemons
+    - Demons
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Magical Girls]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -508,7 +604,7 @@
     - Random Magical Girls Character
   Tags:
     - 1girl
-    - RandomMagical Girls
+    - Magical Girls
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Mass Effect Aliens]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -516,7 +612,7 @@
     - Random Mass Effect Aliens Character
   Tags:
     - 1girl
-    - RandomMass Effect Aliens
+    - Mass Effect Aliens
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][MySpecies]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -524,7 +620,7 @@
     - Random MySpecies Character
   Tags:
     - 1girl
-    - RandomMySpecies
+    - MySpecies
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Robots]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -532,7 +628,7 @@
     - Random Robots Character
   Tags:
     - 1girl
-    - RandomRobots
+    - Robots
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Royalty]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -540,7 +636,7 @@
     - Random Royalty Character
   Tags:
     - 1girl
-    - RandomRoyalty
+    - Royalty
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Special Kinds]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -548,5 +644,5 @@
     - Random Special Kinds Character
   Tags:
     - 1girl
-    - RandomSpecial Kinds
+    - Special Kinds
     - FranchisePreset
