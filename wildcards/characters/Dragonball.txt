@@ -1,18 +1,18 @@
-android 18, dragon ball, blonde hair, blue eyes, short hair
-bulma, dragon ball, short hair, long hair, blue hair, blue eyes, black hair
-chi-chi \(dragon ball\), dragon ball, black eyes, long hair, spiked hair, black hair
-android 21, dragon ball, red eyes, pink skin, long hair, hair between eyes, colored skin, blue eyes, white hair, red hair
-pan \(dragon ball\), dragon ball, black eyes, short hair, black hair
-videl, dragon ball, long hair, blue eyes, short hair, black hair
-majin android 21, dragon ball, red eyes, pink skin, long hair, hair between eyes, colored skin, blue eyes, white hair
-caulifla, dragon ball, black eyes, black hair, blonde hair, spiked hair
-cheelai, dragon ball, short hair, colored skin, white hair, green skin, purple eyes, black hair
-lunch \(dragon ball\), dragon ball, curly hair, blonde hair, long hair, blue hair, blue eyes, green eyes
-kefla \(dragon ball\), dragon ball, black hair, green hair, blue eyes, spiked hair
-lunch \(bad\) \(dragon ball\), dragon ball, curly hair, blonde hair, green eyes, long hair, blue eyes
-gine, dragon ball, short hair, black eyes, spiked hair, closed eyes, black hair
-mai \(dragon ball\), dragon ball, short hair, black eyes, long hair, blue hair, blue eyes, black hair
-lunch \(good\) \(dragon ball\), dragon ball, curly hair, blonde hair, long hair, blue hair, blue eyes
-seripa, dragon ball, spiked hair, short hair, black hair
-chronoa, dragon ball, pink hair, pink skin, short hair, black eyes, long hair, colored skin
-female majin, dragon ball, shiny skin, red eyes, pink skin, short hair, grey hair, colored skin, half-closed eyes
+(android 18:1.3), dragon ball, blonde hair, blue eyes, short hair
+(bulma:1.3), dragon ball, short hair, long hair, blue hair, blue eyes, black hair
+(chi-chi \(dragon ball\):1.3), dragon ball, black eyes, long hair, spiked hair, black hair
+(android 21:1.3), dragon ball, red eyes, pink skin, long hair, hair between eyes, colored skin, blue eyes, white hair, red hair
+(pan \(dragon ball\):1.3), dragon ball, black eyes, short hair, black hair
+(videl:1.3), dragon ball, long hair, blue eyes, short hair, black hair
+(majin android 21:1.3), dragon ball, red eyes, pink skin, long hair, hair between eyes, colored skin, blue eyes, white hair
+(caulifla:1.3), dragon ball, black eyes, black hair, blonde hair, spiked hair
+(cheelai:1.3), dragon ball, short hair, colored skin, white hair, green skin, purple eyes, black hair
+(lunch \(dragon ball\):1.3), dragon ball, curly hair, blonde hair, long hair, blue hair, blue eyes, green eyes
+(kefla \(dragon ball\):1.3), dragon ball, black hair, green hair, blue eyes, spiked hair
+(lunch \(bad\) \(dragon ball\):1.3), dragon ball, curly hair, blonde hair, green eyes, long hair, blue eyes
+(gine:1.3), dragon ball, short hair, black eyes, spiked hair, closed eyes, black hair
+(mai \(dragon ball\):1.3), dragon ball, short hair, black eyes, long hair, blue hair, blue eyes, black hair
+(lunch \(good\) \(dragon ball\):1.3), dragon ball, curly hair, blonde hair, long hair, blue hair, blue eyes
+(seripa:1.3), dragon ball, spiked hair, short hair, black hair
+(chronoa:1.3), dragon ball, pink hair, pink skin, short hair, black eyes, long hair, colored skin
+(female majin:1.3), dragon ball, shiny skin, red eyes, pink skin, short hair, grey hair, colored skin, half-closed eyes

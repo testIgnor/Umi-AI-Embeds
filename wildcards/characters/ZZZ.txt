@@ -1,26 +1,26 @@
-ellen joe, zenless zone zero, multicolored hair, red eyes, black hair, colored inner hair, red hair, hair between eyes, two-tone hair, short hair
-jane doe \(zenless zone zero\), zenless zone zero, multicolored hair, black hair, two-tone hair, red hair, green eyes, mouse ears, animal ears, long hair, green hair
-nicole demara, zenless zone zero, pink hair, green eyes, long hair
-zhu yuan, zenless zone zero, multicolored hair, black hair, red eyes, red hair, hair between eyes, streaked hair, orange eyes, two-tone hair, long hair
-belle \(zenless zone zero\), zenless zone zero, black hair, blue hair, hair between eyes, green eyes, short hair
-grace howard, zenless zone zero, orange eyes, long hair, hair between eyes, black hair
-burnice white, zenless zone zero, red eyes, blonde hair, hair between eyes, long hair, short hair
-qingyi \(zenless zone zero\), zenless zone zero, multicolored hair, black hair, green eyes, long hair, green hair
-luciana de montefio, zenless zone zero, blonde hair, hair between eyes, long hair, red eyes
-eous \(zenless zone zero\), zenless zone zero, black hair, red eyes, blue hair, hair between eyes, green eyes, long hair, short hair
-corin wickes, zenless zone zero, red eyes, black hair, hair between eyes, purple eyes, long hair, green hair
-caesar king \(zenless zone zero\), zenless zone zero, yellow eyes, hair between eyes, long hair, short hair, green hair
-anby demara, zenless zone zero, pink hair, white hair, grey hair, green eyes, orange eyes, long hair, short hair
-amillion \(zenless zone zero\), zenless zone zero, pink hair, green eyes, very long hair, long hair
-hoshimi miyabi, zenless zone zero, red eyes, black hair, fox ears, animal ears, long hair
-alexandrina sebastiane, zenless zone zero, low-tied long hair, red eyes, black hair, hair between eyes, very long hair, grey hair, long hair, short hair
-koleda belobog, zenless zone zero, red eyes, black hair, red hair, bear ears, hair between eyes, fake animal ears, animal ears, long hair
-nekomiya mana, zenless zone zero, pink hair, cat ears, red eyes, black hair, dark-skinned female, dark skin, animal ears, long hair, short hair
-piper wheel, zenless zone zero, blonde hair, green eyes, long hair
-soukaku \(zenless zone zero\), zenless zone zero, red eyes, white hair, skin-covered horns, hair between eyes, colored skin, pointy ears, short hair, blue skin
-sharkboo \(zenless zone zero\), zenless zone zero, multicolored hair, red eyes, black hair, colored inner hair, red hair, hair between eyes, two-tone hair, short hair
-drusilla \(zenless zone zero\), zenless zone zero, low-tied long hair, red eyes, black hair, hair between eyes, very long hair, grey hair, long hair
-anastella \(zenless zone zero\), zenless zone zero, low-tied long hair, red eyes, black hair, hair between eyes, very long hair, grey hair, long hair
-tsukishiro yanagi, zenless zone zero, pink hair, pink eyes, black hair, red eyes, fox ears, hair between eyes, purple eyes, animal ears, long hair
-soldier 11 \(zenless zone zero\), zenless zone zero, white hair, hair between eyes, grey hair, orange eyes, long hair, short hair
-securityboo \(zenless zone zero\), zenless zone zero, multicolored hair, black hair, red eyes, red hair, streaked hair, green eyes, long hair, green hair
+(ellen joe:1.3), zenless zone zero, multicolored hair, red eyes, black hair, colored inner hair, red hair, hair between eyes, two-tone hair, short hair
+(jane doe \(zenless zone zero\):1.3), zenless zone zero, multicolored hair, black hair, two-tone hair, red hair, green eyes, mouse ears, animal ears, long hair, green hair
+(nicole demara:1.3), zenless zone zero, pink hair, green eyes, long hair
+(zhu yuan:1.3), zenless zone zero, multicolored hair, black hair, red eyes, red hair, hair between eyes, streaked hair, orange eyes, two-tone hair, long hair
+(belle \(zenless zone zero\):1.3), zenless zone zero, black hair, blue hair, hair between eyes, green eyes, short hair
+(grace howard:1.3), zenless zone zero, orange eyes, long hair, hair between eyes, black hair
+(burnice white:1.3), zenless zone zero, red eyes, blonde hair, hair between eyes, long hair, short hair
+(qingyi \(zenless zone zero\):1.3), zenless zone zero, multicolored hair, black hair, green eyes, long hair, green hair
+(luciana de montefio:1.3), zenless zone zero, blonde hair, hair between eyes, long hair, red eyes
+(eous \(zenless zone zero\):1.3), zenless zone zero, black hair, red eyes, blue hair, hair between eyes, green eyes, long hair, short hair
+(corin wickes:1.3), zenless zone zero, red eyes, black hair, hair between eyes, purple eyes, long hair, green hair
+(caesar king \(zenless zone zero\):1.3), zenless zone zero, yellow eyes, hair between eyes, long hair, short hair, green hair
+(anby demara:1.3), zenless zone zero, pink hair, white hair, grey hair, green eyes, orange eyes, long hair, short hair
+(amillion \(zenless zone zero\):1.3), zenless zone zero, pink hair, green eyes, very long hair, long hair
+(hoshimi miyabi:1.3), zenless zone zero, red eyes, black hair, fox ears, animal ears, long hair
+(alexandrina sebastiane:1.3), zenless zone zero, low-tied long hair, red eyes, black hair, hair between eyes, very long hair, grey hair, long hair, short hair
+(koleda belobog:1.3), zenless zone zero, red eyes, black hair, red hair, bear ears, hair between eyes, fake animal ears, animal ears, long hair
+(nekomiya mana:1.3), zenless zone zero, pink hair, cat ears, red eyes, black hair, dark-skinned female, dark skin, animal ears, long hair, short hair
+(piper wheel:1.3), zenless zone zero, blonde hair, green eyes, long hair
+(soukaku \(zenless zone zero\):1.3), zenless zone zero, red eyes, white hair, skin-covered horns, hair between eyes, colored skin, pointy ears, short hair, blue skin
+(sharkboo \(zenless zone zero\):1.3), zenless zone zero, multicolored hair, red eyes, black hair, colored inner hair, red hair, hair between eyes, two-tone hair, short hair
+(drusilla \(zenless zone zero\):1.3), zenless zone zero, low-tied long hair, red eyes, black hair, hair between eyes, very long hair, grey hair, long hair
+(anastella \(zenless zone zero\):1.3), zenless zone zero, low-tied long hair, red eyes, black hair, hair between eyes, very long hair, grey hair, long hair
+(tsukishiro yanagi:1.3), zenless zone zero, pink hair, pink eyes, black hair, red eyes, fox ears, hair between eyes, purple eyes, animal ears, long hair
+(soldier 11 \(zenless zone zero\):1.3), zenless zone zero, white hair, hair between eyes, grey hair, orange eyes, long hair, short hair
+(securityboo \(zenless zone zero\):1.3), zenless zone zero, multicolored hair, black hair, red eyes, red hair, streaked hair, green eyes, long hair, green hair

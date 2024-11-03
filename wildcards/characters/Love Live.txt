@@ -1,30 +1,30 @@
-sonoda umi, love live!, blue hair, hair between eyes, yellow eyes, long hair
-tojo nozomi, love live!, green eyes, purple hair, blonde hair, long hair
-watanabe you, love live!, grey hair, brown hair, blue eyes, short hair
-minami kotori, love live!, brown eyes, yellow eyes, blue hair, brown hair, long hair
-tsushima yoshiko, love live!, purple eyes, blue hair, red hair, long hair
-matsuura kanan, love live!, purple eyes, blue hair, blonde hair, long hair
-yuki setsuna, love live!, black hair, grey eyes, long hair
-kurosawa dia, love live!, black hair, long hair, green eyes
-kunikida hanamaru, love live!, brown eyes, yellow eyes, blue hair, long hair, brown hair
-tennoji rina, love live!, yellow eyes, short hair, medium hair, long hair, kishimen hair, pink hair
-osaka shizuku, love live!, hair between eyes, long hair, blue eyes, brown hair
-nakasu kasumi, love live!, short hair, grey hair, red eyes, long hair, brown hair
-shibuya kanon, love live!, short hair, medium hair, orange hair, hair between eyes, long hair, purple eyes
-emma verde, love live!, medium hair, hair between eyes, blue eyes, long hair, brown hair
-asaka karin, love live!, short hair, medium hair, blue hair, blue eyes, long hair, black hair
-miyashita ai, love live!, medium hair, blonde hair, yellow eyes, orange eyes
-mifune shioriko, love live!, short hair, medium hair, red eyes, black hair, long hair, green hair
-konoe kanata, love live!, orange hair, hair between eyes, brown hair, long hair, purple eyes
-heanna sumire, love live!, green eyes, blonde hair, short hair, long hair
-mia taylor, love live!, short hair, medium hair, blue eyes, long hair, purple eyes, pink hair, blonde hair
-zhong lanzhu, love live!, short hair, pink hair, blue eyes, long hair
-kazuno sarah, love live!, purple eyes, purple hair, long hair
-nakagawa nana, love live!, black hair, grey eyes, long hair
-minami kotori \(bird\), love live!, brown hair, yellow eyes, long hair
-yuki setsuna \(afterschool school idol\), love live!, black hair, grey eyes, long hair
-kusunoki tomori, love live!, grey eyes, brown eyes, short hair, black hair, brown hair, long hair, closed eyes
-yohane \(genjitsu no yohane\), love live!, purple eyes, blue hair, long hair
-shiitake \(love live!\), love live!, short hair, orange hair, red hair, red eyes, long hair, brown hair, closed eyes
-uchicchii, love live!, grey hair, brown hair, blue eyes, short hair
-watanabe tsuki, love live!, short hair, hair between eyes, blue eyes, black hair, purple eyes
+(sonoda umi:1.3), love live!, blue hair, hair between eyes, yellow eyes, long hair
+(tojo nozomi:1.3), love live!, green eyes, purple hair, blonde hair, long hair
+(watanabe you:1.3), love live!, grey hair, brown hair, blue eyes, short hair
+(minami kotori:1.3), love live!, brown eyes, yellow eyes, blue hair, brown hair, long hair
+(tsushima yoshiko:1.3), love live!, purple eyes, blue hair, red hair, long hair
+(matsuura kanan:1.3), love live!, purple eyes, blue hair, blonde hair, long hair
+(yuki setsuna:1.3), love live!, black hair, grey eyes, long hair
+(kurosawa dia:1.3), love live!, black hair, long hair, green eyes
+(kunikida hanamaru:1.3), love live!, brown eyes, yellow eyes, blue hair, long hair, brown hair
+(tennoji rina:1.3), love live!, yellow eyes, short hair, medium hair, long hair, kishimen hair, pink hair
+(osaka shizuku:1.3), love live!, hair between eyes, long hair, blue eyes, brown hair
+(nakasu kasumi:1.3), love live!, short hair, grey hair, red eyes, long hair, brown hair
+(shibuya kanon:1.3), love live!, short hair, medium hair, orange hair, hair between eyes, long hair, purple eyes
+(emma verde:1.3), love live!, medium hair, hair between eyes, blue eyes, long hair, brown hair
+(asaka karin:1.3), love live!, short hair, medium hair, blue hair, blue eyes, long hair, black hair
+(miyashita ai:1.3), love live!, medium hair, blonde hair, yellow eyes, orange eyes
+(mifune shioriko:1.3), love live!, short hair, medium hair, red eyes, black hair, long hair, green hair
+(konoe kanata:1.3), love live!, orange hair, hair between eyes, brown hair, long hair, purple eyes
+(heanna sumire:1.3), love live!, green eyes, blonde hair, short hair, long hair
+(mia taylor:1.3), love live!, short hair, medium hair, blue eyes, long hair, purple eyes, pink hair, blonde hair
+(zhong lanzhu:1.3), love live!, short hair, pink hair, blue eyes, long hair
+(kazuno sarah:1.3), love live!, purple eyes, purple hair, long hair
+(nakagawa nana:1.3), love live!, black hair, grey eyes, long hair
+(minami kotori \(bird\):1.3), love live!, brown hair, yellow eyes, long hair
+(yuki setsuna \(afterschool school idol\):1.3), love live!, black hair, grey eyes, long hair
+(kusunoki tomori:1.3), love live!, grey eyes, brown eyes, short hair, black hair, brown hair, long hair, closed eyes
+(yohane \(genjitsu no yohane\):1.3), love live!, purple eyes, blue hair, long hair
+(shiitake \(love live!\):1.3), love live!, short hair, orange hair, red hair, red eyes, long hair, brown hair, closed eyes
+(uchicchii:1.3), love live!, grey hair, brown hair, blue eyes, short hair
+(watanabe tsuki:1.3), love live!, short hair, hair between eyes, blue eyes, black hair, purple eyes

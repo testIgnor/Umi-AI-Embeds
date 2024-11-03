@@ -1,29 +1,29 @@
-pyra \(xenoblade\), xenoblade chronicles \(series\), red eyes, short hair, blonde hair, long hair, red hair
-mythra \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, red eyes, short hair, blonde hair, long hair, very long hair, red hair
-nia \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, short hair, grey hair, long hair, very long hair
-mio \(xenoblade\), xenoblade chronicles \(series\), grey hair, long hair, short hair, yellow eyes
-nia \(blade\) \(xenoblade\), xenoblade chronicles \(series\), very long hair, long hair, grey hair, yellow eyes
-eunie \(xenoblade\), xenoblade chronicles \(series\), long hair, medium hair, blue eyes, brown hair
-pyra \(pro swimmer\) \(xenoblade\), xenoblade chronicles \(series\), red eyes, short hair, red hair
-melia antiqua, xenoblade chronicles \(series\), grey hair, long hair, blue eyes, curly hair
-pneuma \(xenoblade\), xenoblade chronicles \(series\), very long hair, long hair, green eyes, green hair
-mythra \(massive melee\) \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, red eyes, short hair, blonde hair, long hair, very long hair, red hair
-morag ladair \(xenoblade\), xenoblade chronicles \(series\), brown eyes, short hair, closed eyes, long hair, black hair
-poppi \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, purple hair, short hair, orange eyes, long hair
-mythra \(radiant beach\) \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, red eyes, short hair, blonde hair, long hair, very long hair, red hair
-fiora \(xenoblade\), xenoblade chronicles \(series\), short hair, blonde hair, green eyes, long hair, blue eyes
-sena \(xenoblade\), xenoblade chronicles \(series\), fiery hair, brown eyes, multicolored hair, blue hair
-glimmer \(xenoblade\), xenoblade chronicles \(series\), long hair, red hair
-poppi qtpi \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, purple hair, orange eyes, long hair, blue hair, very long hair
-ethel \(xenoblade\), xenoblade chronicles \(series\), grey hair, long hair, blue eyes, very long hair
-dromarch \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, short hair, closed eyes, grey hair, long hair, red hair
-a \(xenoblade\), xenoblade chronicles \(series\), messy hair, grey hair, long hair, hair between eyes, blue eyes, very long hair
-elma \(xenoblade x\), xenoblade chronicles \(series\), dark-skinned female, long hair, blue eyes, white hair, dark skin
-na'el \(xenoblade\), xenoblade chronicles \(series\), grey hair, messy hair, short hair, yellow eyes
-kos-mos re:, xenoblade chronicles \(series\), very long hair, long hair, blue hair, red eyes
-mecha-fiora, xenoblade chronicles \(series\), blonde hair, green eyes, short hair
-morag ladair \(obligatory leave\) \(xenoblade\), xenoblade chronicles \(series\), long hair, brown eyes, hair between eyes, black hair
-nia \(fancy sundress\) \(xenoblade\), xenoblade chronicles \(series\), grey hair, short hair, yellow eyes
-poppi qt \(xenoblade\), xenoblade chronicles \(series\), long hair, purple hair, short hair, orange eyes
-finch \(xenoblade\), xenoblade chronicles \(series\), long hair, green hair, blue eyes, feather hair
-pneuma \(xenoblade\), xenoblade chronicles \(series\), long hair, high ponytail, green hair, very long hair, green eyes
+(pyra \(xenoblade\):1.3), xenoblade chronicles \(series\), red eyes, short hair, blonde hair, long hair, red hair
+(mythra \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, red eyes, short hair, blonde hair, long hair, very long hair, red hair
+(nia \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, short hair, grey hair, long hair, very long hair
+(mio \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, long hair, short hair, yellow eyes
+(nia \(blade\) \(xenoblade\):1.3), xenoblade chronicles \(series\), very long hair, long hair, grey hair, yellow eyes
+(eunie \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, medium hair, blue eyes, brown hair
+(pyra \(pro swimmer\) \(xenoblade\):1.3), xenoblade chronicles \(series\), red eyes, short hair, red hair
+(melia antiqua:1.3), xenoblade chronicles \(series\), grey hair, long hair, blue eyes, curly hair
+(pneuma \(xenoblade\):1.3), xenoblade chronicles \(series\), very long hair, long hair, green eyes, green hair
+(mythra \(massive melee\) \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, red eyes, short hair, blonde hair, long hair, very long hair, red hair
+(morag ladair \(xenoblade\):1.3), xenoblade chronicles \(series\), brown eyes, short hair, closed eyes, long hair, black hair
+(poppi \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, purple hair, short hair, orange eyes, long hair
+(mythra \(radiant beach\) \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, red eyes, short hair, blonde hair, long hair, very long hair, red hair
+(fiora \(xenoblade\):1.3), xenoblade chronicles \(series\), short hair, blonde hair, green eyes, long hair, blue eyes
+(sena \(xenoblade\):1.3), xenoblade chronicles \(series\), fiery hair, brown eyes, multicolored hair, blue hair
+(glimmer \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, red hair
+(poppi qtpi \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, purple hair, orange eyes, long hair, blue hair, very long hair
+(ethel \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, long hair, blue eyes, very long hair
+(dromarch \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, short hair, closed eyes, grey hair, long hair, red hair
+(a \(xenoblade\):1.3), xenoblade chronicles \(series\), messy hair, grey hair, long hair, hair between eyes, blue eyes, very long hair
+(elma \(xenoblade x\):1.3), xenoblade chronicles \(series\), dark-skinned female, long hair, blue eyes, white hair, dark skin
+(na'el \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, messy hair, short hair, yellow eyes
+(kos-mos re::1.3), xenoblade chronicles \(series\), very long hair, long hair, blue hair, red eyes
+(mecha-fiora:1.3), xenoblade chronicles \(series\), blonde hair, green eyes, short hair
+(morag ladair \(obligatory leave\) \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, brown eyes, hair between eyes, black hair
+(nia \(fancy sundress\) \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, short hair, yellow eyes
+(poppi qt \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, purple hair, short hair, orange eyes
+(finch \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, green hair, blue eyes, feather hair
+(pneuma \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, high ponytail, green hair, very long hair, green eyes

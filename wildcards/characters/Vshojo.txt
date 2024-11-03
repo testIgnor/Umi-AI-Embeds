@@ -1,15 +1,15 @@
-ironmouse, vshojo, purple eyes, pink hair, purple hair, long hair, streaked hair, pointy ears, multicolored hair
-zentreya, vshojo, long hair, yellow eyes, grey hair, red hair
-melody \(projektmelody\), vshojo, blue eyes, purple hair, long hair, streaked hair, blue hair, multicolored hair
-apricot the lich, vshojo, grey hair, short hair, green eyes, streaked hair, blue hair, pointy ears, green hair, multicolored hair
-amemiya nazuna, vshojo, blue eyes, short hair, skin fang, white hair, pink eyes
-henya the genius, vshojo, grey hair, purple hair, hair between eyes, long hair, yellow eyes, gradient hair, multicolored hair
-nyatasha nyanners, vshojo, animal ears, purple eyes, pink hair, cat ears, hair between eyes, long hair
-zentreya \(cyborg\), vshojo, grey hair, short hair, white hair, yellow eyes, long hair
-zentreya \(dragon\), vshojo, long hair, yellow eyes, red hair
-matara kan, vshojo, pink hair, red eyes, long hair, streaked hair, antenna hair, multicolored hair, very long hair
-amemiya nazuna \(1st costume\), vshojo, blue eyes, short hair, skin fang, white hair, pink eyes
-henya the genius \(1st costume\), vshojo, grey hair, purple hair, hair between eyes, long hair, yellow eyes, gradient hair, multicolored hair
-ironmouse \(1st costume\), vshojo, purple eyes, pink hair, purple hair, long hair, streaked hair, multicolored hair
-vei \(vtuber\) \(sky empress\), vshojo, animal ears, white hair, hair between eyes, long hair, blue hair, brown eyes, multicolored hair, very long hair
-matara kan \(1st costume\), vshojo, pink hair, red eyes, long hair, streaked hair, antenna hair, multicolored hair, very long hair
+(ironmouse:1.3), vshojo, purple eyes, pink hair, purple hair, long hair, streaked hair, pointy ears, multicolored hair
+(zentreya:1.3), vshojo, long hair, yellow eyes, grey hair, red hair
+(melody \(projektmelody\):1.3), vshojo, blue eyes, purple hair, long hair, streaked hair, blue hair, multicolored hair
+(apricot the lich:1.3), vshojo, grey hair, short hair, green eyes, streaked hair, blue hair, pointy ears, green hair, multicolored hair
+(amemiya nazuna:1.3), vshojo, blue eyes, short hair, skin fang, white hair, pink eyes
+(henya the genius:1.3), vshojo, grey hair, purple hair, hair between eyes, long hair, yellow eyes, gradient hair, multicolored hair
+(nyatasha nyanners:1.3), vshojo, animal ears, purple eyes, pink hair, cat ears, hair between eyes, long hair
+(zentreya \(cyborg\):1.3), vshojo, grey hair, short hair, white hair, yellow eyes, long hair
+(zentreya \(dragon\):1.3), vshojo, long hair, yellow eyes, red hair
+(matara kan:1.3), vshojo, pink hair, red eyes, long hair, streaked hair, antenna hair, multicolored hair, very long hair
+(amemiya nazuna \(1st costume\):1.3), vshojo, blue eyes, short hair, skin fang, white hair, pink eyes
+(henya the genius \(1st costume\):1.3), vshojo, grey hair, purple hair, hair between eyes, long hair, yellow eyes, gradient hair, multicolored hair
+(ironmouse \(1st costume\):1.3), vshojo, purple eyes, pink hair, purple hair, long hair, streaked hair, multicolored hair
+(vei \(vtuber\) \(sky empress\):1.3), vshojo, animal ears, white hair, hair between eyes, long hair, blue hair, brown eyes, multicolored hair, very long hair
+(matara kan \(1st costume\):1.3), vshojo, pink hair, red eyes, long hair, streaked hair, antenna hair, multicolored hair, very long hair

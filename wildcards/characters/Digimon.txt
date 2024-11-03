@@ -1,5 +1,5 @@
-yagami hikari
-makino ruki
-kari kamiya
-hikari kamiya
-rika nonaka
+(yagami hikari:1.3)
+(makino ruki:1.3)
+(kari kamiya:1.3)
+(hikari kamiya:1.3)
+(rika nonaka:1.3)

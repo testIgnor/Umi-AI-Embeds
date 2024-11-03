@@ -1,7 +1,7 @@
-matoi ryuuko, kill la kill, black hair, short hair, blue eyes, two-tone hair, streaked hair, red hair, multicolored hair
-senketsu, kill la kill, black hair, short hair, blue eyes, red hair, streaked hair, two-tone hair, multicolored hair
-junketsu, kill la kill, black hair, blue eyes, short hair, long hair, multicolored hair
-jakuzure nonon, kill la kill, pink eyes, pink hair, short hair
-harime nui, kill la kill, blue eyes, drill hair, blonde hair, long hair, big hair
-jakuzure nonon \(symphony regalia\), kill la kill, pink eyes, pink hair, short hair
-hakodate omiko, kill la kill, long hair, blue eyes, blonde hair
+(matoi ryuuko:1.3), kill la kill, black hair, short hair, blue eyes, two-tone hair, streaked hair, red hair, multicolored hair
+(senketsu:1.3), kill la kill, black hair, short hair, blue eyes, red hair, streaked hair, two-tone hair, multicolored hair
+(junketsu:1.3), kill la kill, black hair, blue eyes, short hair, long hair, multicolored hair
+(jakuzure nonon:1.3), kill la kill, pink eyes, pink hair, short hair
+(harime nui:1.3), kill la kill, blue eyes, drill hair, blonde hair, long hair, big hair
+(jakuzure nonon \(symphony regalia\):1.3), kill la kill, pink eyes, pink hair, short hair
+(hakodate omiko:1.3), kill la kill, long hair, blue eyes, blonde hair

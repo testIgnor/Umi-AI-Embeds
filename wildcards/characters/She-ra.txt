@@ -1,9 +1,9 @@
-adora \(she-ra\)
-catra
-glimmer \(she-ra\)
-entrapa
-spinnerella
-queen angella
-mermista
-huntara
-illaoi
+(adora \(she-ra\):1.3)
+(catra:1.3)
+(glimmer \(she-ra\):1.3)
+(entrapa:1.3)
+(spinnerella:1.3)
+(queen angella:1.3)
+(mermista:1.3)
+(huntara:1.3)
+(illaoi:1.3)

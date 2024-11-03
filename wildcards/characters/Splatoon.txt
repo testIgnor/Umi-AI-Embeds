@@ -1,9 +1,9 @@
-pearl \(splatoon\)
-marina \(splatoon\)
-callie \(splatoon\)
-marie \(splatoon\)
-shiver \(splatoon\)
-frye \(splatoon\)
-agent 3 \(splatoon\), inkling
-agent 8 \(splatoon\), octoling
-agent 4 \(splatoon\), inkling
+(pearl \(splatoon\):1.3)
+(marina \(splatoon\):1.3)
+(callie \(splatoon\):1.3)
+(marie \(splatoon\):1.3)
+(shiver \(splatoon\):1.3)
+(frye \(splatoon\):1.3)
+(agent 3 \(splatoon\):1.3), inkling
+(agent 8 \(splatoon\):1.3), octoling
+(agent 4 \(splatoon\):1.3), inkling

@@ -1,13 +1,13 @@
-gwen stacy
-mary jane watson
-wonder woman
-poison ivy
-catwoman
-harley quinn
-batgirl
-supergirl
-power girl
-raven \(dc\)
-starfire
-april o'neil
-she-hulk
+(gwen stacy:1.3)
+(mary jane watson:1.3)
+(wonder woman:1.3)
+(poison ivy:1.3)
+(catwoman:1.3)
+(harley quinn:1.3)
+(batgirl:1.3)
+(supergirl:1.3)
+(power girl:1.3)
+(raven \(dc\):1.3)
+(starfire:1.3)
+(april o'neil:1.3)
+(she-hulk:1.3)

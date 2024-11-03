@@ -1,7 +1,7 @@
-isabella valentine, soulcalibur, blue eyes, short hair, white hair
-cassandra alexandra, soulcalibur, blonde hair, green eyes, blue eyes, short hair
-sophitia alexandra, soulcalibur, blonde hair, green eyes, blue eyes, long hair
-taki \(soulcalibur\), soulcalibur, brown eyes, brown hair, skin tight, long hair, black hair
-chai xianghua, soulcalibur, brown eyes, short hair, brown hair
-talim, soulcalibur, long hair, dark skin, brown eyes, black hair
-amy sorel, soulcalibur, red eyes, drill hair, red hair
+(isabella valentine:1.3), soulcalibur, blue eyes, short hair, white hair
+(cassandra alexandra:1.3), soulcalibur, blonde hair, green eyes, blue eyes, short hair
+(sophitia alexandra:1.3), soulcalibur, blonde hair, green eyes, blue eyes, long hair
+(taki \(soulcalibur\):1.3), soulcalibur, brown eyes, brown hair, skin tight, long hair, black hair
+(chai xianghua:1.3), soulcalibur, brown eyes, short hair, brown hair
+(talim:1.3), soulcalibur, long hair, dark skin, brown eyes, black hair
+(amy sorel:1.3), soulcalibur, red eyes, drill hair, red hair

@@ -1,22 +1,22 @@
-queen
-princess
-princess, egyptian pharaoh, egyptian princess, dark-skinned female, dark skin
-queen, egyptian pharaoh, egyptian queen, dark-skinned female, dark skin
-priestess, egyptian priestess, dark-skinned female, dark skin
-priestess
-princess, european princess, light-skinned female, light skin
-queen, european queen, light-skinned female, light skin
-princess, african princess, dark-skinned female, dark skin
-queen, african queen, dark-skinned female, dark skin
-princess, asian princess
-queen, asian queen
-empress, asian empress
-empress, roman empress
-princess, warrior princess
-queen, warrior queen
-prince, (genderswap:1.5)
-king, (genderswap:1.5)
-emperor, (genderswap:1.5)
-duchess
-countess
-princess, knight, princess knight, female knight, female holy knight, paladin
+(queen:1.3)
+(princess:1.3)
+(princess:1.3), egyptian pharaoh, egyptian princess, dark-skinned female, dark skin
+(queen:1.3), egyptian pharaoh, egyptian queen, dark-skinned female, dark skin
+(priestess:1.3), egyptian priestess, dark-skinned female, dark skin
+(priestess:1.3)
+(princess:1.3), european princess, light-skinned female, light skin
+(queen:1.3), european queen, light-skinned female, light skin
+(princess:1.3), african princess, dark-skinned female, dark skin
+(queen:1.3), african queen, dark-skinned female, dark skin
+(princess:1.3), asian princess
+(queen:1.3), asian queen
+(empress:1.3), asian empress
+(empress:1.3), roman empress
+(princess:1.3), warrior princess
+(queen:1.3), warrior queen
+(prince:1.3), (genderswap:1.5)
+(king:1.3), (genderswap:1.5)
+(emperor:1.3), (genderswap:1.5)
+(duchess:1.3)
+(countess:1.3)
+(princess:1.3), knight, princess knight, female knight, female holy knight, paladin

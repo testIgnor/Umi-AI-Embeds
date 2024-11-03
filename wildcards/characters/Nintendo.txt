@@ -1,32 +1,32 @@
-princess peach, mario \(series\), blonde hair, blue eyes, long hair
-bowsette, mario \(series\), blonde hair, blue eyes, long hair, hair between eyes
-rosalina, mario \(series\), blonde hair, blue eyes, long hair**(luma:2.0)**
-princess daisy, mario \(series\), blonde hair, long hair, blue eyes, brown hair
-bowser, mario \(series\), blonde hair, long hair, blue eyes, facial hair, red hair
-princess king boo, mario \(series\), red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes
-boo \(mario\), mario \(series\), red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes
-luma \(mario\), mario \(series\), blonde hair, blue eyes, long hair
-toad \(mario\), mario \(series\), brown hair, blonde hair, long hair, blue eyes, facial hair
-goomba, mario \(series\), blonde hair, blue eyes, long hair, facial hair
-red toad \(mario\), mario \(series\), brown hair, blonde hair, long hair, blue eyes, facial hair
-chain chomp, mario \(series\), blonde hair, long hair, blue eyes, black hair
-bob-omb, mario \(series\), brown hair, short hair, blonde hair, long hair, blue eyes, facial hair
-pauline \(mario\), mario \(series\), blonde hair, long hair, blue eyes, brown hair
-vivian \(paper mario\), mario \(series\), pink hair, curly hair, purple skin, long hair, colored skin, hair over eyes
-princess chain chomp, mario \(series\), black eyes, long hair, short hair, black hair
-blooper \(mario\), mario \(series\), blonde hair, long hair, blue eyes
-bullet bill, mario \(series\), blonde hair, long hair, blue eyes
-warupeach, mario \(series\), blonde hair, blue eyes, long hair
-biker peach, mario \(series\), blonde hair, blue eyes, long hair
-lakitu, mario \(series\), blonde hair, long hair, brown hair, facial hair
-princess peach \(wedding\), mario \(series\), blonde hair, blue eyes, long hair
-bow \(paper mario\), mario \(series\), long hair, green hair, facial hair
-peachette, mario \(series\), blonde hair, blue eyes, grey eyes, long hair
-palutena
-samus aran
-dark samus, black sclera, blue skin, black hair
-bayonetta
-krystal, fox anthro
-isabelle \(animal crossing\)
-raymond \(animal crossing\)
-ankha \(animal crossing\)
+(princess peach:1.3), mario \(series\), blonde hair, blue eyes, long hair
+(bowsette:1.3), mario \(series\), blonde hair, blue eyes, long hair, hair between eyes
+(rosalina:1.3), mario \(series\), blonde hair, blue eyes, long hair**(luma:2.0)**
+(princess daisy:1.3), mario \(series\), blonde hair, long hair, blue eyes, brown hair
+(bowser:1.3), mario \(series\), blonde hair, long hair, blue eyes, facial hair, red hair
+(princess king boo:1.3), mario \(series\), red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes
+(boo \(mario\):1.3), mario \(series\), red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes
+(luma \(mario\):1.3), mario \(series\), blonde hair, blue eyes, long hair
+(toad \(mario\):1.3), mario \(series\), brown hair, blonde hair, long hair, blue eyes, facial hair
+(goomba:1.3), mario \(series\), blonde hair, blue eyes, long hair, facial hair
+(red toad \(mario\):1.3), mario \(series\), brown hair, blonde hair, long hair, blue eyes, facial hair
+(chain chomp:1.3), mario \(series\), blonde hair, long hair, blue eyes, black hair
+(bob-omb:1.3), mario \(series\), brown hair, short hair, blonde hair, long hair, blue eyes, facial hair
+(pauline \(mario\):1.3), mario \(series\), blonde hair, long hair, blue eyes, brown hair
+(vivian \(paper mario\):1.3), mario \(series\), pink hair, curly hair, purple skin, long hair, colored skin, hair over eyes
+(princess chain chomp:1.3), mario \(series\), black eyes, long hair, short hair, black hair
+(blooper \(mario\):1.3), mario \(series\), blonde hair, long hair, blue eyes
+(bullet bill:1.3), mario \(series\), blonde hair, long hair, blue eyes
+(warupeach:1.3), mario \(series\), blonde hair, blue eyes, long hair
+(biker peach:1.3), mario \(series\), blonde hair, blue eyes, long hair
+(lakitu:1.3), mario \(series\), blonde hair, long hair, brown hair, facial hair
+(princess peach \(wedding\):1.3), mario \(series\), blonde hair, blue eyes, long hair
+(bow \(paper mario\):1.3), mario \(series\), long hair, green hair, facial hair
+(peachette:1.3), mario \(series\), blonde hair, blue eyes, grey eyes, long hair
+(palutena:1.3)
+(samus aran:1.3)
+(dark samus:1.3), black sclera, blue skin, black hair
+(bayonetta:1.3)
+(krystal:1.3), fox anthro
+(isabelle \(animal crossing\):1.3)
+(raymond \(animal crossing\):1.3)
+(ankha \(animal crossing\):1.3)

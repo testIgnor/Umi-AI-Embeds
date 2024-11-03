@@ -1,14 +1,14 @@
-kasumi \(doa\), dead or alive, long hair, brown eyes, brown hair
-marie rose, dead or alive, blonde hair, blue eyes, long hair
-ayane \(doa\), dead or alive, red eyes, purple hair, short hair
-honoka \(doa\), dead or alive, pink hair, long hair, red eyes
-nyotengu, dead or alive, long hair, purple eyes, black hair
-hitomi \(doa\), dead or alive, long hair, blue eyes, brown hair
-lei fang, dead or alive, long hair, brown eyes, brown hair, black hair
-marie rose \(devilish servant against the splashing waves\), dead or alive, blonde hair, blue eyes, long hair
-tina armstrong, dead or alive, blonde hair, long hair, blue eyes, short hair
-helena douglas, dead or alive, blonde hair, blue eyes, long hair
-christie \(doa\), dead or alive, blonde hair, blue eyes, short hair, white hair
-kokoro \(doa\), dead or alive, brown eyes, brown hair, long hair, blue eyes, black hair
-mila \(doa\), dead or alive, brown eyes, multicolored hair, red eyes, short hair, red hair
-lisa hamilton, dead or alive, dark-skinned female, brown eyes, brown hair, short hair, blonde hair, long hair, very dark skin, dark skin
+(kasumi \(doa\):1.3), dead or alive, long hair, brown eyes, brown hair
+(marie rose:1.3), dead or alive, blonde hair, blue eyes, long hair
+(ayane \(doa\):1.3), dead or alive, red eyes, purple hair, short hair
+(honoka \(doa\):1.3), dead or alive, pink hair, long hair, red eyes
+(nyotengu:1.3), dead or alive, long hair, purple eyes, black hair
+(hitomi \(doa\):1.3), dead or alive, long hair, blue eyes, brown hair
+(lei fang:1.3), dead or alive, long hair, brown eyes, brown hair, black hair
+(marie rose \(devilish servant against the splashing waves\):1.3), dead or alive, blonde hair, blue eyes, long hair
+(tina armstrong:1.3), dead or alive, blonde hair, long hair, blue eyes, short hair
+(helena douglas:1.3), dead or alive, blonde hair, blue eyes, long hair
+(christie \(doa\):1.3), dead or alive, blonde hair, blue eyes, short hair, white hair
+(kokoro \(doa\):1.3), dead or alive, brown eyes, brown hair, long hair, blue eyes, black hair
+(mila \(doa\):1.3), dead or alive, brown eyes, multicolored hair, red eyes, short hair, red hair
+(lisa hamilton:1.3), dead or alive, dark-skinned female, brown eyes, brown hair, short hair, blonde hair, long hair, very dark skin, dark skin

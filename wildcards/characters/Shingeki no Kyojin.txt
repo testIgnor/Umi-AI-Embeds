@@ -1,8 +1,8 @@
-mikasa ackerman, shingeki no kyojin, black hair, short hair, brown hair, black eyes
-annie leonhart, shingeki no kyojin, black hair, short hair, blue eyes, blonde hair
-pieck finger, shingeki no kyojin, black hair, long hair, short hair, black eyes
-petra ral, shingeki no kyojin, black hair, short hair, brown hair, blonde hair
-gabi braun, shingeki no kyojin, short hair, brown eyes, brown hair, blonde hair
-female titan, shingeki no kyojin, black hair, short hair, blue eyes, blonde hair
-auruo bossard, shingeki no kyojin, black hair, short hair, brown hair, blonde hair
-erd gin, shingeki no kyojin, black hair, short hair, brown hair, blonde hair
+(mikasa ackerman:1.3), shingeki no kyojin, black hair, short hair, brown hair, black eyes
+(annie leonhart:1.3), shingeki no kyojin, black hair, short hair, blue eyes, blonde hair
+(pieck finger:1.3), shingeki no kyojin, black hair, long hair, short hair, black eyes
+(petra ral:1.3), shingeki no kyojin, black hair, short hair, brown hair, blonde hair
+(gabi braun:1.3), shingeki no kyojin, short hair, brown eyes, brown hair, blonde hair
+(female titan:1.3), shingeki no kyojin, black hair, short hair, blue eyes, blonde hair
+(auruo bossard:1.3), shingeki no kyojin, black hair, short hair, brown hair, blonde hair
+(erd gin:1.3), shingeki no kyojin, black hair, short hair, brown hair, blonde hair

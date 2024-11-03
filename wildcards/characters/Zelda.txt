@@ -1,22 +1,22 @@
-purah, the legend of zelda, red eyes, short hair, white hair
-mipha, the legend of zelda, multicolored skin, yellow eyes, red skin, long hair, blonde hair, colored skin, red hair
-sheik, the legend of zelda, blonde hair, blue eyes, long hair, red eyes
-urbosa, the legend of zelda, dark-skinned female, big hair, blonde hair, long hair, green eyes, dark skin, red hair
-midna \(true\), the legend of zelda, orange hair, red eyes, blue skin, long hair, blonde hair, colored skin
-saria \(zelda\), the legend of zelda, blonde hair, green hair, blue eyes, short hair
-toon zelda, the legend of zelda, multicolored hair, floating hair, blonde hair, long hair, blue eyes
-riju, the legend of zelda, dark-skinned female, long hair, green eyes, blonde hair, dark skin, red hair, <lora:Riju_Zelda_TotK_P1:1>
-linkle, the legend of zelda, blonde hair, blue eyes, long hair
-princess ruto, the legend of zelda, blue skin, blonde hair, long hair, colored skin, blue eyes, purple eyes <lora:Ruto_Zelda_P1:1>
-marin \(zelda\), the legend of zelda, orange hair, brown eyes, brown hair, blonde hair, long hair
-medli, the legend of zelda, blonde hair, red eyes, long hair, brown hair
-tri \(zelda\), the legend of zelda, blonde hair, blue eyes, long hair
-lana \(hyrule warriors\), the legend of zelda, blonde hair, long hair, blue hair, purple eyes
-cia \(hyrule warriors\), the legend of zelda, dark-skinned female, red eyes, short hair, blonde hair, white hair, dark skin, purple eyes
-princess hilda, the legend of zelda, blonde hair, long hair, purple hair, red eyes
-cremia, the legend of zelda, brown hair, blonde hair, long hair, blue eyes, red hair
-link \(shounen captain\), the legend of zelda, long hair, pink hair, blue eyes
-great fairy \(zelda\), the legend of zelda, short hair, blonde hair, blue eyes, long hair, pink hair**(princess zelda, malon, cremia, romani \(zelda\), midna, linkle:1.7)**
-paya \(zelda\), the legend of zelda, brown eyes, white hair, grey hair, blonde hair, long hair
-nabooru, the legend of zelda, zzNabooru, dark-skinned female, green hair, long hair, blue eyes, short hair, blonde hair, red hair, dark skin, long pony tail <lora:Nabooru_P1:1>
-malon, the legend of zelda, blonde hair, brown hair, red hair, long hair, blue eyes
+(purah:1.3), the legend of zelda, red eyes, short hair, white hair
+(mipha:1.3), the legend of zelda, multicolored skin, yellow eyes, red skin, long hair, blonde hair, colored skin, red hair
+(sheik:1.3), the legend of zelda, blonde hair, blue eyes, long hair, red eyes
+(urbosa:1.3), the legend of zelda, dark-skinned female, big hair, blonde hair, long hair, green eyes, dark skin, red hair
+(midna \(true\):1.3), the legend of zelda, orange hair, red eyes, blue skin, long hair, blonde hair, colored skin
+(saria \(zelda\):1.3), the legend of zelda, blonde hair, green hair, blue eyes, short hair
+(toon zelda:1.3), the legend of zelda, multicolored hair, floating hair, blonde hair, long hair, blue eyes
+(riju:1.3), the legend of zelda, dark-skinned female, long hair, green eyes, blonde hair, dark skin, red hair, <lora:Riju_Zelda_TotK_P1:1>
+(linkle:1.3), the legend of zelda, blonde hair, blue eyes, long hair
+(princess ruto:1.3), the legend of zelda, blue skin, blonde hair, long hair, colored skin, blue eyes, purple eyes <lora:Ruto_Zelda_P1:1>
+(marin \(zelda\):1.3), the legend of zelda, orange hair, brown eyes, brown hair, blonde hair, long hair
+(medli:1.3), the legend of zelda, blonde hair, red eyes, long hair, brown hair
+(tri \(zelda\):1.3), the legend of zelda, blonde hair, blue eyes, long hair
+(lana \(hyrule warriors\):1.3), the legend of zelda, blonde hair, long hair, blue hair, purple eyes
+(cia \(hyrule warriors\):1.3), the legend of zelda, dark-skinned female, red eyes, short hair, blonde hair, white hair, dark skin, purple eyes
+(princess hilda:1.3), the legend of zelda, blonde hair, long hair, purple hair, red eyes
+(cremia:1.3), the legend of zelda, brown hair, blonde hair, long hair, blue eyes, red hair
+(link \(shounen captain\):1.3), the legend of zelda, long hair, pink hair, blue eyes
+(great fairy \(zelda\):1.3), the legend of zelda, short hair, blonde hair, blue eyes, long hair, pink hair**(princess zelda, malon, cremia, romani \(zelda\), midna, linkle:1.7)**
+(paya \(zelda\):1.3), the legend of zelda, brown eyes, white hair, grey hair, blonde hair, long hair
+(nabooru:1.3), the legend of zelda, zzNabooru, dark-skinned female, green hair, long hair, blue eyes, short hair, blonde hair, red hair, dark skin, long pony tail <lora:Nabooru_P1:1>
+(malon:1.3), the legend of zelda, blonde hair, brown hair, red hair, long hair, blue eyes

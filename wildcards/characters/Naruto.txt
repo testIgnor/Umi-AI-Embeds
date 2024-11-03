@@ -1,15 +1,15 @@
-hyuuga hinata, naruto \(series\), blonde hair, long hair, short hair, black hair
-tsunade \(naruto\), naruto \(series\), blonde hair, brown eyes, long hair
-temari \(naruto\), naruto \(series\), blonde hair, green eyes, short hair, long hair
-naruko \(naruto\), naruto \(series\), blonde hair, blue eyes, long hair
-konan \(naruto\), naruto \(series\), purple hair, blue hair, short hair, orange eyes
-tenten \(naruto\), naruto \(series\), brown eyes, brown hair, short hair, long hair, blonde hair, black hair
-mitarashi anko, naruto \(series\), purple hair, short hair, black hair
-namikaze minato, naruto \(series\), short hair, spiked hair, closed eyes, blonde hair, long hair, blue eyes, red hair, black hair
-yuuhi kurenai, naruto \(series\), long hair, red eyes, black hair
-hyuuga neji, naruto \(series\), brown hair, short hair, blonde hair, long hair, black hair
-tayuya \(naruto\), naruto \(series\), hair between eyes, long hair, red hair
-kakei sumire, naruto \(series\), blonde hair, long hair, purple hair, purple eyes
-terumi mei, naruto \(series\), very long hair, long hair, green eyes, brown hair
-hoshigaki kisame, naruto \(series\), red eyes, blue skin, short hair, blonde hair, blue hair, colored skin, black hair
-nohara rin, naruto \(series\), brown eyes, brown hair, short hair, closed eyes, spiked hair, blonde hair, black hair
+(hyuuga hinata:1.3), naruto \(series\), blonde hair, long hair, short hair, black hair
+(tsunade \(naruto\):1.3), naruto \(series\), blonde hair, brown eyes, long hair
+(temari \(naruto\):1.3), naruto \(series\), blonde hair, green eyes, short hair, long hair
+(naruko \(naruto\):1.3), naruto \(series\), blonde hair, blue eyes, long hair
+(konan \(naruto\):1.3), naruto \(series\), purple hair, blue hair, short hair, orange eyes
+(tenten \(naruto\):1.3), naruto \(series\), brown eyes, brown hair, short hair, long hair, blonde hair, black hair
+(mitarashi anko:1.3), naruto \(series\), purple hair, short hair, black hair
+(namikaze minato:1.3), naruto \(series\), short hair, spiked hair, closed eyes, blonde hair, long hair, blue eyes, red hair, black hair
+(yuuhi kurenai:1.3), naruto \(series\), long hair, red eyes, black hair
+(hyuuga neji:1.3), naruto \(series\), brown hair, short hair, blonde hair, long hair, black hair
+(tayuya \(naruto\):1.3), naruto \(series\), hair between eyes, long hair, red hair
+(kakei sumire:1.3), naruto \(series\), blonde hair, long hair, purple hair, purple eyes
+(terumi mei:1.3), naruto \(series\), very long hair, long hair, green eyes, brown hair
+(hoshigaki kisame:1.3), naruto \(series\), red eyes, blue skin, short hair, blonde hair, blue hair, colored skin, black hair
+(nohara rin:1.3), naruto \(series\), brown eyes, brown hair, short hair, closed eyes, spiked hair, blonde hair, black hair

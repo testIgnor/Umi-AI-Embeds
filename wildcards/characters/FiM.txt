@@ -1,24 +1,24 @@
-princess celestia
-daybreaker
-nightmare moon
-princess cadance
-princess luna
-fluttershy
-queen chrysalis
-sunset shimmer
-twilight sparkle
-rainbow dash
-pinkie pinkie
-rarity
-applejack
-trixie
-starlight glimmer
-apple bloom
-scootaloo
-derpy hooves
-sweetie belle
-lyra heartstrings
-dj pon-3
-vinyl scratch
-sci-twi
-octavia melody
+(princess celestia:1.3)
+(daybreaker:1.3)
+(nightmare moon:1.3)
+(princess cadance:1.3)
+(princess luna:1.3)
+(fluttershy:1.3)
+(queen chrysalis:1.3)
+(sunset shimmer:1.3)
+(twilight sparkle:1.3)
+(rainbow dash:1.3)
+(pinkie pinkie:1.3)
+(rarity:1.3)
+(applejack:1.3)
+(trixie:1.3)
+(starlight glimmer:1.3)
+(apple bloom:1.3)
+(scootaloo:1.3)
+(derpy hooves:1.3)
+(sweetie belle:1.3)
+(lyra heartstrings:1.3)
+(dj pon-3:1.3)
+(vinyl scratch:1.3)
+(sci-twi:1.3)
+(octavia melody:1.3)

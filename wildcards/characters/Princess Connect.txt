@@ -1,54 +1,54 @@
-karyl \(princess connect!\), princess connect!, white hair, multicolored hair, streaked hair, hair between eyes, black hair, long hair, green eyes, very long hair, animal ears, cat ears
-kokkoro \(princess connect!\), princess connect!, white hair, antenna hair, short hair, hair between eyes, grey hair, pointy ears, red eyes
-pecorine \(princess connect!\), princess connect!, orange hair, hair between eyes, blue eyes, long hair, black hair, very long hair, animal ears
-saren \(princess connect!\), princess connect!, pointy ears, blonde hair, blue eyes, long hair
-kyoka \(princess connect!\), princess connect!, brown eyes, pointy ears, long hair, very long hair, animal ears, purple hair
-yui \(princess connect!\), princess connect!, hair between eyes, pink hair, blue eyes, short hair
-yuni \(princess connect!\), princess connect!, orange hair, hair between eyes, blue eyes, brown hair, long hair, purple eyes
-saren \(summer\) \(princess connect!\), princess connect!, pointy ears, blonde hair, blue eyes, long hair
-karyl \(summer\) \(princess connect!\), princess connect!, white hair, multicolored hair, streaked hair, hair between eyes, black hair, long hair, green eyes, very long hair, animal ears, cat ears
-pecorine \(summer\) \(princess connect!\), princess connect!, orange hair, hair between eyes, blue eyes, long hair, very long hair
-chloe \(princess connect!\), princess connect!, short hair, hair between eyes, pointy ears, long hair, purple eyes, blonde hair
-makoto \(princess connect!\), princess connect!, yellow eyes, wolf ears, long hair, animal ears, purple hair
-misogi \(princess connect!\), princess connect!, brown eyes, yellow eyes, short hair, orange hair, pointy ears, brown hair, long hair, purple hair, pink hair
-shiori \(princess connect!\), princess connect!, yellow eyes, hair between eyes, multicolored hair, long hair, black hair, gradient hair, animal ears, tiger ears
-eriko \(princess connect!\), princess connect!, purple eyes, brown hair, short hair, black hair
-mimi \(princess connect!\), princess connect!, brown eyes, rabbit ears, yellow eyes, pointy ears, long hair, fake animal ears, very long hair, animal ears, purple hair, pink hair
-hatsune \(princess connect!\), princess connect!, hair between eyes, pointy ears, long hair, purple eyes, very long hair, pink hair
-illya \(princess connect!\), princess connect!, hair between eyes, red eyes, long hair, black hair, very long hair
-kasumi \(princess connect!\), princess connect!, long hair, purple eyes, extra ears, animal ears, very long hair, dog ears, purple hair
-kokkoro \(summer\) \(princess connect!\), princess connect!, white hair, antenna hair, short hair, hair between eyes, grey hair, pointy ears, red eyes, pink eyes, long hair, purple eyes, animal ears, cat ears
-kyoka \(halloween\) \(princess connect!\), princess connect!, brown eyes, pointy ears, long hair, fake animal ears, very long hair, animal ears, purple hair, cat ears
-yui \(ceremonial\) \(princess connect!\), princess connect!, hair between eyes, pink hair, blue eyes, short hair
-neneka \(princess connect!\), princess connect!, pink eyes, curly hair, pointy ears, hair between eyes, long hair, red eyes, very long hair, pink hair
-maho \(princess connect!\), princess connect!, long hair, brown hair, green eyes, light brown hair, very long hair, animal ears, fox ears
-ameth \(princess connect!\), princess connect!, drill hair, multicolored hair, green hair, pointy ears, blue eyes, long hair, very long hair, two-tone hair, purple hair
-miyako \(princess connect!\), princess connect!, blue hair, red eyes, very long hair, long hair
-christina \(princess connect!\), princess connect!, yellow eyes, short hair, hair between eyes, long hair, blonde hair
-misato \(princess connect!\), princess connect!, red hair, pointy ears, blue eyes, long hair, brown hair, very long hair
-io \(princess connect!\), princess connect!, red hair, pink hair, red eyes, long hair
-aoi \(princess connect!\), princess connect!, green eyes, pointy ears, short hair, green hair
-makoto \(summer\) \(princess connect!\), princess connect!, brown eyes, yellow eyes, wolf ears, medium hair, long hair, animal ears, purple hair
-kaori \(princess connect!\), princess connect!, brown eyes, antenna hair, red eyes, long hair, brown hair, dark skin, animal ears, very long hair, dog ears, dark-skinned female
-jun \(princess connect!\), princess connect!, short hair, hair between eyes, long hair, purple eyes, purple hair, blonde hair
-chloe \(school festival\) \(princess connect!\), princess connect!, hair between eyes, pointy ears, long hair, purple eyes, blonde hair
-rino \(princess connect!\), princess connect!, medium hair, orange hair, long hair, brown hair, green eyes
-saren \(christmas\) \(princess connect!\), princess connect!, pointy ears, blonde hair, blue eyes, long hair
-karyl \(new year\) \(princess connect!\), princess connect!, white hair, multicolored hair, streaked hair, hair between eyes, black hair, long hair, green eyes, animal ears, cat ears
-rei \(princess connect!\), princess connect!, short hair, blue hair, long hair, purple eyes, animal ears, pink hair
-suzume \(princess connect!\), princess connect!, brown eyes, pointy ears, blue eyes, long hair, brown hair, blonde hair
-sheffy \(princess connect!\), princess connect!, blue hair, hair between eyes, pointy ears, long hair, purple eyes
-yukari \(princess connect!\), princess connect!, pointy ears, purple eyes, blonde hair, long hair
-kokkoro \(new year\) \(princess connect!\), princess connect!, white hair, antenna hair, short hair, hair between eyes, grey hair, pointy ears, red eyes, black hair, animal ears, cat ears
-misaki \(princess connect!\), princess connect!, multicolored hair, red hair, red eyes, long hair, purple eyes, very long hair, two-tone hair, purple hair
-tamaki \(princess connect!\), princess connect!, white hair, short hair, multicolored hair, purple eyes, gradient hair, animal ears, purple hair, cat ears
-yuni \(real\) \(princess connect!\), princess connect!, hair between eyes, blue eyes, long hair, green hair
-saren \(real\) \(princess connect!\), princess connect!, blonde hair, yellow eyes, long hair
-suzuna \(princess connect!\), princess connect!, very long hair, pink hair, blue eyes, long hair
-hiyori \(princess connect!\), princess connect!, yellow eyes, short hair, orange hair, blue eyes, long hair, animal ears, pink hair, blonde hair, cat ears
-eriko \(summer\) \(princess connect!\), princess connect!, short hair, long hair, brown hair, purple eyes, black hair, purple hair
-kokkoro \(ceremonial\) \(princess connect!\), princess connect!, white hair, antenna hair, short hair, hair between eyes, grey hair, pointy ears, red eyes, pink eyes, purple eyes
-kokkoro \(real\) \(princess connect!\), princess connect!, white hair, antenna hair, hair between eyes, grey hair, blue eyes, long hair, very long hair
-akino \(princess connect!\), princess connect!, red hair, pointy ears, blue eyes, long hair, purple eyes, blonde hair
-pecorine \(new year\) \(princess connect!\), princess connect!, orange hair, hair between eyes, blue eyes, long hair, black hair, animal ears, cat ears
-misato \(summer\) \(princess connect!\), princess connect!, red hair, pointy ears, blue eyes, long hair, brown hair, very long hair
+(karyl \(princess connect!\):1.3), princess connect!, white hair, multicolored hair, streaked hair, hair between eyes, black hair, long hair, green eyes, very long hair, animal ears, cat ears
+(kokkoro \(princess connect!\):1.3), princess connect!, white hair, antenna hair, short hair, hair between eyes, grey hair, pointy ears, red eyes
+(pecorine \(princess connect!\):1.3), princess connect!, orange hair, hair between eyes, blue eyes, long hair, black hair, very long hair, animal ears
+(saren \(princess connect!\):1.3), princess connect!, pointy ears, blonde hair, blue eyes, long hair
+(kyoka \(princess connect!\):1.3), princess connect!, brown eyes, pointy ears, long hair, very long hair, animal ears, purple hair
+(yui \(princess connect!\):1.3), princess connect!, hair between eyes, pink hair, blue eyes, short hair
+(yuni \(princess connect!\):1.3), princess connect!, orange hair, hair between eyes, blue eyes, brown hair, long hair, purple eyes
+(saren \(summer\) \(princess connect!\):1.3), princess connect!, pointy ears, blonde hair, blue eyes, long hair
+(karyl \(summer\) \(princess connect!\):1.3), princess connect!, white hair, multicolored hair, streaked hair, hair between eyes, black hair, long hair, green eyes, very long hair, animal ears, cat ears
+(pecorine \(summer\) \(princess connect!\):1.3), princess connect!, orange hair, hair between eyes, blue eyes, long hair, very long hair
+(chloe \(princess connect!\):1.3), princess connect!, short hair, hair between eyes, pointy ears, long hair, purple eyes, blonde hair
+(makoto \(princess connect!\):1.3), princess connect!, yellow eyes, wolf ears, long hair, animal ears, purple hair
+(misogi \(princess connect!\):1.3), princess connect!, brown eyes, yellow eyes, short hair, orange hair, pointy ears, brown hair, long hair, purple hair, pink hair
+(shiori \(princess connect!\):1.3), princess connect!, yellow eyes, hair between eyes, multicolored hair, long hair, black hair, gradient hair, animal ears, tiger ears
+(eriko \(princess connect!\):1.3), princess connect!, purple eyes, brown hair, short hair, black hair
+(mimi \(princess connect!\):1.3), princess connect!, brown eyes, rabbit ears, yellow eyes, pointy ears, long hair, fake animal ears, very long hair, animal ears, purple hair, pink hair
+(hatsune \(princess connect!\):1.3), princess connect!, hair between eyes, pointy ears, long hair, purple eyes, very long hair, pink hair
+(illya \(princess connect!\):1.3), princess connect!, hair between eyes, red eyes, long hair, black hair, very long hair
+(kasumi \(princess connect!\):1.3), princess connect!, long hair, purple eyes, extra ears, animal ears, very long hair, dog ears, purple hair
+(kokkoro \(summer\) \(princess connect!\):1.3), princess connect!, white hair, antenna hair, short hair, hair between eyes, grey hair, pointy ears, red eyes, pink eyes, long hair, purple eyes, animal ears, cat ears
+(kyoka \(halloween\) \(princess connect!\):1.3), princess connect!, brown eyes, pointy ears, long hair, fake animal ears, very long hair, animal ears, purple hair, cat ears
+(yui \(ceremonial\) \(princess connect!\):1.3), princess connect!, hair between eyes, pink hair, blue eyes, short hair
+(neneka \(princess connect!\):1.3), princess connect!, pink eyes, curly hair, pointy ears, hair between eyes, long hair, red eyes, very long hair, pink hair
+(maho \(princess connect!\):1.3), princess connect!, long hair, brown hair, green eyes, light brown hair, very long hair, animal ears, fox ears
+(ameth \(princess connect!\):1.3), princess connect!, drill hair, multicolored hair, green hair, pointy ears, blue eyes, long hair, very long hair, two-tone hair, purple hair
+(miyako \(princess connect!\):1.3), princess connect!, blue hair, red eyes, very long hair, long hair
+(christina \(princess connect!\):1.3), princess connect!, yellow eyes, short hair, hair between eyes, long hair, blonde hair
+(misato \(princess connect!\):1.3), princess connect!, red hair, pointy ears, blue eyes, long hair, brown hair, very long hair
+(io \(princess connect!\):1.3), princess connect!, red hair, pink hair, red eyes, long hair
+(aoi \(princess connect!\):1.3), princess connect!, green eyes, pointy ears, short hair, green hair
+(makoto \(summer\) \(princess connect!\):1.3), princess connect!, brown eyes, yellow eyes, wolf ears, medium hair, long hair, animal ears, purple hair
+(kaori \(princess connect!\):1.3), princess connect!, brown eyes, antenna hair, red eyes, long hair, brown hair, dark skin, animal ears, very long hair, dog ears, dark-skinned female
+(jun \(princess connect!\):1.3), princess connect!, short hair, hair between eyes, long hair, purple eyes, purple hair, blonde hair
+(chloe \(school festival\) \(princess connect!\):1.3), princess connect!, hair between eyes, pointy ears, long hair, purple eyes, blonde hair
+(rino \(princess connect!\):1.3), princess connect!, medium hair, orange hair, long hair, brown hair, green eyes
+(saren \(christmas\) \(princess connect!\):1.3), princess connect!, pointy ears, blonde hair, blue eyes, long hair
+(karyl \(new year\) \(princess connect!\):1.3), princess connect!, white hair, multicolored hair, streaked hair, hair between eyes, black hair, long hair, green eyes, animal ears, cat ears
+(rei \(princess connect!\):1.3), princess connect!, short hair, blue hair, long hair, purple eyes, animal ears, pink hair
+(suzume \(princess connect!\):1.3), princess connect!, brown eyes, pointy ears, blue eyes, long hair, brown hair, blonde hair
+(sheffy \(princess connect!\):1.3), princess connect!, blue hair, hair between eyes, pointy ears, long hair, purple eyes
+(yukari \(princess connect!\):1.3), princess connect!, pointy ears, purple eyes, blonde hair, long hair
+(kokkoro \(new year\) \(princess connect!\):1.3), princess connect!, white hair, antenna hair, short hair, hair between eyes, grey hair, pointy ears, red eyes, black hair, animal ears, cat ears
+(misaki \(princess connect!\):1.3), princess connect!, multicolored hair, red hair, red eyes, long hair, purple eyes, very long hair, two-tone hair, purple hair
+(tamaki \(princess connect!\):1.3), princess connect!, white hair, short hair, multicolored hair, purple eyes, gradient hair, animal ears, purple hair, cat ears
+(yuni \(real\) \(princess connect!\):1.3), princess connect!, hair between eyes, blue eyes, long hair, green hair
+(saren \(real\) \(princess connect!\):1.3), princess connect!, blonde hair, yellow eyes, long hair
+(suzuna \(princess connect!\):1.3), princess connect!, very long hair, pink hair, blue eyes, long hair
+(hiyori \(princess connect!\):1.3), princess connect!, yellow eyes, short hair, orange hair, blue eyes, long hair, animal ears, pink hair, blonde hair, cat ears
+(eriko \(summer\) \(princess connect!\):1.3), princess connect!, short hair, long hair, brown hair, purple eyes, black hair, purple hair
+(kokkoro \(ceremonial\) \(princess connect!\):1.3), princess connect!, white hair, antenna hair, short hair, hair between eyes, grey hair, pointy ears, red eyes, pink eyes, purple eyes
+(kokkoro \(real\) \(princess connect!\):1.3), princess connect!, white hair, antenna hair, hair between eyes, grey hair, blue eyes, long hair, very long hair
+(akino \(princess connect!\):1.3), princess connect!, red hair, pointy ears, blue eyes, long hair, purple eyes, blonde hair
+(pecorine \(new year\) \(princess connect!\):1.3), princess connect!, orange hair, hair between eyes, blue eyes, long hair, black hair, animal ears, cat ears
+(misato \(summer\) \(princess connect!\):1.3), princess connect!, red hair, pointy ears, blue eyes, long hair, brown hair, very long hair

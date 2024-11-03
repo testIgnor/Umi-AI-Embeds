@@ -1,21 +1,21 @@
-lynette bishop, world witches series, cat ears, blue eyes, animal ears, brown hair, long hair
-perrine h. clostermann, world witches series, yellow eyes, cat ears, blonde hair, animal ears, long hair
-charlotte e. yeager, world witches series, blue eyes, rabbit ears, brown hair, animal ears, long hair, orange hair
-nikka edvardine katajainen, world witches series, weasel ears, blue eyes, blonde hair, animal ears, short hair
-hanna-justina marseille, world witches series, blonde hair, blue eyes, long hair, short hair
-kanno naoe, world witches series, blue eyes, black hair, black eyes, animal ears, short hair, dog ears
-heidimarie w. schnaufer, world witches series, long hair, white hair, red eyes, animal ears
-heinrike prinzessin zu sayn-wittgenstein, world witches series, cat ears, blonde hair, green eyes, animal ears, long hair
-karibuchi hikari, world witches series, squirrel ears, animal ears, brown eyes, brown hair, short hair
-gundula rall, world witches series, blue eyes, blonde hair, animal ears, orange hair, brown hair, long hair, short hair, wolf ears
-helma lennartz, world witches series, cat ears, blue eyes, blonde hair, animal ears, long hair
-georgette lemare, world witches series, cat ears, blue eyes, rabbit ears, black hair, animal ears, brown hair, long hair, short hair
-katou keiko, world witches series, fox ears, animal ears, brown eyes, brown hair, long hair, short hair
-kuroda kunika, world witches series, animal ears, brown eyes, brown hair, short hair, dog ears
-hanna rudel, world witches series, blonde hair, green eyes, animal ears, long hair, wolf ears
-federica n. doglio, world witches series, black hair, animal ears, green eyes, brown hair, long hair, dog ears
-aurora e. juutilainen, world witches series, blue eyes, blonde hair, purple eyes, grey hair, animal ears, long hair, short hair, wolf ears
-kitagou fumika, world witches series, female pubic hair, black eyes, black hair, pubic hair, brown hair, brown eyes, animal ears, long hair, short hair, dog ears
-raisa pottgen, world witches series, blonde hair, blue eyes, long hair, short hair
-karibuchi takami, world witches series, brown eyes, brown hair, long hair, short hair
-wilma bishop, world witches series, cat ears, blue eyes, animal ears, brown hair, long hair
+(lynette bishop:1.3), world witches series, cat ears, blue eyes, animal ears, brown hair, long hair
+(perrine h. clostermann:1.3), world witches series, yellow eyes, cat ears, blonde hair, animal ears, long hair
+(charlotte e. yeager:1.3), world witches series, blue eyes, rabbit ears, brown hair, animal ears, long hair, orange hair
+(nikka edvardine katajainen:1.3), world witches series, weasel ears, blue eyes, blonde hair, animal ears, short hair
+(hanna-justina marseille:1.3), world witches series, blonde hair, blue eyes, long hair, short hair
+(kanno naoe:1.3), world witches series, blue eyes, black hair, black eyes, animal ears, short hair, dog ears
+(heidimarie w. schnaufer:1.3), world witches series, long hair, white hair, red eyes, animal ears
+(heinrike prinzessin zu sayn-wittgenstein:1.3), world witches series, cat ears, blonde hair, green eyes, animal ears, long hair
+(karibuchi hikari:1.3), world witches series, squirrel ears, animal ears, brown eyes, brown hair, short hair
+(gundula rall:1.3), world witches series, blue eyes, blonde hair, animal ears, orange hair, brown hair, long hair, short hair, wolf ears
+(helma lennartz:1.3), world witches series, cat ears, blue eyes, blonde hair, animal ears, long hair
+(georgette lemare:1.3), world witches series, cat ears, blue eyes, rabbit ears, black hair, animal ears, brown hair, long hair, short hair
+(katou keiko:1.3), world witches series, fox ears, animal ears, brown eyes, brown hair, long hair, short hair
+(kuroda kunika:1.3), world witches series, animal ears, brown eyes, brown hair, short hair, dog ears
+(hanna rudel:1.3), world witches series, blonde hair, green eyes, animal ears, long hair, wolf ears
+(federica n. doglio:1.3), world witches series, black hair, animal ears, green eyes, brown hair, long hair, dog ears
+(aurora e. juutilainen:1.3), world witches series, blue eyes, blonde hair, purple eyes, grey hair, animal ears, long hair, short hair, wolf ears
+(kitagou fumika:1.3), world witches series, female pubic hair, black eyes, black hair, pubic hair, brown hair, brown eyes, animal ears, long hair, short hair, dog ears
+(raisa pottgen:1.3), world witches series, blonde hair, blue eyes, long hair, short hair
+(karibuchi takami:1.3), world witches series, brown eyes, brown hair, long hair, short hair
+(wilma bishop:1.3), world witches series, cat ears, blue eyes, animal ears, brown hair, long hair

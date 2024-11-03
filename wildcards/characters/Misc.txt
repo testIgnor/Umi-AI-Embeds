@@ -1,26 +1,26 @@
-miao ying, soboro_miao, white hair, long hair, high ponytail, lipstick, makeup, blue eyes, glowing eyes, bright pupils
-lara croft
-yamamura sadako
-taylor swift
-billie eilish
-lady gaga
-miley cyrus
-little red riding hood
-jennifer lawrence
-scarlett johansson
-jennifer aniston
-nicole aniston
-ana foxxx
-charlotte stokely
-katy perry
-wilykit, thundercats
-gwen tennyson
-harvest goddess \(harvest moon\), goddess, holy, divinity
-virgin mary, the virgin mary, goddess, holy, divinity
-amaterasu \(ookami\), ammy \(ookami\)
-AnubisCitronOC, dark skin, black hair, yellow eyes <lora:Anubis_Citron_OC_P1:1>
-Morathi, elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <lora:Morathi3216XL:1>
-jarl elisif the fair, elleJarl, the elder scrolls v: skyrim, orange hair, single braid, long hair
-valerie the adventurer, valAdventurer, the elder scrolls v: skyrim, brown hair, short hair, athletic female
-the virgin mary, virginMary, nun, traditional nun, medieval holy maiden, dark brown hair, medium hair, blue eyes
-[<[Characters][--Species]>|<[Characters][--Species]>]
+(miao ying:1.3), soboro_miao, white hair, long hair, high ponytail, lipstick, makeup, blue eyes, glowing eyes, bright pupils
+(lara croft:1.3)
+(yamamura sadako:1.3)
+(taylor swift:1.3)
+(billie eilish:1.3)
+(lady gaga:1.3)
+(miley cyrus:1.3)
+(little red riding hood:1.3)
+(jennifer lawrence:1.3)
+(scarlett johansson:1.3)
+(jennifer aniston:1.3)
+(nicole aniston:1.3)
+(ana foxxx:1.3)
+(charlotte stokely:1.3)
+(katy perry:1.3)
+(wilykit:1.3), thundercats
+(gwen tennyson:1.3)
+(harvest goddess \(harvest moon\):1.3), goddess, holy, divinity
+(virgin mary:1.3), the virgin mary, goddess, holy, divinity
+(amaterasu \(ookami\):1.3), ammy \(ookami\)
+(AnubisCitronOC:1.3), dark skin, black hair, yellow eyes <lora:Anubis_Citron_OC_P1:1>
+(Morathi:1.3), elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <lora:Morathi3216XL:1>
+(jarl elisif the fair:1.3), elleJarl, the elder scrolls v: skyrim, orange hair, single braid, long hair
+(valerie the adventurer:1.3), valAdventurer, the elder scrolls v: skyrim, brown hair, short hair, athletic female
+(the virgin mary:1.3), virginMary, nun, traditional nun, medieval holy maiden, dark brown hair, medium hair, blue eyes
+([<[Characters][--Species]>|<[Characters][--Species]>]:1.3)

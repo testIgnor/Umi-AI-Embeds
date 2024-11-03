@@ -1,4 +1,4 @@
-weiss schnee
-ruby rose
-yang xiao long
-blake belladonna
+(weiss schnee:1.3)
+(ruby rose:1.3)
+(yang xiao long:1.3)
+(blake belladonna:1.3)

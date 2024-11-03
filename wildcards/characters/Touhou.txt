@@ -1,77 +1,77 @@
-flandre scarlet, touhou, long hair, blonde hair, red eyes, short hair
-konpaku youmu, touhou, grey hair, blue eyes, short hair, white hair
-patchouli knowledge, touhou, purple eyes, purple hair, long hair
-cirno, touhou, blue hair, blue eyes, short hair
-kochiya sanae, touhou, green eyes, long hair, green hair
-komeiji koishi, touhou, green eyes, short hair, green hair
-reisen udongein inaba, touhou, rabbit ears, red eyes, long hair, animal ears, purple hair
-shameimaru aya, touhou, black hair, red eyes, short hair
-inubashiri momiji, touhou, white hair, short hair, wolf ears, red eyes, animal ears
-saigyouji yuyuko, touhou, pink eyes, pink hair, short hair
-konpaku youmu \(ghost\), touhou, grey hair, blue eyes, short hair, white hair
-kaenbyou rin, touhou, short hair, red hair, red eyes, long hair, extra ears, animal ears, cat ears
-reiuji utsuho, touhou, red eyes, black hair, long hair, brown hair, animal ears
-kazami yuuka, touhou, red eyes, short hair, green hair
-rumia, touhou, blonde hair, red eyes, short hair
-kawashiro nitori, touhou, blue hair, blue eyes, short hair
-moriya suwako, touhou, long hair, blonde hair, yellow eyes, short hair
-hinanawi tenshi, touhou, blue hair, red eyes, long hair
-mizuhashi parsee, touhou, pointy ears, blonde hair, short hair, green eyes
-mystia lorelei, touhou, bird ears, pink hair, short hair, animal ears
-nazrin, touhou, short hair, grey hair, red eyes, mouse ears, animal ears
-houjuu nue, touhou, red eyes, short hair, black hair
-shiki eiki, touhou, green eyes, blue eyes, short hair, green hair
-kagiyama hina, touhou, green eyes, long hair, green hair
-imaizumi kagerou, touhou, short hair, wolf ears, red eyes, long hair, brown hair, animal ears
-clownpiece, touhou, very long hair, blonde hair, red eyes, long hair
-ibaraki kasen, touhou, pink eyes, pink hair, red eyes, short hair
-nagae iku, touhou, short hair, blue hair, red eyes, long hair, purple hair
-hata no kokoro, touhou, short hair, pink eyes, long hair, very long hair, pink hair
-sekibanki, touhou, animal ears, red hair, red eyes, short hair
-hecatia lapislazuli, touhou, red hair, red eyes, blonde hair, long hair
-kishin sagume, touhou, white hair, short hair, grey hair, red eyes, tapir ears
-doremy sweet, touhou, blue hair, tapir ears, blue eyes, short hair
-junko \(touhou\), touhou, hair between eyes, red eyes, long hair, very long hair, blonde hair
-sendai hakurei no miko, touhou, black hair, long hair
-pyonta, touhou, long hair, blonde hair, yellow eyes, short hair
-kudamaki tsukasa, touhou, yellow eyes, short hair, hair between eyes, long hair, animal ears, blonde hair, fox ears
-kicchou yachie, touhou, long hair, blonde hair, red eyes, short hair
-toutetsu yuuma, touhou, white hair, short hair, curly hair, pointy ears, red eyes, grey hair, blonde hair
-lily white, touhou, short hair, blue eyes, long hair, closed eyes, blonde hair
-eternity larva, touhou, yellow eyes, short hair, blue hair, hair between eyes, long hair, aqua hair
-sakata nemuno, touhou, white hair, short hair, wavy hair, grey hair, red eyes, long hair, very long hair
-horikawa raiko, touhou, red hair, red eyes, short hair
-niwatari kutaka, touhou, short hair, multicolored hair, red hair, red eyes, two-tone hair, blonde hair
-jacket girl \(dipp\), touhou, wavy hair, red eyes, long hair, very long hair, blonde hair
-kazami yuuka \(pc-98\), touhou, short hair, red eyes, long hair, green eyes, green hair, blonde hair
-tokiko \(touhou\), touhou, white hair, short hair, blue hair, multicolored hair, grey hair, red eyes, two-tone hair
-goutokuji mike, touhou, white hair, short hair, orange eyes, multicolored hair, streaked hair, red eyes, brown hair, animal ears, cat ears
-yatadera narumi, touhou, black hair, red eyes, short hair, long hair
-tenkyuu chimata, touhou, short hair, blue hair, hair between eyes, blue eyes, purple eyes, purple hair
-puru-see \(hoshizuki \(seigetsu\)\), touhou, short hair, extra ears, animal ears, blonde hair, cat ears
-mitsugashira enoko, touhou, white hair, short hair, multicolored hair, grey hair, red eyes, long hair, animal ears, dog ears, purple hair
-yamashiro takane, touhou, short hair, medium hair, long hair, green eyes, green hair
-ushizaki urumi, touhou, cow ears, white hair, short hair, multicolored hair, grey hair, split-color hair, red eyes, black hair, animal ears, two-tone hair
-tanned cirno, touhou, blue hair, blue eyes, short hair
-mishaguji, touhou, yellow eyes, short hair, red eyes, long hair, blonde hair
-diyusi \(cookie\), touhou, colored skin, short hair, medium hair, hair between eyes, long hair, white skin, green hair, closed eyes
-kana anaberal, touhou, long hair, blonde hair, yellow eyes, short hair
-shameimaru aya \(newsboy\), touhou, short hair, pointy ears, red eyes, black hair, brown hair
-hoshiguma yuugi \(kimono\), touhou, pointy ears, blonde hair, red eyes, long hair
-sananana \(cookie\), touhou, brown eyes, yellow eyes, short hair, medium hair, long hair, brown hair, black hair, blonde hair
-otter spirit \(touhou\), touhou, blonde hair, red eyes, short hair
-ex-rumia, touhou, long hair, blonde hair, red eyes, short hair
-web \(cookie\), touhou, short hair, hair between eyes, red eyes, blue eyes, animal ears, blonde hair
-himemushi momoyo, touhou, grey eyes, blue hair, grey hair, pointy ears, blue eyes, long hair, messy hair
-yomotsu hisami, touhou, black hair, purple eyes, red eyes, long hair
-sin sack, touhou, blonde hair, short hair, long hair
-suzu \(cookie\), touhou, short hair, hair between eyes, red eyes, long hair, closed eyes, blonde hair
-ellen \(touhou\), touhou, yellow eyes, long hair, green eyes, closed eyes, blonde hair
-yakumo yukari \(young\), touhou, purple eyes, blonde hair, short hair, long hair
-tamatsukuri misumaru, touhou, brown eyes, short hair, medium hair, multicolored hair, red eyes, long hair, brown hair, purple hair, blonde hair
-satsuki rin, touhou, blonde hair, yellow eyes, short hair
-yakumo ran \(fox\), touhou, blonde hair, long hair
-benikurage \(cookie\), touhou, brown eyes, short hair, medium hair, red eyes, brown hair, long hair, blonde hair
-okunoda miyoi, touhou, green eyes, pink hair, short hair
-ebisu eika, touhou, short hair, multicolored hair, grey hair, red eyes, long hair, blonde hair
-komakusa sannyo, touhou, purple hair, red eyes, long hair
+(flandre scarlet:1.3), touhou, long hair, blonde hair, red eyes, short hair
+(konpaku youmu:1.3), touhou, grey hair, blue eyes, short hair, white hair
+(patchouli knowledge:1.3), touhou, purple eyes, purple hair, long hair
+(cirno:1.3), touhou, blue hair, blue eyes, short hair
+(kochiya sanae:1.3), touhou, green eyes, long hair, green hair
+(komeiji koishi:1.3), touhou, green eyes, short hair, green hair
+(reisen udongein inaba:1.3), touhou, rabbit ears, red eyes, long hair, animal ears, purple hair
+(shameimaru aya:1.3), touhou, black hair, red eyes, short hair
+(inubashiri momiji:1.3), touhou, white hair, short hair, wolf ears, red eyes, animal ears
+(saigyouji yuyuko:1.3), touhou, pink eyes, pink hair, short hair
+(konpaku youmu \(ghost\):1.3), touhou, grey hair, blue eyes, short hair, white hair
+(kaenbyou rin:1.3), touhou, short hair, red hair, red eyes, long hair, extra ears, animal ears, cat ears
+(reiuji utsuho:1.3), touhou, red eyes, black hair, long hair, brown hair, animal ears
+(kazami yuuka:1.3), touhou, red eyes, short hair, green hair
+(rumia:1.3), touhou, blonde hair, red eyes, short hair
+(kawashiro nitori:1.3), touhou, blue hair, blue eyes, short hair
+(moriya suwako:1.3), touhou, long hair, blonde hair, yellow eyes, short hair
+(hinanawi tenshi:1.3), touhou, blue hair, red eyes, long hair
+(mizuhashi parsee:1.3), touhou, pointy ears, blonde hair, short hair, green eyes
+(mystia lorelei:1.3), touhou, bird ears, pink hair, short hair, animal ears
+(nazrin:1.3), touhou, short hair, grey hair, red eyes, mouse ears, animal ears
+(houjuu nue:1.3), touhou, red eyes, short hair, black hair
+(shiki eiki:1.3), touhou, green eyes, blue eyes, short hair, green hair
+(kagiyama hina:1.3), touhou, green eyes, long hair, green hair
+(imaizumi kagerou:1.3), touhou, short hair, wolf ears, red eyes, long hair, brown hair, animal ears
+(clownpiece:1.3), touhou, very long hair, blonde hair, red eyes, long hair
+(ibaraki kasen:1.3), touhou, pink eyes, pink hair, red eyes, short hair
+(nagae iku:1.3), touhou, short hair, blue hair, red eyes, long hair, purple hair
+(hata no kokoro:1.3), touhou, short hair, pink eyes, long hair, very long hair, pink hair
+(sekibanki:1.3), touhou, animal ears, red hair, red eyes, short hair
+(hecatia lapislazuli:1.3), touhou, red hair, red eyes, blonde hair, long hair
+(kishin sagume:1.3), touhou, white hair, short hair, grey hair, red eyes, tapir ears
+(doremy sweet:1.3), touhou, blue hair, tapir ears, blue eyes, short hair
+(junko \(touhou\):1.3), touhou, hair between eyes, red eyes, long hair, very long hair, blonde hair
+(sendai hakurei no miko:1.3), touhou, black hair, long hair
+(pyonta:1.3), touhou, long hair, blonde hair, yellow eyes, short hair
+(kudamaki tsukasa:1.3), touhou, yellow eyes, short hair, hair between eyes, long hair, animal ears, blonde hair, fox ears
+(kicchou yachie:1.3), touhou, long hair, blonde hair, red eyes, short hair
+(toutetsu yuuma:1.3), touhou, white hair, short hair, curly hair, pointy ears, red eyes, grey hair, blonde hair
+(lily white:1.3), touhou, short hair, blue eyes, long hair, closed eyes, blonde hair
+(eternity larva:1.3), touhou, yellow eyes, short hair, blue hair, hair between eyes, long hair, aqua hair
+(sakata nemuno:1.3), touhou, white hair, short hair, wavy hair, grey hair, red eyes, long hair, very long hair
+(horikawa raiko:1.3), touhou, red hair, red eyes, short hair
+(niwatari kutaka:1.3), touhou, short hair, multicolored hair, red hair, red eyes, two-tone hair, blonde hair
+(jacket girl \(dipp\):1.3), touhou, wavy hair, red eyes, long hair, very long hair, blonde hair
+(kazami yuuka \(pc-98\):1.3), touhou, short hair, red eyes, long hair, green eyes, green hair, blonde hair
+(tokiko \(touhou\):1.3), touhou, white hair, short hair, blue hair, multicolored hair, grey hair, red eyes, two-tone hair
+(goutokuji mike:1.3), touhou, white hair, short hair, orange eyes, multicolored hair, streaked hair, red eyes, brown hair, animal ears, cat ears
+(yatadera narumi:1.3), touhou, black hair, red eyes, short hair, long hair
+(tenkyuu chimata:1.3), touhou, short hair, blue hair, hair between eyes, blue eyes, purple eyes, purple hair
+(puru-see \(hoshizuki \(seigetsu\)\):1.3), touhou, short hair, extra ears, animal ears, blonde hair, cat ears
+(mitsugashira enoko:1.3), touhou, white hair, short hair, multicolored hair, grey hair, red eyes, long hair, animal ears, dog ears, purple hair
+(yamashiro takane:1.3), touhou, short hair, medium hair, long hair, green eyes, green hair
+(ushizaki urumi:1.3), touhou, cow ears, white hair, short hair, multicolored hair, grey hair, split-color hair, red eyes, black hair, animal ears, two-tone hair
+(tanned cirno:1.3), touhou, blue hair, blue eyes, short hair
+(mishaguji:1.3), touhou, yellow eyes, short hair, red eyes, long hair, blonde hair
+(diyusi \(cookie\):1.3), touhou, colored skin, short hair, medium hair, hair between eyes, long hair, white skin, green hair, closed eyes
+(kana anaberal:1.3), touhou, long hair, blonde hair, yellow eyes, short hair
+(shameimaru aya \(newsboy\):1.3), touhou, short hair, pointy ears, red eyes, black hair, brown hair
+(hoshiguma yuugi \(kimono\):1.3), touhou, pointy ears, blonde hair, red eyes, long hair
+(sananana \(cookie\):1.3), touhou, brown eyes, yellow eyes, short hair, medium hair, long hair, brown hair, black hair, blonde hair
+(otter spirit \(touhou\):1.3), touhou, blonde hair, red eyes, short hair
+(ex-rumia:1.3), touhou, long hair, blonde hair, red eyes, short hair
+(web \(cookie\):1.3), touhou, short hair, hair between eyes, red eyes, blue eyes, animal ears, blonde hair
+(himemushi momoyo:1.3), touhou, grey eyes, blue hair, grey hair, pointy ears, blue eyes, long hair, messy hair
+(yomotsu hisami:1.3), touhou, black hair, purple eyes, red eyes, long hair
+(sin sack:1.3), touhou, blonde hair, short hair, long hair
+(suzu \(cookie\):1.3), touhou, short hair, hair between eyes, red eyes, long hair, closed eyes, blonde hair
+(ellen \(touhou\):1.3), touhou, yellow eyes, long hair, green eyes, closed eyes, blonde hair
+(yakumo yukari \(young\):1.3), touhou, purple eyes, blonde hair, short hair, long hair
+(tamatsukuri misumaru:1.3), touhou, brown eyes, short hair, medium hair, multicolored hair, red eyes, long hair, brown hair, purple hair, blonde hair
+(satsuki rin:1.3), touhou, blonde hair, yellow eyes, short hair
+(yakumo ran \(fox\):1.3), touhou, blonde hair, long hair
+(benikurage \(cookie\):1.3), touhou, brown eyes, short hair, medium hair, red eyes, brown hair, long hair, blonde hair
+(okunoda miyoi:1.3), touhou, green eyes, pink hair, short hair
+(ebisu eika:1.3), touhou, short hair, multicolored hair, grey hair, red eyes, long hair, blonde hair
+(komakusa sannyo:1.3), touhou, purple hair, red eyes, long hair

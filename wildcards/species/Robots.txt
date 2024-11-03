@@ -1,9 +1,9 @@
-cyborg, (cyborg, robot girl:1.1), (mecha musume:0.5), cyberpunk
-cyborg, ultrawoman, (cyborg, robot girl:1.1), (mecha musume:0.5), cyberpunk
-cyborg, giant robot girl, (cyborg, robot girl:1.1), (mecha musume:0.5), cyberpunk
-cyborg, giant mech girl, piloted mech, (cyborg, robot girl:1.1), (mecha musume:0.5)
-cyborg, giant mech girl, mass production eva, (cyborg, robot girl:1.1), (mecha musume:0.5)
-cyborg, giant mech girl, piloted mech, (cyborg, robot girl:1.1)
-cyborg, giant mech girl, mass production eva, (cyborg, robot girl:1.1)
-mecha musume, mechanical parts, mechabare, (cyborg, robot girl:1.1)
-mechagodzilla, <[MechagodzillaCharacter]>
+(cyborg:1.3), (cyborg, robot girl:1.1), (mecha musume:0.5), cyberpunk
+(cyborg:1.3), ultrawoman, (cyborg, robot girl:1.1), (mecha musume:0.5), cyberpunk
+(cyborg:1.3), giant robot girl, (cyborg, robot girl:1.1), (mecha musume:0.5), cyberpunk
+(cyborg:1.3), giant mech girl, piloted mech, (cyborg, robot girl:1.1), (mecha musume:0.5)
+(cyborg:1.3), giant mech girl, mass production eva, (cyborg, robot girl:1.1), (mecha musume:0.5)
+(cyborg:1.3), giant mech girl, piloted mech, (cyborg, robot girl:1.1)
+(cyborg:1.3), giant mech girl, mass production eva, (cyborg, robot girl:1.1)
+(mecha musume:1.3), mechanical parts, mechabare, (cyborg, robot girl:1.1)
+(mechagodzilla:1.3), <[MechagodzillaCharacter]>

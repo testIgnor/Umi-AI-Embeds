@@ -1,11 +1,11 @@
-﻿'(__Species/Demons__:1.3)':
+﻿'source_anime, __Species/Demons__':
   Description:
     - Random Types of Characters
   Tags:
     - Characters
     - Species
     - Demons
-'(__Species/Magical Girls__:1.3)':
+'source_anime, __Species/Magical Girls__':
   Description:
     - Random Types of Characters
   Tags:
@@ -13,7 +13,7 @@
     - Species
     - MagicalGirls
     - Magical Girls
-'(__Species/Mass Effect Aliens__:1.3)':
+'source_anime, __Species/Mass Effect Aliens__':
   Description:
     - Random Types of Characters
   Tags:
@@ -22,28 +22,28 @@
     - MassEffect
     - Mass Effect
     - Mass Effect Aliens
-'(__Species/MySpecies__:1.3)**(hair, hat, headwear:2.0)**':
+'source_furry, __Species/MySpecies__**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
     - Characters
     - MySpecies
     - Species
-'(__Species/Robots__:1.3)':
+'source_anime, __Species/Robots__':
   Description:
     - Random Types of Characters
   Tags:
     - Characters
     - Species
     - Robots
-'(__Species/Royalty__:1.3), regal, elegant, royal family, royal, crown, tiara**(animal ears, tail:2.0), (evil, ugly, holding:1.7)**':
+'source_anime, __Species/Royalty__, regal, elegant, royal family, royal, crown, tiara**(animal ears, tail:2.0), (evil, ugly, holding:1.7)**':
   Description:
     - Random Species
   Tags:
     - Characters
     - Royalty
     - Species
-'(__Species/Special Kinds__:1.3)':
+'source_anime, __Species/Special Kinds__':
   Description:
     - Random Types of Characters
   Tags:
@@ -52,116 +52,116 @@
     - Species
     - SpecialKinds
     - Special Kinds
-'(__Franchise Girls__:1.3)':
+'source_anime, __Franchise Girls__':
   Description:
     - Legacy Characters
   Tags:
     - Characters
     - Franchise
-'(__Characters/Ace Attorney__:1.3)':
+'source_anime, __Characters/Ace Attorney__':
   Description:
     - Ace Attorney Characters
   Tags:
     - Characters
     - Ace Attorney
-'(__Characters/Arknights__:1.3)':
+'source_anime, __Characters/Arknights__':
   Description:
     - Arknights Characters
   Tags:
     - Characters
     - Arknights
-'(__Characters/ATLA__:1.3)':
+'source_anime, __Characters/ATLA__':
   Description:
     - Avatar Characters
   Tags:
     - Characters
     - ATLA
-'(__Characters/Azur Lane__:1.3)':
+'source_anime, __Characters/Azur Lane__':
   Description:
     - Azur Lane Characters
   Tags:
     - Characters
     - Azur Lane
-'(__Characters/Blue Archive__:1.3)':
+'source_anime, __Characters/Blue Archive__':
   Description:
     - Blue Archive Characters
   Tags:
     - Characters
     - Blue Archive
-'(__Characters/Celebrities__:1.3)':
+'source_anime, __Characters/Celebrities__':
   Description:
     - Random Celebrities
   Tags:
     - Characters
     - Celebrities
     - Celebrity
-'(__Characters/Celeste__:1.3)':
+'source_anime, __Characters/Celeste__':
   Description:
     - Celeste Characters
   Tags:
     - Characters
     - Celeste
-'(__Characters/Comics__:1.3)':
+'source_anime, __Characters/Comics__':
   Description:
     - Comic Book Characters
   Tags:
     - Characters
     - Comics
-'(__Characters/Darkstalkers__:1.3)':
+'source_anime, __Characters/Darkstalkers__':
   Description:
     - Darkstalkers Characters
   Tags:
     - Characters
     - Darkstalkers
-'(__Characters/Digimon__:1.3), digimon':
+'source_anime, __Characters/Digimon__, digimon':
   Description:
     - Digimon Characters
   Tags:
     - Characters
     - Digimon
-'(__Characters/Dead or Alive__:1.3)':
+'source_anime, __Characters/Dead or Alive__':
   Description:
     - Dead or Alive Characters
   Tags:
     - Characters
     - Dead or Alive
-'(__Characters/Disney__:1.3)':
+'source_anime, __Characters/Disney__':
   Description:
     - Disney Characters
   Tags:
     - Characters
     - Disney
-'(__Characters/Dragon Quest__:1.3)':
+'source_anime, __Characters/Dragon Quest__':
   Description:
     - Dragon Quest Characters
   Tags:
     - Characters
     - Dragon Quest
-'(__Characters/Dragonball__:1.3)':
+'source_anime, __Characters/Dragonball__':
   Description:
     - Dragonball Characters
   Tags:
     - Characters
     - Dragonball
-'(__Characters/Evangelion__:1.3)':
+'source_anime, __Characters/Evangelion__':
   Description:
     - Evangelion Characters
   Tags:
     - Characters
     - Evangelion
-'(__Characters/Fate__:1.3)':
+'source_anime, __Characters/Fate__':
   Description:
     - Fate Characters
   Tags:
     - Characters
     - Fate
-'(__Characters/Fighters__:1.3)':
+'source_anime, __Characters/Fighters__':
   Description:
     - Fighting Game Characters
   Tags:
     - Disrupted
     - Fighters
-'(__Characters/FiM__:1.3), my little pony: friendship is magic, pony anthro':
+'source_pony, __Characters/FiM__, my little pony: friendship is magic, pony anthro':
   Description:
     - Friendship is Magic Characters
   Tags:
@@ -169,7 +169,7 @@
     - FiM
     - Pony
     - Ponies
-'(__Characters/FiM__:1.3), my little pony: equestria girls, humanized**(pony anthro, anthro:1.5)**':
+'source_pony, __Characters/FiM__, my little pony: equestria girls, humanized**(pony anthro, anthro:1.5)**':
   Description:
     - Friendship is Magic Characters
   Tags:
@@ -177,338 +177,338 @@
     - FiM
     - Pony
     - Ponies
-'(__Characters/Final Fantasy__:1.3)':
+'source_anime, __Characters/Final Fantasy__':
   Description:
     - Final Fantasy Characters
   Tags:
     - Characters
     - Final Fantasy
-'(__Characters/Fire Emblem__:1.3)':
+'source_anime, __Characters/Fire Emblem__':
   Description:
     - Fire Emblem Characters
   Tags:
     - Characters
     - Fire Emblem
-'(__Characters/Genshin__:1.3)':
+'source_anime, __Characters/Genshin__':
   Description:
     - Genshin Characters
   Tags:
     - Characters
     - Genshin
-'(__Characters/Girls Frontline__:1.3)':
+'source_anime, __Characters/Girls Frontline__':
   Description:
     - Girls Frontline Characters
   Tags:
     - Characters
     - Girls Frontline
-'(__Characters/Girls und Panzer__:1.3)':
+'source_anime, __Characters/Girls und Panzer__':
   Description:
     - Girls und Panzer Characters
   Tags:
     - Characters
     - Girls und Panzer
-'(__Characters/Godzilla__:1.3)':
+'source_furry, __Characters/Godzilla__:1.0)':
   Description:
     - Godzilla Characters
   Tags:
     - Characters
     - Godzilla
-'(__Characters/Granblue__:1.3)':
+'source_anime, __Characters/Granblue__':
   Description:
     - Granblue Characters
   Tags:
     - Characters
     - Granblue
-'(__Characters/Gravity Rush__:1.3)':
+'source_anime, __Characters/Gravity Rush__':
   Description:
     - Gravity Rush Characters
   Tags:
     - Characters
     - Gravity Rush
-'(__Characters/Guilty Gear__:1.3)':
+'source_anime, __Characters/Guilty Gear__':
   Description:
     - Guilty Gear Characters
   Tags:
     - Characters
     - Guilty Gear
-'(__Characters/Hololive__:1.3)':
+'source_anime, __Characters/Hololive__':
   Description:
     - Hololive Characters
   Tags:
     - Characters
     - Hololive
-'(__Characters/Honkai__:1.3)':
+'source_anime, __Characters/Honkai__':
   Description:
     - Honkai Characters
   Tags:
     - Characters
     - Honkai
-'(__Characters/Idol Master__:1.3)':
+'source_anime, __Characters/Idol Master__':
   Description:
     - IdolMaster Characters
   Tags:
     - Characters
     - Idol Master
-'(__Characters/Kantai Collection__:1.3)':
+'source_anime, __Characters/Kantai Collection__':
   Description:
     - Kantai Characters
   Tags:
     - Characters
     - Kantai Collection
-'(__Characters/Kill la Kill__:1.3)':
+'source_anime, __Characters/Kill la Kill__':
   Description:
     - Kill la Kill Characters
   Tags:
     - Characters
     - Kill la Kill Friends
-'(__Characters/KoF__:1.3)':
+'source_anime, __Characters/KoF__':
   Description:
     - KoF Characters
   Tags:
     - Characters
     - KoF
-'(__Characters/Kemono Friends__:1.3)':
+'source_anime, __Characters/Kemono Friends__':
   Description:
     - Kemono Friends Characters
   Tags:
     - Characters
     - Kemono Friends
-'(__Characters/LiS__:1.3), life is strange**(beanie, hat, headwear, hair ornament:2.0)**':
+'source_anime, __Characters/LiS__, life is strange**(beanie, hat, headwear, hair ornament:2.0)**':
   Description:
     - Life is Strange Characters
   Tags:
     - Characters
     - LiS
-'(__Characters/LoL__:1.3)':
+'source_anime, __Characters/LoL__':
   Description:
     - League of Legends Characters
   Tags:
     - Characters
     - LoL
-'(__Characters/Love Live__:1.3)':
+'source_anime, __Characters/Love Live__':
   Description:
     - Love Live Characters
   Tags:
     - Characters
     - Love Live
-'(__Characters/MahoAko__:1.3)':
+'source_anime, __Characters/MahoAko__':
   Description:
     - MahoAko Characters
   Tags:
     - Characters
     - MahoAko
-'(__Characters/Mass Effect__:1.3), mass effect':
+'source_anime, __Characters/Mass Effect__, mass effect':
   Description:
     - MahoAko Characters
   Tags:
     - Characters
     - MassEffect
     - Mass Effect
-'(__Characters/Metal Gear__:1.3)':
+'source_anime, __Characters/Metal Gear__':
   Description:
     - Metal Gear Characters
   Tags:
     - Characters
     - Metal Gear
-'(__Characters/Misc__:1.3)':
+'source_anime, __Characters/Misc__':
   Description:
     - Uncategorized Characters
   Tags:
     - Characters
     - Misc
-'(__Characters/Naruto__:1.3)':
+'source_anime, __Characters/Naruto__':
   Description:
     - Naruto Characters
   Tags:
     - Characters
     - Naruto
-'(__Characters/Nier__:1.3)':
+'source_anime, __Characters/Nier__':
   Description:
     - Nier Characters
   Tags:
     - Characters
     - Nier
-'(__Characters/Nijisanji__:1.3)':
+'source_anime, __Characters/Nijisanji__':
   Description:
     - Nijisanji Characters
   Tags:
     - Characters
     - Nijisanji
-'(__Characters/Nikke__:1.3)':
+'source_anime, __Characters/Nikke__':
   Description:
     - Nikke Characters
   Tags:
     - Characters
     - Nikke
-'(__Characters/Nintendo__:1.3)':
+'source_anime, __Characters/Nintendo__':
   Description:
     - Nintendo Characters
   Tags:
     - Characters
     - Nintendo
-'(__Characters/Overwatch__:1.3)**(headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0)**':
+'source_anime, __Characters/Overwatch__**(headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0)**':
   Description:
     - Overwatch Characters
   Tags:
     - Characters
     - Overwatch
-'(__Characters/Persona__:1.3)':
+'source_anime, __Characters/Persona__':
   Description:
     - Persona Characters
   Tags:
     - Characters
     - Persona
-'(__Characters/Pokemon__:1.3)**(pokeball:2.0)**':
+'source_anime, __Characters/Pokemon__**(pokeball:2.0)**':
   Description:
     - Pokemon Characters
   Tags:
     - Characters
     - Pokemon
-'(__Characters/Precure__:1.3)':
+'source_anime, __Characters/Precure__':
   Description:
     - Precure Characters
   Tags:
     - Characters
     - Precure
-'(__Characters/Project Sekai__:1.3)':
+'source_anime, __Characters/Project Sekai__':
   Description:
     - Project Sekai Characters
   Tags:
     - Characters
     - Project Sekai
-'(__Characters/Princess Connect__:1.3)':
+'source_anime, __Characters/Princess Connect__':
   Description:
     - Princess Connect Characters
   Tags:
     - Characters
     - Princess Connect
-'(__Characters/Resident Evil__:1.3)':
+'source_anime, __Characters/Resident Evil__':
   Description:
     - Resident Evil Characters
   Tags:
     - Characters
     - Resident Evil
-'(__Characters/RWBY__:1.3), RWBY**(holding, weapon:2.0)**':
+'source_anime, __Characters/RWBY__, RWBY**(holding, weapon:2.0)**':
   Description:
     - RWBY Characters
   Tags:
     - Characters
     - RWBY
-'(__Characters/Sailor Moon__:1.3)':
+'source_anime, __Characters/Sailor Moon__':
   Description:
     - Sailor Moon Characters
   Tags:
     - Characters
     - Sailor Moon
-'(__Characters/SamSho__:1.3)':
+'source_anime, __Characters/SamSho__':
   Description:
     - SamSho Characters
   Tags:
     - Characters
     - SamSho
-'(__Characters/SAO__:1.3)':
+'source_anime, __Characters/SAO__':
   Description:
     - SAO Characters
   Tags:
     - Characters
     - SAO
-'(__Characters/She-ra__:1.3), she-ra and the princesses of power':
+'source_anime, __Characters/She-ra__, she-ra and the princesses of power':
   Description:
     - She-ra Characters
   Tags:
     - Characters
     - She-ra
-'(__Characters/Shingeki no Kyojin__:1.3)':
+'source_anime, __Characters/Shingeki no Kyojin__':
   Description:
     - Shingeki no Kyojin Characters
   Tags:
     - Characters
     - Shingeki no Kyojin
-'(__Characters/Soulcalibur__:1.3)':
+'source_anime, __Characters/Soulcalibur__':
   Description:
     - Soulcalibur Characters
   Tags:
     - Characters
     - Soulcalibur
-'(__Characters/Splatoon__:1.3), splatoon \(series\)':
+'source_anime, __Characters/Splatoon__, splatoon \(series\)':
   Description:
     - Splatoon Characters
   Tags:
     - Characters
     - Splatoon
-'(__Characters/Street Fighter__:1.3)':
+'source_anime, __Characters/Street Fighter__':
   Description:
     - Street Fighter Characters
   Tags:
     - Characters
     - Street Fighter
-'(__Characters/Tales__:1.3)':
+'source_anime, __Characters/Tales__':
   Description:
     - Tales Characters
   Tags:
     - Characters
     - Tales
-'(__Characters/Tekken__:1.3)':
+'source_anime, __Characters/Tekken__':
   Description:
     - Tekken Characters
   Tags:
     - Characters
     - Tekken
-'(__Characters/Touhou__:1.3)':
+'source_anime, __Characters/Touhou__':
   Description:
     - Touhou Characters
   Tags:
     - Characters
     - Touhou
-'(__Characters/Umamusume__:1.3)':
+'source_anime, __Characters/Umamusume__':
   Description:
     - Umamusume Characters
   Tags:
     - Characters
     - Umamusume
-'(__Characters/Upsample__:1.3)':
+'source_anime, __Characters/Upsample__':
   Description:
     - Danbooru Upsample Characters
   Tags:
     - Characters
     - Upsample
-'(__Characters/Vocaloid__:1.3)':
+'source_anime, __Characters/Vocaloid__':
   Description:
     - Vocaloid Characters
   Tags:
     - Characters
     - Vocaloid
-'(__Characters/Vshojo__:1.3)':
+'source_anime, __Characters/Vshojo__':
   Description:
     - Vshojo Characters
   Tags:
     - Characters
     - Vshojo
-'(__Characters/Witcher__:1.3), the witcher \(series\)':
+'source_anime, __Characters/Witcher__, the witcher \(series\)':
   Description:
     - Witcher Characters
   Tags:
     - Characters
     - Witcher
-'(__Characters/World Witches__:1.3)':
+'source_anime, __Characters/World Witches__':
   Description:
     - World Witches Characters
   Tags:
     - Characters
     - World Witches
-'(__Characters/Xenoblade__:1.3)':
+'source_anime, __Characters/Xenoblade__':
   Description:
     - Xenoblade Characters
   Tags:
     - Characters
     - Xenoblade
-'(__Characters/Zelda__:1.3)':
+'source_anime, __Characters/Zelda__':
   Description:
     - Zelda Characters
   Tags:
     - Characters
     - Zelda
-'(__Characters/ZZZ__:1.3)':
+'source_anime, __Characters/ZZZ__':
   Description:
     - ZZZ Characters
   Tags:

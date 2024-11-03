@@ -1,28 +1,28 @@
-asuna \(sao\), sword art online, long hair, brown eyes, brown hair, very long hair
-sinon, sword art online, animal ears, short hair, blue eyes, hair between eyes, aqua hair, blue hair
-leafa \(sao\), sword art online, green eyes, hair between eyes, blonde hair, long hair, pointy ears, very long hair
-kirigaya suguha, sword art online, black hair, short hair, green eyes, blue eyes
-silica, sword art online, animal ears, short hair, cat ears, brown hair, long hair, red eyes
-yuuki \(sao\), sword art online, red eyes, purple hair, long hair, pointy ears, very long hair
-alice zuberg, sword art online, long hair, blue eyes, very long hair, blonde hair
-lisbeth \(sao\), sword art online, short hair, pink hair, brown hair, long hair, pink eyes, pointy ears, red eyes
-asuna \(sao-alo\), sword art online, blue eyes, long hair, blue hair, pointy ears, very long hair
-pina \(sao\), sword art online, animal ears, short hair, cat ears, brown hair, long hair, red eyes
-sinon \(sao-alo\), sword art online, animal ears, blue eyes, cat ears, short hair, hair between eyes, blue hair
-silica \(sao-alo\), sword art online, animal ears, short hair, cat ears, brown hair, hair between eyes, long hair, pointy ears, red eyes
-llenn \(sao\), sword art online, animal ears, short hair, brown hair, rabbit ears, brown eyes
-titania \(sao\), sword art online, pointy ears, brown hair, long hair, brown eyes, very long hair
-asada shino, sword art online, black hair, short hair, brown hair, hair between eyes, brown eyes, black eyes
-lisbeth \(sao-alo\), sword art online, animal ears, pink hair, short hair, cat ears, brown hair, blue eyes, blonde hair, long hair, blue hair, pink eyes, pointy ears, red eyes
-asuna \(stacia\) \(sao\), sword art online, brown hair, blonde hair, long hair, brown eyes, very long hair
-mito \(sao\), sword art online, red eyes, purple hair, hair between eyes, long hair, very long hair
-quinella, sword art online, long hair, purple eyes, purple hair, very long hair
-sachi \(sao\), sword art online, black hair, short hair, blue eyes, brown hair, long hair, blue hair
-ronye arabel, sword art online, black hair, blue eyes, short hair, brown hair, long hair, red hair, red eyes
-philia \(sao\), sword art online, black hair, short hair, blue eyes, brown hair, hair between eyes, blonde hair
-sinon \(solus\), sword art online, blue eyes, short hair, green eyes, hair between eyes, blonde hair, long hair, blue hair, very long hair
-tiese schtrinen, sword art online, blue eyes, short hair, brown hair, very long hair, long hair, red hair, red eyes
-leafa \(terraria\) \(sao\), sword art online, blue eyes, green eyes, hair between eyes, blonde hair, long hair, very long hair
-argo the rat, sword art online, short hair, blonde hair, yellow eyes, long hair, brown eyes
-yuna \(sao\), sword art online, white hair, brown hair, red eyes, long hair, floating hair, brown eyes, very long hair
-strea \(sao\), sword art online, pink hair, purple hair, hair between eyes, long hair, red eyes
+(asuna \(sao\):1.3), sword art online, long hair, brown eyes, brown hair, very long hair
+(sinon:1.3), sword art online, animal ears, short hair, blue eyes, hair between eyes, aqua hair, blue hair
+(leafa \(sao\):1.3), sword art online, green eyes, hair between eyes, blonde hair, long hair, pointy ears, very long hair
+(kirigaya suguha:1.3), sword art online, black hair, short hair, green eyes, blue eyes
+(silica:1.3), sword art online, animal ears, short hair, cat ears, brown hair, long hair, red eyes
+(yuuki \(sao\):1.3), sword art online, red eyes, purple hair, long hair, pointy ears, very long hair
+(alice zuberg:1.3), sword art online, long hair, blue eyes, very long hair, blonde hair
+(lisbeth \(sao\):1.3), sword art online, short hair, pink hair, brown hair, long hair, pink eyes, pointy ears, red eyes
+(asuna \(sao-alo\):1.3), sword art online, blue eyes, long hair, blue hair, pointy ears, very long hair
+(pina \(sao\):1.3), sword art online, animal ears, short hair, cat ears, brown hair, long hair, red eyes
+(sinon \(sao-alo\):1.3), sword art online, animal ears, blue eyes, cat ears, short hair, hair between eyes, blue hair
+(silica \(sao-alo\):1.3), sword art online, animal ears, short hair, cat ears, brown hair, hair between eyes, long hair, pointy ears, red eyes
+(llenn \(sao\):1.3), sword art online, animal ears, short hair, brown hair, rabbit ears, brown eyes
+(titania \(sao\):1.3), sword art online, pointy ears, brown hair, long hair, brown eyes, very long hair
+(asada shino:1.3), sword art online, black hair, short hair, brown hair, hair between eyes, brown eyes, black eyes
+(lisbeth \(sao-alo\):1.3), sword art online, animal ears, pink hair, short hair, cat ears, brown hair, blue eyes, blonde hair, long hair, blue hair, pink eyes, pointy ears, red eyes
+(asuna \(stacia\) \(sao\):1.3), sword art online, brown hair, blonde hair, long hair, brown eyes, very long hair
+(mito \(sao\):1.3), sword art online, red eyes, purple hair, hair between eyes, long hair, very long hair
+(quinella:1.3), sword art online, long hair, purple eyes, purple hair, very long hair
+(sachi \(sao\):1.3), sword art online, black hair, short hair, blue eyes, brown hair, long hair, blue hair
+(ronye arabel:1.3), sword art online, black hair, blue eyes, short hair, brown hair, long hair, red hair, red eyes
+(philia \(sao\):1.3), sword art online, black hair, short hair, blue eyes, brown hair, hair between eyes, blonde hair
+(sinon \(solus\):1.3), sword art online, blue eyes, short hair, green eyes, hair between eyes, blonde hair, long hair, blue hair, very long hair
+(tiese schtrinen:1.3), sword art online, blue eyes, short hair, brown hair, very long hair, long hair, red hair, red eyes
+(leafa \(terraria\) \(sao\):1.3), sword art online, blue eyes, green eyes, hair between eyes, blonde hair, long hair, very long hair
+(argo the rat:1.3), sword art online, short hair, blonde hair, yellow eyes, long hair, brown eyes
+(yuna \(sao\):1.3), sword art online, white hair, brown hair, red eyes, long hair, floating hair, brown eyes, very long hair
+(strea \(sao\):1.3), sword art online, pink hair, purple hair, hair between eyes, long hair, red eyes

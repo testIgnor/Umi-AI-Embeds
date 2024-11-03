@@ -1,2 +1,2 @@
-madeline \(celeste\), celeste, red hair, red eyes
-badeline \(celeste\), celeste, purple hair, purple eyes
+(madeline \(celeste\):1.3), celeste, red hair, red eyes
+(badeline \(celeste\):1.3), celeste, purple hair, purple eyes

@@ -1,20 +1,20 @@
-chun-li, street fighter, brown eyes, short hair, brown hair
-cammy white, street fighter, blonde hair, blue eyes, long hair
-han juri, street fighter, purple eyes, multicolored hair, black hair
-kasugano sakura, street fighter, brown eyes, short hair, brown hair
-rainbow mika, street fighter, blonde hair, blue eyes, long hair
-makoto \(street fighter\), street fighter, brown eyes, short hair, black hair
-ibuki \(street fighter\), street fighter, brown eyes, brown hair, long hair, antenna hair, black hair
-kanzuki karin, street fighter, blonde hair, brown eyes, long hair, antenna hair
-elena \(street fighter\), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin
-menat, street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin
-laura matsuda, street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair
-rose \(street fighter\), street fighter, long hair, purple hair
-crimson viper, street fighter, long hair, dark skin, dark-skinned female, red hair
-manon legrand, street fighter, pink hair, blue eyes
-kimberly jackson, street fighter, dark-skinned female, brown eyes, multicolored hair, long hair, very dark skin, dark skin, black hair
-a.k.i. \(street fighter\), street fighter, red eyes, impossible hair, short hair, white hair
-kolin, street fighter, blonde hair, blue eyes, long hair
-decapre, street fighter, blonde hair, long hair, red eyes
-lily hawk, street fighter, dark-skinned female, brown eyes, brown hair, dark skin, black hair
-female seth \(street fighter\), street fighter, yellow eyes, grey skin, long hair, colored skin, very long hair, metal skin, black hair
+(chun-li:1.3), street fighter, brown eyes, short hair, brown hair
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair
+(han juri:1.3), street fighter, purple eyes, multicolored hair, black hair
+(kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair
+(rainbow mika:1.3), street fighter, blonde hair, blue eyes, long hair
+(makoto \(street fighter\):1.3), street fighter, brown eyes, short hair, black hair
+(ibuki \(street fighter\):1.3), street fighter, brown eyes, brown hair, long hair, antenna hair, black hair
+(kanzuki karin:1.3), street fighter, blonde hair, brown eyes, long hair, antenna hair
+(elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin
+(menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair
+(rose \(street fighter\):1.3), street fighter, long hair, purple hair
+(crimson viper:1.3), street fighter, long hair, dark skin, dark-skinned female, red hair
+(manon legrand:1.3), street fighter, pink hair, blue eyes
+(kimberly jackson:1.3), street fighter, dark-skinned female, brown eyes, multicolored hair, long hair, very dark skin, dark skin, black hair
+(a.k.i. \(street fighter\):1.3), street fighter, red eyes, impossible hair, short hair, white hair
+(kolin:1.3), street fighter, blonde hair, blue eyes, long hair
+(decapre:1.3), street fighter, blonde hair, long hair, red eyes
+(lily hawk:1.3), street fighter, dark-skinned female, brown eyes, brown hair, dark skin, black hair
+(female seth \(street fighter\):1.3), street fighter, yellow eyes, grey skin, long hair, colored skin, very long hair, metal skin, black hair

@@ -428,13 +428,13 @@
   Tags:
     - Particle
     - GazeFormat
-'(mechagodzilla, mecha godzilla:1.7), <[Artists][--3D]>, (scalie, female robot scalie:1.4), (tall female:1.2), [(bald:1.5):(bald:0.0):0.1], [(godzilla head, lizard head, reptile head, scalie head:0.0):(godzilla head, lizard head, reptile head, scalie head:1.5):0.25], (mecha, robot, (silver:1.5) metal skin, piloted mech, robot joints:1.7), [(mechanical tail, robot tail:1.7):(mechanical tail, robot tail:0.2):0.25], [(high heels:1.2)|(digitigrade feet:1.2)]**(wings, wing, weapon, weapons, gun, missile, human, car, vehicle:2.0)**':
+'(mechagodzilla, mecha godzilla:1.7), <[Artists][--3D]>, (scalie, female robot scalie:1.4), (tall female:1.2), [(bald:1.5):(bald:0.0):0.1], [(godzilla head, lizard head, reptile head, scalie head:0.0):(godzilla head, lizard head, reptile head, scalie head:1.5):0.25], (mecha, robot, (silver:1.5) metal skin, piloted mech, robot joints:1.7), [(mechanical tail, robot tail:1.7):(mechanical tail, robot tail:0.2):0.25], [(high heels:1.2)|(digitigrade feet:1.2)], (no humans:1.5), kaiju**(wings, wing, weapon, weapons, gun, missile, human, human girl, human boy, human female, human male, car, vehicle:2.0)**':
   Description:
     - Mechagodzilla Character
   Tags:
     - Particle
     - MechagodzillaCharacter
-'(mechagodzilla, mecha godzilla:1.6), kiryu \(godzilla\), (genderswap:1.2), (scalie, female robot scalie:1.5), (tall female:1.2), (mecha, robot, (silver:1.5) metal skin, robot joints:1.6), (high heels:1.2), (digitigrade feet:1.1)**(wings, wing, weapon, weapons, gun, missile, human, car, vehicle:2.0)**':
+'(mechagodzilla, mecha godzilla:1.6), kiryu \(godzilla\), (genderswap:1.2), (scalie, female robot scalie:1.5), (tall female:1.2), (mecha, robot, (silver:1.5) metal skin, robot joints:1.6), (high heels:1.2), (digitigrade feet:1.1), (no humans:1.5), kaiju**(wings, wing, weapon, weapons, gun, missile, human, human girl, human boy, human female, human male, car, vehicle:2.0)**':
   Description:
     - Alternate Mechagodzilla Character
   Tags:

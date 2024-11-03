@@ -1,36 +1,36 @@
-rita mordio, tales of \(series\), black hair, short hair, pink hair, green eyes, brown hair, long hair
-sophie \(tales\), tales of \(series\), brown hair, long hair, purple hair, purple eyes
-tear grants, tales of \(series\), blue eyes, green eyes, brown hair, long hair, red hair
-judith \(tales\), tales of \(series\), black hair, purple eyes, brown hair, long hair, blue hair, pointy ears, red eyes
-velvet crowe, tales of \(series\), black hair, hair between eyes, blonde hair, long hair, yellow eyes, very long hair
-colette brunel, tales of \(series\), long hair, blue eyes, brown hair, blonde hair
-edna \(tales\), tales of \(series\), short hair, blue eyes, blonde hair
-elize lutus, tales of \(series\), black hair, short hair, green eyes, brown hair, blonde hair, long hair, brown eyes
-anise tatlin, tales of \(series\), black hair, short hair, green eyes, brown hair, blonde hair, long hair, brown eyes
-pascal \(tales\), tales of \(series\), purple eyes, short hair, red hair, blue eyes, white hair, blue hair, brown hair, pink hair, purple hair, yellow eyes, two-tone hair, brown eyes, multicolored hair
-teepo \(tales\), tales of \(series\), black hair, short hair, green eyes, brown hair, blonde hair, long hair, brown eyes
-natalia luzu kimlasca lanvaldear, tales of \(series\), short hair, blue eyes, green eyes, brown hair, blonde hair, long hair, red hair
-leia rolando, tales of \(series\), black hair, short hair, green eyes, brown hair, blonde hair, long hair, brown eyes
-tokunaga \(tales\), tales of \(series\), black hair, green eyes, brown hair, blonde hair, long hair, brown eyes
-fujibayashi sheena, tales of \(series\), black hair, short hair, long hair, red hair, brown eyes
-arche klein, tales of \(series\), long hair, pink eyes, pink hair, blue eyes
-alisha diphda, tales of \(series\), short hair, blue eyes, green eyes, brown hair, hair between eyes, blonde hair, long hair
-presea combatir, tales of \(series\), long hair, pink hair, blue eyes
-magilou \(tales\), tales of \(series\), black hair, green eyes, hair between eyes, blonde hair, long hair, pointy ears, very long hair
-mint adenade, tales of \(series\), blue eyes, pink hair, brown hair, blonde hair, long hair
-reala \(tales\), tales of \(series\), black hair, short hair, brown hair, blonde hair, very short hair, brown eyes
-farah oersted, tales of \(series\), purple eyes, blue eyes, short hair, purple hair, long hair, red hair, brown eyes, green hair
-rose \(tales\), tales of \(series\), short hair, blue eyes, green eyes, brown hair, white hair, blonde hair, long hair, red hair
-meredy \(tales\), tales of \(series\), dark-skinned female, purple eyes, short hair, blue eyes, purple hair, dark skin, long hair, green hair
-symonne \(tales\), tales of \(series\), purple eyes, purple hair
-rinwell \(tales\), tales of \(series\), black hair, short hair, pink hair, yellow eyes, brown eyes
-sophie \(toast of the town\) \(tales\), tales of \(series\), long hair, purple hair, purple eyes
-phoenix \(tales\), tales of \(series\), blue eyes, short hair, blonde hair
-lailah \(tales\), tales of \(series\), short hair, blue eyes, green eyes, white hair, brown hair, blonde hair, long hair, very long hair
-agria \(tales\), tales of \(series\), black hair, purple eyes, brown hair, white hair, long hair, red eyes
-chloe valens, tales of \(series\), black hair, short hair, brown hair, yellow eyes, very short hair, brown eyes
-rollo \(tales\), tales of \(series\), black hair, blue eyes, short hair, green eyes, brown hair, white hair, blonde hair, long hair, two-tone hair, multicolored hair
-arietta \(tales\), tales of \(series\), pink hair, brown hair, long hair, pink eyes, green hair, red eyes
-rutee katrea, tales of \(series\), black hair, purple eyes, short hair, blonde hair, long hair, very short hair
-kohaku hearts, tales of \(series\), black hair, purple eyes, low-tied long hair, blue eyes, brown hair, blonde hair, long hair
-kisara \(tales\), tales of \(series\), short hair, brown hair, dark skin, blonde hair, long hair, red hair, dark-skinned male, brown eyes
+(rita mordio:1.3), tales of \(series\), black hair, short hair, pink hair, green eyes, brown hair, long hair
+(sophie \(tales\):1.3), tales of \(series\), brown hair, long hair, purple hair, purple eyes
+(tear grants:1.3), tales of \(series\), blue eyes, green eyes, brown hair, long hair, red hair
+(judith \(tales\):1.3), tales of \(series\), black hair, purple eyes, brown hair, long hair, blue hair, pointy ears, red eyes
+(velvet crowe:1.3), tales of \(series\), black hair, hair between eyes, blonde hair, long hair, yellow eyes, very long hair
+(colette brunel:1.3), tales of \(series\), long hair, blue eyes, brown hair, blonde hair
+(edna \(tales\):1.3), tales of \(series\), short hair, blue eyes, blonde hair
+(elize lutus:1.3), tales of \(series\), black hair, short hair, green eyes, brown hair, blonde hair, long hair, brown eyes
+(anise tatlin:1.3), tales of \(series\), black hair, short hair, green eyes, brown hair, blonde hair, long hair, brown eyes
+(pascal \(tales\):1.3), tales of \(series\), purple eyes, short hair, red hair, blue eyes, white hair, blue hair, brown hair, pink hair, purple hair, yellow eyes, two-tone hair, brown eyes, multicolored hair
+(teepo \(tales\):1.3), tales of \(series\), black hair, short hair, green eyes, brown hair, blonde hair, long hair, brown eyes
+(natalia luzu kimlasca lanvaldear:1.3), tales of \(series\), short hair, blue eyes, green eyes, brown hair, blonde hair, long hair, red hair
+(leia rolando:1.3), tales of \(series\), black hair, short hair, green eyes, brown hair, blonde hair, long hair, brown eyes
+(tokunaga \(tales\):1.3), tales of \(series\), black hair, green eyes, brown hair, blonde hair, long hair, brown eyes
+(fujibayashi sheena:1.3), tales of \(series\), black hair, short hair, long hair, red hair, brown eyes
+(arche klein:1.3), tales of \(series\), long hair, pink eyes, pink hair, blue eyes
+(alisha diphda:1.3), tales of \(series\), short hair, blue eyes, green eyes, brown hair, hair between eyes, blonde hair, long hair
+(presea combatir:1.3), tales of \(series\), long hair, pink hair, blue eyes
+(magilou \(tales\):1.3), tales of \(series\), black hair, green eyes, hair between eyes, blonde hair, long hair, pointy ears, very long hair
+(mint adenade:1.3), tales of \(series\), blue eyes, pink hair, brown hair, blonde hair, long hair
+(reala \(tales\):1.3), tales of \(series\), black hair, short hair, brown hair, blonde hair, very short hair, brown eyes
+(farah oersted:1.3), tales of \(series\), purple eyes, blue eyes, short hair, purple hair, long hair, red hair, brown eyes, green hair
+(rose \(tales\):1.3), tales of \(series\), short hair, blue eyes, green eyes, brown hair, white hair, blonde hair, long hair, red hair
+(meredy \(tales\):1.3), tales of \(series\), dark-skinned female, purple eyes, short hair, blue eyes, purple hair, dark skin, long hair, green hair
+(symonne \(tales\):1.3), tales of \(series\), purple eyes, purple hair
+(rinwell \(tales\):1.3), tales of \(series\), black hair, short hair, pink hair, yellow eyes, brown eyes
+(sophie \(toast of the town\) \(tales\):1.3), tales of \(series\), long hair, purple hair, purple eyes
+(phoenix \(tales\):1.3), tales of \(series\), blue eyes, short hair, blonde hair
+(lailah \(tales\):1.3), tales of \(series\), short hair, blue eyes, green eyes, white hair, brown hair, blonde hair, long hair, very long hair
+(agria \(tales\):1.3), tales of \(series\), black hair, purple eyes, brown hair, white hair, long hair, red eyes
+(chloe valens:1.3), tales of \(series\), black hair, short hair, brown hair, yellow eyes, very short hair, brown eyes
+(rollo \(tales\):1.3), tales of \(series\), black hair, blue eyes, short hair, green eyes, brown hair, white hair, blonde hair, long hair, two-tone hair, multicolored hair
+(arietta \(tales\):1.3), tales of \(series\), pink hair, brown hair, long hair, pink eyes, green hair, red eyes
+(rutee katrea:1.3), tales of \(series\), black hair, purple eyes, short hair, blonde hair, long hair, very short hair
+(kohaku hearts:1.3), tales of \(series\), black hair, purple eyes, low-tied long hair, blue eyes, brown hair, blonde hair, long hair
+(kisara \(tales\):1.3), tales of \(series\), short hair, brown hair, dark skin, blonde hair, long hair, red hair, dark-skinned male, brown eyes

@@ -1,34 +1,34 @@
-slime \(dragon quest\), dragon quest, blonde hair, long hair, blue eyes
-bianca \(dq5\), dragon quest, blonde hair, blue eyes, long hair
-manya \(dq4\), dragon quest, dark-skinned female, purple hair, long hair, dark skin, purple eyes
-princess of moonbrook, dragon quest, blonde hair, long hair, purple hair, curly hair
-jessica albert, dragon quest, orange hair, long hair, brown eyes, brown hair
-sage \(dq3\), dragon quest, long hair, blue hair, blue eyes, red eyes
-alena \(dq4\), dragon quest, orange hair, long hair, curly hair, red eyes
-soldier \(dq3\), dragon quest, long hair, purple hair, blue eyes
-priest \(dq3\), dragon quest, long hair, blue hair, aqua hair, red eyes
-roto \(dq3\), dragon quest, brown hair, short hair, long hair, blue eyes, black hair
-martina \(dq11\), dragon quest, purple hair, long hair, very long hair, purple eyes, black hair
-hero's daughter \(dq5\), dragon quest, blonde hair, long hair, blue eyes, short hair
-prince of lorasia, dragon quest, curly hair, purple hair, short hair, spiked hair, blonde hair, long hair, blue eyes
-veronica \(dq11\), dragon quest, blonde hair, long hair, blue eyes, purple eyes
-senya \(dq11\), dragon quest, purple eyes, blonde hair, blue eyes, long hair
-maribel \(dq7\), dragon quest, curly hair, long hair, green eyes, blue eyes, red hair
-prince of samantoria, dragon quest, curly hair, purple hair, short hair, spiked hair, blonde hair, long hair, blue eyes
-flora \(dq5\), dragon quest, blonde hair, long hair, blue hair, blue eyes
-heroine \(dq4\), dragon quest, curly hair, green hair, short hair, long hair, blue eyes
-barbara \(dq6\), dragon quest, orange hair, long hair, blonde hair, purple eyes, red hair
-heroine \(dq3\), dragon quest, brown hair, short hair, long hair, blue eyes, black hair
-fighter \(dq3\), dragon quest, long hair, short hair, black hair
-maam, dragon quest, pink hair, brown eyes, long hair, short hair
-mireyu, dragon quest, blonde hair, green eyes, low-tied long hair, long hair
-hero \(dq8\), dragon quest, brown eyes, brown hair, short hair, long hair, blue eyes, black hair
-deborah \(dq5\), dragon quest, long hair, blue eyes, black hair
-healslime, dragon quest, long hair, blue eyes, short hair
-mage \(dq3\), dragon quest, long hair, short hair, red hair
-tabitha \(dq5\), dragon quest, blonde hair, long hair, blue eyes, short hair
-daisy \(dq\), dragon quest, long hair, brown eyes, brown hair
-ogre \(dq10\), dragon quest, red skin, red eyes, long hair, colored skin, white hair
-jester \(dq3\), dragon quest, blonde hair, long hair, blue eyes
-merchant \(dq3\), dragon quest, pink hair, long hair, short hair, blue eyes
-elf \(dq10\), dragon quest, pink hair, short hair, long hair, colored skin, blue eyes
+(slime \(dragon quest\):1.3), dragon quest, blonde hair, long hair, blue eyes
+(bianca \(dq5\):1.3), dragon quest, blonde hair, blue eyes, long hair
+(manya \(dq4\):1.3), dragon quest, dark-skinned female, purple hair, long hair, dark skin, purple eyes
+(princess of moonbrook:1.3), dragon quest, blonde hair, long hair, purple hair, curly hair
+(jessica albert:1.3), dragon quest, orange hair, long hair, brown eyes, brown hair
+(sage \(dq3\):1.3), dragon quest, long hair, blue hair, blue eyes, red eyes
+(alena \(dq4\):1.3), dragon quest, orange hair, long hair, curly hair, red eyes
+(soldier \(dq3\):1.3), dragon quest, long hair, purple hair, blue eyes
+(priest \(dq3\):1.3), dragon quest, long hair, blue hair, aqua hair, red eyes
+(roto \(dq3\):1.3), dragon quest, brown hair, short hair, long hair, blue eyes, black hair
+(martina \(dq11\):1.3), dragon quest, purple hair, long hair, very long hair, purple eyes, black hair
+(hero's daughter \(dq5\):1.3), dragon quest, blonde hair, long hair, blue eyes, short hair
+(prince of lorasia:1.3), dragon quest, curly hair, purple hair, short hair, spiked hair, blonde hair, long hair, blue eyes
+(veronica \(dq11\):1.3), dragon quest, blonde hair, long hair, blue eyes, purple eyes
+(senya \(dq11\):1.3), dragon quest, purple eyes, blonde hair, blue eyes, long hair
+(maribel \(dq7\):1.3), dragon quest, curly hair, long hair, green eyes, blue eyes, red hair
+(prince of samantoria:1.3), dragon quest, curly hair, purple hair, short hair, spiked hair, blonde hair, long hair, blue eyes
+(flora \(dq5\):1.3), dragon quest, blonde hair, long hair, blue hair, blue eyes
+(heroine \(dq4\):1.3), dragon quest, curly hair, green hair, short hair, long hair, blue eyes
+(barbara \(dq6\):1.3), dragon quest, orange hair, long hair, blonde hair, purple eyes, red hair
+(heroine \(dq3\):1.3), dragon quest, brown hair, short hair, long hair, blue eyes, black hair
+(fighter \(dq3\):1.3), dragon quest, long hair, short hair, black hair
+(maam:1.3), dragon quest, pink hair, brown eyes, long hair, short hair
+(mireyu:1.3), dragon quest, blonde hair, green eyes, low-tied long hair, long hair
+(hero \(dq8\):1.3), dragon quest, brown eyes, brown hair, short hair, long hair, blue eyes, black hair
+(deborah \(dq5\):1.3), dragon quest, long hair, blue eyes, black hair
+(healslime:1.3), dragon quest, long hair, blue eyes, short hair
+(mage \(dq3\):1.3), dragon quest, long hair, short hair, red hair
+(tabitha \(dq5\):1.3), dragon quest, blonde hair, long hair, blue eyes, short hair
+(daisy \(dq\):1.3), dragon quest, long hair, brown eyes, brown hair
+(ogre \(dq10\):1.3), dragon quest, red skin, red eyes, long hair, colored skin, white hair
+(jester \(dq3\):1.3), dragon quest, blonde hair, long hair, blue eyes
+(merchant \(dq3\):1.3), dragon quest, pink hair, long hair, short hair, blue eyes
+(elf \(dq10\):1.3), dragon quest, pink hair, short hair, long hair, colored skin, blue eyes

@@ -1,16 +1,16 @@
-darjeeling \(girls und panzer\), girls und panzer, blonde hair, blue eyes, long hair, short hair
-anchovy \(girls und panzer\), girls und panzer, drill hair, red eyes, brown eyes, long hair, short hair, green hair
-kay \(girls und panzer\), girls und panzer, blonde hair, blue eyes, long hair, short hair
-shimada arisu, girls und panzer, brown eyes, brown hair, long hair, short hair, light brown hair
-boko \(girls und panzer\), girls und panzer, brown eyes, brown hair, long hair, short hair, light brown hair
-nishizumi shiho, girls und panzer, black hair, straight hair, brown eyes, brown hair, long hair, short hair
-marie \(girls und panzer\), girls und panzer, blue eyes, drill hair, black hair, blonde hair, dark-skinned female, green eyes, dark skin, long hair, medium hair
-kondou taeko, girls und panzer, brown eyes, brown hair, long hair, short hair, medium hair
-cutlass \(girls und panzer\), girls und panzer, yellow eyes, black hair, blonde hair, long hair, short hair
-hoshino \(girls und panzer\), girls und panzer, black hair, green eyes, dark skin, brown hair, dark-skinned female, short hair
-rukuriri \(girls und panzer\), girls und panzer, brown eyes, brown hair, long hair, short hair
-youko \(girls und panzer\), girls und panzer, blue eyes, blonde hair, white hair, brown hair, long hair, short hair
-chouno ami, girls und panzer, black eyes, short hair, black hair
-el \(girls und panzer\), girls und panzer, blue eyes, black hair, dark-skinned female, dark skin, long hair
-akiyama yoshiko, girls und panzer, brown eyes, brown hair, short hair, messy hair
-tsuruki shizuka, girls und panzer, red eyes, black hair, brown eyes, brown hair, long hair, short hair
+(darjeeling \(girls und panzer\):1.3), girls und panzer, blonde hair, blue eyes, long hair, short hair
+(anchovy \(girls und panzer\):1.3), girls und panzer, drill hair, red eyes, brown eyes, long hair, short hair, green hair
+(kay \(girls und panzer\):1.3), girls und panzer, blonde hair, blue eyes, long hair, short hair
+(shimada arisu:1.3), girls und panzer, brown eyes, brown hair, long hair, short hair, light brown hair
+(boko \(girls und panzer\):1.3), girls und panzer, brown eyes, brown hair, long hair, short hair, light brown hair
+(nishizumi shiho:1.3), girls und panzer, black hair, straight hair, brown eyes, brown hair, long hair, short hair
+(marie \(girls und panzer\):1.3), girls und panzer, blue eyes, drill hair, black hair, blonde hair, dark-skinned female, green eyes, dark skin, long hair, medium hair
+(kondou taeko:1.3), girls und panzer, brown eyes, brown hair, long hair, short hair, medium hair
+(cutlass \(girls und panzer\):1.3), girls und panzer, yellow eyes, black hair, blonde hair, long hair, short hair
+(hoshino \(girls und panzer\):1.3), girls und panzer, black hair, green eyes, dark skin, brown hair, dark-skinned female, short hair
+(rukuriri \(girls und panzer\):1.3), girls und panzer, brown eyes, brown hair, long hair, short hair
+(youko \(girls und panzer\):1.3), girls und panzer, blue eyes, blonde hair, white hair, brown hair, long hair, short hair
+(chouno ami:1.3), girls und panzer, black eyes, short hair, black hair
+(el \(girls und panzer\):1.3), girls und panzer, blue eyes, black hair, dark-skinned female, dark skin, long hair
+(akiyama yoshiko:1.3), girls und panzer, brown eyes, brown hair, short hair, messy hair
+(tsuruki shizuka:1.3), girls und panzer, red eyes, black hair, brown eyes, brown hair, long hair, short hair

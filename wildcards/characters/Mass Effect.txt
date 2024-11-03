@@ -1,6 +1,6 @@
-jack \(mass effect\)
-liara t'soni
-miranda lawson
-tali'zorah nar rayya
-femshep, jane shepard, commander shepard
-samara
+(jack \(mass effect\):1.3)
+(liara t'soni:1.3)
+(miranda lawson:1.3)
+(tali'zorah nar rayya:1.3)
+(femshep:1.3), jane shepard, commander shepard
+(samara:1.3)
