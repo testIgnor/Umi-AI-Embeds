@@ -225,3 +225,4 @@
 (shoukaku \(sororal wings\) \(azur lane\):1.3), azur lane, very long hair, long hair, blue eyes, white hair
 (hiei \(azur lane\):1.3), azur lane, brown hair, yellow eyes, long hair, very long hair, black hair
 (intrepid \(azur lane\):1.3), azur lane, grey hair, long hair, hair between eyes, blue eyes, very long hair
+(tennessee \(azur lane\):1.3), azur lane, blonde hair, hair between eyes, very long hair, dark-skinned female, long hair, blue eyes, dark skin

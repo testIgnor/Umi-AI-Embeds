@@ -127,14 +127,6 @@
     - Fate
     - FranchisePreset
 
-'<[characters][Fighters]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Random Fighters Character
-  Tags:
-    - 1girl
-    - Fighters
-    - FranchisePreset
-
 '<[characters][FiM]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random FiM Character
