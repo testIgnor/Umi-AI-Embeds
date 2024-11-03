@@ -575,6 +575,14 @@
     - Xenoblade
     - FranchisePreset
 
+'<[characters][Yu-Gi-Oh]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Yu-Gi-Oh Character
+  Tags:
+    - 1girl
+    - Yu-Gi-Oh
+    - FranchisePreset
+
 '<[characters][Zelda]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Zelda Character
