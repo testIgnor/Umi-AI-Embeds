@@ -195,13 +195,13 @@
   Tags:
     - Characters
     - Genshin
-'source_anime, __Characters/Girls Frontline__':
+'source_anime, __Characters/Girls Frontline__**(holding, gun, weapon:2.0)**':
   Description:
     - Girls Frontline Characters
   Tags:
     - Characters
     - Girls Frontline
-'source_anime, __Characters/Girls und Panzer__':
+'source_anime, __Characters/Girls und Panzer__**(holding, gun, weapon:2.0)**':
   Description:
     - Girls und Panzer Characters
   Tags:
@@ -304,7 +304,7 @@
     - Characters
     - MassEffect
     - Mass Effect
-'source_anime, __Characters/Metal Gear__':
+'source_anime, __Characters/Metal Gear__**(holding, weapon:2.0)**':
   Description:
     - Metal Gear Characters
   Tags:
