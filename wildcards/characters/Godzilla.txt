@@ -1,2 +1,2 @@
 (mechagodzilla:1.3), <[MechagodzillaCharacter]>
-(godzilla:1.3), (genderswap:1.4), (no humans:1.5), scalie, kaiju, tail, monster**(human, human girl, human boy, human female, human male, car, vehicle, fire, flame:2.0)**
+(godzilla:1.3), (genderswap:1.4), (no humans:1.5), (scalie, kaiju, monster:1.3), tail**(human, human girl, human boy, human female, human male, car, vehicle, fire, flame:2.0)**
