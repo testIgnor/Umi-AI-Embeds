@@ -63,6 +63,12 @@
     - RandomRave
     - 1girl
     - Rave
+'<[1girlbase]>':
+  Description:
+    - Random Girl
+  Tags:
+    - MyPreset
+    - 1girl
 '<[1girlbase]>, <[ezgoth]>':
   Description:
     - Goth Girl
