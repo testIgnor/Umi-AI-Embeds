@@ -101,7 +101,7 @@
     - 1girl
     - MyPreset
     - MechagodzillaPreset
-    - Godzilla
+    - GodzillaBase
 '<[FranchisePreset][Godzilla]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}':
   Description:
     - Franchise-specific Prompts
@@ -111,4 +111,13 @@
     - 1girl
     - MyPreset
     - MechagodzillaPreset
+    - GodzillaBase
+'<[GodzillaBase]>, <[Clothing]>, <[imageformat]>, <[MyLocation]>':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - MyPreset
+    - 1girl
+    - 1girlBase
     - Godzilla
+    - MechagodzillaPreset
