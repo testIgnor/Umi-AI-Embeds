@@ -1,0 +1,35 @@
+(airi \(queen's blade\):1.3), queen's blade, red hair, long hair, green eyes, blue eyes
+(leina \(queen's blade\):1.3), queen's blade, blue eyes, short hair, long hair, blonde hair
+(airi \(the infernal temptress\):1.3), queen's blade, red hair, long hair, green eyes, blue eyes
+(cattleya \(queen's blade\):1.3), queen's blade, black hair, blue eyes, long hair
+(tomoe \(queen's blade\):1.3), queen's blade, black hair, blue eyes, long hair, purple eyes
+(menace \(queen's blade\):1.3), queen's blade, black hair, short hair, blue eyes
+(exiled warrior leina:1.3), queen's blade, blue eyes, short hair, long hair, blonde hair
+(melona \(queen's blade\):1.3), queen's blade, prehensile hair, animal ears, rabbit ears, blue eyes, long hair, pink hair
+(weapon merchant cattleya:1.3), queen's blade, black hair, blue eyes
+(ancient princess menace:1.3), queen's blade, black hair, short hair, blue eyes
+(musha miko tomoe:1.3), queen's blade, black hair, blue eyes, long hair, purple eyes
+(protean assassin melona:1.3), queen's blade, prehensile hair, animal ears, rabbit ears, blue eyes, long hair, pink hair
+(alleyne \(queen's blade\):1.3), queen's blade, pointy ears, long hair, blonde hair, blue eyes
+(fighting master alleyne:1.3), queen's blade, pointy ears, long hair, blonde hair, blue eyes
+(echidna \(queen's blade\):1.3), queen's blade, multicolored hair, green hair, two-tone hair, black hair, grey hair, red eyes, pointy ears, long hair
+(nanael \(queen's blade\):1.3), queen's blade, long hair, short hair, blue hair, green eyes
+(risty \(queen's blade\):1.3), queen's blade, very long hair, red hair, long hair, purple eyes
+(veteran mercenary echidna:1.3), queen's blade, multicolored hair, green hair, two-tone hair, black hair, grey hair, red eyes, pointy ears, long hair
+(aldra \(queen's blade\):1.3), queen's blade, pointy ears, long hair, red eyes
+(angel of light nanael:1.3), queen's blade, short hair, blue hair, green eyes
+(setra:1.3), queen's blade, black hair, short hair, blue eyes
+(sigui \(queen's blade\):1.3), queen's blade, brown hair, long hair, green eyes, blonde hair
+(wilderness bandit risty:1.3), queen's blade, very long hair, red hair, long hair, purple eyes
+(irma \(queen's blade\):1.3), queen's blade, dark-skinned female, pink eyes, short hair, dark skin, blue hair, blonde hair
+(ymir \(queen's blade\):1.3), queen's blade, blue eyes, drill hair, brown hair, pointy ears, blonde hair
+(fang assassin irma:1.3), queen's blade, dark-skinned female, pink eyes, short hair, dark skin, blue hair
+(captain liliana:1.3), queen's blade, very long hair, long hair, pink eyes, pink hair
+(claudette \(queen's blade\):1.3), queen's blade, red hair, green eyes, blue eyes, long hair, blonde hair
+(annelotte \(queen's blade\):1.3), queen's blade, purple hair, long hair, blue eyes
+(iron princess ymir:1.3), queen's blade, blue eyes, drill hair, brown hair, pointy ears, blonde hair
+(nyx \(queen's blade\):1.3), queen's blade, brown hair, red eyes, green eyes, blue eyes, long hair, blonde hair
+(knight princess annelotte:1.3), queen's blade, purple hair, long hair, blue eyes
+(queen aldra:1.3), queen's blade, yellow eyes, long hair, red eyes
+(alice \(queen's gate\):1.3), queen's blade, very long hair, long hair, red eyes, white hair
+(melpha \(queen's blade\):1.3), queen's blade, very long hair, blue eyes, long hair, blonde hair

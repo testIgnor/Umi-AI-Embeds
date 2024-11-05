@@ -71,6 +71,14 @@
     - Darkstalkers
     - FranchisePreset
 
+'<[characters][Darling in the Franxx]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Darling in the Franxx Character
+  Tags:
+    - 1girl
+    - Darling in the Franxx
+    - FranchisePreset
+
 '<[characters][Dead or Alive]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Dead or Alive Character
@@ -85,6 +93,14 @@
   Tags:
     - 1girl
     - Digimon
+    - FranchisePreset
+
+'<[characters][Disgaea]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Disgaea Character
+  Tags:
+    - 1girl
+    - Disgaea
     - FranchisePreset
 
 '<[characters][Disney]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -263,6 +279,14 @@
     - KoF
     - FranchisePreset
 
+'<[characters][Last Origin]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Last Origin Character
+  Tags:
+    - 1girl
+    - Last Origin
+    - FranchisePreset
+
 '<[characters][LiS]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random LiS Character
@@ -317,6 +341,22 @@
   Tags:
     - 1girl
     - Misc
+    - FranchisePreset
+
+'<[characters][MonMusu]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random MonMusu Character
+  Tags:
+    - 1girl
+    - MonMusu
+    - FranchisePreset
+
+'<[characters][Monster Girl Encyclopedia]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Monster Girl Encyclopedia Character
+  Tags:
+    - 1girl
+    - Monster Girl Encyclopedia
     - FranchisePreset
 
 '<[characters][Naruto]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -407,12 +447,28 @@
     - Project Sekai
     - FranchisePreset
 
+'<[characters][Queens Blade]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Queens Blade Character
+  Tags:
+    - 1girl
+    - Queens Blade
+    - FranchisePreset
+
 '<[characters][Resident Evil]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Resident Evil Character
   Tags:
     - 1girl
     - Resident Evil
+    - FranchisePreset
+
+'<[characters][Reverse 1999]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Reverse 1999 Character
+  Tags:
+    - 1girl
+    - Reverse 1999
     - FranchisePreset
 
 '<[characters][RWBY]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
@@ -503,6 +559,14 @@
     - Tekken
     - FranchisePreset
 
+'<[characters][To Heart]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random To Heart Character
+  Tags:
+    - 1girl
+    - To Heart
+    - FranchisePreset
+
 '<[characters][Touhou]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Touhou Character
@@ -541,6 +605,14 @@
   Tags:
     - 1girl
     - Vshojo
+    - FranchisePreset
+
+'<[characters][Warship Girls R]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warship Girls R Character
+  Tags:
+    - 1girl
+    - Warship Girls R
     - FranchisePreset
 
 '<[characters][Witcher]>, NSFW, 1girl, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':

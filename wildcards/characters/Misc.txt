@@ -23,4 +23,6 @@
 (jarl elisif the fair:1.3), elleJarl, the elder scrolls v: skyrim, orange hair, single braid, long hair
 (valerie the adventurer:1.3), valAdventurer, the elder scrolls v: skyrim, brown hair, short hair, athletic female
 (the virgin mary:1.3), virginMary, nun, traditional nun, medieval holy maiden, dark brown hair, medium hair, blue eyes
+(hinoa:1.3), monster hunter \(series\), yellow eyes, long hair, black hair
+(minoto:1.3), monster hunter \(series\), yellow eyes, long hair, black hair
 ([<[Characters][--Species]>|<[Characters][--Species]>]:1.3)

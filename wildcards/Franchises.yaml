@@ -113,18 +113,30 @@
   Tags:
     - Characters
     - Darkstalkers
-'source_anime, __Characters/Digimon__, digimon':
+'source_anime, __Characters/Darling in the Franxx__':
   Description:
-    - Digimon Characters
+    - Darling in the Franxx Characters
   Tags:
     - Characters
-    - Digimon
+    - Darling in the Franxx
 'source_anime, __Characters/Dead or Alive__':
   Description:
     - Dead or Alive Characters
   Tags:
     - Characters
     - Dead or Alive
+'source_anime, __Characters/Digimon__, digimon':
+  Description:
+    - Digimon Characters
+  Tags:
+    - Characters
+    - Digimon
+'source_anime, __Characters/Disgaea__':
+  Description:
+    - Disgaea Characters
+  Tags:
+    - Characters
+    - Disgaea
 'source_anime, __Characters/Disney__':
   Description:
     - Disney Characters
@@ -267,6 +279,12 @@
   Tags:
     - Characters
     - KoF
+'source_anime, __Characters/Last Origin__':
+  Description:
+    - Last Origin Characters
+  Tags:
+    - Characters
+    - Last Origin
 'source_anime, __Characters/Kemono Friends__':
   Description:
     - Kemono Friends Characters
@@ -316,6 +334,18 @@
   Tags:
     - Characters
     - Misc
+'source_anime, __Characters/MonMusu__':
+  Description:
+    - MonMusu Characters
+  Tags:
+    - Characters
+    - MonMusu
+'source_anime, __Characters/Monster Girl Encyclopedia__':
+  Description:
+    - Monster Girl Encyclopedia Characters
+  Tags:
+    - Characters
+    - Monster Girl Encyclopedia
 'source_anime, __Characters/Naruto__':
   Description:
     - Naruto Characters
@@ -376,6 +406,12 @@
   Tags:
     - Characters
     - Project Sekai
+'source_anime, __Characters/Queens Blade__':
+  Description:
+    - Queens Blade Characters
+  Tags:
+    - Characters
+    - Queens Blade
 'source_anime, __Characters/Princess Connect__':
   Description:
     - Princess Connect Characters
@@ -388,6 +424,12 @@
   Tags:
     - Characters
     - Resident Evil
+'source_anime, __Characters/Reverse 1999__':
+  Description:
+    - Reverse 1999 Characters
+  Tags:
+    - Characters
+    - Reverse 1999
 'source_anime, __Characters/RWBY__, RWBY**(holding, weapon:2.0)**':
   Description:
     - RWBY Characters
@@ -454,6 +496,12 @@
   Tags:
     - Characters
     - Tekken
+'source_anime, __Characters/To Heart__':
+  Description:
+    - To Heart Characters
+  Tags:
+    - Characters
+    - To Heart
 'source_anime, __Characters/Touhou__':
   Description:
     - Touhou Characters
@@ -484,6 +532,12 @@
   Tags:
     - Characters
     - Vshojo
+'source_anime, __Characters/Warship Girls R__':
+  Description:
+    - Warship Girls R Characters
+  Tags:
+    - Characters
+    - Warship Girls R
 'source_anime, __Characters/Witcher__, the witcher \(series\)':
   Description:
     - Witcher Characters

@@ -1,0 +1,14 @@
+(37 \(reverse:1999\):1.3), reverse:1999, long hair, red hair, very long hair, blue eyes, blue hair, hair between eyes
+(isolde \(reverse:1999\):1.3), reverse:1999, black hair, wavy hair, brown hair, very long hair, long hair, purple eyes
+(sotheby:1.3), reverse:1999, short hair, drill hair, grey hair, brown hair, green eyes, long hair, blonde hair
+(tooth fairy \(reverse:1999\):1.3), reverse:1999, brown hair, brown eyes, long hair
+(druvis iii:1.3), reverse:1999, short hair, grey hair, green eyes, long hair, orange hair, blonde hair
+(marcus \(reverse:1999\):1.3), reverse:1999, brown hair, long hair, curly hair, blue eyes
+(jiu niangzi:1.3), reverse:1999, black hair, brown hair, long hair, black eyes
+(voyager \(reverse:1999\):1.3), reverse:1999, long hair, multicolored hair, colored inner hair, starry skin, closed eyes, very long hair, blue eyes, blue hair, blonde hair
+(an-an lee:1.3), reverse:1999, short hair, yellow eyes, medium hair, black hair, long hair
+(yenisei \(reverse:1999\):1.3), reverse:1999, red hair, long hair, blue eyes
+(kaalaa baunaa:1.3), reverse:1999, dark-skinned female, black hair, dark skin, long hair, purple eyes
+(lucy \(reverse:1999\):1.3), reverse:1999, short hair, yellow eyes, brown hair, metal skin
+(melania \(reverse:1999\):1.3), reverse:1999, brown hair, brown eyes, long hair, blonde hair
+(spathodea \(reverse:1999\):1.3), reverse:1999, long hair, blue eyes, brown hair
