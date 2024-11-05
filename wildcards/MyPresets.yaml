@@ -10,7 +10,7 @@
     - CharacterPreset
     - 1girl
     - MyPreset
-'<[FranchisePreset]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}':
+'<[FranchisePreset]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -102,7 +102,7 @@
     - MyPreset
     - MechagodzillaPreset
     - GodzillaBase
-'<[FranchisePreset][Godzilla]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}':
+'<[FranchisePreset][Godzilla]>, {<[ezMechagodzillaFuta]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
