@@ -1,2 +1,2 @@
-(mechagodzilla:1.3), <[MechagodzillaCharacter]>
-(godzilla:1.5), (genderswap, female:1.4), (scalie:1.3), (kaiju, monster:1.6), tail
+(mechagodzilla:1.5), <[MechagodzillaCharacter]>
+(godzilla:1.5), <[GodzillaCharacter]>
