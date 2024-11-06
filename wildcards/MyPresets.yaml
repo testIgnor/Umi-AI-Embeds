@@ -9,7 +9,6 @@
   Tags:
     - CharacterPreset
     - 1girl
-    - MyPreset
 '<[FranchisePreset]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Franchise-specific Prompts
@@ -17,8 +16,7 @@
     - Futanari
     - CharacterPreset
     - 1girl
-    - MyPreset
-'<[CharacterPreset]>, <[Clothing]>, <[imageformat]>, <[MyLocation]>':
+'<[CharacterPreset]>, {75%<[Clothing]>, |}<[imageformat]>, <[MyLocation]>':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -99,7 +97,6 @@
   Tags:
     - CharacterPreset
     - 1girl
-    - MyPreset
     - MechagodzillaPreset
     - GodzillaBase
 '<[FranchisePreset][Godzilla]>, {<[ezMechagodzillaFuta]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
@@ -109,15 +106,5 @@
     - Futanari
     - CharacterPreset
     - 1girl
-    - MyPreset
     - MechagodzillaPreset
     - GodzillaBase
-'<[GodzillaBase]>, <[Clothing]>, <[imageformat]>, <[MyLocation]>':
-  Description:
-    - Franchise-specific Prompts
-  Tags:
-    - MyPreset
-    - 1girl
-    - 1girlBase
-    - Godzilla
-    - MechagodzillaPreset
