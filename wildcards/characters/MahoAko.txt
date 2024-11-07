@@ -1,12 +1,12 @@
-(hiiragi utena:1.3), mahou shoujo ni akogarete, gushing over magical girls
-(magia baiser:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls
-(araga kiwi:1.3), mahou shoujo ni akogarete, gushing over magical girls
-(magia leopard:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls
-(morino korisu:1.3), mahou shoujo ni akogarete, gushing over magical girls
-(nero alice:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls
-(minakami sayo:1.3), mahou shoujo ni akogarete, gushing over magical girls
-(magia azul:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls
-(tenkawa kaoruko:1.3), mahou shoujo ni akogarete, gushing over magical girls
-(magia sulfur:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls
-(hanabishi haruka:1.3), mahou shoujo ni akogarete, gushing over magical girls
-(magia magenta:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls
+(hiiragi utena:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, black hair, yellow eyes, ahoge
+(magia baiser:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, yellow eyes, ahoge, purple hair
+(araga kiwi:1.3), mahou shoujo ni akogarete, gushing over magical girls, green hair, red eyes, medium hair, long hair, yellow eyes, ahoge, blonde hair
+(magia leopard:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, green hair, red eyes, medium hair, long hair, yellow eyes, ahoge, blonde hair
+(morino korisu:1.3), mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair
+(nero alice:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair
+(minakami sayo:1.3), mahou shoujo ni akogarete, gushing over magical girls, red eyes, long hair, blue hair
+(magia azul:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, red eyes, long hair, blue hair
+(tenkawa kaoruko:1.3), mahou shoujo ni akogarete, gushing over magical girls, long hair, blue eyes, blonde hair
+(magia sulfur:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, blue eyes, blonde hair
+(hanabishi haruka:1.3), mahou shoujo ni akogarete, gushing over magical girls, drill hair, green eyes, pink hair, twintails
+(magia magenta:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, drill hair, green eyes, pink hair, twintails
