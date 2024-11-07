@@ -87,12 +87,19 @@
     - Particle
     - ezcreampie
     - ezaftersex
-'(covered nipples, covered genitals, genitals under clothes:1.1)':
+'(covered nipples, cameltoe:1.1)':
   Description:
     - Genitals under clothes
   Tags:
     - Particle
     - ezcovered
+'(covered nipples, bulge, erection under clothes:1.1)':
+  Description:
+    - Genitals under clothes
+  Tags:
+    - Particle
+    - ezcovered
+    - Futanari
 '(pussy, large clitoris, erect clitoris:1.1)':
   Description:
     - Pussy preset
@@ -105,6 +112,12 @@
   Tags:
     - Particle
     - ezpussy
+'<[ezpussy]>, (bottomless futanari:1.2)':
+  Description:
+    - Bottomless Female
+  Tags:
+    - Particle
+    - ezbottomless
 'tiny penis, (erection:1.1)':
   Description:
     - Penis sizes

@@ -16,13 +16,21 @@
     - Futanari
     - CharacterPreset
     - 1girl
-'<[CharacterPreset]>, {75%<[Clothing]>, |}<[imageformat]>, <[MyLocation]>':
+'<[CharacterPreset][--futanari]>, {66%<[Clothing][--futanari]>, |<[eznude][--futanari]>, }<[imageformat]>, <[MyLocation]>':
   Description:
     - Franchise-specific Prompts
   Tags:
     - MyPreset
     - 1girl
     - 1girlBase
+'<[CharacterPreset][futanari]>, {66%<[Clothing][--female]>, |<[eznude][futanari]>, }<[imageformat]>, <[MyLocation]>':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - MyPreset
+    - 1girl
+    - 1girlBase
+    - Futanari
 '<[CharacterPreset][--Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Random Presenting
