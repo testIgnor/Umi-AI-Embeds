@@ -3,13 +3,13 @@
     - Legacy Prompts
   Tags:
     - MyPreset
-'<[FranchisePreset]>{15%, <[ezpreg]>|}':
+'<[FranchisePreset][--GodzillaFranchise]>{15%, <[ezpreg]>|}':
   Description:
     - Franchise-specific Prompts
   Tags:
     - CharacterPreset
     - 1girl
-'<[FranchisePreset]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
+'<[FranchisePreset][--GodzillaFranchise]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -93,26 +93,3 @@
   Tags:
     - MyPreset
     - 1girl
-'<[MechagodzillaPreset]>':
-  Description:
-    - Mechagodzilla Presets
-  Tags:
-    - MyPreset
-    - 1girl
-'<[FranchisePreset][Godzilla]>{15%, <[ezpreg]>|}':
-  Description:
-    - Franchise-specific Prompts
-  Tags:
-    - CharacterPreset
-    - 1girl
-    - MechagodzillaPreset
-    - GodzillaBase
-'<[FranchisePreset][Godzilla]>, {<[ezMechagodzillaFuta]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
-  Description:
-    - Franchise-specific Prompts
-  Tags:
-    - Futanari
-    - CharacterPreset
-    - 1girl
-    - MechagodzillaPreset
-    - GodzillaBase

@@ -356,18 +356,6 @@
     - Particle
     - FutaAddon
     - Beast
-'(futanari, dickgirl, (robot penis, mechanical penis:1.5), dragon penis, <[ezpenis][--lower]>, precum, cum on penis, cum, cumshot:1.2)**(testicles, balls, full package futanari:1.4)**':
-  Description:
-    - Mechagodzilla Futanari
-  Tags:
-    - Particle
-    - ezMechagodzillaFuta
-'(futanari, dickgirl, (robot penis, mechanical penis:1.5), dragon penis, intravaginal futanari, <[ezpenis][--lower]>, precum, cum on penis, cum, cumshot:1.2)**(testicles, balls, full package futanari:1.4)**':
-  Description:
-    - Mechagodzilla Futanari
-  Tags:
-    - Particle
-    - ezMechagodzillaFuta
 'cowboy shot':
   Description:
     - Cowboy Shot
@@ -441,24 +429,6 @@
   Tags:
     - Particle
     - GazeFormat
-'(genderswap:1.6), (female:1.1), (scalie:1.3), (kaiju, monster:1.6), tail':
-  Description:
-    - Godzilla Character Base
-  Tags:
-    - Particle
-    - GodzillaCharacter
-'(mecha godzilla:1.5), <[GodzillaCharacter]>, (mecha, robot, cyborg, robot joints:1.5), (silver metal skin:1.6), (high heels:1.2), (digitigrade feet:1.1), yellow eyes, glowing eyes, science fiction**(godzilla:0.75)**':
-  Description:
-    - Mechagodzilla Character
-  Tags:
-    - Particle
-    - MechagodzillaCharacter
-'NSFW, 1girl, <[EZAge]>, <[MechagodzillaCharacter]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, solo, <[GazeFormat]>, <[imageformat]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Mechagodzilla
-  Tags:
-    - Particle
-    - MechagodzillaBase
 'outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, (nude:1.1), <[eznips]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), (cameltoe:0.7)**(1boy, 2boys, 3boys:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (pulled down pants, pulled down shorts, swim trunks on ground, holding swimwear, clothes pull:2.0), (beanie, hat, headwear, hair ornament:2.0)**':
   Description:
     - Swimwear Challenge Addon
