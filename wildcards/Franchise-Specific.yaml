@@ -31,12 +31,28 @@
     - Azur Lane
     - FranchisePreset
 
+'NSFW, 1girl, <[characters][Bang Dream]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Bang Dream Character
+  Tags:
+    - 1girl
+    - Bang Dream
+    - FranchisePreset
+
 'NSFW, 1girl, <[characters][Blue Archive]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Blue Archive Character
   Tags:
     - 1girl
     - Blue Archive
+    - FranchisePreset
+
+'NSFW, 1girl, <[characters][Castlevania]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Castlevania Character
+  Tags:
+    - 1girl
+    - Castlevania
     - FranchisePreset
 
 'NSFW, 1girl, <[characters][Celebrities]>, <[Artists][--3D]>, <[ezage]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
