@@ -11,7 +11,6 @@ school swimsuit, <[ezcovered][futanari]>
 naked kimono, <[eznude][futanari]>
 fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
 fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][futanari]>
-magical girl, magical girl costume
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][futanari]>
 nude with pride flag draped over body, <[eznude][futanari]>
 virgin destroyer sweater, <[ezcovered][futanari]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
@@ -43,7 +42,6 @@ naked armor, armor, <[eznude][futanari]>**(plate, helmet, headwear, hat:2.0), (h
 cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbottomless][futanari]>
 biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][futanari]>**(helmet, headwear, hat:2.0)**
 open dress, <[eznude][futanari]>
-dark magical girl, corrupted magical girl costume, corruption, corrupt girl
 fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered][futanari]>
 naked cloak, <[eznude][futanari]>
 <[ezMaleSwimwearChallenge]>
@@ -62,3 +60,5 @@ shibari under clothes, see-through clothes, <[ezcovered][futanari]>
 reverse bunnysuit, heart pasties, <[ezcovered][futanari]>, functionally nude
 naked jacket, <[eznude][futanari]>
 cupless bra, crotchless panties
+magical girl costume, <[ezbottomless][futanari]>
+corrupted magical girl costume, <[ezbottomless][futanari]>

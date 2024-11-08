@@ -20,7 +20,6 @@ nude with pride flag draped over body, <[eznude][--futanari]>
 zero suit, <[ezcovered][--futanari]>, fully clothed, tight clothes
 naked armor, armor, <[eznude][--futanari]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
 virgin destroyer sweater, <[ezcovered][--futanari]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
-magical girl, magical girl costume
 chastity belt, topless
 functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][--futanari]>
 see-through, ballerina, black thighhighs, <[ezcovered][--futanari]>
@@ -49,7 +48,6 @@ sling bikini, slingshot swimsuit, <[ezcovered][--futanari]>
 reverse bunnysuit, heart pasties, <[ezcovered][--futanari]>, functionally nude
 (symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][--futanari]>
 naked cloak, <[eznude][--futanari]>
-dark magical girl, corrupted magical girl costume, corruption, corrupt girl
 fully clothed, __colors__ kimono, kimono, long dress, <[ezcovered][--futanari]>
 ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered][--futanari]>
 fully clothed, loose dress gown, covered nipples, <[ezbottomless][--futanari]>
@@ -66,3 +64,5 @@ nippleless bra, crotchless panties, sheer panties, see through panties, condom b
 monokini
 cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbottomless][--futanari]>
 cupless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
+magical girl costume, <[ezbottomless][--futanari]>
+corrupted magical girl costume, <[ezbottomless][--futanari]>
