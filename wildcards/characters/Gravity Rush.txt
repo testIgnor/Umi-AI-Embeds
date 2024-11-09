@@ -1,2 +1,2 @@
 (kitten \(gravity daze\):1.3), gravity daze, blonde hair, dark-skinned female, dark skin, red eyes, long hair
-(crow \(gravity daze\):1.3), gravity daze, red hair, multicolored hair, long hair, two-tone hair, black hair, blue eyes**(crow, bird:2.0)**
+(crow \(gravity daze\):1.3), gravity daze, red hair, multicolored hair, long hair, two-tone hair, black hair, blue eyes**(crow, raven, bird, avian:2.0)**
