@@ -19,7 +19,7 @@
     - Particle
     - BeastFellatio
     - Lion
-'jewelry, {1-4$$ear piercing|navel piercing|nipple piercing|clitoris piercing}':
+'jewelry, {1-4$$ear piercing||navel piercing||nipple piercing||clitoris piercing}':
   Description:
     - All Piercings
   Tags:
@@ -335,14 +335,14 @@
     - Particle
     - FutaAddon
     - ezmagicalfuta
-'(futanari, dickgirl, demon penis, demonic penis:1.3), glowing {red|purple} penis, <[ezpenis]>**(disembodied penis, condom:1.5), (horns, demon horns, tail, demon tail, wings, demon wings:2.0), (male, man, 1boy, 2boys, 3boys:2.0)**':
+'(futanari, dickgirl, demon penis, demonic penis:1.3), glowing {red||purple} penis, <[ezpenis]>**(disembodied penis, condom:1.5), (horns, demon horns, tail, demon tail, wings, demon wings:2.0), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Demon Futanari Add-on
   Tags:
     - Particle
     - FutaAddon
     - ezdemonfuta
-'(futanari, dickgirl, demon penis, demonic penis:1.3), glowing {red|purple} penis, <[ezpenis]>**(disembodied penis, condom:1.5), (testicles, balls, full package futanari:1.4), (horns, demon horns, tail, demon tail, wings, demon wings:2.0), (male, man, 1boy, 2boys, 3boys:2.0)**':
+'(futanari, dickgirl, demon penis, demonic penis:1.3), glowing {red||purple} penis, <[ezpenis]>**(disembodied penis, condom:1.5), (testicles, balls, full package futanari:1.4), (horns, demon horns, tail, demon tail, wings, demon wings:2.0), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Demon Futanari Add-on
   Tags:
@@ -472,19 +472,19 @@
     - ZebraFellatio
     - CharacterFellatio
     - Receiving
-'(goth:1.5){, <[allpiercings]>|}{, heavy makeup|}{, runny mascara, runny makeup, ruined makeup|}{, black lipstick, smeared lipstick|}':
+'(goth:1.5){, <[allpiercings]>||}{, heavy makeup||}{, runny mascara, runny makeup, ruined makeup||}{, black lipstick, smeared lipstick||}':
   Description:
     - Goth Addon
   Tags:
     - Particle
     - ezGoth
-'(gyaru:1.5){, <[allpiercings]>|}{, heavy makeup|}{, runny mascara, runny makeup, ruined makeup|}{, smeared lipstick|}':
+'(gyaru:1.5){, <[allpiercings]>||}{, heavy makeup||}{, runny mascara, runny makeup, ruined makeup||}{, smeared lipstick||}':
   Description:
     - Gyaru Addon
   Tags:
     - Particle
     - ezGyaru
-'(slut, slutty, whore:1.5){, <[allpiercings]>|}{, heavy makeup|}{, runny mascara, runny makeup, ruined makeup|}{, smeared lipstick|}':
+'(slut, slutty, whore:1.5){, <[allpiercings]>||}{, heavy makeup||}{, runny mascara, runny makeup, ruined makeup||}{, smeared lipstick||}':
   Description:
     - Slut Addon
   Tags:

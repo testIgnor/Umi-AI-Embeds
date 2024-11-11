@@ -9,40 +9,40 @@
   Tags:
     - MyPreset
     - 1girl
-'<[FranchisePreset][--GodzillaFranchise]>{15%, <[ezpreg]>|}':
+'<[FranchisePreset][--GodzillaFranchise]>{15%, <[ezpreg]>||}':
   Description:
     - Franchise-specific Prompts
   Tags:
     - FranchiseWrapper
     - 1girl
-'<[FranchisePreset][--GodzillaFranchise]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
+'<[FranchisePreset][--GodzillaFranchise]>, {10%<[FutaAddon]>||<[FutaAddon][--Beast]>}{15%, <[ezpreg]>||}**(cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
     - Futanari
     - FranchiseWrapper
     - 1girl
-'{80%<[FranchiseWrapper][--GodzillaFranchise][--Futanari]>|<[FranchiseWrapper][GodzillaFranchise][--Futanari]>}':
+'{80%<[FranchiseWrapper][--GodzillaFranchise][--Futanari]>||<[FranchiseWrapper][GodzillaFranchise][--Futanari]>}':
   Description:
     - Random Characters
   Tags:
     - CharacterPreset
     - 1girl
-'{80%<[FranchiseWrapper][--GodzillaFranchise][Futanari]>|<[FranchiseWrapper][GodzillaFranchise][Futanari]>}':
+'{80%<[FranchiseWrapper][--GodzillaFranchise][Futanari]>||<[FranchiseWrapper][GodzillaFranchise][Futanari]>}':
   Description:
     - Random Characters
   Tags:
     - CharacterPreset
     - 1girl
     - Futanari
-'<[CharacterPreset][--futanari]>, {66%<[Clothing][--futanari]>|<[eznude][--futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][--futanari]>, {66%<[Clothing][--futanari]>||<[eznude][--futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
     - MyPreset
     - 1girl
     - 1girlBase
-'<[CharacterPreset][futanari]>, {66%<[Clothing][--female]>|<[eznude][futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][futanari]>, {66%<[Clothing][--female]>||<[eznude][futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -57,7 +57,7 @@
     - MyPreset
     - RandomPresenting
     - 1girl
-'<[CharacterPreset][Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznips]>{, <[ezfutafap]>|}{, <[ezcumshot]>|}, exhibitionism, (nude:1.2)**(cowgirl position, fellatio, vaginal:2.0), (2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznips]>{, <[ezfutafap]>||}{, <[ezcumshot]>||}, exhibitionism, (nude:1.2)**(cowgirl position, fellatio, vaginal:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Futanari Presenting
   Tags:
@@ -65,7 +65,7 @@
     - RandomFutanariPresenting
     - 1girl
     - Futanari
-'<[CharacterPreset][Futanari]>, (nude:1.4), <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>|}**(cowgirl position, fellatio, vaginal:2.0), (2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Futanari]>, (nude:1.4), <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>||}**(cowgirl position, fellatio, vaginal:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Futanari Fap
   Tags:
@@ -80,7 +80,7 @@
     - RandomSwimwearChallenge
     - 1girl
     - MaleSwimwearChallenge
-'<[CharacterPreset]>, (at a rave, in a night club, rave, neon:1.3),{ <[ezgoth]>,|} (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), (tattoo:1.3), <[ezcovered]>, <[eznips]>, <[ezpussy]>, navel':
+'<[CharacterPreset]>, (at a rave, in a night club, rave, neon:1.3),{ <[ezgoth]>,||} (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), (tattoo:1.3), <[ezcovered]>, <[eznips]>, <[ezpussy]>, navel':
   Description:
     - Random Rave
   Tags:

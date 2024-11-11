@@ -58,7 +58,7 @@
     - FranchisePreset
 
 # characterpresets
-'<[FranchisePreset][Godzilla]>{15%, <[ezpreg]>|}':
+'<[FranchisePreset][Godzilla]>{15%, <[ezpreg]>||}':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -66,7 +66,7 @@
     - 1girl
     - Godzilla
     - GodzillaFranchise
-'<[FranchisePreset][Mechagodzilla]>{15%, <[ezpreg]>|}':
+'<[FranchisePreset][Mechagodzilla]>{15%, <[ezpreg]>||}':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -75,7 +75,7 @@
     - Mechagodzilla
     - MechagodzillaPreset
     - GodzillaFranchise
-'<[FranchisePreset][Mechagodzilla]>, {<[ezMechagodzillaFuta]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
+'<[FranchisePreset][Mechagodzilla]>, {<[ezMechagodzillaFuta]>||<[FutaAddon][--Beast]>}{15%, <[ezpreg]>||}**(cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -85,7 +85,7 @@
     - MechagodzillaPreset
     - Mechagodzilla
     - GodzillaFranchise
-'<[FranchisePreset][Godzilla]>, {10%<[FutaAddon]>|<[FutaAddon][--Beast]>}{15%, <[ezpreg]>|}**(cowgirl position, fellatio, vaginal:2.0)**':
+'<[FranchisePreset][Godzilla]>, {10%<[FutaAddon]>||<[FutaAddon][--Beast]>}{15%, <[ezpreg]>||}**(cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -96,7 +96,7 @@
     - GodzillaFranchise
 
 # legacy prompts
-'NSFW, (1girl, solo, solo focus, 1Girl:1.5), full body, (mechagodzilla, mecha godzilla:1.6), kiryu \(godzilla\), <[Artists][--3D]>, <[ezage][middle]>, (nude, genderswap, <[eznips]>:1.2),{<[ezpreg]>,|} (scalie, female robot scalie:1.5), (tall female:1.2), (mecha, robot, (silver:1.5) metal skin, piloted mech, robot joints:1.6), exhibitionism, <[Emotions][positive|neutral]>, <[MyLocation]>, public indecency, <[ezmechagodzillafuta]>, (high heels:1.2), (digitigrade feet:1.1), <lora:PDXL_artist_tags_v2_big:1>**(wings, wing, weapon, weapons, gun, missile, human, car, vehicle:1.7), (testicles, balls, full package futanari:1.4)**':
+'NSFW, (1girl, solo, solo focus, 1Girl:1.5), full body, (mechagodzilla, mecha godzilla:1.6), kiryu \(godzilla\), <[Artists][--3D]>, <[ezage][middle]>, (nude, genderswap, <[eznips]>:1.2),{<[ezpreg]>,||} (scalie, female robot scalie:1.5), (tall female:1.2), (mecha, robot, (silver:1.5) metal skin, piloted mech, robot joints:1.6), exhibitionism, <[Emotions][positive|neutral]>, <[MyLocation]>, public indecency, <[ezmechagodzillafuta]>, (high heels:1.2), (digitigrade feet:1.1), <lora:PDXL_artist_tags_v2_big:1>**(wings, wing, weapon, weapons, gun, missile, human, car, vehicle:1.7), (testicles, balls, full package futanari:1.4)**':
   Description:
     - Futa Mechagodzilla
   Tags:

@@ -24,12 +24,12 @@ from modules.sd_samplers import samplers, samplers_for_img2img
 ALL_KEY = 'all yaml files'
 UsageGuide = """
                     ### Usage
-                    * `{a|b|c|...}` will pick one of `a`, `b`, `c`, ...
-                    * `{x-y$$a|b|c|...}` will pick between `x` and `y` of `a`, `b`, `c`, ...
-                    * `{x$$a|b|c|...}` will pick `x` of `a`, `b`, `c`, ...
-                    * `{x-$$a|b|c|...}` will pick atleast `x` of `a`, `b`, `c`, ...
-                    * `{-y$$a|b|c|...}` will pick upto `y` of `a`, `b`, `c`, ...
-                    * `{x%a|...}` will pick `a` with `x`% chance otherwise one of the rest
+                    * `{a||b||c||...}` will pick one of `a`, `b`, `c`, ...
+                    * `{x-y$$a||b||c||...}` will pick between `x` and `y` of `a`, `b`, `c`, ...
+                    * `{x$$a||b||c||...}` will pick `x` of `a`, `b`, `c`, ...
+                    * `{x-$$a||b||c||...}` will pick atleast `x` of `a`, `b`, `c`, ...
+                    * `{-y$$a||b||c||...}` will pick upto `y` of `a`, `b`, `c`, ...
+                    * `{x%a||...}` will pick `a` with `x`% chance otherwise one of the rest
                     * `__text__` will pick a random line from the file `text`.txt in the wildcard folder
                     * `<[tag]>` will pick a random item from yaml files in wildcard folder with given `tag`
                     * `<[tag1][tag2]>` will pick a random item from yaml files in wildcard folder with both `tag1` **and** `tag2`
@@ -90,6 +90,7 @@ class TagLoader:
         self.txt_basename_to_path = {os.path.basename(file).lower().split('.')[0]: file for file in self.all_txt_files}
         self.yaml_basename_to_path = {os.path.basename(file).lower().split('.')[0]: file for file in self.all_yaml_files}
         self.verbose = dict(options).get('verbose', False)
+        self.debug = dict(options).get('debug', False)
 
     def load_tags(self, file_path, verbose=False, cache_files=True):
         if cache_files and self.loaded_tags.get(file_path):
@@ -185,6 +186,7 @@ class TagSelector:
         self.used_values = {}
         self.selected_options = dict(options).get('selected_options', {})
         self.verbose = dict(options).get('verbose', False)
+        self.debug = dict(options).get('debug', False)
         self.cache_files = dict(options).get('cache_files', True)
         self.used_tags = set()
     
@@ -215,9 +217,10 @@ class TagSelector:
         return self.select_value_from_candidates(shuffled_tags)
 
     def get_tag_group_choice(self, parsed_tag, groups, tags):
-        #print('selected_options', self.selected_options)
-        #print('groups', groups)
-        #print('parsed_tag', parsed_tag)
+        if self.debug:
+            print('selected_options', self.selected_options)
+            print('groups', groups)
+            print('parsed_tag', parsed_tag)
         neg_groups = [x.strip().lower() for x in groups if x.startswith('--')]
         neg_groups_set = {x.replace('--', '') for x in neg_groups}
         any_groups = [{y.strip()
@@ -228,9 +231,10 @@ class TagSelector:
             if not x.startswith('--') and '|' not in x
         ]
         pos_groups_set = {x for x in pos_groups}
-        # print('pos_groups', pos_groups_set)
-        # print('negative_groups', neg_groups_set)
-        # print('any_groups', any_groups)
+        if self.debug:
+            print('pos_groups', pos_groups_set)
+            print('negative_groups', neg_groups_set)
+            print('any_groups', any_groups)
         candidates = []
         for tag in tags:
             tag_set = tags[tag]
@@ -330,8 +334,9 @@ class TagReplacer:
 # handle {1$$this | that} notation
 class DynamicPromptReplacer:
 
-    def __init__(self):
+    def __init__(self, options):
         self.re_combinations = re.compile(r"\{([^{}]*)\}")
+        self.debug = dict(options).get('debug', False)
 
     def get_variant_weight(self, variant):
         split_variant = variant.split("%")
@@ -370,8 +375,10 @@ class DynamicPromptReplacer:
             return ""
 
         combinations_str = match.groups()[0]
+        if self.debug: print(combinations_str)
+        variants = [s.strip() for s in combinations_str.split("||")] # problem line, doesn't keep [a|b] intact
+        if self.debug: print(variants)                               # bodge solution is to change delimiter
 
-        variants = [s.strip() for s in combinations_str.split("|")]
         weights = [self.get_variant_weight(var) for var in variants]
         variants = [self.get_variant(var) for var in variants]
 
@@ -390,7 +397,7 @@ class DynamicPromptReplacer:
                 if x == 0 else x, weights))
 
         try:
-            #print(f"choosing {quantity} tag from:\n{' , '.join(variants)}")
+            if self.debug: print(f"choosing {quantity} tag from:\n{' , '.join(variants)}")
             picked = []
             for x in range(quantity):
                 choice = random.choices(variants, weights)[0]
@@ -419,10 +426,11 @@ class PromptGenerator:
         self.settings_generator = SettingsGenerator()
         self.replacers = [
             TagReplacer(self.tag_selector, options),
-            DynamicPromptReplacer(),
+            DynamicPromptReplacer(options),
             self.settings_generator
         ]
         self.verbose = dict(options).get('verbose', False)
+        self.debug = dict(options).get('debug', False)
 
     def use_replacers(self, prompt):
         for replacer in self.replacers:
@@ -456,6 +464,9 @@ class PromptGenerator:
         start = time.time()
         prompt = self.use_replacers(original_prompt)
         while previous_prompt != prompt:
+            if self.debug:
+                print(f"\nDEBUG: Prompt is currently")
+                print(f"{prompt}\n")
             previous_prompt = prompt
             prompt = self.use_replacers(prompt)
         prompt = self.negative_tag_generator.replace(prompt)
@@ -618,6 +629,7 @@ class Script(scripts.Script):
 
         options = {
             'verbose': verbose,
+            'debug': debug,
             'cache_files': cache_files,
             'ignore_folders': ignore_folders,
         }
@@ -637,18 +649,19 @@ class Script(scripts.Script):
                 if debug: print(f'{"Batch #"+str(cur_count) if same_seed else "Prompt #"+str(index):=^30}')
 
                 prompt_generator.negative_tag_generator.negative_tag = set()
-
+                memory_dict = {}
                 prompt = prompt_generator.generate_single_prompt(original_prompt)
-                prompt, memory_dict = prompt_generator.prompt_memory_replace(prompt)
+                prompt, memory_dict = prompt_generator.prompt_memory_replace(prompt, memory_dict)
                 p.all_prompts[index] = prompt
                 if hr_fix_enabled:
                     p.all_hr_prompts[index] = prompt
 
-                if debug: print(f'Prompt: "{prompt}"')
+                if debug: print(f'Prompt: "{prompt}"\n')
                 if debug: 
                     print('Dumping Memory dict:\n')
                     for key in memory_dict.keys():
                         print(f'key: {key}\tvalue: {memory_dict[key]}')
+                    print('\n')
                 negative = original_negative_prompt + ' '
                 if negative_prompt and hasattr(p, "all_negative_prompts"): # hasattr to fix crash on old webui versions
                     negative += prompt_generator.get_negative_tags()
