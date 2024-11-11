@@ -25,4 +25,6 @@
 (the virgin mary:1.3), virginMary, nun, traditional nun, medieval holy maiden, dark brown hair, medium hair, blue eyes
 (hinoa:1.3), monster hunter \(series\), yellow eyes, long hair, black hair
 (minoto:1.3), monster hunter \(series\), yellow eyes, long hair, black hair
+(velma dinkley:1.3), scooby-doo
+(daphne blake:1.3), scooby-doo
 ([<[Characters][--Species]>|<[Characters][--Species]>]:1.3)
