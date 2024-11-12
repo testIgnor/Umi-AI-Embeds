@@ -80,7 +80,7 @@
     - RandomSwimwearChallenge
     - 1girl
     - MaleSwimwearChallenge
-'<[CharacterPreset]>, (at a rave, in a night club, rave, neon:1.3),{ <[ezgoth]>,||} (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), (tattoo:1.3), <[ezcovered]>, <[eznips]>, <[ezpussy]>, navel':
+'<[CharacterPreset]>, <[imageformat]>, (at a rave, in a night club, rave, neon:1.3),{ <[ezgoth]>,||} (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), (tattoo:1.3), <[ezcovered]>, <[eznips]>, <[ezpussy]>, navel':
   Description:
     - Random Rave
   Tags:
@@ -88,6 +88,19 @@
     - RandomRave
     - 1girl
     - Rave
+'<[CharacterPreset][--Futanari]>, <[imageformat]>, (at a cabaret club, at a hostess club, fancy upscale rich restaurant:1.3), (pinup, exhibitionism:1.1), <[ezbunnysuit][--futanari]>':
+  Description:
+    - Random Cabaret
+  Tags:
+    - MyPreset
+    - 1girl
+'<[CharacterPreset][Futanari]>, <[imageformat]>, (at a cabaret club, at a hostess club, fancy upscale rich restaurant:1.3), (pinup, exhibitionism:1.1), <[ezbunnysuit][futanari]>':
+  Description:
+    - Random Cabaret
+  Tags:
+    - MyPreset
+    - 1girl
+    - Futanari
 '<[1girlbase]>':
   Description:
     - Random Girl
