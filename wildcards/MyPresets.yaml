@@ -3,12 +3,6 @@
     - Legacy Prompts
   Tags:
     - MyPreset
-'<[MechagodzillaPreset]>':
-  Description:
-    - Mechagodzilla Presets
-  Tags:
-    - MyPreset
-    - 1girl
 '<[FranchisePreset][--GodzillaFranchise]>{15%, <[ezpreg]>||}':
   Description:
     - Franchise-specific Prompts
@@ -22,13 +16,13 @@
     - Futanari
     - FranchiseWrapper
     - 1girl
-'{80%<[FranchiseWrapper][--GodzillaFranchise][--Futanari]>||<[FranchiseWrapper][GodzillaFranchise][--Futanari]>}':
+'{95%<[FranchiseWrapper][--GodzillaFranchise][--Futanari]>||<[FranchiseWrapper][GodzillaFranchise][--Futanari]>}':
   Description:
     - Random Characters
   Tags:
     - CharacterPreset
     - 1girl
-'{80%<[FranchiseWrapper][--GodzillaFranchise][Futanari]>||<[FranchiseWrapper][GodzillaFranchise][Futanari]>}':
+'{95%<[FranchiseWrapper][--GodzillaFranchise][Futanari]>||<[FranchiseWrapper][GodzillaFranchise][Futanari]>}':
   Description:
     - Random Characters
   Tags:
