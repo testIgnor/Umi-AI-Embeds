@@ -429,50 +429,31 @@
   Tags:
     - Particle
     - GazeFormat
-'outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, (nude:1.1), <[eznips]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), (cameltoe:0.7)**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (pulled down pants, pulled down shorts, swim trunks on ground, holding swimwear, clothes pull:2.0), (beanie, hat, headwear, hair ornament:2.0)**':
+'(nude:1.1), <[eznips]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezcovered][--futanari]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (pulled down pants, pulled down shorts, swim trunks on ground, holding swimwear, clothes pull:2.0), (beanie, hat, headwear, hair ornament:2.0)**':
   Description:
     - Swimwear Challenge Addon
   Tags:
     - Particle
     - ezMaleSwimwearChallenge
-'reverse bunnysuit, functionally nude, <[eznude][--futanari]>':
+'(nude:1.1), <[eznips]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezcovered][futanari]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (pulled down pants, pulled down shorts, swim trunks on ground, holding swimwear, clothes pull:2.0), (beanie, hat, headwear, hair ornament:2.0)**':
   Description:
-    - Bunny Suit Addon
+    - Swimwear Challenge Addon
   Tags:
     - Particle
-    - ezBunnysuit
-'bunnysuit, <[ezcovered][--futanari]>, functionally nude':
-  Description:
-    - Bunny Suit Addon
-  Tags:
-    - Particle
-    - ezBunnysuit
-'reverse bunnysuit, heart pasties, <[ezcovered][--futanari]>, functionally nude':
-  Description:
-    - Bunny Suit Addon
-  Tags:
-    - Particle
-    - ezBunnysuit
-'reverse bunnysuit, functionally nude, <[eznude][futanari]>':
-  Description:
-    - Bunny Suit Addon
-  Tags:
-    - Particle
-    - ezBunnysuit
+    - ezMaleSwimwearChallenge
     - Futanari
-'bunnysuit, <[ezcovered][futanari]>, functionally nude':
+'biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][--futanari]>**(helmet, headwear, hat:2.0)**':
   Description:
-    - Bunny Suit Addon
+    - Biker Suit Addon
   Tags:
     - Particle
-    - ezBunnysuit
-    - Futanari
-'reverse bunnysuit, heart pasties, <[ezcovered][futanari]>, functionally nude':
+    - ezBikerSuit
+'biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][futanari]>**(helmet, headwear, hat:2.0)**':
   Description:
-    - Bunny Suit Addon
+    - Biker Suit Addon
   Tags:
     - Particle
-    - ezBunnysuit
+    - ezBikerSuit
     - Futanari
 'NSFW, 2girls, <[Artists][--3D]>, <[GazeFormat]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:0.5>**(1girl, 3girls, 4girls:2.0), (conjoined, fused limb, fused arm, disembodied penis:1.7)**':
   Description:
