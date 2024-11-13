@@ -1,0 +1,30 @@
+(yumi \(senran kagura\):1.3), senran kagura, short hair, black hair, grey hair, blue eyes
+(asuka \(senran kagura\):1.3), senran kagura, long hair, black hair, short hair, brown hair, ponytail, brown eyes
+(ikaruga \(senran kagura\):1.3), senran kagura, long hair, very long hair, black hair, blue eyes
+(hibari \(senran kagura\):1.3), senran kagura, short twintails, short hair, pink hair, twintails, blue eyes
+(hikage \(senran kagura\):1.3), senran kagura, short hair, green hair, yellow eyes
+(homura \(senran kagura\):1.3), senran kagura, high ponytail, long hair, very long hair, black hair, brown hair, green eyes, ponytail, blue eyes, dark-skinned female, dark skin
+(yomi \(senran kagura\):1.3), senran kagura, long hair, aqua eyes, green eyes, blonde hair, blue eyes
+(katsuragi \(senran kagura\):1.3), senran kagura, blonde hair, long hair, green eyes, blue eyes
+(haruka \(senran kagura\):1.3), senran kagura, short hair, brown hair, green eyes, curly hair, blonde hair
+(yagyu \(senran kagura\):1.3), senran kagura, long hair, pink hair, twintails, red eyes, white hair
+(yozakura \(senran kagura\):1.3), senran kagura, short hair, blue hair, blue eyes
+(ryouna \(senran kagura\):1.3), senran kagura, short hair, green eyes, ahoge, blonde hair, blue eyes
+(murasaki \(senran kagura\):1.3), senran kagura, long hair, very long hair, purple hair, purple eyes, hair between eyes
+(shiki \(senran kagura\):1.3), senran kagura, blonde hair, long hair, red eyes
+(mirai \(senran kagura\):1.3), senran kagura, long hair, black hair, animal ears, cat ears, red eyes
+(ryoubi \(senran kagura\):1.3), senran kagura, long hair, very long hair, brown hair, green eyes, ahoge, low twintails, twintails, blue eyes
+(miyabi \(senran kagura\):1.3), senran kagura, long hair, short hair, yellow eyes, white hair, blue eyes
+(minori \(senran kagura\):1.3), senran kagura, twintails, long hair, blue eyes, brown hair
+(rin \(senran kagura\):1.3), senran kagura, folded ponytail, purple hair, long hair, red eyes
+(kafuru \(senran kagura\):1.3), senran kagura, long hair, purple eyes, low twintails, twintails, hair between eyes, blonde hair
+(murakumo \(senran kagura\):1.3), senran kagura, side ponytail, long hair, green eyes, brown hair
+(toki \(senran kagura\):1.3), senran kagura, long hair, streaked hair, very long hair, brown hair, red hair, multicolored hair, blue eyes
+(fubuki \(senran kagura\):1.3), senran kagura, pale skin, long hair, very long hair, black hair, black eyes, hair between eyes
+(leo \(senran kagura\):1.3), senran kagura, long hair, very long hair, purple eyes, hair between eyes, blonde hair
+(bebe-tan:1.3), senran kagura, long hair, very long hair, purple hair, purple eyes, hair between eyes
+(imu \(senran kagura\):1.3), senran kagura, long hair, short hair, brown hair, green eyes, twintails, light brown hair
+(renka \(senran kagura\):1.3), senran kagura, long hair, short hair, brown hair, ahoge, brown eyes
+(yuyaki \(senran kagura\):1.3), senran kagura, high ponytail, long hair, very long hair, black eyes, ponytail, dark-skinned female, white hair, dark skin
+(daidouji \(senran kagura\):1.3), senran kagura, long hair, very long hair, black hair, red eyes, blonde hair
+(hanabi \(senran kagura\):1.3), senran kagura, short hair, brown hair, green eyes, hair between eyes, blonde hair, orange hair
