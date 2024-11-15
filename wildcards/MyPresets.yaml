@@ -3,13 +3,13 @@
     - Legacy Prompts
   Tags:
     - MyPreset
-'<[FranchisePreset][--GodzillaFranchise]>{15%, <[ezpreg]>||}':
+'NSFW, 1girl, <[FranchisePreset][--GodzillaFranchise]>{15%, <[ezpreg]>||}':
   Description:
     - Franchise-specific Prompts
   Tags:
     - FranchiseWrapper
     - 1girl
-'<[FranchisePreset][--GodzillaFranchise]>, {10%<[FutaAddon]>||<[FutaAddon][--Beast]>}{15%, <[ezpreg]>||}**(cowgirl position, fellatio, vaginal:2.0)**':
+'NSFW, 1futa, <[FranchisePreset][--GodzillaFranchise]>, {10%<[FutaAddon]>||<[FutaAddon][--Beast]>}{15%, <[ezpreg]>||}**(cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -152,6 +152,18 @@
     - MyPreset
     - 1girl
     - Futanari
+'<[CharacterPreset][--Futanari]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezBDSM][--Futanari]>':
+  Description:
+    - Random BDSM
+  Tags:
+    - MyPreset
+    - 1girl
+'<[CharacterPreset][--Futanari]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezArmor][--Futanari]>':
+  Description:
+    - Random BDSM
+  Tags:
+    - MyPreset
+    - 1girl
 '<[1girlbase]>':
   Description:
     - Random Girl

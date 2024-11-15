@@ -39,7 +39,7 @@
     - ezMechagodzillaFuta
 
 # franchisepresets
-'NSFW, 1girl, <[characters][Godzilla]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, <lora:PDXL_artist_tags_v2_big:1>':
+'<[characters][Godzilla]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Godzilla Character
   Tags:
@@ -47,7 +47,7 @@
     - Godzilla
     - GodzillaFranchise
     - FranchisePreset
-'NSFW, 1girl, <[characters][Mechagodzilla]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, solo <[GazeFormat]> <lora:PDXL_artist_tags_v2_big:1>':
+'<[characters][Mechagodzilla]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Mechagodzilla
   Tags:
