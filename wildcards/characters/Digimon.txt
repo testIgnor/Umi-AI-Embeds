@@ -1,5 +1,5 @@
-(yagami hikari:1.3)
-(makino ruki:1.3)
-(kari kamiya:1.3)
-(hikari kamiya:1.3)
-(rika nonaka:1.3)
+(yagami hikari:1.3), brown hair, brown eyes, short hair
+(makino ruki:1.3), brown hair, short hair, blue eyes, ponytail
+(kari kamiya:1.3), brown hair, brown eyes, short hair
+(hikari kamiya:1.3), brown hair, brown eyes, short hair
+(rika nonaka:1.3), brown hair, short hair, blue eyes, ponytail

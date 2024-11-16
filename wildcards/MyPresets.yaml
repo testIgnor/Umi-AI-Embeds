@@ -3,32 +3,26 @@
     - Legacy Prompts
   Tags:
     - MyPreset
-'NSFW, 1girl, <[FranchisePreset][--GodzillaFranchise]>{15%, <[ezpreg]>||}':
+'{95%<[FranchisePreset][--GodzillaFranchise][Female]>||<[FranchisePreset][GodzillaFranchise][Female]>}':
   Description:
-    - Franchise-specific Prompts
-  Tags:
-    - FranchiseWrapper
-    - 1girl
-'NSFW, 1futa, <[FranchisePreset][--GodzillaFranchise]>, {10%<[FutaAddon]>||<[FutaAddon][--Beast]>}{15%, <[ezpreg]>||}**(cowgirl position, fellatio, vaginal:2.0)**':
-  Description:
-    - Franchise-specific Prompts
-  Tags:
-    - Futanari
-    - FranchiseWrapper
-    - 1girl
-'{95%<[FranchiseWrapper][--GodzillaFranchise][--Futanari]>||<[FranchiseWrapper][GodzillaFranchise][--Futanari]>}':
-  Description:
-    - Random Characters
+    - Random Female Characters
   Tags:
     - CharacterPreset
     - 1girl
-'{95%<[FranchiseWrapper][--GodzillaFranchise][Futanari]>||<[FranchiseWrapper][GodzillaFranchise][Futanari]>}':
+    - Female
+'{95%<[FranchisePreset][--GodzillaFranchise][Futanari]>||<[FranchisePreset][GodzillaFranchise][Futanari]>}':
   Description:
-    - Random Characters
+    - Random Futanari Characters
   Tags:
     - CharacterPreset
     - 1girl
     - Futanari
+'<[FranchisePreset][Male]>':
+  Description:
+    - Random Trap Characters
+  Tags:
+    - CharacterPreset
+    - 1boy
 '<[CharacterPreset][--futanari]>, {66%<[Clothing][--futanari]>||<[eznude][--futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
@@ -36,7 +30,7 @@
     - MyPreset
     - 1girl
     - 1girlBase
-'<[CharacterPreset][futanari]>, {66%<[Clothing][--female]>||<[eznude][futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][futanari|male]>, {66%<[Clothing][--female]>||<[eznude][futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -44,7 +38,7 @@
     - 1girl
     - 1girlBase
     - Futanari
-'<[CharacterPreset][--Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(cowgirl position, fellatio, vaginal:2.0), (2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Female]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(cowgirl position, fellatio, vaginal:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Presenting
   Tags:
@@ -66,7 +60,7 @@
     - MyPreset
     - 1girl
     - Futanari
-'<[CharacterPreset][--Futanari]>, <[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezMaleSwimwearChallenge][--Futanari]>':
+'<[CharacterPreset][Female]>, <[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezMaleSwimwearChallenge][--Futanari]>':
   Description:
     - Random Male Swimwear Challenge
   Tags:
@@ -74,16 +68,7 @@
     - RandomSwimwearChallenge
     - 1girl
     - MaleSwimwearChallenge
-'<[CharacterPreset][Futanari]>, <[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezMaleSwimwearChallenge][Futanari]>':
-  Description:
-    - Random Male Swimwear Challenge
-  Tags:
-    - MyPreset
-    - RandomSwimwearChallenge
-    - 1girl
-    - MaleSwimwearChallenge
-    - Futanari
-'<[CharacterPreset][--Futanari]>, <[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezBikini][--Futanari]>':
+'<[CharacterPreset][Female]>, <[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezBikini][--Futanari]>':
   Description:
     - Random Beach
   Tags:
@@ -96,7 +81,7 @@
     - MyPreset
     - 1girl
     - Futanari
-'<[CharacterPreset][--Futanari]>, <[imageformat]>, (at a rave, in a night club, rave, neon:1.3),{ <[ezgoth]>,||} (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), (tattoo:1.3), <[ezcovered][--Futanari]>, <[eznips]>, navel':
+'<[CharacterPreset][Female]>, <[imageformat]>, (at a rave, in a night club, rave, neon:1.3),{ <[ezgoth]>,||} (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), (tattoo:1.3), <[ezcovered][--Futanari]>, <[eznips]>, navel':
   Description:
     - Random Rave
   Tags:
@@ -104,7 +89,7 @@
     - RandomRave
     - 1girl
     - Rave
-'<[CharacterPreset][Futanari]>, <[imageformat]>, (at a rave, in a night club, rave, neon:1.3),{ <[ezgoth]>,||} (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), (tattoo:1.3), <[ezcovered][Futanari]>, <[eznips]>, navel':
+'<[CharacterPreset][Futanari|Male]>, <[imageformat]>, (at a rave, in a night club, rave, neon:1.3),{ <[ezgoth]>,||} (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), (tattoo:1.3), <[ezcovered][Futanari]>, <[eznips]>, navel':
   Description:
     - Random Rave
   Tags:
@@ -113,52 +98,52 @@
     - 1girl
     - Rave
     - Futanari
-'<[CharacterPreset][--Futanari]>, <[imageformat]>, outdoors, (in an elegant regal estate garden:1.2), (pinup, exhibitionism:1.1), <[ezWeddingDress][--Futanari]>':
+'<[CharacterPreset][Female]>, <[imageformat]>, outdoors, (in an elegant regal estate garden:1.2), (pinup, exhibitionism:1.1), <[ezWeddingDress][--Futanari]>':
   Description:
     - Random Wedding
   Tags:
     - MyPreset
     - 1girl
-'<[CharacterPreset][Futanari]>, <[imageformat]>, outdoors, (in an elegant regal estate garden:1.2), (pinup, exhibitionism:1.1), <[ezWeddingDress][Futanari]>':
+'<[CharacterPreset][Futanari|Male]>, <[imageformat]>, outdoors, (in an elegant regal estate garden:1.2), (pinup, exhibitionism:1.1), <[ezWeddingDress][Futanari]>':
   Description:
     - Random Wedding
   Tags:
     - MyPreset
     - 1girl
     - Futanari
-'<[CharacterPreset][--Futanari]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezBikerSuit][--Futanari]>':
+'<[CharacterPreset][Female]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezBikerSuit][--Futanari]>':
   Description:
     - Random Biker
   Tags:
     - MyPreset
     - 1girl
-'<[CharacterPreset][Futanari]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezBikerSuit][Futanari]>':
+'<[CharacterPreset][Futanari|Male]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezBikerSuit][Futanari]>':
   Description:
     - Random Biker
   Tags:
     - MyPreset
     - 1girl
     - Futanari
-'<[CharacterPreset][--Futanari]>, <[imageformat]>, (at a cabaret club, at a hostess club:1.3), fancy upscale rich bar, (pinup, exhibitionism:1.1), <[ezbunnysuit][--futanari]>':
+'<[CharacterPreset][Female]>, <[imageformat]>, (at a cabaret club, at a hostess club:1.3), fancy upscale rich bar, (pinup, exhibitionism:1.1), <[ezbunnysuit][--futanari]>':
   Description:
     - Random Cabaret
   Tags:
     - MyPreset
     - 1girl
-'<[CharacterPreset][Futanari]>, <[imageformat]>, (at a cabaret club, at a hostess club:1.3), fancy upscale rich bar, (pinup, exhibitionism:1.1), <[ezbunnysuit][futanari]>':
+'<[CharacterPreset][Futanari|Male]>, <[imageformat]>, (at a cabaret club, at a hostess club:1.3), fancy upscale rich bar, (pinup, exhibitionism:1.1), <[ezbunnysuit][futanari]>':
   Description:
     - Random Cabaret
   Tags:
     - MyPreset
     - 1girl
     - Futanari
-'<[CharacterPreset][--Futanari]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezBDSM][--Futanari]>':
+'<[CharacterPreset][Female]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezBDSM][--Futanari]>':
   Description:
     - Random BDSM
   Tags:
     - MyPreset
     - 1girl
-'<[CharacterPreset][--Futanari]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezArmor][--Futanari]>':
+'<[CharacterPreset][Female]>, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), <[ezArmor][--Futanari]>':
   Description:
     - Random BDSM
   Tags:

@@ -13,7 +13,7 @@
     - Mechagodzilla
 
 # character particles
-'as a <[ezage][--male]>, (genderswap:1.6), (female:1.1), (scalie:1.3), (kaiju, monster:1.6), tail':
+'as a <[ezage][female]>, (genderswap:1.6), (female:1.1), (scalie:1.3), (kaiju, monster:1.6), tail':
   Description:
     - Godzilla Character Base
   Tags:
@@ -25,7 +25,7 @@
   Tags:
     - Particle
     - MechagodzillaCharacter
-'(futanari, dickgirl, (robot penis, mechanical penis:1.5), dragon penis, <[ezpenis][--lower]>, precum, cum on penis, cum, cumshot:1.2)**(testicles, balls, full package futanari:1.4), (male, man, 1boy, 2boys, 3boys:2.0)**':
+'(futanari, dickgirl, (robot penis, mechanical penis:1.5), dragon penis, <[ezpenis][--lower]>, precum, cum on penis, cum, cumshot:1.2)**(testicles, balls, full package futanari:1.4), (male, man, 1boy, 2boys, 3boys:2.0), (cowgirl position, fellatio, vaginal:2.0)**':
   Description:
     - Mechagodzilla Futanari
   Tags:
@@ -39,7 +39,7 @@
     - ezMechagodzillaFuta
 
 # franchisepresets
-'<[characters][Godzilla]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Godzilla]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Godzilla Character
   Tags:
@@ -47,7 +47,8 @@
     - Godzilla
     - GodzillaFranchise
     - FranchisePreset
-'<[characters][Mechagodzilla]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+    - Female
+'NSFW, 1girl, <[characters][Mechagodzilla]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Mechagodzilla
   Tags:
@@ -56,42 +57,27 @@
     - Mechagodzilla
     - GodzillaFranchise
     - FranchisePreset
+    - Female
 
-# characterpresets
-'<[FranchisePreset][Godzilla]>{15%, <[ezpreg]>||}':
+'NSFW, 1futa, <[characters][Godzilla]>, <[ezFuta]>, <[Artists][--3D]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Franchise-specific Prompts
+    - Random Godzilla Character
   Tags:
-    - FranchiseWrapper
     - 1girl
     - Godzilla
     - GodzillaFranchise
-'<[FranchisePreset][Mechagodzilla]>{15%, <[ezpreg]>||}':
+    - FranchisePreset
+    - Futanari
+'NSFW, 1futa, <[characters][Mechagodzilla]>, {75%<[ezMechagodzillaFuta]>||<[FutaAddon][--Beast]>}, <[Artists][--3D]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Franchise-specific Prompts
+    - Mechagodzilla
   Tags:
-    - FranchiseWrapper
     - 1girl
+    - MechagodzillaBase
     - Mechagodzilla
     - GodzillaFranchise
-'<[FranchisePreset][Mechagodzilla]>, {<[ezMechagodzillaFuta]>||<[FutaAddon][--Beast]>}{15%, <[ezpreg]>||}**(cowgirl position, fellatio, vaginal:2.0)**':
-  Description:
-    - Franchise-specific Prompts
-  Tags:
+    - FranchisePreset
     - Futanari
-    - FranchiseWrapper
-    - 1girl
-    - Mechagodzilla
-    - GodzillaFranchise
-'<[FranchisePreset][Godzilla]>, {10%<[FutaAddon]>||<[FutaAddon][--Beast]>}{15%, <[ezpreg]>||}**(cowgirl position, fellatio, vaginal:2.0)**':
-  Description:
-    - Franchise-specific Prompts
-  Tags:
-    - Futanari
-    - FranchiseWrapper
-    - 1girl
-    - Godzilla
-    - GodzillaFranchise
 
 # legacy prompts
 'NSFW, (1girl, solo, solo focus, 1Girl:1.5), full body, (mechagodzilla, mecha godzilla:1.6), kiryu \(godzilla\), <[Artists][--3D]>, <[ezage][middle]>, (nude, genderswap, <[eznips]>:1.2),{<[ezpreg]>,||} (scalie, female robot scalie:1.5), (tall female:1.2), (mecha, robot, (silver:1.5) metal skin, piloted mech, robot joints:1.6), exhibitionism, <[Emotions][positive|neutral]>, <[MyLocation]>, public indecency, <[ezmechagodzillafuta]>, (high heels:1.2), (digitigrade feet:1.1), <lora:PDXL_artist_tags_v2_big:1>**(wings, wing, weapon, weapons, gun, missile, human, car, vehicle:1.7), (testicles, balls, full package futanari:1.4)**':

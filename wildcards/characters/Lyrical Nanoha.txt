@@ -1,0 +1,47 @@
+(fate testarossa:1.3), lyrical nanoha, blonde hair, red eyes, twintails, very long hair, long hair
+(yagami hayate:1.3), lyrical nanoha, blonde hair, blue eyes, brown hair, long hair, short hair
+(raising heart:1.3), lyrical nanoha, blonde hair, purple eyes, blue eyes, twintails, brown hair, long hair
+(bardiche \(nanoha\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, very long hair, long hair
+(vita \(nanoha\):1.3), lyrical nanoha, red hair, ahoge, long hair, blue eyes
+(reinforce:1.3), lyrical nanoha, blue eyes, red eyes, long hair, grey hair
+(fate testarossa \(lightning form\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, long hair
+(graf eisen:1.3), lyrical nanoha, red hair, ahoge, long hair, blue eyes
+(takamachi nanoha \(sacred mode\):1.3), lyrical nanoha, blonde hair, red eyes, purple eyes, blue eyes, twintails, brown hair, red hair
+(ginga nakajima:1.3), lyrical nanoha, green eyes, purple hair, long hair
+(schwertkreuz:1.3), lyrical nanoha, blonde hair, blue eyes, brown hair, long hair, short hair
+(fate testarossa \(true sonic form\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, very long hair, long hair
+(fate testarossa \(impulse form\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, long hair
+(laevatein \(nanoha\):1.3), lyrical nanoha, blonde hair, pink hair, blue eyes, ponytail, long hair
+(revolver knuckle:1.3), lyrical nanoha, blue hair, green eyes, short hair
+(fate testarossa \(movie 1st form\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, long hair
+(stern the destructor:1.3), lyrical nanoha, blue hair, blue eyes, brown hair, twintails, long hair, short hair
+(raising heart \(standby mode\):1.3), lyrical nanoha, blonde hair, red eyes, purple eyes, blue eyes, brown hair, twintails, side ponytail, long hair
+(raising heart \(accel mode\):1.3), lyrical nanoha, blonde hair, purple eyes, blue eyes, twintails, brown hair, red hair, long hair
+(takamachi nanoha \(aggressor mode\):1.3), lyrical nanoha, blonde hair, purple eyes, twintails, brown hair, long hair
+(takamachi nanoha \(exceed mode\):1.3), lyrical nanoha, blonde hair, purple eyes, blue eyes, twintails, brown hair, side ponytail, long hair
+(tome of the night sky:1.3), lyrical nanoha, blonde hair, red eyes, blue eyes, brown hair, long hair, short hair
+(bardiche \(assault form\) \(nanoha\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, long hair
+(takamachi nanoha \(movie 1st mode\):1.3), lyrical nanoha, blonde hair, red eyes, purple eyes, blue eyes, twintails, brown hair, long hair
+(bardiche \(zanber form\) \(nanoha\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, long hair
+(fate testarossa \(original form\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, very long hair, long hair
+(cinque \(nanoha\):1.3), lyrical nanoha, yellow eyes, long hair, grey hair
+(lindy harlaown:1.3), lyrical nanoha, ponytail, green hair, green eyes, long hair
+(bardiche \(standby form\) \(nanoha\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, very long hair, brown hair, long hair
+(fuka reventon:1.3), lyrical nanoha, green eyes, purple eyes, blue eyes, long hair, brown hair, ahoge, ponytail
+(takamachi nanoha \(original mode\):1.3), lyrical nanoha, blonde hair, purple eyes, twintails, brown hair, long hair
+(bardiche \(axe form\) \(nanoha\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, long hair
+(cross mirage:1.3), lyrical nanoha, twintails, orange hair, long hair, blue eyes
+(kerykeion \(nanoha\):1.3), lyrical nanoha, pink hair, blue eyes, ahoge, long hair, short hair
+(rinne berlinetta:1.3), lyrical nanoha, green eyes, purple eyes, blue eyes, long hair, brown hair, ahoge, white hair, ponytail, grey hair
+(raising heart \(device mode\):1.3), lyrical nanoha, blonde hair, purple eyes, twintails, brown hair, long hair
+(uno \(nanoha\):1.3), lyrical nanoha, yellow eyes, purple hair, long hair
+(raising heart \(device mode\) \(1st\):1.3), lyrical nanoha, blonde hair, purple eyes, blue eyes, twintails, brown hair, long hair
+(raising heart \(exceed mode\):1.3), lyrical nanoha, blonde hair, purple eyes, blue eyes, twintails, brown hair, red hair, long hair
+(bardiche \(riot zanber stinger\) \(nanoha\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, very long hair, long hair
+(carim gracia:1.3), lyrical nanoha, blonde hair, long hair, blue eyes
+(book of the azure sky:1.3), lyrical nanoha, blue hair, blue eyes, brown hair, ahoge, long hair
+(fate testarossa \(lightning form\) \(2nd\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, brown hair, very long hair, long hair
+(raising heart \(buster mode\):1.3), lyrical nanoha, purple eyes, twintails, brown hair, red hair, long hair
+(klarwind:1.3), lyrical nanoha, blonde hair, pink hair, red eyes, purple eyes, blue eyes, long hair, twintails, ponytail, short hair
+(bardiche \(scythe form\) \(nanoha\):1.3), lyrical nanoha, blonde hair, red eyes, twintails, very long hair, long hair
+(raising heart \(exelion mode\):1.3), lyrical nanoha, blonde hair, purple eyes, twintails, brown hair, red hair, long hair

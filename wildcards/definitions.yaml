@@ -5,6 +5,7 @@
     - EZAge
     - Lower
     - Loli
+    - Female
 '(<[EZTeenGirl]>:1.3){, pubic hair||}':
   Description:
     - Teen Age
@@ -13,23 +14,7 @@
     - Lower
     - Middle
     - Teen
-'(<[EZShota]>:1.3)':
-  Description:
-    - Shota Age
-  Tags:
-    - EZAge
-    - Lower
-    - Shota
-    - Male
-'(<[EZTeenBoy]>:1.3){, pubic hair||}':
-  Description:
-    - Teen Age
-  Tags:
-    - EZAge
-    - Lower
-    - Middle
-    - Teen
-    - Male
+    - Female
 '<[EZWoman]>{, pubic hair||}':
   Description:
     - Adult Age
@@ -38,6 +23,7 @@
     - Middle
     - Upper
     - Adult
+    - Female
 '<[EZThiccWoman]>{, pubic hair||}{, armpit hair||}':
   Description:
     - Mature Age
@@ -45,6 +31,58 @@
     - EZAge
     - Upper
     - Mature
+    - Female
+'(<[EZLoli]>:1.3), <[ezFuta]>':
+  Description:
+    - Loli Age
+  Tags:
+    - EZAge
+    - Lower
+    - Loli
+    - Futanari
+'(<[EZTeenGirl]>:1.3){, pubic hair||}, <[ezFuta]>':
+  Description:
+    - Teen Age
+  Tags:
+    - EZAge
+    - Lower
+    - Middle
+    - Teen
+    - Futanari
+'<[EZWoman]>{, pubic hair||}, <[ezFuta]>':
+  Description:
+    - Adult Age
+  Tags:
+    - EZAge
+    - Middle
+    - Upper
+    - Adult
+    - Futanari
+'<[EZThiccWoman]>{, pubic hair||}{, armpit hair||}, <[ezFuta]>':
+  Description:
+    - Mature Age
+  Tags:
+    - EZAge
+    - Upper
+    - Mature
+    - Futanari
+'(<[EZShota]>:1.3), <[ezpenis]>':
+  Description:
+    - Shota Age
+  Tags:
+    - EZAge
+    - Lower
+    - Shota
+    - Male
+'(<[EZTeenBoy]>:1.3){, pubic hair||}, <[ezpenis]>':
+  Description:
+    - Teen Age
+  Tags:
+    - EZAge
+    - Lower
+    - Middle
+    - Teen
+    - Male
 'Shota, Child, Little Boy, Aged Down, Age {6||7||8||9||10||11||12||13}, {Flat Chest||Small Breasts}, tomgirl, trap, feminized, femboy**(chibi:1.5), Medium Breasts, Large Breasts, Gigantic Breasts, Mature Female, Mature Male, Adult**':
  Description:
   - "This is the quickie to generate a young boy's body."
