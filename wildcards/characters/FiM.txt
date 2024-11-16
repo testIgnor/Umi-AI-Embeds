@@ -8,7 +8,7 @@
 (sunset shimmer:1.3)
 (twilight sparkle:1.3)
 (rainbow dash:1.3)
-(pinkie pinkie:1.3)
+(pinkie pie:1.3)
 (rarity:1.3)
 (applejack:1.3)
 (trixie:1.3)
