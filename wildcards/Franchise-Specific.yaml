@@ -1024,6 +1024,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Madoka]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Madoka Character
+  Tags:
+    - 1girl
+    - Madoka
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Madoka]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Madoka Character Futa
+  Tags:
+    - 1girl
+    - Madoka
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Madoka]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Madoka Character Trap
+  Tags:
+    - 1boy
+    - Madoka
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][MahoAko]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random MahoAko Character
