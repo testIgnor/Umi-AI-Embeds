@@ -1674,6 +1674,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Shantae]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Shantae Character
+  Tags:
+    - 1girl
+    - Shantae
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Shantae]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Shantae Character Futa
+  Tags:
+    - 1girl
+    - Shantae
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Shantae]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Shantae Character Trap
+  Tags:
+    - 1boy
+    - Shantae
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][She-ra]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random She-ra Character
