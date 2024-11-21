@@ -18,3 +18,6 @@
 (nekomata:1.3)
 (valkyrie:1.3)
 (xenomorph:1.3)
+(nekomimi:1.3), cat girl
+(kitsune:1.3), fox girl
+(doll girl:1.3), gothic lolita, doll joints
