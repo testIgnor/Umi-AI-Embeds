@@ -1199,6 +1199,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][MyHero]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random MyHero Character
+  Tags:
+    - 1girl
+    - MyHero
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][MyHero]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random MyHero Character Futa
+  Tags:
+    - 1girl
+    - MyHero
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][MyHero]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random MyHero Character Trap
+  Tags:
+    - 1boy
+    - MyHero
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][Naruto]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Naruto Character
