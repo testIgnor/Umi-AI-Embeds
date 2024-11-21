@@ -20,6 +20,9 @@ nude with pride flag draped over body, <[eznude][--futanari]>
 zero suit, <[ezcovered][--futanari]>, fully clothed, tight clothes
 naked armor, armor, <[eznude][--futanari]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
 virgin destroyer sweater, <[ezcovered][--futanari]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
+virgin destroyer sweater, sideboob, underboob, white panties, white thighhighs, <[ezcovered][--futanari]> <lora:attire_virgindestroyer_ponyXL:1>
+virgin destroyer sweater, detached sleeves, panties, thighhighs <[ezcovered][--futanari]> <lora:virgin_destroyer_sweater_v0.1-pony:1>
+tapeproject, black tape, covered nipples, <[ezcovered][--futanari]>, navel <lora:TapeProjectPDXL_byKonan:1>
 chastity belt, topless
 functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][--futanari]>
 see-through, ballerina, black thighhighs, <[ezcovered][--futanari]>
@@ -45,6 +48,7 @@ biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][--futanari]>**(
 functionally nude, <[eznude][--futanari]>
 topless, <[eznude][--futanari]>
 sling bikini, slingshot swimsuit, <[ezcovered][--futanari]>
+slingshot swimsuit, <[ezcovered][--futanari]> <lora:slingshotPony_resize:1>
 reverse bunnysuit, heart pasties, <[ezcovered][--futanari]>, functionally nude
 (symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][--futanari]>
 naked cloak, <[eznude][--futanari]>
@@ -66,3 +70,4 @@ cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbot
 cupless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
 magical girl costume, <[ezbottomless][--futanari]>
 corrupted magical girl costume, <[ezbottomless][--futanari]>
+ruanyi0040, <[eznude][--futanari]>, bracelet, chain <lora:0040 metal tassel_v3_pony:1>

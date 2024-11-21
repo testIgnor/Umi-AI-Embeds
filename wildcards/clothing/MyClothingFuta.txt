@@ -14,6 +14,8 @@ fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dres
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][futanari]>
 nude with pride flag draped over body, <[eznude][futanari]>
 virgin destroyer sweater, <[ezcovered][futanari]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
+virgin destroyer sweater, sideboob, underboob, white panties, white thighhighs, <[ezcovered][futanari]> <lora:attire_virgindestroyer_ponyXL:1>
+virgin destroyer sweater, detached sleeves, panties, thighhighs <[ezcovered][futanari]> <lora:virgin_destroyer_sweater_v0.1-pony:1>
 reverse bunnysuit, functionally nude, <[eznude][futanari]>
 functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][futanari]>
 bunnysuit, <[ezcovered][futanari]>, functionally nude
@@ -63,3 +65,4 @@ cupless bra, crotchless panties
 magical girl costume, <[ezbottomless][futanari]>
 corrupted magical girl costume, <[ezbottomless][futanari]>
 monokini, topless, <[ezcovered][futanari]>
+ruanyi0040, <[eznude][--futanari]>, bracelet, chain <lora:0040 metal tassel_v3_pony:1>

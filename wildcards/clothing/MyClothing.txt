@@ -32,3 +32,4 @@ race queen, race queen outfit
 tribal clothing, tribal outfit
 backless dress, sleevless dress, loose dress, areola slip
 gothic lolita, lolita fashion, black dress, black and white dress, long dress, frilled dress, frills, ribbon, bow, blush, long sleeves, thighhighs
+blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos, <lora:Lunas-Blackedwear-Concept-SDXL-A1:1>
