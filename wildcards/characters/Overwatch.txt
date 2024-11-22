@@ -79,3 +79,5 @@
 (black cat d.va:1.3)
 (sprinter tracer \(overwatch\):1.3), Lena Oxton
 (winged victory mercy \(overwatch\):1.3), Angela Ziegler
+(juno \(overwatch\):1.3), purple hair, brown eyes, short hair
+(sojourn \(overwatch\):1.3)
