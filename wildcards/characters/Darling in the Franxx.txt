@@ -1,3 +1,12 @@
-(zero two \(darling in the franxx\):1.3), darling in the franxx, black hair, green eyes, blue eyes, long hair, pink hair
-(ichigo \(darling in the franxx\):1.3), darling in the franxx, short hair, green eyes, blue hair, long hair, pink hair
-(strelizia:1.3), darling in the franxx, black hair, green eyes, blue eyes, long hair, pink hair
+(zero two \(darling in the franxx\):1.3), darling in the franxx, long hair, blue eyes, pink hair, black hair, green eyes
+(ichigo \(darling in the franxx\):1.3), darling in the franxx, blue hair, short hair, long hair, pink hair, green eyes
+(strelizia:1.3), darling in the franxx, (mecha, robot, android:1.4), green eyes, horns
+(delphinium:1.3), darling in the franxx, (mecha, robot, android:1.4), blue eyes, one eye covered
+(argentea:1.3), darling in the franxx, (mecha, robot, android:1.4), blue eyes, pink hair, twintails
+(genista:1.3), darling in the franxx, (mecha, robot, android:1.4), black skin, pink eyes, colored skin
+(chlorophytum:1.3), darling in the franxx, (mecha, robot, android:1.4), assault visor, aqua eyes
+(nana \(darling in the franxx\):1.3), darling in the franxx, red hair, long hair, green eyes
+(miku \(darling in the franxx\):1.3), darling in the franxx, short hair, green eyes, brown hair, ahoge, twintails
+(kokoro \(darling in the franxx\):1.3), darling in the franxx, blonde hair, blue eyes, long hair
+(ikuno \(darling in the franxx\):1.3), darling in the franxx, short hair, green eyes, black hair
+(naomi \(darling in the franxx\):1.3), darling in the franxx, long hair, brown hair
