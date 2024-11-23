@@ -192,3 +192,4 @@
 (zenobia \(fate\):1.3), fate \(series\), dark-skinned female, grey hair, long hair, blue eyes, dark skin
 (dobrynya nikitich \(fate\):1.3), fate \(series\), long hair, blue eyes, white hair
 (melusine \(second ascension\) \(fate\):1.3), fate \(series\), long hair, brown eyes, yellow eyes, white hair
+(astolfo \(fate\):1.3), fate \(series\),long hair, pink hair, multicolored hair, hair between eyes, white hair, streaked hair, purple eyes
