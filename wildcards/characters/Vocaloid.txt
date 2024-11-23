@@ -82,3 +82,5 @@
 (bicute bunnies miku:1.3), vocaloid, aqua eyes, hair between eyes, blue hair, aqua hair, blue eyes
 (bicute bunnies miku \(white bunny\):1.3), vocaloid, aqua eyes, hair between eyes, blue hair, aqua hair, blue eyes
 (racing miku \(2013\):1.3), vocaloid, aqua eyes, long hair, aqua hair, very long hair, dark skin
+(kagamine rin:1.3), vocaloid, blonde hair, short hair, blue eyes
+(kagamine len:1.3), vocaloid, blonde hair, short hair, blue eyes
