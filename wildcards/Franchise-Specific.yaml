@@ -449,6 +449,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][DunMeshi]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random DunMeshi Character
+  Tags:
+    - 1girl
+    - DunMeshi
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][DunMeshi]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random DunMeshi Character Futa
+  Tags:
+    - 1girl
+    - DunMeshi
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][DunMeshi]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random DunMeshi Character Trap
+  Tags:
+    - 1boy
+    - DunMeshi
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][Evangelion]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Evangelion Character
@@ -571,6 +596,31 @@
   Tags:
     - 1boy
     - Fire Emblem
+    - FranchisePreset
+    - Male
+
+'NSFW, 1girl, <[characters][Frieren]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Frieren Character
+  Tags:
+    - 1girl
+    - Frieren
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Frieren]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Frieren Character Futa
+  Tags:
+    - 1girl
+    - Frieren
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Frieren]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Frieren Character Trap
+  Tags:
+    - 1boy
+    - Frieren
     - FranchisePreset
     - Male
 
@@ -871,6 +921,31 @@
   Tags:
     - 1boy
     - Kill la Kill
+    - FranchisePreset
+    - Male
+
+'NSFW, 1girl, <[characters][Kobayashi]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Kobayashi Character
+  Tags:
+    - 1girl
+    - Kobayashi
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Kobayashi]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Kobayashi Character Futa
+  Tags:
+    - 1girl
+    - Kobayashi
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Kobayashi]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Kobayashi Character Trap
+  Tags:
+    - 1boy
+    - Kobayashi
     - FranchisePreset
     - Male
 

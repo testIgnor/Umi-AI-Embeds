@@ -614,3 +614,24 @@
   Tags:
     - Characters
     - MyHero
+
+'source_anime, __Characters/Frieren__':
+  Description:
+    - Frieren Characters
+  Tags:
+    - Characters
+    - Frieren
+
+'source_anime, __Characters/DunMeshi__':
+  Description:
+    - DunMeshi Characters
+  Tags:
+    - Characters
+    - DunMeshi
+
+'source_anime, __Characters/Kobayashi__':
+  Description:
+    - Kobayashi Characters
+  Tags:
+    - Characters
+    - Kobayashi
