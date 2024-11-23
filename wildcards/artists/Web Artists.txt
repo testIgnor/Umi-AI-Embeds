@@ -36,6 +36,7 @@ by liang xing, by liangxing
 by dmitrys
 by saurian
 by melkor mancin
+by pochincoff, pochincoffstyle <lora:Pochincoff_style:1>
 by 007delta
 by 0r0ch1
 by 1-upclock

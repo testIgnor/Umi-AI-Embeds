@@ -6,6 +6,7 @@ by [dandon fuga|sakimichan]
 (by [andava|ponpu]:0.6)
 (by [personal ami|personal ami, (aroma sensei:0.5)]:1.3) <lora:ALTXL_pony_0061_8:1>**(long torso:2.0)**
 by tarakanovich <lora:tarakanovich1.5:1>
+by pochincoff, pochincoffstyle <lora:Pochincoff_style:1>
 by realjohndoe, john doe
 by cutesexyrobutts
 by dosh
