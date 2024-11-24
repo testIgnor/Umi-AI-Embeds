@@ -170,6 +170,19 @@
     - Particle
     - ezBikini
     - Futanari
+'(__clothing/bodysuitsFem__:1.1)':
+  Description:
+    - Bodysuit Addon
+  Tags:
+    - Particle
+    - ezBodysuit
+'(__clothing/bodysuitsFuta__:1.1)':
+  Description:
+    - Bodysuit Addon
+  Tags:
+    - Particle
+    - ezBodysuit
+    - Futanari
 '(__Artists/Web Artists__:1.3)':
   Description:
     - Random Artist Names for LoRA

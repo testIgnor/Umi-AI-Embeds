@@ -75,3 +75,5 @@ corrupted magical girl costume, <[ezbottomless][--futanari]>
 ruanyi0040, <[eznude][--futanari]>, bracelet, chain <lora:0040 metal tassel_v3_pony:0.66>
 micro bikini, <[ezcovered][--futanari]> <lora:micro bikini_pony_V1.0:1>
 metalSuit, necklace, high heels, helmet, <[eznude][--futanari]> <lora:MetalSuitPonyV2:1>
+skinbodysuit, bodysuit, <[ezcovered][--futanari]> <lora:skinbodysuit e3:1>
+ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nude, metal spine, <[ezcovered][--futanari]> <lora:0469 Stellar Blade (Skin Suit)_v3_pony:1>

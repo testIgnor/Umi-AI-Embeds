@@ -453,19 +453,6 @@
     - Particle
     - ezMaleSwimwearChallenge
     - Futanari
-'biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][--futanari]>**(helmet, headwear, hat:2.0)**':
-  Description:
-    - Biker Suit Addon
-  Tags:
-    - Particle
-    - ezBikerSuit
-'biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][futanari]>**(helmet, headwear, hat:2.0)**':
-  Description:
-    - Biker Suit Addon
-  Tags:
-    - Particle
-    - ezBikerSuit
-    - Futanari
 'wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][female]>':
   Description:
     - BDSM addon
