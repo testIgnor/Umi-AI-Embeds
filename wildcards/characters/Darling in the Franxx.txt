@@ -1,17 +1,17 @@
 (zero two \(darling in the franxx\):1.3), darling in the franxx, long hair, blue eyes, pink hair, black hair, green eyes
 (ichigo \(darling in the franxx\):1.3), darling in the franxx, ichigo_franxx, blue hair, short hair, long hair, pink hair, green eyes <lora:Ichigo_-_Darling_in_the_Franxx:1>
 (strelizia:1.3), darling in the franxx, (mecha, robot, android:1.4), green eyes, horns <lora:Strelizia:1>
-(strelizia:1.3), darling in the franxx, White_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:1>
-(strelizia:1.3), darling in the franxx, Red_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:1>
-(strelizia:1.3), darling in the franxx, Monster_Black_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:1>
-(strelizia:1.3), darling in the franxx, Black_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:1>
+(strelizia:1.3), darling in the franxx, White_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
+(strelizia:1.3), darling in the franxx, Red_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
+(strelizia:1.3), darling in the franxx, Monster_Black_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
+(strelizia:1.3), darling in the franxx, Black_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
 (delphinium:1.3), darling in the franxx, (mecha, robot, android:1.4), blue eyes, one eye covered <lora:Delphinium_-_Darling_in_the_Franxx_-_PonyXL_Lora:1>
-(argentea:1.3), darling in the franxx, Franxx, (mecha, robot, android:1.4), blue eyes, pink hair, twintails <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:1>
+(argentea:1.3), darling in the franxx, Franxx, (mecha, robot, android:1.4), blue eyes, pink hair, twintails <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
 (genista:1.3), darling in the franxx, (mecha, robot, android:1.4), black skin, pink eyes, colored skin <lora:genista:1>
-(chlorophytum:1.3), darling in the franxx, Franxx, (mecha, robot, android:1.4), assault visor, aqua eyes <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:1>
+(chlorophytum:1.3), darling in the franxx, Franxx, (mecha, robot, android:1.4), assault visor, aqua eyes <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
 (nana \(darling in the franxx\):1.3), darling in the franxx, nana_franxx, red hair, long hair, green eyes <lora:Nana_-_Darling_in_the_Franxx:1>
 (miku \(darling in the franxx\):1.3), darling in the franxx, miku_franxx, short hair, green eyes, brown hair, red hair, ahoge, twintails <lora:Miku_-_Darling_in_the_Franxx:1>
 (kokoro \(darling in the franxx\):1.3), darling in the franxx, kokoro_franxx, blonde hair, brown hair, blue eyes, long hair <lora:Kokoro_-_Darling_in_the_Franxx:1>
 (ikuno \(darling in the franxx\):1.3), darling in the franxx, ikuno_franxx, short hair, green eyes, black hair, <lora:Ikuno_-_Darling_in_the_Franxx:1>
 (naomi \(darling in the franxx\):1.3), darling in the franxx, long hair, brown hair
-(001 \(darling in the franxx\):1.3), darling in the franxx, Klaxosaur Princess,blue skin, black hair, blue eyes, green eyes, colored skin, pink hair, very long hair, light blue hair, blue hair, long hair, white hair <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:1>
+(001 \(darling in the franxx\):1.3), darling in the franxx, Klaxosaur Princess,blue skin, black hair, blue eyes, green eyes, colored skin, pink hair, very long hair, light blue hair, blue hair, long hair, white hair <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
