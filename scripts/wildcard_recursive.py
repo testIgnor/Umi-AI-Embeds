@@ -292,13 +292,17 @@ class TagReplacer:
         self.options = options
         self.wildcard_regex = re.compile('((__|<)(.*?)(__|>))')
         self.opts_regexp = re.compile('(?<=\[)(.*?)(?=\])')
+        self.debug = dict(options).get('debug', False)
 
     def replace_wildcard(self, matches):
         if matches is None or len(matches.groups()) == 0:
             return ""
-
+        
+        if self.debug: print(f'matches: {matches}')
+        
         match = matches.groups()[2]
         match_and_opts = match.split(':')
+        if self.debug: print(f'match_and_ops: {match_and_opts}')
         if (len(match_and_opts) == 2):
             selected_tags = self.tag_selector.select(
                 match_and_opts[0], self.opts_regexp.findall(match_and_opts[1]))
