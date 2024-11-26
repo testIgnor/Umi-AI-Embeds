@@ -2324,6 +2324,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Franxx]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Franxx Character
+  Tags:
+    - 1girl
+    - Franxx
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Franxx]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Franxx Character Futa
+  Tags:
+    - 1girl
+    - Franxx
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Franxx]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Franxx Character Trap
+  Tags:
+    - 1boy
+    - Franxx
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][Magical Girls]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Magical Girls Character
