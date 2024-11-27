@@ -1,9 +1,9 @@
 (strelizia:1.3), darling in the franxx, (mecha, robot, android:1.4), green eyes, horns <lora:Strelizia:0.66>
-(strelizia:1.3), darling in the franxx, White_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
-(strelizia:1.3), darling in the franxx, Red_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
-(strelizia:1.3), darling in the franxx, Monster_Black_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
-(strelizia:1.3), darling in the franxx, Black_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
+(strelizia:1.3), darling in the franxx, White_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess_Franxx_SDXLPoni_V1:0.66>
+(strelizia:1.3), darling in the franxx, Red_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess_Franxx_SDXLPoni_V1:0.66>
+(strelizia:1.3), darling in the franxx, Monster_Black_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess_Franxx_SDXLPoni_V1:0.66>
+(strelizia:1.3), darling in the franxx, Black_Strelizia, (mecha, robot, android:1.4), green eyes, horns <lora:HerrscherAGGA2023_Klaxosaur_Princess_Franxx_SDXLPoni_V1:0.66>
 (delphinium:1.3), darling in the franxx, (mecha, robot, android:1.4), blue eyes, one eye covered <lora:Delphinium_-_Darling_in_the_Franxx_-_PonyXL_Lora:1>
-(argentea:1.3), darling in the franxx, Franxx, (mecha, robot, android:1.4), blue eyes, pink hair, twintails <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>
+(argentea:1.3), darling in the franxx, Franxx, (mecha, robot, android:1.4), blue eyes, pink hair, twintails <lora:HerrscherAGGA2023_Klaxosaur_Princess_Franxx_SDXLPoni_V1:0.66>
 (genista:1.3), darling in the franxx, (mecha, robot, android:1.4), black skin, pink eyes, colored skin <lora:genista:1>
-(chlorophytum:1.3), darling in the franxx, Franxx, (mecha, robot, android:1.4), assault visor, aqua eyes <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.66>**(delphinium:1.5)**
+(chlorophytum:1.3), darling in the franxx, Franxx, (mecha, robot, android:1.4), assault visor, aqua eyes <lora:HerrscherAGGA2023_Klaxosaur_Princess_Franxx_SDXLPoni_V1:0.66>**(delphinium:1.5)**

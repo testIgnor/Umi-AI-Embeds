@@ -297,14 +297,16 @@ class TagReplacer:
     def replace_wildcard(self, matches):
         if matches is None or len(matches.groups()) == 0:
             return ""
-
-        if self.debug: print(f'matches: {matches}')
-
         match = matches.groups()[2]
         match_and_opts = match.split(':')
         if self.debug: print(f'match_and_ops: {match_and_opts}')
-        # filter out <lora:foobar:1>
-        if (len(match_and_opts) == 2) and ('lora' not in match_and_opts):
+        # note:
+        # file names should NOT contain double underscore '__'
+        # or more than one set of brackets '<>' as this will
+        # BREAK the regex matching
+        # if you're reading this, just bite the bullet and
+        # learn unprompted
+        if (len(match_and_opts) == 2):
             selected_tags = self.tag_selector.select(
                 match_and_opts[0], self.opts_regexp.findall(match_and_opts[1]))
         else:
