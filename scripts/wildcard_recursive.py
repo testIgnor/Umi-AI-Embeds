@@ -38,9 +38,9 @@ UsageGuide = """
                     * `<file:[tag]>` will pick a random item from yaml file `file`.yaml in wildcard folder with given tag
                     * `$#expression;key#$` will save the result of `expression` to be recalled with key `key` (note usage of semicolon `;`)
                     * `$#key#$` recalls the expression with key `key`
-                    
+
                     ### Settings override
-                    * `@@width=512, height=768@@` will set the width of the image to be `512` and height to be `768`. 
+                    * `@@width=512, height=768@@` will set the width of the image to be `512` and height to be `768`.
                     * Available settings to override are `cfg_scale, sampler, steps, width, height, denoising_strength`.
 
                     ### WebUI Prompt Reference
@@ -48,10 +48,10 @@ UsageGuide = """
                     * `[text]` deemphasizes text by a factor of 0.9
                     * `(text:x)` (de)emphasizes text by a factor of x
                     * `\(` or `\)` for literal parenthesis in prompt
-                    * `[from:to:when]` changes prompt from `from` to `to` after `when` steps if `when` > 1 
+                    * `[from:to:when]` changes prompt from `from` to `to` after `when` steps if `when` > 1
                             or after the fraction of `current step/total steps` is bigger than `when`
                     * `[a|b|c|...]` cycles the prompt between the given options each step
-                    * `text1 AND text2` creates a prompt that is a mix of the prompts `text1` and `text2`. 
+                    * `text1 AND text2` creates a prompt that is a mix of the prompts `text1` and `text2`.
                     """
 def get_index(items, item):
     try:
@@ -189,10 +189,10 @@ class TagSelector:
         self.debug = dict(options).get('debug', False)
         self.cache_files = dict(options).get('cache_files', True)
         self.used_tags = set()
-    
+
     def get_used_tags(self):
         return self.used_tags
-    
+
     def select_value_from_candidates(self, candidates):
         if len(candidates) == 1:
             if self.verbose: print(f'UmiAI: Only one value {candidates} found. Returning it.')
@@ -297,13 +297,14 @@ class TagReplacer:
     def replace_wildcard(self, matches):
         if matches is None or len(matches.groups()) == 0:
             return ""
-        
+
         if self.debug: print(f'matches: {matches}')
-        
+
         match = matches.groups()[2]
         match_and_opts = match.split(':')
         if self.debug: print(f'match_and_ops: {match_and_opts}')
-        if (len(match_and_opts) == 2):
+        # filter out <lora:foobar:1>
+        if (len(match_and_opts) == 2) and ('lora' not in match_and_opts):
             selected_tags = self.tag_selector.select(
                 match_and_opts[0], self.opts_regexp.findall(match_and_opts[1]))
         else:
@@ -569,45 +570,45 @@ class Script(scripts.Script):
     def ui(self, is_img2img):
         self.is_txt2img = is_img2img == False
         elemid_prefix = "img2img-umiai-" if is_img2img else "txt2img-umiai-"
-        with gr.Accordion('UmiAI', 
-                          open=True, 
+        with gr.Accordion('UmiAI',
+                          open=True,
                           elem_id=elemid_prefix + "accordion"):
             with gr.Row():
-                enabled = gr.Checkbox(label="Enable UmiAI", 
-                                      value=True, 
+                enabled = gr.Checkbox(label="Enable UmiAI",
+                                      value=True,
                                       elem_id=elemid_prefix + "toggle")
-            with gr.Tab("Settings"):       
+            with gr.Tab("Settings"):
                 with gr.Row(elem_id=elemid_prefix + "seeds"):
-                    shared_seed = gr.Checkbox(label="Static wildcards", 
-                                              value=False, 
-                                              elem_id=elemid_prefix + "static-wildcards", 
+                    shared_seed = gr.Checkbox(label="Static wildcards",
+                                              value=False,
+                                              elem_id=elemid_prefix + "static-wildcards",
                                               tooltip="Always picks the same random/wildcard options when using a static seed.")
-                    same_seed = gr.Checkbox(label='Same prompt in batch', 
-                                            value=False, 
-                                            elem_id=elemid_prefix + "same-seed", 
+                    same_seed = gr.Checkbox(label='Same prompt in batch',
+                                            value=False,
+                                            elem_id=elemid_prefix + "same-seed",
                                             tooltip="Same prompt will be used for all generated images in a batch.")
-                with gr.Row(elem_id=elemid_prefix + "lesser"):                
-                    cache_files = gr.Checkbox(label="Cache tag files", 
-                                              value=True, 
-                                              elem_id=elemid_prefix + "cache-files", 
+                with gr.Row(elem_id=elemid_prefix + "lesser"):
+                    cache_files = gr.Checkbox(label="Cache tag files",
+                                              value=True,
+                                              elem_id=elemid_prefix + "cache-files",
                                               tooltip="Cache .txt and .yaml files at runtime. Speeds up prompt generation. Disable if you're editing wildcard files to see changes instantly.")
-                    verbose = gr.Checkbox(label="Verbose logging", 
-                                          value=False, 
+                    verbose = gr.Checkbox(label="Verbose logging",
+                                          value=False,
                                           elem_id=elemid_prefix + "verbose",
                                           tooltip="Displays UmiAI log messages. Useful when prompt crafting, or debugging file-path errors.")
-                    debug = gr.Checkbox(label="Debug logging", 
-                                          value=False, 
+                    debug = gr.Checkbox(label="Debug logging",
+                                          value=False,
                                           elem_id=elemid_prefix + "debug",
                                           tooltip="Displays UmiAI debugging logs.")
-                    negative_prompt = gr.Checkbox(label='**negative keywords**', 
+                    negative_prompt = gr.Checkbox(label='**negative keywords**',
                                                   value=True,
-                                                  elem_id=elemid_prefix + "negative-keywords", 
+                                                  elem_id=elemid_prefix + "negative-keywords",
                                                   tooltip="Collect and add **negative keywords** from wildcards to Negative Prompts.")
-                    ignore_folders = gr.Checkbox(label="Ignore folders", 
+                    ignore_folders = gr.Checkbox(label="Ignore folders",
                                                  value=False,
                                                  elem_id=elemid_prefix + "ignore-folders",
                                                  tooltip="Ignore folder structure, will choose first file found if duplicate file names exist.")
-                                            
+
             with gr.Tab("Usage"):
                 gr.Markdown(UsageGuide)
 
@@ -620,7 +621,7 @@ class Script(scripts.Script):
             return
 
         if debug: print(f'\nModel: {p.sampler_name}, Seed: {int(p.seed)}, Batch Count: {p.n_iter}, Batch Size: {p.batch_size}, CFG: {p.cfg_scale}, Steps: {p.steps}\nOriginal Prompt: "{p.prompt}"\nOriginal Negatives: "{p.negative_prompt}"\n')
-        
+
         original_prompt = _get_effective_prompt(p.all_prompts, p.prompt)
         original_negative_prompt = _get_effective_prompt(
             p.all_negative_prompts,
@@ -649,7 +650,7 @@ class Script(scripts.Script):
                     random.seed(p.all_seeds[p.batch_size *cur_count if same_seed else index])
                 else:
                     random.seed(time.time()+index*10)
-                
+
                 if debug: print(f'{"Batch #"+str(cur_count) if same_seed else "Prompt #"+str(index):=^30}')
 
                 prompt_generator.negative_tag_generator.negative_tag = set()
@@ -661,7 +662,7 @@ class Script(scripts.Script):
                     p.all_hr_prompts[index] = prompt
 
                 if debug: print(f'Prompt: "{prompt}"\n')
-                if debug: 
+                if debug:
                     print('Dumping Memory dict:\n')
                     for key in memory_dict.keys():
                         print(f'key: {key}\tvalue: {memory_dict[key]}')
