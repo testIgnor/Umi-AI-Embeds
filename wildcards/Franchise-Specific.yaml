@@ -49,6 +49,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Atelier]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Atelier Character
+  Tags:
+    - 1girl
+    - Atelier
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Atelier]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Atelier Character Futa
+  Tags:
+    - 1girl
+    - Atelier
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Atelier]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Atelier Character Trap
+  Tags:
+    - 1boy
+    - Atelier
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][ATLA]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random ATLA Character
