@@ -320,18 +320,10 @@ class TagReplacer:
             return selected_tags
         return matches[0]
 
+    # why are we doing recurison here when there's another recursion step below?
+    # by processing || logic in steps, branch early and process less
     def replace_wildcard_recursive(self, prompt):
         p = self.wildcard_regex.sub(self.replace_wildcard, prompt)
-        while p != prompt:
-            # todo: parse if-then logic here
-            #print('\n\n\n')
-            #print('Before regex sub')
-            #print(self.tag_selector.get_used_tags())
-            #print('\n\n\n')
-            # self.parse_if-then_logic
-            prompt = p
-            p = self.wildcard_regex.sub(self.replace_wildcard, prompt)
-
         return p
 
     def replace(self, prompt):
@@ -432,8 +424,8 @@ class PromptGenerator:
         self.negative_tag_generator = NegativePromptGenerator()
         self.settings_generator = SettingsGenerator()
         self.replacers = [
-            TagReplacer(self.tag_selector, options),
             DynamicPromptReplacer(options),
+            TagReplacer(self.tag_selector, options),
             self.settings_generator
         ]
         self.verbose = dict(options).get('verbose', False)
@@ -468,10 +460,19 @@ class PromptGenerator:
 
     def generate_single_prompt(self, original_prompt):
         previous_prompt = original_prompt
+        if self.debug:
+            print('#####################')
+            print('#####################')
+            print('Before Recursion Step')
+            print('#####################')
+            print('#####################')
         start = time.time()
         prompt = self.use_replacers(original_prompt)
         while previous_prompt != prompt:
             if self.debug:
+                print('#####################')
+                print('During Recursion Step')
+                print('#####################')
                 print(f"\nDEBUG: Prompt is currently")
                 print(f"{prompt}\n")
             previous_prompt = prompt
