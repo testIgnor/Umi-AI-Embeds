@@ -7,10 +7,10 @@
 (rydia \(ff4\):1.3), final fantasy, long hair, green eyes, green hair, blue eyes
 (white mage \(final fantasy\):1.3), final fantasy, blonde hair, short hair, long hair
 (lenna charlotte tycoon:1.3), final fantasy, pink hair, purple hair, short hair, long hair, green eyes
-(yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, blue eyes
+(yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, blue eyes, YUNA_\(FF10\) <lora:YunaPony:1>
 (celes chere:1.3), final fantasy, blonde hair, blue eyes, long hair
 (garnet til alexandros xvii:1.3), final fantasy, brown eyes, low-tied long hair, brown hair, short hair, blonde hair, long hair, black hair
-(lightning farron:1.3), final fantasy, pink hair, blue eyes, long hair
+(lightning farron:1.3), final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>
 (y'shtola rhul:1.3), final fantasy, dark-skinned female, short hair, grey hair, dark skin, white hair, grey eyes
 (faris scherwiz:1.3), final fantasy, green eyes, long hair, purple hair, pink hair
 (agrias oaks:1.3), final fantasy, blonde hair, blue eyes, long hair
@@ -33,7 +33,7 @@
 (relm arrowny:1.3), final fantasy, blonde hair, long hair, blue eyes, short hair
 (monk \(final fantasy\):1.3), final fantasy, blonde hair, long hair, short hair
 (ultima \(fft\):1.3), final fantasy, grey hair, long hair, red eyes, white hair
-(shiva \(final fantasy\):1.3), final fantasy, blue skin, long hair, blue hair, colored skin, blue eyes
+(shiva \(final fantasy\):1.3), final fantasy, blue skin, long hair, blue hair, colored skin, blue eyes, SHIVA, GLOWING EYES, CROWN <lora:Shiva:1>
 (thief \(final fantasy\):1.3), final fantasy, blonde hair, green eyes, long hair, brown hair
 (prishe:1.3), final fantasy, long hair, purple hair, blue eyes
 (ninja \(final fantasy\):1.3), final fantasy, long hair, short hair
@@ -53,7 +53,7 @@
 (tifa lockhart \(cowgirl\):1.3), final fantasy, long hair, brown hair, red eyes, black hair
 (trance terra branford:1.3), final fantasy, pink hair, pink skin, green hair, long hair, colored skin, blue eyes
 (sage \(final fantasy\):1.3), final fantasy, long hair, blue eyes, short hair, white hair
-(serah farron:1.3), final fantasy, pink hair, blue eyes, long hair
+(serah farron:1.3), final fantasy, pink hair, blue eyes, long hair, SERAH_FARRON <lora:SerahFarron:1>
 (astrologian \(final fantasy\):1.3), final fantasy, long hair, short hair
 (gunner \(final fantasy\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, long hair, blue eyes
 (sabotender:1.3), final fantasy, brown hair, short hair, blonde hair, long hair, blue eyes, black hair
@@ -71,4 +71,5 @@
 (porom:1.3), final fantasy, long hair, pink hair, brown hair
 (sapphira nyx:1.3), final fantasy, long hair, brown eyes, yellow eyes, black hair
 (tsukuyomi \(ff14\):1.3), final fantasy, multicolored skin, two-tone hair, black skin, multicolored hair, split-color hair, long hair, colored skin, blue eyes, white hair, straight hair, two-tone skin, white skin, black hair
-(lumina farron:1.3), {serah farron, final fantasy, pink hair, blue eyes, long hair|lightning farron, final fantasy, pink hair, blue eyes, long hair},
+(lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair SERAH_FARRON <lora:SerahFarron:1>|lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]
+(garuda \(final fantasy\):1.3), final fantasy, colored skin, GARUDA, GLOWING EYES <lora:Garuda:1>

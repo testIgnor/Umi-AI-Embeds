@@ -39,6 +39,11 @@ naked scarf, <[eznude][futanari]>
 ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered][futanari]>
 fully clothed, __colors__ kimono, kimono, long dress, <[ezcovered][futanari]>
 maid, maid uniform, maid headdress, maid apron, <[ezcovered][futanari]>
+unconventional maid, maid bikini, <[ezcovered][futanari]>
+unconventional maid, jersey maid, <[ezcovered][futanari]>
+unconventional maid, maid leotard, <[ezcovered][futanari]>
+unconventional maid, maid one-piece swimsuit, <[ezcovered][futanari]>
+unconventional maid, yuino maid dress, <[ezcovered][futanari]>
 functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][futanari]>
 naked armor, armor, <[eznude][futanari]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
 cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbottomless][futanari]>
@@ -53,7 +58,7 @@ topless, <[eznude][futanari]>
 fully clothed, impossible clothes, <[ezcovered][futanari]>
 (wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[eznude][futanari]>**(skirt, bridal veil:2.0)**
 painted clothes, false clothes, fully clothed, functionally nude, <[eznude][futanari]>
-plugsuit, <[ezcovered][--futanari]>
+plugsuit, <[ezcovered][futanari]>
 tight t-shirt, wet t-shirt, short shorts, <[ezcovered][futanari]>
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered][futanari]>
 fully clothed, skimpy clothes, bikini, <[ezcovered][futanari]>
@@ -67,7 +72,7 @@ cupless bra, crotchless panties
 magical girl costume, <[ezbottomless][futanari]>
 corrupted magical girl costume, <[ezbottomless][futanari]>
 monokini, topless, <[ezcovered][futanari]>
-ruanyi0040, <[eznude][--futanari]>, bracelet, chain <lora:0040 metal tassel_v3_pony:0.66>
+ruanyi0040, <[eznude][futanari]>, bracelet, chain <lora:0040 metal tassel_v3_pony:0.66>
 metalSuit, necklace, high heels, helmet, <[eznude][futanari]> <lora:MetalSuitPonyV2:0.5>
 skinbodysuit, bodysuit, <[ezcovered][futanari]> <lora:skinbodysuit e3:1>
 ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nude, metal spine, <[ezcovered][futanari]> <lora:0469 Stellar Blade (Skin Suit)_v3_pony:0.66>
