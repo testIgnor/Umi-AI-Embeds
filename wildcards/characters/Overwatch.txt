@@ -1,5 +1,9 @@
 (d.va \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair
-(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Overwatch 1 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Overwatch 2 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Dr. Ziegler <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, 2019 Atlantic All-Stars <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Eidgenossin <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (mei \(overwatch\):1.3), overwatch, brown eyes, short hair, brown hair
 (tracer \(overwatch\):1.3), overwatch, brown eyes, brown hair, short hair, spiked hair, long hair
 (widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, purple skin, long hair, colored skin
@@ -9,37 +13,32 @@
 (brigitte \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair
 (snowball \(overwatch\):1.3), overwatch, brown eyes, short hair, brown hair
 (symmetra \(overwatch\):1.3), overwatch, dark-skinned female, brown eyes, brown hair, long hair, dark skin, black hair
-(witch mercy:1.3), overwatch, blonde hair, blue eyes
+(witch mercy:1.3), overwatch, blonde hair, blue eyes, Mercy_Overwatch, Witch <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (captain amari:1.3), overwatch, dark-skinned female, brown eyes, brown hair, long hair, dark skin, black hair
-(black cat d.va:1.3), overwatch, blonde hair, brown eyes, long hair
+(black cat d.va:1.3), overwatch, blonde hair, brown eyes, long hair, black_catdva, (d.va \(overwatch\):1.3), <lora:black cat dva:1>
 (ashe \(overwatch\):1.3), overwatch, red eyes, medium hair, short hair, white hair
-(combat medic ziegler:1.3), overwatch, blonde hair, medium hair, blue eyes, short hair
-(pink mercy:1.3), overwatch, blonde hair, blue eyes
+(pink mercy:1.3), overwatch, blonde hair, blue eyes, Mercy_Overwatch, Pink <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (devil mercy:1.3), overwatch, short hair, purple eyes, black hair
 (cote d'azur widowmaker:1.3), overwatch, yellow eyes, purple hair, purple skin, long hair, colored skin
 (ana \(overwatch\):1.3)
 (junebug d.va \(overwatch\):1.3), hana song
 (widowmaker \(overwatch\):1.3)
 (brigitte \(overwatch\):1.3)
-(imp mercy \(overwatch\):1.3), Angela Ziegler
+(imp mercy \(overwatch\):1.3), Angela Ziegler, Mercy_Overwatch, Imp <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (mei \(overwatch\):1.3), Mei-Ling Zhou
 (zenyatta \(overwatch\):1.3)
 (mei \(overwatch\):1.3)
 (cruiser d.va \(overwatch\):1.3), hana song
 (zarya \(overwatch\):1.3)
-(mercy \(overwatch\):1.3), Angela Ziegler
-(devil mercy:1.3)
 (emily \(overwatch\):1.3), red hair, freckles, medium hair, ginger, brown eyes
 (white rabbit d.va \(overwatch\):1.3), hana song
 (d.va \(overwatch\):1.3), hana song
-(academy d.va \(overwatch\):1.3), hana song
+(academy d.va \(overwatch\):1.3), hana song, Academy dva, Twinbraids <lora:last:1>
 (b.va:1.3), d.va \(overwatch\), hana song
 (synthwave tracer \(overwatch\):1.3), Lena Oxton
 (captain amari:1.3)
-(combat medic ziegler:1.3)
 (pharah \(overwatch\):1.3)
 (tracer \(overwatch\):1.3)
-(pink mercy \(overwatch\):1.3), Angela Ziegler
 (gifdoozer's black cat d.va \(overwatch\):1.3), hana song
 (ana \(overwatch\):1.3), ana \(young\) \(overwatch\), ana amari
 (kiriko \(overwatch\):1.3), Kiriko Kamori
@@ -51,33 +50,41 @@
 (varsity d.va \(overwatch\):1.3), hana song
 (waveracer d.va \(overwatch\):1.3), hana song
 (torbjorn \(overwatch\):1.3)
-(pink mercy:1.3)
 (operative oxton:1.3), tracer \(overwatch\), Lena Oxton
 (pharah \(overwatch\):1.3), Fareeha Amari
 (cadet oxton:1.3), tracer \(overwatch\), Lena Oxton
-(witch mercy:1.3)
-(police officer d.va \(overwatch\):1.3), hana song
+(police officer d.va \(overwatch\):1.3), hana song, (d.va \(overwatch\):1.3), officerdva <lora:Officerdva:1>
 (zarya \(overwatch\):1.3), Aleksandra Zaryanova
 (punk tracer \(overwatch\):1.3), Lena Oxton
 (schoolgirl d.va \(overwatch\):1.3), hana song
-(devil mercy \(overwatch\):1.3), Angela Ziegler
-(witch mercy \(overwatch\):1.3), Angela Ziegler
 (ashe \(overwatch\):1.3)
 (d.mon \(overwatch\):1.3), Yuna Lee, black hair, medium hair, korean, green eyes <lora:Dmon:1>
-(lifeguard mercy \(overwatch\):1.3), Angela Ziegler
+(lifeguard mercy \(overwatch\):1.3), Angela Ziegler, Mercy_Overwatch, Lifeguard <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (widowmaker \(overwatch\):1.3), Amélie Lacroix
 (graffiti tracer \(overwatch\):1.3), Lena Oxton
 (formalwear tracer \(overwatch\):1.3), Lena Oxton
-(sugar plum fairy mercy \(overwatch\):1.3), Angela Ziegler
+(sugar plum fairy mercy \(overwatch\):1.3), Angela Ziegler, Mercy_Overwatch, Sugar Plum Fairy <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (symmetra \(overwatch\):1.3)
-(mercy \(overwatch\):1.3)
 (kiriko \(overwatch\):1.3)
 (sombra \(overwatch\):1.3), Olivia Colomar
 (d.va \(overwatch\):1.3)
 (black cat d.va \(overwatch\):1.3), hana song
-(Combat Medic Ziegler:1.3), mercy \(overwatch\), Angela Ziegler
+(Combat Medic Ziegler:1.3), mercy \(overwatch\), Angela Ziegler, Mercy_Overwatch, <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (black cat d.va:1.3)
 (sprinter tracer \(overwatch\):1.3), Lena Oxton
-(winged victory mercy \(overwatch\):1.3), Angela Ziegler
-(juno \(overwatch\):1.3), purple hair, brown eyes, short hair
-(sojourn \(overwatch\):1.3)
+(winged victory mercy \(overwatch\):1.3), Angela Ziegler, Mercy_Overwatch, Winged Victory <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(juno \(overwatch\):1.3), short hair, gloves, pink hair, purple hair, brown eyes, blunt bangs, junoSDXL <lora:juno:1>
+(sojourn \(overwatch\):1.3), sojournSDXL, blue eyes, facial mark, white hair, dark skin, dark-skinned female, science fiction, joints, cyborg, robot joints, very dark skin, dreadlocks, mechanical legs <lora:sojourn:1>
+(alejandra \(overwatch\):1.3), ale, brown hair, dark skin, dark-skinned female, twin braids <lora:AlejandraPony1.1:1>
+(d.va \(overwatch\):1.3), hana song, d.va heist <lora:D.Va Heist:1>
+(d.va \(overwatch\):1.3), hana song, D.Va <lora:D.Va:1>
+(d.va \(overwatch\):1.3), hana song, dva porsche <lora:Dva porsche:1>
+(brigitte \(overwatch\):1.3), le sserafim brigitte, overwatch brigitte, red hair, high ponytail, braided bangs, brown eyes <lora:Overwatch_-_Le_Sserafim_-_Brigitte:1>
+(d.va \(overwatch\):1.3), Le Sserafim D.va, Overwatch D.va, short purple hair, pink face paint <lora:Overwatch_-_Le_Sserafim_-_D.va:1>
+(kiriko \(overwatch\):1.3), Le Sserafim Kiriko, Overwatch Kiriko, Short Blue Hair <lora:Overwatch_-_Le_Sserafim_-_Kiriko:1>
+(sombra \(overwatch\):1.3), Le Sserafim Sombra, Overwatch Sombra, purple gradient hair <lora:Overwatch_-_Le_Sserafim_-_Sombra:1>
+(tracer \(overwatch\):1.3), le sserafim tracer, overwatch tracer, short hair, spiky hair, blonde hair <lora:Overwatch_-_Le_Sserafim_-_Tracer:1>
+(d.va \(overwatch\):1.3), shinryeongdva, transparent tail, hair over face <lora:Shin-ryeonng dva:1>
+(d.va \(overwatch\):1.3), sleighing dva, <lora:Sleighing dva:1>
+(d.va \(overwatch\):1.3), allstarsdva, <lora:Allstarsdva2:1>
+(d.va \(overwatch\):1.3), waveracer, <lora:Waveracer:1>
