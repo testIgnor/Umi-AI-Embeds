@@ -6,3 +6,4 @@
 (sheva alomar:1.3), resident evil, dark-skinned female, brown eyes, brown hair, short hair, dark skin
 (nemesis \(resident evil\):1.3), resident evil, blue eyes, short hair, brown hair
 (sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair
+(sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair <lora:SherryBirkin:1>
