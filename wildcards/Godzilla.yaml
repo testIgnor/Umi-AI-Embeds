@@ -12,6 +12,19 @@
     - Characters
     - Mechagodzilla
 
+'source_furry, (godzilla:1.5) <[GodzillaCharacter]>, godzilla dark-skinned female, coloured skin, yellow eyes, long hair, two-tone hair, tail, large tail, long tail, very long tail, yellow eyes, black hair, personification, scale on body, glowing <lora:Godzilla_Personified:1>**(wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
+  Description:
+    - Godzilla Characters
+  Tags:
+    - Characters
+    - Godzilla
+'source_furry, (mechagodzilla:1.4) <[GodzillaCharacter]>, Kiryu, robot, dragon, (no humans:2.0) <lora:Kiryu_v20:1>**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
+  Description:
+    - Godzilla Characters
+  Tags:
+    - Characters
+    - Mechagodzilla
+
 # character particles
 'as a <[ezage][female]>, (genderswap:1.6), (female:1.1), (scalie:1.3), (kaiju, monster:1.6), tail':
   Description:
