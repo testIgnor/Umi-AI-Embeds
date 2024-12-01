@@ -63,7 +63,7 @@
 (devil mercy \(overwatch\):1.3), Angela Ziegler
 (witch mercy \(overwatch\):1.3), Angela Ziegler
 (ashe \(overwatch\):1.3)
-(d.mon \(overwatch\):1.3), Yuna Lee, black hair, medium hair, korean, green eyes
+(d.mon \(overwatch\):1.3), Yuna Lee, black hair, medium hair, korean, green eyes <lora:Dmon:1>
 (lifeguard mercy \(overwatch\):1.3), Angela Ziegler
 (widowmaker \(overwatch\):1.3), Amélie Lacroix
 (graffiti tracer \(overwatch\):1.3), Lena Oxton
