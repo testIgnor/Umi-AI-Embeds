@@ -148,6 +148,12 @@
   Tags:
     - VariantPreset
     - 1girl
+'<[1girlbase]>, as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaur_Girl:0.66>':
+  Description:
+    - Centaurs
+  Tags:
+    - VariantPreset
+    - 1girl
 
 '{10%<[PositionPreset]>||5%<[OutfitPreset]>||5%<[VariantPreset]>||<[GeneralPreset]>}':
   Description:
