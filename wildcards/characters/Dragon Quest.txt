@@ -1,6 +1,7 @@
+# todo: get more loras
 (slime \(dragon quest\):1.3), dragon quest, blonde hair, long hair, blue eyes
 (bianca \(dq5\):1.3), dragon quest, blonde hair, blue eyes, long hair
-(manya \(dq4\):1.3), dragon quest, dark-skinned female, purple hair, long hair, dark skin, purple eyes
+(manya \(dq4\):1.3), dragon quest, dark-skinned female, purple hair, long hair, dark skin, purple eyes, maya <lora:Maya_Manya_Dragon_Quest_PONY:1>
 (princess of moonbrook:1.3), dragon quest, blonde hair, long hair, purple hair, curly hair
 (jessica albert:1.3), dragon quest, orange hair, long hair, brown eyes, brown hair
 (sage \(dq3\):1.3), dragon quest, long hair, blue hair, blue eyes, red eyes
