@@ -29,3 +29,4 @@
 (lamia:1.3), snake girl
 (chimera:1.3)
 (moth:1.3), monster girl, wings, arthropod girl, extra eyes, black sclera, antennae <lora:mothXLP:1>
+(succubat:1.3), dragon quest, harpy, monster girl, yellow eyes, Black Sclera, claws, fang, fur trim, bat wings, bat ears, tail, colored skin, bat girl, purple skin <lora:Succubat_XL:1>

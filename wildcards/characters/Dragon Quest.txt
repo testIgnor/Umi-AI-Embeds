@@ -1,35 +1,46 @@
-# todo: get more loras
 (slime \(dragon quest\):1.3), dragon quest, blonde hair, long hair, blue eyes
-(bianca \(dq5\):1.3), dragon quest, blonde hair, blue eyes, long hair
+(bianca \(dq5\):1.3), dragon quest, blonde hair, blue eyes, long hair, dqBianca, single braid, hair over shoulder <lora:dqbianca-pdxl-nvwls-v1:1>
 (manya \(dq4\):1.3), dragon quest, dark-skinned female, purple hair, long hair, dark skin, purple eyes, maya <lora:Maya_Manya_Dragon_Quest_PONY:1>
-(princess of moonbrook:1.3), dragon quest, blonde hair, long hair, purple hair, curly hair
-(jessica albert:1.3), dragon quest, orange hair, long hair, brown eyes, brown hair
-(sage \(dq3\):1.3), dragon quest, long hair, blue hair, blue eyes, red eyes
-(alena \(dq4\):1.3), dragon quest, orange hair, long hair, curly hair, red eyes
-(soldier \(dq3\):1.3), dragon quest, long hair, purple hair, blue eyes
-(priest \(dq3\):1.3), dragon quest, long hair, blue hair, aqua hair, red eyes
+(princess of moonbrook:1.3), dragon quest, purple eyes, purple hair, long hair <lora:princess-of-moon-brook-ponyxl-lora-nochekaiser:1>
+(jessica albert:1.3), dragon quest, orange hair, red eyes, twintails <lora:jessica-albert-ponyxl-lora-nochekaiser:1>
+(sage \(dq3\):1.3), dragon quest, long hair, blue hair, red eyes, dq3sage, <lora:dq3sage-pdxl-nvwls-v1:1>
+(alena \(dq4\):1.3), dragon quest, orange hair, long hair, curly hair, brown eyes, otenbahimealena <lora:alenablacktalepony:1>
+(soldier \(dq3\):1.3), dragon quest, long hair, purple hair, blue eyes, soldier\(dq3\) <lora:soldier(dq3)_pony:1>
+(priest \(dq3\):1.3), dragon quest, long hair, blue hair, aqua hair, red eyes, pr1est <lora:Priest_dq3:1>
 (roto \(dq3\):1.3), dragon quest, brown hair, short hair, long hair, blue eyes, black hair
-(martina \(dq11\):1.3), dragon quest, purple hair, long hair, very long hair, purple eyes, black hair
+(martina \(dq11\):1.3), dragon quest, purple hair, long hair, very long hair, purple eyes, black hair, ponytail, martina <lora:dq-martina-ponyxl-lora-nochekaiser:1>
 (hero's daughter \(dq5\):1.3), dragon quest, blonde hair, long hair, blue eyes, short hair
 (prince of lorasia:1.3), dragon quest, curly hair, purple hair, short hair, spiked hair, blonde hair, long hair, blue eyes
-(veronica \(dq11\):1.3), dragon quest, blonde hair, long hair, blue eyes, purple eyes
-(senya \(dq11\):1.3), dragon quest, purple eyes, blonde hair, blue eyes, long hair
-(maribel \(dq7\):1.3), dragon quest, curly hair, long hair, green eyes, blue eyes, red hair
+(veronica \(dq11\):1.3), dragon quest, blonde hair, long hair, blue eyes, purple eyes, veronica dq11 <lora:veronica dq11PonyXL:1>
+(senya \(dq11\):1.3), dragon quest, purple eyes, blonde hair, blue eyes, long hair, senya dq11 <lora:senya dq11PonyXL:1>
+(maribel \(dq7\):1.3), dragon quest, curly hair, long hair, green eyes, blue eyes, red hair, maribel dq7 <lora:maribel dq7PonyXL:1>
 (prince of samantoria:1.3), dragon quest, curly hair, purple hair, short hair, spiked hair, blonde hair, long hair, blue eyes
-(flora \(dq5\):1.3), dragon quest, blonde hair, long hair, blue hair, blue eyes
-(heroine \(dq4\):1.3), dragon quest, curly hair, green hair, short hair, long hair, blue eyes
-(barbara \(dq6\):1.3), dragon quest, orange hair, long hair, blonde hair, purple eyes, red hair
-(heroine \(dq3\):1.3), dragon quest, brown hair, short hair, long hair, blue eyes, black hair
-(fighter \(dq3\):1.3), dragon quest, long hair, short hair, black hair
-(maam:1.3), dragon quest, pink hair, brown eyes, long hair, short hair
-(mireyu:1.3), dragon quest, blonde hair, green eyes, low-tied long hair, long hair
+(flora \(dq5\):1.3), dragon quest, long hair, blue hair, blue eyes, nera, <lora:nera-pdxl-nvwls-v1:1>
+(heroine \(dq4\):1.3), dragon quest, curly hair, green hair, short hair, blue eyes, dq4sofia <lora:dq4sofia-pdxl-nvwls-v1:1>
+(barbara \(dq6\):1.3), dragon quest, orange hair, long hair, purple eyes, dqbbra <lora:dqBarbara_XL-Pony_LoRA-C3Lier_16-16-8-8_AdamW_Un3e-4_Te1.5e-4_10batch:1>
+(heroine \(dq3\):1.3), dragon quest, short hair, long hair, blue eyes, black hair, spiky hair, dq3heroine <lora:dq3heroine-pdxl-nvwls-v1:1>
+(fighter \(dq3\):1.3), dragon quest, short hair, black hair, twintails, dq3fighter <lora:dq3fighter-pdxl-nvwls-v1:1>
+(maam:1.3), dragon quest, pink hair, orange eyes, short hair, priMaam <lora:dqmaam-pdxl-nvwls-v1:1>
+(mireyu:1.3), dragon quest, blonde hair, green eyes, low-tied long hair, long hair <lora:dq6_mireyu_ponyXL:1>
 (hero \(dq8\):1.3), dragon quest, brown eyes, brown hair, short hair, long hair, blue eyes, black hair
-(deborah \(dq5\):1.3), dragon quest, long hair, blue eyes, black hair
+(deborah \(dq5\):1.3), dragon quest, long hair, blue eyes, black hair, dqdebora <lora:debora-pdxl-nvwls-v1:1>
 (healslime:1.3), dragon quest, long hair, blue eyes, short hair
-(mage \(dq3\):1.3), dragon quest, long hair, short hair, red hair
-(tabitha \(dq5\):1.3), dragon quest, blonde hair, long hair, blue eyes, short hair
-(daisy \(dq\):1.3), dragon quest, long hair, brown eyes, brown hair
+(mage \(dq3\):1.3), dragon quest, orange hair, short hair, dq3mage <lora:dq3mage-pdxl-nvwls-v1:1>
+(tabitha \(dq5\):1.3), dragon quest, blonde hair, blue eyes, short hair, ctiantabitha <lora:Tabitha_pony_ct_:1>
+(daisy \(dq\):1.3), dragon quest, long hair, brown eyes, brown hair, dqdaisy <lora:dq_daisy_ponyXL:1>
 (ogre \(dq10\):1.3), dragon quest, red skin, red eyes, long hair, colored skin, white hair
-(jester \(dq3\):1.3), dragon quest, blonde hair, long hair, blue eyes
+(jester \(dq3\):1.3), dragon quest, blonde hair, long hair, blue eyes, curly hair, dq3Jester <lora:dq3jester-pdxl-nvwls-v1:1>
 (merchant \(dq3\):1.3), dragon quest, pink hair, long hair, short hair, blue eyes
 (elf \(dq10\):1.3), dragon quest, pink hair, short hair, long hair, colored skin, blue eyes
+(anlucia \(dq10\):1.3), dragon quest, long hair, blonde hair, blue eyes, forehead, mole, mole under mouth, <lora:Anlucia_DQX:1>
+(desdemona \(dq12\):1.3), dragon quest, Desdemonaxl, <lora:Desdemonaxl:0.66>
+(princess laura:1.3), dragon quest, green eyes, long hair, orange hair, dqLaura, <lora:dqlaura-pdxl-nvwls-v1:1>
+(setia:1.3), dragon quest, dqSetia, blonde hair, curly hair <lora:dqsetia-pdxl-nvwls-v1:1>
+(emma \(dq11\):1.3), dragon quest, straight hair, long hair, blonde hair, blue eyes <lora:Emma_from_Dragon_Quest_XI_Pony:1>
+(krystalinda:1.3), dragon quest, long hair, purple skin female, blonde hair female, purple skin, blonde hair <lora:Krystalinda_lizlette_Dragon_Quest:1>
+(merle:1.3), dragon quest, mrl <lora:Merle - Dragon Quest Dai - mrl - pony - damocles_aaa:1>
+(minea \(dq4\):1.3), dragon quest, purple hair, dark-skinned female, long hair, purple eyes, dark skin dqMinea, dark skin <lora:mineamanya-pdxl-nvwls-v1:1>
+(ogre \(dq10\):1.3), dragon quest, pointy ears, red eyes, pink hair, tail, long hair, red skin, colored skin, Ogrexl <lora:Ogre:1>
+(senica \(dq11\):1.3), dragon quest, purple hair, ponytail, long hair, purple eyes, serenica, puple hair, high ponytail <lora:Serenica:1>
+(red \(dq8\):1.3), dragon quest, brown hair, blue eyes, long hair, spiked hair, ponytail, red_dq8, black hair <lora:Red_DQ_8:1>
+(teresia:1.3), dragon quest, purple hair, pink eyes, long hair, pink hair, ponytail, Teresaxl <lora:teresaxl:1>
