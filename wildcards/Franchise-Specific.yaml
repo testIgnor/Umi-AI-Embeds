@@ -2174,6 +2174,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Warframe]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warframe Character
+  Tags:
+    - 1girl
+    - Warframe
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Warframe]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warframe Character Futa
+  Tags:
+    - 1girl
+    - Warframe
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Warframe]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warframe Character Trap
+  Tags:
+    - 1boy
+    - Warframe
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][Warship Girls R]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Warship Girls R Character

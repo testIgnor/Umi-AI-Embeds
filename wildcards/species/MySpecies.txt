@@ -67,3 +67,5 @@
 (gatomon:1.3), digimon anthro
 (dragon:1.3), dragon anthro, scalie
 (deathclaw:1.3), fallout \(series\), scalie
+(kavat \(warframe\):1.3), <lora:Kavat_Warframe:1>
+(kubrow \(warframe\):1.3), <lora:Kubrow_Warframe:1>
