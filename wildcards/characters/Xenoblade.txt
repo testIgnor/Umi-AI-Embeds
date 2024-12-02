@@ -1,25 +1,25 @@
 (pyra \(xenoblade\):1.3), xenoblade chronicles \(series\), red eyes, short hair, blonde hair, long hair, red hair
 (mythra \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, red eyes, short hair, blonde hair, long hair, very long hair, red hair
-(nia \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, short hair, grey hair, long hair, very long hair**mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(mio \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, long hair, short hair, yellow eyes**nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(nia \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, short hair, grey hair**mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(mio \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, long hair, short hair, yellow eyes, cat ears, MioXC3 <lora:MioXenoblade3:1>**nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 (nia \(blade\) \(xenoblade\):1.3), xenoblade chronicles \(series\), very long hair, long hair, grey hair, yellow eyes**mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(eunie \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, medium hair, blue eyes, brown hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(eunie \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, medium hair, blue eyes, brown hair, EunieXC3, head wings <lora:EunieXenoblade3:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 (pyra \(pro swimmer\) \(xenoblade\):1.3), xenoblade chronicles \(series\), red eyes, short hair, red hair
-(melia antiqua:1.3), xenoblade chronicles \(series\), grey hair, long hair, blue eyes, curly hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(melia antiqua:1.3), xenoblade chronicles \(series\), grey hair, long hair, blue eyes, curly hair, crown braid, head wings, hair between eyes <lora:melia_autismConfetti_v01:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(melia antiqua:1.3), xenoblade chronicles \(series\), grey hair, long hair, blue eyes, head wings, hair between eyes, melia antiqua xb3 <lora:XB3 Melia Antiqua ponyXL v1:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 (pneuma \(xenoblade\):1.3), xenoblade chronicles \(series\), very long hair, long hair, green eyes, green hair
 (mythra \(massive melee\) \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, red eyes, short hair, blonde hair, long hair, very long hair, red hair
-(morag ladair \(xenoblade\):1.3), xenoblade chronicles \(series\), brown eyes, short hair, closed eyes, long hair, black hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(poppi \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, purple hair, short hair, orange eyes, long hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(morag ladair \(xenoblade\):1.3), xenoblade chronicles \(series\), brown eyes, short hair, closed eyes, long hair, black hair, morag_xb2 <lora:XB2 brighid and morag ponyXL v2:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(poppi \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, purple hair, short hair, orange eyes, robot joints <lora:poppi_alpha_xenoblade_2:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 (mythra \(radiant beach\) \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, red eyes, short hair, blonde hair, long hair, very long hair, red hair
 (fiora \(xenoblade\):1.3), xenoblade chronicles \(series\), short hair, blonde hair, green eyes, long hair, blue eyes**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(sena \(xenoblade\):1.3), xenoblade chronicles \(series\), fiery hair, brown eyes, multicolored hair, blue hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(glimmer \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, red hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(poppi qtpi \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, purple hair, orange eyes, long hair, blue hair, very long hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(ethel \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, long hair, blue eyes, very long hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(dromarch \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, short hair, closed eyes, grey hair, long hair, red hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(a \(xenoblade\):1.3), xenoblade chronicles \(series\), messy hair, grey hair, long hair, hair between eyes, blue eyes, very long hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(elma \(xenoblade x\):1.3), xenoblade chronicles \(series\), dark-skinned female, long hair, blue eyes, white hair, dark skin**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
-(na'el \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, messy hair, short hair, yellow eyes**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(sena \(xenoblade\):1.3), xenoblade chronicles \(series\), fiery hair, brown eyes, multicolored hair, blue hair, xenoblade3sena, chest jewel, side ponytail <lora:xenoblade3_sena_ponyXL:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(glimmer \(xenoblade\):1.3), xenoblade chronicles \(series\), glimmer, ponytail, long hair, chest jewel, brown hair, brown eyes <lora:glimmer xl 053:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(poppi qtpi \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, purple hair, orange eyes, long hair, blue hair, very long hair, robot joints <lora:Poppi QTPI (Autism SDXL):1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(ethel \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, long hair, blue eyes, very long hair, EthelXC3 <lora:Ethel XL V1:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(a \(xenoblade\):1.3), xenoblade chronicles \(series\), messy hair, grey hair, long hair, hair between eyes, blue eyes, very long hair, A_xb3 <lora:XB3 A ponyXL v3:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(elma \(xenoblade x\):1.3), xenoblade chronicles \(series\), dark-skinned female, long hair, blue eyes, white hair, dark skin, Elma <lora:elma_pony_v2:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(na'el \(xenoblade\):1.3), xenoblade chronicles \(series\), grey hair, messy hair, short hair, yellow eyes, chest jewel, na'el <lora:nael xl 086:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 (kos-mos re::1.3), xenoblade chronicles \(series\), very long hair, long hair, blue hair, red eyes**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 (mecha-fiora:1.3), xenoblade chronicles \(series\), blonde hair, green eyes, short hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 (morag ladair \(obligatory leave\) \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, brown eyes, hair between eyes, black hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
@@ -27,3 +27,44 @@
 (poppi qt \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, purple hair, short hair, orange eyes**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 (finch \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, green hair, blue eyes, feather hair**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
 (pneuma \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, high ponytail, green hair, very long hair, green eyes
+(Fiona \(xenoblade\):1.3), xenoblade chronicles \(series\), bangs, brown eyes, eyebrows visible through hair, purple hair, (red horns:1.2), oni horns, hair bun <lora:Fiona_xenoblade_3:1>
+(nia \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, grey hair, long hair, very long hair, nia, face marks, fox ears, nia jewel <lora:nia xl 062:1>**mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(nia \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, short hair, grey hair, nia, face marks <lora:XB2 Nia and Dromarch ponyXL v1:1>**mio \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(poppi qt \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, purple hair, orange eyes, long hair, blue hair, twintails, robot joints, poppi_qt_(xb) <lora:poppi_qt_(xb)_PONY_v1:1>**mio \(xenoblade\), nia \(xenoblade\), mythra \(xenoblade\), pyra \(xenoblade\)**
+(tyrea \(xenoblade\):1.3), xenoblade chronicles \(series\), white hair, long hair, grey hair, blue eyes, tyrea_xb1 <lora:XB1 Tyrea ponyXL v2:1>
+(adenine \(xenoblade\):1.3), xenoblade chronicles \(series\), green hair, short hair, green eyes, adenine <lora:XB2 Adenine ponyXL v1.5:1>
+(agate \(xenoblade\):1.3), xenoblade chronicles \(series\), blue eyes, short hair, blonde hair, Agate <lora:XB2 Agate ponyXL v1:1>
+(azami \(xenoblade\):1.3), xenoblade chronicles \(series\), black hair, short hair, blue eyes, Azami <lora:XB2 Azami PonyXL v1.5:1>
+(brighid \(xenoblade\):1.3), xenoblade chronicles \(series\), fiery hair, purple hair, short hair, long hair, closed eyes brighid_xb2 <lora:XB2 brighid and morag ponyXL v2:1>
+(crossette \(xenoblade\):1.3), xenoblade chronicles \(series\), pointy ears, white hair, red eyes, multicolored hair, short hair, black hair, Crosstte <lora:XB2 Crossette ponyXL v2:1>
+(dahlia \(xenoblade\):1.3), xenoblade chronicles \(series\), blue hair, blue eyes, white hair, long hair, dahlia <lora:XB2 dahlia ponyXL v3:1>
+(electra \(xenoblade\):1.3), xenoblade chronicles \(series\), pointy ears, yellow eyes, short hair, blonde hair, Electra <lora:XB2 Electra PonyXL v1.5:1>
+(floren \(xenoblade\):1.3), xenoblade chronicles \(series\), green hair, blue hair, blue eyes, short hair, ahoge, pink eyes, Floren <lora:Floren ponyXL v1.5:1>
+(herald \(xenoblade\):1.3), xenoblade chronicles \(series\), blue hair, very long hair, blue eyes, long hair, blonde hair, heraid <lora:XB2 Heraid ponyXL v1:1>
+(kasandra \(xenoblade\):1.3), xenoblade chronicles \(series\), pointy ears, red eyes, long hair, black hair, Kasandra_xb2 <lora:XB2 Kasandra ponyXL v3.5:1>
+(kora \(xenoblade\):1.3), xenoblade chronicles \(series\), pointy ears, blue eyes, short hair, blonde hair, ahoge, Kora <lora:XB2 Kora ponyXL v2:1>
+(lila \(xenoblade\):1.3), xenoblade chronicles \(series\), brown hair, robot ears, red eyes, short hair, Lila, Giga Rose <lora:XB2 Lila ponyXL v1:1>
+(fan la norne \(xenoblade\):1.3), xenoblade chronicles \(series\), brown hair, yellow eyes, long hair, haze_xb2 <lora:XB2 Lora and Haze ponyXL v1:1>
+(lora \(xenoblade\):1.3), xenoblade chronicles \(series\), brown hair, yellow eyes, short hair, lora_xb2 <lora:XB2 Lora and Haze ponyXL v1:1>
+(newt \(xenoblade\):1.3), xenoblade chronicles \(series\), red eyes, short hair, colored skin, black hair, Newt <lora:XB2 newt ponyXL v2:1>
+(nim \(xenoblade\):1.3), xenoblade chronicles \(series\), orange eyes, short hair, gradient hair, green hair, blue hair, tail, nim_xb2 <lora:XB2 nim ponyXL v2:1>
+(pandoria \(xenoblade\):1.3), xenoblade chronicles \(series\), green hair, pointy ears, short hair, green eyes, panforia <lora:XB2 Pandoria and Zeke ponyXL v2:1>
+(patroka \(xenoblade\):1.3), xenoblade chronicles \(series\), blue eyes, long hair, black hair, patroka_xb2 <lora:XB2 Patroka ponyXL v2:1>
+(perun \(xenoblade\):1.3), xenoblade chronicles \(series\), ponytail, very long hair, blue eyes, white hair, long hair, dark-skinned female, dark skin, Perun <lora:XB2 Perun PonyXL v3.3:1> Perun
+(praxis \(xenoblade\):1.3), xenoblade chronicles \(series\), blue hair, blue eyes, short hair, Praxis_xb2 <lora:XB2 Praxis & Theory ponyXL v4:1>
+(theory \(xenoblade\):1.3), xenoblade chronicles \(series\), blue hair, blue eyes, short hair, Theory_xb2 <lora:XB2 Praxis & Theory ponyXL v4:1>
+(sheba \(xenoblade\):1.3), xenoblade chronicles \(series\), very long hair, blue eyes, twintails, long hair, blonde hair, sheba_xb2 <lora:XB2 Sheba ponyXL v3:1>
+(sheba \(xenoblade\):1.3), xenoblade chronicles \(series\), very long hair, blue eyes, twintails, long hair, blonde hair, sheba_xb2 <lora:XB2 Sheba ponyXL v3:1>
+(t-elos \(xenoblade\):1.3), xenoblade chronicles \(series\), very long hair, blue eyes, white hair, long hair, dark-skinned female, dark skin, t-elos_re: <lora:XB2 t-elos re ponyXL v1:1>
+(ursula \(xenoblade\):1.3), xenoblade chronicles \(series\), long hair, blue hair, blue eyes, ursula_xb2 <lora:Xb2 ursula ponyXL v1.5:1>
+(vale \(xenoblade\):1.3), xenoblade chronicles \(series\), blue hair, blue eyes, white hair, twintails, long hair, pale skin, Vale <lora:XB2 Vale ponyXL v3.1:1>
+(vess \(xenoblade\):1.3), xenoblade chronicles \(series\), very long hair, blue eyes, long hair, blonde hair, vess_xc2 <lora:Xb2 vess ponyXL v3.1:1>
+(zenobia \(xenoblade\):1.3), xenoblade chronicles \(series\), white hair, long hair, green eyes, dark-skinned female, dark skin, Zenobia <lora:XB2 Zenobia ponyXL v1:1>
+(alexandria \(xenoblade\):1.3), xenoblade chronicles \(series\), brown hair, green eyes, short hair, Alexandria <lora:XB3 Alexandria ponyXL v3:1>
+(ashera \(xenoblade\):1.3), xenoblade chronicles \(series\), red eyes, dark-skinned female, black hair, ponytail, dark skin, ashera xb3 <lora:Xb3 Ashera ponyXL v1:1>
+(ino \(xenoblade\):1.3), xenoblade chronicles \(series\), green hair, green eyes, short hair, ino xb3 <lora:Xb3 Ino ponyXL v1:1>
+(juniper \(xenoblade\):1.3), xenoblade chronicles \(series\), green hair, cat ears, short hair, green eyes, animal ears, juniper xb3 <lora:Xb3 juniper ponyXL v1:1>
+(masha \(xenoblade\):1.3), xenoblade chronicles \(series\), yellow eyes, blue hair, white hair, multicolored hair, gradient hair, long hair, masha <lora:XB3 Masha ponyXL v1:1>
+(miyabi \(xenoblade\):1.3), xenoblade chronicles \(series\), brown hair, short hair, green eyes, miyabi, <lora:Xb3 miyabi ponyXL v1:1>
+(segiri \(xenoblade\):1.3), xenoblade chronicles \(series\), red eyes, long hair, grey hair, braided ponytail, segiri <lora:XB3 segiri ponyXL v1.2:1>
+(dahlia \(xenoblade\):1.3), xenoblade chronicles \(series\), blue hair, blue eyes, white hair, long hair, colored skin, xc2dahlia, blue skin, long hair, rabbit ears <lora:xc2dahlia-pdxl-nvwls-v1:1>

@@ -1949,6 +1949,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Super Robot Wars]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Super Robot Wars Character
+  Tags:
+    - 1girl
+    - Super Robot Wars
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Super Robot Wars]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Super Robot Wars Character Futa
+  Tags:
+    - 1girl
+    - Super Robot Wars
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Super Robot Wars]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Super Robot Wars Character Trap
+  Tags:
+    - 1boy
+    - Super Robot Wars
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][Tales]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Tales Character

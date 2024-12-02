@@ -38,14 +38,21 @@
     - 1girl
     - 1girlBase
     - Futanari
-'<[CharacterPreset][Female]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, (nude:1.1), <[eznips]>, <[ezpussy]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Female]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, <[eznude][female]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Presenting
   Tags:
     - PositionPreset
     - RandomPresenting
     - 1girl
-'<[CharacterPreset][Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznips]>{, <[ezfutafap]>||}{, <[ezcumshot]>||}, exhibitionism, (nude:1.2)**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Female]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>{, (grabbing own breast:1.1)||}, exhibitionism, <[eznude][female]>,  birth, gbv, baby <lora:Giving birth vigorously_pony_V1:1>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
+  Description:
+    - Random Birth
+  Tags:
+    - PositionPreset
+    - RandomBirth
+    - 1girl
+'<[CharacterPreset][Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>{, <[ezfutafap]>||}{, <[ezcumshot]>||}, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Futanari Presenting
   Tags:
@@ -53,7 +60,7 @@
     - RandomFutanariPresenting
     - 1girl
     - Futanari
-'<[CharacterPreset][Futanari]>, (nude:1.4), <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>||}**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Futanari]>, <[eznude][futanari]>, <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>||}**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Futanari Fap
   Tags:
@@ -98,6 +105,12 @@
     - 1girl
     - Rave
     - Futanari
+'<[CharacterPreset][Female]>, <[imageformat]>, outdoors, (in an fantasy forest:1.2), (pinup, exhibitionism:1.1), <[eznude][--Futanari]>, Leucochloridium, Leucochloridium Breasts, Leucochloridium Antenna, Leucochloridium Eyes <lora:Leucochloridium:1>':
+  Description:
+    - Random Leucochloridium
+  Tags:
+    - OutfitPreset
+    - 1girl
 '<[CharacterPreset][Female]>, <[imageformat]>, outdoors, (in an elegant regal estate garden:1.2), (pinup, exhibitionism:1.1), <[ezWeddingDress][--Futanari]>':
   Description:
     - Random Wedding
