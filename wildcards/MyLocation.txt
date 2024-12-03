@@ -1,4 +1,4 @@
-outdoors, (tropical beach with the ocean in the background:1.2)**(hat, headwear, straw hat, umbrella, parasol:2.0)**
+outdoors, (tropical beach with the ocean in the background:1.2)**(beach ball:2.0)**
 outdoors, (on the street of a medieval fantasy town:1.4)
 (in a corporate office:1.2)
 (in an abandoned warehouse:1.3)
