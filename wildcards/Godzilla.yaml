@@ -11,6 +11,7 @@
   Tags:
     - Characters
     - Mechagodzilla
+    - MyMechagodzilla
 
 'source_furry, (godzilla:1.5) <[GodzillaCharacter]>, godzilla dark-skinned female, coloured skin, yellow eyes, long hair, two-tone hair, tail, large tail, long tail, very long tail, yellow eyes, black hair, personification, scale on body, glowing <lora:Godzilla_Personified:0.66>**(wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
   Description:
@@ -18,9 +19,17 @@
   Tags:
     - Characters
     - Godzilla
-'source_furry, (mechagodzilla:1.4) <[GodzillaCharacter]>, Kiryu, robot, dragon, (high heels:1.2), (digitigrade feet:1.1), (no humans:2.0) <lora:Kiryu_v20:0.7>**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
+'source_furry, (mechagodzilla:1.4) <[GodzillaCharacter]>, Kiryu, (robot:1.5), dragon, (high heels:1.5), (digitigrade feet:1.3), (no humans:2.0) <lora:Kiryu_v20:0.6>**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
   Description:
-    - Godzilla Characters
+    - Kiryu Character
+  Tags:
+    - Characters
+    - Mechagodzilla
+    - KiryuMechagodzilla
+
+'[<[characters][mymechagodzilla]> <lora:Kiryu_v20:0.0>|<[characters][KiryuMechagodzilla]>]':
+  Description:
+    - Mechagodzilla Mix
   Tags:
     - Characters
     - Mechagodzilla
@@ -32,7 +41,7 @@
   Tags:
     - Particle
     - GodzillaCharacter
-'(mecha godzilla:1.4) <[GodzillaCharacter]>, (mecha, robot, cyborg, robot joints:1.5), (silver metal skin:1.6), (high heels:1.2), (digitigrade feet:1.1), yellow eyes, glowing eyes, science fiction**(godzilla:0.5)**':
+'(mecha godzilla:1.4) <[GodzillaCharacter]>, (mecha, robot, cyborg, robot joints:1.7), (silver metal skin:1.6), (high heels:1.2), (digitigrade feet:1.1), yellow eyes, glowing eyes, science fiction**(godzilla:0.5)**':
   Description:
     - Mechagodzilla Character
   Tags:
@@ -92,7 +101,7 @@
     - FranchisePreset
     - Futanari
 
-'<[FranchisePreset][Mechagodzilla][Female]>{15%, <[ezpreg]>||}':
+'<[FranchisePreset][Mechagodzilla][Female]>{15%, <[ezpreg]>||}, <[eznude][--futanari]>, robot nipples, robot pussy':
   Description:
     - Random Female Characters
   Tags:
@@ -100,7 +109,7 @@
     - GodzillaPreset
     - 1girl
     - Female
-'<[FranchisePreset][Mechagodzilla][Futanari]>{15%, <[ezpreg]>||}':
+'<[FranchisePreset][Mechagodzilla][Futanari]>{15%, <[ezpreg]>||}, <[eznude][futanari]>, robot nipples':
   Description:
     - Random Female Characters
   Tags:
@@ -108,14 +117,14 @@
     - GodzillaPreset
     - 1girl
     - Futanari
-'<[FranchisePreset][Godzilla][Female]>{15%, <[ezpreg]>||}':
+'<[FranchisePreset][Godzilla][Female]>{15%, <[ezpreg]>||}, <[eznude][--futanari]>':
   Description:
     - Random Female Characters
   Tags:
     - GodzillaPreset
     - 1girl
     - Female
-'<[FranchisePreset][Godzilla][Futanari]>{15%, <[ezpreg]>||}':
+'<[FranchisePreset][Godzilla][Futanari]>{15%, <[ezpreg]>||}, <[eznude][futanari]>':
   Description:
     - Random Female Characters
   Tags:
