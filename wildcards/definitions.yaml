@@ -193,17 +193,32 @@
     - Clothing
 '(__clothing/maidFem__:1.1)':
   Description:
-    - Bodysuit Addon
+    - Maid Addon
   Tags:
     - Particle
     - ezMaid
     - Clothing
 '(__clothing/maidFuta__:1.1)':
   Description:
-    - Bodysuit Addon
+    - Maid Addon
   Tags:
     - Particle
     - ezMaid
+    - Futanari
+    - Clothing
+'(__clothing/raveFem__:1.1)':
+  Description:
+    - Rave Addon
+  Tags:
+    - Particle
+    - ezRave
+    - Clothing
+'(__clothing/raveFuta__:1.1)':
+  Description:
+    - Maid Addon
+  Tags:
+    - Particle
+    - ezRave
     - Futanari
     - Clothing
 '(__Artists/Web Artists__:1.3)':
