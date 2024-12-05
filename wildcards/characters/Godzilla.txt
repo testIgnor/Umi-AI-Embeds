@@ -1,2 +1,2 @@
-(mechagodzilla:1.5), <[MechagodzillaCharacter]>
+(mechagodzilla:1.5), <[MechagodzillaCharacter]> # this file is deprecated
 (godzilla:1.5), <[GodzillaCharacter]>

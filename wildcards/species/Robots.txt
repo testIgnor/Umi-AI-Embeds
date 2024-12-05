@@ -6,4 +6,3 @@
 (cyborg:1.3), giant mech girl, piloted mech, (cyborg, robot girl:1.1)
 (cyborg:1.3), giant mech girl, mass production eva, (cyborg, robot girl:1.1)
 (mecha musume:1.3), mechanical parts, mechabare, (cyborg, robot girl:1.1)
-(mechagodzilla:1.3), <[MechagodzillaCharacter]>
