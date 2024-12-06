@@ -1,8 +1,8 @@
 (2b \(nier:automata\):1.3), nier \(series\), covered eyes, short hair, white hair
-(pod \(nier:automata\):1.3), nier \(series\), covered eyes, short hair, white hair
-(a2 \(nier:automata\):1.3), nier \(series\), short hair, long hair, hair between eyes, blue eyes, white hair
+(pod \(nier:automata\):1.3), nier \(series\), covered eyes, short hair, white hair**(2b \(nier:automata\):2.0)**
+(a2 \(nier:automata\):1.3), nier \(series\), long hair, hair between eyes, blue eyes, white hair**(2b \(nier:automata\):2.0)**
 (kaine \(nier\):1.3), nier \(series\), grey hair, short hair, white hair
 (2p \(nier:automata\):1.3), nier \(series\), dark-skinned female, covered eyes, short hair, dark skin, black hair
-(commander \(nier:automata\):1.3), nier \(series\), blonde hair, blue eyes, long hair
-(yonah:1.3), nier \(series\), long hair, blue eyes, short hair, white hair
-(machine \(nier\):1.3), nier \(series\), covered eyes, short hair, white hair
+(commander \(nier:automata\):1.3), nier \(series\), blonde hair, blue eyes, long hair**(2b \(nier:automata\):2.0)**
+(yonah:1.3), nier \(series\), long hair, blue eyes, short hair, white hair**(2b \(nier:automata\):2.0)**
+(machine \(nier\):1.3), nier \(series\), covered eyes, short hair, white hair**(2b \(nier:automata\):2.0)**

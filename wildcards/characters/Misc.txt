@@ -33,6 +33,5 @@
 (minoto:1.3), monster hunter \(series\), yellow eyes, long hair, black hair
 (velma dinkley:1.3), scooby-doo
 (daphne blake:1.3), scooby-doo
-([<[Characters][--Species]>|<[Characters][--Species]>]:1.3)
 (sugar cookie girl:1.3), blonde hair, blue eyes <lora:SugarcookiegirlXLP:1>
 (lady liberty:1.3), StatueOfLiberty4, aqua eyes, no pupils, colored skin, tall female <lora:StatueOfLiberty:1>
