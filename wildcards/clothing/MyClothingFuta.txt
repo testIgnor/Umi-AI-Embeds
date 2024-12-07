@@ -79,3 +79,4 @@ ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nud
 bodypaint \(ero\), <[eznude][futanari]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][futanari]> <lora:Glowing_handprint:1>
 fakeclothes, painted clothes, bodypaint, <[ezcovered][--futanari]> <lora:Painted_clothes_Pony:1>
+ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][futanari]> <lora:0765 flower wedding_v1_pony:1>
