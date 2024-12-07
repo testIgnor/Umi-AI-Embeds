@@ -4,6 +4,8 @@
 (marie \(splatoon\):1.3)
 (shiver \(splatoon\):1.3)
 (frye \(splatoon\):1.3)
-(agent 3 \(splatoon\):1.3), inkling
+(agent 3 \(splatoon\):1.3), inkling**octoling**
 (agent 8 \(splatoon\):1.3), octoling
-(agent 4 \(splatoon\):1.3), inkling
+(agent 4 \(splatoon\):1.3), inkling**octoling**
+(inkling girl:1.3), inkling**octoling**
+(octoling girl:1.3), octoling

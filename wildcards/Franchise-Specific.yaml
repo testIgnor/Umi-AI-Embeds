@@ -999,6 +999,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Konosuba]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Konosuba Character
+  Tags:
+    - 1girl
+    - Konosuba
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Konosuba]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Konosuba Character Futa
+  Tags:
+    - 1girl
+    - Konosuba
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Konosuba]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Konosuba Character Trap
+  Tags:
+    - 1boy
+    - Konosuba
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][Last Origin]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Last Origin Character
