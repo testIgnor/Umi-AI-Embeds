@@ -16,7 +16,7 @@
 (wilykit:1.3), thundercats
 (gwen tennyson:1.3)
 (harvest goddess \(harvest moon\):1.3), goddess, holy, divinity
-(virgin mary:1.3), the virgin mary, goddess, holy, divinity
+(virgin mary:1.3), the virgin mary, goddess, holy, divinity, virgin_mary, wavy hair, long hair <lora:checkpoint-e25_s675:1>
 (amaterasu \(ookami\):1.3), ammy \(ookami\)
 (amaterasu \(ookami\):1.3), ammy \(ookami\), ammyokami <lora:Amaterasu_Okami_PonyXL_prototype:1>
 (ellie williams:1.3), the last of us, brown hair, short hair, ponytail, green eyes, freckles, lips <lora:EllieWilliams:0.66>
@@ -35,3 +35,7 @@
 (daphne blake:1.3), scooby-doo
 (sugar cookie girl:1.3), blonde hair, blue eyes <lora:SugarcookiegirlXLP:1>
 (lady liberty:1.3), StatueOfLiberty4, aqua eyes, no pupils, colored skin, tall female <lora:StatueOfLiberty:1>
+(Goddess of Forest:1.3), blonde hair, long hair, brown eyes, red lips <lora:Kai_Goddess of Forest:1>
+(Goddess of Moon:1.3), brown hair, long hair, green eyes, red lips <lora:Kai_Goddess of Moon:1>
+(Goddess of Youth:1.3), blonde hair, long hair, sidelock, blue eyes, red lips <lora:Kai_Goddess of Youth:1>
+(goddess:1.3), silver hair, long hair, purple eyes, red lips <lora:Kai_goddess:1>
