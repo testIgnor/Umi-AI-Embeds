@@ -2424,6 +2424,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Animals]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Animals Character
+  Tags:
+    - 1girl
+    - Animals
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Animals]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Animals Character Futa
+  Tags:
+    - 1girl
+    - Animals
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Animals]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Animals Character Trap
+  Tags:
+    - 1boy
+    - Animals
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][Demons]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Demons Character

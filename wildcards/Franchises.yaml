@@ -36,6 +36,13 @@
     - Characters
     - MySpecies
     - Species
+'source_furry, $#__Species/Animals__;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
+  Description:
+    - Random Species
+  Tags:
+    - Characters
+    - Animals
+    - Species
 'source_anime, __Species/Robots__':
   Description:
     - Random Types of Characters
