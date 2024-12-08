@@ -92,3 +92,7 @@ Parasite, <lora:LivingClothes:1> Living Clothes, Tentacle Clothes, <[ezcovered][
 virgin slayer sweater, thighhighs, detached sleeves, buttplug, <[ezcovered][--futanari]> <lora:Virgin_Slayer_SweaterV1:1>
 virgin terminator sweater, <[ezcovered][--futanari]>, pi-vrgn-trm-swtr, long sleeves, ribbed thighhighs, white sweater, ribbed sleeves, alternate costume, detached sleeves, side-tie panties <lora:VirginTerminatorSweater:1>
 bodypaint clothes, bodypaint, <[eznude][--futanari]> <lora:bodypaint clothes_pony_V1.0:1>
+leotard, athletic leotard, tight clothes, <[ezcovered][--futanari]>
+leotard, sheer leotard, tight clothes, <[ezcovered][--futanari]>
+leotard, breastless leotard, tight clothes, <[eztopless][--futanari]>
+leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][--futanari]>
