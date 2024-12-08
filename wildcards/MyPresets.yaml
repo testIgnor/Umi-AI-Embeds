@@ -3,14 +3,14 @@
     - Legacy Prompts
   Tags:
     - GeneralPreset
-'{90%<[FranchisePreset][Female]>||5%<[FranchisePreset][GodzillaFranchise][Female]>||5%<[FranchisePreset][Franxx][Female]>}{15%, <[ezpreg]>||}':
+'{90%<[FranchisePreset][Female]>||2%<[FranchisePreset][GodzillaFranchise][Female]>||2%<[FranchisePreset][Franxx][Female]>}{15%, <[ezpreg]>||}':
   Description:
     - Random Female Characters
   Tags:
     - CharacterPreset
     - 1girl
     - Female
-'{90%<[FranchisePreset][Futanari]>||5%<[FranchisePreset][GodzillaFranchise][Futanari]>||5%<[FranchisePreset][Franxx][Futanari]>}{15%, <[ezpreg]>||}':
+'{90%<[FranchisePreset][Futanari]>||2%<[FranchisePreset][GodzillaFranchise][Futanari]>||2%<[FranchisePreset][Franxx][Futanari]>}{15%, <[ezpreg]>||}':
   Description:
     - Random Futanari Characters
   Tags:
@@ -168,7 +168,7 @@
     - VariantPreset
     - 1girl
 
-'{10%<[PositionPreset]>||5%<[OutfitPreset]>||5%<[VariantPreset]>||<[GeneralPreset]>}':
+'{10%<[PositionPreset]>||10%<[OutfitPreset]>||10%<[VariantPreset]>||<[GeneralPreset]>}':
   Description:
   - Call This
   Tags:
