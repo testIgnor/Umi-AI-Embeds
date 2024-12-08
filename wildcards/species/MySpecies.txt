@@ -67,5 +67,8 @@
 (gatomon:1.3), digimon anthro
 (dragon:1.3), dragon anthro, scalie
 (deathclaw:1.3), fallout \(series\), scalie
+(deathclaw:1.3), fallout \(series\), scalie, <lora:DeathclawPonyXL:1> ClawXL, scalie, reptile, monster girl, horns, claws, tail, Deathclaw
 (kavat \(warframe\):1.3), <lora:Kavat_Warframe:1>
 (kubrow \(warframe\):1.3), <lora:Kubrow_Warframe:1>
+(ender dragon:1.3), <lora:Ender Dragon PonyXL:1> scalie, dragon girl, white dragon horns, dragon wings, dragon tail, reptile girl, purple eyes, black skin, detailed scales, white spikes
+(wolbra:1.3), <lora:Wolbra_v2:0.6> Wolbra, wolf ears, snake hood, hybrid

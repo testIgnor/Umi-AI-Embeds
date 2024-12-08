@@ -80,7 +80,7 @@ bodypaint \(ero\), <[eznude][futanari]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][futanari]> <lora:Glowing_handprint:1>
 fakeclothes, painted clothes, bodypaint, <[ezcovered][futanari]> <lora:Painted_clothes_Pony:1>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][futanari]> <lora:0765 flower wedding_v1_pony:1>
-4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][futanari]>, <lora:4ng3ll1ngXLP:1>
+4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][futanari]>, <lora:4ng3ll1ngXLP:0.6>
 parasite, <lora:canalV3:1> {1-2$$fake vagina cl in mouth||fake vagina cl in anus}, cl, <[eznude][futanari]>
 parasite, <lora:dicksucking_creature:1> dicksucking_creature, creature on penis, tentaclejob, {<[eztopless][futanari]>||<[eznude][futanari]>}
 Parasite, <lora:LivingClothes:1> Living Clothes, Tentacle Clothes, <[ezcovered][futanari]>

@@ -105,7 +105,7 @@
     - 1girl
     - Rave
     - Futanari
-'<[CharacterPreset][Female]>, <[imageformat]>, outdoors, (in an fantasy forest:1.2), (pinup, exhibitionism:1.1), <[eznude][--Futanari]>, parasite, Leucochloridium, Leucochloridium Breasts, Leucochloridium Antenna, Leucochloridium Eyes <lora:Leucochloridium:1>':
+'<[CharacterPreset][Female]>, <[imageformat]>, outdoors, (in an fantasy forest:1.2), (pinup, exhibitionism:1.1), <[eznude][--Futanari]>, (parasite, Leucochloridium, Leucochloridium Breasts, Leucochloridium Antenna, Leucochloridium Eyes:1.3) <lora:Leucochloridium:1>':
   Description:
     - Random Leucochloridium
   Tags:
@@ -162,6 +162,24 @@
     - VariantPreset
     - 1girl
 '<[1girlbase][--futanari]>, as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaur_Girl:0.66>':
+  Description:
+    - Centaurs
+  Tags:
+    - VariantPreset
+    - 1girl
+'<[1girlbase][--futanari]>, as a wolf taur, as a canine taur, <lora:canine_taur_PDXL:0.66> taur, canine taur, wolf taur':
+  Description:
+    - Centaurs
+  Tags:
+    - VariantPreset
+    - 1girl
+'<[1girlbase][--futanari]>, as a dragon taur, <lora:humandragon_taur:0.66> dragonhumantaur':
+  Description:
+    - Centaurs
+  Tags:
+    - VariantPreset
+    - 1girl
+'<[1girlbase][--futanari]>, as a spider taur, <lora:SpiderTaur-PONY-PAseer:0.66> spider taur':
   Description:
     - Centaurs
   Tags:
