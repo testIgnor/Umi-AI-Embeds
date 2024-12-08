@@ -1624,6 +1624,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Puyopuyo]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Puyopuyo Character
+  Tags:
+    - 1girl
+    - Puyopuyo
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Puyopuyo]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Puyopuyo Character Futa
+  Tags:
+    - 1girl
+    - Puyopuyo
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Puyopuyo]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Puyopuyo Character Trap
+  Tags:
+    - 1boy
+    - Puyopuyo
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][Queens Blade]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Queens Blade Character

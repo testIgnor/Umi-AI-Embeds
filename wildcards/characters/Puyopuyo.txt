@@ -1,0 +1,16 @@
+(arle nadja:1.3), puyopuyo, yellow eyes, ponytail, short hair, brown hair, brown eyes
+(puyo \(puyopuyo\):1.3), puyopuyo, long hair, green eyes, short hair, blonde hair, blue eyes, brown hair
+(carbuncle \(puyopuyo\):1.3), puyopuyo, long hair, ponytail, short hair, blue eyes, brown hair, brown eyes
+(draco centauros:1.3), puyopuyo, yellow eyes, dragon tail, pointy ears, short hair, tail, green hair, green tail, brown eyes
+(witch \(puyopuyo\):1.3), puyopuyo, blue eyes, blonde hair, long hair, short hair
+(amitie \(puyopuyo\):1.3), puyopuyo, green eyes, short hair, red eyes, blonde hair, blue eyes, blue hair, brown hair
+(andou ringo:1.3), puyopuyo, twintails, long hair, green eyes, short hair, ahoge, drill hair, red hair, brown hair
+(feli \(puyopuyo\):1.3), puyopuyo, blue eyes, long hair, purple hair
+(lidelle \(puyopuyo\):1.3), puyopuyo, blue eyes, pointy ears, short hair, green hair
+(raffina \(puyopuyo\):1.3), puyopuyo, long hair, green eyes, short hair, pink hair, ahoge, blonde hair, blue eyes, blue hair
+(harpy \(puyopuyo\):1.3), puyopuyo, blue eyes, short hair, green eyes, pink hair
+(serilly \(puyopuyo\):1.3), puyopuyo, long hair, green eyes, very long hair, green hair, blue eyes, blue hair, brown hair
+(doppelganger arle:1.3), puyopuyo, ponytail, short hair, red eyes, brown hair, brown eyes
+(red amitie:1.3), puyopuyo, red eyes, blonde hair, green eyes, short hair
+(donguri gaeru:1.3), puyopuyo, long hair, green eyes, short hair, pink hair, blonde hair, blue eyes, blue hair, brown hair
+(white feli:1.3), puyopuyo, blue eyes, long hair, purple hair

@@ -657,7 +657,7 @@
     - Characters
     - Super Robot Wars
 
-'source_anime, __Characters/Warframe__':
+'source_anime, __Characters/Warframe__, (faceless:1.5)**face**':
   Description:
     - Warframe Characters
   Tags:
@@ -670,3 +670,10 @@
   Tags:
     - Characters
     - Konosuba
+
+'source_anime, __Characters/Puyopuyo__':
+  Description:
+    - Puyopuyo Characters
+  Tags:
+    - Characters
+    - Puyopuyo
