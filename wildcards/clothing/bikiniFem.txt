@@ -7,3 +7,5 @@ micro bikini, <[ezcovered][--futanari]> <lora:micro bikini_pony_V1.0:1>
 fully clothed, skimpy clothes, bikini, <[ezcovered][--futanari]>
 fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovered][--futanari]>
 ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][--futanari]>, <lora:0588 fragmented swimsuit_v1_pony:1>
+4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][--futanari]>, <lora:4ng3ll1ngXLP:1>
+bodypaint clothes, bodypaint, <[eznude][--futanari]> <lora:bodypaint clothes_pony_V1.0:1>

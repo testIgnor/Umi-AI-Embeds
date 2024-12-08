@@ -30,3 +30,5 @@
 (chimera:1.3)
 (moth:1.3), monster girl, wings, arthropod girl, extra eyes, black sclera, antennae <lora:mothXLP:1>
 (succubat:1.3), dragon quest, harpy, monster girl, yellow eyes, Black Sclera, claws, fang, fur trim, bat wings, bat ears, tail, colored skin, bat girl, purple skin <lora:Succubat_XL:1>
+(angel \(smt\):1.3), shin megami tensei, angelSMT, long hair, angel wings <lora:AngelSMT-pdxl:1>
+(sin eater:1.3), final fantasy, sineater <lora:SinEater-Pony:1>

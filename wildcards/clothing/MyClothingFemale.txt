@@ -25,7 +25,7 @@ virgin destroyer sweater, <[ezcovered][--futanari]>, functionally nude, <lora:vi
 virgin destroyer sweater, sideboob, underboob, white panties, white thighhighs, <[ezcovered][--futanari]> <lora:attire_virgindestroyer_ponyXL:1>
 virgin destroyer sweater, detached sleeves, panties, thighhighs <[ezcovered][--futanari]> <lora:virgin_destroyer_sweater_v0.1-pony:1>
 tapeproject, black tape, covered nipples, <[ezcovered][--futanari]>, navel <lora:TapeProjectPDXL_byKonan:1>
-chastity belt, topless
+chastity belt, <[eztopless][--futanari]>
 functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][--futanari]>
 see-through, ballerina, black thighhighs, <[ezcovered][--futanari]>
 reverse bunnysuit, functionally nude, <[eznude][--futanari]>
@@ -53,7 +53,7 @@ open dress, <[eznude][--futanari]>
 fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][--futanari]>
 biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][--futanari]>**(helmet, headwear, hat:2.0)**
 functionally nude, <[eznude][--futanari]>
-topless, <[eznude][--futanari]>
+<[eztopless][--futanari]>
 sling bikini, slingshot swimsuit, <[ezcovered][--futanari]>
 slingshot swimsuit, <[ezcovered][--futanari]> <lora:slingshotPony_resize:1>
 reverse bunnysuit, heart pasties, <[ezcovered][--futanari]>, functionally nude
@@ -72,7 +72,7 @@ naked hoodie, <[eznude][--futanari]>
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][--futanari]>
 shibari over clothes, <[ezcovered][--futanari]>
 nippleless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
-monokini, topless, <[ezcovered][--futanari]>
+monokini, <[eztopless][--futanari]>
 cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbottomless][--futanari]>
 cupless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
 magical girl costume, <[ezbottomless][--futanari]>
@@ -86,3 +86,9 @@ ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][--futanari]>, <lora:0588 fra
 bodypaint \(ero\), <[eznude][--futanari]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][--futanari]> <lora:Glowing_handprint:1>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][futanari]> <lora:0765 flower wedding_v1_pony:1>
+4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][--futanari]>, <lora:4ng3ll1ngXLP:1>
+parasite, <lora:canalV3:1> {1-3$$fake vagina cl in vagina||fake vagina cl in mouth||fake vagina cl in anus}, cl, <[eznude][--futanari]>
+Parasite, <lora:LivingClothes:1> Living Clothes, Tentacle Clothes, <[ezcovered][--futanari]>
+virgin slayer sweater, thighhighs, detached sleeves, buttplug, <[ezcovered][--futanari]> <lora:Virgin_Slayer_SweaterV1:1>
+virgin terminator sweater, <[ezcovered][--futanari]>, pi-vrgn-trm-swtr, long sleeves, ribbed thighhighs, white sweater, ribbed sleeves, alternate costume, detached sleeves, side-tie panties <lora:VirginTerminatorSweater:1>
+bodypaint clothes, bodypaint, <[eznude][--futanari]> <lora:bodypaint clothes_pony_V1.0:1>

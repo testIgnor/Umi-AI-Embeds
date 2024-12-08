@@ -49,6 +49,19 @@
     - Particle
     - eznips
     - Inverted
+'<[eznips]>, (topless:1.2), <[covered][lower][--futanari]>':
+  Description:
+    - Topless
+  Tags:
+    - Particle
+    - ezTopless
+'<[eznips]>, (topless:1.2), <[covered][lower][futanari]>':
+  Description:
+    - Topless
+  Tags:
+    - Particle
+    - ezTopless
+    - Futanari
 'lactation, milky breasts, (pregnant:1.2)':
   Description:
     - Pregnant addon
@@ -87,13 +100,33 @@
     - Particle
     - ezcreampie
     - ezaftersex
-'(covered nipples, cameltoe:1.1){, covered navel||}':
+'(covered {erect ||}nipples:1.1){, covered navel||}':
+  Description:
+    - Covered Upper
+  Tags:
+    - Particle
+    - covered
+    - Upper
+'(cameltoe:1.1)':
+  Description:
+    - Covered Lower
+  Tags:
+    - Particle
+    - covered
+'(penis bulge, erection under clothes, erect penis under clothes:1.1)':
+  Description:
+    - Covered Lower
+  Tags:
+    - Particle
+    - covered
+    - Futanari
+'<[covered][lower][--futanari]>, <[covered][upper]>':
   Description:
     - Genitals under clothes
   Tags:
     - Particle
     - ezcovered
-'(covered nipples, penis bulge, erection under clothes, erect penis under clothes:1.1){, covered navel||}':
+'<[covered][lower][futanari]>, <[covered][upper]>':
   Description:
     - Genitals under clothes
   Tags:
