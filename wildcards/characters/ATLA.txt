@@ -1,8 +1,8 @@
-(toph bei fong:1.3), avatar: the last airbender
-(ty lee:1.3), avatar: the last airbender
-(azula:1.3), avatar: the last airbender
-(katara:1.3), avatar: the last airbender
-(suki:1.3), avatar: the last airbender
-(mai:1.3), avatar: the last airbender
-(korra:1.3), the legend of korra
-(asami sato:1.3), the legend of korra
+(toph bei fong:1.3), avatar: the last airbender, black hair, short hair, blind eyes
+(ty lee:1.3), avatar: the last airbender, brown hair, long hair, brown eyes, braided ponytail**(azula:1.5)**
+(azula:1.3), avatar: the last airbender, brown hair, short hair, brown eyes, high ponytail
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair
+(suki:1.3), avatar: the last airbender, short hair, brown hair, brown eyes, pale skin, white skin**(azula:1.5)**
+(mai:1.3), avatar: the last airbender, black hair, long hair, brown eyes, hair bun, double bun**(azula:1.5)**
+(korra:1.3), the legend of korra, blue eyes, dark skin, dark-skinned female, brown hair, {ponytail, long hair||short hair}
+(asami sato:1.3), the legend of korra, black hair, green eyes, long hair
