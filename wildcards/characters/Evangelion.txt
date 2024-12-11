@@ -8,3 +8,4 @@
 (penpen:1.3), neon genesis evangelion, orange hair, brown hair, red eyes, short hair, long hair, blue hair, blue eyes
 (tabris-xx:1.3), neon genesis evangelion, red eyes, short hair, grey hair, hair between eyes, white hair
 (lilith \(evangelion\):1.3), neon genesis evangelion, red eyes, blue hair, short hair
+(eva 01:1.3), neon genesis evangelion, <lora:eva001v2:1> mecha, no human, robot, eva01, machinery, science fiction, scifi

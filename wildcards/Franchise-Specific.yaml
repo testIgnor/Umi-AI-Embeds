@@ -2574,6 +2574,31 @@
     - FranchisePreset
     - Male
 
+'NSFW, 1girl, <[characters][Pokemon Creature]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Pokemon Creature Character
+  Tags:
+    - 1girl
+    - Pokemon Creature
+    - FranchisePreset
+    - Female
+'NSFW, 1futa, <[characters][Pokemon Creature]>, <[Artists][--3D]>, <[ezage][futanari]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Pokemon Creature Character Futa
+  Tags:
+    - 1girl
+    - Pokemon Creature
+    - FranchisePreset
+    - Futanari
+'NSFW, 1boy, <[characters][Pokemon Creature]>, <[Artists][--3D]>, <[ezage][male]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Pokemon Creature Character Trap
+  Tags:
+    - 1boy
+    - Pokemon Creature
+    - FranchisePreset
+    - Male
+
 'NSFW, 1girl, <[characters][Robots]>, <[Artists][--3D]>, <[ezage][female]>, <[Emotions][positive|neutral]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Robots Character

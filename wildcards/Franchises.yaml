@@ -36,6 +36,13 @@
     - Characters
     - MySpecies
     - Species
+'source_furry, $#__Species/Pokemon Creature__;theanimal#$, $#theanimal#$ anthro, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
+  Description:
+    - Random Species
+  Tags:
+    - Characters
+    - Pokemon Creature
+    - Species
 'source_furry, $#__Species/Animals__;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
