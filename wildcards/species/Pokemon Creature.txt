@@ -1,4 +1,5 @@
-(latias:1.3)
+(latias:1.3) <lora:POKEMON_LATIAS_LATIOS:1>
+(latios:1.3) <lora:POKEMON_LATIAS_LATIOS:1>
 (gardevoir:1.3)
 (glaceon:1.3)
 (leafeon:1.3)
@@ -21,23 +22,25 @@
 (mawile:1.3)
 (zoroark:1.3)
 (reshiram:1.3)
+(reshiram:1.3), <lora:Reshiram_PonyXL:1> ReshiXL
 (reshiram:1.3) <lora:Reshiram:1>
 (lucario:1.3)
 (lycanroc:1.3)
+(lycanroc:1.3), <lora:POKEMON_LYCANROC_MIDNIGHT:1> midnight_lycanroc
 (charizard:1.3)
 (arcanine:1.3)
-(lugia:1.3)
+(lugia:1.3) <lora:lugia:1>
 (absol:1.3)
 (salazzle:1.3)
-(mew \(pokemon\):1.3)
+(mew \(pokemon\):1.3), <lora:POKEMON_MEW:1> mew
 (vulpix:1.3)
 (luxray:1.3)
 (zeraora:1.3)
-(ninetales:1.3)
+(ninetales:1.3), <lora:NinetalesPokedexIXL:1> zzNinetails
 (buizel:1.3)
 (mienshao:1.3)
 (shaymin:1.3)
-(nidoqueen:1.3)
+(nidoqueen:1.3), <lora:Nidoqueen:1> pokemon creature, furry female, furry, horns, purple eyes, tail, blue skin, colored skin, claws
 (machoke:1.3)
 (mega lopunny:1.3)
 (mega gardevoir:1.3)
@@ -45,7 +48,7 @@
 (lapras:1.3)
 (zebstrika:1.3)
 (meloetta:1.3)
-(zekrom:1.3)
+(zekrom:1.3) <lora:Zekrom_Pokemon:1>
 (plusle:1.3)
 (minun:1.3)
 (wooloo:1.3)
@@ -53,6 +56,10 @@
 (mudsdale:1.3)
 (rapidash:1.3)
 (ponyta:1.3)
-(shadow lugia:1.3)
+(shadow lugia:1.3), <lora:Felnara_seii3s_Shadow_Lugia:1> felnara_seii3
 (froslass:1.3)
 (lapras:1.3)
+(palkia:1.3) <lora:POKEMON_PALKIA:1>
+(dialga:1.3), black sclera <lora:POKEMON_DIALGA:1>
+(garchomp:1.3), <lora:GarchompF:1> furry, furry female, pokemon creature, colored sclera, black sclera, yellow eyes, colored skin, tail, claws, shiny skin
+(mewtwo:1.3), <lora:Mewtwo:1> purple eyes, tail, pokemon creature
