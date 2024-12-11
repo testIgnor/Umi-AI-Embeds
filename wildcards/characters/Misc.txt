@@ -2,8 +2,9 @@
 (miao ying:1.3), {(scalie, anthro, personified:1.3), ||}MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes <lora:Miao_Ying:1>
 (lara croft:1.3)
 (yamamura sadako:1.3)
-(taylor swift:1.3)
-(billie eilish:1.3)
+(taylor swift:1.3), <lora:taySwiftPonyXL:0.6> taySwift
+(billie eilish:1.3), <lora:Billie_SexNote:0.6> billiesn, multicolored hair, black hair, green hair, twintails, green nails
+(belle delphine:1.3), <lora:Belle_SexNote:0.6> bellesn, pink hair, long hair, fake animal ears
 (lady gaga:1.3)
 (miley cyrus:1.3)
 (little red riding hood:1.3)
@@ -11,10 +12,11 @@
 (scarlett johansson:1.3)
 (jennifer aniston:1.3)
 (nicole aniston:1.3)
-(ana foxxx:1.3)
-(charlotte stokely:1.3)
+(ana foxxx:1.3), <lora:Ana_Foxxx:0.6> anafoxxx
+(charlotte stokely:1.3), <lora:Charlotte_Stokely:0.6> charlottestokely
 (katy perry:1.3)
-(wilykit:1.3), thundercats
+(wilykit:1.3), thundercats, <lora:10_wilykit_pdxl:0.6> w1lyk1t, black striped red hair, red eyes, slit pupils
+(wilykit:1.3), thundercats, <lora:Wilykit_thundercats_2011:0.6> multicolored hair, yellow eyes, tail
 (gwen tennyson:1.3)
 (harvest goddess \(harvest moon\):1.3), goddess, holy, divinity
 (virgin mary:1.3), the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, goddess, holy, divinity, virgin_mary, brown hair, wavy hair, long hair <lora:checkpoint-e25_s675:1>

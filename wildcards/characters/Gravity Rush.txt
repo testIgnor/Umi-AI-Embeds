@@ -1,2 +1,4 @@
-(kitten \(gravity daze\):1.3), gravity daze, blonde hair, dark-skinned female, dark skin, red eyes, long hair
-(crow \(gravity daze\):1.3), gravity daze, red hair, multicolored hair, long hair, two-tone hair, black hair, blue eyes**(crow, raven, bird, avian:2.0)**
+(kitten \(gravity daze\):1.3), gravity daze, blonde hair, dark-skinned female, dark skin, red eyes, long hair, grkatdef <lora:gravityrush_kat_ponyXL:1>
+(crow \(gravity daze\):1.3), gravity daze, red hair, multicolored hair, long hair, two-tone hair, black hair, blue eyes, <lora:gravityrush_raven_ponyXL:1> grraven, tattoo, hair over one eye**(crow, raven, bird, avian:2.0)**
+(kali angel:1.3), gravity daze, blonde hair, dark skin, dark-skinned female, long hair, blue eyes, <lora:KaliGR-pdxl:1> kaliGR, long hair, colored skin
+(durga angel:1.3), gravity daze, pink hair, medium hair, brown eyes, <lora:DurgaGR-pdxl:1> durgaGR, short hair
