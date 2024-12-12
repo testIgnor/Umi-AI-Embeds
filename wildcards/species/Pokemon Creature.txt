@@ -48,7 +48,7 @@
 (lapras:1.3)
 (zebstrika:1.3)
 (meloetta:1.3)
-(zekrom:1.3) <lora:Zekrom_Pokemon:1>
+(zekrom:1.3) <lora:Zekrom_Pokemon:0.66>
 (plusle:1.3)
 (minun:1.3)
 (wooloo:1.3)
