@@ -523,7 +523,7 @@
     - Particle
     - FellatioAddon
     - Receiver
-'$#(nala \(the lion king\):1.3), (lioness anthro, lioness:1.5);character1#$, <[ezage][middle]>, <[Emotions][positive|neutral]>, <[eznips]>, $#<[fellatioaddon][giver]>;negative1#$':
+'$#(nala \(the lion king\):1.3), (lioness anthro, lioness:1.5);character1#$, <[ezage][middle]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[eznips]>, $#<[fellatioaddon][giver]>;negative1#$':
   Description:
     - Nala Giving Fellatio
   Tags:
