@@ -1,12 +1,21 @@
-(maya fey:1.3), ace attorney, long hair, short hair, brown hair, black hair
-(franziska von karma:1.3), ace attorney, short hair, grey hair, blue hair, blue eyes, black hair
-(trucy wright:1.3), ace attorney, brown eyes, brown hair, short hair, long hair, blue eyes, antenna hair, black hair
-(athena cykes:1.3), ace attorney, orange hair, two-tone hair, brown hair, multicolored hair, short hair, long hair, hair between eyes, blue eyes, white hair, very long hair, black hair
-(mia fey:1.3), ace attorney, brown eyes, brown hair, short hair, long hair, black hair
-(susato mikotoba:1.3), ace attorney, brown hair, pink hair, short hair, black eyes, closed eyes, long hair, blonde hair, black hair
-(ema skye:1.3), ace attorney, long hair, blue eyes, short hair, brown hair
-(iris wilson:1.3), ace attorney, drill hair, pink hair, short hair, closed eyes, blonde hair, long hair, blue eyes, bow-shaped hair, black hair
-(kay faraday:1.3), ace attorney, brown hair, short hair, closed eyes, grey hair, long hair, green eyes, black hair
+(maya fey:1.3), ace attorney, black hair, blunt bangs, long hair, half updo, topknot, low-tied long hair
+(maya fey:1.3), ace attorney, black hair, blunt bangs, long hair, half updo, topknot, low-tied long hair <lora:Maya_FeyV3:1>
+(maya fey:1.3), ace attorney, black hair, blunt bangs, long hair, half updo, topknot, low-tied long hair <lora:aa_mayafey_ponyXL:1>
+(maya fey:1.3), ace attorney, black hair, blunt bangs, long hair, half updo, topknot, low-tied long hair, sojmaya <lora:aa_soj_mayafey_ponyXL:1>
+(pearl fey:1.3), ace attorney, brown hair, hair rings, short hair, brown eyes, pearlfeyyoung <lora:PearlFeyXL:1>
+(pearl fey:1.3), ace attorney, brown hair, hair rings, short hair, brown eyes, pearlfeyold <lora:PearlFeyXL:1>
+(pearl fey:1.3), ace attorney, brown hair, hair rings, short hair, brown eyes, ayasatoharumi <lora:AA-pearl_fey_XL(pony)v10:1>
+(pearl fey:1.3), ace attorney, brown hair, hair rings, short hair, brown eyes, Pearlfey <lora:Pearlfey:1>
+(franziska von karma:1.3), ace attorney, short hair, grey hair, blue hair, blue eyes
+(trucy wright:1.3), ace attorney, brown eyes, brown hair, short hair, blue eyes, antenna hair
+(athena cykes:1.3), ace attorney, orange hair, two-tone hair, brown hair, multicolored hair, long hair, hair between eyes, blue eyes very long hair
+(mia fey:1.3), ace attorney, brown eyes, brown hair, long hair
+(mia fey:1.3), maya fey, ace attorney, black hair, blue eyes, half updo, miafeyspiritdg <lora:Mia Fey Spirit PXL v01:1>
+(mia fey:1.3), ace attorney, brown eyes, brown hair, long hair, miafeyattorneydg <lora:Mia Fey Attorney PXL v01:1>
+(susato mikotoba:1.3), ace attorney, brown hair, pink hair, short hair, black eyes, long hair
+(ema skye:1.3), ace attorney, long hair, blue eyes, brown hair
+(iris wilson:1.3), ace attorney, drill hair, pink hair, short hair, blue eyes, bow-shaped hair
+(kay faraday:1.3), ace attorney, closed eyes, grey hair, long hair, green eyes, black hair
 (geiru toneido:1.3), ace attorney, pink hair, medium hair
-(maya fey:1.3), maya fey possessed by mia fey, ayasato mayoi, mia fey, ace attorney, half updo, black hair, long hair**(hair ornament:1.5)**
-(pearl fey:1.3), pearl fey possessed by mia fey, ayasato harumi, mia fey, ace attorney, short hair, brown hair, (hair rings:1.2)**(updo, half updo:1.5)**
+(maya fey:1.3), maya fey possessed by mia fey, ayasato mayoi, mia fey, ace attorney, black hair, blunt bangs, long hair, half updo, topknot, low-tied long hair**(hair ornament:1.5)**
+(pearl fey:1.3), pearl fey possessed by mia fey, ayasato harumi, mia fey, ace attorney, brown hair, hair rings, short hair, brown eyes**(updo, half updo:1.5)**
