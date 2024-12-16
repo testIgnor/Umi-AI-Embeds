@@ -1,0 +1,4 @@
+(Morathi:1.3), elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <lora:Morathi3216XL:1>
+(Morathi:1.3), elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <lora:Morathi:1>
+(miao ying:1.3), MiaoYingMortal, white eyes, glowing eyes, no eyes, white hair <lora:Miao_Ying:1>
+(miao ying:1.3), {(scalie, anthro, personified:1.3), ||}MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes <lora:Miao_Ying:1>
