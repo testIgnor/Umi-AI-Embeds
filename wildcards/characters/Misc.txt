@@ -3,16 +3,16 @@
 (taylor swift:1.3), <lora:taySwiftPonyXL:0.6> taySwift
 (billie eilish:1.3), <lora:Billie_SexNote:0.6> billiesn, multicolored hair, black hair, green hair, twintails, green nails
 (belle delphine:1.3), <lora:Belle_SexNote:0.6> bellesn, pink hair, long hair, fake animal ears
-(lady gaga:1.3)
-(miley cyrus:1.3)
+(lady gaga:1.3), gaga woman <lora:Lady-Gaga_token_gaga_woman_r64_model_EverClear_v1:0.5>
+(miley cyrus:1.3), cyrs woman <lora:Miley-Cyrus_token_cyrs_woman_r64_model_EverClear_v1:0.5>
 (little red riding hood:1.3)
-(jennifer lawrence:1.3)
-(scarlett johansson:1.3)
-(jennifer aniston:1.3)
-(nicole aniston:1.3)
+(jennifer lawrence:1.3), lawrence woman <lora:Jennifer-Lawrence_token_lawrence_woman_r64_model_EverClear_v1:0.5>
+(scarlett johansson:1.3), sclt woman <lora:Scarlett-Johanson_token_sclt_woman_r64_model_EverClear_v1:0.5>
+(jennifer aniston:1.3), anst woman <lora:Jennifer-Aniston_token_anst_woman_r64_model_EverClear_v1:0.5>
+(nicole aniston:1.3), nicoleAnistonQuiron woman <lora:NicoleAnistonQuiron:0.5>
 (ana foxxx:1.3), <lora:Ana_Foxxx:0.6> anafoxxx
 (charlotte stokely:1.3), <lora:Charlotte_Stokely:0.6> charlottestokely
-(katy perry:1.3)
+(katy perry:1.3), katp woman <lora:Katy-Perry_token_katp_woman_r64_model_EverClear_v1:0.5>
 (wilykit:1.3), thundercats, <lora:10_wilykit_pdxl:0.6> w1lyk1t, black striped red hair, red eyes, slit pupils
 (wilykit:1.3), thundercats, <lora:Wilykit_thundercats_2011:0.6> multicolored hair, yellow eyes, tail
 (gwen tennyson:1.3)
