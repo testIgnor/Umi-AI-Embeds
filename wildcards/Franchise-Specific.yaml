@@ -2249,6 +2249,31 @@
     - CharacterPreset
     - Male
 
+'NSFW, 1girl, <[characters][Warhammer]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warhammer Character
+  Tags:
+    - 1girl
+    - Warhammer
+    - CharacterPreset
+    - Female
+'NSFW, 1futa, <[characters][Warhammer]>, <[Artists][--3D]>, as a <[ezage][futanari]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warhammer Character Futa
+  Tags:
+    - 1girl
+    - Warhammer
+    - CharacterPreset
+    - Futanari
+'NSFW, 1boy, <[characters][Warhammer]>, <[Artists][--3D]>, as a <[ezage][male]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warhammer Character Trap
+  Tags:
+    - 1boy
+    - Warhammer
+    - CharacterPreset
+    - Male
+
 'NSFW, 1girl, <[characters][Warship Girls R]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Warship Girls R Character
