@@ -248,10 +248,3 @@
     - Blend Random Artist Names for LoRA
   Tags:
     - Artists
-'[<[Characters][--Species]>|<[Characters][--Species]>]':
-  Description:
-    - Characters Blend
-  Tags:
-    - Characters
-    - Misc
-    - Blend

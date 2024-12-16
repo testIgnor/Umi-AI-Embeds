@@ -149,6 +149,31 @@
     - CharacterPreset
     - Male
 
+'NSFW, 1girl, <[characters][Blend]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Blend Character
+  Tags:
+    - 1girl
+    - Blend
+    - CharacterPreset
+    - Female
+'NSFW, 1futa, <[characters][Blend]>, <[Artists][--3D]>, as a <[ezage][futanari]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Blend Character Futa
+  Tags:
+    - 1girl
+    - Blend
+    - CharacterPreset
+    - Futanari
+'NSFW, 1boy, <[characters][Blend]>, <[Artists][--3D]>, as a <[ezage][male]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Blend Character Trap
+  Tags:
+    - 1boy
+    - Blend
+    - CharacterPreset
+    - Male
+
 'NSFW, 1girl, <[characters][Blue Archive]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Blue Archive Character

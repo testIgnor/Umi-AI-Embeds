@@ -361,6 +361,12 @@
   Tags:
     - Characters
     - Misc
+'[<[Characters][--Species]>|<[Characters][--Species]>]':
+  Description:
+    - Characters Blend
+  Tags:
+    - Characters
+    - Blend
 'source_anime, __Characters/MonMusu__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - MonMusu Characters
