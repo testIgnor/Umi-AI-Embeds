@@ -3,27 +3,6 @@
     - Legacy Prompts
   Tags:
     - GeneralPreset
-'{90%<[FranchisePreset][Female]>||2%<[FranchisePreset][GodzillaFranchise][Female]>||2%<[FranchisePreset][Franxx][Female]>}{15%, <[ezpreg]>||}':
-  Description:
-    - Random Female Characters
-  Tags:
-    - CharacterPreset
-    - 1girl
-    - Female
-'{90%<[FranchisePreset][Futanari]>||2%<[FranchisePreset][GodzillaFranchise][Futanari]>||2%<[FranchisePreset][Franxx][Futanari]>}{15%, <[ezpreg]>||}':
-  Description:
-    - Random Futanari Characters
-  Tags:
-    - CharacterPreset
-    - 1girl
-    - Futanari
-'<[FranchisePreset][Male]>':
-  Description:
-    - Random Trap Characters
-  Tags:
-    - CharacterPreset
-    - 1boy
-    - Male
 '<[CharacterPreset][female]>, {66%<[Clothing][--futanari]>||<[eznude][--futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
@@ -46,7 +25,7 @@
     - PositionPreset
     - RandomPresenting
     - 1girl
-'<[CharacterPreset][Female]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>{, (grabbing own breast:1.1)||}, exhibitionism, <[eznude][female]>,  birth, gbv, baby <lora:Giving birth vigorously_pony_V1:0.66>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Female]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>{, (grabbing own breast:1.1)||}, exhibitionism, <[eznude][female]>, birth, gbv, baby <lora:Giving birth vigorously_pony_V1:0.66>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Birth
   Tags:
