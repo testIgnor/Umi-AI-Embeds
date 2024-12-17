@@ -1,5 +1,5 @@
 (aoi \(warframe\):1.3), warframe, Aoi, Aoi, freckles, hair ornament, white hair, multicolored hair, two-tone hair, tied hair, (blue eyes), Science Fiction, cyborg <lora:Aoi V2:1>
-(elanor \(warframe\):1.3), warframe, Eleanor, Eleanor, black hair, multicolored hair, two-tone hair, ponytail, grey hair, (high quality face:1.21), tied hair, (purple eyes:1.10), purple eyes, (high quality face:1.21) <lora:Eleanor:1>
+(eleanor \(warframe\):1.3), warframe, eleanor, eleanor, black hair, jewelry, multicolored hair, two-tone hair, piercing, ponytail, grey hair, earring, tied hair, purple eyes <lora:Eleanor :1>
 (oberon \(warframe\):1.3), warframe, Foberon, thin horns, leef ornaments, ornamented helmet, warframe, robot, faceless, eyeless, multicolored body, black body <lora:Feyarch_oberon:1>
 (ember \(warframe\):1.3), warframe, Hember, warframe, robot, fiery body, fiery hair, molten rock, multicolored body, black body, orange body, faceless, no mouth <lora:heirloom_Ember:1>
 (hildryn \(warframe\):1.3), warframe, HildrynWF, purple body, cyan body, abs <lora:HildrynWF_PDXL_v11:1>
