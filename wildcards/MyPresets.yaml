@@ -10,7 +10,8 @@
     - GeneralPreset
     - 1girl
     - 1girlBase
-'<[CharacterPreset][futanari|male]>, {66%<[Clothing][--female]>||<[eznude][futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+    - Female
+'<[CharacterPreset][futanari]>, {66%<[Clothing][--female]>||<[eznude][futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -18,6 +19,14 @@
     - 1girl
     - 1girlBase
     - Futanari
+'<[CharacterPreset][male]>, {66%<[Clothing][--female]>||<[eznude][futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+  Description:
+    - Franchise-specific Prompts
+  Tags:
+    - GeneralPreset
+    - 1girl
+    - 1girlBase
+    - Male
 '<[CharacterPreset][Female]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, <[eznude][female]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Presenting
@@ -32,7 +41,7 @@
     - PositionPreset
     - RandomBirth
     - 1girl
-'<[CharacterPreset][Futanari]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>{, <[ezfutafap]>||}{, <[ezcumshot]>||}, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Futanari|Male]>, (lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>{, <[ezfutafap]>||}{, <[ezcumshot]>||}, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Futanari Presenting
   Tags:
@@ -40,9 +49,22 @@
     - RandomFutanariPresenting
     - 1girl
     - Futanari
-'<[CharacterPreset][Futanari]>, <[eznude][futanari]>, <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>||}**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Futanari|Male]>, <[eznude][futanari]>, <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>, {<[ezcumshot]>||}**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Futanari Fap
+  Tags:
+    - PositionPreset
+    - 1girl
+    - Futanari
+'<[CharacterPreset][Female]>, <[imageformat][fromabove]>, <[MyLocation]>, exhibitionism, <[eznude][female]>, (kissing penis:1.5)**(2girls, 3girls, 4girls:1.0)**':
+  Description:
+    - Penis Kiss
+  Tags:
+    - PositionPreset
+    - 1girl
+'<[CharacterPreset][Futanari|Male]>, <[imageformat][fromabove]>, <[MyLocation]>, exhibitionism, <[eznude][futanari]>, (kissing penis:1.5)**(2girls, 3girls, 4girls:1.0)**':
+  Description:
+    - Penis Kiss
   Tags:
     - PositionPreset
     - 1girl
@@ -61,7 +83,7 @@
   Tags:
     - OutfitPreset
     - 1girl
-'<[CharacterPreset][Futanari]>, <[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezBikini][Futanari]>**(beach ball:2.0)**':
+'<[CharacterPreset][Futanari|Male]>, <[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezBikini][Futanari]>**(beach ball:2.0)**':
   Description:
     - Random Beach
   Tags:
@@ -141,25 +163,25 @@
   Tags:
     - VariantPreset
     - 1girl
-'<[1girlbase][--futanari]>, as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaur_Girl:0.66>':
+'<[1girlbase]>, as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaur_Girl:0.66>':
   Description:
     - Centaurs
   Tags:
     - VariantPreset
     - 1girl
-'<[1girlbase][--futanari]>, as a wolf taur, as a canine taur, <lora:canine_taur_PDXL:0.66> taur, canine taur, wolf taur':
+'<[1girlbase]>, as a wolf taur, as a canine taur, <lora:canine_taur_PDXL:0.66> taur, canine taur, wolf taur':
   Description:
     - Centaurs
   Tags:
     - VariantPreset
     - 1girl
-'<[1girlbase][--futanari]>, as a dragon taur, <lora:humandragon_taur:0.66> dragonhumantaur':
+'<[1girlbase]>, as a dragon taur, <lora:humandragon_taur:0.66> dragonhumantaur':
   Description:
     - Centaurs
   Tags:
     - VariantPreset
     - 1girl
-'<[1girlbase][--futanari]>, as a spider taur, <lora:SpiderTaur-PONY-PAseer:0.66> spider taur':
+'<[1girlbase]>, as a spider taur, <lora:SpiderTaur-PONY-PAseer:0.66> spider taur':
   Description:
     - Centaurs
   Tags:
