@@ -1,0 +1,4 @@
+(nicole aniston:1.3), nicoleAnistonQuiron woman <lora:NicoleAnistonQuiron:0.75>, blonde hair, long hair, lips
+(ana foxxx:1.3), <lora:Ana_Foxxx:0.75> anafoxxx, dark skinned female, dark skin, black hair, long hair, lips
+(charlotte stokely:1.3), <lora:Charlotte_Stokely:0.75> charlottestokely, blonde hair, long hair, lips
+(belle delphine:1.3), <lora:Belle_SexNote:0.6> bellesn, pink hair, long hair, fake animal ears

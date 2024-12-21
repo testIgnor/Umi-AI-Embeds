@@ -249,6 +249,31 @@
     - CharacterPreset
     - Male
 
+'NSFW, 1girl, <[characters][Celebs]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Celebs Character
+  Tags:
+    - 1girl
+    - Celebs
+    - CharacterPreset
+    - Female
+'NSFW, 1futa, <[characters][Celebs]>, <[Artists][--3D]>, as a <[ezage][futanari]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Celebs Character Futa
+  Tags:
+    - 1girl
+    - Celebs
+    - CharacterPreset
+    - Futanari
+'NSFW, 1boy, <[characters][Celebs]>, <[Artists][--3D]>, as a <[ezage][male]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Celebs Character Trap
+  Tags:
+    - 1boy
+    - Celebs
+    - CharacterPreset
+    - Male
+
 'NSFW, 1girl, <[characters][Celeste]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Celeste Character
@@ -446,6 +471,31 @@
   Tags:
     - 1boy
     - Disney
+    - CharacterPreset
+    - Male
+
+'NSFW, 1girl, <[characters][Divinity]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Divinity Character
+  Tags:
+    - 1girl
+    - Divinity
+    - CharacterPreset
+    - Female
+'NSFW, 1futa, <[characters][Divinity]>, <[Artists][--3D]>, as a <[ezage][futanari]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Divinity Character Futa
+  Tags:
+    - 1girl
+    - Divinity
+    - CharacterPreset
+    - Futanari
+'NSFW, 1boy, <[characters][Divinity]>, <[Artists][--3D]>, as a <[ezage][male]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Divinity Character Trap
+  Tags:
+    - 1boy
+    - Divinity
     - CharacterPreset
     - Male
 
@@ -1649,6 +1699,31 @@
     - CharacterPreset
     - Male
 
+'NSFW, 1girl, <[characters][PStars]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random PStars Character
+  Tags:
+    - 1girl
+    - PStars
+    - CharacterPreset
+    - Female
+'NSFW, 1futa, <[characters][PStars]>, <[Artists][--3D]>, as a <[ezage][futanari]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random PStars Character Futa
+  Tags:
+    - 1girl
+    - PStars
+    - CharacterPreset
+    - Futanari
+'NSFW, 1boy, <[characters][PStars]>, <[Artists][--3D]>, as a <[ezage][male]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random PStars Character Trap
+  Tags:
+    - 1boy
+    - PStars
+    - CharacterPreset
+    - Male
+
 'NSFW, 1girl, <[characters][Puyopuyo]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Puyopuyo Character
@@ -2096,6 +2171,31 @@
   Tags:
     - 1boy
     - Tekken
+    - CharacterPreset
+    - Male
+
+'NSFW, 1girl, <[characters][TLOU]>, <[Artists][--3D]>, as a <[ezage][female]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random TLOU Character
+  Tags:
+    - 1girl
+    - TLOU
+    - CharacterPreset
+    - Female
+'NSFW, 1futa, <[characters][TLOU]>, <[Artists][--3D]>, as a <[ezage][futanari]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random TLOU Character Futa
+  Tags:
+    - 1girl
+    - TLOU
+    - CharacterPreset
+    - Futanari
+'NSFW, 1boy, <[characters][TLOU]>, <[Artists][--3D]>, as a <[ezage][male]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random TLOU Character Trap
+  Tags:
+    - 1boy
+    - TLOU
     - CharacterPreset
     - Male
 

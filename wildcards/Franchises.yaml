@@ -704,3 +704,31 @@
   Tags:
     - Characters
     - Warhammer
+
+'source_anime, __Characters/TLOU__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - TLOU Characters
+  Tags:
+    - Characters
+    - TLOU
+
+'source_anime, __Characters/PStars__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - PStars Characters
+  Tags:
+    - Characters
+    - PStars
+
+'source_anime, __Characters/Divinity__':
+  Description:
+    - Divinity Characters
+  Tags:
+    - Characters
+    - Divinity
+
+'source_anime, __Characters/Celebs__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Celebs Characters
+  Tags:
+    - Characters
+    - Celebs
