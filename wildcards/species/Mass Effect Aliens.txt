@@ -1,2 +1,2 @@
-(quarian:1.3)
-(asari:1.3)
+(quarian:1.3), colored skin, purple skin
+(asari:1.3), colored skin, blue skin
