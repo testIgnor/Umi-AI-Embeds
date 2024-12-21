@@ -1,8 +1,3 @@
-'<[LegacyPrompt]>':
-  Description:
-    - Legacy Prompts
-  Tags:
-    - GeneralPreset
 '<[CharacterPreset][female]>, {66%<[Clothing][--futanari]>||<[eznude][--futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
@@ -188,7 +183,7 @@
     - VariantPreset
     - 1girl
 
-'{10%<[PositionPreset]>||10%<[OutfitPreset]>||10%<[VariantPreset]>||<[GeneralPreset]>}':
+'{15%<[PositionPreset]>||15%<[OutfitPreset]>||10%<[VariantPreset]>||5%<[LegacyPrompt]>||<[GeneralPreset]>}':
   Description:
   - Call This
   Tags:
