@@ -1,12 +1,18 @@
-(hiiragi utena:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, black hair, yellow eyes, ahoge
-(magia baiser:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, yellow eyes, ahoge, purple hair
-(araga kiwi:1.3), mahou shoujo ni akogarete, gushing over magical girls, green hair, red eyes, medium hair, long hair, yellow eyes, ahoge, blonde hair
-(magia leopard:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, green hair, red eyes, medium hair, long hair, yellow eyes, ahoge, blonde hair
-(morino korisu:1.3), mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair
-(nero alice:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair
-(minakami sayo:1.3), mahou shoujo ni akogarete, gushing over magical girls, red eyes, long hair, blue hair
-(magia azul:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, red eyes, long hair, blue hair
-(tenkawa kaoruko:1.3), mahou shoujo ni akogarete, gushing over magical girls, long hair, blue eyes, blonde hair
-(magia sulfur:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, blue eyes, blonde hair
-(hanabishi haruka:1.3), mahou shoujo ni akogarete, gushing over magical girls, drill hair, green eyes, pink hair, twintails
-(magia magenta:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, drill hair, green eyes, pink hair, twintails
+(hiiragi utena:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, purple hair, yellow eyes, ahoge, hair intakes <lora:utena-hiiragi-ponyxl-lora-nochekaiser:1>
+(magia baiser:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, purple hair, yellow eyes, ahoge, hair intakes <lora:utena-hiiragi-ponyxl-lora-nochekaiser:1>
+(araga kiwi:1.3), mahou shoujo ni akogarete, gushing over magical girls, bangs, ahoge, mole, mole under eye, purple eyes, green hair, hair bun, double hair bun <lora:kiwi-araga-ponyxl-lora-nochekaiser:1>
+(magia leopard:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, bangs, ahoge, mole, mole under eye, purple eyes, green hair, hair bun, double hair bun <lora:kiwi-araga-ponyxl-lora-nochekaiser:1>
+(morino korisu:1.3), mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair <lora:morino-korisu-ponyxl-lora-nochekaiser:1>
+(nero alice:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair <lora:morino-korisu-ponyxl-lora-nochekaiser:1>
+(minakami sayo:1.3), mahou shoujo ni akogarete, gushing over magical girls, brown eyes, long hair, blue hair <lora:sayo-minakami-ponyxl-lora-nochekaiser:1>
+(magia azul:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, brown eyes, long hair, blue hair <lora:sayo-minakami-ponyxl-lora-nochekaiser:1>
+(tenkawa kaoruko:1.3), mahou shoujo ni akogarete, gushing over magical girls, long hair, blue eyes, blonde hair <lora:kaoruko-tenkawa-ponyxl-lora-nochekaiser:1>
+(magia sulfur:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, blue eyes, blonde hair <lora:kaoruko-tenkawa-ponyxl-lora-nochekaiser:1>
+(hanabishi haruka:1.3), mahou shoujo ni akogarete, gushing over magical girls, drill hair, green eyes, pink hair, twintails <lora:haruka-hanabishi-ponyxl-lora-nochekaiser:1>
+(magia magenta:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, drill hair, green eyes, pink hair, twintails <lora:haruka-hanabishi-ponyxl-lora-nochekaiser:1>
+(akoya matama:1.3), mahou shoujo ni akogarete, gushing over magical girls, long hair, brown hair, green eyes, multicolored hair, aqua eyes, two side up, streaked hair <lora:matama-akoya-ponyxl-lora-nochekaiser:1>
+(loco musica:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, brown hair, green eyes, multicolored hair, aqua eyes, two side up, streaked hair <lora:matama-akoya-ponyxl-lora-nochekaiser:1>
+(tanaka mihciko:1.3), mahou shoujo ni akogarete, gushing over magical girls, long hair, black hair, yellow eyes <lora:michiko-tanaka-ponyxl-lora-nochekaiser:1>
+(lord enorme:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, black hair, yellow eyes <lora:michiko-tanaka-ponyxl-lora-nochekaiser:1>
+(anemo nemo:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, green hair, pink eyes, hair over one eye, aqua hair, ahoge <lora:nemo-anemo-ponyxl-lora-nochekaiser:1>
+(leberblume:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, green hair, pink eyes, hair over one eye, aqua hair, ahoge <lora:nemo-anemo-ponyxl-lora-nochekaiser:1>
