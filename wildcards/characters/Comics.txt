@@ -11,3 +11,4 @@
 (starfire:1.3)
 (april o'neil:1.3)
 (she-hulk:1.3)
+(squirrel girl \(marvel\):1.3)
