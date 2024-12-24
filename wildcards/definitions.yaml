@@ -1,3 +1,8 @@
+'{1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}':
+  Description:
+    - Ez random emotions
+  Tags:
+    - EZEmotion
 '(<[EZLoli]>:1.3)':
   Description:
     - Loli Age
