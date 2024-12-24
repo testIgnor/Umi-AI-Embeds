@@ -1,7 +1,7 @@
 (hiiragi utena:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, purple hair, yellow eyes, ahoge, hair intakes <lora:utena-hiiragi-ponyxl-lora-nochekaiser:1>
 (magia baiser:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, purple hair, yellow eyes, ahoge, hair intakes <lora:utena-hiiragi-ponyxl-lora-nochekaiser:1>
 (araga kiwi:1.3), mahou shoujo ni akogarete, gushing over magical girls, bangs, ahoge, mole, mole under eye, purple eyes, green hair, hair bun, double hair bun <lora:kiwi-araga-ponyxl-lora-nochekaiser:1>
-(magia leopard:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, bangs, ahoge, mole, mole under eye, purple eyes, green hair, hair bun, double hair bun <lora:kiwi-araga-ponyxl-lora-nochekaiser:1>
+(magia leopard:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, bangs, ahoge, mole, mole under eye, purple eyes, green hair, hair bun, double hair bun <lora:kiwi-araga-ponyxl-lora-nochekaiser:1>**(leopard:2.0), (anthro, animal ears, tail:2.0)**
 (morino korisu:1.3), mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair <lora:morino-korisu-ponyxl-lora-nochekaiser:1>
 (nero alice:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair <lora:morino-korisu-ponyxl-lora-nochekaiser:1>
 (minakami sayo:1.3), mahou shoujo ni akogarete, gushing over magical girls, brown eyes, long hair, blue hair <lora:sayo-minakami-ponyxl-lora-nochekaiser:1>
