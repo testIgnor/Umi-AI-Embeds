@@ -558,14 +558,12 @@
   Tags:
     - Particle
     - ezBDSM
-    - Clothing
 'fully clothed, wearing tight leather armor, armor, {<[eznude][female]>||<[ezcovered][--futanari]>}':
   Description:
     - Armor Addon
   Tags:
     - Particle
     - ezArmor
-    - Clothing
 'NSFW, 2girls, <[Artists][--3D]>, <[GazeFormat]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:0.5>**(1girl, 3girls, 4girls:2.0), (conjoined, fused limb, fused arm, disembodied penis:1.7)**':
   Description:
     - 2girls base

@@ -2824,6 +2824,31 @@
     - CharacterPreset
     - Male
 
+'NSFW, 1girl, <[characters][SkyrimWerewolf]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random SkyrimWerewolf Character
+  Tags:
+    - 1girl
+    - SkyrimWerewolf
+    - CharacterPreset
+    - Female
+'NSFW, 1futa, <[characters][SkyrimWerewolf]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random SkyrimWerewolf Character Futa
+  Tags:
+    - 1girl
+    - SkyrimWerewolf
+    - CharacterPreset
+    - Futanari
+'NSFW, 1boy, <[characters][SkyrimWerewolf]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random SkyrimWerewolf Character Trap
+  Tags:
+    - 1boy
+    - SkyrimWerewolf
+    - CharacterPreset
+    - Male
+
 'NSFW, 1girl, <[characters][Special Kinds]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Special Kinds Character

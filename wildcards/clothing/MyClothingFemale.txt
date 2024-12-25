@@ -96,3 +96,5 @@ leotard, athletic leotard, tight clothes, <[ezcovered][--futanari]>
 leotard, sheer leotard, tight clothes, <[ezcovered][--futanari]>
 leotard, breastless leotard, tight clothes, <[eztopless][--futanari]>
 leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][--futanari]>
+fully clothed, wearing tight leather armor, armor, {<[eznude][female]>||<[ezcovered][--futanari]>}
+wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][female]>

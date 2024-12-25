@@ -64,6 +64,13 @@
     - Characters
     - Royalty
     - Species
+'source_furry, __Species/SkyrimWerewolf__':
+  Description:
+    - Ookami Characters
+  Tags:
+    - Characters
+    - SkyrimWerewolf
+    - Species
 'source_anime, __Species/Special Kinds__':
   Description:
     - Random Types of Characters
