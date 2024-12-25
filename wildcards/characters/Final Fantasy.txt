@@ -8,7 +8,7 @@
 (yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, blue eyes, YUNA_\(FF10\) <lora:YunaPony:1>
 (celes chere:1.3), final fantasy, blonde hair, blue eyes, long hair
 (garnet til alexandros xvii:1.3), final fantasy, brown eyes, low-tied long hair, brown hair, short hair, blonde hair, long hair, black hair
-(lightning farron:1.3), final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>
+(claire farron:1.3), final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>
 (y'shtola rhul:1.3), final fantasy, short hair, white hair, grey eyes, yshtola <lora:Yshtola:1>
 (y'shtola rhul:1.3), final fantasy, short hair, white hair, grey eyes, <lora:yshtola_rhul:1>
 (faris scherwiz:1.3), final fantasy, green eyes, long hair, purple hair, pink hair
@@ -71,7 +71,7 @@
 (porom:1.3), final fantasy, long hair, pink hair, brown hair
 (sapphira nyx:1.3), final fantasy, long hair, brown eyes, yellow eyes, black hair
 (tsukuyomi \(ff14\):1.3), final fantasy, multicolored skin, two-tone hair, black skin, multicolored hair, split-color hair, long hair, colored skin, blue eyes, white hair, straight hair, two-tone skin, white skin, black hair
-(lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair SERAH_FARRON <lora:SerahFarron:1>|lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]
+(lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair SERAH_FARRON <lora:SerahFarron:1>|claire farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]
 (garuda \(final fantasy\):1.3), final fantasy, colored skin, GARUDA, GLOWING EYES <lora:Garuda:1>
 (ameliance leveilleur:1.3), final fantasy, ahoge, blue eyes, grey hair, white hair, pointy ears, long hair, low ponytail, ameliance <lora:ameliancev5:1>
 (garuda \(final fantasy\):1.3), final fantasy, colored skin, edgGaruda, feathered wings, head wings, multiple wings <lora:edgGarudaPonyv1:1>
