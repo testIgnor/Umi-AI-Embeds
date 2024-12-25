@@ -142,7 +142,6 @@
   Tags:
     - Particle
     - ezBunnysuit
-    - Clothing
 '__clothing/bunnysuitsFuta__':
   Description:
     - Bunny Suit Addon
@@ -150,14 +149,12 @@
     - Particle
     - ezBunnysuit
     - Futanari
-    - Clothing
 '__clothing/weddingFem__':
   Description:
     - Wedding Dress Addon
   Tags:
     - Particle
     - ezWeddingDress
-    - Clothing
 '__clothing/weddingFuta__':
   Description:
     - Wedding Dress Addon
@@ -165,14 +162,12 @@
     - Particle
     - ezWeddingDress
     - Futanari
-    - Clothing
 '__clothing/bikiniFem__':
   Description:
     - Bikini Addon
   Tags:
     - Particle
     - ezBikini
-    - Clothing
 '__clothing/bikiniFuta__':
   Description:
     - Bikini Addon
@@ -180,14 +175,12 @@
     - Particle
     - ezBikini
     - Futanari
-    - Clothing
 '__clothing/bodysuitsFem__':
   Description:
     - Bodysuit Addon
   Tags:
     - Particle
     - ezBodysuit
-    - Clothing
 '__clothing/bodysuitsFuta__':
   Description:
     - Bodysuit Addon
@@ -195,14 +188,12 @@
     - Particle
     - ezBodysuit
     - Futanari
-    - Clothing
 '__clothing/maidFem__':
   Description:
     - Maid Addon
   Tags:
     - Particle
     - ezMaid
-    - Clothing
 '__clothing/maidFuta__':
   Description:
     - Maid Addon
@@ -210,14 +201,12 @@
     - Particle
     - ezMaid
     - Futanari
-    - Clothing
 '__clothing/raveFem__':
   Description:
     - Rave Addon
   Tags:
     - Particle
     - ezRave
-    - Clothing
 '__clothing/raveFuta__':
   Description:
     - Maid Addon
@@ -225,7 +214,6 @@
     - Particle
     - ezRave
     - Futanari
-    - Clothing
 '(__Artists/Web Artists__:1.3)':
   Description:
     - Random Artist Names for LoRA
