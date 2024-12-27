@@ -49,12 +49,13 @@
     - Particle
     - eznips
     - Inverted
-'<[eznips]>, (topless:1.2), <[covered][lower][--futanari]>':
+'<[eznips]>, (topless:1.2), <[covered][lower][female]>':
   Description:
     - Topless
   Tags:
     - Particle
     - ezTopless
+    - female
 '<[eznips]>, (topless:1.2), <[covered][lower][futanari]>':
   Description:
     - Topless
@@ -114,6 +115,7 @@
     - Particle
     - covered
     - lower
+    - female
 '(penis bulge, erection under clothes, erect penis under clothes:1.1)':
   Description:
     - Covered Lower
@@ -122,12 +124,13 @@
     - covered
     - lower
     - Futanari
-'<[covered][lower][--futanari]>, <[covered][upper]>':
+'<[covered][lower][female]>, <[covered][upper]>':
   Description:
     - Genitals under clothes
   Tags:
     - Particle
     - ezcovered
+    - female
 '<[covered][lower][futanari]>, <[covered][upper]>':
   Description:
     - Genitals under clothes
@@ -153,6 +156,7 @@
   Tags:
     - Particle
     - ezbottomless
+    - female
 '(bottomless futanari:1.2)':
   Description:
     - Bottomless Female
@@ -539,7 +543,7 @@
   Tags:
     - Particle
     - GazeFormat
-'(nude:1.1), <[eznips]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezcovered][--futanari]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (pulled down pants, pulled down shorts, swim trunks on ground, holding swimwear, clothes pull:2.0), (beanie, hat, headwear, hair ornament:2.0), (submerged, underwater, standing in water:2.0)**':
+'(nude:1.1), <[eznips]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezcovered][female]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (pulled down pants, pulled down shorts, swim trunks on ground, holding swimwear, clothes pull:2.0), (beanie, hat, headwear, hair ornament:2.0), (submerged, underwater, standing in water:2.0)**':
   Description:
     - Swimwear Challenge Addon
   Tags:
@@ -558,7 +562,7 @@
   Tags:
     - Particle
     - ezBDSM
-'fully clothed, wearing tight leather armor, armor, {<[eznude][female]>||<[ezcovered][--futanari]>}':
+'fully clothed, wearing tight leather armor, armor, {<[eznude][female]>||<[ezcovered][female]>}':
   Description:
     - Armor Addon
   Tags:

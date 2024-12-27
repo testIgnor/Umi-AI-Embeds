@@ -1,10 +1,10 @@
-fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered][--futanari]>
-fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered][--futanari]>
-functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][--futanari]>
+fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered][female]>
+fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered][female]>
+functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][female]>
 fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
-functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][--futanari]>
-fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][--futanari]>
-fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][--futanari]>
-(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[eznude][--futanari]>**(skirt, bridal veil:2.0)**
-fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][--futanari]>
-ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][--futanari]> <lora:0765 flower wedding_v1_pony:1>
+functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][female]>
+fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][female]>
+fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][female]>
+(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[eznude][female]>**(skirt, bridal veil:2.0)**
+fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][female]>
+ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][female]> <lora:0765 flower wedding_v1_pony:1>

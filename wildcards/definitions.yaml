@@ -122,6 +122,8 @@
   Tags:
     - Clothing
     - MyClothing
+    - Female
+    - Futanari
 '__clothing/MyClothingFemale__':
   Description:
     - Random Clothes
@@ -142,6 +144,7 @@
   Tags:
     - Particle
     - ezBunnysuit
+    - Female
 '__clothing/bunnysuitsFuta__':
   Description:
     - Bunny Suit Addon
@@ -155,6 +158,7 @@
   Tags:
     - Particle
     - ezWeddingDress
+    - female
 '__clothing/weddingFuta__':
   Description:
     - Wedding Dress Addon
@@ -168,6 +172,7 @@
   Tags:
     - Particle
     - ezBikini
+    - female
 '__clothing/bikiniFuta__':
   Description:
     - Bikini Addon
@@ -181,6 +186,7 @@
   Tags:
     - Particle
     - ezBodysuit
+    - female
 '__clothing/bodysuitsFuta__':
   Description:
     - Bodysuit Addon
@@ -194,6 +200,7 @@
   Tags:
     - Particle
     - ezMaid
+    - female
 '__clothing/maidFuta__':
   Description:
     - Maid Addon
@@ -207,6 +214,7 @@
   Tags:
     - Particle
     - ezRave
+    - female
 '__clothing/raveFuta__':
   Description:
     - Maid Addon

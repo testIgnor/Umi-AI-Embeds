@@ -1,8 +1,8 @@
-biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][--futanari]>**(helmet, headwear, hat:2.0)**
-skinbodysuit, bodysuit, <[ezcovered][--futanari]> <lora:skinbodysuit e3:1>
-ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nude, metal spine, <[ezcovered][--futanari]> <lora:0469 Stellar Blade (Skin Suit)_v3_pony:0.5>
-metalSuit, necklace, high heels, helmet, <[eznude][--futanari]> <lora:MetalSuitPonyV2:0.5>
-leotard, athletic leotard, tight clothes, <[ezcovered][--futanari]>
-leotard, sheer leotard, tight clothes, <[ezcovered][--futanari]>
-leotard, breastless leotard, tight clothes, <[eztopless][--futanari]>
-leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][--futanari]>
+biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][female]>**(helmet, headwear, hat:2.0)**
+skinbodysuit, bodysuit, <[ezcovered][female]> <lora:skinbodysuit e3:1>
+ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nude, metal spine, <[ezcovered][female]> <lora:0469 Stellar Blade (Skin Suit)_v3_pony:0.5>
+metalSuit, necklace, high heels, helmet, <[eznude][female]> <lora:MetalSuitPonyV2:0.5>
+leotard, athletic leotard, tight clothes, <[ezcovered][female]>
+leotard, sheer leotard, tight clothes, <[ezcovered][female]>
+leotard, breastless leotard, tight clothes, <[eztopless][female]>
+leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][female]>

@@ -1,11 +1,11 @@
-fully clothed, skimpy clothes, see-through bikini, <[ezcovered][--futanari]>
-sling bikini, slingshot swimsuit, <[ezcovered][--futanari]>
-monokini, topless, <[ezcovered][--futanari]>
-slingshot swimsuit, <[ezcovered][--futanari]> <lora:slingshotPony_resize:1>
-tapeproject, black tape, covered nipples, <[ezcovered][--futanari]>, navel <lora:TapeProjectPDXL_byKonan:1>
-micro bikini, <[ezcovered][--futanari]> <lora:micro bikini_pony_V1.0:1>
-fully clothed, skimpy clothes, bikini, <[ezcovered][--futanari]>
-fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovered][--futanari]>
-ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][--futanari]>, <lora:0588 fragmented swimsuit_v1_pony:0.6>
-4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][--futanari]>, <lora:4ng3ll1ngXLP:0.6>
-bodypaint clothes, bodypaint, <[eznude][--futanari]> <lora:bodypaint clothes_pony_V1.0:1>
+fully clothed, skimpy clothes, see-through bikini, <[ezcovered][female]>
+sling bikini, slingshot swimsuit, <[ezcovered][female]>
+monokini, topless, <[ezcovered][female]>
+slingshot swimsuit, <[ezcovered][female]> <lora:slingshotPony_resize:1>
+tapeproject, black tape, covered nipples, <[ezcovered][female]>, navel <lora:TapeProjectPDXL_byKonan:1>
+micro bikini, <[ezcovered][female]> <lora:micro bikini_pony_V1.0:1>
+fully clothed, skimpy clothes, bikini, <[ezcovered][female]>
+fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovered][female]>
+ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][female]>, <lora:0588 fragmented swimsuit_v1_pony:0.6>
+4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][female]>, <lora:4ng3ll1ngXLP:0.6>
+bodypaint clothes, bodypaint, <[eznude][female]> <lora:bodypaint clothes_pony_V1.0:1>
