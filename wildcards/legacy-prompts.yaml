@@ -150,12 +150,6 @@
   Tags:
     - 1girl
     - LegacyPrompt
-"source_anime, NSFW, 2girls, (nun, two nuns:1.3) kissing, <[Artists][--3D]>, <[ezage][female][middle]>, <[EZEmotion]>, <[GazeFormat]>, <[imageformat]>, <[MyLocation]>, (hug, nuzzle, cuddling, making out, kissing, french kiss:1.2), yuri, (fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume:1.3), <[eznips]>, <[ezpussy]>, <[ezcovered]> <lora:PDXL_artist_tags_v2_big:1>**(conjoined, fused limb, fused arm:1.7)**":
-  Description:
-    - Nun makeout
-  Tags:
-    - 2girls
-    - LegacyPrompt
 'source_anime, NSFW, 1girl, (knight, female knight, female holy knight, paladin:1.3), <[Artists][--3D]>, <[ezage][female]>, <[EZEmotion]>, solo, <[GazeFormat]>, <[imageformat]>, (heavy armor, fully clothed, armor:1.2), <[ezcovered]> <lora:PDXL_artist_tags_v2_big:1>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**':
   Description:
     - Holy Knight
@@ -182,27 +176,6 @@
     - 1girl
     - LegacyPrompt
     - ChunliDress
-'source_anime, NSFW, 2girls, (delia ketchum, delia scarlet and jessie \(pokemon\):1.3) kissing, (delia ketchum, delia scarlet:1.3), (jessie \(pokemon\):1.3), pokemon, <[Artists][--3D]>, <[ezage][middle|upper][female]>, <[EZEmotion]>, <[GazeFormat]>, <[imageformat]>, <[MyLocation]>, (hug, nuzzle, cuddling, making out, kissing, french kiss:1.2), yuri, (nude:1.4), <[eznips]>, <[ezpussy]>, <lora:PDXL_artist_tags_v2_big:1>**(james \(pokemon\):2.0), (jessie rasberry:2.0), (conjoined, fused limb, fused arm:1.7)**':
-  Description:
-    - Delia Jessie makeout
-  Tags:
-    - 2girls
-    - LegacyPrompt
-    - DeliaJessie
-"source_anime, NSFW, 2girls, (aerith gainsborough and tifa lockhart:1.3) kissing, (aerith gainsborough:1.3), (tifa lockhart:1.3), final fantasy, <[Artists][--3D]>, <[ezage][middle|upper][female]>, <[EZEmotion]>, <[GazeFormat]>, <[imageformat]>, <[MyLocation]>, (hug, nuzzle, cuddling, making out, kissing, french kiss:1.2), yuri, (nude:1.4), <[eznips]>, <[ezpussy]>, <lora:PDXL_artist_tags_v2_big:1>**(conjoined, fused limb, fused arm:1.7)**":
-  Description:
-    - AeriTi makeout
-  Tags:
-    - 2girls
-    - LegacyPrompt
-    - AeriTi
-'source_anime, NSFW, 2girls, (elsa \(frozen\) and anna \(frozen\):1.3) kissing, (elsa \(frozen\):1.3), (anna \(frozen\):1.3), frozen \(disney\), <[Artists][--3D]>, <[ezage][middle|upper][female]>, <[EZEmotion]>, <[GazeFormat]>, <[imageformat]>, <[MyLocation]>, (hug, nuzzle, cuddling, making out, kissing, french kiss:1.2), yuri, (nude:1.4), <[eznips]>, <[ezpussy]>, <lora:PDXL_artist_tags_v2_big:1>**(conjoined, fused limb, fused arm:1.7)**':
-  Description:
-    - ElsAnna makeout
-  Tags:
-    - 2girls
-    - LegacyPrompt
-    - ElsAnna
 'source_anime, NSFW, (1girl, solo:1.7), princess, <[artists][--3D]>, <[ezage][female][lower]>, <[EZEmotion]>, facing the camera, looking at viewer, <[imageformat][cowboyshot]>, (centered in frame, symmetry:1.5), <[MyLocation]>, solo, (nude:1.3), <[eznips]>, <[ezpussy]>, (two-tone skin, multicolored hair, heterochromia:1.5), regal, elegant, royal family, royal, crown, tiara <lora:PDXL_artist_tags_v2_big:1>  [(princess, british princess, british, white skin, light-skinned female, light skin, blonde hair, blue eyes:1.3)|(princess, african princess, african, black skin, dark-skinned female, dark skin, black hair, brown eyes:1.7)]**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines:2.0), (anthro, animal ears, tail:2.0), (evil, ugly, holding:1.7)**':
   Description:
     - Half Princess
