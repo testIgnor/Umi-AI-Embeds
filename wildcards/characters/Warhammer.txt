@@ -2,20 +2,8 @@
 (Morathi:1.3), elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <lora:Morathi:0.66>
 (miao ying:1.3), MiaoYingMortal, white eyes, glowing eyes, no eyes, white hair, long hair, high ponytail, lipstick, makeup, light skinned female, pale skin <lora:Miao_Ying:1>
 (miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:1>
-(bretonnian prophetess:1.3) <lora:BretonnianProphetess:0.66>
-(sister of averlorn:1.3) <lora:Sisters_of_Averlorn:0.66>
 (arahan:1.3) <lora:Arahan:0.66>
-(witch elf:1.3) <lora:WitchElf:0.66>
-(wardancer:1.3) <lora:Wardancer:0.66>
-(death hag:1.3), <lora:Death_Hag:0.66> DeathHag
 (crone hellebron:1.3), <lora:CroneHellebron:0.66> CroneHellebron
-(frost maiden:1.3), <lora:FrostMaiden:0.66> FrostMaiden
-(bloodwrack medusa:1.3) <lora:Bloodwrack_Medusa:0.66>
-(supreme sorceress:1.3) <lora:Supreme_Sorceress:0.66>
-(dark elf dreadlord:1.3), <lora:Dark_Elf_Dreadlord_PonyXL_Total_War_Warhammer:0.66> DreadLord
-(sorceress:1.3), <lora:Sorceress:0.66> DESorceress
-(fay enchantress:1.3), <lora:FayEnchantress:0.66> FeyEnchantress
-(daemonette:1.3), <lora:Daemonette_PonyXL:0.66> {Daemonette||ExaltedDaemonette}
 (repanse de lyonesse:1.3), <lora:RepansedeLyonesse:0.66> Repanse
 (katarin bokha:1.3) <lora:Katarin_Bokha:0.66>
 (naestra:1.3) <lora:Naestra:0.66>

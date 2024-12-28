@@ -2599,7 +2599,7 @@
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][Animals]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][Animals]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Animals Character
   Tags:
@@ -2607,7 +2607,7 @@
     - Animals
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][Animals]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][Animals]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Animals Character Futa
   Tags:
@@ -2615,7 +2615,7 @@
     - Animals
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][Animals]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][Animals]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Animals Character Trap
   Tags:
@@ -2624,7 +2624,7 @@
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][Demons]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][Demons]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Demons Character
   Tags:
@@ -2632,7 +2632,7 @@
     - Demons
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][Demons]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][Demons]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Demons Character Futa
   Tags:
@@ -2640,7 +2640,7 @@
     - Demons
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][Demons]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][Demons]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Demons Character Trap
   Tags:
@@ -2649,7 +2649,7 @@
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][Franxx]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][Franxx]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Franxx Character
   Tags:
@@ -2657,7 +2657,7 @@
     - Franxx
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][Franxx]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][Franxx]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Franxx Character Futa
   Tags:
@@ -2665,7 +2665,7 @@
     - Franxx
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][Franxx]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][Franxx]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Franxx Character Trap
   Tags:
@@ -2674,7 +2674,7 @@
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][Magical Girls]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][Magical Girls]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Magical Girls Character
   Tags:
@@ -2682,7 +2682,7 @@
     - Magical Girls
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][Magical Girls]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][Magical Girls]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Magical Girls Character Futa
   Tags:
@@ -2690,7 +2690,7 @@
     - Magical Girls
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][Magical Girls]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][Magical Girls]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Magical Girls Character Trap
   Tags:
@@ -2699,32 +2699,32 @@
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][Mass Effect Aliens]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][Mass Effect]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Random Mass Effect Aliens Character
+    - Random Mass Effect Character
   Tags:
     - 1girl
-    - Mass Effect Aliens
+    - Mass Effect
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][Mass Effect Aliens]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][Mass Effect]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Random Mass Effect Aliens Character Futa
+    - Random Mass Effect Character Futa
   Tags:
     - 1girl
-    - Mass Effect Aliens
+    - Mass Effect
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][Mass Effect Aliens]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][Mass Effect]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Random Mass Effect Aliens Character Trap
+    - Random Mass Effect Character Trap
   Tags:
     - 1boy
-    - Mass Effect Aliens
+    - Mass Effect
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][MySpecies]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][MySpecies]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random MySpecies Character
   Tags:
@@ -2732,7 +2732,7 @@
     - MySpecies
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][MySpecies]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][MySpecies]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random MySpecies Character Futa
   Tags:
@@ -2740,7 +2740,7 @@
     - MySpecies
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][MySpecies]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][MySpecies]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random MySpecies Character Trap
   Tags:
@@ -2749,32 +2749,32 @@
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][Pokemon Creature]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][Pokemon]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Random Pokemon Creature Character
+    - Random Pokemon Character
   Tags:
     - 1girl
-    - Pokemon Creature
+    - Pokemon
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][Pokemon Creature]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][Pokemon]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Random Pokemon Creature Character Futa
+    - Random Pokemon Character Futa
   Tags:
     - 1girl
-    - Pokemon Creature
+    - Pokemon
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][Pokemon Creature]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][Pokemon]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
-    - Random Pokemon Creature Character Trap
+    - Random Pokemon Character Trap
   Tags:
     - 1boy
-    - Pokemon Creature
+    - Pokemon
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][Robots]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][Robots]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Robots Character
   Tags:
@@ -2782,7 +2782,7 @@
     - Robots
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][Robots]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][Robots]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Robots Character Futa
   Tags:
@@ -2790,7 +2790,7 @@
     - Robots
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][Robots]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][Robots]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Robots Character Trap
   Tags:
@@ -2799,7 +2799,7 @@
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][Royalty]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][Royalty]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Royalty Character
   Tags:
@@ -2807,7 +2807,7 @@
     - Royalty
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][Royalty]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][Royalty]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Royalty Character Futa
   Tags:
@@ -2815,7 +2815,7 @@
     - Royalty
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][Royalty]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][Royalty]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Royalty Character Trap
   Tags:
@@ -2824,7 +2824,7 @@
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][SkyrimWerewolf]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][SkyrimWerewolf]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random SkyrimWerewolf Character
   Tags:
@@ -2832,7 +2832,7 @@
     - SkyrimWerewolf
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][SkyrimWerewolf]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][SkyrimWerewolf]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random SkyrimWerewolf Character Futa
   Tags:
@@ -2840,7 +2840,7 @@
     - SkyrimWerewolf
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][SkyrimWerewolf]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][SkyrimWerewolf]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random SkyrimWerewolf Character Trap
   Tags:
@@ -2849,7 +2849,7 @@
     - CharacterPreset
     - Male
 
-'NSFW, 1girl, <[characters][Special Kinds]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[species][Special Kinds]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Special Kinds Character
   Tags:
@@ -2857,7 +2857,7 @@
     - Special Kinds
     - CharacterPreset
     - Female
-'NSFW, 1futa, <[characters][Special Kinds]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[species][Special Kinds]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Special Kinds Character Futa
   Tags:
@@ -2865,11 +2865,36 @@
     - Special Kinds
     - CharacterPreset
     - Futanari
-'NSFW, 1boy, <[characters][Special Kinds]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1boy, <[species][Special Kinds]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Special Kinds Character Trap
   Tags:
     - 1boy
     - Special Kinds
+    - CharacterPreset
+    - Male
+
+'NSFW, 1girl, <[species][Warhammer]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warhammer Character
+  Tags:
+    - 1girl
+    - Warhammer
+    - CharacterPreset
+    - Female
+'NSFW, 1futa, <[species][Warhammer]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warhammer Character Futa
+  Tags:
+    - 1girl
+    - Warhammer
+    - CharacterPreset
+    - Futanari
+'NSFW, 1boy, <[species][Warhammer]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Warhammer Character Trap
+  Tags:
+    - 1boy
+    - Warhammer
     - CharacterPreset
     - Male

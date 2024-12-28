@@ -2,84 +2,74 @@
   Description:
     - Random Types of Characters
   Tags:
-    - Characters
     - Species
     - Demons
 'source_anime, __Species/Franxx__':
   Description:
     - Random Types of Characters
   Tags:
-    - Characters
     - Species
     - Franxx
 'source_anime, __Species/Magical Girls__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Random Types of Characters
   Tags:
-    - Characters
     - Species
-    - MagicalGirls
     - Magical Girls
-'source_anime, __Species/Mass Effect Aliens__':
+'source_anime, __Species/Mass Effect__':
   Description:
     - Random Types of Characters
   Tags:
-    - Characters
     - Species
-    - MassEffect
     - Mass Effect
-    - Mass Effect Aliens
 'source_furry, __Species/MySpecies__**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
-    - Characters
     - MySpecies
     - Species
-'source_furry, $#__Species/Pokemon Creature__;theanimal#$, $#theanimal#$ anthro, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
+'source_furry, $#__Species/Pokemon__;theanimal#$, $#theanimal#$ anthro, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
-    - Characters
-    - Pokemon Creature
+    - Pokemon
     - Species
 'source_furry, $#__Species/Animals__;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
-    - Characters
     - Animals
     - Species
 'source_anime, __Species/Robots__':
   Description:
     - Random Types of Characters
   Tags:
-    - Characters
     - Species
     - Robots
 'source_anime, __Species/Royalty__, regal, elegant, royal family, royal, crown, tiara**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Random Species
   Tags:
-    - Characters
     - Royalty
     - Species
 'source_furry, __Species/SkyrimWerewolf__':
   Description:
     - Ookami Characters
   Tags:
-    - Characters
     - SkyrimWerewolf
     - Species
 'source_anime, __Species/Special Kinds__':
   Description:
     - Random Types of Characters
   Tags:
-    - Characters
-    - MySpecies
     - Species
-    - SpecialKinds
     - Special Kinds
+'source_anime, __Species/Warhammer__':
+  Description:
+    - Random Types of Characters
+  Tags:
+    - Species
+    - Warhammer
 'source_anime, __Franchise Girls__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Legacy Characters

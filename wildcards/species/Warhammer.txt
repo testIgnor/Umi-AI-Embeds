@@ -1,0 +1,12 @@
+(bretonnian prophetess:1.3) <lora:BretonnianProphetess:0.66>
+(sister of averlorn:1.3) <lora:Sisters_of_Averlorn:0.66>
+(witch elf:1.3) <lora:WitchElf:0.66>
+(wardancer:1.3) <lora:Wardancer:0.66>
+(death hag:1.3), <lora:Death_Hag:0.66> DeathHag
+(frost maiden:1.3), <lora:FrostMaiden:0.66> FrostMaiden
+(bloodwrack medusa:1.3) <lora:Bloodwrack_Medusa:0.66>
+(supreme sorceress:1.3) <lora:Supreme_Sorceress:0.66>
+(dark elf dreadlord:1.3), <lora:Dark_Elf_Dreadlord_PonyXL_Total_War_Warhammer:0.66> DreadLord
+(sorceress:1.3), <lora:Sorceress:0.66> DESorceress
+(fay enchantress:1.3), <lora:FayEnchantress:0.66> FeyEnchantress
+(daemonette:1.3), <lora:Daemonette_PonyXL:0.66> {Daemonette||ExaltedDaemonette}
