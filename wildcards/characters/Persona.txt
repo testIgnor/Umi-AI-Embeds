@@ -1,6 +1,7 @@
 (shirogane naoto:1.3), persona, blue hair, blue eyes, short hair
 (satonaka chie:1.3), persona, brown eyes, brown hair, short hair, long hair, black hair
-(aegis \(persona\):1.3), persona, blonde hair, blue eyes, short hair
+(aegis \(persona\):1.3), persona, blonde hair, blue eyes, short hair, p3aegis, android, robot joints <lora:persona3_aegis_ponyXL:1>
+(metis \(persona\):1.3), persona, black hair, red eyes, short hair, blue hair, metis, android, robot joints <lora:persona3_metis_ponyXL:1>
 (takamaki anne:1.3), persona, blonde hair, blue eyes, long hair
 (sakura futaba:1.3), persona, orange hair, long hair, purple eyes
 (takeba yukari:1.3), persona, brown eyes, short hair, brown hair
@@ -10,15 +11,18 @@
 (doujima nanako:1.3), persona, brown eyes, brown hair, short hair, closed eyes, grey hair
 (yoshizawa kasumi:1.3), persona, long hair, red eyes, red hair
 (kawakami sadayo:1.3), persona, brown eyes, short hair, brown hair, black hair
-(elizabeth \(persona\):1.3), persona, grey hair, white hair, short hair, yellow eyes
+(elizabeth \(persona\):1.3), persona, grey hair, white hair, short hair, yellow eyes, p3elizabeth <lora:persona3_elizabeth_ponyXL:1>
 (takemi tae:1.3), persona, brown eyes, red eyes, short hair, blue hair, black hair
 (yoshino chidori:1.3), persona, long hair, red hair
-(marie \(persona 4\):1.3), persona, brown hair, short hair, green eyes, blue eyes, black hair
-(labrys \(persona\):1.3), persona, red eyes, short hair, long hair, blue hair, aqua hair, very long hair
+(marie \(persona 4\):1.3), persona, brown hair, short hair, green eyes, p4marie <lora:persona4_marie_ponyXL:1>
+(margaret \(persona 4\):1.3), persona, margaretp4, blonde hair, long hair, yellow eyes <lora:zs_MargaretXL:1>
+(labrys \(persona\):1.3), persona, red eyes, long hair, blue hair, aqua hair, very long hair, ponytail, p4labrys, android, robot joints <lora:persona4_labrys_ponyXL:1>
 (yoshizawa sumire:1.3), persona, long hair, red eyes, red hair
 (niijima sae:1.3), persona, brown eyes, brown hair, red eyes, short hair, grey hair, long hair
 (tougou hifumi:1.3), persona, long hair, green eyes, brown hair, black hair
 (lisa silverman:1.3), persona, brown hair, short hair, blonde hair, blue eyes, black hair
 (izanami \(persona\):1.3), persona, grey hair, red eyes, short hair
-(lavenza \(persona 5\):1.3), persona, yellow eyes, grey hair, blonde hair, long hair, very long hair
+(lavenza \(persona 5\):1.3), persona, yellow eyes, grey hair, blonde hair, long hair, very long hair, ct_l4v3nza, platinum blonde hair <lora:Lavenza_p5_ct:1>
 (fushimi chihiro:1.3), persona, long hair, brown eyes, brown hair
+(caroline \(persona\):1.3), persona, p5caro, white hair, double hair bun, eyepatch, right eyepatch <lora:VelTwins:1>
+(justine \(persona\):1.3), persona, p5just, white hair, single braid, eyepatch, left eyepatch <lora:VelTwins:1>
