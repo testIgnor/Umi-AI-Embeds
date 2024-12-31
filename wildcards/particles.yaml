@@ -1,24 +1,3 @@
-'(bestiality, horse, feral horse:1.4), facing horse cock, kissing horse penis, horse penis, <[KneelingFellatioAddon]>, imminent penetration**(disembodied penis, anthro, pov:1.5)**':
-  Description:
-    - Horse Fellatio Addon
-  Tags:
-    - Particle
-    - BeastFellatio
-    - Horse
-'(bestiality, wolf, feral wolf:1.4), facing canine cock, kissing canine penis, canine penis, <[KneelingFellatioAddon]>, imminent penetration**(disembodied penis, anthro, pov:1.5)**':
-  Description:
-    - Wolf Fellatio Addon
-  Tags:
-    - Particle
-    - BeastFellatio
-    - Wolf
-'(bestiality, lion, feral lion:1.4), facing feline cock, kissing feline penis, feline penis, <[KneelingFellatioAddon]>, imminent penetration**(disembodied penis, anthro, pov:1.5)**':
-  Description:
-    - Lion Fellatio Addon
-  Tags:
-    - Particle
-    - BeastFellatio
-    - Lion
 'jewelry, {1-4$$ear piercing||navel piercing||nipple piercing||clitoris piercing}':
   Description:
     - All Piercings
@@ -258,12 +237,13 @@
     - soft
     - huge
     - upper
-'{25%<[FutaAddon]>||<[FutaAddon][--Beast]>}':
+'{33%<[FutaAddon][Beast]>||<[FutaAddon][--Beast]>}':
   Description:
     - Futanari Wrapper
   Tags:
     - Particle
     - ezFuta
+    - Branching
 '(futanari, dickgirl:1.3), <[ezpenis]>**(disembodied penis:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Futanari Add-on
@@ -581,37 +561,6 @@
   Tags:
     - Particle
     - 2girlsbase
-'(fellatio, oral, cock worship, sucking dick, giving blowjob, giving fellatio, penetrated, kneeling, leaning forward:1.2), (cum on face, cum, cum on chest, cum on body:1.4)':
-  Description:
-    - Giving Fellatio Addon
-  Tags:
-    - Particle
-    - FellatioAddon
-    - KneelingFellatioAddon
-    - Giver
-"(getting dick sucked, receiving blowjob, receiving fellatio, penetrating, standing, hands on another's head:1.4)":
-  Description:
-    - Receiving Fellatio Addon
-  Tags:
-    - Particle
-    - FellatioAddon
-    - Receiver
-'$#(nala \(the lion king\):1.3), (lioness anthro, lioness:1.5);character1#$, <[ezage][middle]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[eznips]>, $#<[fellatioaddon][giver]>;negative1#$':
-  Description:
-    - Nala Giving Fellatio
-  Tags:
-    - Particle
-    - NalaFellatio
-    - CharacterFellatio
-    - Giving
-'$#(zebra, zebra anthro:1.2);character2#$, <[ezage][upper]>, <[Emotions][positive]>, <[eznips]>, $#hooves, muscular female, <[ezhorsefuta]>, <[ezcumshot]>, <[fellatioaddon][receiver]>;negative2#$':
-  Description:
-    - Zebra Receiving Fellatio
-  Tags:
-    - Particle
-    - ZebraFellatio
-    - CharacterFellatio
-    - Receiving
 'as a (goth:1.5){, <[allpiercings]>||}{, heavy makeup||}{, runny mascara, runny makeup, ruined makeup||}{, black lipstick, smeared lipstick||}':
   Description:
     - Goth Addon

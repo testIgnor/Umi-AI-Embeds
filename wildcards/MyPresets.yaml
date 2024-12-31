@@ -1,4 +1,4 @@
-'<[CharacterPreset][female]>, {66%<[Clothing][female]>||<[eznude][female]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][female]>, {66%<[Clothing][female]>||<[eznude][female]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -6,7 +6,8 @@
     - 1girl
     - 1girlBase
     - Female
-'<[CharacterPreset][futanari]>, {66%<[Clothing][futanari]>||<[eznude][futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+    - Branching
+'<[CharacterPreset][futanari]>, {66%<[Clothing][futanari]>||<[eznude][futanari]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
   Tags:
@@ -14,6 +15,7 @@
     - 1girl
     - 1futaBase
     - Futanari
+    - Branching
 '<[CharacterPreset][male]>, {66%<[Clothing][futanari]>||<[eznude][futanari]>}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Franchise-specific Prompts
@@ -23,6 +25,7 @@
     - 1futaBase
     - Male
     - Futanari
+    - Branching
 '<[1girlbase]>':
   Description:
     - Random Girl
@@ -42,14 +45,17 @@
   - Female Prompts
   Tags:
   - FemalePrompt
+  - Branching
 '{15%<[PositionPreset][futanari]>||15%<[OutfitPreset][futanari]>||10%<[VariantPreset][futanari]>||<[GeneralPreset][futanari]>}':
   Description:
   - Futanari Prompts
   Tags:
   - FutanariPrompt
+  - Branching
 
 '{5%<[LegacyPrompt]>||35%<[futanariprompt]>||<[femaleprompt]>}':
   Description:
   - Call This
   Tags:
   - MyPreset
+  - Branching

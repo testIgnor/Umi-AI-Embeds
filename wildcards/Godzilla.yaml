@@ -72,7 +72,7 @@
     - ezMechagodzillaFuta
 
 # franchisepresets
-'NSFW, 1girl, <[characters][Godzilla]>, <[Artists][--3D]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Godzilla]>, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Godzilla Character
   Tags:
@@ -81,7 +81,7 @@
     - GodzillaFranchise
     - FranchisePreset
     - Female
-'NSFW, 1girl, <[characters][Mechagodzilla]>, <[Artists][--3D]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Mechagodzilla]>, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Mechagodzilla
   Tags:
@@ -91,7 +91,7 @@
     - FranchisePreset
     - Female
 
-'NSFW, 1futa, <[characters][Godzilla]>, <[ezFuta]>, <[Artists][--3D]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[characters][Godzilla]>, <[ezFuta]>, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Godzilla Character
   Tags:
@@ -100,7 +100,7 @@
     - GodzillaFranchise
     - FranchisePreset
     - Futanari
-'NSFW, 1futa, <[characters][Mechagodzilla]>, {75%<[ezMechagodzillaFuta]>||<[FutaAddon][--Beast]>}, <[Artists][--3D]>, {1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[characters][Mechagodzilla]>, {75%<[ezMechagodzillaFuta]>||<[FutaAddon][--Beast]>}, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Mechagodzilla
   Tags:
@@ -109,8 +109,9 @@
     - GodzillaFranchise
     - FranchisePreset
     - Futanari
+    - Branching
 
-'<[FranchisePreset][Mechagodzilla][Female]>{15%, <[ezpreg]>||}, <[eznude][female]>, robot nipples, robot pussy':
+'<[FranchisePreset][Mechagodzilla][Female]>, <[eznude][female]>, robot nipples, robot pussy':
   Description:
     - Random Female Characters
   Tags:
@@ -118,7 +119,7 @@
     - GodzillaPreset
     - 1girl
     - Female
-'<[FranchisePreset][Mechagodzilla][Futanari]>{15%, <[ezpreg]>||}, <[eznude][futanari]>, robot nipples':
+'<[FranchisePreset][Mechagodzilla][Futanari]>, <[eznude][futanari]>, robot nipples':
   Description:
     - Random Female Characters
   Tags:
@@ -126,14 +127,14 @@
     - GodzillaPreset
     - 1girl
     - Futanari
-'<[FranchisePreset][Godzilla][Female]>{15%, <[ezpreg]>||}, <[eznude][female]>':
+'<[FranchisePreset][Godzilla][Female]>, <[eznude][female]>':
   Description:
     - Random Female Characters
   Tags:
     - GodzillaPreset
     - 1girl
     - Female
-'<[FranchisePreset][Godzilla][Futanari]>{15%, <[ezpreg]>||}, <[eznude][futanari]>':
+'<[FranchisePreset][Godzilla][Futanari]>, <[eznude][futanari]>':
   Description:
     - Random Female Characters
   Tags:
