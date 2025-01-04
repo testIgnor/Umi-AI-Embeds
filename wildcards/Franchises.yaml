@@ -2,73 +2,73 @@
   Description:
     - Random Types of Characters
   Tags:
-    - Species
+    - MySpecies
     - Demons
 'source_anime, __Species/Franxx__':
   Description:
     - Random Types of Characters
   Tags:
-    - Species
+    - MySpecies
     - Franxx
 'source_anime, __Species/Magical Girls__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Random Types of Characters
   Tags:
-    - Species
+    - MySpecies
     - Magical Girls
 'source_anime, __Species/Mass Effect__':
   Description:
     - Random Types of Characters
   Tags:
-    - Species
+    - MySpecies
     - Mass Effect
-'source_furry, __Species/MySpecies__**(hair, hat, headwear:2.0)**':
+'source_furry, __Species/Misc__**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
+    - Misc
     - MySpecies
-    - Species
 'source_furry, $#__Species/Pokemon__;theanimal#$, $#theanimal#$ anthro, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
     - Pokemon
-    - Species
+    - MySpecies
 'source_furry, $#__Species/Animals__;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
     - Animals
-    - Species
+    - MySpecies
 'source_anime, __Species/Robots__':
   Description:
     - Random Types of Characters
   Tags:
-    - Species
+    - MySpecies
     - Robots
 'source_anime, __Species/Royalty__, regal, elegant, royal family, royal, crown, tiara**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Random Species
   Tags:
     - Royalty
-    - Species
+    - MySpecies
 'source_furry, __Species/SkyrimWerewolf__':
   Description:
     - Ookami Characters
   Tags:
     - SkyrimWerewolf
-    - Species
+    - MySpecies
 'source_anime, __Species/Special Kinds__':
   Description:
     - Random Types of Characters
   Tags:
-    - Species
+    - MySpecies
     - Special Kinds
 'source_anime, __Species/Warhammer__':
   Description:
     - Random Types of Characters
   Tags:
-    - Species
+    - MySpecies
     - Warhammer
 'source_anime, __Franchise Girls__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
