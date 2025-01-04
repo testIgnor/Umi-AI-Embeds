@@ -50,6 +50,10 @@ naked cape, <[eznude][female]>
 fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][female]>
 fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, <[ezbottomless][female]>
 open dress, <[eznude][female]>
+open bathrobe, <[eznude][female]>
+open bathrobe, <[covered][upper]>
+open clothes, <[eznude][female]>
+open shirt, <[eznips]>
 fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][female]>
 biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][female]>**(helmet, headwear, hat:2.0)**
 functionally nude, <[eznude][female]>
