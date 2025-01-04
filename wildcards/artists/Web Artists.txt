@@ -3,7 +3,7 @@ by aroma sensei
 by personal ami
 by prywinko
 by revolverwing
-by realjohndoe
+by johndoe, <lora:johndoe:0.66>
 by kittew
 by hornyx
 by pia sama

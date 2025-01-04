@@ -8,7 +8,7 @@ by [dandon fuga|sakimichan]
 by tarakanovich <lora:tarakanovich1.5:0.66>
 by pochincoff, pochincoffstyle <lora:Pochincoff_style:0.66>
 by jack dempa <lora:jack_dempa_style_pdxl_goofy:0.66>
-by realjohndoe, john doe
+by johndoe, <lora:johndoe:0.66>
 by cutesexyrobutts
 by dosh
 by utterangle
