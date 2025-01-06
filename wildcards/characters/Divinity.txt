@@ -1,5 +1,6 @@
 (harvest goddess \(harvest moon\):1.3), goddess, holy, divinity
-(virgin mary:1.3), the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, goddess, holy, divinity, virgin_mary, brown hair, wavy hair, long hair <lora:checkpoint-e25_s675:1>
-(Goddess of Forest:1.3), blonde hair, long hair, brown eyes, red lips <lora:Kai_Goddess of Forest:1>
-(Goddess of Moon:1.3), brown hair, long hair, green eyes, red lips <lora:Kai_Goddess of Moon:1>
-(Goddess of Youth:1.3), blonde hair, long hair, sidelock, blue eyes, red lips <lora:Kai_Goddess of Youth:1>
+(virgin mary:1.3), the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, goddess, holy, divinity, virgin_mary, brown hair, wavy hair, long hair <lora:checkpoint-e25_s675:0.66>
+(Goddess of Forest:1.3), blonde hair, long hair, brown eyes, red lips <lora:Kai_Goddess of Forest:0.66>
+(Goddess of Moon:1.3), brown hair, long hair, green eyes, red lips <lora:Kai_Goddess of Moon:0.66>
+(Goddess of Youth:1.3), blonde hair, long hair, sidelock, blue eyes, red lips <lora:Kai_Goddess of Youth:0.66>
+(goddess:1.3), silver hair, long hair, purple eyes, red lips <lora:Kai_goddess:0.66>
