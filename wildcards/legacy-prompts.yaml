@@ -261,7 +261,7 @@
   Tags:
     - 1girl
     - LegacyPrompt
-'NSFW, 1futa, source_furry, {(Zebra:1.3), (zebra:1.3) anthro, <[ezage][female]>, <[ezhorsefuta]>, <[eznude][futanari]>, hooves**(feet, toes, horse:1.5)**||(spotted hyena:1.3), (spotted hyena:1.3) anthro, <[ezage][female]>, <[ezhyenafuta]>, <[eznude][futanari]>}, <[Artists][--3D]>{15%, <[ezpreg]>||}, <[Ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0), (hair, hat, headwear:2.0)**':
+'NSFW, 1futa, source_furry, (Zebra:1.3), (zebra:1.3) anthro, <[ezage][female]>, <[ezhorsefuta]>, <[eznude][futanari]>, hooves, <[Artists][--3D]>{15%, <[ezpreg]>||}, <[Ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0), (hair, hat, headwear:2.0), (feet, toes, horse:1.5)**':
   Description:
     - Zebra or Hyena Futa
   Tags:
@@ -269,10 +269,35 @@
     - LegacyPrompt
     - Futanari
     - zebrahyenafuta
-'NSFW, 1girl, source_furry, {(anthroid:1.3), <lora:RoboFur_Anthro_v1:1> digitigrade, plantigrade, robofur_anthro, $#__Species/Animals__;animal#$ anthro, robotic, $#animal#$||(feraldroid:1.3), <lora:RoboFur_Feral_v1:1> robofur_feral, feral $#__Species/Animals__;animal#$, digitigrade, robotic, $#animal#$**(anthro:2.0)**||(robotaur:1.3), <lora:RoboTaur_v1:1> RoboTaur, $#__Species/Animals__;animal#$ taur, robotic, quadruped, digitigrade, $#animal#$}, <[Artists][--3D]>, {<[ezage][female]>, <[eznude][female]>||<[ezage][futanari]>, <[eznude][futanari]>}{15%, <[ezpreg]>||}, <[Ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>, <[imageformat]>, <[MyLocation]>':
+'NSFW, 1futa, source_furry, (spotted hyena:1.3), (spotted hyena:1.3) anthro, <[ezage][female]>, <[ezhyenafuta]>, <[eznude][futanari]>, <[Artists][--3D]>{15%, <[ezpreg]>||}, <[Ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0), (hair, hat, headwear:2.0)**':
+  Description:
+    - Zebra or Hyena Futa
+  Tags:
+    - 1girl
+    - LegacyPrompt
+    - Futanari
+    - zebrahyenafuta
+'NSFW, 1girl, source_furry, (anthroid:1.3), <lora:RoboFur_Anthro_v1:1> {digitigrade||plantigrade}, robofur_anthro, robotic $#__Species/Animals__;animal#$ anthro, robotic, machine, living, machine, robot, robot joints, $#animal#$, <[Artists][--3D]>, {<[ezage][female]>, <[eznude][female]>||<[ezage][futanari]>, <[eznude][futanari]>}{15%, <[ezpreg]>||}, <[Ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>, <[imageformat]>, <[MyLocation]>**(human, human skin, reference sheet, multiple views:2.0)**':
   Description:
     - Anthroids
   Tags:
     - 1girl
     - LegacyPrompt
     - Futanari
+    - Anthroid
+'NSFW, 1girl, source_furry, (feraldroid:1.3), <lora:RoboFur_Feral_v1:1> robofur_feral $#__Species/Animals__;animal#$, feral $#animal#$, digitigrade, robotic, machine, living machine, robot, robot joints, quadruped, digitigrade, $#animal#$, <[Artists][--3D]>, {<[ezage][female]>, <[eznude][female]>||<[ezage][futanari]>, <[eznude][futanari]>}{15%, <[ezpreg]>||}, <[Ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>, <[imageformat]>, <[MyLocation]>**(anthro, human, human skin, biped:2.0)**':
+  Description:
+    - Anthroids
+  Tags:
+    - 1girl
+    - LegacyPrompt
+    - Futanari
+    - Anthroid
+'NSFW, 1girl, source_furry, (robotaur:1.3), <lora:RoboTaur_v1:1> RoboTaur, robotic $#__Species/Animals__;animal#$ taur, robotic, animal ears, claws, paws, taur, quadruped, machine, living, machine, robot, robot joints, digitigrade, $#animal#$, <[Artists][--3D]>, {<[ezage][female]>, <[eznude][female]>||<[ezage][futanari]>, <[eznude][futanari]>}{15%, <[ezpreg]>||}, <[Ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>, <[imageformat]>, <[MyLocation]>**(human, human skin:2.0)**':
+  Description:
+    - Anthroids
+  Tags:
+    - 1girl
+    - LegacyPrompt
+    - Futanari
+    - Anthroid
