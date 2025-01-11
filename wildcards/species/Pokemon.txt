@@ -92,3 +92,4 @@
 (articuno:1.3), <lora:POKEMON_ARTICUNO:0.6> articuno
 (ampharos:1.3), <lora:CHARACTER_AMPHAROS_PONY_XL:0.6> Ampharos
 (alolan vulpix:1.3), <lora:POKEMON_ALOLAN_VULPIX:0.6> alolan_vulpix
+(iron valiant:1.3), <lora:IronValiant:0.6> ironvaliantsv, green hair, colored skin, white skin, pink eyes, colored sclera
