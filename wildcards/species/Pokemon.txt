@@ -63,10 +63,7 @@
 (garchomp:1.3), <lora:GarchompF:0.6> furry, furry female, pokemon creature, colored sclera, black sclera, yellow eyes, colored skin, tail, claws, shiny skin
 (mewtwo:1.3), <lora:Mewtwo:0.6> purple eyes, tail, pokemon creature
 (cresselia:1.3)
-(nihilego:1.3)
 (pheromosa:1.3)
-(chien-pao:1.3)
-(ho-oh:1.3)
 (xerneas:1.3)
 (celebi:1.3), <lora:POKEMON_CELEBI:0.6> Celebi
 (keldeo:1.3)
@@ -83,9 +80,7 @@
 (jirachi:1.3), <lora:POKEMONL_JIRACHI:0.6> Jirachi
 (goodra:1.3), <lora:goodra:0.6> Goodra, antennae, dripping goo, HGoodra, antennae, snail shell, dripping slime
 (gallade:1.3), <lora:Gallade:0.6> gallade, green hair, red eyes, red eye, one eye visible, head crest, green body, white body
-(flutter mane:1.3), <lora:Flutter_Mane_Pony:0.6> FlttrMn
 (flaaffy:1.3), <lora:POKEMON_FLAAFFY:0.6> flaaffy
-(emolga:1.3), <lora:EmolgaSDXL:0.6> Emolga, Patagium
 (delcatty:1.3), <lora:POKEMON_DELCATTY:0.6> delcatty
 (azelf:1.3), <lora:POKEMON_AZELF:0.6> azelf, light blue body, 2tails
 (aurorus:1.3), <lora:AurorusF:0.6> blue eyes, colored skin, blue skin, tail
