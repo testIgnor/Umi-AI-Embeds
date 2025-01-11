@@ -34,6 +34,14 @@
   Tags:
     - Pokemon
     - MySpecies
+    - Anthro
+'source_furry, $#__Species/Pokemon__;theanimal#$, feral $#theanimal#$, feral, pokemon \(creature\)**(anthro, pokeball:2.0), (hair, hat, headwear:2.0)**':
+  Description:
+    - Random Species
+  Tags:
+    - Pokemon
+    - MySpecies
+    - Feral
 'source_furry, $#__Species/Animals__;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species

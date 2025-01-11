@@ -99,3 +99,7 @@ open bathrobe, <[eznude][futanari]>
 open bathrobe, <[covered][upper]>
 open clothes, <[eznude][futanari]>
 open shirt, <[eznips]>
+goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][futanari]>
+center open swimsuit, <lora:open swimwear_pony_V1.0:1> open swimwear, center opening, net, <[ezcovered][futanari]>
+open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][futanari]>
+bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][futanari]>

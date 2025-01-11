@@ -5,3 +5,5 @@ fully clothed, skimpy clothes, bikini, <[ezcovered][futanari]>
 fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovered][futanari]>
 4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][futanari]>, <lora:4ng3ll1ngXLP:0.6>
 bodypaint clothes, bodypaint, <[eznude][futanari]> <lora:bodypaint clothes_pony_V1.0:1>
+center open swimsuit, <lora:open swimwear_pony_V1.0:1> open swimwear, center opening, net, <[ezcovered][futanari]>
+open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][futanari]>

@@ -71,3 +71,4 @@
 (mina \(pokemon\):1.3), pokemon, blue eyes, grey eyes, blonde hair, half-closed eyes, long hair
 (delia ketchum:1.3), delia scarlet \(pokemon\), pokemon, brown eyes, brown hair, closed eyes, black hair, short hair, long hair
 (jenny \(pokemon\):1.3), pokemon, long hair, green hair
+(shaymin:1.3), <lora:Shaymin_Human:1> Shaymin_Human
