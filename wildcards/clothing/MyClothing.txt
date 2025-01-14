@@ -31,4 +31,4 @@ blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos
 blindfold, covered eyes, chain, collar, bondage outfit, underboob, black short shorts
 parasite, <lora:chokerV2:1> alien parasite ckr sucked on neck, ckr
 goddess dress, <lora:g0dd3ssXLP:0.4> g0dd3ss, white dress
-parasite, <lora:starfish_parasites:1> alien parasites on breasts, srfh, sucked on breasts
+parasite, <lora:starfish_parasites:0.6> alien parasites on breasts, srfh, sucked on breasts, <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
