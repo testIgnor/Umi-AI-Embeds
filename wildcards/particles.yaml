@@ -475,14 +475,14 @@
     - Particle
     - ImageFormat
     - FullBody
-'(full body, from side:1.5)':
+'(full body, quarter turn, from side:1.2)':
   Description:
     - Full Body, From Side
   Tags:
     - Particle
     - ImageFormat
     - FromSide
-'(full body, from behind:1.5)':
+'(full body, quarter turn, from behind:1.2)':
   Description:
     - Full Body, From Behind
   Tags:
@@ -547,18 +547,6 @@
     - Particle
     - ezMaleSwimwearChallenge
     - Futanari
-'wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][female]>':
-  Description:
-    - BDSM addon
-  Tags:
-    - Particle
-    - ezBDSM
-'fully clothed, wearing tight leather armor, armor, {<[eznude][female]>||<[ezcovered][female]>}':
-  Description:
-    - Armor Addon
-  Tags:
-    - Particle
-    - ezArmor
 'NSFW, 2girls, <[Artists][--3D]>, <[GazeFormat]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:0.5>**(1girl, 3girls, 4girls:2.0), (conjoined, fused limb, fused arm, disembodied penis:1.7)**':
   Description:
     - 2girls base
