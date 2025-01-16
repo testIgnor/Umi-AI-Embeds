@@ -71,15 +71,14 @@
     - Particle
     - ezMechagodzillaFuta
 
-# franchisepresets
+# CharacterPresets
 'NSFW, 1girl, <[characters][Godzilla]>, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Godzilla Character
   Tags:
     - 1girl
     - Godzilla
-    - GodzillaFranchise
-    - FranchisePreset
+    - CharacterPreset
     - Female
 'NSFW, 1girl, <[characters][Mechagodzilla]>, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
@@ -87,8 +86,8 @@
   Tags:
     - 1girl
     - Mechagodzilla
-    - GodzillaFranchise
-    - FranchisePreset
+    - Godzilla
+    - CharacterPreset
     - Female
 
 'NSFW, 1futa, <[characters][Godzilla]>, <[ezFuta]>, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
@@ -97,8 +96,7 @@
   Tags:
     - 1girl
     - Godzilla
-    - GodzillaFranchise
-    - FranchisePreset
+    - CharacterPreset
     - Futanari
 'NSFW, 1futa, <[characters][Mechagodzilla]>, {75%<[ezMechagodzillaFuta]>||<[FutaAddon][--Beast]>}, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
@@ -106,12 +104,12 @@
   Tags:
     - 1girl
     - Mechagodzilla
-    - GodzillaFranchise
-    - FranchisePreset
+    - Godzilla
+    - CharacterPreset
     - Futanari
     - Branching
 
-'<[FranchisePreset][Mechagodzilla][Female]>, <[eznude][female]>, robot nipples, robot pussy':
+'<[CharacterPreset][Mechagodzilla][Female]>, <[eznude][female]>, robot nipples, robot pussy':
   Description:
     - Random Female Characters
   Tags:
@@ -119,7 +117,7 @@
     - GodzillaPreset
     - 1girl
     - Female
-'<[FranchisePreset][Mechagodzilla][Futanari]>, <[eznude][futanari]>, robot nipples':
+'<[CharacterPreset][Mechagodzilla][Futanari]>, <[eznude][futanari]>, robot nipples':
   Description:
     - Random Female Characters
   Tags:
@@ -127,14 +125,14 @@
     - GodzillaPreset
     - 1girl
     - Futanari
-'<[FranchisePreset][Godzilla][Female]>, <[eznude][female]>':
+'<[CharacterPreset][Godzilla][Female]>, <[eznude][female]>':
   Description:
     - Random Female Characters
   Tags:
     - GodzillaPreset
     - 1girl
     - Female
-'<[FranchisePreset][Godzilla][Futanari]>, <[eznude][futanari]>':
+'<[CharacterPreset][Godzilla][Futanari]>, <[eznude][futanari]>':
   Description:
     - Random Female Characters
   Tags:
