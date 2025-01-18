@@ -42,12 +42,6 @@
   Tags:
     - Characters
     - Mechagodzilla
-'<[MechagodzillaCharacterBase]>, <[MyMechagodzilla]>':
-  Description:
-    - My Mechagodzilla
-  Tags:
-    - Characters
-    - Mechagodzilla
 
 'source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0)**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
   Description:
