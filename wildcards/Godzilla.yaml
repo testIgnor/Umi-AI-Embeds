@@ -5,13 +5,13 @@
   Tags:
     - Particle
     - MyMechagodzilla
-'Kiryu, (robot:1.5), dragon, (high heels:1.5), (digitigrade feet:1.3), (no humans:2.0) <lora:Kiryu_v20:0.33>**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
+'Kiryu, (robot:1.5), dragon, (high heels:1.5), (digitigrade feet:1.3), (no humans:2.0) <lora:Kiryu_v20:0.4>**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
   Description:
     - Kiryu Character
   Tags:
     - Particle
     - KiryuMechagodzilla
-'mecha_godzilla, (high heels:1.5), (digitigrade feet:1.3), anthro, (no humans:2.0) <lora:CHARACTER_MECHAGODZILLA:0.33>**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
+'mecha_godzilla, (high heels:1.5), (digitigrade feet:1.3), anthro, (no humans:2.0) <lora:CHARACTER_MECHAGODZILLA:0.4>**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
   Description:
     - Kiryu Character
   Tags:
@@ -30,14 +30,44 @@
   Tags:
     - Characters
     - Mechagodzilla
+'<[MechagodzillaCharacterBase]>, [<[KiryuMechagodzilla]>|<[MyMechagodzilla]>|<[MyMechagodzilla]>]':
+  Description:
+    - Mechagodzilla Mix
+  Tags:
+    - Characters
+    - Mechagodzilla
+'<[MechagodzillaCharacterBase]>, [<[MechaMechagodzilla]>|<[MyMechagodzilla]>|<[MyMechagodzilla]>]':
+  Description:
+    - Mechagodzilla Mix
+  Tags:
+    - Characters
+    - Mechagodzilla
+'<[MechagodzillaCharacterBase]>, <[MyMechagodzilla]>':
+  Description:
+    - My Mechagodzilla
+  Tags:
+    - Characters
+    - Mechagodzilla
 
-'source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0)**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0), (yellow skin, orange skin, red skin:1.7)**':
+'source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0)**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
   Description:
     - Godzilla Characters
   Tags:
     - Characters
     - Godzilla
-'source_anime, (godzilla:1.5) <[GodzillaCharacterBase]>, (dark-skinned female, coloured skin, colored skin:1.5), yellow eyes, long hair, black hair, two-tone hair, tail, large tail, long tail, very long tail, personification, scale on body, glowing <lora:Godzilla_Personified:0.66>**(wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0), (yellow skin, orange skin, red skin:1.7)**':
+'source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0) <lora:Godzilla_PONY_XL_Ver:1>**(human, human girl, human boy, human female, human male, wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
+  Description:
+    - Godzilla Characters
+  Tags:
+    - Characters
+    - Godzilla
+'source_anime, (godzilla:1.5) <[GodzillaCharacterBase]>, (dark-skinned female, coloured skin, colored skin:1.5), yellow eyes, long hair, black hair, two-tone hair, tail, large tail, long tail, very long tail, personification, scale on body, glowing <lora:Godzilla_Personified:0.66>**(wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
+  Description:
+    - Godzilla Characters
+  Tags:
+    - Characters
+    - Godzilla
+'source_anime, (godzilla:1.5) <[GodzillaCharacterBase]>, (dark-skinned female, coloured skin, colored skin:1.5), <lora:Godzilla_Kaiju_Girls_Pony:0.66> imtdgodzillakg, long hair, black hair, tail, red eyes, hair between eyes, ahoge, sharp teeth, monster girl, dragon girl**(wings, wing, weapon, weapons, gun, missile, car, vehicle, fire, flame, hair, hat, headwear:2.0)**':
   Description:
     - Godzilla Characters
   Tags:
@@ -45,13 +75,13 @@
     - Godzilla
 
 # character particles
-'source_furry, (mechagodzilla:1.4) <[GodzillaCharacterBase]>**(colored skin, yellow skin, orange skin, red skin, blue skin:1.7)**':
+'source_anime, (mechagodzilla:1.4) <[GodzillaCharacterBase]>':
   Description:
     - Mechagodzilla Character Base
   Tags:
     - Particle
     - MechagodzillaCharacterBase
-'as a <[ezage][female][--hairy]>, (genderswap:1.6), (female:1.1), (scalie:1.3), (kaiju, monster:1.6), tail':
+'as a <[ezage][female][--hairy]>, (genderswap:1.6), (female, feminine:1.2), (scalie:1.3), (kaiju, monster:1.6), tail**(colored skin, colored skin, yellow skin, orange skin, red skin, green skin, blue skin, blue skin:2.0), (male, masculine:2.0)**':
   Description:
     - Godzilla Character Base
   Tags:
