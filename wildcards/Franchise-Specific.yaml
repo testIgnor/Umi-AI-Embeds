@@ -2599,6 +2599,34 @@
     - CharacterPreset
     - Male
 
+'NSFW, 1girl, <[myspecies][Aeromorphs]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Aeromorphs Character
+  Tags:
+    - 1girl
+    - Aeromorphs
+    - CharacterPreset
+    - Female
+    - SpeciesPreset
+'NSFW, 1futa, <[myspecies][Aeromorphs]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Aeromorphs Character Futa
+  Tags:
+    - 1girl
+    - Aeromorphs
+    - CharacterPreset
+    - Futanari
+    - SpeciesPreset
+'NSFW, 1boy, <[myspecies][Aeromorphs]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Aeromorphs Character Trap
+  Tags:
+    - 1boy
+    - Aeromorphs
+    - CharacterPreset
+    - Male
+    - SpeciesPreset
+
 'NSFW, 1girl, <[myspecies][Animals]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Animals Character

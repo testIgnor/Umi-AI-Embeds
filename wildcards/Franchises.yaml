@@ -1,24 +1,24 @@
 ﻿'source_anime, __Species/Demons__':
   Description:
-    - Random Types of Characters
+    - Demons
   Tags:
     - MySpecies
     - Demons
 'source_anime, __Species/Franxx__':
   Description:
-    - Random Types of Characters
+    - Franxx
   Tags:
     - MySpecies
     - Franxx
 'source_anime, __Species/Magical Girls__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
-    - Random Types of Characters
+    - Magical Girls
   Tags:
     - MySpecies
     - Magical Girls
 'source_anime, __Species/Mass Effect__':
   Description:
-    - Random Types of Characters
+    - Mass Effect Aliens
   Tags:
     - MySpecies
     - Mass Effect
@@ -30,14 +30,14 @@
     - MySpecies
 'source_furry, $#__Species/Pokemon__;theanimal#$, $#theanimal#$ anthro, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
   Description:
-    - Random Species
+    - Pokemon Anthro
   Tags:
     - Pokemon
     - MySpecies
     - Anthro
 'source_furry, $#__Species/Pokemon__;theanimal#$, feral $#theanimal#$, feral, pokemon \(creature\)**(anthro, pokeball:2.0), (hair, hat, headwear:2.0)**':
   Description:
-    - Random Species
+    - Pokemon Feral
   Tags:
     - Pokemon
     - MySpecies
@@ -50,19 +50,19 @@
     - MySpecies
 'source_anime, __Species/Robots__':
   Description:
-    - Random Types of Characters
+    - Robots
   Tags:
     - MySpecies
     - Robots
 'source_anime, __Species/Royalty__, regal, elegant, royal family, royal, crown, tiara**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**':
   Description:
-    - Random Species
+    - Royalty
   Tags:
     - Royalty
     - MySpecies
 'source_furry, __Species/SkyrimWerewolf__':
   Description:
-    - Ookami Characters
+    - Skyrim Werewolf
   Tags:
     - SkyrimWerewolf
     - MySpecies
@@ -74,7 +74,13 @@
     - Special Kinds
 'source_anime, __Species/Warhammer__':
   Description:
-    - Random Types of Characters
+    - Warhammer Creatures
+  Tags:
+    - MySpecies
+    - Warhammer
+'source_anime, __Species/Aeromorphs__, <lora:Aeromorph_for_pony:0.6> aeromp':
+  Description:
+    - Aeromorphs
   Tags:
     - MySpecies
     - Warhammer
