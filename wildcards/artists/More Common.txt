@@ -1,0 +1,9 @@
+by tarakanovich <lora:tarakanovich1.5:0.66>
+by pochincoff, pochincoffstyle <lora:Pochincoff_style:0.66>
+by jack dempa <lora:jack_dempa_style_pdxl_goofy:0.66>
+by johndoe, <lora:johndoe:0.66>
+by cutesexyrobutts
+by pixelsketcher
+by doppel
+by slightlysimian
+by girlsay
