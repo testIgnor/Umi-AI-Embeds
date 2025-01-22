@@ -40,7 +40,7 @@ unconventional maid, jersey maid, <[ezcovered][female]>
 unconventional maid, maid leotard, <[ezcovered][female]>
 unconventional maid, maid one-piece swimsuit, <[ezcovered][female]>
 unconventional maid, yuino maid dress, <[ezcovered][female]>
-painted clothes, false clothes, fully clothed, functionally nude, <[eznude][female]>
+painted clothes, false clothes, fully clothed, functionally nude, <[ezcovered][female]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint
 naked kimono, <[eznude][female]>
 naked shirt, <[eznude][female]>
 business suit, tight clothes, <[ezcovered][female]>
@@ -51,7 +51,7 @@ fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dres
 fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, <[ezbottomless][female]>
 open dress, <[eznude][female]>
 open bathrobe, <[eznude][female]>
-open bathrobe, <[covered][upper]>
+open bathrobe, <[covered][upper][female]>
 open clothes, <[eznude][female]>
 open shirt, <[eznips]>
 fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][female]>
@@ -59,7 +59,7 @@ biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][female]>**(helm
 functionally nude, <[eznude][female]>
 <[eztopless][female]>
 sling bikini, slingshot swimsuit, <[ezcovered][female]>
-slingshot swimsuit, <[ezcovered][female]> <lora:slingshotPony_resize:1>
+slingshot swimsuit, <[ezcovered][female]> <lora:slingshotIllustrious:1>
 reverse bunnysuit, heart pasties, <[ezcovered][female]>, functionally nude
 (symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][female]>
 naked cloak, <[eznude][female]>
@@ -71,7 +71,7 @@ fully clothed, impossible clothes, <[ezcovered][female]>
 plugsuit, <[ezcovered][female]>
 naked overalls, <[eznude][female]>
 naked scarf, <[eznude][female]>
-(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[eznude][female]>**(skirt, bridal veil:2.0)**
+(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[ezcovered][female]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint**(skirt, bridal veil:2.0)**
 naked hoodie, <[eznude][female]>
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][female]>
 shibari over clothes, <[ezcovered][female]>
@@ -99,12 +99,20 @@ bodypaint clothes, bodypaint, <[eznude][female]> <lora:bodypaint clothes_pony_V1
 leotard, athletic leotard, tight clothes, <[ezcovered][female]>
 leotard, sheer leotard, tight clothes, <[ezcovered][female]>
 leotard, breastless leotard, tight clothes, <[eztopless][female]>
-leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][female]>
+leotard, crotchless leotard, tight clothes, <[covered][upper][female]>, <[ezbottomless][female]>
 fully clothed, wearing tight leather armor, armor, {<[eznude][female]>||<[ezcovered][female]>}
 wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][female]>
 evening gown, formal clothes, see-through clothes, revealing clothes, <[ezcovered][female]>
 evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][female]>
 goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][female]>
-center open swimsuit, <lora:open swimwear_pony_V1.0:1> open swimwear, center opening, net, <[ezcovered][female]>
+center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][female]>
 open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][female]>
 bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][female]>
+<lora:underboobnunILL:1> underboob nun, latex nun, underboob, nun, habit, detached sleeves, breast curtains, <[covered][lower][female]>
+<lora:NunV3ILL:1> nun, thighhighs, habit, large breasts, garter straps, frills, white skirt, long sleeves, <[covered][upper][female]>
+<lora:NunV4ILL:1> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][female]>
+<lora:latexbodysuitnunILL:1> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][female]>
+<lora:NunV5ILL:1> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][female]>
+<lora:gothicsheerleotardILL:1> see-through leotard, wide sleeves, long sleeves, thigh boots, thighhighs, highleg leotard, <[ezcovered][female]>
+<lora:chainmailbikiniILL:1> chainmail bikini, pelvic curtain
+<lora:AngellingerieILL:1> lingerie, bikini, criss-cross halter, <[ezcovered][female]>

@@ -12,8 +12,8 @@ by exlic
 by sakimichan
 by badcompzero
 by streachybear
-by wjs07, <lora:WJS07_PDXL:0.66> WJS07style
-by cutesexyrobutts
+by wjs07, <lora:WJS07_Illustrious:0.66> WJS07style
+by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.66>
 by afrobull
 by thiccwithaq
 by tarakanovich <lora:tarakanovich1.5:0.66>
@@ -36,8 +36,9 @@ by liang xing, by liangxing
 by dmitrys
 by saurian
 by melkor mancin
-by pochincoff, pochincoffstyle <lora:Pochincoff_style:0.66>
+by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:0.66>
 by jack dempa <lora:jack_dempa_style_pdxl_goofy:0.66>
+by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:0.66>
 by 007delta
 by 0r0ch1
 by 1-upclock

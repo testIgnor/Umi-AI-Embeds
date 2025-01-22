@@ -15,6 +15,7 @@
 (kai'sa:1.3), league of legends, long hair, purple hair, purple eyes, black hair
 (neeko \(league of legends\):1.3), league of legends, medium hair, multicolored hair, yellow eyes, pink hair, purple hair, long hair, blue hair, colored skin, green skin
 (arcane jinx:1.3), league of legends, long hair, blue hair, pink eyes
+(arcane jinx:1.3), league of legends, long hair, blue hair, pink eyes <lora:arcane_pony_v2-0-2:1>
 (annie \(league of legends\):1.3), league of legends, pink hair, short hair, long hair, green eyes, red hair
 (syndra:1.3), league of legends, very long hair, long hair, purple eyes, white hair
 (poppy \(league of legends\):1.3), league of legends, blonde hair, long hair, colored skin, blue skin
@@ -62,17 +63,18 @@
 (yuumi \(league of legends\):1.3), league of legends, long hair, blue eyes, short hair
 (aurora \(league of legends\):1.3), league of legends, orange hair, long hair, blue eyes, hair between eyes
 (powder \(arcane\):1.3), league of legends, long hair, blue hair, short hair
+(powder \(arcane\):1.3), league of legends, long hair, blue hair, short hair <lora:arcane_pony_v2-0-2:1>
 (vex shadow \(league of legends\):1.3), league of legends, green hair, pink eyes, short hair
 (officer caitlyn:1.3), league of legends, pink hair, long hair, blue hair, blue eyes, black hair
 (leona \(league of legends\):1.3)
 (irelia:1.3)
 (katarina \(league of legends\):1.3)
 (arcane caitlyn:1.3)
+(arcane caitlyn:1.3) <lora:arcane_pony_v2-0-2:1>
 (miss fortune \(league of legends\)**(hat:1.3), headwear:2.0)**
 (qiyana \(league of legends\):1.3)
 (vastaya \(league of legends\):1.3)
 (star guardian miss fortune:1.3)
-(arcane jinx:1.3)
 (zyra:1.3)
 (orianna \(league of legends\):1.3)
 (lillia \(league of legends\):1.3)
@@ -119,6 +121,7 @@
 (k/da all out akali:1.3)
 (star guardian soraka:1.3)
 (arcane vi:1.3)
+(arcane vi:1.3) <lora:arcane_pony_v2-0-2:1>
 (ahri \(league of legends\):1.3)
 (taliyah:1.3)
 (akali:1.3)
@@ -154,7 +157,6 @@
 (wolf \(league of legends\):1.3)
 (sona \(league of legends\):1.3)
 (zoe \(league of legends\):1.3)
-(powder \(arcane\):1.3)
 (battle bunny riven:1.3)
 (vayne \(league of legends\):1.3)
 (anivia:1.3), <lora:Anivia:1> bird, no humans, wings, forehead jewel, ice, beak, colored skin, blue skin, claws, talon, anthro

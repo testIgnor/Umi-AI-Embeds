@@ -56,8 +56,8 @@ cupless bra, crotchless panties, condom belt, used condom**(condom on penis:2.0)
 naked hoodie, <[eznude][futanari]>
 <[eztopless][futanari]>
 fully clothed, impossible clothes, <[ezcovered][futanari]>
-(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[eznude][futanari]>**(skirt, bridal veil:2.0)**
-painted clothes, false clothes, fully clothed, functionally nude, <[eznude][futanari]>
+(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[ezcovered][futanari]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint**(skirt, bridal veil:2.0)**
+painted clothes, false clothes, fully clothed, functionally nude, <[ezcovered][futanari]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint
 plugsuit, <[ezcovered][futanari]>
 tight t-shirt, wet t-shirt, short shorts, <[ezcovered][futanari]>
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered][futanari]>
@@ -78,7 +78,6 @@ skinbodysuit, bodysuit, <[ezcovered][futanari]> <lora:skinbodysuit e3:1>
 ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nude, metal spine, <[ezcovered][futanari]> <lora:0469 Stellar Blade (Skin Suit)_v3_pony:0.5>
 bodypaint \(ero\), <[eznude][futanari]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][futanari]> <lora:Glowing_handprint:1>
-fakeclothes, painted clothes, bodypaint, <[ezcovered][futanari]> <lora:Painted_clothes_Pony:1>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][futanari]> <lora:0765 flower wedding_v1_pony:1>
 4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][futanari]>, <lora:4ng3ll1ngXLP:0.6>
 parasite, <lora:canalV3:1> {1-2$$fake vagina cl in mouth||fake vagina cl in anus}, cl, <[eznude][futanari]>
@@ -92,14 +91,20 @@ bodypaint clothes, bodypaint, <[eznude][futanari]> <lora:bodypaint clothes_pony_
 leotard, athletic leotard, tight clothes, <[ezcovered][futanari]>
 leotard, sheer leotard, tight clothes, <[ezcovered][futanari]>
 leotard, breastless leotard, tight clothes, <[eztopless][futanari]>
-leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][futanari]>
+leotard, crotchless leotard, tight clothes, <[covered][upper][futanari]>, <[ezbottomless][futanari]>
 evening gown, formal clothes, see-through clothes, revealing clothes, <[ezcovered][futanari]>
 evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][futanari]>
 open bathrobe, <[eznude][futanari]>
-open bathrobe, <[covered][upper]>
+open bathrobe, <[covered][upper][futanari]>
 open clothes, <[eznude][futanari]>
 open shirt, <[eznips]>
 goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][futanari]>
-center open swimsuit, <lora:open swimwear_pony_V1.0:1> open swimwear, center opening, net, <[ezcovered][futanari]>
+center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][futanari]>
 open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][futanari]>
 bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][futanari]>
+<lora:underboobnunILL:1> underboob nun, latex nun, underboob, nun, habit, detached sleeves, breast curtains, <[covered][lower][futanari]>
+<lora:NunV3ILL:1> nun, thighhighs, habit, large breasts, garter straps, frills, white skirt, long sleeves, <[covered][upper][futanari]>
+<lora:NunV4ILL:1> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][futanari]>
+<lora:latexbodysuitnunILL:1> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][futanari]>
+<lora:NunV5ILL:1> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][futanari]>
+<lora:AngellingerieILL:1> lingerie, bikini, criss-cross halter, <[ezcovered][futanari]>

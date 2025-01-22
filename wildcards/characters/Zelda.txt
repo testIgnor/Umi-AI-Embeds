@@ -6,7 +6,7 @@
 (midna:1.3), orange hair, red eyes, yellow sclera, blue skin, ponytail, colored skin <lora:TLOZ_Midna_a1_1_PonyXL:1>
 (saria \(zelda\):1.3), green hair, blue eyes, short hair
 (toon zelda:1.3), multicolored hair, floating hair, blonde hair, long hair, blue eyes
-(riju:1.3), gerudo, dark-skinned female, long hair, green eyes, dark skin, red hair, <lora:Riju_Zelda_TotK_P1:1>
+(riju:1.3), gerudo, dark-skinned female, long hair, green eyes, dark skin, red hair, zzRiju <lora:RijuTotK_IXL_v3:1>
 (linkle:1.3), blonde hair, blue eyes, long hair
 (princess ruto:1.3), blue skin, colored skin, blue eyes, purple eyes <lora:Ruto_Zelda_P1:1>
 (marin \(zelda\):1.3), orange hair, brown eyes, brown hair, long hair

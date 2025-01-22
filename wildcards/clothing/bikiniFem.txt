@@ -9,5 +9,7 @@ fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovere
 ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][female]>, <lora:0588 fragmented swimsuit_v1_pony:0.6>
 4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][female]>, <lora:4ng3ll1ngXLP:0.6>
 bodypaint clothes, bodypaint, <[eznude][female]> <lora:bodypaint clothes_pony_V1.0:1>
-center open swimsuit, <lora:open swimwear_pony_V1.0:1> open swimwear, center opening, net, <[ezcovered][female]>
+center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][female]>
 open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][female]>
+<lora:chainmailbikiniILL:1> chainmail bikini, pelvic curtain
+<lora:AngellingerieILL:1> lingerie, bikini, criss-cross halter, <[ezcovered][female]>

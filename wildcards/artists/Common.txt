@@ -6,10 +6,12 @@ by [dandon fuga|sakimichan]
 (by [andava|ponpu]:0.6)
 (by [personal ami|personal ami, (aroma sensei:0.5)]:1.3) <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
 by tarakanovich <lora:tarakanovich1.5:0.66>
-by pochincoff, pochincoffstyle <lora:Pochincoff_style:0.66>
+by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:0.66>
 by jack dempa <lora:jack_dempa_style_pdxl_goofy:0.66>
 by johndoe, <lora:johndoe:0.66>
-by cutesexyrobutts
+by wjs07, <lora:WJS07_Illustrious:0.66> WJS07style
+by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:0.66>
+by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.66>
 by dosh
 by utterangle
 by redwolfxiii
