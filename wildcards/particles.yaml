@@ -518,9 +518,9 @@
   Tags:
     - Particle
     - ImageFormat
-'facing the camera, looking at viewer':
+'facing viewer, looking at viewer':
   Description:
-    - Looking at camera
+    - Looking at viewer
   Tags:
     - Particle
     - GazeFormat
