@@ -30,18 +30,6 @@
   Tags:
     - Characters
     - Mechagodzilla
-'<[MechagodzillaCharacterBase]>, [<[KiryuMechagodzilla]>|<[MyMechagodzilla]>|<[MyMechagodzilla]>]':
-  Description:
-    - Mechagodzilla Mix
-  Tags:
-    - Characters
-    - Mechagodzilla
-'<[MechagodzillaCharacterBase]>, [<[MechaMechagodzilla]>|<[MyMechagodzilla]>|<[MyMechagodzilla]>]':
-  Description:
-    - Mechagodzilla Mix
-  Tags:
-    - Characters
-    - Mechagodzilla
 
 'source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0)**(human, human girl, human boy, human female, human male:2.0)**':
   Description:
@@ -49,7 +37,7 @@
   Tags:
     - Characters
     - Godzilla
-'source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0) <lora:Godzilla_PONY_XL_Ver:1>**(human, human girl, human boy, human female, human male:2.0)**':
+'source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0) <lora:Godzilla_PONY_XL_Ver:0.66>**(human, human girl, human boy, human female, human male:2.0)**':
   Description:
     - Godzilla Characters
   Tags:
@@ -133,28 +121,28 @@
     - Futanari
     - Branching
 
-'<[CharacterPreset][Mechagodzilla][Female]>, {66%<[Clothing][female]>||<[eznude][female]>, robot nipples, robot pussy}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Mechagodzilla][Female]>, {66%<[Clothing][female]>||<[eznude][female]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Female Characters
   Tags:
     - MechagodzillaPreset
     - 1girl
     - Female
-'<[CharacterPreset][Mechagodzilla][Futanari]>, {66%<[Clothing][futanari]>||<[eznude][futanari]>, robot nipples}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Mechagodzilla][Futanari]>, {66%<[Clothing][futanari]>||<[eznude][futanari]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Female Characters
   Tags:
     - MechagodzillaPreset
     - 1girl
     - Futanari
-'<[CharacterPreset][Godzilla][--Mechagodzilla][Female]>, {66%<[Clothing][female]>||<[eznude][female]>, robot nipples, robot pussy}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Godzilla][--Mechagodzilla][Female]>, {66%<[Clothing][female]>||<[eznude][female]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Female Characters
   Tags:
     - GodzillaPreset
     - 1girl
     - Female
-'<[CharacterPreset][Godzilla][--Mechagodzilla][Futanari]>, {66%<[Clothing][futanari]>||<[eznude][futanari]>, robot nipples}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
+'<[CharacterPreset][Godzilla][--Mechagodzilla][Futanari]>, {66%<[Clothing][futanari]>||<[eznude][futanari]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
   Description:
     - Random Female Characters
   Tags:

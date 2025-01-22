@@ -3,7 +3,7 @@ by aroma sensei
 by personal ami
 by prywinko
 by revolverwing
-by johndoe, <lora:johndoe:0.66>
+by johndoe <lora:johndoe:0.75>
 by kittew
 by hornyx
 by pia sama
@@ -13,7 +13,7 @@ by sakimichan
 by badcompzero
 by streachybear
 by wjs07, <lora:WJS07_Illustrious:0.66> WJS07style
-by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.66>
+by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.3>
 by afrobull
 by thiccwithaq
 by tarakanovich <lora:tarakanovich1.5:0.66>
