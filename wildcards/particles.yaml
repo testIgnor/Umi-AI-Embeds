@@ -339,42 +339,21 @@
     - Particle
     - FutaAddon
     - ezrobotfuta
-'(strapon, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
+'(strapon, strap-on, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Strapon
   Tags:
     - Particle
     - FutaAddon
     - ezstrapon
-'(strapless strapon, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
+'(strapless strapon, strap-on, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Strapon
   Tags:
     - Particle
     - FutaAddon
     - ezstrapon
-'(improvised strapon, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Strapon
-  Tags:
-    - Particle
-    - FutaAddon
-    - ezstrapon
-'(ancient technology strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Strapon
-  Tags:
-    - Particle
-    - FutaAddon
-    - ezstrapon
-'(victorian era strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Strapon
-  Tags:
-    - Particle
-    - FutaAddon
-    - ezstrapon
-'[(strapon, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>|(precum, chastity cage:1.5), <[ezpenis][soft][lower]>]**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
+'[<[ezstrapon]>|(precum, chastity cage:1.5), <[ezpenis][soft][lower]>]**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Strapon with Chastity
   Tags:
