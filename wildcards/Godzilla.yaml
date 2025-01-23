@@ -1,5 +1,5 @@
 # character building blocks
-'(mecha godzilla:1.4), (mecha, robot, cyborg, robot joints, robot parts, robot breasts, robot genitals:1.7), (silver metal skin:1.6), (high heels:1.2), (digitigrade feet:1.1), blue eyes, black pupils, glowing eyes, science fiction, (no humans:2.0)**(godzilla:0.5)**':
+'(mecha godzilla:1.4), (mecha, robot, cyborg, robot joints, robot parts, robot breasts, robot genitals:1.7), (silver metal skin:1.6), (high heels:1.2), (digitigrade feet:1.1), science fiction, (no humans:2.0)**(godzilla:0.5)**':
   Description:
     - Custom Mechagodzilla Character
   Tags:
@@ -57,7 +57,7 @@
     - Godzilla
 
 # character particles
-'source_anime, (mechagodzilla:1.4) <[GodzillaCharacterBase]>**(no pupils, black sclera:2.0), (human, human girl, human boy, human female, human male:2.0)**':
+'source_anime, (mechagodzilla:1.4) <[GodzillaCharacterBase]>, blue eyes, glowing eyes**(no pupils, black sclera:2.0), (human, human girl, human boy, human female, human male:2.0)**':
   Description:
     - Mechagodzilla Character Base
   Tags:
