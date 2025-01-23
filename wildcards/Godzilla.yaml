@@ -57,7 +57,7 @@
     - Godzilla
 
 # character particles
-'source_anime, (mechagodzilla:1.4) <[GodzillaCharacterBase]>, blue eyes, glowing eyes, large pupils, black pupils**(no pupils, black sclera:2.0), (human, human girl, human boy, human female, human male:2.0)**':
+'source_anime, (mechagodzilla:1.4) <[GodzillaCharacterBase]>, blue eyes, glowing eyes, large pupils, black pupils**(no pupils, black sclera:2.0), (human, human girl, human boy, human female, human male:2.0), (horn:2.0)**':
   Description:
     - Mechagodzilla Character Base
   Tags:
