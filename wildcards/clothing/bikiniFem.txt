@@ -12,4 +12,9 @@ bodypaint clothes, bodypaint, <[eznude][female]> <lora:bodypaint clothes_pony_V1
 center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][female]>
 open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][female]>
 <lora:chainmailbikiniILL:1> chainmail bikini, pelvic curtain
-<lora:AngellingerieILL:1> lingerie, bikini, criss-cross halter, <[ezcovered][female]>
+<lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][female]>
+<lora:Shining_summer:1> 5h1n1ng_50mm3r, bikini, swimsuit, o-ring, <[ezcovered][female]>
+<lora:slingshot_mask:1> 5l1ngsh0t_m45k, slingshot swimsuit, <[ezcovered][female]>
+<lora:X_micro_bikini:1> X_m1cr0_b1k1n1, criss-cross halter, <[ezcovered][female]>
+<lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][female]>
+<lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][female]>

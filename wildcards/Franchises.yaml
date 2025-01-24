@@ -84,6 +84,12 @@
   Tags:
     - MySpecies
     - Aeromorphs
+'source_anime, __Species/Monster Girl Encyclopedia__ <lora:MGE_V5.2_IL:1>':
+  Description:
+    - Monster Girl Encyclopedia
+  Tags:
+    - MySpecies
+    - Monster Girl Encyclopedia
 'source_anime, __Franchise Girls__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Legacy Characters

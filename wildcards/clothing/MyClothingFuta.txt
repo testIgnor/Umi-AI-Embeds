@@ -107,4 +107,17 @@ bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, 
 <lora:NunV4ILL:1> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][futanari]>
 <lora:latexbodysuitnunILL:1> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][futanari]>
 <lora:NunV5ILL:1> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][futanari]>
-<lora:AngellingerieILL:1> lingerie, bikini, criss-cross halter, <[ezcovered][futanari]>
+<lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][futanari]>
+<lora:Shining_summer:1> 5h1n1ng_50mm3r, bikini, swimsuit, o-ring, <[ezcovered][futanari]>
+<lora:slingshot_mask:1> 5l1ngsh0t_m45k, slingshot swimsuit, <[ezcovered][futanari]>
+<lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][futanari]>
+<lora:X_micro_bikini:1> X_m1cr0_b1k1n1, criss-cross halter, <[ezcovered][futanari]>
+<lora:St._Louis_Luxurious_Wheels:1> L0x0r100s_Wh33l5, silver dress, halterneck, backless dress, halter dress, revealing clothes, <[covered][upper][futanari]>
+<lora:Strapless_Pothole_Tube_Dress_SKNSFW:1> Strapless_Pothole_Tube_Dress_SKNSFW, short dress, strapless dress, __colors__ dress, <[eznude][futanari]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[eznude][futanari]>
+<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][futanari]>
+<lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][futanari]>
+<lora:Lace_Slingshot:1>  L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezcovered][futanari]>
+<lora:Naked_cook:1> N4k3d_c00k, thighhighs, wrist cuffs, choker, apron, maid headdress, <[ezcovered][futanari]>
+<lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][futanari]>
+<lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][futanari]>, <[ezbottomless][futanari]>

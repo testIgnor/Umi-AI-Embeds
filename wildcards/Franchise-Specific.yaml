@@ -2795,6 +2795,34 @@
     - Male
     - SpeciesPreset
 
+'NSFW, 1girl, <[myspecies][Monster Girl Encyclopedia]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Monster Girl Encyclopedia Character
+  Tags:
+    - 1girl
+    - Monster Girl Encyclopedia
+    - CharacterPreset
+    - Female
+    - SpeciesPreset
+'NSFW, 1futa, <[myspecies][Monster Girl Encyclopedia]>, <[Artists][--3D]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Monster Girl Encyclopedia Character Futa
+  Tags:
+    - 1girl
+    - Monster Girl Encyclopedia
+    - CharacterPreset
+    - Futanari
+    - SpeciesPreset
+'NSFW, 1boy, <[myspecies][Monster Girl Encyclopedia]>, <[Artists][--3D]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+  Description:
+    - Random Monster Girl Encyclopedia Character Trap
+  Tags:
+    - 1boy
+    - Monster Girl Encyclopedia
+    - CharacterPreset
+    - Male
+    - SpeciesPreset
+
 'NSFW, 1girl, <[myspecies][Pokemon]>, <[Artists][--3D]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Pokemon Character

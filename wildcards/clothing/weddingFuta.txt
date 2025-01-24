@@ -9,3 +9,6 @@ fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[e
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][futanari]>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][futanari]> <lora:0765 flower wedding_v1_pony:1>
 white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][futanari]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[eznude][futanari]>
+<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][futanari]>
+<lora:Lace_Slingshot:1>  L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezcovered][futanari]>
