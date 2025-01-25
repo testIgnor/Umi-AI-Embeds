@@ -1,0 +1,124 @@
+{
+	"_about":"STOP! Instead of modifying this file, create config_user.json and make your changes there.",
+	"app":"unprompted",
+	"beta_features":false,
+	"advanced_expressions":true,
+	"template_directory":"templates",
+	"base_dir":"",
+	"subdirectories":
+	{
+		"shortcodes":"shortcodes",
+		"models":"models",
+		"workflows":"workflows"
+	},
+	"globals":
+	{
+		"prefix":"high detail RAW photo of",
+		"subject":"mona lisa",
+		"class":"woman",
+		"fluff":"best quality (worst quality:-1) (disfigured:-1)[civitai lora 'epiCRealismHelper' 0.5 _id=110334 _debug][civitai lora 'SimplePositive_v1_AutoRunMech' _mvid=159384]",
+		"negative_prompt":"[civitai embedding 'rfneg' _id='120412'] [civitai embedding 'UnrealisticDream' 1.0 _mvid='77173'] [civitai embedding 'BadDream' _mvid='77169'] [civitai embedding 'BeyondNegativev2-neg' _mvid='119407']"
+	},
+	"logging":
+	{
+		"colors":
+		{
+			"NOTSET":"",
+			"DEBUG": "\\033[0;36m",
+			"INFO": "\\033[0;32m",
+			"WARNING": "\\033[0;33m",
+			"ERROR": "\\033[0;31m",
+			"CRITICAL": "\\033[0;37;41m",
+			"RESET": "\\033[0m",
+			"FADED": "\\033[1;30m"
+		},
+		"format":"%(asctime)s  %(levelname)s [%(name)s] %(message)s",
+		"file":"",
+		"filemode":"a",
+		"level":"INFO",
+		"use_colors":true,
+		"improve_alignment":true,
+		"deprecated_warnings":true
+	},
+	"formats":
+	{
+		"txt":".txt",
+		"default_encoding":"utf8"
+	},
+	"syntax":
+	{
+		"sanitize_before":{"\n":"\\n","\t":""},
+		"sanitize_after":{"\\n":" "},
+		"sanitize_block":{"\n":""},
+		"sanitize_last":{"%SPACE%":" ", "%NEWLINE%":"\n", "%PIPE%":"|", "%TAB%":"\t"},
+		"tag_start":"[",
+		"tag_end":"]",
+		"tag_start_alt":"{",
+		"tag_end_alt":"}",
+		"tag_close":"/",
+		"tag_escape":"`",
+		"delimiter":"~|~",
+		"global_prefix":"global_",
+		"wizard_delimiter":"🡢",
+		"not_operator":"!",
+		"cleanup_extra_spaces":true
+	},
+	"templates":
+	{
+		"default":"*",
+		"default_negative":"*"
+	},
+	"stable_diffusion":
+	{
+		"batch_count_method":"standard",
+		"batch_size_method":"standard",
+		"show_extra_generation_params":true,
+		"template_editor":true,
+		"cached_images_limit":4,
+		"resolutions":{"sd1":512,"sd2":768,"sdxl":1024,"none":1024},
+		"controlnet":
+		{
+			"extension":"sd-webui-controlnet",
+			"sd1_models":
+			{
+				"canny":"controlnet11Models_canny",
+				"depth":"controlnet11Models_depth",
+				"normalmap":"controlnet11Models_normal",
+				"openpose":"controlnet11Models_openpose",
+				"mlsd":"",
+				"lineart":"controlnet11Models_animeline",
+				"softedge":"controlnet11Models_softedge",
+				"scribble":"controlnet11Models_scribble",
+				"segmentation":"controlnet11Models_seg",
+				"shuffle":"",
+				"tile":"controlnet11Models_tileE",
+				"inpaint":"controlnet11Models_inpaint",
+				"instructp2p":"control_v11e_sd15_ip2p",
+				"recolor":"",
+				"ip_adapter":"ip-adapter_sd15_plus",
+				"t2i_adapter":""
+			},
+			"sdxl_models":
+			{
+				"canny":""
+			}
+		}
+	},
+	"ui":
+	{
+		"enabled":true,
+		"open":true,
+		"wizard_enabled":false,
+		"wizard_shortcodes":true,
+		"wizard_templates":true,
+		"wizard_capture":true,
+		"wizard_workflows":true,
+		"wizard_open":false,
+		"wizard_default_shortcode":"txt2mask",
+		"wizard_prepends":false,
+		"wizard_template_autoincludes":{},
+		"wizard_shortcode_autoincludes":{},
+		"dry_run_open":true,
+		"resources_open":false
+	}
+}

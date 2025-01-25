@@ -487,55 +487,55 @@ class SettingsGenerator:
         return "".join(self.options)
 
 class Shortcode():
-	def __init__(self, Unprompted):
-		self.Unprompted = Unprompted
-		self.description = """
-							Processes a Prompt stored in first parg
-							and a Negative Prompt stored in second parg
-							according to Umi-AI rules
-							"""
+    def __init__(self, Unprompted):
+        self.Unprompted = Unprompted
+        self.description = """
+                            Processes a Prompt stored in first parg
+                            and a Negative Prompt stored in second parg
+                            according to Umi-AI rules
+                            """
 
-	def run_atomic(self, pargs, kwargs, context):
-		_verbose = self.Unprompted.parse_arg("_verbose", True)
-		_debug = self.Unprompted.parse_arg("_debug", False)
-		_ignore_paths = self.Unprompted.parse_arg("_ignore_paths", False)
-		_cache_files = self.Unprompted.parse_arg("_cache_files", True)
+    def run_atomic(self, pargs, kwargs, context):
+        _verbose = self.Unprompted.parse_arg("_verbose", True)
+        _debug = self.Unprompted.parse_arg("_debug", False)
+        _ignore_paths = self.Unprompted.parse_arg("_ignore_paths", False)
+        _cache_files = self.Unprompted.parse_arg("_cache_files", True)
 
-		if (pargs[0] not in self.Unprompted.shortcode_user_vars):
-			return ""
-		original_prompt = self.Unprompted.shortcode_user_vars[pargs[0]]
-		original_negative_prompt = ""
-		if (pargs[1] in self.Unprompted.shortcode_user_vars):
-			original_negative_prompt = self.Unprompted.shortcode_user_vars[pargs[1]]
+        if (pargs[0] not in self.Unprompted.shortcode_user_vars):
+            return ""
+        original_prompt = self.Unprompted.shortcode_user_vars[pargs[0]]
+        original_negative_prompt = ""
+        if (pargs[1] in self.Unprompted.shortcode_user_vars):
+            original_negative_prompt = self.Unprompted.shortcode_user_vars[pargs[1]]
 
-		TagLoader.files.clear()
-		options = {
-			'verbose': _verbose,
-			'debug': _debug,
-			'cache_files': _cache_files,
-			'ignore_paths': _ignore_paths,
-			'wildcard_path': os.path.join(self.Unprompted.base_dir, 'templates/wildcards') # bodge
-		}
-		if _debug: print(f'\nOriginal Prompt: "{original_prompt}"\nOriginal Negatives: "{original_negative_prompt}"\n')
-		prompt_generator = PromptGenerator(options)
+        TagLoader.files.clear()
+        options = {
+            'verbose': _verbose,
+            'debug': _debug,
+            'cache_files': _cache_files,
+            'ignore_paths': _ignore_paths,
+            'wildcard_path': os.path.join(self.Unprompted.base_dir, 'templates/wildcards') # bodge
+        }
+        if _debug: print(f'\nOriginal Prompt: "{original_prompt}"\nOriginal Negatives: "{original_negative_prompt}"\n')
+        prompt_generator = PromptGenerator(options)
 
-		prompt_generator.negative_tag_generator.negative_tag = set()
-		memory_dict = {}
-		prompt = prompt_generator.generate_single_prompt(original_prompt)
-		prompt, memory_dict = prompt_generator.prompt_memory_replace(prompt, memory_dict)
+        prompt_generator.negative_tag_generator.negative_tag = set()
+        memory_dict = {}
+        prompt = prompt_generator.generate_single_prompt(original_prompt)
+        prompt, memory_dict = prompt_generator.prompt_memory_replace(prompt, memory_dict)
 
-		if _debug: print(f'Prompt: "{prompt}"\n')
-		if _debug:
-			print('Dumping Memory dict:\n')
-			for key in memory_dict.keys():
-				print(f'key: {key}\tvalue: {memory_dict[key]}')
-			print('\n')
-		negative = original_negative_prompt
-		negative += ' ' # bodge, not necessary if we make other changes above
-		negative += prompt_generator.get_negative_tags()
-		negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
-		if _debug: print(f'Negative: "{negative}\n"')
-		options = prompt_generator.get_options()
-		if _debug: print(f'Options: "{options}\n"')
-		final_string = f"{options}|{prompt}|{negative}"
-		return final_string
+        if _debug: print(f'Prompt: "{prompt}"\n')
+        if _debug:
+            print('Dumping Memory dict:\n')
+            for key in memory_dict.keys():
+                print(f'key: {key}\tvalue: {memory_dict[key]}')
+            print('\n')
+        negative = original_negative_prompt
+        negative += ' ' # bodge, not necessary if we make other changes above
+        negative += prompt_generator.get_negative_tags()
+        negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
+        if _debug: print(f'Negative: "{negative}\n"')
+        options = prompt_generator.get_options()
+        if _debug: print(f'Options: "{options}\n"')
+        final_string = f"{self.Unprompted.Config.syntax.delimiter}".join([options, prompt, negative])
+        return final_string
