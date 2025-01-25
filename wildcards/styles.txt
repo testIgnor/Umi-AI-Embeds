@@ -1,18 +1,16 @@
-[choose]
-    [tags positive]
-        [tags model="pony"]
-            score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_explicit, zPDXL3
-        [/tags]
-        [tags model="illu"]
-            masterpiece, best quality, amazing quality, zPDXL3
-        [/tags]
+[tags positive]
+    [tags model="pony"]
+        score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_explicit, zPDXL3
     [/tags]
-    [tags negative]
-        [tags model="pony"]
-            zPDXL2-neg, score 6, score 5, score 4, source cartoon, 3D, (pinky out:1.7), (holding, holding object:2.0), (camera:2.0), (arms behind back, leaning, dutch angle:2.0), (monochrome, greyscale, black and white:1.7), (cloth in mouth:2.0), split finger, split fingernail, low-res, lowres, bad anatomy, bad hands, text, error, missing fingers, missing thumb, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, (deformed, distorted, disfigured:1.7), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.7), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, (extra fingers, 6 fingers, 7 fingers, extra digits, polydactyly, mutated hands, poorly drawn hands:1.7), multiple people, man, men, male, sole male, multiple boys, multiple men, old man, ojisan, ugly bastard, foreground man, background people, censored, censorship, bar censor, mosaic censoring, poorly drawn face, bad proportions, extra limbs, cloned face, fat, obese, extra arm, extra leg, messy drawing, out of frame, (koma, comic, comic panels, multipanel sequence, multiple views:1.7), (phone, cellphone, smartphone, cup:2.0), (submerged, underwater, standing in water, wading:2.0)
-        [/tags]
-        [tags model="illu"]
-            zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, censor, (pinky out:1.7), (holding, holding object:2.0), (camera:2.0), (arms behind back, leaning, dutch angle:2.0), (monochrome, greyscale, black and white:1.7), (cloth in mouth:2.0), split finger, split fingernail, low-res, lowres, bad anatomy, bad hands, text, error, missing fingers, missing thumb, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, (deformed, distorted, disfigured:1.7), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.7), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, (extra fingers, 6 fingers, 7 fingers, extra digits, polydactyly, mutated hands, poorly drawn hands:1.7), multiple people, man, men, male, sole male, multiple boys, multiple men, old man, ojisan, ugly bastard, foreground man, background people, censored, censorship, bar censor, mosaic censoring, poorly drawn face, bad proportions, extra limbs, cloned face, fat, obese, extra arm, extra leg, messy drawing, out of frame, (koma, comic, comic panels, multipanel sequence, multiple views:1.7), (phone, cellphone, smartphone, cup:2.0), (submerged, underwater, standing in water, wading:2.0)
-        [/tags]
+    [tags model="illu"]
+        masterpiece, best quality, amazing quality, zPDXL3
     [/tags]
-[/choose]
+[/tags]
+[tags negative]
+    [tags model="pony"]
+        zPDXL2-neg, score 6, score 5, score 4, source cartoon, 3D, (pinky out:1.7), (holding, holding object:2.0), (camera:2.0), (arms behind back, leaning, dutch angle:2.0), (monochrome, greyscale, black and white:1.7), (cloth in mouth:2.0), split finger, split fingernail, low-res, lowres, bad anatomy, bad hands, text, error, missing fingers, missing thumb, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, (deformed, distorted, disfigured:1.7), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.7), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, (extra fingers, 6 fingers, 7 fingers, extra digits, polydactyly, mutated hands, poorly drawn hands:1.7), multiple people, man, men, male, sole male, multiple boys, multiple men, old man, ojisan, ugly bastard, foreground man, background people, censored, censorship, bar censor, mosaic censoring, poorly drawn face, bad proportions, extra limbs, cloned face, fat, obese, extra arm, extra leg, messy drawing, out of frame, (koma, comic, comic panels, multipanel sequence, multiple views:1.7), (phone, cellphone, smartphone, cup:2.0), (submerged, underwater, standing in water, wading:2.0)
+    [/tags]
+    [tags model="illu"]
+        zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, censor, (pinky out:1.7), (holding, holding object:2.0), (camera:2.0), (arms behind back, leaning, dutch angle:2.0), (monochrome, greyscale, black and white:1.7), (cloth in mouth:2.0), split finger, split fingernail, low-res, lowres, bad anatomy, bad hands, text, error, missing fingers, missing thumb, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, (deformed, distorted, disfigured:1.7), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.7), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, (extra fingers, 6 fingers, 7 fingers, extra digits, polydactyly, mutated hands, poorly drawn hands:1.7), multiple people, man, men, male, sole male, multiple boys, multiple men, old man, ojisan, ugly bastard, foreground man, background people, censored, censorship, bar censor, mosaic censoring, poorly drawn face, bad proportions, extra limbs, cloned face, fat, obese, extra arm, extra leg, messy drawing, out of frame, (koma, comic, comic panels, multipanel sequence, multiple views:1.7), (phone, cellphone, smartphone, cup:2.0), (submerged, underwater, standing in water, wading:2.0)
+    [/tags]
+[/tags]
