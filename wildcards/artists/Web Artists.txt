@@ -25,7 +25,7 @@ by whisperfoot
 by burgerkiss
 by aestheticc-meme
 by tofuubear
-by incase, <lora:ExpressiveH__Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.6> ExpresHGothicNeonIncase
+by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.6> ExpresHGothicNeonIncase
 by ayya sap
 by andava
 by ponpu

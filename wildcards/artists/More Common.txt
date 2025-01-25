@@ -10,4 +10,4 @@ by girlsay
 by wjs07, <lora:WJS07_Illustrious:0.66> WJS07style
 by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:0.66>
 by thiccwithaq <lora:nyantcha_style_illustrious_goofy:0.6>
-by incase, <lora:ExpressiveH__Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.6> ExpresHGothicNeonIncase
+by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.6> ExpresHGothicNeonIncase
