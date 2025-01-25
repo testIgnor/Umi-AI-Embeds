@@ -380,9 +380,11 @@ class PromptGenerator:
         self.tag_loader = TagLoader(options)
         self.tag_selector = TagSelector(self.tag_loader, options)
         self.negative_tag_generator = NegativePromptGenerator()
+        self.settings_generator = SettingsGenerator()
         self.replacers = [
             DynamicPromptReplacer(options),
-            TagReplacer(self.tag_selector, options)
+            TagReplacer(self.tag_selector, options),
+            self.settings_generator
         ]
         self.verbose = dict(options).get('verbose', False)
         self.debug = dict(options).get('debug', False)
@@ -443,6 +445,8 @@ class PromptGenerator:
     def get_negative_tags(self):
         return self.negative_tag_generator.get_negative_tags()
 
+    def get_options(self):
+        return self.settings_generator.get_options()
 
 class NegativePromptGenerator:
 
@@ -462,6 +466,25 @@ class NegativePromptGenerator:
 
     def get_negative_tags(self):
         return ", ".join(self.negative_tag)
+
+class SettingsGenerator:
+
+    def __init__(self):
+        self.options = set()
+
+    def strip_options(self, tags):
+        matches = re.findall(r"@@.*?@@", tags)
+        if matches:
+            for match in matches:
+                self.options.add(match.replace("@@", ""))
+                tags = tags.replace(match, "")
+        return tags
+
+    def replace(self, prompt):
+        return self.strip_options(prompt)
+
+    def get_options(self):
+        return "".join(self.options)
 
 class Shortcode():
 	def __init__(self, Unprompted):
@@ -512,6 +535,7 @@ class Shortcode():
 		negative += prompt_generator.get_negative_tags()
 		negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
 		if _debug: print(f'Negative: "{negative}\n"')
-
-		final_string = f"{prompt}|{negative}"
+		options = prompt_generator.get_options()
+		if _debug: print(f'Options: "{options}\n"')
+		final_string = f"{options}|{prompt}|{negative}"
 		return final_string

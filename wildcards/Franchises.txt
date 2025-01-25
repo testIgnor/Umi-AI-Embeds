@@ -1,0 +1,120 @@
+source_anime, __Species/Demons__
+source_anime, __Species/Franxx__
+source_anime, __Species/Magical Girls__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Species/Mass Effect__
+source_furry, __Species/Misc__**(hair, hat, headwear:2.0)**
+source_furry, $#__Species/Pokemon__;theanimal#$, $#theanimal#$ anthro, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**
+source_furry, $#__Species/Pokemon__;theanimal#$, feral $#theanimal#$, feral, pokemon \(creature\)**(anthro, pokeball:2.0), (hair, hat, headwear:2.0)**
+source_furry, $#__Species/Animals__;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**
+source_anime, __Species/Robots__
+source_anime, __Species/Royalty__, regal, elegant, royal family, royal, crown, tiara**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**
+source_furry, __Species/SkyrimWerewolf__
+source_anime, __Species/Special Kinds__
+source_anime, __Species/Warhammer__
+source_anime, __Species/Aeromorphs__, <lora:Aeromorph_for_pony:1> aeromp
+source_anime, __Species/Monster Girl Encyclopedia__ <lora:MGE_V5.2_IL:1>
+source_anime, __Franchise Girls__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Ace Attorney__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Arknights__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/ATLA__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Azur Lane__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Blue Archive__ <lora:blue_archive_all_v3:0.6>**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Bang Dream__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Castlevania__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Celebrities__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Celeste__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Comics__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Darkstalkers__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Darling in the Franxx__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Dead or Alive__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Digimon__, digimon**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Disgaea__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Disney__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Dragon Quest__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Dragonball__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Evangelion__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Fate__**(yellow skin, orange skin, red skin:1.5)**
+source_pony, __Characters/FiM__, my little pony: friendship is magic, pony anthro
+source_pony, __Characters/FiM__, my little pony: equestria girls, humanized**(pony anthro, anthro:1.5)**
+source_anime, __Characters/Final Fantasy__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Fire Emblem__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Genshin__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Girls Frontline__**(holding, gun, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Girls und Panzer__**(holding, gun, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Granblue__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Gravity Rush__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Guilty Gear__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Hololive__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Honkai__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Idol Master__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Kantai Collection__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Kill la Kill__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/KoF__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Last Origin__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Kemono Friends__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/LiS__, life is strange**(beanie, hat, headwear, hair ornament:2.0), (yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/LoL__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Love Live__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/MahoAko__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Mass Effect__, mass effect
+source_anime, __Characters/Metal Gear__**(holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Misc__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/MonMusu__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Monster Girl Encyclopedia__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Naruto__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Nier__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Nijisanji__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Nikke__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Nintendo__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Overwatch__**(headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Persona__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Pokemon__**(pokeball:2.0), (yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Precure__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Project Sekai__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Queens Blade__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Princess Connect__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Resident Evil__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Reverse 1999__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/RWBY__, RWBY**(holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Sailor Moon__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/SamSho__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/SAO__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/She-ra__, she-ra and the princesses of power**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Shingeki no Kyojin__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Soulcalibur__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Splatoon__, splatoon \(series\)**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Street Fighter__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Tales__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Tekken__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/To Heart__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Touhou__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Umamusume__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Upsample__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Vocaloid__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Vshojo__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Warship Girls R__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Witcher__, the witcher \(series\)**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/World Witches__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Xenoblade__
+source_anime, __Characters/Yu-Gi-Oh__
+source_anime, __Characters/Zelda__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/ZZZ__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Senran Kagura__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Lyrical Nanoha__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Madoka__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Shantae__
+source_anime, __Characters/MyHero__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Frieren__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/DunMeshi__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Kobayashi__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Atelier__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Super Robot Wars__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Warframe__, (faceless:1.5)**face**
+source_anime, __Characters/Konosuba__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Puyopuyo__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Warhammer__
+source_anime, __Characters/TLOU__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/PStars__**(yellow skin, orange skin, red skin:1.5)**
+source_anime, __Characters/Divinity__
+source_anime, __Characters/Celebs__**(yellow skin, orange skin, red skin:1.5)**
+source_furry, __Characters/Ookami__

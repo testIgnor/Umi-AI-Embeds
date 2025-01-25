@@ -84,7 +84,7 @@
     - ezMechagodzillaFuta
 
 # CharacterPresets
-'NSFW, 1girl, <[characters][Godzilla]>, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Godzilla]>, <[Artists]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Godzilla Character
   Tags:
@@ -92,7 +92,7 @@
     - Godzilla
     - CharacterPreset
     - Female
-'NSFW, 1girl, <[characters][Mechagodzilla]>, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1girl, <[characters][Mechagodzilla]>, <[Artists]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Mechagodzilla
   Tags:
@@ -102,7 +102,7 @@
     - CharacterPreset
     - Female
 
-'NSFW, 1futa, <[characters][Godzilla]>, <[ezFuta]>, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[characters][Godzilla]>, <[ezFuta]>, <[Artists]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Random Godzilla Character
   Tags:
@@ -110,7 +110,7 @@
     - Godzilla
     - CharacterPreset
     - Futanari
-'NSFW, 1futa, <[characters][Mechagodzilla]>, {75%<[ezMechagodzillaFuta]>||<[FutaAddon][--Beast]>}, <[Artists][--3D]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
+'NSFW, 1futa, <[characters][Mechagodzilla]>, {75%<[ezMechagodzillaFuta]>||<[FutaAddon][--Beast]>}, <[Artists]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
   Description:
     - Mechagodzilla
   Tags:

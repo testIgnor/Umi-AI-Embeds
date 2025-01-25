@@ -1,0 +1,6 @@
+NSFW, 1girl, <[characters][$FRANCHISE]>, <[Artists]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>
+NSFW, 1futa, <[characters][$FRANCHISE]>, <[Artists]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>
+NSFW, 1boy, <[characters][$FRANCHISE]>, <[Artists]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>
+NSFW, 1girl, <[myspecies][$FRANCHISE]>, <[Artists]>, as a <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>
+NSFW, 1futa, <[myspecies][$FRANCHISE]>, <[Artists]>, as a <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>
+NSFW, 1boy, <[myspecies][$FRANCHISE]>, <[Artists]>, as a <[ezage][male]>, <[EZEmotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>
