@@ -1,5 +1,5 @@
 [function main_function]
-[set umistring]<[characterpreset][mechagodzilla]>[/set]
+[set umistring]<[mypreset]>[/set]
 [set retrieved_string][Umi umistring umineg _debug][/set]
 
 [set opt][choose _case=0][get retrieved_string][/choose][/set]
