@@ -2,33 +2,35 @@
 [function choose_franchise]
 [set basepath][choose]%BASE_DIR%/templates/wildcards/characters/|%BASE_DIR%/templates/wildcards/species/[/choose][/set]
 [set searchpath][get basepath]*.txt[/set]
-[set franchise][choose][filelist-var searchpath _basename _hide_ext][/choose][/set]
+[set franchise][choose][filelist "{get searchpath}" _basename _hide_ext][/choose][/set]
 [set characterPath][get basepath][get franchise][/set]
 [/function]
 
 [function choose_character]
-[set character][choose][call {get _var="characterPath"}][/choose][/set]
+[set character][choose][call "{get characterPath}"][/choose][/set]
 [/function]
 
 [function main_function]
 [call choose_franchise]
 [set umistring]@@waiANINSFWPONYXL_v130.safetensors@@<[characterpreset][get franchise _before=[ _after=]]>[/set]
 [set umineg]asdf123[/set]
-[set retrieved_string][Umi umistring umineg _debug][/set]
+[set retrieved_string][Umi umistring umineg][/set]
 [set opt][choose _case=0][get retrieved_string][/choose][/set]
 [set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
 [set negative_prompt][choose _case=2][get retrieved_string][/choose][/set]
 
-[get opt]
+[set current_checkpoint][substring start=0 end=1 unit=words][get sd_model][/substring][/set]
 
-[set current_checkpoint]
-    [substring start=0 end=1 unit=words][get sd_model][/substring]
-[/set]
+opt: [get opt]
+checkpoint: [get current_checkpoint]
 
-[get current_checkpoint]
-[if "current_checkpoint not {get opt}"]
-    [set sd_model][get opt][/set]
+the test...
+[if "current_checkpoint != opt"]
+    [get current_checkpoint] is NOT equal to [get opt]
 [/if]
+[else]
+    [get current_checkpoint] is equal to [get opt]!!!!!!
+[/else]
 
 [get p_prompt]
 
