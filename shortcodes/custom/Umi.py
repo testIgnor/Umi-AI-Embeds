@@ -8,51 +8,8 @@ import glob
 from random import choices
 import yaml
 
-import modules.scripts as scripts
-import modules.images as images
-import gradio as gr
-
-from modules.processing import Processed, process_images
-from modules.shared import opts, cmd_opts, state
-from modules import scripts, script_callbacks, shared
-from modules.styles import StyleDatabase
-import modules.textual_inversion.textual_inversion
-
-from modules.sd_samplers import samplers, samplers_for_img2img
-
-
 ALL_KEY = 'all yaml files'
-UsageGuide = """
-                    ### Usage
-                    * `{a||b||c||...}` will pick one of `a`, `b`, `c`, ...
-                    * `{x-y$$a||b||c||...}` will pick between `x` and `y` of `a`, `b`, `c`, ...
-                    * `{x$$a||b||c||...}` will pick `x` of `a`, `b`, `c`, ...
-                    * `{x-$$a||b||c||...}` will pick atleast `x` of `a`, `b`, `c`, ...
-                    * `{-y$$a||b||c||...}` will pick upto `y` of `a`, `b`, `c`, ...
-                    * `{x%a||...}` will pick `a` with `x`% chance otherwise one of the rest
-                    * `__text__` will pick a random line from the file `text`.txt in the wildcard folder
-                    * `<[tag]>` will pick a random item from yaml files in wildcard folder with given `tag`
-                    * `<[tag1][tag2]>` will pick a random item from yaml files in wildcard folder with both `tag1` **and** `tag2`
-                    * `<[tag1|tag2]>` will pick a random item from yaml files in wildcard folder with `tag1` **or** `tag2`
-                    * `<[--tag]>` will pick a random item from yaml files in wildcard folder that does not have the given `tag`
-                    * `<file:[tag]>` will pick a random item from yaml file `file`.yaml in wildcard folder with given tag
-                    * `$#expression;key#$` will save the result of `expression` to be recalled with key `key` (note usage of semicolon `;`)
-                    * `$#key#$` recalls the expression with key `key`
 
-                    ### Settings override
-                    * `@@width=512, height=768@@` will set the width of the image to be `512` and height to be `768`.
-                    * Available settings to override are `cfg_scale, sampler, steps, width, height, denoising_strength`.
-
-                    ### WebUI Prompt Reference
-                    * `(text)` emphasizes text by a factor of 1.1
-                    * `[text]` deemphasizes text by a factor of 0.9
-                    * `(text:x)` (de)emphasizes text by a factor of x
-                    * `\(` or `\)` for literal parenthesis in prompt
-                    * `[from:to:when]` changes prompt from `from` to `to` after `when` steps if `when` > 1
-                            or after the fraction of `current step/total steps` is bigger than `when`
-                    * `[a|b|c|...]` cycles the prompt between the given options each step
-                    * `text1 AND text2` creates a prompt that is a mix of the prompts `text1` and `text2`.
-                    """
 def get_index(items, item):
     try:
         return items.index(item)
@@ -84,6 +41,7 @@ class TagLoader:
     missing_tags = set()
 
     def __init__(self, options):
+        self.wildcard_location = dict(options).get('wildcard_path')
         self.ignore_paths = dict(options).get('ignore_paths', True)
         self.all_txt_files = glob.glob(os.path.join(self.wildcard_location, '**/*.txt'), recursive=True)
         self.all_yaml_files = glob.glob(os.path.join(self.wildcard_location, '**/*.yaml'), recursive=True)
@@ -422,11 +380,9 @@ class PromptGenerator:
         self.tag_loader = TagLoader(options)
         self.tag_selector = TagSelector(self.tag_loader, options)
         self.negative_tag_generator = NegativePromptGenerator()
-        self.settings_generator = SettingsGenerator()
         self.replacers = [
             DynamicPromptReplacer(options),
-            TagReplacer(self.tag_selector, options),
-            self.settings_generator
+            TagReplacer(self.tag_selector, options)
         ]
         self.verbose = dict(options).get('verbose', False)
         self.debug = dict(options).get('debug', False)
@@ -487,9 +443,6 @@ class PromptGenerator:
     def get_negative_tags(self):
         return self.negative_tag_generator.get_negative_tags()
 
-    def get_setting_overrides(self):
-        return self.settings_generator.get_setting_overrides()
-
 
 class NegativePromptGenerator:
 
@@ -510,209 +463,55 @@ class NegativePromptGenerator:
     def get_negative_tags(self):
         return ", ".join(self.negative_tag)
 
+class Shortcode():
+	def __init__(self, Unprompted):
+		self.Unprompted = Unprompted
+		self.description = """
+							Processes a Prompt stored in first parg
+							and a Negative Prompt stored in second parg
+							according to Umi-AI rules
+							"""
 
-# @@settings@@ notation
-class SettingsGenerator:
+	def run_atomic(self, pargs, kwargs, context):
+		_verbose = self.Unprompted.parse_arg("_verbose", True)
+		_debug = self.Unprompted.parse_arg("_debug", False)
+		_ignore_paths = self.Unprompted.parse_arg("_ignore_paths", False)
+		_cache_files = self.Unprompted.parse_arg("_cache_files", True)
 
-    def __init__(self):
-        self.re_setting_tags = re.compile(r"@@(.*?)@@")
-        self.setting_overrides = {}
-        self.type_mapping = {
-            'cfg_scale': float,
-            'sampler': str,
-            'steps': int,
-            'width': int,
-            'height': int,
-            'denoising_strength': float
-        }
+		if (pargs[0] not in self.Unprompted.shortcode_user_vars):
+			return ""
+		original_prompt = self.Unprompted.shortcode_user_vars[pargs[0]]
+		original_negative_prompt = ""
+		if (pargs[1] in self.Unprompted.shortcode_user_vars):
+			original_negative_prompt = self.Unprompted.shortcode_user_vars[pargs[1]]
 
-    def strip_setting_tags(self, prompt):
-        matches = self.re_setting_tags.findall(prompt)
-        if matches:
-            for match in matches:
-                sep = "," if "," in match else "|"
-                for assignment in [m.strip() for m in match.split(sep)]:
-                    key_raw, value = assignment.split("=")
-                    if not value:
-                        print(
-                            f"Invalid setting {assignment}, settings should assign a value"
-                        )
-                        continue
-                    key_found = False
-                    for key in self.type_mapping.keys():
-                        if key.startswith(key_raw):
-                            self.setting_overrides[key] = self.type_mapping[
-                                key](value)
-                            key_found = True
-                            break
-                    if not key_found:
-                        print(
-                            f"Unknown setting {key_raw}, setting should be the starting part of: {', '.join(self.type_mapping.keys())}"
-                        )
-                prompt = prompt.replace('@@' + match + '@@', "")
-        return prompt
+		TagLoader.files.clear()
+		options = {
+			'verbose': _verbose,
+			'debug': _debug,
+			'cache_files': _cache_files,
+			'ignore_paths': _ignore_paths,
+			'wildcard_path': os.path.join(self.Unprompted.base_dir, 'templates/wildcards') # bodge
+		}
+		if _debug: print(f'\nOriginal Prompt: "{original_prompt}"\nOriginal Negatives: "{original_negative_prompt}"\n')
+		prompt_generator = PromptGenerator(options)
 
-    def replace(self, prompt):
-        return self.strip_setting_tags(prompt)
+		prompt_generator.negative_tag_generator.negative_tag = set()
+		memory_dict = {}
+		prompt = prompt_generator.generate_single_prompt(original_prompt)
+		prompt, memory_dict = prompt_generator.prompt_memory_replace(prompt, memory_dict)
 
-    def get_setting_overrides(self):
-        return self.setting_overrides
+		if _debug: print(f'Prompt: "{prompt}"\n')
+		if _debug:
+			print('Dumping Memory dict:\n')
+			for key in memory_dict.keys():
+				print(f'key: {key}\tvalue: {memory_dict[key]}')
+			print('\n')
+		negative = original_negative_prompt
+		negative += ' ' # bodge, not necessary if we make other changes above
+		negative += prompt_generator.get_negative_tags()
+		negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
+		if _debug: print(f'Negative: "{negative}\n"')
 
-def _get_effective_prompt(prompts: list[str], prompt: str) -> str:
-    return prompts[0] if prompts else prompt
-
-class Script(scripts.Script):
-    is_txt2img = False
-
-    def title(self):
-        return "Prompt generator"
-
-    def show(self, is_img2img):
-        return scripts.AlwaysVisible
-
-    def ui(self, is_img2img):
-        self.is_txt2img = is_img2img == False
-        elemid_prefix = "img2img-umiai-" if is_img2img else "txt2img-umiai-"
-        with gr.Accordion('UmiAI',
-                          open=True,
-                          elem_id=elemid_prefix + "accordion"):
-            with gr.Row():
-                enabled = gr.Checkbox(label="Enable UmiAI",
-                                      value=True,
-                                      elem_id=elemid_prefix + "toggle")
-            with gr.Tab("Settings"):
-                with gr.Row(elem_id=elemid_prefix + "seeds"):
-                    shared_seed = gr.Checkbox(label="Static wildcards",
-                                              value=False,
-                                              elem_id=elemid_prefix + "static-wildcards",
-                                              tooltip="Always picks the same random/wildcard options when using a static seed.")
-                    same_seed = gr.Checkbox(label='Same prompt in batch',
-                                            value=False,
-                                            elem_id=elemid_prefix + "same-seed",
-                                            tooltip="Same prompt will be used for all generated images in a batch.")
-                with gr.Row(elem_id=elemid_prefix + "lesser"):
-                    cache_files = gr.Checkbox(label="Cache tag files",
-                                              value=True,
-                                              elem_id=elemid_prefix + "cache-files",
-                                              tooltip="Cache .txt and .yaml files at runtime. Speeds up prompt generation. Disable if you're editing wildcard files to see changes instantly.")
-                    verbose = gr.Checkbox(label="Verbose logging",
-                                          value=False,
-                                          elem_id=elemid_prefix + "verbose",
-                                          tooltip="Displays UmiAI log messages. Useful when prompt crafting, or debugging file-path errors.")
-                    debug = gr.Checkbox(label="Debug logging",
-                                          value=False,
-                                          elem_id=elemid_prefix + "debug",
-                                          tooltip="Displays UmiAI debugging logs.")
-                    negative_prompt = gr.Checkbox(label='**negative keywords**',
-                                                  value=True,
-                                                  elem_id=elemid_prefix + "negative-keywords",
-                                                  tooltip="Collect and add **negative keywords** from wildcards to Negative Prompts.")
-                    ignore_folders = gr.Checkbox(label="Ignore folders",
-                                                 value=False,
-                                                 elem_id=elemid_prefix + "ignore-folders",
-                                                 tooltip="Ignore folder structure, will choose first file found if duplicate file names exist.")
-
-            with gr.Tab("Usage"):
-                gr.Markdown(UsageGuide)
-
-        return [enabled, verbose, cache_files, ignore_folders, same_seed, negative_prompt, shared_seed, debug
-                ]
-
-    def process(self, p, enabled, verbose, cache_files, ignore_folders, same_seed, negative_prompt,
-                shared_seed, debug=False, *args):
-        if not enabled:
-            return
-
-        if debug: print(f'\nModel: {p.sampler_name}, Seed: {int(p.seed)}, Batch Count: {p.n_iter}, Batch Size: {p.batch_size}, CFG: {p.cfg_scale}, Steps: {p.steps}\nOriginal Prompt: "{p.prompt}"\nOriginal Negatives: "{p.negative_prompt}"\n')
-
-        original_prompt = _get_effective_prompt(p.all_prompts, p.prompt)
-        original_negative_prompt = _get_effective_prompt(
-            p.all_negative_prompts,
-            p.negative_prompt,
-        )
-
-        hr_fix_enabled = getattr(p, "enable_hr", False)
-
-        TagLoader.files.clear()
-
-        options = {
-            'verbose': verbose,
-            'debug': debug,
-            'cache_files': cache_files,
-            'ignore_paths': ignore_folders,
-        }
-        prompt_generator = PromptGenerator(options)
-
-        for cur_count in range(p.n_iter):  #Batch count
-            for cur_batch in range(p.batch_size):  #Batch Size
-
-                index = p.batch_size * cur_count + cur_batch
-
-                # pick same wildcard for a given seed
-                if (shared_seed):
-                    random.seed(p.all_seeds[p.batch_size *cur_count if same_seed else index])
-                else:
-                    random.seed(time.time()+index*10)
-
-                if debug: print(f'{"Batch #"+str(cur_count) if same_seed else "Prompt #"+str(index):=^30}')
-
-                prompt_generator.negative_tag_generator.negative_tag = set()
-                memory_dict = {}
-                prompt = prompt_generator.generate_single_prompt(original_prompt)
-                prompt, memory_dict = prompt_generator.prompt_memory_replace(prompt, memory_dict)
-                p.all_prompts[index] = prompt
-                if hr_fix_enabled:
-                    p.all_hr_prompts[index] = prompt
-
-                if debug: print(f'Prompt: "{prompt}"\n')
-                if debug:
-                    print('Dumping Memory dict:\n')
-                    for key in memory_dict.keys():
-                        print(f'key: {key}\tvalue: {memory_dict[key]}')
-                    print('\n')
-                negative = original_negative_prompt + ' '
-                if negative_prompt and hasattr(p, "all_negative_prompts"): # hasattr to fix crash on old webui versions
-                    negative += prompt_generator.get_negative_tags()
-                    negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
-                    p.all_negative_prompts[index] = negative
-                    if hr_fix_enabled:
-                        p.all_hr_negative_prompts[index] = negative
-                    if debug: print(f'Negative: "{negative}\n"')
-
-                # same prompt per batch
-                if (same_seed):
-                    for index, i in enumerate(p.all_prompts):
-                        p.all_prompts[index] = prompt
-                    break
-
-        def find_sampler_index(sampler_list, value):
-            for index, elem in enumerate(sampler_list):
-                if elem[0] == value or value in elem[2]:
-                    return index
-
-        att_override = prompt_generator.get_setting_overrides()
-        #print(att_override)
-        for att in att_override.keys():
-            if not att.startswith("__"):
-                if att == 'sampler':
-                    sampler_name = att_override[att]
-                    if self.is_txt2img:
-                        sampler_index = find_sampler_index(
-                            samplers, sampler_name)
-                    else:
-                        sampler_index = find_sampler_index(
-                            samplers_for_img2img, sampler_name)
-                    if (sampler_index != None):
-                        setattr(p, 'sampler_index', sampler_index)
-                    else:
-                        print(
-                            f"Sampler {sampler_name} not found in prompt {p.all_prompts[0]}"
-                        )
-                    continue
-                setattr(p, att, att_override[att])
-
-        if original_prompt != p.all_prompts[0]:
-            p.extra_generation_params["Wildcard prompt"] = original_prompt
-            if verbose:
-                p.extra_generation_params["File includes"] = "|".join(
-                    TagLoader.files)
+		final_string = f"{prompt}[set negative_prompt]{negative}[/set]"
+		return final_string

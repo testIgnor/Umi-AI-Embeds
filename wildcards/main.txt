@@ -1,0 +1,27 @@
+
+[function choose_franchise]
+[set basepath][choose]%BASE_DIR%/templates/wildcards/characters/|%BASE_DIR%/templates/wildcards/species/[/choose][/set]
+[set searchpath][get basepath]*.txt[/set]
+[set franchise][choose][filelist-var searchpath _basename _hide_ext][/choose][/set]
+[set characterPath][get basepath][get franchise][/set]
+[/function]
+
+[function choose_character]
+[set character][choose][call-var characterPath][/choose][/set]
+[/function]
+
+[function choose_artist]
+
+[/function]
+
+
+[function main_function]
+[call choose_franchise]
+[set umistring]<[characterpreset][get franchise _before=[ _after=]]>[/set]
+[set umineg]asdf123[/set]
+
+[Umi umistring umineg]
+
+[/function]
+
+[call main_function]

@@ -1,0 +1,1 @@
+# For Use with [unprompted](https://github.com/ThereforeGames/unprompted)
