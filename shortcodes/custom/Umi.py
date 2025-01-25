@@ -513,5 +513,5 @@ class Shortcode():
 		negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
 		if _debug: print(f'Negative: "{negative}\n"')
 
-		final_string = f"{prompt}[set negative_prompt]{negative}[/set]"
+		final_string = f"{prompt}|{negative}"
 		return final_string

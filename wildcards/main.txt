@@ -14,13 +14,17 @@
 
 [/function]
 
-
 [function main_function]
 [call choose_franchise]
 [set umistring]<[characterpreset][get franchise _before=[ _after=]]>[/set]
 [set umineg]asdf123[/set]
 
-[Umi umistring umineg]
+[set retrieved_string][Umi umistring umineg][/set]
+
+[set p_prompt][choose _case=0][get retrieved_string][/choose][/set]
+[set negative_prompt][choose _case=1][get retrieved_string][/choose][/set]
+
+[get p_prompt]
 
 [/function]
 
