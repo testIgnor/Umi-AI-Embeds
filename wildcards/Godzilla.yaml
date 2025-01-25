@@ -31,25 +31,25 @@
     - Characters
     - Mechagodzilla
 
-'source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0)**(human, human girl, human boy, human female, human male:2.0)**':
+'<[model][pony]>source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0)**(human, human girl, human boy, human female, human male:2.0)**':
   Description:
     - Godzilla Characters
   Tags:
     - Characters
     - Godzilla
-'source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0) <lora:Godzilla_PONY_XL_Ver:0.66>**(human, human girl, human boy, human female, human male:2.0)**':
+'<[model][pony]>source_furry, (godzilla:1.5) <[GodzillaCharacterBase]>, (no humans:2.0) <lora:Godzilla_PONY_XL_Ver:0.66>**(human, human girl, human boy, human female, human male:2.0)**':
   Description:
     - Godzilla Characters
   Tags:
     - Characters
     - Godzilla
-'source_anime, (godzilla:1.5) <[GodzillaCharacterBase]>, (dark-skinned female, coloured skin, colored skin:1.5), yellow eyes, long hair, black hair, two-tone hair, tail, large tail, long tail, very long tail, personification, scale on body, glowing <lora:Godzilla_Personified:0.66>':
+'<[model][illu]>source_anime, (godzilla:1.5) <[GodzillaCharacterBase]>, (dark-skinned female, coloured skin, colored skin:1.5), yellow eyes, long hair, black hair, two-tone hair, tail, large tail, long tail, very long tail, personification, scale on body, glowing <lora:Godzilla_Personified:0.66>':
   Description:
     - Godzilla Characters
   Tags:
     - Characters
     - Godzilla
-'source_anime, (godzilla:1.5) <[GodzillaCharacterBase]>, (dark-skinned female, coloured skin, colored skin:1.5), <lora:Godzilla_Kaiju_Girls_Pony:0.66> imtdgodzillakg, long hair, black hair, tail, red eyes, hair between eyes, ahoge, sharp teeth, monster girl, dragon girl':
+'<[model][illu]>source_anime, (godzilla:1.5) <[GodzillaCharacterBase]>, (dark-skinned female, coloured skin, colored skin:1.5), <lora:Godzilla_Kaiju_Girls_Pony:0.66> imtdgodzillakg, long hair, black hair, tail, red eyes, hair between eyes, ahoge, sharp teeth, monster girl, dragon girl':
   Description:
     - Godzilla Characters
   Tags:
@@ -57,7 +57,7 @@
     - Godzilla
 
 # character particles
-'source_anime, (mechagodzilla:1.4) <[GodzillaCharacterBase]>, blue eyes, glowing eyes, large pupils, black pupils**(no pupils, black sclera:2.0), (human, human girl, human boy, human female, human male:2.0), (horn:2.0)**':
+'<[model][illu]>source_anime, (mechagodzilla:1.4) <[GodzillaCharacterBase]>, blue eyes, glowing eyes, large pupils, black pupils**(no pupils, black sclera:2.0), (human, human girl, human boy, human female, human male:2.0), (horn:2.0)**':
   Description:
     - Mechagodzilla Character Base
   Tags:

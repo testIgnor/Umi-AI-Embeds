@@ -1,3 +1,15 @@
+'@@waiNSFWIllustrious_v90.safetensors@@':
+  Description:
+    - Illu Model
+  Tags:
+    - Model
+    - Illu
+'@@waiANINSFWPONYXL_v130.safetensors@@':
+  Description:
+    - Pony Model
+  Tags:
+    - Model
+    - Pony
 '{1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}':
   Description:
     - Ez random emotions
