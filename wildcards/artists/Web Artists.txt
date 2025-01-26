@@ -29,7 +29,8 @@ by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.6> Ex
 by ayya sap
 by andava
 by ponpu
-by diathorn
+by diathorn <lora:diathorn_style_illustrious01_v3:1>
+by diathorn, Diathornstyle <lora:Diathorn_Illustrious:1>
 by neoartcore
 by tekuho, by tekuho no habo
 by liang xing, by liangxing

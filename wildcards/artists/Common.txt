@@ -14,6 +14,8 @@ by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:0.66>
 by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.3>
 by thiccwithaq <lora:nyantcha_style_illustrious_goofy:0.6>
 by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.6> ExpresHGothicNeonIncase
+by diathorn <lora:diathorn_style_illustrious01_v3:1>
+by diathorn, Diathornstyle <lora:Diathorn_Illustrious:1>
 by dosh
 by utterangle
 by redwolfxiii
