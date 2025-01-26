@@ -105,7 +105,7 @@
     - Lower
     - Loli
     - Futanari
-'(<[EZTeenGirl]>:1.3){, pubic hair||}, <[ezFuta]>':
+'(<[EZTeenGirl]>:1.3), <[ezFuta]>':
   Description:
     - Teen Age
   Tags:
@@ -114,7 +114,17 @@
     - Middle
     - Teen
     - Futanari
-'<[EZWoman]>{, pubic hair||}, <[ezFuta]>':
+'(<[EZTeenGirl]>:1.3), pubic hair, <[ezFuta]>':
+  Description:
+    - Teen Age
+  Tags:
+    - EZAge
+    - Lower
+    - Middle
+    - Teen
+    - Futanari
+    - Hairy
+'<[EZWoman]>, <[ezFuta]>':
   Description:
     - Adult Age
   Tags:
@@ -123,7 +133,17 @@
     - Upper
     - Adult
     - Futanari
-'<[EZThiccWoman]>{, pubic hair||}{, armpit hair||}, <[ezFuta]>':
+'<[EZWoman]>, pubic hair, <[ezFuta]>':
+  Description:
+    - Adult Age
+  Tags:
+    - EZAge
+    - Middle
+    - Upper
+    - Adult
+    - Futanari
+    - Hairy
+'<[EZThiccWoman]> <[ezFuta]>':
   Description:
     - Mature Age
   Tags:
@@ -131,7 +151,34 @@
     - Upper
     - Mature
     - Futanari
-'<[EZShota]>, (genderswap:1.5), <[ezpenis]>':
+'<[EZThiccWoman]>, pubic hair <[ezFuta]>':
+  Description:
+    - Mature Age
+  Tags:
+    - EZAge
+    - Upper
+    - Mature
+    - Futanari
+    - Hairy
+'<[EZThiccWoman]>, armpit hair, <[ezFuta]>':
+  Description:
+    - Mature Age
+  Tags:
+    - EZAge
+    - Upper
+    - Mature
+    - Futanari
+    - Hairy
+'<[EZThiccWoman]>, pubic hair, armpit hair, <[ezFuta]>':
+  Description:
+    - Mature Age
+  Tags:
+    - EZAge
+    - Upper
+    - Mature
+    - Futanari
+    - Hairy
+'(<[EZShota]>:1.2), (genderswap:1.5), <[ezpenis]>':
   Description:
     - Shota Age
   Tags:
@@ -139,7 +186,7 @@
     - Lower
     - Shota
     - Male
-'<[EZTeenBoy]>, (genderswap:1.5){, pubic hair||}, <[ezpenis]>':
+'(<[EZTeenBoy]>:1.2), (genderswap:1.5), <[ezpenis]>':
   Description:
     - Teen Age
   Tags:
@@ -148,6 +195,16 @@
     - Middle
     - Teen
     - Male
+'(<[EZTeenBoy]>:1.2), (genderswap:1.5), pubic hair, <[ezpenis]>':
+  Description:
+    - Teen Age
+  Tags:
+    - EZAge
+    - Lower
+    - Middle
+    - Teen
+    - Male
+    - Hairy
 'Shota, Child, Little Boy, Aged Down, Age {6||7||8||9||10||11||12||13}, {Flat Chest||Small Breasts}, tomgirl, trap, feminized, femboy, feminine**(chibi:1.5), Medium Breasts, Large Breasts, Gigantic Breasts, Mature Female, Mature Male, Adult, masculine**':
  Description:
   - "This is the quickie to generate a young boy's body."
