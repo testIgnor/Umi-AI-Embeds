@@ -21,6 +21,12 @@
     [set n_style][filter_tags negative model="illu"][call wildcards/styles][/set]
 [/elif]
 
+[##]
+TODO: Remove these lines
+[/##]
+[set p_style][filter_tags positive model="pony"][call wildcards/styles][/set]
+[set n_style][filter_tags negative model="pony"][call wildcards/styles][/set]
+
 [get p_style], [get p_prompt]
 
 [set negative_prompt][get n_style], [get n_prompt][/set]

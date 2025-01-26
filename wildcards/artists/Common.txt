@@ -4,7 +4,7 @@ by [dandon fuga|sakimichan]
 (by andava, lilandavastyle:0.6)
 (by ponpu:0.6)
 (by [andava|ponpu]:0.6)
-(by [personal ami|personal ami, (aroma sensei:0.5)]:1.3) <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
+by [personal ami|personal ami, (aroma sensei:0.5)] <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
 by tarakanovich <lora:tarakanovich1.5:0.66>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:0.66>
 by jack dempa <lora:jack_dempa_style_pdxl_goofy:0.66>

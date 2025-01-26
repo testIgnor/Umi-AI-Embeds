@@ -7,7 +7,7 @@ by johndoe <lora:johndoe:0.75>
 by kittew
 by hornyx
 by pia sama
-by [personal ami|aroma sensei]
+by [personal ami|personal ami, (aroma sensei:0.5)] <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
 by exlic
 by sakimichan
 by badcompzero
