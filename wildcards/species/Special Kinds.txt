@@ -21,7 +21,6 @@
 (wolf taur:1.3), <lora:canine_taur_PDXL:0.66> taur, canine taur, wolf taur
 (nekomata:1.3)
 (valkyrie:1.3)
-(xenomorph:1.3) <lora:Xenomorph_Custom:1>
 (nekomimi:1.3), cat girl
 (kitsune:1.3), fox girl
 (doll girl:1.3), gothic lolita, doll joints
