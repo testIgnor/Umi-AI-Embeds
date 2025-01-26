@@ -1,16 +1,16 @@
 [function main_function]
 [set umistring]<[mypreset]>[/set]
-[set retrieved_string][Umi umistring umineg _debug][/set]
+[set retrieved_string][Umi umistring umineg][/set]
 
 [set opt][choose _case=0][get retrieved_string][/choose][/set]
 [set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
 [set n_prompt][choose _case=2][get retrieved_string][/choose][/set]
 
-[set current_checkpoint][substring start=0 end=1 unit=words][get sd_model][/substring][/set]
-
-[if "current_checkpoint != opt"]
+[##]
+[if "opt not in {get sd_model}"]
     [set sd_model][get opt][/set]
 [/if]
+[/##]
 
 [if "'PONY' in opt"]
     [set p_style][filter_tags positive model="pony"][call wildcards/styles][/set]
@@ -20,8 +20,6 @@
     [set p_style][filter_tags positive model="illu"][call wildcards/styles][/set]
     [set n_style][filter_tags negative model="illu"][call wildcards/styles][/set]
 [/elif]
-
-[get p_style]
 
 [get p_style], [get p_prompt]
 

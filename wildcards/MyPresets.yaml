@@ -53,7 +53,7 @@
   - FutanariPrompt
   - Branching
 
-'{40%<[futanariprompt]>||<[femaleprompt]>}':
+'{5%<[model]><[LegacyPrompt]>||35%<[futanariprompt]>||<[femaleprompt]>}':
   Description:
   - Call This
   Tags:
