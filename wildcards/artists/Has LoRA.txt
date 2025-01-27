@@ -1,0 +1,32 @@
+by prywinko, <lora:prywXLP:0.66> pryw
+by revolverwing <lora:rwing illustrious 003:0.66>
+by johndoe <lora:johndoe:1>
+by kittew <lora:kittew-artist-richy-v1_ixl:0.66>
+by hornyx <lora:hornyx_pony:0.66>
+by pia sama, <lora:Pia-Sama_Style_PonyXL:0.66> pia-sama
+by [personal ami|personal ami, (aroma sensei:0.5)] <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
+by exlic, <lora:ExLic_style:0.66> ExLic_style
+by wjs07, <lora:WJS07_Illustrious:0.66> WJS07style
+by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.3>
+by thiccwithaq <lora:nyantcha_style_illustrious_goofy:0.6>
+by tarakanovich <lora:tarakanovich1.5:0.66>
+by nopeys, <lora:Nopeys:0.66> Nopeysstyle
+by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:0.66> cianyo_style
+by hoobamon <lora:Hoobamon:0.66>
+by picturd <lora:PicturdLycoXL:0.66>
+by whisperfoot, <lora:whisperfootILLUS:0.66> whisperfoot
+by burgerkiss, <lora:Burger_Kiss_Style_-_Illustrious:0.66> BurgerKiss
+by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:0.66>
+by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.6> ExpresHGothicNeonIncase
+by ayya sap, <lora:ayyasap_pony_v3:0.66> ayyapsap_style, ayyapsap, source_artwork
+by diathorn <lora:diathorn_style_illustrious01_v3:0.66>
+by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.66>
+by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.66>
+by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.66>
+by liang xing, by liangxing <lora:liangxing-guy-PONY-DORAv1:0.66>
+by dmitrys <lora:Dmitrys_Style_Illustrious:0.66>
+by melkor mancin, <lora:Melkor_Middle_Years_Style_V01_IL:0.66> ffmelkormid
+by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:0.66>
+by jack dempa <lora:jack_dempa_style_pdxl_goofy:0.66>
+by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:0.66>
+by cherry mouse street <lora:cherry_mouse_street_illu:0.66>
