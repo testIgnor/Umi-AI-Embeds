@@ -12,20 +12,14 @@
 [/if]
 [/##]
 
-[if "'PONY' in opt"]
+[if "'PONY' in {get sd_model}"]
     [set p_style][filter_tags positive model="pony"][call wildcards/styles][/set]
     [set n_style][filter_tags negative model="pony"][call wildcards/styles][/set]
 [/if]
-[elif "'Illu" in opt]
+[elif "'Illu" in {get sd_model}]
     [set p_style][filter_tags positive model="illu"][call wildcards/styles][/set]
     [set n_style][filter_tags negative model="illu"][call wildcards/styles][/set]
 [/elif]
-
-[##]
-TODO: Remove these lines
-[/##]
-[set p_style][filter_tags positive model="pony"][call wildcards/styles][/set]
-[set n_style][filter_tags negative model="pony"][call wildcards/styles][/set]
 
 [get p_style], [get p_prompt]
 

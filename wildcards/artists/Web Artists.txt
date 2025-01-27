@@ -1,9 +1,10 @@
 by dandon fuga
 by aroma sensei
 by personal ami
+by [dandon fuga|sakimichan]
 by prywinko
 by revolverwing
-by johndoe <lora:johndoe:0.75>
+by johndoe <lora:johndoe:1>
 by kittew
 by hornyx
 by pia sama

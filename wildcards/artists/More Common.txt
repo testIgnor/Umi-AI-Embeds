@@ -1,7 +1,7 @@
 by tarakanovich <lora:tarakanovich1.5:0.66>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:0.66>
 by jack dempa <lora:jack_dempa_style_pdxl_goofy:0.66>
-by johndoe <lora:johndoe:0.75>
+by johndoe <lora:johndoe:1>
 by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.3>
 by pixelsketcher
 by doppel
@@ -9,7 +9,3 @@ by slightlysimian
 by girlsay
 by wjs07, <lora:WJS07_Illustrious:0.66> WJS07style
 by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:0.66>
-by thiccwithaq <lora:nyantcha_style_illustrious_goofy:0.6>
-by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.6> ExpresHGothicNeonIncase
-by diathorn <lora:diathorn_style_illustrious01_v3:1>
-by diathorn, Diathornstyle <lora:Diathorn_Illustrious:1>
