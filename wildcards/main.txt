@@ -1,17 +1,50 @@
-[function main_function]
-[set umistring]<[mypreset]>[/set]
-[set retrieved_string][Umi umistring umineg][/set]
+[function choose_franchise]
+[set characterType][choose]
+characters
+myspecies
+[/choose][/set]
+[if characterType="characters"]
+[set basepath]%BASE_DIR%/templates/wildcards/characters/[/set]
+[/if]
+[elif characterType="myspecies"]
+[set basepath]%BASE_DIR%/templates/wildcards/species/[/set]
+[/elif]
+[set searchpath][get basepath]*.txt[/set]
+[set franchise][choose][filelist "{get searchpath}" _basename _hide_ext][/choose][/set]
+[/function]
 
-[set opt][choose _case=0][get retrieved_string][/choose][/set]
-[set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
-[set n_prompt][choose _case=2][get retrieved_string][/choose][/set]
+[function set_vars]
+[set gender][choose]
+female
+futanari
+male
+[/choose][/set]
+[if gender="female"]
+[set gender_short]1girl[/set]
+[set eff_gen]female[/set]
+[/if]
+[elif gender="futanari"]
+[set gender_short]1futa[/set]
+[set eff_gen]futanari[/set]
+[/elif]
+[elif gender="male"]
+[set gender_short]1boy[/set]
+[set eff_gen]futanari[/set]
+[/elif]
+[/function]
 
+[function replace_text text_to_replace]
+[replace $characterType="{get characterType}"][replace $1gender="{get gender_short}"][replace $gender="{get gender}"][replace $franchise="{get franchise}"][replace $eff_gen="{get eff_gen}"]
+[get text_to_replace]
+[/replace][/replace][/replace][/replace][/replace]
+[/function]
+
+[function set_model]
 [##]
 [if "opt not in sd_model"]
     [set sd_model][get opt][/set]
 [/if]
 [/##]
-
 [if "'PONY' in sd_model"]
     [set p_style][filter_tags positive model="pony"][call wildcards/styles][/set]
     [set n_style][filter_tags negative model="pony"][call wildcards/styles][/set]
@@ -20,10 +53,64 @@
     [set p_style][filter_tags positive model="illu"][call wildcards/styles][/set]
     [set n_style][filter_tags negative model="illu"][call wildcards/styles][/set]
 [/elif]
+[/function]
+
+[function get_clothing clothing_type]
+[filter_tags clothing clothing_type="{get clothing_type}" _must_match="all"]
+[choose][call wildcards/myclothing][/choose]
+[/function]
+
+[function get_preset eff_gen]
+[set preset_type]
+[choose]
+Position
+Variant
+Outfit
+[/choose]
+[/set]
+[filter_tags preset_type="{get preset_type}" eff_gen="{get eff_gen}"]
+[choose][call wildcards/mypresets][/choose]
+[/function]
+
+
+
+[function main_function]
+[set charpreset_primitive]NSFW, $1gender, <[$characterType][$franchise]>, <[Artists]>, as a <[ezage][$gender]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance] <lora:PDXL_artist_tags_v2_big:1>[/set]
+
+[call choose_franchise]
+[call set_vars]
+[set character_preset][call replace_text text_to_replace="{get charpreset_primitive}"][/set]
+
+[set prompt_suffix_primitive]
+    [chance 35]
+        [call get_preset eff_gen="{get eff_gen}"]
+    [/chance]
+    [else]
+        [chance 50]
+            [choose][call wildcards/myclothing][/choose]
+        [/chance]
+        [else]
+            <[eznude][$eff_gen]>
+        [/else]
+    [/else]
+[/set]
+
+[set prompt_suffix][call replace_text text_to_replace="{get prompt_suffix_primitive}"][/set]
+
+[set umistring][get character_preset], [get prompt_suffix][/set]
+
+[set retrieved_string][Umi umistring umineg][/set]
+
+[set opt][choose _case=0][get retrieved_string][/choose][/set]
+[set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
+[set n_prompt][choose _case=2][get retrieved_string][/choose][/set]
+
+[call set_model]
 
 [get p_style], [get p_prompt]
 
 [set negative_prompt][get n_style], [get n_prompt][/set]
+
 
 [/function]
 

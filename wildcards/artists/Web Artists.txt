@@ -35,7 +35,6 @@ by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.66>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.66>
 by tekuho, by tekuho no habo
 by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.66>
-by liang xing, by liangxing <lora:liangxing-guy-PONY-DORAv1:0.66>
 by dmitrys <lora:Dmitrys_Style_Illustrious:0.66>
 by saurian
 by melkor mancin, <lora:Melkor_Middle_Years_Style_V01_IL:0.66> ffmelkormid
