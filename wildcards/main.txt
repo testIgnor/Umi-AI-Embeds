@@ -99,6 +99,10 @@ Outfit
 
 [set umistring][get character_preset], [get prompt_suffix][/set]
 
+[chance 5]
+    [set umistring]<[model]><[LegacyPrompt]>[/set]
+[/chance]
+
 [set retrieved_string][Umi umistring umineg][/set]
 
 [set opt][choose _case=0][get retrieved_string][/choose][/set]
