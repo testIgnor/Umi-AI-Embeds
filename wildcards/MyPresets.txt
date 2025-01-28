@@ -41,13 +41,13 @@ Cfkneeling
 [/function]
 
 [tags preset_type="Outfit"]
-<[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezMaleSwimwearChallenge][$eff_gen]>**(beach ball:2.0)**
+<[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezMaleSwimwearChallenge][get eff_gen _before=[ _after=]]>**(beach ball:2.0)**
 <[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, [call get_clothing clothing_type="bikini"]**(beach ball:2.0)**
 <[imageformat]>, (at a rave, in a night club, rave, neon:1.3), [call get_clothing clothing_type="rave"]*(stripper pole, pole:1.5)**
 <[imageformat]>, (at a rave, in a night club, rave, neon:1.3), <[ezgoth]>, [call get_clothing clothing_type="rave"]**(stripper pole, pole:1.5)**
 <[imageformat]>, (at a rave, in a night club, rave, neon:1.3), [call get_clothing clothing_type="rave"], (tattoo:1.3)**(stripper pole, pole:1.5)**
 <[imageformat]>, (at a rave, in a night club, rave, neon:1.3), <[ezgoth]>, [call get_clothing clothing_type="rave"], (tattoo:1.3)**(stripper pole, pole:1.5)**
-<[imageformat]>, outdoors, (in an fantasy forest:1.2), (pinup, exhibitionism:1.1), <[eznude][$eff_gen]>, (parasite, Leucochloridium ((Leucochloridium Antenna)), Leucochloridium Breasts:1.2, (Leucochloridium pussy), Leucochloridium Eyes:1.5) <lora:Leucochloridium:1>
+<[imageformat]>, outdoors, (in an fantasy forest:1.2), (pinup, exhibitionism:1.1), <[eznude][get eff_gen _before=[ _after=]]>, (parasite, Leucochloridium ((Leucochloridium Antenna)), Leucochloridium Breasts:1.2, (Leucochloridium pussy), Leucochloridium Eyes:1.5) <lora:Leucochloridium:1>
 <[imageformat]>, outdoors, (in an elegant regal estate garden:1.2), (pinup, exhibitionism:1.1), [call get_clothing clothing_type="wedding"]
 <[imageformat]>, outdoors, (in an elegant regal estate garden:1.2), (pinup, exhibitionism:1.1), [call get_clothing clothing_type="maid"]
 <[imageformat]>, (at a cabaret club, at a hostess club:1.3), fancy upscale rich bar, (pinup, exhibitionism:1.1), [call get_clothing clothing_type="bunnysuit"]

@@ -1,163 +1,163 @@
 [tags clothing clothing_type="bikini"]
-fully clothed, skimpy clothes, see-through bikini, <[ezcovered][$eff_gen]>
-sling bikini, slingshot swimsuit, <[ezcovered][$eff_gen]>
-monokini, topless, <[ezcovered][$eff_gen]>
-slingshot swimsuit, <[ezcovered][$eff_gen]> <lora:slingshotPony_resize:1>
-tapeproject, black tape, covered nipples, <[ezcovered][$eff_gen]>, navel <lora:TapeProjectPDXL_byKonan:1>
-micro bikini, <[ezcovered][$eff_gen]> <lora:micro bikini_pony_V1.0:1>
-fully clothed, skimpy clothes, bikini, <[ezcovered][$eff_gen]>
-fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovered][$eff_gen]>
-ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][$eff_gen]>, <lora:0588 fragmented swimsuit_v1_pony:0.6>
-4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][$eff_gen]>, <lora:4ng3ll1ngXLP:0.6>
-bodypaint clothes, bodypaint, <[eznude][$eff_gen]> <lora:bodypaint clothes_pony_V1.0:1>
-center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][$eff_gen]>
-open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][$eff_gen]>
+fully clothed, skimpy clothes, see-through bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
+sling bikini, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
+monokini, topless, <[ezcovered][get eff_gen _before=[ _after=]]>
+slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingshotPony_resize:1>
+tapeproject, black tape, covered nipples, <[ezcovered][get eff_gen _before=[ _after=]]>, navel <lora:TapeProjectPDXL_byKonan:1>
+micro bikini, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:micro bikini_pony_V1.0:1>
+fully clothed, skimpy clothes, bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovered][get eff_gen _before=[ _after=]]>
+ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:0588 fragmented swimsuit_v1_pony:0.6>
+4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:4ng3ll1ngXLP:0.6>
+bodypaint clothes, bodypaint, <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint clothes_pony_V1.0:1>
+center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][get eff_gen _before=[ _after=]]>
+open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:chainmailbikiniILL:1> chainmail bikini, pelvic curtain
-<lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][$eff_gen]>
-<lora:Shining_summer:1> 5h1n1ng_50mm3r, bikini, swimsuit, o-ring, <[ezcovered][$eff_gen]>
-<lora:slingshot_mask:1> 5l1ngsh0t_m45k, slingshot swimsuit, <[ezcovered][$eff_gen]>
-<lora:X_micro_bikini:1> X_m1cr0_b1k1n1, criss-cross halter, <[ezcovered][$eff_gen]>
-<lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][$eff_gen]>
-<lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][$eff_gen]>
+<lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Shining_summer:1> 5h1n1ng_50mm3r, bikini, swimsuit, o-ring, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:slingshot_mask:1> 5l1ngsh0t_m45k, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:X_micro_bikini:1> X_m1cr0_b1k1n1, criss-cross halter, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="bodysuit"]
-biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][$eff_gen]>**(helmet, headwear, hat:2.0)**
-skinbodysuit, bodysuit, <[ezcovered][$eff_gen]> <lora:skinbodysuit e3:1>
-ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nude, metal spine, <[ezcovered][$eff_gen]> <lora:0469 Stellar Blade (Skin Suit)_v3_pony:0.5>
-metalSuit, necklace, high heels, helmet, <[eznude][$eff_gen]> <lora:MetalSuitPonyV2:0.5>
-leotard, athletic leotard, tight clothes, <[ezcovered][$eff_gen]>
-leotard, sheer leotard, tight clothes, <[ezcovered][$eff_gen]>
-leotard, breastless leotard, tight clothes, <[eztopless][$eff_gen]>
-leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][$eff_gen]>
-goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][$eff_gen]>
-bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][$eff_gen]>
-<lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][$eff_gen]>
-<lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][$eff_gen]>, <[ezbottomless][$eff_gen]>
+biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][get eff_gen _before=[ _after=]]>**(helmet, headwear, hat:2.0)**
+skinbodysuit, bodysuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:skinbodysuit e3:1>
+ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nude, metal spine, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:0469 Stellar Blade (Skin Suit)_v3_pony:0.5>
+metalSuit, necklace, high heels, helmet, <[eznude][get eff_gen _before=[ _after=]]> <lora:MetalSuitPonyV2:0.5>
+leotard, athletic leotard, tight clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+leotard, sheer leotard, tight clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+leotard, breastless leotard, tight clothes, <[eztopless][get eff_gen _before=[ _after=]]>
+leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][get eff_gen _before=[ _after=]]>
+bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+<lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 [/tags]
 [tags clothing clothing_type="bunnysuit"]
-reverse bunnysuit, functionally nude, <[eznude][$eff_gen]>
-bunnysuit, <[ezcovered][$eff_gen]>, functionally nude
-reverse bunnysuit, heart pasties, <[ezcovered][$eff_gen]>, functionally nude
+reverse bunnysuit, functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
+bunnysuit, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
+reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
 [/tags]
 
 [tags clothing clothing_type="maid"]
-maid, maid uniform, maid headdress, maid apron, <[ezcovered][$eff_gen]>
-unconventional maid, maid bikini, <[ezcovered][$eff_gen]>
-unconventional maid, jersey maid, <[ezcovered][$eff_gen]>
-unconventional maid, maid leotard, <[ezcovered][$eff_gen]>
-unconventional maid, maid one-piece swimsuit, <[ezcovered][$eff_gen]>
-unconventional maid, yuino maid dress, <[ezcovered][$eff_gen]>
-<lora:Naked_cook:1> N4k3d_c00k, thighhighs, wrist cuffs, choker, apron, maid headdress, <[ezcovered][$eff_gen]>
+maid, maid uniform, maid headdress, maid apron, <[ezcovered][get eff_gen _before=[ _after=]]>
+unconventional maid, maid bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
+unconventional maid, jersey maid, <[ezcovered][get eff_gen _before=[ _after=]]>
+unconventional maid, maid leotard, <[ezcovered][get eff_gen _before=[ _after=]]>
+unconventional maid, maid one-piece swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
+unconventional maid, yuino maid dress, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Naked_cook:1> N4k3d_c00k, thighhighs, wrist cuffs, choker, apron, maid headdress, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="rave"]
-<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, {glowing, exhibitionism, neon_lights, bodypaint||fishnets, fishnet thighhighs||bodypaint, glitter, crotchless_panties, cupless_bra, lingerie}, <[eznude][$eff_gen]>, {neon_green||neon_pink||neon_white||neon_yellow||neon_orange||neon_blue}
-bodypaint \(ero\), <[eznude][$eff_gen]> <lora:bodypaint_ero:1>
-glowing, bodypaint, handprints on body, <[eznude][$eff_gen]> <lora:Glowing_handprint:1>
-(pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), <[ezcovered][$eff_gen]>, <[eznips]>, navel
+<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, {glowing, exhibitionism, neon_lights, bodypaint||fishnets, fishnet thighhighs||bodypaint, glitter, crotchless_panties, cupless_bra, lingerie}, <[eznude][get eff_gen _before=[ _after=]]>, {neon_green||neon_pink||neon_white||neon_yellow||neon_orange||neon_blue}
+bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint_ero:1>
+glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>
+(pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), <[ezcovered][get eff_gen _before=[ _after=]]>, <[eznips]>, navel
 blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos, <lora:Lunas-Blackedwear-Concept-SDXL-A1:1>
-<lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][$eff_gen]>
-<lora:St._Louis_Luxurious_Wheels:1> L0x0r100s_Wh33l5, silver dress, halterneck, backless dress, halter dress, revealing clothes, <[covered][upper][$eff_gen]>
-<lora:Strapless_Pothole_Tube_Dress_SKNSFW:1> Strapless_Pothole_Tube_Dress_SKNSFW, short dress, strapless dress, __colors__ dress, <[eznude][$eff_gen]>
-<lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][$eff_gen]>, <[ezbottomless][$eff_gen]>
+<lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:St._Louis_Luxurious_Wheels:1> L0x0r100s_Wh33l5, silver dress, halterneck, backless dress, halter dress, revealing clothes, <[covered][upper][get eff_gen _before=[ _after=]]>
+<lora:Strapless_Pothole_Tube_Dress_SKNSFW:1> Strapless_Pothole_Tube_Dress_SKNSFW, short dress, strapless dress, __colors__ dress, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="wedding"]
-fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered][$eff_gen]>
-fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered][$eff_gen]>
-functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][$eff_gen]>
+fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
-functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][$eff_gen]>
-fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][$eff_gen]>
-fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][$eff_gen]>
-(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[ezcovered][$eff_gen]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint**(skirt, bridal veil:2.0)**
-fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][$eff_gen]>
-ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][$eff_gen]> <lora:0765 flower wedding_v1_pony:1>
-white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][$eff_gen]>
-<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[eznude][$eff_gen]>
-<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][$eff_gen]>
-<lora:Lace_Slingshot:1>  L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezcovered][$eff_gen]>
+functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint**(skirt, bridal veil:2.0)**
+fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:0765 flower wedding_v1_pony:1>
+white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Lace_Slingshot:1>  L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [# Default]
 [tags clothing]
-naked coat, <[eznude][$eff_gen]>
-nude with lesbian pride flag draped over body, <[eznude][$eff_gen]>
-fully clothed, __colors__ china dress, qipao, long dress, <[ezcovered][$eff_gen]>
-fully clothed, skimpy clothes, <[ezcovered][$eff_gen]>
-naked raincoat, <[eznude][$eff_gen]>
+naked coat, <[eznude][get eff_gen _before=[ _after=]]>
+nude with lesbian pride flag draped over body, <[eznude][get eff_gen _before=[ _after=]]>
+fully clothed, __colors__ china dress, qipao, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, skimpy clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+naked raincoat, <[eznude][get eff_gen _before=[ _after=]]>
 cupless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
-naked apron, <[eznude][$eff_gen]>
-naked jacket, <[eznude][$eff_gen]>
-<[ezbottomless][$eff_gen]>
-nude, <[eznude][$eff_gen]>
+naked apron, <[eznude][get eff_gen _before=[ _after=]]>
+naked jacket, <[eznude][get eff_gen _before=[ _after=]]>
+<[ezbottomless][get eff_gen _before=[ _after=]]>
+nude, <[eznude][get eff_gen _before=[ _after=]]>
 nippleless bra, crotchless panties, sheer panties, see through panties
-heavy armor, fully clothed, armor, <[ezcovered][$eff_gen]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
+heavy armor, fully clothed, armor, <[ezcovered][get eff_gen _before=[ _after=]]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
 chastity belt
-nude with pride flag draped over body, <[eznude][$eff_gen]>
-zero suit, <[ezcovered][$eff_gen]>, fully clothed, tight clothes
-naked armor, armor, <[eznude][$eff_gen]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
-virgin destroyer sweater, <[ezcovered][$eff_gen]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
-virgin destroyer sweater, sideboob, underboob, white panties, white thighhighs, <[ezcovered][$eff_gen]> <lora:attire_virgindestroyer_ponyXL:1>
-virgin destroyer sweater, detached sleeves, panties, thighhighs <[ezcovered][$eff_gen]> <lora:virgin_destroyer_sweater_v0.1-pony:1>
-chastity belt, <[eztopless][$eff_gen]>
-see-through, ballerina, black thighhighs, <[ezcovered][$eff_gen]>
+nude with pride flag draped over body, <[eznude][get eff_gen _before=[ _after=]]>
+zero suit, <[ezcovered][get eff_gen _before=[ _after=]]>, fully clothed, tight clothes
+naked armor, armor, <[eznude][get eff_gen _before=[ _after=]]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
+virgin destroyer sweater, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
+virgin destroyer sweater, sideboob, underboob, white panties, white thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:attire_virgindestroyer_ponyXL:1>
+virgin destroyer sweater, detached sleeves, panties, thighhighs <[ezcovered][get eff_gen _before=[ _after=]]> <lora:virgin_destroyer_sweater_v0.1-pony:1>
+chastity belt, <[eztopless][get eff_gen _before=[ _after=]]>
+see-through, ballerina, black thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]>
 nippleless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
-shibari under clothes, see-through clothes, <[ezcovered][$eff_gen]>
-tight t-shirt, wet t-shirt, short shorts, <[ezcovered][$eff_gen]>
+shibari under clothes, see-through clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+tight t-shirt, wet t-shirt, short shorts, <[ezcovered][get eff_gen _before=[ _after=]]>
 cupless bra, crotchless panties, sheer panties, see through panties
-painted clothes, false clothes, fully clothed, functionally nude, <[ezcovered][$eff_gen]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint
-naked kimono, <[eznude][$eff_gen]>
-naked shirt, <[eznude][$eff_gen]>
-business suit, tight clothes, <[ezcovered][$eff_gen]>
-virgin killer sweater, <[ezcovered][$eff_gen]>, functionally nude
-school swimsuit, <[ezcovered][$eff_gen]>
-naked cape, <[eznude][$eff_gen]>
-fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, <[ezbottomless][$eff_gen]>
-open dress, <[eznude][$eff_gen]>
-open bathrobe, <[eznude][$eff_gen]>
-open bathrobe, <[covered][upper][$eff_gen]>
-open clothes, <[eznude][$eff_gen]>
+painted clothes, false clothes, fully clothed, functionally nude, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint
+naked kimono, <[eznude][get eff_gen _before=[ _after=]]>
+naked shirt, <[eznude][get eff_gen _before=[ _after=]]>
+business suit, tight clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+virgin killer sweater, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
+school swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
+naked cape, <[eznude][get eff_gen _before=[ _after=]]>
+fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, <[ezbottomless][get eff_gen _before=[ _after=]]>
+open dress, <[eznude][get eff_gen _before=[ _after=]]>
+open bathrobe, <[eznude][get eff_gen _before=[ _after=]]>
+open bathrobe, <[covered][upper][get eff_gen _before=[ _after=]]>
+open clothes, <[eznude][get eff_gen _before=[ _after=]]>
 open shirt, <[eznips]>
-functionally nude, <[eznude][$eff_gen]>
-<[eztopless][$eff_gen]>
-slingshot swimsuit, <[ezcovered][$eff_gen]> <lora:slingshotIllustrious:1>
-(symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][$eff_gen]>
-naked cloak, <[eznude][$eff_gen]>
-fully clothed, __colors__ kimono, kimono, long dress, <[ezcovered][$eff_gen]>
-ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered][$eff_gen]>
-fully clothed, loose dress gown, covered nipples, <[ezbottomless][$eff_gen]>
-fully clothed, impossible clothes, <[ezcovered][$eff_gen]>
-<[ezMaleSwimwearChallenge][$eff_gen]>
-plugsuit, <[ezcovered][$eff_gen]>
-naked overalls, <[eznude][$eff_gen]>
-naked scarf, <[eznude][$eff_gen]>
-naked hoodie, <[eznude][$eff_gen]>
-shibari over clothes, <[ezcovered][$eff_gen]>
+functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
+<[eztopless][get eff_gen _before=[ _after=]]>
+slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingshotIllustrious:1>
+(symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>
+naked cloak, <[eznude][get eff_gen _before=[ _after=]]>
+fully clothed, __colors__ kimono, kimono, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
+ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, loose dress gown, covered nipples, <[ezbottomless][get eff_gen _before=[ _after=]]>
+fully clothed, impossible clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+<[ezMaleSwimwearChallenge][get eff_gen _before=[ _after=]]>
+plugsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
+naked overalls, <[eznude][get eff_gen _before=[ _after=]]>
+naked scarf, <[eznude][get eff_gen _before=[ _after=]]>
+naked hoodie, <[eznude][get eff_gen _before=[ _after=]]>
+shibari over clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 nippleless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
-monokini, <[eztopless][$eff_gen]>
-cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbottomless][$eff_gen]>
+monokini, <[eztopless][get eff_gen _before=[ _after=]]>
+cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbottomless][get eff_gen _before=[ _after=]]>
 cupless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
-magical girl costume, <[ezbottomless][$eff_gen]>
-corrupted magical girl costume, <[ezbottomless][$eff_gen]>
-ruanyi0040, <[eznude][$eff_gen]>, bracelet, chain <lora:0040 metal tassel_v3_pony:0.66>
+magical girl costume, <[ezbottomless][get eff_gen _before=[ _after=]]>
+corrupted magical girl costume, <[ezbottomless][get eff_gen _before=[ _after=]]>
+ruanyi0040, <[eznude][get eff_gen _before=[ _after=]]>, bracelet, chain <lora:0040 metal tassel_v3_pony:0.66>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][futanari]> <lora:0765 flower wedding_v1_pony:1>
-parasite, <lora:canalV3:1> {1-3$$fake vagina cl in vagina||fake vagina cl in mouth||fake vagina cl in anus}, cl, <[eznude][$eff_gen]>
-Parasite, <lora:LivingClothes:1> Living Clothes, Tentacle Clothes, <[ezcovered][$eff_gen]>
-virgin slayer sweater, thighhighs, detached sleeves, buttplug, <[ezcovered][$eff_gen]> <lora:Virgin_Slayer_SweaterV1:1>
-virgin terminator sweater, <[ezcovered][$eff_gen]>, pi-vrgn-trm-swtr, long sleeves, ribbed thighhighs, white sweater, ribbed sleeves, alternate costume, detached sleeves, side-tie panties <lora:VirginTerminatorSweater:1>
-leotard, crotchless leotard, tight clothes, <[covered][upper][$eff_gen]>, <[ezbottomless][$eff_gen]>
-fully clothed, wearing tight leather armor, armor, {<[eznude][$eff_gen]>||<[ezcovered][$eff_gen]>}
-wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][$eff_gen]>
-evening gown, formal clothes, see-through clothes, revealing clothes, <[ezcovered][$eff_gen]>
-evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][$eff_gen]>
-<lora:underboobnunILL:0.5> underboob nun, latex nun, underboob, nun, habit, detached sleeves, breast curtains, <[covered][lower][$eff_gen]>
-<lora:NunV3ILL:0.5> nun, thighhighs, habit, large breasts, garter straps, frills, white skirt, long sleeves, <[covered][upper][$eff_gen]>
-<lora:NunV4ILL:0.5> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][$eff_gen]>
-<lora:latexbodysuitnunILL:0.5> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][$eff_gen]>
-<lora:NunV5ILL:0.5> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][$eff_gen]>
-<lora:gothicsheerleotardILL:0.5> see-through leotard, wide sleeves, long sleeves, thigh boots, thighhighs, highleg leotard, <[ezcovered][$eff_gen]>
+parasite, <lora:canalV3:1> {1-3$$fake vagina cl in vagina||fake vagina cl in mouth||fake vagina cl in anus}, cl, <[eznude][get eff_gen _before=[ _after=]]>
+Parasite, <lora:LivingClothes:1> Living Clothes, Tentacle Clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+virgin slayer sweater, thighhighs, detached sleeves, buttplug, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:Virgin_Slayer_SweaterV1:1>
+virgin terminator sweater, <[ezcovered][get eff_gen _before=[ _after=]]>, pi-vrgn-trm-swtr, long sleeves, ribbed thighhighs, white sweater, ribbed sleeves, alternate costume, detached sleeves, side-tie panties <lora:VirginTerminatorSweater:1>
+leotard, crotchless leotard, tight clothes, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+fully clothed, wearing tight leather armor, armor, {<[eznude][get eff_gen _before=[ _after=]]>||<[ezcovered][get eff_gen _before=[ _after=]]>}
+wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][get eff_gen _before=[ _after=]]>
+evening gown, formal clothes, see-through clothes, revealing clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:underboobnunILL:0.5> underboob nun, latex nun, underboob, nun, habit, detached sleeves, breast curtains, <[covered][lower][get eff_gen _before=[ _after=]]>
+<lora:NunV3ILL:0.5> nun, thighhighs, habit, large breasts, garter straps, frills, white skirt, long sleeves, <[covered][upper][get eff_gen _before=[ _after=]]>
+<lora:NunV4ILL:0.5> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][get eff_gen _before=[ _after=]]>
+<lora:latexbodysuitnunILL:0.5> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:NunV5ILL:0.5> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:gothicsheerleotardILL:0.5> see-through leotard, wide sleeves, long sleeves, thigh boots, thighhighs, highleg leotard, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes
 fully clothed, wedding dress, bride, wedding
 fully clothed, kimono
