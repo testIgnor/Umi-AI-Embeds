@@ -17,15 +17,15 @@
 (diablo:1.3), diablo, <lora:DiabloD3:1> monster, horns, claws, tail, teeth, sharp teeth, spikes, yellow eyes, glowing, glowing eyes
 (victory \(dg\):1.3), <lora:Victory DG PXL v04:1> VictoryDG, Red hair, green eyes, spiked hair, pointy ears, long hair, red lips
 (riesz:1.3), seiken densetsu 3, low-tied long hair, blue eyes, very long hair, long hair, blonde hair <lora:DX888AngelaRiesz:1>
-(drossel:1.3) <lora:pochincoff.pony:1>
-(pinkle:1.3) <lora:pochincoff.pony:1>
-(alma:1.3) <lora:pochincoff.pony:1>
-(una:1.3) <lora:pochincoff.pony:1>
-(feiyan:1.3) <lora:pochincoff.pony:1>
-(amy:1.3) <lora:pochincoff.pony:1>
-(blazermate:1.3) <lora:pochincoff.pony:1>
-(jennifer:1.3) <lora:pochincoff.pony:1>
-(orca:1.3) <lora:pochincoff.pony:1>
-(cream:1.3) <lora:pochincoff.pony:1>
-(vanilla:1.3) <lora:pochincoff.pony:1>
-(rebecca:1.3) <lora:pochincoff.pony:1>
+(drossel:1.3) <lora:pochincoff.pony:0.66>
+(pinkle:1.3) <lora:pochincoff.pony:0.66>
+(alma:1.3) <lora:pochincoff.pony:0.66>
+(una:1.3) <lora:pochincoff.pony:0.66>
+(feiyan:1.3) <lora:pochincoff.pony:0.66>
+(amy:1.3) <lora:pochincoff.pony:0.66>
+(blazermate:1.3) <lora:pochincoff.pony:0.66>
+(jennifer:1.3) <lora:pochincoff.pony:0.66>
+(orca:1.3) <lora:pochincoff.pony:0.66>
+(cream:1.3) <lora:pochincoff.pony:0.66>
+(vanilla:1.3) <lora:pochincoff.pony:0.66>
+(rebecca:1.3) <lora:pochincoff.pony:0.66>

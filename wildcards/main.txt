@@ -72,13 +72,25 @@ Outfit
 [choose][call wildcards/mypresets][/choose]
 [/function]
 
+[function get_artist]
+[set artist][choose][call wildcards/webartists][/choose][/set]
 
+[if "'lora' not in artist"]
+    [set artist][get artist] <lora:PDXL_artist_tags_v2_big:1>[/set]
+[/if]
+
+[/function]
+
+[call get_artist]
 
 [function main_function]
-[set charpreset_primitive]NSFW, $1gender, <[$characterType][$franchise]>, <[Artists]>, as a <[ezage][$gender]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5) <lora:PDXL_artist_tags_v2_big:1>**(2girls, 3girls, 4girls:1.0)**[/set]
 
+[call get_artist]
 [call choose_franchise]
 [call set_vars]
+
+[set charpreset_primitive]NSFW, [get gender_short], <[$characterType][get franchise _before=[ _after=]]>, [get artist], as a <[ezage][get gender _before=[ _after=]]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:1.0)**[/set]
+
 [set character_preset][call replace_text text_to_replace="{get charpreset_primitive}"][/set]
 
 [set prompt_suffix_primitive]
