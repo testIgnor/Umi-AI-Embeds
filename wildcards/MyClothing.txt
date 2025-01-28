@@ -1,0 +1,195 @@
+[tags clothing clothing_type="bikini"]
+fully clothed, skimpy clothes, see-through bikini, <[ezcovered][$gender_eff]>
+sling bikini, slingshot swimsuit, <[ezcovered][$gender_eff]>
+monokini, topless, <[ezcovered][$gender_eff]>
+slingshot swimsuit, <[ezcovered][$gender_eff]> <lora:slingshotPony_resize:1>
+tapeproject, black tape, covered nipples, <[ezcovered][$gender_eff]>, navel <lora:TapeProjectPDXL_byKonan:1>
+micro bikini, <[ezcovered][$gender_eff]> <lora:micro bikini_pony_V1.0:1>
+fully clothed, skimpy clothes, bikini, <[ezcovered][$gender_eff]>
+fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovered][$gender_eff]>
+ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][$gender_eff]>, <lora:0588 fragmented swimsuit_v1_pony:0.6>
+4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][$gender_eff]>, <lora:4ng3ll1ngXLP:0.6>
+bodypaint clothes, bodypaint, <[eznude][$gender_eff]> <lora:bodypaint clothes_pony_V1.0:1>
+center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][$gender_eff]>
+open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][$gender_eff]>
+<lora:chainmailbikiniILL:1> chainmail bikini, pelvic curtain
+<lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][$gender_eff]>
+<lora:Shining_summer:1> 5h1n1ng_50mm3r, bikini, swimsuit, o-ring, <[ezcovered][$gender_eff]>
+<lora:slingshot_mask:1> 5l1ngsh0t_m45k, slingshot swimsuit, <[ezcovered][$gender_eff]>
+<lora:X_micro_bikini:1> X_m1cr0_b1k1n1, criss-cross halter, <[ezcovered][$gender_eff]>
+<lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][$gender_eff]>
+<lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][$gender_eff]>
+[/tags]
+
+[tags clothing clothing_type="bodysuit"]
+biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][$gender_eff]>**(helmet, headwear, hat:2.0)**
+skinbodysuit, bodysuit, <[ezcovered][$gender_eff]> <lora:skinbodysuit e3:1>
+ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nude, metal spine, <[ezcovered][$gender_eff]> <lora:0469 Stellar Blade (Skin Suit)_v3_pony:0.5>
+metalSuit, necklace, high heels, helmet, <[eznude][$gender_eff]> <lora:MetalSuitPonyV2:0.5>
+leotard, athletic leotard, tight clothes, <[ezcovered][$gender_eff]>
+leotard, sheer leotard, tight clothes, <[ezcovered][$gender_eff]>
+leotard, breastless leotard, tight clothes, <[eztopless][$gender_eff]>
+leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][$gender_eff]>
+goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][$gender_eff]>
+bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][$gender_eff]>
+<lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][$gender_eff]>
+<lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][$gender_eff]>, <[ezbottomless][$gender_eff]>
+[/tags]
+[tags clothing clothing_type="bunnysuit"]
+reverse bunnysuit, functionally nude, <[eznude][$gender_eff]>
+bunnysuit, <[ezcovered][$gender_eff]>, functionally nude
+reverse bunnysuit, heart pasties, <[ezcovered][$gender_eff]>, functionally nude
+[/tags]
+
+[tags clothing clothing_type="maid"]
+maid, maid uniform, maid headdress, maid apron, <[ezcovered][$gender_eff]>
+unconventional maid, maid bikini, <[ezcovered][$gender_eff]>
+unconventional maid, jersey maid, <[ezcovered][$gender_eff]>
+unconventional maid, maid leotard, <[ezcovered][$gender_eff]>
+unconventional maid, maid one-piece swimsuit, <[ezcovered][$gender_eff]>
+unconventional maid, yuino maid dress, <[ezcovered][$gender_eff]>
+<lora:Naked_cook:1> N4k3d_c00k, thighhighs, wrist cuffs, choker, apron, maid headdress, <[ezcovered][$gender_eff]>
+[/tags]
+
+[tags clothing clothing_type="rave"]
+<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, {glowing, exhibitionism, neon_lights, bodypaint||fishnets, fishnet thighhighs||bodypaint, glitter, crotchless_panties, cupless_bra, lingerie}, <[eznude][$gender_eff]>, {neon_green||neon_pink||neon_white||neon_yellow||neon_orange||neon_blue}
+bodypaint \(ero\), <[eznude][$gender_eff]> <lora:bodypaint_ero:1>
+glowing, bodypaint, handprints on body, <[eznude][$gender_eff]> <lora:Glowing_handprint:1>
+(pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), <[ezcovered][$gender_eff]>, <[eznips]>, navel
+blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos, <lora:Lunas-Blackedwear-Concept-SDXL-A1:1>
+<lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][$gender_eff]>
+<lora:St._Louis_Luxurious_Wheels:1> L0x0r100s_Wh33l5, silver dress, halterneck, backless dress, halter dress, revealing clothes, <[covered][upper][$gender_eff]>
+<lora:Strapless_Pothole_Tube_Dress_SKNSFW:1> Strapless_Pothole_Tube_Dress_SKNSFW, short dress, strapless dress, __colors__ dress, <[eznude][$gender_eff]>
+<lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][$gender_eff]>, <[ezbottomless][$gender_eff]>
+[/tags]
+
+[tags clothing clothing_type="wedding"]
+fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered][$gender_eff]>
+fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered][$gender_eff]>
+functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][$gender_eff]>
+fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
+functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][$gender_eff]>
+fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][$gender_eff]>
+fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][$gender_eff]>
+(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[ezcovered][$gender_eff]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint**(skirt, bridal veil:2.0)**
+fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][$gender_eff]>
+ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][$gender_eff]> <lora:0765 flower wedding_v1_pony:1>
+white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][$gender_eff]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[eznude][$gender_eff]>
+<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][$gender_eff]>
+<lora:Lace_Slingshot:1>  L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezcovered][$gender_eff]>
+[/tags]
+
+[# Default]
+[tags clothing]
+naked coat, <[eznude][$gender_eff]>
+nude with lesbian pride flag draped over body, <[eznude][$gender_eff]>
+fully clothed, __colors__ china dress, qipao, long dress, <[ezcovered][$gender_eff]>
+fully clothed, skimpy clothes, <[ezcovered][$gender_eff]>
+naked raincoat, <[eznude][$gender_eff]>
+cupless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
+naked apron, <[eznude][$gender_eff]>
+naked jacket, <[eznude][$gender_eff]>
+<[ezbottomless][$gender_eff]>
+nude, <[eznude][$gender_eff]>
+nippleless bra, crotchless panties, sheer panties, see through panties
+heavy armor, fully clothed, armor, <[ezcovered][$gender_eff]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
+chastity belt
+nude with pride flag draped over body, <[eznude][$gender_eff]>
+zero suit, <[ezcovered][$gender_eff]>, fully clothed, tight clothes
+naked armor, armor, <[eznude][$gender_eff]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
+virgin destroyer sweater, <[ezcovered][$gender_eff]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
+virgin destroyer sweater, sideboob, underboob, white panties, white thighhighs, <[ezcovered][$gender_eff]> <lora:attire_virgindestroyer_ponyXL:1>
+virgin destroyer sweater, detached sleeves, panties, thighhighs <[ezcovered][$gender_eff]> <lora:virgin_destroyer_sweater_v0.1-pony:1>
+chastity belt, <[eztopless][$gender_eff]>
+see-through, ballerina, black thighhighs, <[ezcovered][$gender_eff]>
+nippleless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
+shibari under clothes, see-through clothes, <[ezcovered][$gender_eff]>
+tight t-shirt, wet t-shirt, short shorts, <[ezcovered][$gender_eff]>
+cupless bra, crotchless panties, sheer panties, see through panties
+painted clothes, false clothes, fully clothed, functionally nude, <[ezcovered][$gender_eff]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint
+naked kimono, <[eznude][$gender_eff]>
+naked shirt, <[eznude][$gender_eff]>
+business suit, tight clothes, <[ezcovered][$gender_eff]>
+virgin killer sweater, <[ezcovered][$gender_eff]>, functionally nude
+school swimsuit, <[ezcovered][$gender_eff]>
+naked cape, <[eznude][$gender_eff]>
+fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, <[ezbottomless][$gender_eff]>
+open dress, <[eznude][$gender_eff]>
+open bathrobe, <[eznude][$gender_eff]>
+open bathrobe, <[covered][upper][$gender_eff]>
+open clothes, <[eznude][$gender_eff]>
+open shirt, <[eznips]>
+functionally nude, <[eznude][$gender_eff]>
+<[eztopless][$gender_eff]>
+slingshot swimsuit, <[ezcovered][$gender_eff]> <lora:slingshotIllustrious:1>
+(symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][$gender_eff]>
+naked cloak, <[eznude][$gender_eff]>
+fully clothed, __colors__ kimono, kimono, long dress, <[ezcovered][$gender_eff]>
+ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered][$gender_eff]>
+fully clothed, loose dress gown, covered nipples, <[ezbottomless][$gender_eff]>
+fully clothed, impossible clothes, <[ezcovered][$gender_eff]>
+<[ezMaleSwimwearChallenge][$gender_eff]>
+plugsuit, <[ezcovered][$gender_eff]>
+naked overalls, <[eznude][$gender_eff]>
+naked scarf, <[eznude][$gender_eff]>
+naked hoodie, <[eznude][$gender_eff]>
+shibari over clothes, <[ezcovered][$gender_eff]>
+nippleless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
+monokini, <[eztopless][$gender_eff]>
+cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbottomless][$gender_eff]>
+cupless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
+magical girl costume, <[ezbottomless][$gender_eff]>
+corrupted magical girl costume, <[ezbottomless][$gender_eff]>
+ruanyi0040, <[eznude][$gender_eff]>, bracelet, chain <lora:0040 metal tassel_v3_pony:0.66>
+ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][futanari]> <lora:0765 flower wedding_v1_pony:1>
+parasite, <lora:canalV3:1> {1-3$$fake vagina cl in vagina||fake vagina cl in mouth||fake vagina cl in anus}, cl, <[eznude][$gender_eff]>
+Parasite, <lora:LivingClothes:1> Living Clothes, Tentacle Clothes, <[ezcovered][$gender_eff]>
+virgin slayer sweater, thighhighs, detached sleeves, buttplug, <[ezcovered][$gender_eff]> <lora:Virgin_Slayer_SweaterV1:1>
+virgin terminator sweater, <[ezcovered][$gender_eff]>, pi-vrgn-trm-swtr, long sleeves, ribbed thighhighs, white sweater, ribbed sleeves, alternate costume, detached sleeves, side-tie panties <lora:VirginTerminatorSweater:1>
+leotard, crotchless leotard, tight clothes, <[covered][upper][$gender_eff]>, <[ezbottomless][$gender_eff]>
+fully clothed, wearing tight leather armor, armor, {<[eznude][$gender_eff]>||<[ezcovered][$gender_eff]>}
+wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][$gender_eff]>
+evening gown, formal clothes, see-through clothes, revealing clothes, <[ezcovered][$gender_eff]>
+evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][$gender_eff]>
+<lora:underboobnunILL:1> underboob nun, latex nun, underboob, nun, habit, detached sleeves, breast curtains, <[covered][lower][$gender_eff]>
+<lora:NunV3ILL:1> nun, thighhighs, habit, large breasts, garter straps, frills, white skirt, long sleeves, <[covered][upper][$gender_eff]>
+<lora:NunV4ILL:1> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][$gender_eff]>
+<lora:latexbodysuitnunILL:1> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][$gender_eff]>
+<lora:NunV5ILL:1> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][$gender_eff]>
+<lora:gothicsheerleotardILL:1> see-through leotard, wide sleeves, long sleeves, thigh boots, thighhighs, highleg leotard, <[ezcovered][$gender_eff]>
+fully clothed, skimpy clothes
+fully clothed, wedding dress, bride, wedding
+fully clothed, kimono
+loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear
+school uniform
+serafuku
+fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume
+fully clothed, impossible clothes
+maid, maid uniform, maid headdress, maid apron
+unconventional maid, tactical maid
+unconventional maid, wa maid, traditional japanese maid
+unconventional maid
+bondage outfit, bondage clothing, HDA_BondageOutfitXL
+dominatrix outfit, bondage outfit, bondage clothing
+harem outfit
+shibari
+fully clothed, ballroom gown
+fully clothed, dress
+fully clothed, formal dress
+official outfit, official style, original outfit, original style
+tied shirt
+crop top
+crop top, tied shirt
+front-tie top
+crop top, front-tie top
+race queen, race queen outfit
+tribal clothing, tribal outfit
+backless dress, sleevless dress, loose dress, areola slip
+gothic lolita, lolita fashion, black dress, black and white dress, long dress, frilled dress, frills, ribbon, bow, blush, long sleeves, thighhighs
+blindfold, covered eyes, chain, collar, bondage outfit, underboob, black short shorts
+parasite, <lora:chokerV2:1> alien parasite ckr sucked on neck, ckr
+goddess dress, <lora:goddessdressILL:0.4> g0dd3ss, white dress, cleavage, plunging neckline
+parasite, <lora:starfish_parasites:0.6> alien parasites on breasts, srfh, sucked on breasts, <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
+(hand bra:1.3), topless
+[/tags]

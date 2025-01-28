@@ -339,24 +339,24 @@
     - Particle
     - ezRave
     - Futanari
-'(__Artists/Web Artists__:1.3)':
+'__Artists/Web Artists__':
   Description:
     - Random Artist Names for LoRA
   Tags:
     - Artists
-'(__Artists/Common__:1.3)':
-  Description:
-    - Random Artist Names for LoRA
-  Tags:
-    - Artists
-    - Common
-'(__Artists/More Common__:1.3)':
+'__Artists/Common__':
   Description:
     - Random Artist Names for LoRA
   Tags:
     - Artists
     - Common
-'(__Artists/Has LoRA__:1.3)':
+'__Artists/More Common__':
+  Description:
+    - Random Artist Names for LoRA
+  Tags:
+    - Artists
+    - Common
+'__Artists/Has LoRA__':
   Description:
     - Random Artist Names for LoRA
   Tags:
