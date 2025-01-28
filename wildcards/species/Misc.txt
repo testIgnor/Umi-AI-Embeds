@@ -17,3 +17,5 @@
 (wolbra:1.3), <lora:Wolbra_v2:0.6> Wolbra, wolf ears, snake hood, hybrid
 (xenomorph:1.3) <lora:Xenomorph_Custom:1>
 (xenomorph queen:1.3) <lora:XenomorphQueenIL:1> xenif, teeth, sharp teeth, tail, monster, colored skin, black skin, claws, spikes
+(ender dragon:1.3), <lora:Ender_dragon_minecraft:1> ender_dragon_minecraft, furry, furry girl, wings, scalie, anthro**(feral:1.5)**
+(ender dragon:1.3), <lora:Ender_dragon_minecraft:1> ender_dragon_minecraft, wings, feral**(anthro:1.5)**
