@@ -1,18 +1,18 @@
 [tags preset_type="Position" eff_gen="female"]
-(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, <[eznude][female]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
-(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), exhibitionism, <[eznude][female]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
-(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, exhibitionism, <[eznude][female]>, birth, gbv, baby <lora:Giving birth vigorously_pony_V1:0.66>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
-(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (grabbing own breast:1.1), exhibitionism, <[eznude][female]>, birth, gbv, baby <lora:Giving birth vigorously_pony_V1:0.66>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
+(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), (grabbing own breast:1.1), exhibitionism, <[eznude][female]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
+(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (spread pussy:1.2), exhibitionism, <[eznude][female]>, cervix, clitoris, urethra, <lora:Uncensored_PonyXL_cpt_v03:1>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
+(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, exhibitionism, <[eznude][female]>, birth, gbv, baby <lora:Giving birth vigorously_pony_V1:0.66>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
+(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, (grabbing own breast:1.1), exhibitionism, <[eznude][female]>, birth, gbv, baby <lora:Giving birth vigorously_pony_V1:0.66>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
 <[imageformat][fromabove|fromside]>, <[MyLocation]>, exhibitionism, <[eznude][female]>, (kissing penis:1.1), kissing a <[penistype]> <lora:Kissing_Penis:1>**(2girls, 3girls, 4girls:1.0)**
 [/tags]
 
 [tags preset_type="Position" eff_gen="futanari"]
-(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
-(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>, <[ezfutafap]>, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
-(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>, <[ezcumshot]>, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
-(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>, <[ezfutafap]>, <[ezcumshot]>, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
-<[eznude][futanari]>, <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
-<[eznude][futanari]>, <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>, <[ezcumshot]>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (2girls, 3girls, 4girls:1.0)**
+(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
+(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>, <[ezfutafap]>, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
+(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>, <[ezcumshot]>, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
+(lying on back, on back, presenting, pinup:1.3), <[MyLocation]>, <[eznude][futanari]>, <[ezfutafap]>, <[ezcumshot]>, exhibitionism**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
+<[eznude][futanari]>, <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
+<[eznude][futanari]>, <[imageformat]>, <[MyLocation]>, <[eznips]>, <[ezfutafap]>, <[ezcumshot]>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0)**
 [/tags]
 
 [tags preset_type="Variant"]

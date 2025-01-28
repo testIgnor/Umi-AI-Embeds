@@ -75,7 +75,7 @@ Outfit
 
 
 [function main_function]
-[set charpreset_primitive]NSFW, $1gender, <[$characterType][$franchise]>, <[Artists]>, as a <[ezage][$gender]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance] <lora:PDXL_artist_tags_v2_big:1>[/set]
+[set charpreset_primitive]NSFW, $1gender, <[$characterType][$franchise]>, <[Artists]>, as a <[ezage][$gender]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5) <lora:PDXL_artist_tags_v2_big:1>**(2girls, 3girls, 4girls:1.0)**[/set]
 
 [call choose_franchise]
 [call set_vars]
