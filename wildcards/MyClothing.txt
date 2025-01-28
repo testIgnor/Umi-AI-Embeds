@@ -152,12 +152,12 @@ fully clothed, wearing tight leather armor, armor, {<[eznude][$eff_gen]>||<[ezco
 wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][$eff_gen]>
 evening gown, formal clothes, see-through clothes, revealing clothes, <[ezcovered][$eff_gen]>
 evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][$eff_gen]>
-<lora:underboobnunILL:1> underboob nun, latex nun, underboob, nun, habit, detached sleeves, breast curtains, <[covered][lower][$eff_gen]>
-<lora:NunV3ILL:1> nun, thighhighs, habit, large breasts, garter straps, frills, white skirt, long sleeves, <[covered][upper][$eff_gen]>
-<lora:NunV4ILL:1> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][$eff_gen]>
-<lora:latexbodysuitnunILL:1> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][$eff_gen]>
-<lora:NunV5ILL:1> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][$eff_gen]>
-<lora:gothicsheerleotardILL:1> see-through leotard, wide sleeves, long sleeves, thigh boots, thighhighs, highleg leotard, <[ezcovered][$eff_gen]>
+<lora:underboobnunILL:0.5> underboob nun, latex nun, underboob, nun, habit, detached sleeves, breast curtains, <[covered][lower][$eff_gen]>
+<lora:NunV3ILL:0.5> nun, thighhighs, habit, large breasts, garter straps, frills, white skirt, long sleeves, <[covered][upper][$eff_gen]>
+<lora:NunV4ILL:0.5> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][$eff_gen]>
+<lora:latexbodysuitnunILL:0.5> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][$eff_gen]>
+<lora:NunV5ILL:0.5> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][$eff_gen]>
+<lora:gothicsheerleotardILL:0.5> see-through leotard, wide sleeves, long sleeves, thigh boots, thighhighs, highleg leotard, <[ezcovered][$eff_gen]>
 fully clothed, skimpy clothes
 fully clothed, wedding dress, bride, wedding
 fully clothed, kimono
