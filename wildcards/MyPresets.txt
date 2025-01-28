@@ -23,7 +23,11 @@ as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaur_
 as a wolf taur, as a canine taur, <lora:canine_taur_PDXL:0.66> taur, canine taur, wolf taur
 as a dragon taur, <lora:humandragon_taur:0.66> dragonhumantaur
 as a spider taur, <lora:SpiderTaur-PONY-PAseer:0.66> spider taur
-as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaurfuta-NOOB 1.0-drop0.1-st11:1>, [choose]
+as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaurfuta-NOOB 1.0-drop0.1-st11:1>, [call choose_centaur]
+[/tags]
+
+[function choose_centaur]
+[choose]
 Cfdoggy
 Cfback
 Cfonelegup
@@ -34,7 +38,7 @@ Cfundercarriage
 Cflying
 Cfkneeling
 [/choose]
-[/tags]
+[/function]
 
 [tags preset_type="Outfit"]
 <[imageformat]>, outdoors, (tropical beach with the ocean in the background:1.2), exhibitionism, <[ezMaleSwimwearChallenge][$eff_gen]>**(beach ball:2.0)**
