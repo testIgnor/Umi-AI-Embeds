@@ -1,7 +1,0 @@
-maid, maid uniform, maid headdress, maid apron, <[ezcovered][female]>
-unconventional maid, maid bikini, <[ezcovered][female]>
-unconventional maid, jersey maid, <[ezcovered][female]>
-unconventional maid, maid leotard, <[ezcovered][female]>
-unconventional maid, maid one-piece swimsuit, <[ezcovered][female]>
-unconventional maid, yuino maid dress, <[ezcovered][female]>
-<lora:Naked_cook:1> N4k3d_c00k, thighhighs, wrist cuffs, choker, apron, maid headdress, <[ezcovered][female]>
