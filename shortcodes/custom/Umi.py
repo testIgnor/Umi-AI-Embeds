@@ -500,6 +500,10 @@ class Shortcode():
         _debug = self.Unprompted.parse_arg("_debug", False)
         _ignore_paths = self.Unprompted.parse_arg("_ignore_paths", False)
         _cache_files = self.Unprompted.parse_arg("_cache_files", True)
+        try:
+            seed = self.Unprompted.shortcode_user_vars["unprompted_seed"]
+        except KeyError:
+            seed = -1
 
         if (pargs[0] not in self.Unprompted.shortcode_user_vars):
             return ""
@@ -516,6 +520,8 @@ class Shortcode():
             'ignore_paths': _ignore_paths,
             'wildcard_path': os.path.join(self.Unprompted.base_dir, 'templates/wildcards') # bodge
         }
+        if seed != -1:
+            random.seed(seed)
         if _debug: print(f'\nOriginal Prompt: "{original_prompt}"\nOriginal Negatives: "{original_negative_prompt}"\n')
         prompt_generator = PromptGenerator(options)
 
