@@ -11,6 +11,16 @@ myspecies
 [/elif]
 [set searchpath][get basepath]*.txt[/set]
 [set franchise][choose][filelist "{get searchpath}" _basename _hide_ext][/choose][/set]
+
+[chance 5]
+[if characterType="characters"]
+[set franchise][choose][wildcards/preferred_franchises][/choose][/set]
+[/if]
+[elif characterType="myspecies"]
+[set franchise][choose][wildcards/preferred_species][/choose][/set]
+[/elif]
+
+[/chance]
 [/function]
 
 [function set_vars]
