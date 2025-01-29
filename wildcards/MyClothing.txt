@@ -34,6 +34,8 @@ goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, s
 bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 <lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+<lora:overwatch-dva-cosplay-ponyxl-lora-nochekaiser:1>, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), bodysuit, cosplay, covered navel, skin tight, vertical-striped bodysuit, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:0895 DVA fan clothing_v1_pony:1> ruanyi0895, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), blue bodysuit, skin tight, bunny print, gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 [tags clothing clothing_type="bunnysuit"]
 reverse bunnysuit, functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
@@ -192,4 +194,5 @@ parasite, <lora:chokerV2:1> alien parasite ckr sucked on neck, ckr
 goddess dress, <lora:goddessdressILL:0.4> g0dd3ss, white dress, cleavage, plunging neckline
 parasite, <lora:starfish_parasites:0.6> alien parasites on breasts, srfh, sucked on breasts, <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
 (hand bra:1.3), topless
+hooters uniform, lora:Hooters_Outfit_Illustrious:1> hooters logo, short shorts, orange shorts, booty shorts, owl logo, <[covered][upper][get eff_gen _before=[ _after=]]>
 [/tags]
