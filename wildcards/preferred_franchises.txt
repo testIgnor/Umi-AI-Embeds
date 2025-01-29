@@ -13,3 +13,5 @@ tekken
 warhammer
 zelda
 xenoblade
+ookami
+mahoako
