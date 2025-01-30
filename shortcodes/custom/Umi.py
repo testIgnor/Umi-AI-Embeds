@@ -495,23 +495,22 @@ class Shortcode():
                             according to Umi-AI rules
                             """
 
-    def run_atomic(self, pargs, kwargs, context):
+    def run_block(self, pargs, kwargs, context, content):
         _verbose = self.Unprompted.parse_arg("_verbose", True)
         _debug = self.Unprompted.parse_arg("_debug", False)
         _ignore_paths = self.Unprompted.parse_arg("_ignore_paths", False)
         _cache_files = self.Unprompted.parse_arg("_cache_files", True)
+        _has_options = self.Unprompted.parse_arg("_has_options", False)
         try:
             seed = self.Unprompted.shortcode_user_vars["unprompted_seed"]
         except KeyError:
             seed = -1
-
-        if (pargs[0] not in self.Unprompted.shortcode_user_vars):
+        if (content is None or len(content) < 1) and "_allow_empty" not in pargs:
             return ""
-        original_prompt = self.Unprompted.shortcode_user_vars[pargs[0]]
+        original_prompt = self.Unprompted.process_string(content, context)
         original_negative_prompt = ""
-        if (pargs[1] in self.Unprompted.shortcode_user_vars):
-            original_negative_prompt = self.Unprompted.shortcode_user_vars[pargs[1]]
-
+        if "_negative_prompt" in kwargs:
+            original_negative_prompt = self.Unprompted.parse_alt_tags(kwargs["_negative_prompt"], context)
         TagLoader.files.clear()
         options = {
             'verbose': _verbose,
@@ -540,8 +539,10 @@ class Shortcode():
         negative += ' ' # bodge, not necessary if we make other changes above
         negative += prompt_generator.get_negative_tags()
         negative = prompt_generator.prompt_memory_replace(negative, memory_dict)[0]
-        if _debug: print(f'Negative: "{negative}\n"')
+        if _debug: print(f'Negative: "{negative}"\n')
         options = prompt_generator.get_options()
-        if _debug: print(f'Options: "{options}\n"')
-        final_string = f"{self.Unprompted.Config.syntax.delimiter}".join([options, prompt, negative])
+        if _debug: print(f'Options: "{options}"\n')
+        final_string = f"{self.Unprompted.Config.syntax.delimiter}".join([prompt, negative])
+        if _has_options:
+            final_string = f"{self.Unprompted.Config.syntax.delimiter}".join([options, prompt, negative])
         return final_string

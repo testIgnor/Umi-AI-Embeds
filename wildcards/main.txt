@@ -121,7 +121,7 @@ Outfit
     [set umistring]<[model]><[LegacyPrompt]>[/set]
 [/chance]
 
-[set retrieved_string][Umi umistring umineg][/set]
+[set retrieved_string][Umi _has_options][get umistring][/Umi][/set]
 
 [set opt][choose _case=0][get retrieved_string][/choose][/set]
 [set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
