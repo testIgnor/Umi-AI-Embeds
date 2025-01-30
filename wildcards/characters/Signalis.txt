@@ -1,0 +1,13 @@
+(elster \(signalis\):1.3), signalis, blue eyes, black hair, metal skin, short hair, (android, robot girl:1.1), (mecha musume:0.5)
+(ariane yeong:1.3), signalis, long hair, white hair, red eyes
+(falke \(signalis\):1.3), signalis, long hair, black hair, blue eyes, (android, robot girl:1.1), (mecha musume:0.5)
+(kolibri \(signalis\):1.3), signalis, blue eyes, black hair, short hair, (android, robot girl:1.1), (mecha musume:0.5)
+(eule \(signalis\):1.3), signalis, blue eyes, black hair, short hair, (android, robot girl:1.1), (mecha musume:0.5)
+(storch \(signalis\):1.3), signalis, blue eyes, black hair, short hair, (android, robot girl:1.1), (mecha musume:0.5)
+(star \(signalis\):1.3), signalis, blue eyes, black hair, short hair, (android, robot girl:1.1), (mecha musume:0.5)
+(ara \(signalis\):1.3), signalis, blue eyes, black hair, short hair, (android, robot girl:1.1), (mecha musume:0.5)
+(mynah \(signalis\):1.3), signalis, blue eyes, black hair, short hair, (android, robot girl:1.1), (mecha musume:0.5)
+(isolde itou:1.3), signalis, medium hair, brown hair, green eyes, ponytail, braided ponytail
+(erika itou:1.3), signalis, medium hair, brown hair, green eyes, ponytail, braided ponytail
+(lilith itou:1.3), signalis, blue eyes, black hair, short hair
+(alina seo:1.3), signalis, long hair, brown hair, red eyes, ponytail
