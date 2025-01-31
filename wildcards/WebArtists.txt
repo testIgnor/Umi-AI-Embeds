@@ -26,8 +26,8 @@ by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
     by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.6>
     by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
     by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:1> ExpresHGothicNeonIncase
-    by diathorn <lora:diathorn_style_illustrious01_v3:1>
-    by diathorn, Diathornstyle <lora:Diathorn_Illustrious:1>
+    by diathorn <lora:diathorn_style_illustrious01_v3:0.6>
+    by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.6>
     by dosh
     by utterangle
     by redwolfxiii
@@ -110,8 +110,8 @@ by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:1> Expr
 by ayya sap, <lora:ayyasap_pony_v3:1> ayyapsap_style, ayyapsap, source_artwork
 by andava
 by ponpu
-by diathorn <lora:diathorn_style_illustrious01_v3:1>
-by diathorn, Diathornstyle <lora:Diathorn_Illustrious:1>
+by diathorn <lora:diathorn_style_illustrious01_v3:0.6>
+by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.6>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:1>
 by tekuho, by tekuho no habo
 by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:1>
