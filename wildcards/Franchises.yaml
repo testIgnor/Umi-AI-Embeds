@@ -606,7 +606,7 @@
   Tags:
     - Characters
     - Zelda
-'<[model][illu]>source_anime, __Characters/ZZZ__**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, __Characters/ZZZ__ <lora:zzz-v6-illustrious:1>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - ZZZ Characters
   Tags:
