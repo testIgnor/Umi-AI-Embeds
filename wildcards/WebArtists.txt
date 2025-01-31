@@ -4,12 +4,12 @@ by tarakanovich <lora:tarakanovich1.5:1>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
 by johndoe <lora:johndoe:1>
-by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:1>
+by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.6>
 by pixelsketcher
 by doppel
 by slightlysimian
 by girlsay
-by wjs07, <lora:WJS07_Illustrious:1> WJS07style
+by wjs07, <lora:WJS07_Illustrious:0.6> WJS07style
 by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
     [chance 50]
     by dandon fuga
@@ -21,9 +21,9 @@ by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
     by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
     by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
     by johndoe <lora:johndoe:1>
-    by wjs07, <lora:WJS07_Illustrious:1> WJS07style
+    by wjs07, <lora:WJS07_Illustrious:0.6> WJS07style
     by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
-    by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:1>
+    by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.6>
     by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
     by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:1> ExpresHGothicNeonIncase
     by diathorn <lora:diathorn_style_illustrious01_v3:1>
@@ -93,8 +93,8 @@ by exlic, <lora:ExLic_style:1> ExLic_style
 by sakimichan
 by badcompzero
 by streachybear
-by wjs07, <lora:WJS07_Illustrious:1> WJS07style
-by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:1>
+by wjs07, <lora:WJS07_Illustrious:0.6> WJS07style
+by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.6>
 by afrobull
 by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
 by tarakanovich <lora:tarakanovich1.5:1>
