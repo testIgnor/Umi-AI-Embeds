@@ -75,6 +75,7 @@ by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
     by nakimayo
     by rz54
     by goopyarts
+    by jay naylor
     [/chance]
 [/chance]
 [else]

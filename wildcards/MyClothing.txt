@@ -19,6 +19,12 @@ open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][get eff
 <lora:X_micro_bikini:1> X_m1cr0_b1k1n1, criss-cross halter, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Liberator-Azarin_illus:1> Liberator-Azarin, Liberator-Azarin, thighhighs, high heels, gloves, demon tail, wings, tail, black thighhighs, boots, black gloves, hair ribbon, elbow gloves, pubic tattoo, clothing cutout, demon wings, dark persona, low wings, clothing cutout, garter straps, puffy sleeves, highleg, black skirt, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Liberator-Azarin_illus:1> Liberator-Azarin, Liberator-Azarin, thighhighs, high heels, gloves, demon tail, wings, tail, black thighhighs, boots, black gloves, hair ribbon, elbow gloves, pubic tattoo, clothing cutout, demon wings, dark persona, low wings, clothing cutout, garter straps, puffy sleeves, highleg, black skirt, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+<lora:Shoukaku-RaceQueen-Outfit(iXL)V1:1> race queen, revealing clothes, center opening, clothes writing, black dress, arm strap, black choker, criss-cross halter, halter dress, black gloves, pelvic curtain, white thighhighs, garter straps, bare shoulders, collarbone, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Shoukaku-RaceQueen-Outfit(iXL)V1:1> race queen, revealing clothes, center opening, clothes writing, black dress, arm strap, black choker, criss-cross halter, halter dress, black gloves, pelvic curtain, white thighhighs, garter straps, bare shoulders, collarbone, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+<lora:mogador swimXLNAI:1> mogador (\swim\), halterneck, micro bikini, black bikini, black one-piece swimsuit, strap between breasts, mole on breast, bracelet, choker, navel
+<lora:UIMXLNAI:1> knee boots, high heel boots, UIM(\azur\), black jacket, open jacket, black choker, cropped jacket, highleg
 [/tags]
 
 [tags clothing clothing_type="bodysuit"]
@@ -38,11 +44,24 @@ bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, 
 <lora:0895 DVA fan clothing_v1_pony:1> ruanyi0895, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), blue bodysuit, skin tight, bunny print, gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:BadEndPrecureIL:1> black bad end bodysuit, [call wildcards/colors] frills, [call wildcards/colors] miniskirt, flared sleeves, black bat headband, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Earthbound_-_Alice_Nikke_Cosplay_-_IllustriousXL_r1:1> alice_cosplay, skintight
+<lora:Earthbound_-_Alice_Nikke_Cosplay_-_IllustriousXL_r1:1> alice_cosplay, skintight, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay
+<lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+<lora:Earthbound_-_Racing_Miku_2022_Cosplay_-_ILLUSTRIOUSXL:1> mikucosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
+
 [/tags]
+
 [tags clothing clothing_type="bunnysuit"]
 reverse bunnysuit, functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
 bunnysuit, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
+bunnysuit, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, areola slip
 reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
+reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, areola slip
+<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
 [/tags]
 
 [tags clothing clothing_type="maid"]
@@ -67,6 +86,8 @@ blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos
 <lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 <lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Earthbound_-_Racing_Miku_2022_Cosplay_-_ILLUSTRIOUSXL:1> mikucosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Sakimichan_Tifa_Nurse_Outfit_Cosplay:1> micro shirt, very cropped shirt, short sleeved shirt, white shirt, latex bikini, underboob bikini, micro bikini, white bikini, red cross on bikini, highleg bikini, highleg leotard, underbust leotard, mesh leotard, see-through leotard, cross stitched leotard, detailed leotard, white leotard, white underbust corset, white corset, corset, see-through corset, white belt straps, white belt buckles, pussy floss, black thighhighs, black thigh boots, white gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="wedding"]
@@ -85,6 +106,10 @@ white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, 
 <lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:Lace_Slingshot:1>  L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+<lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown
 [/tags]
 
 [# Default]
@@ -198,6 +223,10 @@ blindfold, covered eyes, chain, collar, bondage outfit, underboob, black short s
 parasite, <lora:chokerV2:1> alien parasite ckr sucked on neck, ckr
 goddess dress, <lora:goddessdressILL:0.4> g0dd3ss, white dress, cleavage, plunging neckline
 parasite, <lora:starfish_parasites:0.6> alien parasites on breasts, srfh, sucked on breasts, <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
-(hand bra:1.3), topless
+(hand bra:1.3), topless, covering self
 hooters uniform, lora:Hooters_Outfit_Illustrious:1> hooters logo, short shorts, orange shorts, booty shorts, owl logo, <[covered][upper][get eff_gen _before=[ _after=]]>
+<lora:Char_mhwilds-Gemma-ILXL:1> crop top, cropped jacket, red jacket, midriff, pants, chaps, tool belt
+<lora:Outfit_Soph_AthenaCosplay-ILXL:1> gold dress, clasp, cloak, ath3na, (large headpiece, gold crown:1.1), cleavage
+<lora:CosplayTeamRocketIXL:1> Cosplay_TeamRocket, team rocket uniform, white jacket, cropped jacket, white skirt, elbow gloves, black thighhighs, zettai ryouiki
+<lora:edgDangerousBeastISLv1:1> dgrbst, animal ears, wearing dgrbst
 [/tags]

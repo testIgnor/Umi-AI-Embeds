@@ -15,3 +15,5 @@ zelda
 xenoblade
 ookami
 mahoako
+final fantasy
+dragon quest
