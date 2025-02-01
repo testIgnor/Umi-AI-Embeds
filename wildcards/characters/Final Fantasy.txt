@@ -2,7 +2,8 @@
 (yuffie kisaragi:1.3), final fantasy, brown eyes, brown hair, short hair, long hair, black hair
 (terra branford:1.3), final fantasy, blonde hair, long hair, green hair, blue eyes
 (moogle:1.3), final fantasy, blonde hair, long hair, blue eyes, short hair
-(rydia \(ff4\):1.3), final fantasy, long hair, green eyes, green hair, blue eyes
+(rydia \(ff4\):1.3), final fantasy, long hair, green eyes, green hair, <lora:ffrydia-illu-nvwls-v1:1> ryd1a
+(rydia \(ff4\):1.3), final fantasy, long hair, blue eyes, green hair, <lora:rydia dsff4_illustriousXL:1> rydia dsff4
 (white mage \(final fantasy\):1.3), final fantasy, blonde hair, short hair, long hair
 (lenna charlotte tycoon:1.3), final fantasy, pink hair, purple hair, short hair, long hair, green eyes
 (yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, blue eyes, YUNA_\(FF10\) <lora:YunaPony:1>
@@ -17,6 +18,7 @@
 (meteion:1.3), final fantasy, short hair, closed eyes, blue hair, blue eyes, black hair
 (rikku \(ff10\):1.3), final fantasy, blonde hair, green eyes, long hair
 (rosa farrell:1.3), final fantasy, blonde hair, blue eyes, long hair
+(rosa farrell:1.3), final fantasy, blonde hair, blue eyes, long hair, <lora:ffrosa-illu-nvwls-v1:1> ffivrf, half updo
 (dancer \(final fantasy\):1.3), final fantasy, blonde hair, long hair, blue eyes, short hair
 (fran \(ff12\):1.3), final fantasy, dark-skinned female, red eyes, long hair, white hair, dark skin
 (dark knight \(final fantasy\):1.3), final fantasy, long hair, short hair
