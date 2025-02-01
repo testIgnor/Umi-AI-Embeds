@@ -110,7 +110,7 @@ Outfit
 [/if]
 
 [set prompt_suffix]
-    [chance 35]
+    [chance 33]
         [call get_preset eff_gen="{get eff_gen}"]
     [/chance]
     [else]
