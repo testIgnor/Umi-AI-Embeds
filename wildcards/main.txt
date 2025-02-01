@@ -1,8 +1,14 @@
 [function choose_franchise]
-[set characterType][choose]
+[set characterType]
 characters
+[/set]
+
+[chance 33]
+[set characterType]
 myspecies
-[/choose][/set]
+[/set]
+[/chance]
+
 [if characterType="characters"]
 [set basepath]%BASE_DIR%/templates/wildcards/characters/[/set]
 [/if]
