@@ -17,3 +17,5 @@ ookami
 mahoako
 final fantasy
 dragon quest
+fire emblem
+guilty gear
