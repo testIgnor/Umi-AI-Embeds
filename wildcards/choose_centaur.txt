@@ -1,0 +1,11 @@
+[choose]
+Cfdoggy
+Cfback
+Cfonelegup
+Cfstanding
+Cftwolegsup
+Cfdiphallia
+Cfundercarriage
+Cflying
+Cfkneeling
+[/choose]

@@ -46,11 +46,10 @@ male
 [/function]
 
 [function set_model]
-[##]
+
 [if "opt not in sd_model"]
     [set sd_model][get opt][/set]
 [/if]
-[/##]
 
 [if "'PONY' in sd_model"]
     [set model]pony[/set]
@@ -127,7 +126,7 @@ Outfit
 [set umistring][get character_preset], [get prompt_suffix][/set]
 
 [chance 5]
-    [set umistring]<[model]><[LegacyPrompt]>[/set]
+    [set umistring]<[LegacyPrompt]>[/set]
 [/chance]
 
 [set retrieved_string][Umi _has_options][get umistring][/Umi][/set]
