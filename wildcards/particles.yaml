@@ -7,21 +7,42 @@
     - AllPiercings
     - Female
     - Sexywear
-'(large nipples, erect nipples, large areolae, {dark ||}nipples, puffy nipples:1.2)':
+'(large nipples, erect nipples, large areolae, nipples, puffy nipples:1.2)':
   Description:
     - Nipples addon
   Tags:
     - Particle
     - eznips
     - Erect
-'(large nipples, large areolae, {dark ||}nipples, puffy nipples:1.2)':
+'(large nipples, large areolae, nipples, puffy nipples:1.2)':
   Description:
     - Nipples addon
   Tags:
     - Particle
     - eznips
     - Normal
-'(inverted nipples, large areolae, {dark ||}nipples, puffy nipples:1.2)':
+'(inverted nipples, large areolae, nipples, puffy nipples:1.2)':
+  Description:
+    - Nipples addon
+  Tags:
+    - Particle
+    - eznips
+    - Inverted
+'(large nipples, erect nipples, large areolae, dark nipples, puffy nipples:1.2)':
+  Description:
+    - Nipples addon
+  Tags:
+    - Particle
+    - eznips
+    - Erect
+'(large nipples, large areolae, dark nipples, puffy nipples:1.2)':
+  Description:
+    - Nipples addon
+  Tags:
+    - Particle
+    - eznips
+    - Normal
+'(inverted nipples, large areolae, dark nipples, puffy nipples:1.2)':
   Description:
     - Nipples addon
   Tags:
@@ -80,7 +101,16 @@
     - Particle
     - ezcreampie
     - ezaftersex
-'(covered nipples:1.1){, covered navel||}':
+'(covered nipples:1.1), covered navel':
+  Description:
+    - Covered Upper
+  Tags:
+    - Particle
+    - covered
+    - Upper
+    - Female
+    - Futanari
+'(covered nipples:1.1)':
   Description:
     - Covered Upper
   Tags:
@@ -541,19 +571,19 @@
   Tags:
     - Particle
     - 2girlsbase
-'as a (goth:1.5){, <[allpiercings]>||}{, heavy makeup||}{, runny mascara, runny makeup, ruined makeup||}{, black lipstick, smeared lipstick||}':
+'as a (goth:1.5), {1-4$$<[allpiercings]>||heavy makeup||runny mascara, runny makeup, ruined makeup||black lipstick, smeared lipstick}':
   Description:
     - Goth Addon
   Tags:
     - Particle
     - ezGoth
-'as a (gyaru:1.5){, <[allpiercings]>||}{, heavy makeup||}{, runny mascara, runny makeup, ruined makeup||}{, smeared lipstick||}':
+'as a (gyaru:1.5), {1-4$$<[allpiercings]>||heavy makeup||runny mascara, runny makeup, ruined makeup||lipstick, smeared lipstick}':
   Description:
     - Gyaru Addon
   Tags:
     - Particle
     - ezGyaru
-'as a (slut, slutty, whore:1.5){, <[allpiercings]>||}{, heavy makeup||}{, runny mascara, runny makeup, ruined makeup||}{, smeared lipstick||}**(stripper pole, pole:1.5)**':
+'as a (slut, slutty, whore:1.5), {1-4$$<[allpiercings]>||heavy makeup||runny mascara, runny makeup, ruined makeup||black lipstick, smeared lipstick}**(stripper pole, pole:1.5)**':
   Description:
     - Slut Addon
   Tags:
