@@ -28,7 +28,7 @@
   Tags:
     - Misc
     - MySpecies
-'<[model][illu]>source_furry, $#__Species/Pokemon__;theanimal#$, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
+'<[model][pony]>source_furry, $#__Species/Pokemon__;theanimal#$, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
   Description:
     - Pokemon Anthro
   Tags:
@@ -151,7 +151,7 @@
   Tags:
     - Characters
     - Celeste
-'<[model][pony]>source_anime, __Characters/Comics__**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, __Characters/Comics__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Comic Book Characters
   Tags:
