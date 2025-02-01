@@ -66,12 +66,18 @@
   Tags:
     - SkyrimWerewolf
     - MySpecies
-'<[model][pony]>source_anime, __Species/Special Kinds__':
+'<[model][illu]>source_anime, __Species/Special Kinds__':
   Description:
     - Random Types of Characters
   Tags:
     - MySpecies
     - Special Kinds
+'<[model][pony]>source_furry, __Species/Anthroids__':
+  Description:
+    - Random Types of Characters
+  Tags:
+    - MySpecies
+    - Anthroids
 '<[model][pony]>source_anime, __Species/Warhammer__':
   Description:
     - Warhammer Creatures
