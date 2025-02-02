@@ -132,7 +132,10 @@ Outfit
 [set umistring][get character_preset], [get prompt_suffix][/set]
 
 [chance 5]
-    [set umistring]<[LegacyPrompt]>[/set]
+    [set umistring][get artist], <[LegacyPrompt]>[/set]
+[/chance]
+[chance 5]
+    [set umistring][get artist], <[LegacyPrompt][feraldroid]>[/set]
 [/chance]
 
 [set retrieved_string][Umi _has_options][get umistring][/Umi][/set]
