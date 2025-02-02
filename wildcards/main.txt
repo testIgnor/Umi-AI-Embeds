@@ -134,9 +134,6 @@ Outfit
 [chance 5]
     [set umistring][get artist], <[LegacyPrompt]>[/set]
 [/chance]
-[chance 5]
-    [set umistring][get artist], <[LegacyPrompt][feraldroid]>[/set]
-[/chance]
 
 [set retrieved_string][Umi _has_options][get umistring][/Umi][/set]
 
