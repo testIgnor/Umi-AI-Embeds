@@ -114,6 +114,10 @@ white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, 
 
 [# Default]
 [tags clothing]
+[chance 50]
+<lora:foreignlimb:1> foreignlimb, mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton
+[/chance]
+[else]
 naked coat, <[eznude][get eff_gen _before=[ _after=]]>
 nude with lesbian pride flag draped over body, <[eznude][get eff_gen _before=[ _after=]]>
 fully clothed, __colors__ china dress, qipao, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -268,4 +272,5 @@ lightning cat sweatshirt
 open-chest sweater
 <lora:embedded penetrable sextoy v1.1:1> embedded_penetrable_sex_toy, x-ray, inside view, womb window, mechanical parts, mechanical fleshlight, sexdoll, transparent body, pink fleshlight
 <lora:foreignlimb:1> foreignlimb, mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton
+[/else]
 [/tags]
