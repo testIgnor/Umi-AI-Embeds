@@ -501,10 +501,13 @@ class Shortcode():
         _ignore_paths = self.Unprompted.parse_arg("_ignore_paths", False)
         _cache_files = self.Unprompted.parse_arg("_cache_files", True)
         _has_options = self.Unprompted.parse_arg("_has_options", False)
-        try:
-            seed = self.Unprompted.shortcode_user_vars["unprompted_seed"]
-        except KeyError:
-            seed = -1
+        _sync_seed = self.Unprompted.parse_arg("_sync_seed", True)
+
+        if _sync_seed:
+            try:
+                seed = self.Unprompted.shortcode_user_vars["unprompted_seed"]
+            except KeyError:
+                seed = -1
         if (content is None or len(content) < 1) and "_allow_empty" not in pargs:
             return ""
         original_prompt = self.Unprompted.process_string(content, context)

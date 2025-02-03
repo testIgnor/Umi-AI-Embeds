@@ -32,6 +32,7 @@ by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
     by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.6>
     by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
     by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
+    by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:1>
     by dosh
     by utterangle
     by redwolfxiii
@@ -127,6 +128,7 @@ by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
 by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
 by cherry mouse street <lora:cherry_mouse_street_illu:1>
+by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:1>
 by 007delta
 by 0r0ch1
 by 1-upclock

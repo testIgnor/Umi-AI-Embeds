@@ -33,7 +33,7 @@ metalSuit, necklace, high heels, helmet, <[eznude][get eff_gen _before=[ _after=
 leotard, athletic leotard, tight clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 leotard, sheer leotard, tight clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 leotard, breastless leotard, tight clothes, <[eztopless][get eff_gen _before=[ _after=]]>
-leotard, crotchless leotard, tight clothes, <[covered][upper]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+leotard, crotchless leotard, tight clothes, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][get eff_gen _before=[ _after=]]>
 bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 <lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -114,10 +114,6 @@ white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, 
 
 [# Default]
 [tags clothing]
-[chance 50]
-<lora:foreignlimb:1> foreignlimb, mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton
-[/chance]
-[else]
 naked coat, <[eznude][get eff_gen _before=[ _after=]]>
 nude with lesbian pride flag draped over body, <[eznude][get eff_gen _before=[ _after=]]>
 fully clothed, __colors__ china dress, qipao, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -271,6 +267,6 @@ evolved virgin killer sweater
 lightning cat sweatshirt
 open-chest sweater
 <lora:embedded penetrable sextoy v1.1:1> embedded_penetrable_sex_toy, x-ray, inside view, womb window, mechanical parts, mechanical fleshlight, sexdoll, transparent body, pink fleshlight
-<lora:foreignlimb:1> foreignlimb, mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton
-[/else]
+<lora:foreignlimb:1> foreignlimb, (mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton:1.5), extra mechanical limbs, multiple limbs, 义肢拘束
+reverse virgin killer sweater, <lora:0947 reverse virgin killer sweater_v1_pony:1> ruanyi0947, turtleneck sweater, grey dress, virgin killer sweater, meme attire, bare arms, bare shoulders, navel, <[covered][upper][get eff_gen _before=[ _after=]]>
 [/tags]
