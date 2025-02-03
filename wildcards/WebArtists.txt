@@ -11,6 +11,8 @@ by slightlysimian
 by girlsay
 by wjs07, <lora:WJS07_Illustrious:0.6> WJS07style
 by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
+by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
+by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
     [chance 50]
     by dandon fuga
     by [dandon fuga|sakimichan]
@@ -28,6 +30,8 @@ by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
     by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:1> ExpresHGothicNeonIncase
     by diathorn <lora:diathorn_style_illustrious01_v3:0.6>
     by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.6>
+    by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
+    by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
     by dosh
     by utterangle
     by redwolfxiii
@@ -901,6 +905,7 @@ by mistpirit
 by misx
 by miu
 by mleonheart
+by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
 by modca
 by moddish
 by modeseven
@@ -1409,6 +1414,7 @@ by twinkle-sez
 by twiren
 by twistedhound
 by twistedscarlett60
+by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
 by twotail813
 by type
 by tyroo
