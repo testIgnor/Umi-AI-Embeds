@@ -25,7 +25,6 @@ myspecies
 [elif characterType="myspecies"]
 [set franchise][choose][call wildcards/preferred_species][/choose][/set]
 [/elif]
-
 [/chance]
 [/function]
 
