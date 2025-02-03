@@ -770,3 +770,10 @@
   Tags:
     - Characters
     - Ah My Goddess
+
+'<[model][illu]>source_anime, __Characters/VA-11 Hall-A__ <lora:va11halla-xl-ill:1>**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - VA-11 Hall-A Characters
+  Tags:
+    - Characters
+    - VA-11 Hall-A

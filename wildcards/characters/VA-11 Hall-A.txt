@@ -1,0 +1,10 @@
+(jill stingray:1.3), va-11 hall-a, long hair, red eyes, purple hair, twintails
+(dorothy haze:1.3), va-11 hall-a, red hair, short hair, red eyes
+(alma armas:1.3), va-11 hall-a, blonde hair, long hair, ahoge, brown eyes, dark-skinned female, dark skin
+(stella hoshii:1.3), va-11 hall-a, long hair, animal ears, red eyes, red hair, cat ears, drill hair
+(kira miki:1.3), va-11 hall-a, ahoge, long hair, red eyes, blue hair
+(fore \(va-11 hall-a\):1.3), va-11 hall-a, long hair, red eyes, purple hair, twintails
+(model warrior julianne:1.3), va-11 hall-a, long hair, red eyes, purple hair, twintails, very long hair
+(dana zane:1.3), va-11 hall-a, white hair, short hair, red eyes, ahoge
+(sei asagiri:1.3), va-11 hall-a, short hair, green eyes, green hair
+(anna graem:1.3), va-11 hall-a, purple hair, black hair, short hair, purple eyes

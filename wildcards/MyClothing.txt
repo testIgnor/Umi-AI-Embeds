@@ -49,6 +49,7 @@ bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, 
 <lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
 <lora:Earthbound_-_Racing_Miku_2022_Cosplay_-_ILLUSTRIOUSXL:1> mikucosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:foreignlimb:1> foreignlimb, mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton
 
 [/tags]
 
@@ -265,4 +266,6 @@ edie crop hoodie
 evolved virgin killer sweater
 lightning cat sweatshirt
 open-chest sweater
+<lora:embedded penetrable sextoy v1.1:1> embedded_penetrable_sex_toy, x-ray, inside view, womb window, mechanical parts, mechanical fleshlight, sexdoll, transparent body, pink fleshlight
+<lora:foreignlimb:1> foreignlimb, mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton
 [/tags]

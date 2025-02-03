@@ -238,7 +238,15 @@
     - LegacyPrompt
     - Futanari
     - Priority
-'<[model][pony]>NSFW, 1girl, source_furry, (feraldroid:1.3), <lora:RoboFur_Feral_v1:1> robofur_feral $#__Species/Animals__;animal#$, feral $#animal#$, digitigrade, robotic, machine, living machine, robot, robot joints, quadruped, digitigrade, $#animal#$, animal, feral animal, <[Ezemotion]>, <[GazeFormat]>, solo, <[imageformat]>, <[MyLocation]>**(anthro, human, human skin, biped, bipedal, standing up, human legs:2.0)**':
+'<[model][pony]>NSFW, 1girl, source_furry, (feraldroid:1.3), <lora:RoboFur_Feral_v1:1> robofur_feral $#__Species/Animals__;animal#$, feral $#animal#$, digitigrade, robotic, machine, living machine, robot, robot joints, quadruped, digitigrade, $#animal#$, animal, feral animal, no humans, mecha, non-humanoid robot, shiny surface, mechanical parts, <[Ezemotion]>, <[GazeFormat]>, solo, <[imageformat]>, <[MyLocation]>**(anthro, human, human skin, biped, bipedal, standing up, human legs:2.0)**':
+  Description:
+    - Anthroids
+  Tags:
+    - 1girl
+    - LegacyPrompt
+    - Feraldroid
+    - Priority
+'<[model][pony]>NSFW, 1girl, source_furry, (feraldroid:1.3),  <lora:Animal Mecha [IL]:1> animalmecha, no humans, mecha, non-humanoid robot, shiny surface, mechanical parts, $#__Species/Animals__;animal#$, feral $#animal#$, digitigrade, robotic, machine, living machine, robot, robot joints, quadruped, digitigrade, $#animal#$, animal, feral animal, <[Ezemotion]>, <[GazeFormat]>, solo, <[imageformat]>, <[MyLocation]>**(anthro, human, human skin, biped, bipedal, standing up, human legs:2.0)**':
   Description:
     - Anthroids
   Tags:
