@@ -128,15 +128,9 @@ Outfit
     [/else]
 [/set]
 
-[chance 75]
-[set prompt_suffix]
-<[imageformat]>, <lora:foreignlimb:1> foreignlimb, (mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton:1.5), extra mechanical limbs, multiple limbs, 义肢拘束
-[/set]
-[/chance]
-
 [set umistring][get character_preset], [get prompt_suffix][/set]
 
-[chance 2]
+[chance 5]
     [chance 25]
     [set umistring][get artist], <[LegacyPrompt]>[/set]
     [/chance]
