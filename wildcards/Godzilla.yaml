@@ -5,13 +5,13 @@
   Tags:
     - Particle
     - MyMechagodzilla
-'Kiryu, (robot:1.5), dragon, (high heels:1.5), (digitigrade feet:1.3), (no humans:2.0) <lora:Kiryu_v20:0.4>':
+'Kiryu, (robot:1.5), dragon, (high heels:1.5), (digitigrade feet:1.3), (no humans:2.0) <lora:Kiryu_v20:0.75>':
   Description:
     - Kiryu Character
   Tags:
     - Particle
     - KiryuMechagodzilla
-'mecha_godzilla, (high heels:1.5), (digitigrade feet:1.3), anthro, (no humans:2.0) <lora:CHARACTER_MECHAGODZILLA:0.4>':
+'mecha_godzilla, (high heels:1.5), (digitigrade feet:1.3), anthro, (no humans:2.0) <lora:CHARACTER_MECHAGODZILLA:0.75>':
   Description:
     - Kiryu Character
   Tags:
@@ -82,70 +82,3 @@
   Tags:
     - Particle
     - ezMechagodzillaFuta
-
-# CharacterPresets
-'NSFW, 1girl, <[characters][Godzilla]>, <[Artists]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Random Godzilla Character
-  Tags:
-    - 1girl
-    - Godzilla
-    - CharacterPreset
-    - Female
-'NSFW, 1girl, <[characters][Mechagodzilla]>, <[Artists]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Mechagodzilla
-  Tags:
-    - 1girl
-    - Mechagodzilla
-    - Godzilla
-    - CharacterPreset
-    - Female
-
-'NSFW, 1futa, <[characters][Godzilla]>, <[ezFuta]>, <[Artists]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Random Godzilla Character
-  Tags:
-    - 1girl
-    - Godzilla
-    - CharacterPreset
-    - Futanari
-'NSFW, 1futa, <[characters][Mechagodzilla]>, {75%<[ezMechagodzillaFuta]>||<[FutaAddon][--Beast]>}, <[Artists]>, <[ezemotion]>, <[GazeFormat]>, solo <lora:PDXL_artist_tags_v2_big:1>':
-  Description:
-    - Mechagodzilla
-  Tags:
-    - 1girl
-    - Mechagodzilla
-    - Godzilla
-    - CharacterPreset
-    - Futanari
-    - Branching
-
-'<[CharacterPreset][Mechagodzilla][Female]>, {66%<[Clothing][female]>||<[eznude][female]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
-  Description:
-    - Random Female Characters
-  Tags:
-    - MechagodzillaPreset
-    - 1girl
-    - Female
-'<[CharacterPreset][Mechagodzilla][Futanari]>, {66%<[Clothing][futanari]>||<[eznude][futanari]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
-  Description:
-    - Random Female Characters
-  Tags:
-    - MechagodzillaPreset
-    - 1girl
-    - Futanari
-'<[CharacterPreset][Godzilla][--Mechagodzilla][Female]>, {66%<[Clothing][female]>||<[eznude][female]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
-  Description:
-    - Random Female Characters
-  Tags:
-    - GodzillaPreset
-    - 1girl
-    - Female
-'<[CharacterPreset][Godzilla][--Mechagodzilla][Futanari]>, {66%<[Clothing][futanari]>||<[eznude][futanari]>}{15%, <[ezpreg]>||}, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0)**':
-  Description:
-    - Random Female Characters
-  Tags:
-    - GodzillaPreset
-    - 1girl
-    - Futanari
