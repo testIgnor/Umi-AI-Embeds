@@ -131,7 +131,12 @@ Outfit
 [set umistring][get character_preset], [get prompt_suffix][/set]
 
 [chance 5]
+    [chance 25]
     [set umistring][get artist], <[LegacyPrompt]>[/set]
+    [/chance]
+    [else]
+    [set umistring][get artist], <[LegacyPrompt][priority]>[/set]
+    [/else]
 [/chance]
 
 [set retrieved_string][Umi _has_options][get umistring][/Umi][/set]

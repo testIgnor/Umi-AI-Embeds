@@ -44,6 +44,7 @@
     - 1girl
     - Futanari
     - LegacyPrompt
+    - Priority
 '<[model][pony]>source_anime, NSFW, 1girl, (princess, loli child princess:1.3), (wolf taur, husky taur:1.5), <[ezage][lower][female]>, <[ezhair]>, <[EZEmotion]>, solo, solo focus, <[GazeFormat]>, full body,{ <[ezdogfuta]>, anatomically correct,||} outdoors, (in an elegant regal estate garden:1.2), {sitting||standing}, (pinup, exhibitionism:1.1), (wearing ceremonial armor:1.3), armor, skimpy clothes, revealing clothes, jewelry, piercings, piercing, ear piercing, navel piercing, princess, tiara, regal, elegant, royal family, royal, regal**anthro, dog nose, canine nose, (disembodied penis:1.7), (too many legs:1.7), long torso, (holding, weapon:1.7)**':
   Description:
     - Wolf Taur Princess
@@ -110,6 +111,7 @@
   Tags:
     - 1girl
     - LegacyPrompt
+    - Priority
 '<[model][illu]>source_anime, NSFW, 1girl, solo, solo focus, cowboy shot, souryuu asuka langley, neon genesis evangelion, <[Emotions][positive]>, <[MyLocation]>, plugsuit, fully clothed, loli, teen, 14yo, medium breasts, covered erect nipples, covered nipples, large areolae, large nipples, puffy nipples, cameltoe, large clitoris, erect clitoris, navel, pussy juice, female masturbation, grabbing own breast**ikari shinji, ayanami rei, large breasts, thick thighs, big ass, wide hips**':
   Description:
     - Asuka masturbation
@@ -148,13 +150,14 @@
     - 1girl
     - LegacyPrompt
     - ChunliDress
+    - Priority
 '<[model][illu]>source_anime, NSFW, (1girl, solo:1.7), princess, <[ezage][female][lower]>, <[EZEmotion]>, facing viewer, looking at viewer, <[imageformat][cowboyshot]>, (centered in frame, symmetry:1.5), <[MyLocation]>, solo, (nude:1.3), <[eznips]>, <[ezpussy]>, (two-tone skin, multicolored hair, heterochromia:1.5), regal, elegant, royal family, royal, crown, tiara  [(princess, british princess, british, white skin, light-skinned female, light skin, blonde hair, blue eyes:1.3)|(princess, african princess, african, black skin, dark-skinned female, dark skin, black hair, brown eyes:1.7)]**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines:2.0), (anthro, animal ears, tail:2.0), (evil, ugly, holding:1.7)**':
   Description:
     - Half Princess
   Tags:
     - 1girl
     - LegacyPrompt
-'<[model][illu]>source_anime, NSFW, (zombie:1.3), zombie girl, (pale skin:1.8), (corpse, wounded, injury, gore, guro, bloody, undead, dead girl:1.4), (empty eyes, no pupils:1.2), <[ezage][lower][female]>, <[EZEmotion]>, <[GazeFormat]>, <[imageformat][cowboyshot|fullbody]>, <[MyLocation]>, (nude:1.4), <[eznips]>, <[ezpussy]>, <[ezpreg]>, <[ezcreampie]>**(green skin:1.5)**':
+'<[model][illu]>source_anime, NSFW, (zombie:1.6), zombie girl, (pale skin:1.8), (corpse, wounded, injury, gore, guro, bloody, undead, dead girl:1.4), (empty eyes, no pupils:1.3), <[ezage][lower][female]>, <[EZEmotion]>, <[GazeFormat]>, <[imageformat][cowboyshot|fullbody]>, <[MyLocation]>, (nude:1.4), <[eznips]>, <[ezpussy]>, <[ezpreg]>, <[ezcreampie]>**(green skin, skeleton:1.5)**':
   Description:
     - Pregnant zombie girl
   Tags:
@@ -162,6 +165,7 @@
     - Pregnant
     - LegacyPrompt
     - PregnantZombie
+    - Priority
 '<[model][illu]>source_anime, NSFW, 1girl, <[myspecies][royalty]>, <[ezage][female]>, <[EZEmotion]>, solo, solo focus, <[GazeFormat]>, <[ImageFormat]>, (wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag:1.3), outdoors, (on the street of a medieval fantasy town:1.4), <[eznips]>, <[ezpussy]>, <[allpiercings]>, tiara, slutty, sluts, slut, regal, elegant, royal family, royal':
   Description:
     - Royal BDSM
@@ -186,12 +190,14 @@
   Tags:
     - LegacyPrompt
     - 1girl
+    - Priority
 '<[model][illu]>source_anime, NSFW, 1girl, <[characters][overwatch]>, <[ezage][female][--lower]>, <[EZEmotion]>, solo, solo focus, facing viewer, presenting, looking at viewer, <[imageformat]>, <[MyLocation]>, (pinup, exhibitionism:1.1), (reverse bunnysuit:1.3), presenting, spread pussy, <[eznips]>, <[ezpussy]>, <[ezcovered]>':
   Description:
     - Overwatch Reverse Bunnysuit
   Tags:
     - LegacyPrompt
     - 1girl
+    - Priority
 '<[model][illu]>source_anime, NSFW, 1girl, source_anime, (celica \(fire emblem\):1.3), fire emblem, long hair, red eyes, red hair, <[ezage][female]>, <[EZEmotion]>, <[GazeFormat]>, solo, <[imageformat]>, (at a cabaret club, at a hostess club:1.3), fancy upscale rich bar, (pinup, exhibitionism:1.1), <[ezbunnysuit][female]>':
   Description:
     - Celica Bunny
@@ -199,6 +205,7 @@
     - 1girl
     - LegacyPrompt
     - CelicaBunny
+    - Priority
 '<[model][illu]>source_anime, NSFW, 1futa, source_anime, (celica \(fire emblem\):1.3), fire emblem, long hair, red eyes, red hair, <[ezage][futanari]>, <[EZEmotion]>, <[GazeFormat]>, solo, <[imageformat]>, (at a cabaret club, at a hostess club:1.3), fancy upscale rich bar, (pinup, exhibitionism:1.1), <[ezbunnysuit][futanari]>':
   Description:
     - Celica Bunny
@@ -207,12 +214,14 @@
     - LegacyPrompt
     - Futanari
     - CelicaBunny
+    - Priority
 '<[model][pony]>source_furry, NSFW, 1girl, (amaterasu \(ookami\):1.3), ammy \(ookami\), ammyokami <lora:Amaterasu_Okami_PonyXL_prototype:1>, <[ezage][female]>, <[EZEmotion]>, solo, solo focus, <[GazeFormat]>, <[ImageFormat]>, wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][female]>{, <[allpiercings]>||}':
   Description:
     - Ammy BDSM
   Tags:
     - 1girl
     - LegacyPrompt
+    - Priority
 '<[model][pony]>NSFW, 1futa, source_furry, (Zebra:1.3), (zebra:1.3) anthro, <[ezage][female]>, <[ezhorsefuta]>, <[eznude][futanari]>, hooves, {15%, <[ezpreg]>||}, <[Ezemotion]>, <[GazeFormat]>, solo, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0), (hair, hat, headwear:2.0), (feet, toes, horse:1.5)**':
   Description:
     - Zebra or Hyena Futa
@@ -220,7 +229,7 @@
     - 1girl
     - LegacyPrompt
     - Futanari
-    - zebrahyenafuta
+    - Priority
 '<[model][pony]>NSFW, 1futa, source_furry, (spotted hyena:1.3), (spotted hyena:1.3) anthro, <[ezage][female]>, <[ezhyenafuta]>, <[eznude][futanari]>, {15%, <[ezpreg]>||}, <[Ezemotion]>, <[GazeFormat]>, solo, <[imageformat]>, <[MyLocation]>**(2girls, 3girls, 4girls:1.0), (hair, hat, headwear:2.0)**':
   Description:
     - Zebra or Hyena Futa
@@ -228,7 +237,7 @@
     - 1girl
     - LegacyPrompt
     - Futanari
-    - zebrahyenafuta
+    - Priority
 '<[model][pony]>NSFW, 1girl, source_furry, (feraldroid:1.3), <lora:RoboFur_Feral_v1:1> robofur_feral $#__Species/Animals__;animal#$, feral $#animal#$, digitigrade, robotic, machine, living machine, robot, robot joints, quadruped, digitigrade, $#animal#$, animal, feral animal, <[Ezemotion]>, <[GazeFormat]>, solo, <[imageformat]>, <[MyLocation]>**(anthro, human, human skin, biped, bipedal, standing up, human legs:2.0)**':
   Description:
     - Anthroids
@@ -236,3 +245,4 @@
     - 1girl
     - LegacyPrompt
     - Feraldroid
+    - Priority
