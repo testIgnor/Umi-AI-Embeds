@@ -60,6 +60,7 @@ reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>,
 reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, areola slip
 <lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+translucent bunnysuit
 [/tags]
 
 [tags clothing clothing_type="maid"]
@@ -227,4 +228,35 @@ hooters uniform, lora:Hooters_Outfit_Illustrious:1> hooters logo, short shorts, 
 <lora:Outfit_Soph_AthenaCosplay-ILXL:1> gold dress, clasp, cloak, ath3na, (large headpiece, gold crown:1.1), cleavage
 <lora:CosplayTeamRocketIXL:1> Cosplay_TeamRocket, team rocket uniform, white jacket, cropped jacket, white skirt, elbow gloves, black thighhighs, zettai ryouiki
 <lora:edgDangerousBeastISLv1:1> dgrbst, animal ears, wearing dgrbst
+bat lingerie
+bikini jeans
+breastless ghost costume
+cat lingerie
+china tracksuit
+daphne dress
+dongtan dress
+florida bikini
+front zipper swimsuit
+guitar little sister \(hitomi o\) \(cosplay\)
+gris swimsuit
+halloween dare succubus lingerie
+heattech leotard
+hot limit
+killer:jeans
+lumakini
+miku collar bikini
+open-chest sweater
+oppai hoodie
+paciane dress
+pentagram cutout
+rei no hitomi
+rei no mizugi
+rei no serafuku
+translucent bunnysuit
+modakawa dress
+samurai jacket
+sharkini
+virgin annihilator sweater
+yomorio lingerie
+yuio maid dress
 [/tags]
