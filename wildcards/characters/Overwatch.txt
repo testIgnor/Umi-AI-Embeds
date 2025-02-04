@@ -30,8 +30,8 @@
 (mei \(overwatch\):1.3)
 (cruiser d.va \(overwatch\):1.3), hana song
 (zarya \(overwatch\):1.3)
-(emily \(overwatch\):1.3), red hair, freckles, medium hair, ginger, brown eyes
-(emily \(overwatch\):1.3), freckles, medium hair, ginger, brown eyes, <lora:Emily_Overwatch:1> Emily_\(Overwatch\), long hair, orange hair, brown eyes
+(emily \(overwatch\):1.3), red hair, freckles, medium hair, ginger, brown eyes**(d.va \(overwatch\):1.5)**
+(emily \(overwatch\):1.3), freckles, medium hair, ginger, brown eyes, <lora:Emily_Overwatch:1> Emily_\(Overwatch\), long hair, orange hair, brown eyes**(d.va \(overwatch\):1.5)**
 (white rabbit d.va \(overwatch\):1.3), hana song
 (d.va \(overwatch\):1.3), hana song
 (academy d.va \(overwatch\):1.3), hana song, Academy dva, Twinbraids <lora:dva academy illus-000040:0.6>
