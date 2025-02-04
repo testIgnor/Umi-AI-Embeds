@@ -11,7 +11,7 @@ misc
 [/set]
 
 [set characterprompt]
-<[model][illu]>source_anime, (lady liberty:1.3), StatueOfLiberty4, the statue of liberty, (aqua eyes, no pupils, colored skin, aqua green skin, tall female:1.5) <lora:StatueOfLiberty:1>**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (lady liberty:1.3), StatueOfLiberty4, the statue of liberty, (aqua eyes, no pupils, colored skin, aqua green skin, tall female:1.5) <lora:StatueOfLiberty:1>**(yellow skin, orange skin, red skin, statue:1.5)**
 [/set]
 [/function]
 
