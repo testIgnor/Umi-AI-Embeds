@@ -112,6 +112,16 @@ white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, 
 <lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown
 [/tags]
 
+[tags clothing clothing_type="bondage"]
+bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+<lora:foreignlimb:1> foreignlimb, mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton
+fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][get eff_gen _before=[ _after=]]>
+bondage outfit, bondage clothing, HDA_BondageOutfitXL
+dominatrix outfit, bondage outfit, bondage clothing
+blindfold, covered eyes, chain, collar, bondage outfit, underboob, black short shorts
+[/tags]
+
 [# Default]
 [tags clothing]
 naked coat, <[eznude][get eff_gen _before=[ _after=]]>
