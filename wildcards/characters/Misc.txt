@@ -1,43 +1,44 @@
-(lara croft:1.3)
-(yamamura sadako:1.3)
-(little red riding hood:1.3)
-(wilykit:1.3), thundercats, <lora:10_wilykit_il:0.6> w1lyk1t, black striped red hair, red eyes, slit pupils
-(wilykit:1.3), thundercats, <lora:Wilykit_thundercats_2011:0.6> multicolored hair, yellow eyes, tail
-(gwen tennyson:1.3)
-(AnubisCitronOC:1.3), dark skin, black hair, yellow eyes <lora:Anubis_Citron_OC_P1:1>
-(hinoa:1.3), monster hunter \(series\), yellow eyes, long hair, black hair
-(minoto:1.3), monster hunter \(series\), yellow eyes, long hair, black hair
-(velma dinkley:1.3), scooby-doo
-(daphne blake:1.3), scooby-doo
-(sugar cookie girl:1.3), blonde hair, blue eyes <lora:SugarcookiegirlXLP:1>
-(lady liberty:1.3), StatueOfLiberty4, the statue of liberty, (aqua eyes, no pupils, colored skin, aqua green skin, tall female:1.5) <lora:StatueOfLiberty:1>**(statue:1.5)**
-(angela \(seiken densetsu 3\):1.3), seiken densetsu 3, green eyes, pointy ears, very long hair, long hair, hair intakes, purple hair, pink hair, sidelocks, parted bangs, eyebrows visible through hair <lora:angela_seiken_densetsu_3_sdxl_pony_a_locon_v1:1>
-(angela \(seiken densetsu 3\):1.3), seiken densetsu 3, green eyes, pointy ears, very long hair, long hair, hair intakes, purple hair, pink hair, sidelocks, parted bangs, eyebrows visible through hair <lora:DX888AngelaRiesz:1>
-(isabella \(seiken densetsu 3\):1.3), seiken densetsu 3, <lora:BelladonnaTOM:1> bellad, furry female, tail, animal ears, body fur, claws, colored sclera, snout
-(diablo:1.3), diablo, <lora:DiabloD3:1> monster, horns, claws, tail, teeth, sharp teeth, spikes, yellow eyes, glowing, glowing eyes
-(victory \(dg\):1.3), <lora:Victory DG PXL v04:1> VictoryDG, Red hair, green eyes, spiked hair, pointy ears, long hair, red lips
-(riesz:1.3), seiken densetsu 3, low-tied long hair, blue eyes, very long hair, long hair, blonde hair <lora:DX888AngelaRiesz:1>
-(drossel:1.3) <lora:pochincoff.pony:0.75>
-(pinkle:1.3) <lora:pochincoff.pony:0.75>
-(alma:1.3) <lora:pochincoff.pony:0.75>
-(una:1.3) <lora:pochincoff.pony:0.75>
-(feiyan:1.3) <lora:pochincoff.pony:0.75>
-(amy:1.3) <lora:pochincoff.pony:0.75>
-(blazermate:1.3) <lora:pochincoff.pony:0.75>
-(jennifer:1.3) <lora:pochincoff.pony:0.75>
-(orca:1.3) <lora:pochincoff.pony:0.75>
-(cream:1.3) <lora:pochincoff.pony:0.75>
-(vanilla:1.3) <lora:pochincoff.pony:0.75>
-(rebecca:1.3) <lora:pochincoff.pony:0.75>
-(stevonnie:1.3), <lora:Stevonnie_Steven_Universe:1> dark skin, dark hair, long hair, puffy hair, navel gem
-(north \(detroit\):1.3), <lora:NorthDBH:1> fnorth, brown hair, ponytail, brown eyes, lips
-(kara \(detroit\):1.3), <lora:KaraDBH:1> short hair, brown hair, blue eyes, lips, short ponytail, single hair bun
-(alice \(detroit\):1.3), <lora:AliceDBH:1>, long hair, ponytail, brown hair, brown eyes, lips
-(chloe \(detroit\):1.3), <lora:DBHChloe:1> DBHChloe, blonde hair, blue eyes, ponytail, hair over shoulder
-(aloy:1.3), <lora:AloyilluLoRA:1> aly, long hair, multiple braids, freckles, hair ornament
-(brittany miller:1.3), <lora:BrittanyMillerIllustrious1.0JLFO:1> brittney, ponytail, brown hair, blue eyes
-(jeanette miller:1.3), <lora:JeanetteMillerIllustrious1.0JLFO:1> jeanette, brown hair, hair bun, hair ribbon, glasses
-(elanor miller:1.3), <lora:EleanorMillerillustrious1.0JLFO:1> eleanor, brown eyes, blonde hair, short twintails
-(alvin seville:1.3), <lora:Alvin_Seville_Alvin_and_the_chipmunks_Pony_XL:1> blue eyes, (genderswap:1.4)
-(simon seville:1.3), <lora:Ghu:1> blue eyes, glasses, (genderswap:1.4)
-(theodore seville:1.3), <lora:Theodore_Seville:1> Green eyes, (genderswap:1.4)
+<[model][illu]>source_anime, (lara croft:1.3)
+<[model][illu]>source_anime, (yamamura sadako:1.3)
+<[model][illu]>source_anime, (little red riding hood:1.3)
+<[model][pony]>source_furry, (wilykit:1.3), thundercats, <lora:10_wilykit_il:0.6> w1lyk1t, black striped red hair, red eyes, slit pupils
+<[model][pony]>source_furry, (wilykit:1.3), thundercats, <lora:Wilykit_thundercats_2011:0.6> multicolored hair, yellow eyes, tail
+<[model][illu]>source_anime, (gwen tennyson:1.3)
+<[model][pony]>source_anime, (AnubisCitronOC:1.3), dark skin, black hair, yellow eyes <lora:Anubis_Citron_OC_P1:1>
+<[model][illu]>source_anime, (hinoa:1.3), monster hunter \(series\), yellow eyes, long hair, black hair
+<[model][illu]>source_anime, (minoto:1.3), monster hunter \(series\), yellow eyes, long hair, black hair
+<[model][illu]>source_anime, (velma dinkley:1.3), scooby-doo
+<[model][illu]>source_anime, (daphne blake:1.3), scooby-doo
+<[model][pony]>source_anime, (sugar cookie girl:1.3), blonde hair, blue eyes <lora:SugarcookiegirlXLP:1>
+<[model][illu]>source_anime, (lady liberty:1.3), StatueOfLiberty4, the statue of liberty, (aqua eyes, no pupils, colored skin, aqua green skin, tall female:1.5) <lora:StatueOfLiberty:1>**(statue:1.5)**
+<[model][illu]>source_anime, (angela \(seiken densetsu 3\):1.3), seiken densetsu 3, green eyes, pointy ears, very long hair, long hair, hair intakes, purple hair, pink hair, sidelocks, parted bangs, eyebrows visible through hair <lora:angela_seiken_densetsu_3_sdxl_pony_a_locon_v1:1>
+<[model][illu]>source_anime, (angela \(seiken densetsu 3\):1.3), seiken densetsu 3, green eyes, pointy ears, very long hair, long hair, hair intakes, purple hair, pink hair, sidelocks, parted bangs, eyebrows visible through hair <lora:DX888AngelaRiesz:1>
+<[model][illu]>source_anime, (isabella \(seiken densetsu 3\):1.3), seiken densetsu 3, <lora:BelladonnaTOM:1> bellad, furry female, tail, animal ears, body fur, claws, colored sclera, snout
+<[model][illu]>source_anime, (diablo:1.3), diablo, <lora:DiabloD3:1> monster, horns, claws, tail, teeth, sharp teeth, spikes, yellow eyes, glowing, glowing eyes
+<[model][illu]>source_anime, (victory \(dg\):1.3), <lora:Victory DG PXL v04:1> VictoryDG, Red hair, green eyes, spiked hair, pointy ears, long hair, red lips
+<[model][illu]>source_anime, (riesz:1.3), seiken densetsu 3, low-tied long hair, blue eyes, very long hair, long hair, blonde hair <lora:DX888AngelaRiesz:1>
+<[model][illu]>source_anime, (drossel:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (pinkle:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (alma:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (una:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (feiyan:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (amy:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (blazermate:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (jennifer:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (orca:1.3) <lora:pochincoff.pony:0.75>
+<[model][pony]>source_furry, (cream:1.3) <lora:pochincoff.pony:0.75>
+<[model][pony]>source_furry, (vanilla:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (rebecca:1.3) <lora:pochincoff.pony:0.75>
+<[model][illu]>source_anime, (stevonnie:1.3), <lora:Stevonnie_Steven_Universe:1> dark skin, dark hair, long hair, puffy hair, navel gem
+<[model][illu]>source_anime, (north \(detroit\):1.3), <lora:NorthDBH:1> fnorth, brown hair, ponytail, brown eyes, lips
+<[model][illu]>source_anime, (kara \(detroit\):1.3), <lora:KaraDBH:1> short hair, brown hair, blue eyes, lips, short ponytail, single hair bun
+<[model][illu]>source_anime, (alice \(detroit\):1.3), <lora:AliceDBH:1>, long hair, ponytail, brown hair, brown eyes, lips
+<[model][illu]>source_anime, (chloe \(detroit\):1.3), <lora:DBHChloe:1> DBHChloe, blonde hair, blue eyes, ponytail, hair over shoulder
+<[model][illu]>source_anime, (aloy:1.3), <lora:AloyilluLoRA:1> aly, long hair, multiple braids, freckles, hair ornament
+<[model][pony]>source_furry, (brittany miller:1.3), <lora:BrittanyMillerIllustrious1.0JLFO:1> brittney, ponytail, brown hair, blue eyes
+<[model][pony]>source_furry, (jeanette miller:1.3), <lora:JeanetteMillerIllustrious1.0JLFO:1> jeanette, brown hair, hair bun, hair ribbon, glasses
+<[model][pony]>source_furry, (elanor miller:1.3), <lora:EleanorMillerillustrious1.0JLFO:1> eleanor, brown eyes, blonde hair, short twintails
+<[model][pony]>source_furry, (alvin seville:1.3), <lora:Alvin_Seville_Alvin_and_the_chipmunks_Pony_XL:1> blue eyes, (genderswap:1.4)
+<[model][pony]>source_furry, (simon seville:1.3), <lora:Ghu:1> blue eyes, glasses, (genderswap:1.4)
+<[model][pony]>source_furry, (theodore seville:1.3), <lora:Theodore_Seville:1> Green eyes, (genderswap:1.4)
+<[model][illu]>source_furry, (scp-1471-A:1.3), <lora:Scp-1471-A-Ilustrious:1> Scp-1471-A_\(Scp\), Dark Grey Fur, Black Hair, wolf's Skull Face, Black Scelera, Colored Scelera, White Eyes, No Pupils, White Iris
