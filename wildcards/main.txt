@@ -18,7 +18,7 @@ myspecies
 [set searchpath][get basepath]*.txt[/set]
 [set franchise][choose][filelist "{get searchpath}" _basename _hide_ext][/choose][/set]
 
-[chance 15]
+[chance 33]
 [if characterType="characters"]
 [set franchise][choose][call wildcards/preferred_franchises][/choose][/set]
 [/if]
@@ -30,7 +30,7 @@ myspecies
 
 [function set_vars]
 [set gender]female[/set]
-[chance 25][set gender][choose]
+[chance 15][set gender][choose]
 futanari
 male
 [/choose][/set][/chance]
