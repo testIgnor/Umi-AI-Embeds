@@ -42,3 +42,7 @@
 <[model][pony]>source_furry, (simon seville:1.3), <lora:Ghu:1> blue eyes, glasses, (genderswap:1.4)
 <[model][pony]>source_furry, (theodore seville:1.3), <lora:Theodore_Seville:1> Green eyes, (genderswap:1.4)
 <[model][illu]>source_furry, (scp-1471-A:1.3), <lora:Scp-1471-A-Ilustrious:1> Scp-1471-A_\(Scp\), Dark Grey Fur, Black Hair, wolf's Skull Face, Black Scelera, Colored Scelera, White Eyes, No Pupils, White Iris
+<[model][pony]>source_anime, (solar flare:1.3), <lora:solar_flare:1> goggles on head, short hair, blonde hair, purple eyes, goggles freckles, goggles on head, green skin, colored skin
+<[model][pony]>source_anime, (solar flare:1.3), <lora:solarflare:1> solarflare, short hair, blonde hair, purple eyes, goggles freckles, goggles on head, green skin, colored skin
+<[model][pony]>source_anime, (cattail:1.3), <lora:Cattail_Plants_vs._ZombiesChikomokii:1> white hair, medium hair, furry, catgirl, white fur, pink hat, tail, spike on tail
+<[model][pony]>source_anime, (penelopea:1.3), <lora:green_shadow:1> green_shadow, monster girl
