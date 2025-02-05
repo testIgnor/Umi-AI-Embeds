@@ -6,7 +6,7 @@ characters
 misc
 [/set]
 
-[chance 10]
+[chance 25]
 [set franchise]
 [choose]
 d.va
