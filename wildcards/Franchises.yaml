@@ -420,12 +420,18 @@
   Tags:
     - Characters
     - Nintendo
-'<[model][pony]>source_anime, __Characters/Overwatch__**(headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
+'<[model][pony]>source_anime, __Characters/Overwatch__**(d.va \(overwatch\):1.5), (headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Overwatch Characters
   Tags:
     - Characters
     - Overwatch
+'<[model][illu]>source_anime, __Characters/D.Va__**(headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - D.Va
+  Tags:
+    - Characters
+    - D.Va
 '<[model][illu]>source_anime, __Characters/Persona__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Persona Characters
