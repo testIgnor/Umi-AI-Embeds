@@ -3,15 +3,13 @@
 characters
 [/set]
 [set franchise]
-overwatch
+misc
 [/set]
 
 [chance 10]
 [set franchise]
 [choose]
 d.va
-celebs
-pstars
 [/choose]
 [/set]
 [/chance]

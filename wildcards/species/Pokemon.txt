@@ -1,7 +1,7 @@
 (latias:1.3) <lora:POKEMON_LATIAS_LATIOS:0.6>
 (latios:1.3) <lora:POKEMON_LATIAS_LATIOS:0.6>
 (gardevoir:1.3)
-(gardevoir:1.3) <lora:pochincoff.pony:0.75>
+(gardevoir:1.3) <lora:pochincoff.pony:1>
 (glaceon:1.3)
 (leafeon:1.3)
 (flareon:1.3)
