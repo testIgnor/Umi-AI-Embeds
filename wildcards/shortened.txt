@@ -3,22 +3,13 @@
 characters
 [/set]
 [set franchise]
-mechagodzilla
+godzilla
 [/set]
-
-[##]
-[chance 25]
-[set franchise]
-[choose]
-d.va
-[/choose]
-[/set]
-[/chance]
-[/##]
 
 [set characterprompt]
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
+
 [/function]
 
 [function set_vars]
@@ -103,8 +94,8 @@ Outfit
 
 [set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], as a <[ezage][get gender _before=[ _after=]]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
 
-[if "'godzilla' in franchise"]
-[set character_preset][call wildcards/godzilla][/set]
+[if "'mechagodzilla' in franchise"]
+[set character_preset][call wildcards/robots][/set]
 [/if]
 
 [set prompt_suffix]

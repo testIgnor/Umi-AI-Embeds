@@ -783,3 +783,16 @@
   Tags:
     - Characters
     - VA-11 Hall-A
+
+'__Characters/Godzilla__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Godzilla Characters
+  Tags:
+    - Characters
+    - Godzilla
+'<[model][illu]>source_anime, __Characters/Mechagodzilla__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Mechagodzilla Characters
+  Tags:
+    - Characters
+    - Mechagodzilla
