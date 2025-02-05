@@ -3,11 +3,17 @@
 characters
 [/set]
 [set franchise]
-[choose]
 overwatch
+[/set]
+
+[chance 10]
+[set franchise]
+[choose]
 celebs
+pstars
 [/choose]
 [/set]
+[/chance]
 
 [set characterprompt]
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
