@@ -1,9 +1,9 @@
 (d.va \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair
-(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Overwatch 1 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
-(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Overwatch 2 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
-(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Dr. Ziegler <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
-(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, 2019 Atlantic All-Stars <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
-(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Eidgenossin <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Overwatch 1 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Overwatch 2 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Dr. Ziegler <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, 2019 Atlantic All-Stars <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), overwatch, blonde hair, short hair, blue eyes, long hair, Mercy_Overwatch, Eidgenossin <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (mei \(overwatch\):1.3), overwatch, brown eyes, short hair, brown hair**(d.va \(overwatch\):1.5)**
 (tracer \(overwatch\):1.3), overwatch, brown eyes, brown hair, short hair, spiked hair**(d.va \(overwatch\):1.5)**
 (widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, purple skin, long hair, colored skin**(d.va \(overwatch\):1.5)**
@@ -12,20 +12,20 @@
 (kiriko \(overwatch\):1.3), overwatch, green hair, brown eyes**(d.va \(overwatch\):1.5)**
 (brigitte \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair**(d.va \(overwatch\):1.5)**
 (symmetra \(overwatch\):1.3), overwatch, dark-skinned female, brown eyes, brown hair, long hair, dark skin, black hair**(d.va \(overwatch\):1.5)**
-(witch mercy:1.3), overwatch, blonde hair, blue eyes, Mercy_Overwatch, Witch <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
+(witch mercy:1.3), overwatch, blonde hair, blue eyes, Mercy_Overwatch, Witch <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (captain amari:1.3), ana \(overwatch\), overwatch, dark-skinned female, brown eyes, brown hair, long hair, dark skin, black hair**(d.va \(overwatch\):1.5)**
-(black cat d.va:1.3), overwatch, blonde hair, twintails, cat ears, animal ears, fake animal ears, brown eyes, long hair, black_catdva, d.va \(overwatch\) <lora:Black cat dva illus:0.6>
+(black cat d.va:1.3), overwatch, blonde hair, twintails, cat ears, animal ears, fake animal ears, brown eyes, long hair, black_catdva, d.va \(overwatch\) <lora:Black cat dva illus:1>
 (ashe \(overwatch\):1.3), overwatch, red eyes, medium hair, short hair, white hair**(d.va \(overwatch\):1.5)**
-(pink mercy:1.3), overwatch, blonde hair, blue eyes, Mercy_Overwatch, Pink <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
+(pink mercy:1.3), overwatch, blonde hair, blue eyes, Mercy_Overwatch, Pink <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (devil mercy:1.3), overwatch, short hair, purple eyes, black hair
 (cote d'azur widowmaker:1.3), overwatch, yellow eyes, purple hair, purple skin, long hair, colored skin**ponytail, (d.va \(overwatch\):1.5)**
 (junebug d.va \(overwatch\):1.3), overwatch, medium hair, brown eyes, brown hair, ponytail
-(imp mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Imp <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
+(imp mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Imp <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (cruiser d.va \(overwatch\):1.3), overwatch, medium hair, brown eyes, brown hair, ponytail
 (zarya \(overwatch\):1.3), overwatch, green eyes, pink hair, short hair**(d.va \(overwatch\):1.5)**
 (emily \(overwatch\):1.3), overwatch, red hair, freckles, medium hair, ginger, brown eyes**(d.va \(overwatch\):1.5)**
 (emily \(overwatch\):1.3), overwatch, freckles, medium hair, ginger, brown eyes, <lora:Emily_Overwatch:1> Emily_\(Overwatch\), long hair, orange hair, brown eyes**(d.va \(overwatch\):1.5)**
-(academy d.va \(overwatch\):1.3), overwatch, Academy dva, Twinbraids <lora:dva academy illus-000040:0.6>
+(academy d.va \(overwatch\):1.3), overwatch, Academy dva, Twinbraids <lora:dva academy illus-000040:1>
 (b.va:1.3), d.va \(overwatch\), overwatch, ponytail, long hair, brown eyes, brown hair
 (synthwave tracer \(overwatch\):1.3), overwatch, overwatch, brown eyes, dark blue hair, short hair, spiked hair**(d.va \(overwatch\):1.5)**
 (gifdoozer's black cat d.va \(overwatch\):1.3), overwatch, blonde hair, cat ears, animal ears, fake animal ears, brown eyes, long hair
@@ -33,27 +33,27 @@
 (white cat d.va:1.3), overwatch, orange hair, twintails, cat ears, animal ears, fake animal ears, brown eyes, long hair, black_catdva, d.va \(overwatch\) <lora:Black cat dva illus:0.4>
 (academy d.va \(overwatch\):1.3), overwatch, blonde hair, Academy dva, Twinbraids <lora:dva academy illus-000040:0.4>
 (operative oxton:1.3), tracer \(overwatch\), overwatch, brown eyes, multicolored hair, black hair, green hair, short hair, spiked hair <lora:OW_TalonTracer-PONY:1> ow_oxton
-(police officer d.va \(overwatch\):1.3), overwatch, (d.va \(overwatch\):1.3), officerdva <lora:Officerdva:0.6>
+(police officer d.va \(overwatch\):1.3), overwatch, (d.va \(overwatch\):1.3), officerdva <lora:Officerdva:1>
 (punk tracer \(overwatch\):1.3), overwatch, brown eyes, pink hair, short hair, spiked hair**(d.va \(overwatch\):1.5)**
-(d.mon \(overwatch\):1.3), Yuna Lee, black hair, medium hair, korean, green eyes <lora:Dmon ill-000045:0.6>
-(lifeguard mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Lifeguard <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
+(d.mon \(overwatch\):1.3), Yuna Lee, black hair, medium hair, korean, green eyes <lora:Dmon ill-000045:1>
+(lifeguard mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Lifeguard <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
 (graffiti tracer \(overwatch\):1.3), overwatch, brown eyes, blue hair, purple hair, short hair, spiked hair**(d.va \(overwatch\):1.5)**
 (eveningwear tracer \(overwatch\):1.3), overwatch, brown eyes, blonde hair, short hair <lora:Eveningwear_Tracer_Overwatch:1>
-(sugar plum fairy mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Sugar Plum Fairy <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
-(Combat Medic Ziegler:1.3), mercy \(overwatch\), overwatch, Mercy_Overwatch, <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
-(winged victory mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Winged Victory <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:0.6>
-(juno \(overwatch\):1.3), overwatch, short hair, gloves, pink hair, purple hair, brown eyes, blunt bangs, junoSDXL <lora:juno:0.6>**(d.va \(overwatch\):1.5)**
-(sojourn \(overwatch\):1.3), overwatch, sojournSDXL, blue eyes, facial mark, white hair, dark skin, dark-skinned female, science fiction, joints, cyborg, robot joints, very dark skin, dreadlocks, mechanical legs <lora:sojourn:0.6>**(d.va \(overwatch\):1.5)**
-(alejandra \(overwatch\):1.3), overwatch, ale, brown hair, dark skin, dark-skinned female, twin braids <lora:AlejandraPony1.1:0.6>**(d.va \(overwatch\):1.5)**
-(d.va \(overwatch\):1.3), overwatch, d.va heist <lora:D.Va Heist:0.6>
-(d.va \(overwatch\):1.3), overwatch, D.Va <lora:D.Va:0.6>
-(d.va \(overwatch\):1.3), overwatch, dva porsche <lora:Dva porsche:0.6>
-(brigitte \(overwatch\):1.3), overwatch, le sserafim brigitte, overwatch brigitte, red hair, high ponytail, braided bangs, brown eyes <lora:Overwatch_-_Le_Sserafim_-_Brigitte:0.6>**(d.va \(overwatch\):1.5)**
-(d.va \(overwatch\):1.3), overwatch, Le Sserafim D.va, Overwatch D.va, short purple hair, pink face paint <lora:Overwatch_-_Le_Sserafim_-_D.va:0.6>
-(kiriko \(overwatch\):1.3), overwatch, Le Sserafim Kiriko, Overwatch Kiriko, Short Blue Hair <lora:Overwatch_-_Le_Sserafim_-_Kiriko:0.6>**(d.va \(overwatch\):1.5)**
-(sombra \(overwatch\):1.3), overwatch, Le Sserafim Sombra, Overwatch Sombra, purple gradient hair <lora:Overwatch_-_Le_Sserafim_-_Sombra:0.6>
-(tracer \(overwatch\):1.3), overwatch, le sserafim tracer, overwatch tracer, short hair, spiky hair, blonde hair <lora:Overwatch_-_Le_Sserafim_-_Tracer:0.6>**(d.va \(overwatch\):1.5)**
+(sugar plum fairy mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Sugar Plum Fairy <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(Combat Medic Ziegler:1.3), mercy \(overwatch\), overwatch, Mercy_Overwatch, <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(winged victory mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Winged Victory <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(juno \(overwatch\):1.3), overwatch, short hair, gloves, pink hair, purple hair, brown eyes, blunt bangs, junoSDXL <lora:juno:1>**(d.va \(overwatch\):1.5)**
+(sojourn \(overwatch\):1.3), overwatch, sojournSDXL, blue eyes, facial mark, white hair, dark skin, dark-skinned female, science fiction, joints, cyborg, robot joints, very dark skin, dreadlocks, mechanical legs <lora:sojourn:1>**(d.va \(overwatch\):1.5)**
+(alejandra \(overwatch\):1.3), overwatch, ale, brown hair, dark skin, dark-skinned female, twin braids <lora:AlejandraPony1.1:1>**(d.va \(overwatch\):1.5)**
+(d.va \(overwatch\):1.3), overwatch, d.va heist <lora:D.Va Heist:1>
+(d.va \(overwatch\):1.3), overwatch, D.Va <lora:D.Va:1>
+(d.va \(overwatch\):1.3), overwatch, dva porsche <lora:Dva porsche:1>
+(brigitte \(overwatch\):1.3), overwatch, le sserafim brigitte, overwatch brigitte, red hair, high ponytail, braided bangs, brown eyes <lora:Overwatch_-_Le_Sserafim_-_Brigitte:1>**(d.va \(overwatch\):1.5)**
+(d.va \(overwatch\):1.3), overwatch, Le Sserafim D.va, Overwatch D.va, short purple hair, pink face paint <lora:Overwatch_-_Le_Sserafim_-_D.va:1>
+(kiriko \(overwatch\):1.3), overwatch, Le Sserafim Kiriko, Overwatch Kiriko, Short Blue Hair <lora:Overwatch_-_Le_Sserafim_-_Kiriko:1>**(d.va \(overwatch\):1.5)**
+(sombra \(overwatch\):1.3), overwatch, Le Sserafim Sombra, Overwatch Sombra, purple gradient hair <lora:Overwatch_-_Le_Sserafim_-_Sombra:1>
+(tracer \(overwatch\):1.3), overwatch, le sserafim tracer, overwatch tracer, short hair, spiky hair, blonde hair <lora:Overwatch_-_Le_Sserafim_-_Tracer:1>**(d.va \(overwatch\):1.5)**
 (d.va \(overwatch\):1.3), overwatch, shinryeongdva, transparent tail, hair over face <lora:Shin-ryeong_dva_illus:0.66>
-(d.va \(overwatch\):1.3), overwatch, sleighing dva, <lora:Sleighing dva:0.6>
-(d.va \(overwatch\):1.3), overwatch, allstarsdva, <lora:Allstars Illus:0.6>
-(d.va \(overwatch\):1.3), overwatch, waveracer, <lora:waveracer illus:0.6>
+(d.va \(overwatch\):1.3), overwatch, sleighing dva, <lora:Sleighing dva:1>
+(d.va \(overwatch\):1.3), overwatch, allstarsdva, <lora:Allstars Illus:1>
+(d.va \(overwatch\):1.3), overwatch, waveracer, <lora:waveracer illus:1>
