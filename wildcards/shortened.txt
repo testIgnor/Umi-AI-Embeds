@@ -3,7 +3,7 @@
 characters
 [/set]
 [set franchise]
-godzilla
+mechagodzilla
 [/set]
 
 [set characterprompt]

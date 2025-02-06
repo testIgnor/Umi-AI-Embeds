@@ -279,4 +279,7 @@ open-chest sweater
 <lora:embedded penetrable sextoy v1.1:1> embedded_penetrable_sex_toy, x-ray, inside view, womb window, mechanical parts, mechanical fleshlight, sexdoll, transparent body, pink fleshlight
 <lora:foreignlimb:1> foreignlimb, (mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton:1.5), extra mechanical limbs, multiple limbs, 义肢拘束
 reverse virgin killer sweater, <lora:0947 reverse virgin killer sweater_v1_pony:1> ruanyi0947, turtleneck sweater, grey dress, virgin killer sweater, meme attire, bare arms, bare shoulders, navel, <[covered][upper][get eff_gen _before=[ _after=]]>
+cocktail dress
+parasite, parasiticP1, several shoots <lora:parasite_shoots__pussy:1>
+parasite, parasitPI, panties monster, big panty monster, plant parasite with inserts <lora:pussy_parasitelive_panties:1>
 [/tags]
