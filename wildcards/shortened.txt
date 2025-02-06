@@ -3,11 +3,11 @@
 characters
 [/set]
 [set franchise]
-mechagodzilla
+nintendo
 [/set]
 
 [set characterprompt]
-<[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
+<[model][illu]>source_anime, (bowsette:1.3), blonde hair, blue eyes, long hair, hair between eyes**(yellow skin, orange skin, red skin:1.5)**
 [/set]
 
 [/function]
