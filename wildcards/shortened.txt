@@ -4,17 +4,17 @@ characters
 [/set]
 [set franchise]
 [choose]
-d.va
+celebs
+pstars
 misc
-overwatch
 [/choose]
 [/set]
 
 [chance 10]
 [set franchise]
 [choose]
-celebs
-pstars
+d.va
+overwatch
 mechagodzilla
 godzilla
 [/choose]
@@ -29,7 +29,7 @@ godzilla
 
 [function set_vars]
 [set gender]female[/set]
-[chance 15][set gender][choose]
+[chance 25][set gender][choose]
 futanari
 male
 [/choose][/set][/chance]
