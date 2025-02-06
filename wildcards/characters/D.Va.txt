@@ -1,11 +1,11 @@
 (d.va \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair
-(black cat d.va:1.3), overwatch, blonde hair, twintails, cat ears, animal ears, fake animal ears, brown eyes, long hair, black_catdva, d.va \(overwatch\) <lora:Black cat dva illus:0.75>
+(black cat d.va:1.3), overwatch, blonde hair, twintails, cat ears, animal ears, fake animal ears, brown eyes, long hair, black_catdva, d.va \(overwatch\) <lora:Black cat dva illus:0.75>**(cat, rabbit:2.0)**
 (junebug d.va \(overwatch\):1.3), overwatch, medium hair, brown eyes, brown hair, ponytail
 (cruiser d.va \(overwatch\):1.3), overwatch, medium hair, brown eyes, brown hair, ponytail
 (academy d.va \(overwatch\):1.3), overwatch, Academy dva, Twinbraids <lora:dva academy illus-000040:0.75>
 (b.va:1.3), d.va \(overwatch\), overwatch, ponytail, long hair, brown eyes, brown hair
-(gifdoozer's black cat d.va \(overwatch\):1.3), overwatch, blonde hair, cat ears, animal ears, fake animal ears, brown eyes, long hair
-(white cat d.va:1.3), overwatch, orange hair, twintails, cat ears, animal ears, fake animal ears, brown eyes, long hair, black_catdva, d.va \(overwatch\) <lora:Black cat dva illus:0.4>
+(gifdoozer's black cat d.va \(overwatch\):1.3), overwatch, blonde hair, cat ears, animal ears, fake animal ears, brown eyes, long hair, black_catdva, d.va \(overwatch\) <lora:Black cat dva illus:0.4>**(cat, rabbit:2.0)**
+(white cat d.va:1.3), overwatch, orange hair, twintails, cat ears, animal ears, fake animal ears, brown eyes, long hair, black_catdva, d.va \(overwatch\) <lora:Black cat dva illus:0.4>**(cat, rabbit:2.0)**
 (academy d.va \(overwatch\):1.3), overwatch, blonde hair, Academy dva, Twinbraids <lora:dva academy illus-000040:0.4>
 (police officer d.va \(overwatch\):1.3), overwatch, (d.va \(overwatch\):1.3), officerdva <lora:Officerdva:0.75>
 (d.va \(overwatch\):1.3), overwatch, d.va heist, medium hair, pink hair, ponytail <lora:D.Va Heist:0.75>

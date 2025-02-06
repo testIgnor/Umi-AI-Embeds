@@ -18,8 +18,9 @@
 (eveningwear tracer \(overwatch\):1.3), overwatch, brown eyes, blonde hair, short hair <lora:Eveningwear_Tracer_Overwatch:0.75>
 (operative oxton:1.3), tracer \(overwatch\), overwatch, brown eyes, multicolored hair, black hair, green hair, short hair, spiked hair <lora:OW_TalonTracer-PONY:0.75> ow_oxton
 (tracer \(overwatch\):1.3), overwatch, le sserafim tracer, overwatch tracer, short hair, spiky hair, blonde hair <lora:Overwatch_-_Le_Sserafim_-_Tracer:0.75>
-(widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, purple skin, long hair, colored skin
-(cote d'azur widowmaker:1.3), overwatch, yellow eyes, purple hair, purple skin, long hair, colored skin**ponytail**
+(widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair
+(cote d'azur widowmaker:1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair**ponytail**
+(Amélie Lacroix:1.3), widowmaker \(overwatch\), yellow eyes, black hair, long hair, ponytail**(purple skin, colored skin:1.5)**
 (emily \(overwatch\):1.3), overwatch, red hair, freckles, medium hair, ginger, brown eyes
 (emily \(overwatch\):1.3), overwatch, freckles, medium hair, ginger, brown eyes, <lora:Emily_Overwatch:0.75> Emily_\(Overwatch\), long hair, orange hair, brown eyes
 (sombra \(overwatch\):1.3), overwatch, two-tone hair, (dark skin, dark-skinned female:1.3), multicolored hair, brown hair, purple hair, long hair, black hair, purple eyes, asymmetrical hair

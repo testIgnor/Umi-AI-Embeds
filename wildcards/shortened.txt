@@ -3,8 +3,23 @@
 characters
 [/set]
 [set franchise]
-mechagodzilla
+[choose]
+d.va
+misc
+overwatch
+[/choose]
 [/set]
+
+[chance 10]
+[set franchise]
+[choose]
+celebs
+pstars
+mechagodzilla
+godzilla
+[/choose]
+[/set]
+[/chance]
 
 [set characterprompt]
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
