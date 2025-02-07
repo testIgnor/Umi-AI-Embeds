@@ -1,22 +1,20 @@
 [function choose_franchise]
 [set characterType]
+myspecies
+[/set]
+[set franchise]
+[choose]
+franxx
+[/choose]
+[/set]
+
+[chance 25]
+[set characterType]
 characters
 [/set]
 [set franchise]
 [choose]
-celebs
-pstars
-misc
-[/choose]
-[/set]
-
-[chance 10]
-[set franchise]
-[choose]
-d.va
-overwatch
-mechagodzilla
-godzilla
+divinity
 [/choose]
 [/set]
 [/chance]
