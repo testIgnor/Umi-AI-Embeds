@@ -2,6 +2,7 @@
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 sling bikini, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 monokini, topless, <[ezcovered][get eff_gen _before=[ _after=]]>
+monokini, topless, <[ezcovered][get eff_gen _before=[ _after=]]>, <[allpiercings]>
 slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingshotPony_resize:1>
 tapeproject, black tape, covered nipples, <[ezcovered][get eff_gen _before=[ _after=]]>, navel <lora:TapeProjectPDXL_byKonan:1>
 micro bikini, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:micro bikini_pony_V1.0:1>
@@ -78,6 +79,7 @@ unconventional maid, yuino maid dress, <[ezcovered][get eff_gen _before=[ _after
 <lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, {glowing, exhibitionism, neon_lights, bodypaint||fishnets, fishnet thighhighs||bodypaint, glitter, crotchless_panties, cupless_bra, lingerie}, <[eznude][get eff_gen _before=[ _after=]]>, {neon_green||neon_pink||neon_white||neon_yellow||neon_orange||neon_blue}
 bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>
+glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>, <[allpiercings]>
 (pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), <[ezcovered][get eff_gen _before=[ _after=]]>, <[eznips]>, navel
 blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos, <lora:Lunas-Blackedwear-Concept-SDXL-A1:1>
 <lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -286,6 +288,11 @@ tattered dress, ruined dress, ripped dress, exposed breasts, <[eznips]>
 tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[eznips]>
 tattered dress, ruined dress, ripped dress, one breast visible through ripped clothes, <[eznips]>
 mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff_gen _before=[ _after=]]>
+tattered dress, ruined dress, ripped dress, exposed breasts, <[eznips]>, <[allpiercings]>
+tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[eznips]>, <[allpiercings]>
+tattered dress, ruined dress, ripped dress, one breast visible through ripped clothes, <[eznips]>, <[allpiercings]>
+mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff_gen _before=[ _after=]]>
 oversized tank top, breasts visible through sleeves, <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+oversized tank top, breasts visible through sleeves, <[eznips]>, <[allpiercings]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 crop top t-shirt, underboob, <[ezbottomless][get eff_gen _before=[ _after=]]>
 [/tags]
