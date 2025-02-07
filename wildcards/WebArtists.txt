@@ -13,6 +13,8 @@ by wjs07, <lora:WJS07_Illustrious:0.6> WJS07style
 by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
 by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
 by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
+by exlic, <lora:ExLic_style:1> ExLic_style
+by rino99 <lora:fallen_ai_RINO99_style:1>
     [chance 50]
     by dandon fuga
     by [dandon fuga|sakimichan]
@@ -33,6 +35,8 @@ by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
     by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
     by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
     by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:1>
+    by exlic, <lora:ExLic_style:1> ExLic_style
+    by rino99 <lora:fallen_ai_RINO99_style:1>
     by dosh
     by utterangle
     by redwolfxiii
@@ -129,6 +133,7 @@ by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
 by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
 by cherry mouse street <lora:cherry_mouse_street_illu:1>
 by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:1>
+by rino99 <lora:fallen_ai_RINO99_style:1>
 by 007delta
 by 0r0ch1
 by 1-upclock
