@@ -50,7 +50,7 @@ bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, 
 <lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
 <lora:Earthbound_-_Racing_Miku_2022_Cosplay_-_ILLUSTRIOUSXL:1> mikucosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:foreignlimb:1> foreignlimb, (mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton:1.5), extra mechanical limbs, multiple limbs, 义肢拘束
-
+mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="bunnysuit"]
@@ -285,4 +285,5 @@ parasite, parasitPI, panties monster, big panty monster, plant parasite with ins
 tattered dress, ruined dress, ripped dress, exposed breasts, <[eznips]>
 tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[eznips]>
 tattered dress, ruined dress, ripped dress, one breast visible through ripped clothes, <[eznips]>
+mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff_gen _before=[ _after=]]>
 [/tags]
