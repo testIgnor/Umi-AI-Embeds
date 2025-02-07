@@ -115,11 +115,11 @@ Outfit
 [/if]
 
 [set prompt_suffix]
-    [chance 25]
+    [chance 5]
         [call get_preset eff_gen="{get eff_gen}"]
     [/chance]
     [else]
-        [chance 66]
+        [chance 75]
             <[imageformat]>, [choose][call wildcards/myclothing][/choose]
         [/chance]
         [else]
