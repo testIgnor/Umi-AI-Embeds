@@ -1,14 +1,14 @@
 [function choose_franchise]
 [set characterType]
-myspecies
+characters
 [/set]
 [set franchise]
 [choose]
-franxx
+smite
 [/choose]
 [/set]
 
-[chance 25]
+[chance 15]
 [set characterType]
 characters
 [/set]

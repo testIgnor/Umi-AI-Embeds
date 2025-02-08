@@ -1,4 +1,4 @@
-(harvest goddess \(harvest moon\):1.3), goddess, holy, divinity
+(harvest goddess \(harvest moon\):1.3), goddess, holy, divinity, green hair, long hair, green eyes, twin hair buns, long braid
 (virgin mary:1.3), the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, goddess, holy, divinity, virgin_mary, brown hair, wavy hair, long hair <lora:checkpoint-e25_s675:0.66>
 (Goddess of Forest:1.3), blonde hair, long hair, brown eyes, red lips <lora:Kai_Goddess of Forest:0.66>
 (Goddess of Moon:1.3), brown hair, long hair, green eyes, red lips <lora:Kai_Goddess of Moon:0.66>
