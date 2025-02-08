@@ -1,55 +1,55 @@
-(the morrigan \(smite\):1.3), smite, black hair, light-skinned female, light skin
-(neith \(smite\):1.3), smite, brown hair, light skin, dark skin, light-skinned female, blue eyes, dark-skinned female, black hair, short hair
-(nemesis \(smite\):1.3), smite, long hair, light skin, light-skinned female, blue eyes, black hair
-(classic artemis:1.3), smite, red hair, light-skinned female, light skin
-(bellona \(smite\):1.3), smite, light skin, black hair, light-skinned female, short hair
-(nox \(smite\):1.3), smite, white hair, light-skinned female, light skin
-(artio \(smite\):1.3), smite, green eyes, red hair, light-skinned female, light skin
-(aphrodite \(smite\):1.3), smite, blonde hair, light-skinned female, light skin
-(morgan le fay \(smite\):1.3), smite, long hair, light skin, purple eyes, light-skinned female, black hair, pale skin
-(nu wa \(smite\):1.3), smite, light-skinned female, red hair, green eyes, light skin
+(the morrigan \(smite\):1.3), smite, black hair
+(neith \(smite\):1.3), smite, brown hair, dark skin, blue eyes, dark-skinned female, black hair, short hair
+(nemesis \(smite\):1.3), smite, long hair, blue eyes, black hair
+(classic artemis:1.3), smite, red hair
+(bellona \(smite\):1.3), smite, black hair, short hair
+(nox \(smite\):1.3), smite, white hair
+(artio \(smite\):1.3), smite, green eyes, red hair
+(aphrodite \(smite\):1.3), smite, blonde hair
+(morgan le fay \(smite\):1.3), smite, long hair, purple eyes, black hair, pale skin
+(nu wa \(smite\):1.3), smite, red hair, green eyes
 (kali \(smite\):1.3), smite, long hair, black hair, blue skin
 (yemoja \(smite\):1.3), smite, long hair, dark skin, blue eyes, black hair, dark-skinned female, braided hair
-(athena \(smite\):1.3), smite, long hair, light skin, light-skinned female, blonde hair, blue eyes
-(hel \(smite\):1.3), smite, light skin, blue skin, light-skinned female, blonde hair, blue eyes, white hair, purple hair
+(athena \(smite\):1.3), smite, long hair, blonde hair, blue eyes
+(hel \(smite\):1.3), smite, blue skin, blonde hair, blue eyes, white hair, purple hair
 (awilix \(smite\):1.3), smite, black hair, blue eyes
-(persephone \(smite\):1.3), smite, light-skinned female, red hair, green eyes, light skin
-(discordia \(smite\):1.3), smite, short hair, purple hair, light-skinned female, light skin
+(persephone \(smite\):1.3), smite, red hair, green eyes
+(discordia \(smite\):1.3), smite, short hair, purple hair
 (arachne \(smite\):1.3), smite, white hair, blue skin
-(scylla \(smite\):1.3), smite, light skin, light-skinned female, blue eyes, red hair, short hair
-(chang'e \(smite\):1.3), smite, light skin, light-skinned female, blonde hair, black hair, white hair
-(maman brigitte \(smite\):1.3), smite, light skin, dark skin, light-skinned female, dark-skinned female, brown skin, brown-skinned female
+(scylla \(smite\):1.3), smite, blue eyes, red hair, short hair
+(chang'e \(smite\):1.3), smite, blonde hair, black hair, white hair
+(maman brigitte \(smite\):1.3), smite, dark skin, dark-skinned female
 (ishtar \(smite\):1.3), smite, dark-skinned female, black hair, dark skin
-(da ji \(smite\):1.3), smite, black hair, light-skinned female, light skin
-(aphrodite:1.3), smite, long hair, light skin, blue eyes, blonde hair, black hair
+(da ji \(smite\):1.3), smite, black hair
+(aphrodite:1.3), smite, long hair, blue eyes, blonde hair, black hair
 (oblivion queen discordia:1.3), smite, short hair, multicolored hair, glowing eyes, hair, blue eyes, purple hair
-(pele \(smite\):1.3), smite, brown hair, light skin, dark skin, light-skinned female, black hair, dark-skinned female, red hair
+(pele \(smite\):1.3), smite, brown hair, dark skin, black hair, dark-skinned female, red hair
 (feline fashion awilix:1.3), smite, black hair, blue eyes
 (vampiress amaterasu:1.3), smite, red eyes, black hair, long hair, pale skin
 (aphra cadabra aphrodite:1.3), smite, long hair, black hair, pale skin
-(senpai da ji:1.3), smite, light-skinned female, light skin, blue hair
-(nike \(smite\):1.3), smite, light skin, light-skinned female, blonde hair, black hair, green eyes, short hair
-(hera \(smite\):1.3), smite, brown hair, light-skinned female, light skin
-(beach babe aphrodite:1.3), smite, light skin, light-skinned female, blonde hair
+(senpai da ji:1.3), smite, blue hair
+(nike \(smite\):1.3), smite, blonde hair, black hair, green eyes, short hair
+(hera \(smite\):1.3), smite, brown hair
+(beach babe aphrodite:1.3), smite, blonde hair
 (ix chel \(smite\):1.3), smite, long hair, dark skin, dark-skinned female, black hair, ponytail, green eyes
 (freya \(smite\):1.3), smite, blonde hair
-(mulan \(smite\):1.3), smite, black hair, light-skinned female, light skin
+(mulan \(smite\):1.3), smite, black hair
 (medusa \(smite\):1.3), smite, green skin
-(persephone:1.3), smite, long hair, light skin, light-skinned female, green eyes, red hair
-(jing wei \(smite\):1.3), smite, brown hair, twintails, light skin, light-skinned female, black hair
-(mini metal jing wei:1.3), smite, twintails, light skin, light-skinned female, red eyes, black hair, short hair
-(serqet \(smite\):1.3), smite, black hair, light-skinned female, light skin
-(buccaneith \(smite\):1.3), smite, dark-skinned female, black hair, light skin, dark skin
-(foxy amaterasu:1.3), smite, long hair, light skin, fox ears, light-skinned female, blue hair
+(persephone:1.3), smite, long hair, green eyes, red hair
+(jing wei \(smite\):1.3), smite, brown hair, twintails, black hair
+(mini metal jing wei:1.3), smite, twintails, red eyes, black hair, short hair
+(serqet \(smite\):1.3), smite, black hair
+(buccaneith \(smite\):1.3), smite, dark-skinned female, black hair, dark skin
+(foxy amaterasu:1.3), smite, long hair, fox ears, blue hair
 (midnight dove awilix:1.3), smite, dark-skinned female, white hair, short hair, dark skin
 (sun kissed amaterasu:1.3), smite, long hair, black hair
-(oktoberfest nu wa:1.3), smite, green eyes, light skin, blonde hair, braided hair
-(wrangler artemis:1.3), smite, red hair, light-skinned female, light skin
-(nice and naughty nu wa:1.3), smite, red hair, light-skinned female, light skin
+(oktoberfest nu wa:1.3), smite, green eyes, blonde hair, braided hair
+(wrangler artemis:1.3), smite, red hair
+(nice and naughty nu wa:1.3), smite, red hair
 (skadi \(smite\):1.3), smite, long hair, brown hair, brown eyes, twintails, blue skin, blonde hair, blue eyes, green eyes, braided hair, white hair
 (classic athena:1.3), smite, long hair, blue eyes, blonde hair
-(madame blade serqet:1.3), smite, black hair, light-skinned female, light skin, dark skin
-(maman brigitte:1.3), smite, light skin, dark skin, light-skinned female, dark-skinned female, brown-skinned female
+(madame blade serqet:1.3), smite, black hair, dark skin
+(maman brigitte:1.3), smite, dark skin, dark-skinned female
 (nu wa:1.3), smite, long hair, red hair, green eyes
 (kali:1.3), smite, black hair, blue eyes, blue skin
 (terra:1.3), smite, long hair, multicolored hair, two tone hair, black hair, green hair, green eyes, purple hair
