@@ -5,6 +5,7 @@ characters
 [set franchise]
 [choose]
 smite
+zootopia
 [/choose]
 [/set]
 
