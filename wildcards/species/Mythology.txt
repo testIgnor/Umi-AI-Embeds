@@ -6,31 +6,14 @@
 (minotaur:1.3), greek mythology
 (harpy:1.3), greek mythology
 (hydra:1.3), greek mythology
-(harpy humanoid:1.3), greek mythology
 (arachne:1.3), greek mythology
 (western dragon:1.3), european mythology
-(centaur:1.3), european mythology
 (wyvern:1.3), european mythology
 (fury \(httyd\):1.3), european mythology
 (night fury:1.3), european mythology
-(phoenix:1.3), european mythology
 (dracthyr:1.3), european mythology
-(cerberus:1.3), european mythology
 (light fury:1.3), european mythology
-(hippogriff:1.3), european mythology
-(minotaur:1.3), european mythology
-(harpy:1.3), european mythology
-(hydra:1.3), european mythology
-(arachne:1.3), european mythology
 (foo dog:1.3), east asian mythology
-(komainu:1.3), east asian mythology
-(yokai:1.3), east asian mythology
-(oni:1.3), east asian mythology
-(jiangshi:1.3), east asian mythology
-(kappa:1.3), east asian mythology
-(nekomata:1.3), east asian mythology
-(kirin:1.3), east asian mythology
-(longma:1.3), east asian mythology
 (wendigo:1.3), american mythology
 (chupacabra:1.3), american mythology
 (set \(species\):1.3), egyptian mythology
@@ -38,10 +21,10 @@
 (kirin:1.3), chinese mythology
 (longma:1.3), chinese mythology
 (komainu:1.3), japanese mythology
-(yokai:1.3), japanese mythology
 (oni:1.3), japanese mythology
 (kappa:1.3), japanese mythology
 (nekomata:1.3), japanese mythology
 (kamaitachi:1.3), japanese mythology
 (bakeneko:1.3), japanese mythology
 (tengu:1.3), japanese mythology
+(eastern dragon:1.3), east asian mythology
