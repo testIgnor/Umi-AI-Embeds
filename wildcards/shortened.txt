@@ -1,11 +1,13 @@
 [function choose_franchise]
 [set characterType]
+[choose]
 characters
+myspecies
+[/choose]
 [/set]
 [set franchise]
 [choose]
-smite
-zootopia
+mythology
 [/choose]
 [/set]
 
