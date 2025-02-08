@@ -115,11 +115,11 @@ Outfit
 [/if]
 
 [set prompt_suffix]
-    [chance 5]
+    [chance 1]
         [call get_preset eff_gen="{get eff_gen}"]
     [/chance]
     [else]
-        [chance 75]
+        [chance 90]
             <[imageformat]>, [choose][call wildcards/myclothing][/choose]
         [/chance]
         [else]
@@ -130,7 +130,7 @@ Outfit
 
 [set umistring][get character_preset], [get prompt_suffix][/set]
 
-[chance 5]
+[chance 1]
     [chance 25]
     [set umistring][get artist], <[LegacyPrompt]>[/set]
     [/chance]
