@@ -1,5 +1,5 @@
-(judy hopps:1.3), zootopia
-(skye \(zootopia\):1.3), zootopia
-(dawn bellwether:1.3), zootopia
-(mrs. otterton:1.3), zootopia
-(gazelle \(zootopia\):1.3), zootopia
+(judy hopps:1.3), zootopia, rabbit anthro
+(skye \(zootopia\):1.3), zootopia, fox anthro
+(dawn bellwether:1.3), zootopia, sheep anthro**(dawn \(pokemon\):2.0)**
+(mrs. otterton:1.3), zootopia, otter anthro
+(gazelle \(zootopia\):1.3), zootopia, gazelle anthro
