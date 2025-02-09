@@ -18,7 +18,7 @@ myspecies
 [set searchpath][get basepath]*.txt[/set]
 [set franchise][choose][filelist "{get searchpath}" _basename _hide_ext][/choose][/set]
 
-[chance 33]
+[chance 15]
 [if characterType="characters"]
 [set franchise][choose][call wildcards/preferred_franchises][/choose][/set]
 [/if]

@@ -21,8 +21,8 @@
 (widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair
 (cote d'azur widowmaker:1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair**ponytail**
 (Amélie Lacroix:1.3), widowmaker \(overwatch\), yellow eyes, black hair, long hair, ponytail**(purple skin, colored skin:1.5)**
-(emily \(overwatch\):1.3), overwatch, red hair, freckles, medium hair, ginger, brown eyes
-(emily \(overwatch\):1.3), overwatch, freckles, medium hair, ginger, brown eyes, <lora:Emily_Overwatch:0.75> Emily_\(Overwatch\), long hair, orange hair, brown eyes
+(emily \(overwatch\):1.3), overwatch, red hair, freckles, medium hair, ginger, green eyes, red hair
+(emily \(overwatch\):1.3), overwatch, freckles, medium hair, ginger, <lora:Emily_Overwatch:0.75> Emily_\(Overwatch\), long hair, orange hair, green eyes, red hair
 (sombra \(overwatch\):1.3), overwatch, two-tone hair, (dark skin, dark-skinned female:1.3), multicolored hair, brown hair, purple hair, long hair, black hair, purple eyes, asymmetrical hair
 (sombra \(overwatch\):1.3), overwatch, Le Sserafim Sombra, Overwatch Sombra, purple gradient hair <lora:Overwatch_-_Le_Sserafim_-_Sombra:0.75>
 (ana \(overwatch\):1.3), overwatch, (dark skin, dark-skinned female:1.3), brown eyes, long hair, black hair

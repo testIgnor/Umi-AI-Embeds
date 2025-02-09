@@ -7,16 +7,20 @@ characters
 [set franchise]
 [choose]
 overwatch
+lol
 [/choose]
 [/set]
 
-[chance 25]
+[chance 15]
 [set characterType]
 characters
 [/set]
 [set franchise]
 [choose]
 D.va
+fire emblem
+zelda
+final fantasy
 [/choose]
 [/set]
 [/chance]
