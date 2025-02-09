@@ -2,22 +2,21 @@
 [set characterType]
 [choose]
 characters
-myspecies
 [/choose]
 [/set]
 [set franchise]
 [choose]
-mythology
+overwatch
 [/choose]
 [/set]
 
-[chance 15]
+[chance 25]
 [set characterType]
 characters
 [/set]
 [set franchise]
 [choose]
-divinity
+D.va
 [/choose]
 [/set]
 [/chance]
