@@ -21,6 +21,7 @@ D.va
 fire emblem
 zelda
 final fantasy
+warhammer
 [/choose]
 [/set]
 [/chance]
