@@ -60,8 +60,8 @@ bunnysuit, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
 bunnysuit, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, areola slip
 reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
 reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, areola slip
-<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, wearing glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, wearing glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
 translucent bunnysuit
 [/tags]
 
