@@ -1,0 +1,19 @@
+(filia \(skullgirls\):1.3), skullgirls, red eyes, long hair, black hair
+(squigly \(skullgirls\):1.3), skullgirls, blue skin, red eyes, colored skin
+(valentine \(skullgirls\):1.3), skullgirls, red eyes, blue hair
+(ms. fortune \(skullgirls\):1.3), skullgirls, dark-skinned female, animal ears, dark skin, cat ears
+(leviathan \(skullgirls\):1.3), skullgirls, blue skin, red eyes, side ponytail, colored skin
+(cerebella \(skullgirls\):1.3), skullgirls, blue eyes, aqua hair
+(parasoul \(skullgirls\):1.3), skullgirls, red hair, long hair
+(peacock \(skullgirls\):1.3), skullgirls, oragne hair, short hair
+(bloody marie \(skullgirls\):1.3), skullgirls, red eyes, twintails
+(eliza \(skullgirls\):1.3), skullgirls, short hair, black hair, dark skin
+(double \(skullgirls\):1.3), skullgirls, blonde hair, closed eyes
+(minette \(skullgirls\):1.3), skullgirls, blue skin, colored skin, purple eyes
+(annie \(skullgirls\):1.3), skullgirls, aqua hair, yellow eyes
+(feng \(skullgirls\):1.3), skullgirls, short hair, two-tone hair, multicolored hair
+(krieg \(skullgirls\):1.3), skullgirls, red hair, long hair
+(scythana:1.3), skullgirls, ponytail, pointy ears, long hair
+(fukua \(skullgirls\):1.3), skullgirls, dark-skinned female, green hair, dark skin, long hair
+(robo-fortune:1.3), skullgirls, yellow eyes
+(venus \(skullgirls\):1.3), skullgirls, black hair, high ponytail, short hair, black eyes

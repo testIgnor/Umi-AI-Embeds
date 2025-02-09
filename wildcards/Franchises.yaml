@@ -827,3 +827,17 @@
   Tags:
     - Characters
     - Fortnite
+
+'<[model][illu]>source_anime, __Characters/Helltaker__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Helltaker Characters
+  Tags:
+    - Characters
+    - Helltaker
+
+'<[model][illu]>source_anime, __Characters/Skullgirls__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Skullgirls Characters
+  Tags:
+    - Characters
+    - Skullgirls

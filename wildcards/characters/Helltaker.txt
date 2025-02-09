@@ -1,0 +1,12 @@
+(lucifer \(helltaker\):1.3), helltaker, tail, red eyes, white hair
+(modeus \(helltaker\):1.3), helltaker, tail, red eyes, demon tail, white hair
+(justice \(helltaker\):1.3), helltaker, tail, white hair
+(malina \(helltaker\):1.3), helltaker, tail, red eyes, white hair
+(judgement \(helltaker\):1.3), helltaker, tail, demon tail, white hair
+(pandemonica \(helltaker\):1.3), helltaker, tail, red eyes, demon tail, white hair
+(beelzebub \(helltaker\):1.3), helltaker, red eyes, white hair
+(loremaster \(helltaker\):1.3), helltaker, tail, long hair, white hair
+(cerberus \(helltaker\):1.3), helltaker, tail, red eyes, white hair, dog ears, animal ears
+(zdrada \(helltaker\):1.3), helltaker, tail, red eyes, white hair
+(azazel \(helltaker\):1.3), helltaker, tail, blue eyes, black hair
+(archangel \(helltaker\):1.3), helltaker, tail, blue eyes, black hair
