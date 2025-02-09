@@ -2,7 +2,6 @@
 (cyborg:1.3), ultrawoman, (cyborg, robot girl:1.1), (mecha musume:0.5), cyberpunk
 (cyborg:1.3), giant robot girl, (cyborg, robot girl:1.1), (mecha musume:0.5), cyberpunk
 (cyborg:1.3), giant mech girl, piloted mech, (cyborg, robot girl:1.1), (mecha musume:0.5)
-(cyborg:1.3), giant mech girl, mass production eva, (cyborg, robot girl:1.1), (mecha musume:0.5)
+(mass production eva:1.3), neon genesis evangelion, mecha, <lora:masprodeva1-pxl:1> masprodeva1
 (cyborg:1.3), giant mech girl, piloted mech, (cyborg, robot girl:1.1)
-(cyborg:1.3), giant mech girl, mass production eva, (cyborg, robot girl:1.1)
 (mecha musume:1.3), mechanical parts, mechabare, (cyborg, robot girl:1.1)
