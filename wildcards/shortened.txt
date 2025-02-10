@@ -1,4 +1,4 @@
-[function choose_franchise]
+[function choose_franchise_simple]
 [set characterType]
 [choose]
 characters
@@ -26,10 +26,36 @@ warhammer
 [/set]
 [/chance]
 
-[set characterprompt]
-<[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
+[/function]
+
+[function choose_franchise]
+[set characterType]
+characters
 [/set]
 
+[chance 33]
+[set characterType]
+myspecies
+[/set]
+[/chance]
+
+[if characterType="characters"]
+[set basepath]%BASE_DIR%/templates/wildcards/characters/[/set]
+[/if]
+[elif characterType="myspecies"]
+[set basepath]%BASE_DIR%/templates/wildcards/species/[/set]
+[/elif]
+[set searchpath][get basepath]*.txt[/set]
+[set franchise][choose][filelist "{get searchpath}" _basename _hide_ext][/choose][/set]
+
+[chance 10]
+[if characterType="characters"]
+[set franchise][choose][call wildcards/preferred_franchises][/choose][/set]
+[/if]
+[elif characterType="myspecies"]
+[set franchise][choose][call wildcards/preferred_species][/choose][/set]
+[/elif]
+[/chance]
 [/function]
 
 [function set_vars]
@@ -112,24 +138,37 @@ Outfit
 [call choose_franchise]
 [call set_vars]
 
+[set characterprompt]
+<[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
+[/set]
+
 [set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], as a <[ezage][get gender _before=[ _after=]]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
 
 [if "'mechagodzilla' in franchise"]
 [set character_preset][call wildcards/robots][/set]
 [/if]
 
+[##]
 [set prompt_suffix]
     [chance 25]
         [call get_preset eff_gen="{get eff_gen}"]
     [/chance]
     [else]
         [chance 66]
-            <[imageformat]>, [choose][call wildcards/myclothing][/choose]
+            <[imageformat]>, <[MyLocation]>, [choose][call wildcards/myclothing][/choose]
         [/chance]
         [else]
-            <[imageformat]>, <[eznude][get eff_gen _before=[ _after=]]>
+            <[imageformat]>, <[MyLocation]>, <[eznude][get eff_gen _before=[ _after=]]>
         [/else]
     [/else]
+[/set]
+[/##]
+
+[set prompt_suffix]
+[choose]
+<[imageformat]>, <[MyLocation]>, <lora:foreignlimb:1> foreignlimb, (arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, robotic exoskeleton:1.5), (extra mechanical limbs, multiple limbs, mechanical arms, mechanical legs:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
+<[imageformat]>, <[MyLocation]>, (robotic exoskeleton:1.5), (extra mechanical limbs, multiple limbs, mechanical arms, mechanical legs:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
+[/choose]
 [/set]
 
 [set umistring][get character_preset], [get prompt_suffix][/set]

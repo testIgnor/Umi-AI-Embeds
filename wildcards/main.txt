@@ -120,10 +120,10 @@ Outfit
     [/chance]
     [else]
         [chance 90]
-            <[imageformat]>, [choose][call wildcards/myclothing][/choose]
+            <[imageformat]>, <[MyLocation]>, [choose][call wildcards/myclothing][/choose]
         [/chance]
         [else]
-            <[imageformat]>, <[eznude][get eff_gen _before=[ _after=]]>
+            <[imageformat]>, <[MyLocation]>, <[eznude][get eff_gen _before=[ _after=]]>
         [/else]
     [/else]
 [/set]
