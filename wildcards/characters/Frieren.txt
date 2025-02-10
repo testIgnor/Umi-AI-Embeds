@@ -1,8 +1,10 @@
 (frieren:1.3), sousou no frieren, purple hair, green eyes, grey hair, white hair, twintails, long hair, pointy ears
-(fern \(sousou no frieren\):1.3), sousou no frieren, purple hair, purple eyes, twintails, long hair, pointy ears
+(fern \(sousou no frieren\):1.3), sousou no frieren, purple hair, purple eyes, twintails, long hair
 (ubel \(sousou no frieren\):1.3), sousou no frieren, hair between eyes, purple eyes, green hair, side ponytail, long hair
-(aura \(sousou no frieren\):1.3), sousou no frieren, purple hair, blue eyes, pink hair, twintails, long hair, pointy ears
+(aura \(sousou no frieren\):1.3), sousou no frieren, purple hair, blue eyes, pink hair, twintails, long hair
 (serie \(sousou no frieren\):1.3), sousou no frieren, blonde hair, yellow eyes, long hair, pointy ears
-(laufen \(sousou no frieren\):1.3), sousou no frieren, orange hair, purple hair, brown hair, facial hair, brown eyes, short hair, long hair, pointy ears
-(sense \(sousou no frieren\):1.3), sousou no frieren, hair between eyes, purple eyes, absurdly long hair, brown hair, very long hair, brown eyes, long hair, pointy ears
-(linie \(sousou no frieren\):1.3), sousou no frieren, purple hair, purple eyes, twintails, short hair, long hair, pink hair
+(laufen \(sousou no frieren\):1.3), sousou no frieren, orange hair, brown eyes, short hair
+(sense \(sousou no frieren\):1.3), sousou no frieren, hair between eyes, absurdly long hair, brown hair, very long hair, brown eyes, long hair
+(linie \(sousou no frieren\):1.3), sousou no frieren, purple eyes, twintails, short hair, pink hair
+(lawine \(sousou no frieren\):1.3), blue eyes, long hair, grey hair
+(kanne \\(sousou no frieren\\):1.3), oragne eyes, orange hair, twintails, short hair
