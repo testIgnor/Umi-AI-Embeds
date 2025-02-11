@@ -102,6 +102,18 @@
   Tags:
     - Myspecies
     - Mythology
+'<[model][pony]>source_furry, __Species/e621__':
+  Description:
+    - e621 Species
+  Tags:
+    - Myspecies
+    - e621
+'<[model][pony]>source_furry, $#__Species/e621__;theanimal#$, $#theanimal#$ anthro':
+  Description:
+    - e621 Species
+  Tags:
+    - Myspecies
+    - e621
 '<[model][illu]>source_anime, __Franchise Girls__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Legacy Characters
