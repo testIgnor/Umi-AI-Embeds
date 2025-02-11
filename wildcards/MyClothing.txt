@@ -286,10 +286,10 @@ mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff
 tattered dress, ruined dress, ripped dress, exposed breasts, <[eznips]>, <[allpiercings]>
 tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[eznips]>, <[allpiercings]>
 tattered dress, ruined dress, ripped dress, one breast visible through ripped clothes, <[eznips]>, <[allpiercings]>
-oversized tank top, breasts visible through sleeves, (loose-fitting clothes:1.3), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
-oversized tank top, breasts visible through sleeves, (loose-fitting clothes:1.3), <[eznips]>, <[allpiercings]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
-crop top t-shirt, underboob, (loose-fitting clothes:1.3), <[ezbottomless][get eff_gen _before=[ _after=]]>
+(oversized tank top, breasts visible through sleeves, loose-fitting clothes:1.5), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+(oversized tank top, breasts visible through sleeves, loose-fitting clothes:1.5), <[eznips]>, <[allpiercings]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+(crop top t-shirt, underboob, loose-fitting clothes:1.5), <[ezbottomless][get eff_gen _before=[ _after=]]>, <[covered][upper]>
 topless coveralls, coveralls, <[eztopless][get eff_gen _before=[ _after=]]>
-(robotic exoskeleton:1.5), (mechanical arms, mechanical legs:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
 airline stewardess outfit, stewardess uniform
+(robotic exoskeleton:1.5), (mechanical arms, mechanical legs:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
 [/tags]

@@ -166,7 +166,11 @@ Outfit
 
 [set prompt_suffix]
 [choose]
-<[imageformat][FromBehind|fromside]>, <[MyLocation]>, <lora:foreignlimb:1.2> (foreignlimb:1.5), (arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, robotic exoskeleton:1.2), (extra mechanical arms, mechanical arms, mechanical legs, unbound mechanical arms, unbound mechanical legs:1.3), extra mechanical limbs, multiple limbs, (high heels, extremely high heels:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
+<[imageformat]>, <[MyLocation]>, (oversized tank top, breasts visible through sleeves, loose-fitting clothes:1.5), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+<[imageformat]>, <[MyLocation]>, (oversized tank top, breasts visible through sleeves, loose-fitting clothes:1.5), <[eznips]>, <[allpiercings]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+<[imageformat]>, <[MyLocation]>, (crop top t-shirt, underboob, loose-fitting clothes:1.5), <[ezbottomless][get eff_gen _before=[ _after=]]>, <[covered][upper]>
+<[imageformat]>, <[MyLocation]>, topless coveralls, coveralls, <[eztopless][get eff_gen _before=[ _after=]]>
+<[imageformat]>, <[MyLocation]>, airline stewardess outfit, stewardess uniform
 [/choose]
 [/set]
 
