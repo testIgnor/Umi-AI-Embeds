@@ -1,0 +1,26 @@
+(roxanne wolf:1.3), fnaf
+(toy chica \(fnaf\):1.3), fnaf
+(cupcake \(fnaf\):1.3), fnaf
+(chica \(fnaf\):1.3), fnaf
+(vanny \(fnaf\):1.3), fnaf
+(mangle \(fnaf\):1.3), fnaf
+(bonfie \(cryptiacurves\):1.3), fnaf
+(fexa \(cryptiacurves\):1.3), fnaf
+(glamrock chica:1.3), fnaf
+(chiku \(cryptiacurves\):1.3), fnaf
+(frenni \(cryptiacurves\):1.3), fnaf
+(lovetaste chica:1.3), fnaf
+(runaboo chica:1.3), fnaf
+(withered chica \(fnaf\):1.3), fnaf
+(bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(glamrock freddy:1.3), fnaf, (genderswap:1.5)
+(springtrap \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(montgomery gator:1.3), fnaf, (genderswap:1.5)
+(freddy \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(spring bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(toy freddy \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(toy bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(glamrock bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(foxy \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(withered bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(golden freddy \(fnaf\):1.3), fnaf, (genderswap:1.5)

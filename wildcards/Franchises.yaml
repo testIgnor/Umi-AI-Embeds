@@ -841,3 +841,17 @@
   Tags:
     - Characters
     - Skullgirls
+
+'<[model][illu]>source_anime, __Characters/fnaf__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - fnaf Characters
+  Tags:
+    - Characters
+    - fnaf
+
+'<[model][illu]>source_furry, __Characters/fnaf__':
+  Description:
+    - fnaf Characters
+  Tags:
+    - Characters
+    - fnaf
