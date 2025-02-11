@@ -166,8 +166,7 @@ Outfit
 
 [set prompt_suffix]
 [choose]
-<[imageformat]>, <[MyLocation]>, <lora:foreignlimb:1> foreignlimb, (arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, robotic exoskeleton:1.5), (extra mechanical limbs, multiple limbs, mechanical arms, mechanical legs:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
-<[imageformat]>, <[MyLocation]>, (robotic exoskeleton:1.5), (extra mechanical limbs, multiple limbs, mechanical arms, mechanical legs:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
+<[imageformat][FromBehind|fromside]>, <[MyLocation]>, <lora:foreignlimb:1.2> (foreignlimb:1.5), (arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, robotic exoskeleton:1.2), (extra mechanical arms, mechanical arms, mechanical legs, unbound mechanical arms, unbound mechanical legs:1.3), extra mechanical limbs, multiple limbs, (high heels, extremely high heels:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
 [/choose]
 [/set]
 
