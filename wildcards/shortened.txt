@@ -166,11 +166,9 @@ Outfit
 
 [set prompt_suffix]
 [choose]
-<[imageformat]>, <[MyLocation]>, (oversized tank top, breasts visible through sleeves, loose-fitting clothes:1.5), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
-<[imageformat]>, <[MyLocation]>, (oversized tank top, breasts visible through sleeves, loose-fitting clothes:1.5), <[eznips]>, <[allpiercings]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+<[imageformat]>, <[MyLocation]>, (oversized tank top, breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank:2.0)**
+<[imageformat]>, <[MyLocation]>, (oversized tank top, breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <[eznips]>, <[allpiercings]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank:2.0)**
 <[imageformat]>, <[MyLocation]>, (crop top t-shirt, underboob, loose-fitting clothes:1.5), <[ezbottomless][get eff_gen _before=[ _after=]]>, <[covered][upper]>
-<[imageformat]>, <[MyLocation]>, topless coveralls, coveralls, <[eztopless][get eff_gen _before=[ _after=]]>
-<[imageformat]>, <[MyLocation]>, airline stewardess outfit, stewardess uniform
 [/choose]
 [/set]
 
