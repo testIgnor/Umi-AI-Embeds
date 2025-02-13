@@ -596,12 +596,6 @@
     - Particle
     - ezMaleSwimwearChallenge
     - Futanari
-'NSFW, 2girls, <[Artists]>, <[GazeFormat]>, <[MyLocation]> <lora:PDXL_artist_tags_v2_big:0.5>**(1girl, 3girls, 4girls:2.0), (conjoined, fused limb, fused arm, disembodied penis:1.7)**':
-  Description:
-    - 2girls base
-  Tags:
-    - Particle
-    - 2girlsbase
 'as a (goth:1.5), {1-4$$<[allpiercings]>||heavy makeup||runny mascara, runny makeup, ruined makeup||black lipstick, smeared lipstick}':
   Description:
     - Goth Addon
