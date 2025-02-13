@@ -11,7 +11,6 @@ outdoors, (on the street of a medieval fantasy town:1.4)
 (in a fancy hotel penthouse:1.4)
 (in a snowy nordic forest:1.2)**(submerged, underwater, standing in water, wading:2.0)**
 (vaporwave background:1.2)
-<[MyLocation]>, (at night:1.5)
 (in a holy cathedral:1.4)
 (fashion runway:1.3)**(airport, airplane, tarmac, road:2.0)**
 (blue skies with clouds:1.5)
@@ -23,6 +22,106 @@ outdoors, (on the street of a medieval fantasy town:1.4)
 (in the royal dressing room:1.3)
 (in the royal throne room:1.3)
 (at a rave, in a night club, rave, neon:1.3)**(stripper pole, pole:1.5)**
-outdoors, (in an fantasy forest:1.2)
+outdoors, (in an enchanted fantasy forest:1.2)
 outdoors, (in an elegant regal estate garden:1.2)
 (at a cabaret club, at a hostess club:1.3), fancy upscale rich bar
+Brick Wall background
+Wood Planks background
+Concrete Texture background
+Marble Surface background
+Vintage Paper background
+Galaxy Sky background
+Sunset Gradient background
+Pastel Clouds background
+Bokeh Lights background
+Floral Pattern background
+Watercolor Splash background
+Metal Grunge background
+Fabric Texture background
+Snowy Landscape background
+Mountain Peaks background
+Ocean Waves background
+Desert Dunes background
+City Skyline background
+Forest Canopy background
+Autumn Leaves background
+Blurred Streetlights background
+Raindrops on Glass background
+Starry Night background
+Foggy Meadow background
+Neon Glow background
+Abstract Shapes background
+Rainbow Gradient background
+Crumpled Paper background
+Dark Concrete background
+Painted Canvas background
+Brick Alleyway background
+Golden Sunrise background
+Ice Texture background
+Tropical Beach background
+Desert Canyon background
+Lavender Field background
+Cherry Blossoms background
+Sunlit Forest background
+Urban Graffiti background
+Pebble Ground background
+Mosaic Tiles background
+Shadow Silhouettes background
+Old Wood Fence background
+Starburst Pattern background
+Cloudy Sky background
+Metallic Surface background
+Polka Dots background
+Chevron Pattern background
+Wavy Lines background
+Gradient Blur background
+Velvet Texture background
+Stone Wall background
+Tropical Leaves background
+Sandy Beach background
+Sunset Horizon background
+Ink Splatter background
+Checkered Floor background
+Rainbow Prism background
+Cracked Earth background
+Glitter Sparkles background
+Paper Collage background
+Retro Stripes background
+Glass Texture background
+Digital Grid background
+Fireworks Sky background
+Frosted Window background
+Oil Paint Strokes background
+Colorful Confetti background
+Starfield background
+Linen Fabric background
+Water Ripples background
+Graffiti Wall background
+Iceberg Scene background
+Twilight Sky background
+Shimmering Water background
+Foggy Forest background
+Pink Clouds background
+Woodgrain Pattern background
+Cracked Marble background
+Ink Wash background
+Sunset Glow background
+Rainy Window background
+Pebble Texture background
+Electric Neon background
+Golden Bokeh background
+Abstract Waves background
+Dappled Light background
+Cosmic Nebula background
+Sandy Desert background
+Painted Wall background
+Gradient Swirl background
+Floral Wallpaper background
+Vintage Map background
+Snowy Branches background
+Brick Texture background
+Rainbow Mist background
+Waterfall Mist background
+Starlight Sky background
+Sunlit Meadow background
+Twilight Gradient background
