@@ -1,6 +1,0 @@
-[if eff_gen="female"]
-[set character_preset]NSFW, [get gender_short], <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>, [get artist], as a <[ezage][get gender _before=[ _after=]][--hairy]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
-[/if]
-[else]
-[set character_preset]NSFW, [get gender_short], <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>, [get artist], as a <[ezage][female][--hairy]>, <[ezMechagodzillaFuta]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
-[/else]

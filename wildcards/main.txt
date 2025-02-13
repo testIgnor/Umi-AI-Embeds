@@ -108,11 +108,26 @@ Outfit
 [call choose_franchise]
 [call set_vars]
 
-[set character_preset]NSFW, [get gender_short], <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>, [get artist], as a <[ezage][get gender _before=[ _after=]]>, <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
+[set is_hairless]
+[call wildcards/no_hair]
+[/set]
 
-[if "'mechagodzilla' in franchise"]
-[set character_preset][call wildcards/robots][/set]
+[set genderprompt]
+as a <[ezage][get gender _before=[ _after=]]>
+[/set]
+
+[if "franchise in is_hairless"]
+    [if "'mechagodzilla' in franchise and 'futanari' in eff_gen"]
+    as a <[ezage][female][--hairy]>, <[ezMechagodzillaFuta]>
+    [/if]
+    [/else]
+    [set genderprompt]
+    as a <[ezage][get gender _before=[ _after=]]>
+    [/set]
+    [/else]
 [/if]
+
+[set character_preset]NSFW, [get gender_short], <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>, [get artist], [get genderprompt], <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
 
 [set prompt_suffix]
     [chance 1]
