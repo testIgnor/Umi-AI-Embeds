@@ -4,3 +4,5 @@ franxx
 anthroids
 robots
 fnaf
+aeromorphs
+splatoon
