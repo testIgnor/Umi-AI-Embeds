@@ -125,3 +125,103 @@ Waterfall Mist background
 Starlight Sky background
 Sunlit Meadow background
 Twilight Gradient background
+Abandoned Warehouse
+Forest Clearing
+Desert Highway
+Rooftop Terrace
+City Alleyway
+Mountain Overlook
+Secluded Beach
+Downtown Street
+Historic Mansion
+Urban Park
+Botanical Garden
+Train Station
+Old Factory
+Village Square
+Riverbank
+Castle Grounds
+Suburban Backyard
+Cliffside Vista
+Desert Plateau
+Lakeside Dock
+Rooftop Parking Lot
+Vintage Diner
+Gothic Cathedral
+Open Field
+Quiet Library
+Rustic Barn
+Industrial District
+Country Road
+Amusement Park
+High School Campus
+Mountain Trail
+City Bridge
+Hidden Cave
+Abandoned Theme Park
+Snowy Meadow
+Rainy Sidewalk
+Coffee Shop
+Marina Pier
+Rooftop Garden
+Antique Store
+Desert Ghost Town
+Lakeside Cabin
+Open-Air Market
+City Square
+Underground Parking Garage
+Cliffside Path
+Beach Boardwalk
+Forest Pathway
+Outdoor Amphitheater
+Countryside Vineyard
+Rocky Canyon
+Industrial Loft
+Rainforest Glade
+Suburban Street
+Luxury Penthouse
+Seaside Cliff
+Tranquil Riverbend
+Abandoned Hospital
+Underground Tunnel
+Historic Courtyard
+Hidden Garden
+Mountain Cabin
+City Rooftop
+Castle Hall
+Suburban Playground
+Fishing Dock
+Warehouse Loft
+Railway Tracks
+Desert Outpost
+Skate Park
+Outdoor Café
+Windy Hilltop
+Old Gas Station
+Historic Train Depot
+Foggy Harbor
+Scenic Overlook
+Library Archives
+Carnival Grounds
+River Walk
+Sunset Beach
+Mountain Pass
+Scenic Highway
+Country Cottage
+Lakeside Pavilion
+Abandoned Motel
+Forest Edge
+Coastal Cliffs
+Desert Oasis
+Hidden Alley
+Lighthouse Grounds
+Sunflower Field
+Rooftop Bar
+Foggy Bridge
+Quiet Dock
+Snowy Forest
+Urban Plaza
+Riverbank Park
+Desert Canyon
+City Subway Station
+Meadow Valley
