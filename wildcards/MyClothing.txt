@@ -24,6 +24,7 @@ open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][get eff
 <lora:Liberator-Azarin_illus:1> Liberator-Azarin, Liberator-Azarin, thighhighs, high heels, gloves, demon tail, wings, tail, black thighhighs, boots, black gloves, hair ribbon, elbow gloves, pubic tattoo, clothing cutout, demon wings, dark persona, low wings, clothing cutout, garter straps, puffy sleeves, highleg, black skirt, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
 <lora:mogador swimXLNAI:1> mogador (\swim\), halterneck, micro bikini, black bikini, black one-piece swimsuit, strap between breasts, mole on breast, bracelet, choker, navel
 <lora:UIMXLNAI:1> knee boots, high heel boots, UIM(\azur\), black jacket, open jacket, black choker, cropped jacket, highleg
+tankini, tank top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="bodysuit"]
