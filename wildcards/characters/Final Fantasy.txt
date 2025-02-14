@@ -54,7 +54,7 @@
 (tifa lockhart \(cowgirl\):1.3), final fantasy, long hair, brown hair, red eyes, black hair
 (trance terra branford:1.3), final fantasy, pink hair, pink skin, green hair, long hair, colored skin, blue eyes
 (sage \(final fantasy\):1.3), final fantasy, long hair, blue eyes, short hair, white hair
-(serah farron:1.3), final fantasy, pink hair, blue eyes, long hair, SERAH_FARRON <lora:SerahFarron:1>
+(serah farron:1.3), final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>
 (astrologian \(final fantasy\):1.3), final fantasy, long hair, short hair
 (gunner \(final fantasy\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, long hair, blue eyes
 (sabotender:1.3), final fantasy, brown hair, short hair, blonde hair, long hair, blue eyes, black hair
@@ -72,7 +72,7 @@
 (porom:1.3), final fantasy, long hair, pink hair, brown hair
 (sapphira nyx:1.3), final fantasy, long hair, brown eyes, yellow eyes, black hair
 (tsukuyomi \(ff14\):1.3), final fantasy, multicolored skin, two-tone hair, black skin, multicolored hair, split-color hair, long hair, colored skin, blue eyes, white hair, straight hair, two-tone skin, white skin, black hair
-(lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair SERAH_FARRON <lora:SerahFarron:1>|(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]**(weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
+(lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>|(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]**(weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
 (garuda \(final fantasy\):1.3), final fantasy, colored skin, GARUDA, GLOWING EYES <lora:Garuda:1>
 (ameliance leveilleur:1.3), final fantasy, ahoge, blue eyes, grey hair, white hair, pointy ears, long hair, low ponytail, ameliance <lora:ameliancev5:1>
 (garuda \(final fantasy\):1.3), final fantasy, colored skin, edgGaruda, feathered wings, head wings, multiple wings <lora:edgGarudaPonyv1:1>
