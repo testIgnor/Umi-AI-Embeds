@@ -182,6 +182,12 @@ as a <[ezage][get gender _before=[ _after=]]>
     [/else]
 [/set]
 
+[chance 66]
+[set prompt_suffix]
+<[imageformat]>, <[MyLocation]>, (full body tattoo, body covered in tattoos, many tattoos, tattoos on arms, tattoos on legs, tattoos everywhere, every patch of skin covered with tattoos:1.6), <[eznude][get eff_gen _before=[ _after=]]>
+[/set]
+[/chance]
+
 [set umistring][get character_preset], [get prompt_suffix][/set]
 
 [set retrieved_string][Umi _has_options][get umistring][/Umi][/set]
