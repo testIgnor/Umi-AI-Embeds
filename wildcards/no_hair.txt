@@ -6,3 +6,4 @@ robots
 fnaf
 aeromorphs
 splatoon
+signalis
