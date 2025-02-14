@@ -4,6 +4,8 @@ by tarakanovich <lora:tarakanovich1.5:1>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
 by johndoe <lora:johndoe:1>
+by johndoe <lora:John_Doe_Style:1>
+by johndoe <lora:JohnDoe:1>
 by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.6>
 by pixelsketcher
 by doppel
@@ -18,6 +20,8 @@ by rino99 <lora:fallen_ai_RINO99_style:1>
     [chance 50]
     by dandon fuga
     by [dandon fuga|sakimichan]
+    by aroma sensei
+    by personal ami
     by andava
     by ponpu
     by [personal ami|personal ami, (aroma sensei:0.5)] <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
@@ -25,6 +29,8 @@ by rino99 <lora:fallen_ai_RINO99_style:1>
     by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
     by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
     by johndoe <lora:johndoe:1>
+    by johndoe <lora:John_Doe_Style:1>
+    by johndoe <lora:JohnDoe:1>
     by wjs07, <lora:WJS07_Illustrious:0.6> WJS07style
     by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
     by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.6>
@@ -95,6 +101,8 @@ by [dandon fuga|sakimichan]
 by prywinko, <lora:prywXLP:1> pryw
 by revolverwing <lora:rwing illustrious 003:1>
 by johndoe <lora:johndoe:1>
+by johndoe <lora:John_Doe_Style:1>
+by johndoe <lora:JohnDoe:1>
 by kittew <lora:kittew-artist-richy-v1_ixl:1>
 by hornyx <lora:hornyx_pony:1>
 by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
