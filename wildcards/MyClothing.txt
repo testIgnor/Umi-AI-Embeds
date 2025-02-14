@@ -301,4 +301,5 @@ airline stewardess outfit, stewardess uniform
 (business suit leotard:1.3), business suit, tight clothes, bare legs, <[ezcovered][get eff_gen _before=[ _after=]]>**(stockings, leggings, pantyhose:1.5)**
 (business suit leotard:1.3), business suit, tight clothes, bare legs, bare arms, sleeveless, <[ezcovered][get eff_gen _before=[ _after=]]>**(stockings, leggings, pantyhose, jacket, sleeves:1.5)**
 (business suit leotard:1.3), business suit, tight clothes, stockings, leggings, pantyhose, <[ezcovered][get eff_gen _before=[ _after=]]>
+full body tattoo, body covered in tattoos, <[eznude][get eff_gen _before=[ _after=]]>
 [/tags]
