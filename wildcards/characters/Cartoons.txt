@@ -1,0 +1,17 @@
+<[model][illu]>source_furry, (wilykit:1.3), thundercats, <lora:10_wilykit_il:0.75> w1lyk1t, black striped red hair, red eyes, slit pupils
+<[model][illu]>source_furry, (wilykit:1.3), thundercats, <lora:Wilykit_thundercats_2011:0.75> multicolored hair, yellow eyes, tail
+<[model][illu]>source_anime, (gwen tennyson:1.3)
+<[model][illu]>source_anime, (velma dinkley:1.3), scooby-doo, glasses
+<[model][illu]>source_anime, (daphne blake:1.3), scooby-doo
+<[model][illu]>source_anime, (stevonnie:1.3), <lora:Stevonnie_Steven_Universe:0.75> (dark skin, dark-skinned female:1.3), dark hair, black hair, long hair, puffy hair, navel gem
+<[model][pony]>source_furry, (brittany miller:1.3), <lora:BrittanyMillerIllustrious1.0JLFO:0.75> brittney, ponytail, brown hair, blue eyes
+<[model][pony]>source_furry, (jeanette miller:1.3), <lora:JeanetteMillerIllustrious1.0JLFO:0.75> jeanette, brown hair, hair bun, hair ribbon, glasses
+<[model][pony]>source_furry, (elanor miller:1.3), <lora:EleanorMillerillustrious1.0JLFO:0.75> eleanor, brown eyes, blonde hair, short twintails
+<[model][pony]>source_furry, (alvin seville:1.3), <lora:Alvin_Seville_Alvin_and_the_chipmunks_Pony_XL:0.75> blue eyes, (genderswap:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.5)**
+<[model][pony]>source_furry, (simon seville:1.3), <lora:Ghu:0.75> blue eyes, glasses, (genderswap:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.5)**
+<[model][pony]>source_furry, (theodore seville:1.3), <lora:Theodore_Seville:0.75> Green eyes, (genderswap:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.5)**
+<[model][illu]>source_anime, (coraline jones:1.3)
+<[model][illu]>source_anime, (jade chan:1.3)
+<[model][illu]>source_anime, (penny gadget:1.3)
+<[model][pony]>source_furry, (kitty katswell:1.3), t.u.f.f. puppy
+<[model][pony]>source_furry, (brandy harrington:1.3), brandy and mr. whiskers

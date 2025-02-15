@@ -881,3 +881,45 @@
   Tags:
     - Characters
     - WuWa
+
+'__Characters/Cartoons__':
+  Description:
+    - Cartoon Characters
+  Tags:
+    - Characters
+    - Cartoons
+
+'<[model][illu]>source_anime, __Characters/Mana__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Mana Characters
+  Tags:
+    - Characters
+    - Mana
+
+'<[model][pony]>__Characters/Pochincoff__':
+  Description:
+    - Pochincoff Characters
+  Tags:
+    - Characters
+    - Pochincoff
+
+'<[model][illu]>source_anime, __Characters/Monster Hunter__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Monster Hunter Characters
+  Tags:
+    - Characters
+    - Monster Hunter
+
+'<[model][illu]>source_anime, __Characters/Detroit__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Detroit Characters
+  Tags:
+    - Characters
+    - Detroit
+
+'<[model][pony]>source_anime, __Characters/pvz__':
+  Description:
+    - pvz Characters
+  Tags:
+    - Characters
+    - pvz

@@ -1,0 +1,4 @@
+(north \(detroit\):1.3), <lora:NorthDBH:0.75> fnorth, brown hair, ponytail, brown eyes, lips
+(kara \(detroit\):1.3), <lora:KaraDBH:0.75> short hair, brown hair, blue eyes, lips, short ponytail, single hair bun
+(alice \(detroit\):1.3), <lora:AliceDBH:0.75>, long hair, ponytail, brown hair, brown eyes, lips
+(chloe \(detroit\):1.3), <lora:DBHChloe:0.75> DBHChloe, blonde hair, blue eyes, ponytail, hair over shoulder
