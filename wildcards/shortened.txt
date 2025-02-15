@@ -10,6 +10,7 @@ animals
 digimon
 misc
 e621
+evangelion
 [/choose]
 [/set]
 
