@@ -7,3 +7,5 @@ fnaf
 aeromorphs
 splatoon
 signalis
+mega man
+mass effect
