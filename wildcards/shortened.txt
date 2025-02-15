@@ -24,6 +24,7 @@ misc
 detroit
 AHiT
 Cartoons
+sonic
 [/choose]
 [/set]
 [/chance]
