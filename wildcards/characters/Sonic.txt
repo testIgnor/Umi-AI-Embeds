@@ -1,0 +1,9 @@
+(amy rose:1.3), sonic \(series\), animal ears
+(blaze the cat:1.3), sonic \(series\), yellow eyes, tail, animal ears, cat ears, cat tail
+(rouge the bat:1.3), sonic \(series\), animal ears, bat tail
+(sage \(sonic\):1.3), sonic \(series\), red eyes, white hair
+(vanilla the rabbit:1.3), sonic \(series\), animal ears, rabbit ears
+(sally acorn:1.3), sonic \(series\), animal ears, blue eyes
+(surge the tenrec:1.3), sonic \(series\), 
+(tikal the echidna:1.3), sonic \(series\), blue eyes
+(sticks the badger:1.3), sonic \(series\), 

@@ -132,7 +132,12 @@
   Tags:
     - Myspecies
     - Digimon
-
+'<[model][illu]>source_anime, __Species/Evangelion__**(hair, hat, headwear:2.0)**':
+  Description:
+    - Evangelion Characters
+  Tags:
+    - Myspecies
+    - Evangelion
 '<[model][illu]>source_anime, __Franchise Girls__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Legacy Characters
@@ -949,3 +954,10 @@
   Tags:
     - Characters
     - AHiT
+
+'<[model][pony]>source_furry, __Characters/Sonic__**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Sonic Characters
+  Tags:
+    - Characters
+    - Sonic
