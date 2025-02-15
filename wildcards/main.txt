@@ -117,7 +117,7 @@ as a <[ezage][get gender _before=[ _after=]]>
 [/set]
 
 [if "franchise in is_hairless"]
-    [if "'mechagodzilla' in franchise and 'futanari' in eff_gen"]
+    [if "'Mechagodzilla' in franchise and 'futanari' in eff_gen"]
     [set genderprompt]
     as a <[ezage][female][--hairy]>, <[ezMechagodzillaFuta]>
     [/set]
