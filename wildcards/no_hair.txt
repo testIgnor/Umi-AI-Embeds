@@ -1,11 +1,11 @@
-mechagodzilla
-godzilla
-franxx
-anthroids
-robots
+Mechagodzilla
+Godzilla
+Franxx
+Anthroids
+Robots
 fnaf
-aeromorphs
-splatoon
-signalis
-mega man
-mass effect
+Aeromorphs
+Splatoon
+Signalis
+Mega Man
+Mass Effect
