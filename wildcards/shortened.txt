@@ -6,10 +6,7 @@ myspecies
 [/set]
 [set franchise]
 [choose]
-animals
-digimon
 misc
-e621
 evangelion
 [/choose]
 [/set]
@@ -21,10 +18,8 @@ characters
 [set franchise]
 [choose]
 misc
-detroit
 AHiT
 Cartoons
-sonic
 [/choose]
 [/set]
 [/chance]

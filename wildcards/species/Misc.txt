@@ -2,7 +2,7 @@
 (kavat \(warframe\):1.3), <lora:Kavat_Warframe:1>
 (kubrow \(warframe\):1.3), <lora:Kubrow_Warframe:1>
 (ender dragon:1.3), <lora:Ender Dragon PonyXL:1> scalie, dragon girl, white dragon horns, dragon wings, dragon tail, reptile girl, purple eyes, black skin, detailed scales, white spikes
-(wolbra:1.3), <lora:Wolbra_v2:1> Wolbra, wolf ears, snake hood, hybrid
+(wolbra:1.3), <lora:Wolbra_v2:1> Wolbra, (wolf ears, snake hood, hybrid:1.2), [wolf anthro|cobra anthro], furry
 (xenomorph:1.3) <lora:Xenomorph_Custom:1>
 (xenomorph queen:1.3) <lora:XenomorphQueenIL:1> xenif, teeth, sharp teeth, tail, monster, colored skin, black skin, claws, spikes
 (ender dragon:1.3), <lora:Ender_dragon_minecraft:1> ender_dragon_minecraft, furry, furry girl, wings, scalie, anthro**(feral:1.5)**
