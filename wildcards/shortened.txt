@@ -1,22 +1,28 @@
 [function choose_franchise_simple]
 [set characterType]
 [choose]
-characters
+myspecies
 [/choose]
 [/set]
 [set franchise]
 [choose]
-final fantasy
+animals
+digimon
+misc
+e621
 [/choose]
 [/set]
 
-[chance 15]
+[chance 50]
 [set characterType]
 characters
 [/set]
 [set franchise]
 [choose]
-final fantasy
+misc
+detroit
+AHiT
+Cartoons
 [/choose]
 [/set]
 [/chance]
@@ -133,16 +139,15 @@ Outfit
 [call choose_franchise_simple]
 [call set_vars]
 
-[set characterprompt]
-<[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
-[/set]
 
 [set characterprompt]
 [choose]
 <[model][illu]>source_anime, (serah farron:1.3), final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>**(yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>**(serah farron:1.3), (weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>|(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]**(weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
 [/choose]
+[/set]
+
+[set characterprompt]
+<[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
 
 [set is_hairless]
