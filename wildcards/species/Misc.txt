@@ -1,13 +1,3 @@
-(werewolf:1.3), werewolf anthro
-(lioness:1.3), lioness anthro
-(jackal:1.3), jackal anthro
-(horse:1.3), horse girl, horse anthro
-(lion:1.3), lion anthro
-(zebra:1.3), zebra anthro
-(spotted hyena:1.3), hyena anthro
-(renamon:1.3), digimon
-(gatomon:1.3), digimon anthro
-(dragon:1.3), dragon anthro, scalie
 (deathclaw:1.3), fallout \(series\), scalie, <lora:DeathclawPonyXL:1> ClawXL, scalie, reptile, monster girl, horns, claws, tail, Deathclaw
 (kavat \(warframe\):1.3), <lora:Kavat_Warframe:1>
 (kubrow \(warframe\):1.3), <lora:Kubrow_Warframe:1>

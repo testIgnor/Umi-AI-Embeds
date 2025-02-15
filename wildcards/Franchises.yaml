@@ -48,6 +48,12 @@
   Tags:
     - Animals
     - MySpecies
+'<[model][pony]>source_furry, $#__Species/Animals__;theanimal#$, feral $#theanimal#$**(anthro:1.5), (hair, hat, headwear:2.0)**':
+  Description:
+    - Random Species
+  Tags:
+    - Animals
+    - MySpecies
 '<[model][illu]>source_anime, __Species/Robots__':
   Description:
     - Robots
@@ -102,18 +108,31 @@
   Tags:
     - Myspecies
     - Mythology
-'<[model][pony]>source_furry, __Species/e621__':
+'<[model][pony]>source_furry, __Species/e621__**(hair, hat, headwear:2.0)**':
   Description:
     - e621 Species
   Tags:
     - Myspecies
     - e621
-'<[model][pony]>source_furry, $#__Species/e621__;theanimal#$, $#theanimal#$ anthro':
+'<[model][pony]>source_furry, $#__Species/e621__;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
   Description:
     - e621 Species
   Tags:
     - Myspecies
     - e621
+'<[model][pony]>source_furry, $#__Species/e621__;theanimal#$, feral $#theanimal#$**(anthro:1.5), (hair, hat, headwear:2.0)**':
+  Description:
+    - e621 Species
+  Tags:
+    - Myspecies
+    - e621
+'<[model][pony]>source_furry, __Species/Digimon__**(hair, hat, headwear:2.0)**':
+  Description:
+    - Digimon Characters
+  Tags:
+    - Myspecies
+    - Digimon
+
 '<[model][illu]>source_anime, __Franchise Girls__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Legacy Characters
