@@ -3,7 +3,7 @@
 characters
 [/set]
 
-[chance 33]
+[chance 10]
 [set characterType]
 myspecies
 [/set]
