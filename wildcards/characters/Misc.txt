@@ -3,7 +3,7 @@
 <[model][illu]>source_anime, (little red riding hood:1.3)
 <[model][pony]>source_anime, (AnubisCitronOC:1.3), dark skin, black hair, yellow eyes <lora:Anubis_Citron_OC_P1:0.75>
 <[model][pony]>source_anime, (sugar cookie girl:1.3), blonde hair, blue eyes <lora:SugarcookiegirlXLP:0.75>
-<[model][illu]>source_anime, (lady liberty:1.0), (StatueOfLiberty4:1.3), the statue of liberty, (aqua eyes, no pupils, aqua green skin, colored skin:1.6), tall female, (giantess:0.33) <lora:StatueOfLiberty:1>**(statue:1.5)**
+<[model][illu]>source_anime, (lady liberty:1.0), (StatueOfLiberty4:1.3), the statue of liberty, (aqua eyes, no pupils, aqua green skin, light green skin, colored skin:1.6), tall female, (giantess:0.33) <lora:StatueOfLiberty:1>**(statue, people, small people, people in foreground, people in background:1.5)**
 <[model][illu]>source_anime, (diablo:1.3), diablo, <lora:DiabloD3:0.75> monster, horns, claws, tail, teeth, sharp teeth, spikes, yellow eyes, glowing, glowing eyes
 <[model][illu]>source_anime, (victory \(dg\):1.3), <lora:Victory DG PXL v04:0.75> VictoryDG, Red hair, green eyes, spiked hair, pointy ears, long hair, red lips
 <[model][illu]>source_anime, (aloy:1.3), <lora:AloyilluLoRA:0.75> aly, long hair, multiple braids, freckles, hair ornament
