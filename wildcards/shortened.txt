@@ -1,13 +1,13 @@
 [function choose_franchise_simple]
 [set characterType]
 [choose]
-myspecies
+characters
 [/choose]
 [/set]
 [set franchise]
 [choose]
-misc
-evangelion
+d.va
+ahit
 [/choose]
 [/set]
 
@@ -133,19 +133,20 @@ Outfit
 [function main_function]
 
 [call get_artist]
-[call choose_franchise_simple]
+[call choose_franchise]
 [call set_vars]
-
 
 [set characterprompt]
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
 
+[chance 66]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (lady liberty:1.0), (StatueOfLiberty4:1.3), the statue of liberty, (aqua eyes, no pupils, aqua green skin, colored skin, metal skin:1.6), tall female, (giantess:0.33) <lora:StatueOfLiberty:1>**(statue:1.5)**
+<[model][illu]>source_anime, (lady liberty:1.0), (StatueOfLiberty4:1.3), the statue of liberty, (aqua eyes, no pupils, aqua green skin, colored skin:1.6), tall female, (giantess:0.33) <lora:StatueOfLiberty:1>**(statue:1.5)**
 [/choose]
 [/set]
+[/chance]
 
 [set is_hairless]
 [call wildcards/no_hair]
