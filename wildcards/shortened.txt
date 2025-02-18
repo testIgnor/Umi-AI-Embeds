@@ -180,7 +180,7 @@ as a <[ezage][get gender _before=[ _after=]]>
 
 [chance 15]
 [set prompt_suffix]
-<[imageformat]>, <[MyLocation]>, wearing [choose][call wildcards/species/animals][/choose] mask, full head mask, full face mask, covering entire head, wearing latex bondage outfit, bondage, bound, BDSM, <[eznude][get eff_gen _before=[ _after=]]>
+<[imageformat]>, <[MyLocation]>, wearing [choose][call wildcards/species/animals][/choose] shaped mask, full face mask, wearing latex bondage outfit, bondage, bound, BDSM, <[eznude][get eff_gen _before=[ _after=]]>
 [/set]
 [/chance]
 

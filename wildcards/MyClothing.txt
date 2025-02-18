@@ -126,7 +126,7 @@ dominatrix outfit, bondage outfit, bondage clothing
 blindfold, covered eyes, chain, collar, bondage outfit, underboob, black short shorts
 bondage harness, belt collar, arms behind back, o-ring, <lora:better_bondage_pdxl_goofy:1> betterBondage, bondage, bdsm
 <lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, [chance 50]{white||black} pantyhose[/chance][else]bare legs[/else]
-wearing [choose][call wildcards/species/animals][/choose] mask, full head mask, full face mask, covering entire head, wearing latex bondage outfit, bondage, bound, BDSM, <[eznude][get eff_gen _before=[ _after=]]>
+wearing [choose][call wildcards/species/animals][/choose] shaped mask, full face mask, wearing latex bondage outfit, bondage, bound, BDSM, <[eznude][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [# Default]
