@@ -30,7 +30,7 @@ myspecies
 
 [function set_vars]
 [set gender]female[/set]
-[chance 25][set gender][choose]
+[chance 33][set gender][choose]
 futanari
 male
 [/choose][/set][/chance]

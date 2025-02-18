@@ -1,4 +1,4 @@
-(bow kid:1.3), a hat in time, dark-skinned female, dark brown hair, curly hair, purple eyes
+(bow kid:1.3), a hat in time, dark-skinned female, very dark skin, dark brown hair, curly hair, very curly hair, short hair, purple eyes
 (hat kid:1.3), a hat in time, brown hair, blue eyes, sidelocks, short ponytail
 (hat kid:1.3), a hat in time, brown hair, blue eyes, sidelocks, short ponytail, <lora:AHK:1> ccgirl
 (hat kid:1.3), a hat in time, <lora:Hat_Lady_-_Bard-Bot_PonyXL:1> hatLady, brown hair, ponytail, blue eyes
