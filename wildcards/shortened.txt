@@ -6,8 +6,9 @@ characters
 [/set]
 [set franchise]
 [choose]
-nintendo
-ace attorney
+street fighter
+tekken
+kof
 [/choose]
 [/set]
 [/function]
@@ -131,10 +132,10 @@ Outfit
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
 
-[chance 33]
+[chance 10]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (bow kid:1.3), a hat in time, dark-skinned female, very dark skin, dark brown hair, curly hair, very curly hair, short hair, purple eyes**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (alejandra \(overwatch\):1.3), overwatch, ale, brown hair, (dark skin, dark-skinned female:1.3), twin braids <lora:AlejandraPony1.1:0.75>**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 [/chance]
