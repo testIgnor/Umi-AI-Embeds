@@ -41,4 +41,4 @@
 (juno \(overwatch\):1.3), overwatch, short hair, gloves, pink hair, purple hair, brown eyes, blunt bangs, junoSDXL <lora:juno:0.75>
 (sojourn \(overwatch\):1.3), overwatch, sojournSDXL, blue eyes, facial mark, white hair, (dark skin, dark-skinned female:1.3), science fiction, joints, cyborg, robot joints, very dark skin, dreadlocks, mechanical legs <lora:sojourn:0.75>
 (alejandra \(overwatch\):1.3), overwatch, ale, brown hair, (dark skin, dark-skinned female:1.3), twin braids <lora:AlejandraPony1.1:0.75>
-(efi oladele \(overwatch\):1.3), overwatch, <lora:Efi_Oladele_Overwatch_for_PonyXL:0.75> efi_oladele, dark-skinned female, very dark skin, facepaint, dreadlocks, black hair, short hair
+(efi oladele \(overwatch\):1.3), overwatch, <lora:Efi_Oladele_Overwatch_for_PonyXL:0.75> efi_oladele, dark-skinned female, very dark skin, facepaint, dreadlocks, black hair, short hair**(kiriko \(overwatch\):1.5)**
