@@ -6,11 +6,26 @@ characters
 [/set]
 [set franchise]
 [choose]
-street fighter
-tekken
-kof
+azur lane
+lol
+xenoblade
 [/choose]
 [/set]
+
+[chance 33]
+[set characterType]
+[choose]
+characters
+[/choose]
+[/set]
+[set franchise]
+[choose]
+zzz
+genshin
+honkai
+[/choose]
+[/set]
+[/chance]
 [/function]
 
 [function choose_franchise]
@@ -132,11 +147,10 @@ Outfit
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
 
-[chance 25]
+[chance 0]
 [set characterprompt]
 [choose]
 <[model][illu]>source_anime, (alejandra \(overwatch\):1.3), overwatch, ale, brown hair, (dark skin, dark-skinned female:1.3), twin braids <lora:AlejandraPony1.1:0.75>**(yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (efi oladele \(overwatch\):1.3), overwatch, <lora:Efi_Oladele_Overwatch_for_PonyXL:0.75> efi_oladele, dark-skinned female, very dark skin, facepaint, dreadlocks, black hair, short hair**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 [/chance]
@@ -178,7 +192,7 @@ as a <[ezage][get gender _before=[ _after=]]>
     [/else]
 [/set]
 
-[chance 15]
+[chance 0]
 [set prompt_suffix]
 <[imageformat]>, <[MyLocation]>, wearing [choose][call wildcards/species/animals][/choose] shaped mask, full face mask, wearing latex bondage outfit, bondage, bound, BDSM, <[eznude][get eff_gen _before=[ _after=]]>
 [/set]
