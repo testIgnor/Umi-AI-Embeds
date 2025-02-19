@@ -1,5 +1,5 @@
-(eva 02:1.3), neon genesis evangelion, mecha, no human, robot, machinery, science fiction, scifi, no humans**(souryuu asuka langley, ayanami rei, makinami mari illustrious, katsuragi misato:1.5)**
-(eva 00:1.3), neon genesis evangelion, mecha, no human, robot, machinery, science fiction, scifi, no humans**(souryuu asuka langley, ayanami rei, makinami mari illustrious, katsuragi misato:1.5)**
+(eva 02:1.3), neon genesis evangelion, mecha, no human, robot, machinery, science fiction, scifi, no humans**(souryuu asuka langley, ayanami rei, makinami mari illustrious, katsuragi misato, eva 01:1.5)**
+(eva 00:1.3), neon genesis evangelion, mecha, no human, robot, machinery, science fiction, scifi, no humans**(souryuu asuka langley, ayanami rei, makinami mari illustrious, katsuragi misato, eva 01:1.5)**
 (mass production eva:1.3), neon genesis evangelion, <lora:masprodeva1-pxl:1> masprodeva1, mecha, no human, robot, machinery, science fiction, scifi, no humans**(souryuu asuka langley, ayanami rei, makinami mari illustrious, katsuragi misato:1.5)**
 (lilith \(evangelion\):1.3), neon genesis evangelion
 (eva 01:1.3), neon genesis evangelion, <lora:eva001v2:1> mecha, no human, robot, eva01, machinery, science fiction, scifi, no humans
