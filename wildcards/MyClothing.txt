@@ -42,7 +42,7 @@ bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, 
 <lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 <lora:overwatch-dva-cosplay-ponyxl-lora-nochekaiser:1>, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), bodysuit, cosplay, covered navel, skin tight, vertical-striped bodysuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:0895 DVA fan clothing_v1_pony:1> ruanyi0895, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), blue bodysuit, skin tight, bunny print, gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:BadEndPrecureIL:1> black bad end bodysuit, [call wildcards/colors] frills, [call wildcards/colors] miniskirt, flared sleeves, black bat headband, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Alice_Nikke_Cosplay_-_IllustriousXL_r1:1> alice_cosplay, skintight
@@ -77,17 +77,17 @@ unconventional maid, yuino maid dress, <[ezcovered][get eff_gen _before=[ _after
 [/tags]
 
 [tags clothing clothing_type="rave"]
-<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, {glowing, exhibitionism, neon_lights, bodypaint||fishnets, fishnet thighhighs||bodypaint, glitter, crotchless_panties, cupless_bra, lingerie}, <[eznude][get eff_gen _before=[ _after=]]>, {neon_green||neon_pink||neon_white||neon_yellow||neon_orange||neon_blue}
+<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, {glowing, exhibitionism, neon_lights, bodypaint||fishnets, fishnet thighhighs||bodypaint, glitter, crotchless_panties, cupless_bra, lingerie}, <[eznude][get eff_gen _before=[ _after=]]>, {neon_green||neon_pink||neon_white||neon_yellow||neon_orange||neon_blue}**(fishing net:1.5)**
 bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>, <[allpiercings]>
-(pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), <[ezcovered][get eff_gen _before=[ _after=]]>, <[eznips]>, navel
+(pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), <[ezcovered][get eff_gen _before=[ _after=]]>, <[eznips]>, navel**(fishing net:1.5)**
 blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos, <lora:Lunas-Blackedwear-Concept-SDXL-A1:1>
 <lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:St._Louis_Luxurious_Wheels:1> L0x0r100s_Wh33l5, silver dress, halterneck, backless dress, halter dress, revealing clothes, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:Strapless_Pothole_Tube_Dress_SKNSFW:1> Strapless_Pothole_Tube_Dress_SKNSFW, short dress, strapless dress, __colors__ dress, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
-<lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Racing_Miku_2022_Cosplay_-_ILLUSTRIOUSXL:1> mikucosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Sakimichan_Tifa_Nurse_Outfit_Cosplay:1> micro shirt, very cropped shirt, short sleeved shirt, white shirt, latex bikini, underboob bikini, micro bikini, white bikini, red cross on bikini, highleg bikini, highleg leotard, underbust leotard, mesh leotard, see-through leotard, cross stitched leotard, detailed leotard, white leotard, white underbust corset, white corset, corset, see-through corset, white belt straps, white belt buckles, pussy floss, black thighhighs, black thigh boots, white gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -204,12 +204,12 @@ evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][
 <lora:NunV3ILL:0.5> nun, thighhighs, habit, large breasts, garter straps, frills, white skirt, long sleeves, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:NunV4ILL:0.5> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:latexbodysuitnunILL:0.5> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:NunV5ILL:0.5> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:NunV5ILL:0.5> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
 <lora:gothicsheerleotardILL:0.5> see-through leotard, wide sleeves, long sleeves, thigh boots, thighhighs, highleg leotard, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes
 fully clothed, wedding dress, bride, wedding
 fully clothed, kimono
-loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear
+loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear**(fishing net:1.5)**
 school uniform
 serafuku
 fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume
