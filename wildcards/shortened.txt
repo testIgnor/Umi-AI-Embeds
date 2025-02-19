@@ -7,6 +7,7 @@ characters
 [set franchise]
 [choose]
 azur lane
+atla
 lol
 xenoblade
 [/choose]
@@ -137,7 +138,7 @@ Outfit
 [call get_artist]
 [call choose_franchise]
 
-[chance 66]
+[chance 75]
 [call choose_franchise_simple]
 [/chance]
 
