@@ -6,3 +6,5 @@
 (mai:1.3), avatar: the last airbender, black hair, long hair, brown eyes, hair bun, double bun**(azula:1.5)**
 (korra:1.3), the legend of korra, blue eyes, dark skin, dark-skinned female, brown hair, {ponytail, long hair||short hair}
 (asami sato:1.3), the legend of korra, black hair, green eyes, long hair
+(jinora:1.3), the legend of korra, brown eyes, brown hair, hair bun, medium hair
+(ikki:1.3), the legend of korra, brown eyes, brown hair, double hair bun, short hair
