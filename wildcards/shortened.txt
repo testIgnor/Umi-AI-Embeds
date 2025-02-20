@@ -8,8 +8,7 @@ characters
 [choose]
 azur lane
 atla
-lol
-xenoblade
+persona
 [/choose]
 [/set]
 
@@ -21,9 +20,9 @@ characters
 [/set]
 [set franchise]
 [choose]
-zzz
-genshin
-honkai
+lol
+xenoblade
+nikke
 [/choose]
 [/set]
 [/chance]
