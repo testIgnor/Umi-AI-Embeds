@@ -9,10 +9,11 @@ characters
 azur lane
 atla
 persona
+disney
 [/choose]
 [/set]
 
-[chance 33]
+[chance 25]
 [set characterType]
 [choose]
 characters
@@ -23,6 +24,13 @@ characters
 lol
 xenoblade
 nikke
+zzz
+genshin
+honkai
+girls frontline
+granblue
+kantai collection
+arknights
 [/choose]
 [/set]
 [/chance]
