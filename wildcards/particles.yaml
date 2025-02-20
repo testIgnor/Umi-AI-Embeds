@@ -227,7 +227,7 @@
     - hard
     - huge
     - upper
-'tiny penis, (flaccid:1.1)':
+'tiny penis, (flaccid:1.1)**(erection:1.5)**':
   Description:
     - Penis sizes
   Tags:
@@ -236,7 +236,7 @@
     - soft
     - tiny
     - lower
-'small penis, (flaccid:1.1)':
+'small penis, (flaccid:1.1)**(erection:1.5)**':
   Description:
     - Penis sizes
   Tags:
@@ -245,7 +245,7 @@
     - soft
     - small
     - lower
-'medium penis, (flaccid:1.1)':
+'medium penis, (flaccid:1.1)**(erection:1.5)**':
   Description:
     - Penis sizes
   Tags:
@@ -255,7 +255,7 @@
     - medium
     - lower
     - middle
-'large penis, (flaccid:1.1)':
+'large penis, (flaccid:1.1)**(erection:1.5)**':
   Description:
     - Penis sizes
   Tags:
@@ -265,7 +265,7 @@
     - large
     - middle
     - upper
-'huge penis, (flaccid:1.1)':
+'huge penis, (flaccid:1.1)**(erection:1.5)**':
   Description:
     - Penis sizes
   Tags:
