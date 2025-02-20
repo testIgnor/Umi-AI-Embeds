@@ -6,7 +6,6 @@ characters
 [/set]
 [set franchise]
 [choose]
-persona
 disney
 xenoblade
 [/choose]
@@ -21,7 +20,7 @@ characters
 [set franchise]
 [choose]
 azur lane
-lol
+persona
 nikke
 zzz
 genshin

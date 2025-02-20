@@ -23,3 +23,11 @@
 (ankha \(animal crossing\):1.3)
 (ring fit trainee:0.0), <lora:Ring_Fit_Trainee:1> R1ngF1t, green eyes, fire hair, orange hair
 (wii fit trainer:1.3), <lora:Wii_Fit_Trainer_-_IL:1> WiiFitTrainer, pale skin, ponytail, black hair
+(kat \(warioware\):1.3), pink hair, hair bun, brown eyes
+(ana \(warioware\):1.3), orange hair, double hair bun, brown eyes
+(ashley \(warioware\):1.3), black hair, twintails, red eyes
+(5-volt \(warioware\):1.3), brown hair, medium hair, brown eyes
+(lulu \(warioware\):1.3), brown hair, medium hair, brown eyes
+(mona \(warioware\):1.3), orange hair, long hair, blue eyes
+(penny \(warioware\):1.3), orange hair, long hair, blue eyes, twin braids
+(13-amp \(warioware\):1.3), pink hair, long hair, green eyes
