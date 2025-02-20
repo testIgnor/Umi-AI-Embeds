@@ -2,11 +2,9 @@
 [chance 75]
 by tarakanovich <lora:tarakanovich1.5:1>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
-by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
 by johndoe <lora:johndoe:0.6>
 by johndoe <lora:John_Doe_Style:0.6>
 by johndoe <lora:JohnDoe_lora:0.6>
-by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.6>
 by pixelsketcher
 by doppel
 by slightlysimian
