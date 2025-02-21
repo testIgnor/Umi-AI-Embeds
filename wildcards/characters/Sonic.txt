@@ -12,6 +12,5 @@
 (tangle the lemur:1.3), sonic \(series\), (anthro:1.3)
 (wave the swallow:1.3), sonic \(series\), (anthro:1.3)
 (miles prower:1.3), sonic \(series\), (genderswap:1.5), (anthro:1.3)
-(tailsko:1.3), sonic \(series\), (anthro:1.3)
 (princess elise:1.3), sonic \(series\), blue eyes, brown hair, medium hair
 (topaz \(sonic\):1.3), sonic \(series\), blue eyes, brown hair, short hair
