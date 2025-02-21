@@ -192,7 +192,13 @@ magical girl costume, <[ezbottomless][get eff_gen _before=[ _after=]]>
 corrupted magical girl costume, <[ezbottomless][get eff_gen _before=[ _after=]]>
 ruanyi0040, <[eznude][get eff_gen _before=[ _after=]]>, bracelet, chain <lora:0040 metal tassel_v3_pony:0.66>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][futanari]> <lora:0765 flower wedding_v1_pony:1>
-parasite, <lora:canalV3:1> {1-3$$fake vagina cl in vagina||fake vagina cl in mouth||fake vagina cl in anus}, cl, <[eznude][get eff_gen _before=[ _after=]]>
+parasite, <lora:canalV3:1> fake vagina cl in vagina, fake vagina cl in mouth, fake vagina cl in anus, cl, <[eznude][get eff_gen _before=[ _after=]]>
+parasite, <lora:canalV3:1> fake vagina cl in vagina, <[eznude][get eff_gen _before=[ _after=]]>
+parasite, <lora:canalV3:1> fake vagina cl in anus, cl, <[eznude][get eff_gen _before=[ _after=]]>
+parasite, <lora:canalV3:1> fake vagina cl in mouth, cl, <[eznude][get eff_gen _before=[ _after=]]>
+parasite, <lora:canalV3:1> fake vagina cl in vagina, fake vagina cl in anus, cl, <[eznude][get eff_gen _before=[ _after=]]>
+parasite, <lora:canalV3:1> fake vagina cl in vagina, fake vagina cl in mouth, cl, <[eznude][get eff_gen _before=[ _after=]]>
+parasite, <lora:canalV3:1> fake vagina cl in mouth, fake vagina cl in anus, cl, <[eznude][get eff_gen _before=[ _after=]]>
 Parasite, <lora:LivingClothes:1> Living Clothes, Tentacle Clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 virgin slayer sweater, thighhighs, detached sleeves, buttplug, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:Virgin_Slayer_SweaterV1:1>
 virgin terminator sweater, <[ezcovered][get eff_gen _before=[ _after=]]>, pi-vrgn-trm-swtr, long sleeves, ribbed thighhighs, white sweater, ribbed sleeves, alternate costume, detached sleeves, side-tie panties <lora:VirginTerminatorSweater:1>

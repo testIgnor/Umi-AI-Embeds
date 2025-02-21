@@ -147,12 +147,12 @@ Outfit
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
 
-[chance 50]
+[chance 0]
 [set characterprompt]
 [choose]
-<[model][pony]>source_furry, (alvin seville:1.3), <lora:Alvin_Seville_Alvin_and_the_chipmunks_Pony_XL:0.75> blue eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
-<[model][pony]>source_furry, (simon seville:1.3), <lora:Ghu:0.75> blue eyes, glasses, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
-<[model][pony]>source_furry, (theodore seville:1.3), <lora:Theodore_Seville:0.75> Green eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
+<[model][pony]>source_furry, (alvin seville:1.3), <lora:Alvin_Seville_Alvin_and_the_chipmunks_Pony_XL:0.75> blue eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75), (yellow skin, orange skin, red skin:1.5)**
+<[model][pony]>source_furry, (simon seville:1.3), <lora:Ghu:0.75> blue eyes, glasses, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75), (yellow skin, orange skin, red skin:1.5)**
+<[model][pony]>source_furry, (theodore seville:1.3), <lora:Theodore_Seville:0.75> Green eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75), (yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 [/chance]
