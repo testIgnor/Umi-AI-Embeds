@@ -21,15 +21,8 @@ characters
 [set franchise]
 [choose]
 azur lane
-persona
 nikke
-zzz
-genshin
-honkai
-girls frontline
 granblue
-kantai collection
-arknights
 [/choose]
 [/set]
 [/chance]
