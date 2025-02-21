@@ -9,10 +9,11 @@ characters
 disney
 xenoblade
 nintendo
+cartoons
 [/choose]
 [/set]
 
-[chance 25]
+[chance 15]
 [set characterType]
 [choose]
 characters
