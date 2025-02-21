@@ -8,7 +8,6 @@
 (sticks the badger:1.3), sonic \(series\), (anthro:1.3)
 (cream the rabbit:1.3), sonic \(series\), (anthro:1.3)
 (surge the tenrec:1.3), sonic \(series\), (anthro:1.3)
-(sticks the jungle badger:1.3), sonic \(series\), (anthro:1.3)
 (whisper the wolf:1.3), sonic \(series\), (anthro:1.3)
 (tangle the lemur:1.3), sonic \(series\), (anthro:1.3)
 (wave the swallow:1.3), sonic \(series\), (anthro:1.3)
