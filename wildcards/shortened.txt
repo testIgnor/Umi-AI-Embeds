@@ -147,10 +147,9 @@ Outfit
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
 
-[chance 25]
+[chance 0]
 [set characterprompt]
 [choose]
-<[model][pony]>source_furry, (tailsko:1.3), sonic \(series\), (anthro:1.3)
 <[model][pony]>source_furry, (miles prower:1.3), sonic \(series\), (genderswap:1.5), (anthro:1.3)
 [/choose]
 [/set]
