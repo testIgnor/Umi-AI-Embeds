@@ -41,6 +41,8 @@ by rino99 <lora:fallen_ai_RINO99_style:1>
     by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:1>
     by exlic, <lora:ExLic_style:1> ExLic_style
     by rino99 <lora:fallen_ai_RINO99_style:1>
+    by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
+    by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
     by dosh
     by utterangle
     by redwolfxiii
@@ -129,7 +131,8 @@ by ponpu
 by diathorn <lora:diathorn_style_illustrious01_v3:0.6>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.6>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:1>
-by tekuho, by tekuho no habo
+by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
+by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
 by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:1>
 by dmitrys <lora:Dmitrys_Style_Illustrious:1>
 by saurian
