@@ -1,2 +1,2 @@
-(madeline \(celeste\):1.3), celeste, red hair, red eyes
-(badeline \(celeste\):1.3), celeste, purple hair, purple eyes
+(madeline \(celeste\):1.3), celeste, madeline, orange hair, long hair, ahoge, red eyes, freckles, blush stickers, thick eyebrows <lora:madeline-v1.0:1>
+(badeline \(celeste\):1.3), celeste, badeline, purple skin, lavender hair, long hair, ahoge, red eyes, black sclera, thick eyebrows <lora:madeline-v1.0:1>
