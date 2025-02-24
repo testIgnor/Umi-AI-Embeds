@@ -1,0 +1,31 @@
+(shining glitter cookie:1.3), cookie run, pink hair, multicolored hair, long hair
+(cream puff cookie:1.3), cookie run, blue eyes, long hair
+(white lily cookie:1.3), cookie run, white hair, long hair
+(blackberry cookie:1.3), cookie run, purple hair, purple eyes
+(latte cookie:1.3), cookie run, dark-skinned female, long hair, dark skin, very long hair, white hair
+(cocoa cookie:1.3), cookie run, brown hair, brown eyes, long hair
+(milky way cookie:1.3), cookie run, long hair, low twintails, very long hair, colored skin, white hair, twintails
+(black pearl cookie:1.3), cookie run, white hair, long hair
+(cherry blossom cookie:1.3), cookie run, pink eyes, pink hair, long hair
+(pomegranate cookie:1.3), cookie run, red hair, red eyes
+(walnut cookie:1.3), cookie run
+(strawberry cookie:1.3), cookie run
+(cream soda cookie:1.3), cookie run, very long hair, blue eyes, blue hair, long hair
+(tiger lily cookie:1.3), cookie run, long hair
+(onion cookie:1.3), cookie run, purple hair, purple eyes
+(parfait cookie:1.3), cookie run, blue eyes, long hair
+(cotton cookie:1.3), cookie run, white hair
+(cherry cookie:1.3), cookie run, twintails
+(roguefort cookie:1.3), cookie run
+(cotton candy cookie:1.3), cookie run, pink hair, long hair
+(lime cookie:1.3), cookie run, green eyes, twintails, green hair, long hair
+(butter pretzel cookie:1.3), cookie run, very long hair, long hair
+(cheesecake cookie:1.3), cookie run, blonde hair
+(white ghost cookie:1.3), cookie run, white hair, long hair
+(cream puff cookie \(dark magic hat\):1.3), cookie run, very long hair, blue eyes, white hair, long hair
+(kumiho cookie:1.3), cookie run, tail, fox tail, blue hair, red eyes
+(pumpkin pie cookie:1.3), cookie run, short hair, orange eyes, orange hair
+(frost queen cookie:1.3), cookie run, blue eyes, white hair
+(timekeeper cookie \(ruler of the ephemeral flow\):1.3), cookie run, yellow eyes, blonde hair
+(fairy cookie:1.3), cookie run, green hair
+(pompon \(cookie run\):1.3), cookie run, short hair, orange eyes, orange hair
