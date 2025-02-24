@@ -9,7 +9,8 @@
 (yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, blue eyes, YUNA_\(FF10\) <lora:YunaPony:1>
 (celes chere:1.3), final fantasy, blonde hair, blue eyes, long hair
 (garnet til alexandros xvii:1.3), final fantasy, brown eyes, low-tied long hair, brown hair, short hair, blonde hair, long hair, black hair
-(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>**(serah farron:1.3), (weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**(y'shtola rhul:1.3), final fantasy, short hair, white hair, grey eyes, yshtola <lora:Yshtola:1>
+(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>**(serah farron:1.3), (weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
+(y'shtola rhul:1.3), final fantasy, short hair, white hair, grey eyes, yshtola <lora:Yshtola:1>
 (y'shtola rhul:1.3), final fantasy, short hair, white hair, grey eyes, <lora:yshtola_rhul:1>
 (faris scherwiz:1.3), final fantasy, green eyes, long hair, purple hair, pink hair
 (agrias oaks:1.3), final fantasy, blonde hair, blue eyes, long hair
