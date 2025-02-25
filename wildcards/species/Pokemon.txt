@@ -33,7 +33,7 @@
 (lycanroc:1.3), <lora:POKEMON_LYCANROC_MIDNIGHT:0.6> midnight_lycanroc
 (charizard:1.3)
 (arcanine:1.3)
-(lugia:1.3) <lora:lugia:0.6>
+(lugia:1.3) <lora:lugia-05:1>
 (absol:1.3)
 (salazzle:1.3)
 (mew \(pokemon\):1.3), <lora:POKEMON_MEW:0.6> mew

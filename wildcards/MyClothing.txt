@@ -12,12 +12,12 @@ ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][get eff_gen _before=[ _after
 4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:4ng3ll1ngXLP:0.6>
 bodypaint clothes, bodypaint, <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint clothes_pony_V1.0:1>
 center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][get eff_gen _before=[ _after=]]>
-open towel, <lora:OpenTowel_T1V0:1> open towel, holding towel, <[eznude][get eff_gen _before=[ _after=]]>
+open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:chainmailbikiniILL:1> chainmail bikini, pelvic curtain
 <lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Shining_summer:1> 5h1n1ng_50mm3r, bikini, swimsuit, o-ring, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:slingshot_mask:1> 5l1ngsh0t_m45k, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:X_micro_bikini:1> X_m1cr0_b1k1n1, criss-cross halter, <[ezcovered][get eff_gen _before=[ _after=]]>
+ <lora:x micro bikini_XL_V1.0:1> x micro bikini, criss-cross halter, highleg, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Liberator-Azarin_illus:1> Liberator-Azarin, Liberator-Azarin, thighhighs, high heels, gloves, demon tail, wings, tail, black thighhighs, boots, black gloves, hair ribbon, elbow gloves, pubic tattoo, clothing cutout, demon wings, dark persona, low wings, clothing cutout, garter straps, puffy sleeves, highleg, black skirt, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -37,7 +37,11 @@ leotard, sheer leotard, tight clothes, <[ezcovered][get eff_gen _before=[ _after
 leotard, breastless leotard, tight clothes, <[eztopless][get eff_gen _before=[ _after=]]>
 leotard, crotchless leotard, tight clothes, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][get eff_gen _before=[ _after=]]>
-bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]>, o-ring
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[eznude][get eff_gen _before=[ _after=]]>, o-ring
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 <lora:overwatch-dva-cosplay-ponyxl-lora-nochekaiser:1>, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), bodysuit, cosplay, covered navel, skin tight, vertical-striped bodysuit, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -117,7 +121,11 @@ white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, 
 [/tags]
 
 [tags clothing clothing_type="bondage"]
-bondage outfit, <lora:bondage outfit_pony_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]>, o-ring
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[eznude][get eff_gen _before=[ _after=]]>, o-ring
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:foreignlimb:1> foreignlimb, (mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton:1.5), extra mechanical limbs, multiple limbs, 义肢拘束
 fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][get eff_gen _before=[ _after=]]>
@@ -189,7 +197,7 @@ monokini, <[eztopless][get eff_gen _before=[ _after=]]>
 cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbottomless][get eff_gen _before=[ _after=]]>
 cupless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
 magical girl costume, <[ezbottomless][get eff_gen _before=[ _after=]]>
-corrupted magical girl costume, <[ezbottomless][get eff_gen _before=[ _after=]]>
+corrupted magical girl costume <lora:Corruptionv2.1XL:1>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 ruanyi0040, <[eznude][get eff_gen _before=[ _after=]]>, bracelet, chain <lora:0040 metal tassel_v3_pony:0.66>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][futanari]> <lora:0765 flower wedding_v1_pony:1>
 parasite, <lora:canalV3:1> fake vagina cl in vagina, fake vagina cl in mouth, fake vagina cl in anus, cl, <[eznude][get eff_gen _before=[ _after=]]>
@@ -284,7 +292,9 @@ backwards virgin killer sweater
 edie crop hoodie
 evolved virgin killer sweater
 lightning cat sweatshirt
-<lora:embedded penetrable sextoy v1.1:1> embedded_penetrable_sex_toy, x-ray, inside view, womb window, mechanical parts, mechanical fleshlight, sexdoll, transparent body, pink fleshlight
+<lora:embedded penetrable sextoy illustrious v1.1:1> embedded_penetrable_sex_toy, x-ray, inside view, womb window, mechanical parts, mechanical fleshlight, sexdoll, transparent body, pink fleshlight
+<lora:embedded penetrable sextoy illustrious v1.1:1> embedded_penetrable_sex_toy, robot furry, anthro, sexfnaf, mechanical, transparent body, artificial vagina, red fleshlight
+<lora:embedded penetrable sextoy illustrious v1.1:1> embedded_penetrable_sex_toy, robot furry, anthro, sexfurry, x-ray, inside view, robotic body, womb window, furry
 <lora:foreignlimb:1.2> (foreignlimb:1.5), (arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, robotic exoskeleton:1.5), (extra mechanical arms, mechanical arms, mechanical legs, unbound mechanical arms, unbound mechanical legs:1.3), extra mechanical limbs, multiple limbs, (high heels, extremely high heels:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
 reverse virgin killer sweater, <lora:0947 reverse virgin killer sweater_v1_pony:1> ruanyi0947, turtleneck sweater, grey dress, virgin killer sweater, meme attire, bare arms, bare shoulders, navel, <[covered][upper][get eff_gen _before=[ _after=]]>
 cocktail dress
