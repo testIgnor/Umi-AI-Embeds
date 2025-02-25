@@ -95,7 +95,7 @@ Outfit
 [set artist][choose][call wildcards/webartists][/choose][/set]
 
 [if "'lora' not in artist"]
-    [set artist][get artist] <lora:PDXL_artist_tags_v2:1>[/set]
+    [set artist][get artist] <lora:PDXL_artist_tags_v2_big:1>[/set]
 [/if]
 
 [/function]
