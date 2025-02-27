@@ -1,8 +1,8 @@
-(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, <lora:VicarAmeliaPXL:1> VicarAmeliaPXL
-(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, <lora:Vicar_Amelia4PonyXL:1> vicar amelia
-(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, <lora:Vicar_Amelia-e56_s1232:1> blood borne Vicar Amelia, a massive beast woman, ash grey and white fur, twisted antlers, claws, digitigrade, long furry ears, sharp teeth
-(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, <lora:BB_VicarAmelia_a1_5_NoobXL-eps:1> bbvicam, antlers
-(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:1> vicar amelia \(bloodborne\), Vicar_FF
-(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:1> vicar amelia \(bloodborne\), Vicar_Waifu
-(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:1> vicar amelia \(bloodborne\), Vicar_Monster
-(vicar amelia:1.3), bloodborne, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:1> vicar amelia \(bloodborne\), Vicar_Human
+(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:VicarAmeliaPXL:1> VicarAmeliaPXL
+(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:Vicar_Amelia4PonyXL:1> vicar amelia
+(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:Vicar_Amelia-e56_s1232:1> blood borne Vicar Amelia, a massive beast woman, ash grey and white fur, twisted antlers, claws, digitigrade, long furry ears, sharp teeth
+(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:BB_VicarAmelia_a1_5_NoobXL-eps:1> bbvicam, antlers
+(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:1> vicar amelia \(bloodborne\), Vicar_FF
+(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:1> vicar amelia \(bloodborne\), Vicar_Waifu
+(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:1> vicar amelia \(bloodborne\), Vicar_Monster
+(vicar amelia:1.3), bloodborne, covered eyes, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:1> vicar amelia \(bloodborne\), Vicar_Human
