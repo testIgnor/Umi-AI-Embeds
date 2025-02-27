@@ -1,4 +1,4 @@
-<[model][illu]>source_furry, (wilykit:1.3), thundercats, <lora:10_wilykit_il:0.75> w1lyk1t, black striped red hair, red eyes, slit pupils
+<[model][illu]>source_furry, (wilykit:1.3), thundercats, <lora:10_wilykit_Il:1> w1lyk1t, black striped red hair, red eyes, slit pupils
 <[model][illu]>source_furry, (wilykit:1.3), thundercats, <lora:Wilykit_thundercats_2011:0.75> multicolored hair, yellow eyes, tail
 <[model][illu]>source_anime, (gwen tennyson:1.3)
 <[model][illu]>source_anime, (velma dinkley:1.3), scooby-doo, glasses

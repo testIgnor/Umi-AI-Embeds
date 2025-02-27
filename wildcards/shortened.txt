@@ -124,7 +124,7 @@ Outfit
 [set artist][choose][call wildcards/webartists][/choose][/set]
 
 [if "'lora' not in artist"]
-    [set artist][get artist] <lora:PDXL_artist_tags_v2:1>[/set]
+    [set artist][get artist] <lora:PDXL_artist_tags_v2_big:1>[/set]
 [/if]
 
 [/function]
@@ -195,7 +195,7 @@ as a <[ezage][get gender _before=[ _after=]]>
 
 [chance 100]
 [set prompt_suffix]
-<[imageformat]>, <[MyLocation]>, high cut crop top sweater with bikini, bikini top, bikini bottom
+<[imageformat]>, <[MyLocation]>, high cut crop top hoodie with bikini, breast-exposing crop top hoodie, bikini top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/set]
 [/chance]
 
