@@ -8,10 +8,14 @@ characters
 [choose]
 godzilla
 mechagodzilla
+bloodborne
+Warhammer
+ace attorney
+final fantasy
 [/choose]
 [/set]
 
-[chance 0]
+[chance 1]
 [set characterType]
 [choose]
 characters
@@ -19,9 +23,25 @@ characters
 [/set]
 [set franchise]
 [choose]
+d.va
+overwatch
 azur lane
 nikke
 granblue
+[/choose]
+[/set]
+[/chance]
+
+[chance 5]
+[set characterType]
+[choose]
+myspecies
+[/choose]
+[/set]
+[set franchise]
+[choose]
+pokemon
+anthroids
 [/choose]
 [/set]
 [/chance]
@@ -134,7 +154,7 @@ Outfit
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 90]
 [call choose_franchise_simple]
 [/chance]
 
