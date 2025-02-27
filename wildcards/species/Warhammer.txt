@@ -1,10 +1,10 @@
 (bretonnian prophetess:1.3) <lora:BretonnianProphetess_Vpred:1>
-(sister of averlorn:1.3) <lora:Sisters_of_Averlorn:0.66>
+(sister of averlorn:1.3) <lora:Sisters_of_Averlorn:1>
 (witch elf:1.3), <lora:WitchElf_Vpred:1> WitchElf
-(wardancer:1.3) <lora:Wardancer:0.66>
-(death hag:1.3), <lora:Death_Hag:0.66> DeathHag
-(frost maiden:1.3), <lora:FrostMaiden:0.66> FrostMaiden
-(bloodwrack medusa:1.3) <lora:Bloodwrack_Medusa:0.66>
+(wardancer:1.3) <lora:Wardancer:1>
+(death hag:1.3), <lora:Death_Hag:1> DeathHag
+(frost maiden:1.3), <lora:FrostMaiden:1> FrostMaiden
+(bloodwrack medusa:1.3) <lora:Bloodwrack_Medusa:1>
 (supreme sorceress:1.3), <lora:Skink_Vpred:1> SupremeSorceress
 (dark elf dreadlord:1.3), <lora:Dreadlord_Vpred:1> DreadLord
 (sorceress:1.3), <lora:DarkElfSorceress_Vpred:1> DESorceress
