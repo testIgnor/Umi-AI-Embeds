@@ -1,3 +1,32 @@
+[function choose_franchise_simple]
+[set characterType]
+[choose]
+characters
+[/choose]
+[/set]
+[set franchise]
+[choose]
+godzilla
+mechagodzilla
+[/choose]
+[/set]
+
+[chance 0]
+[set characterType]
+[choose]
+characters
+[/choose]
+[/set]
+[set franchise]
+[choose]
+azur lane
+nikke
+granblue
+[/choose]
+[/set]
+[/chance]
+[/function]
+
 [function choose_franchise]
 [set characterType]
 characters
@@ -100,13 +129,28 @@ Outfit
 
 [/function]
 
-[call get_artist]
-
 [function main_function]
 
 [call get_artist]
 [call choose_franchise]
+
+[chance 0]
+[call choose_franchise_simple]
+[/chance]
+
 [call set_vars]
+
+[set characterprompt]
+<[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
+[/set]
+
+[chance 0]
+[set characterprompt]
+[choose]
+<[model][pony]>source_furry, (vicar amelia:1.3), bloodborne
+[/choose]
+[/set]
+[/chance]
 
 [set is_hairless]
 [call wildcards/no_hair]
@@ -129,14 +173,14 @@ as a <[ezage][get gender _before=[ _after=]]>
     [/else]
 [/if]
 
-[set character_preset]NSFW, [get gender_short], <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>, [get artist], [get genderprompt], <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
+[set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], [get genderprompt], <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
 
 [set prompt_suffix]
-    [chance 1]
+    [chance 10]
         [call get_preset eff_gen="{get eff_gen}"]
     [/chance]
     [else]
-        [chance 90]
+        [chance 80]
             <[imageformat]>, <[MyLocation]>, [choose][call wildcards/myclothing][/choose]
         [/chance]
         [else]
@@ -145,16 +189,13 @@ as a <[ezage][get gender _before=[ _after=]]>
     [/else]
 [/set]
 
-[set umistring][get character_preset], [get prompt_suffix][/set]
-
-[chance 1]
-    [chance 25]
-    [set umistring][get artist], <[LegacyPrompt]>[/set]
-    [/chance]
-    [else]
-    [set umistring][get artist], <[LegacyPrompt][priority]>[/set]
-    [/else]
+[chance 0]
+[set prompt_suffix]
+<[imageformat]>, <[MyLocation]>, high cut crop top hoodie with bikini, breast-exposing crop top hoodie, bikini top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
+[/set]
 [/chance]
+
+[set umistring][get character_preset], [get prompt_suffix][/set]
 
 [set retrieved_string][Umi _has_options][get umistring][/Umi][/set]
 
@@ -167,7 +208,6 @@ as a <[ezage][get gender _before=[ _after=]]>
 [get p_style], [get p_prompt]
 
 [set negative_prompt][get n_style], [get n_prompt][/set]
-
 
 [/function]
 
