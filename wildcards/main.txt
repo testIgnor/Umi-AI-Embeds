@@ -12,6 +12,7 @@ bloodborne
 Warhammer
 ace attorney
 final fantasy
+zelda
 [/choose]
 [/set]
 

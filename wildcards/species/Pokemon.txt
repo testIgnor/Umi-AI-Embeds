@@ -89,3 +89,14 @@
 (ampharos:1.3), <lora:CHARACTER_AMPHAROS_PONY_XL:0.6> Ampharos
 (alolan vulpix:1.3), <lora:POKEMON_ALOLAN_VULPIX:0.6> alolan_vulpix
 (iron valiant:1.3), <lora:IronValiant:0.6> ironvaliantsv, green hair, colored skin, white skin, pink eyes, colored sclera
+(galarian articuno:1.3), <lora:POKEMON_GALARIAN_ARTICUNO:1> galarian_articuno
+(galarian zapdos:1.3), <lora:POKEMON_GALARIAN_ZAPDOS:1> galarian_zapdos
+(galarian moltres:1.3), <lora:POKEMON_GALARIAN_MOLTRES:1> galarian_moltres
+(zygarde:1.3), <lora:Zygarde:1> Zygarde10, dog
+(floatzel:1.3), <lora:Floatzel:1> Floatzel, Two tails, Semi-anthro, Orange fur, Yellow tube
+(flygon:1.3), <lora:Flygon_for_Pony:1> flygon
+(lilligant:1.3), <lora:Lilligant:1> L1LL1G4NT, orange eyes, orange flower, crown, no mouth, white face, white abdomen, leaf arms, leaf hair, plant girl
+(litten:1.3), <lora:Litten_Pokemon_PDXL:1> zzLitten, cat, yellow sclera, colored sclera
+(meowstic:1.3), <lora:POKEMON_MEOWSTIC_ FEMALE:1> meowstic_f
+(meowstic:1.3), <lora:POKEMON_MEOWSTIC_MALE:1> meowstic_m
+(nidorina:1.3), <lora:POKEMON_NIDORINA:1> nidorina
