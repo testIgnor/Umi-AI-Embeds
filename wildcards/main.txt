@@ -33,7 +33,7 @@ granblue
 [/set]
 [/chance]
 
-[chance 5]
+[chance 25]
 [set characterType]
 [choose]
 myspecies
