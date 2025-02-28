@@ -6,7 +6,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-ace attorney
+final fantasy
 [/choose]
 [/set]
 
@@ -149,7 +149,7 @@ Outfit
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 50]
 [call choose_franchise_simple]
 [/chance]
 
@@ -167,7 +167,7 @@ Outfit
 as a <[ezage][get gender _before=[ _after=]]>
 [/set]
 
-[chance 90]
+[chance 0]
 [set characterprompt]
 [choose]
 <[model][illu]>source_anime, [(mia fey:1.3), ace attorney, miafeyspiritdg <lora:Mia Fey DG illuLoRA:1>|(pearl fey:1.0), ace attorney, pearlfeyold <lora:PearlFeyXL:0.75>], brown hair, hair rings, short hair, brown eyes, mole under mouth**(long hair, half updo:1.5), (yellow skin, orange skin, red skin:1.5)**
