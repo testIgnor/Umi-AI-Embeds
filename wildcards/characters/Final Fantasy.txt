@@ -90,6 +90,5 @@
 (ryne waters:1.3), final fantasy, orange hair, long hair, blue eyes, xivrayne <lora:FF_RyneGaia-PONY:1>
 (gaia \(ff14\):1.3), final fantasy, black hair, long hair, blue eyes, xivgaia <lora:FF_RyneGaia-PONY:1>
 (wicked thunder \(ff14\):1.3), final fantasy, tail, multicolored hair, horse tail, glowing eyes, grey hair, pink hair, dark-skinned female, animal ears, horse ears, dark skin, gradient hair, w1ck3d, monster girl, hooves, glowing eyes, striped fur <lora:Wicked_thunder_XIV:1>**(weather, lightning, storm:1.5)**
-(wicked thunder \(ff14\):1.3), final fantasy, tail, multicolored hair, horse tail, glowing eyes, grey hair, pink hair, dark-skinned female, animal ears, horse ears, dark skin, gradient hair, wckthund3r, monster girl, claws, single horn, anthro, white eyes, no pupils, fluffy tail, hooves <lora:wickedthunder:1>**(weather, lightning, storm:1.5)**
 (yaana \(ff14\):1.3), final fantasy, blue hair, cat ears, tail, multicolored hair, pink hair, streaked hair, two-tone hair, dark-skinned female, animal ears, yellow eyes, short hair, cat tail, dark skin, yaana <lora:yaana:1>
 (ysayle dangoulain:1.3), final fantasy, blue eyes, grey hair, pointy ears, long hair, ysayle <lora:ysayle:1>
