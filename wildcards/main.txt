@@ -167,13 +167,12 @@ Outfit
 as a <[ezage][get gender _before=[ _after=]]>
 [/set]
 
-[chance 50]
+[chance 75]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (venat \(ff14\):1.3), final fantasy, long hair, wavy hair, blue eyes, white hair, v3n4t, corrupted <lora:v3n4tv2:1>**(yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>source_anime, (lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>|(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]**(weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>source_anime, (wicked thunder \(ff14\):1.3), final fantasy, tail, multicolored hair, horse tail, glowing eyes, grey hair, pink hair, dark-skinned female, animal ears, horse ears, dark skin, gradient hair, w1ck3d, monster girl, hooves, glowing eyes, striped fur <lora:Wicked_thunder_XIV:1>**(weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (wicked thunder \(ff14\):1.3), final fantasy, tail, multicolored hair, horse tail, glowing eyes, grey hair, pink hair, dark-skinned female, animal ears, horse ears, dark skin, gradient hair, wckthund3r, monster girl, claws, single horn, anthro, white eyes, no pupils, fluffy tail, hooves <lora:wickedthunder:1>**(weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
+<[model][pony]>source_anime, (wicked thunder \(ff14\):1.3), final fantasy, tail, multicolored hair, horse tail, glowing eyes, grey hair, pink hair, dark-skinned female, animal ears, horse ears, dark skin, gradient hair, wckthund3r, monster girl, claws, single horn, anthro, white eyes, no pupils, fluffy tail, hooves <lora:wickedthunder:1>**(weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 
