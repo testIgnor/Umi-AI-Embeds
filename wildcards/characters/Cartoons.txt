@@ -10,8 +10,8 @@
 <[model][pony]>source_furry, (alvin seville:1.3), <lora:Alvin_Seville_Alvin_and_the_chipmunks_Pony_XL:0.75> blue eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
 <[model][pony]>source_furry, (simon seville:1.3), <lora:Ghu:0.75> blue eyes, glasses, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
 <[model][pony]>source_furry, (theodore seville:1.3), <lora:Theodore_Seville:0.75> Green eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
-<[model][illu]>source_anime, (coraline jones:1.3)
-<[model][illu]>source_anime, (jade chan:1.3)
-<[model][illu]>source_anime, (penny gadget:1.3)
-<[model][pony]>source_furry, (kitty katswell:1.3), t.u.f.f. puppy
-<[model][pony]>source_furry, (brandy harrington:1.3), brandy and mr. whiskers
+<[model][illu]>source_anime, (coraline jones:1.3), <lora:checkpoint-e100_s1000:1> blue hair, bob cut, medium hair, hairclip, brown eyes, freckles
+<[model][illu]>source_anime, (jade chan:1.3), <lora:Jade_Chan_Jackie_Chan_Adventures_Illustrious:1> jade_jca, black hair, short hair, brown eyes
+<[model][illu]>source_anime, (penny gadget:1.3), <lora:PennyNoobXL_byKonan:1> penny, blonde hair, twintails, blunt bangs, blue eyes
+<[model][pony]>source_furry, (kitty katswell:1.3), t.u.f.f. puppy, <lora:kittykatswell-guy-PONYv1:1> kittykatswell, furry, animal ears
+<[model][pony]>source_furry, (brandy harrington:1.3), brandy and mr. whiskers, <lora:BHITS:1> BHITS
