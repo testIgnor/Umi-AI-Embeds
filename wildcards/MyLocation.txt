@@ -1,4 +1,4 @@
-outdoors, (tropical beach with the ocean in the background:1.2)**(beach ball:2.0), (submerged, underwater, standing in water, wading:2.0)**
+outdoors, (tropical beach with the ocean in the background:1.2)**(beach ball:2.0)**
 outdoors, (on the street of a medieval fantasy town:1.4)
 (in a corporate office:1.2)
 (in an abandoned warehouse:1.3)
@@ -9,7 +9,7 @@ outdoors, (on the street of a medieval fantasy town:1.4)
 (on the rooftops in a futuristic cyberpunk city:1.4)
 (in a bedroom:1.4)
 (in a fancy hotel penthouse:1.4)
-(in a snowy nordic forest:1.2)**(submerged, underwater, standing in water, wading:2.0)**
+(in a snowy nordic forest:1.2)
 (vaporwave background:1.2)
 (in a holy cathedral:1.4)
 (fashion runway:1.3)**(airport, airplane, tarmac, road:2.0)**
