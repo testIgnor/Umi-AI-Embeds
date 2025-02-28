@@ -6,17 +6,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-godzilla
-mechagodzilla
-bloodborne
-Warhammer
 ace attorney
-final fantasy
-zelda
 [/choose]
 [/set]
 
-[chance 1]
+[chance 0]
 [set characterType]
 [choose]
 characters
@@ -33,7 +27,7 @@ granblue
 [/set]
 [/chance]
 
-[chance 25]
+[chance 0]
 [set characterType]
 [choose]
 myspecies
@@ -155,7 +149,7 @@ Outfit
 [call get_artist]
 [call choose_franchise]
 
-[chance 90]
+[chance 0]
 [call choose_franchise_simple]
 [/chance]
 
