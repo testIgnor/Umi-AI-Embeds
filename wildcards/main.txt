@@ -7,7 +7,6 @@ characters
 [set franchise]
 [choose]
 final fantasy
-sonic
 [/choose]
 [/set]
 
