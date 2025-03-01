@@ -7,6 +7,7 @@ characters
 [set franchise]
 [choose]
 final fantasy
+sonic
 [/choose]
 [/set]
 
@@ -27,7 +28,7 @@ granblue
 [/set]
 [/chance]
 
-[chance 0]
+[chance 10]
 [set characterType]
 [choose]
 myspecies
@@ -36,7 +37,6 @@ myspecies
 [set franchise]
 [choose]
 pokemon
-anthroids
 [/choose]
 [/set]
 [/chance]
@@ -149,7 +149,7 @@ Outfit
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 90]
 [call choose_franchise_simple]
 [/chance]
 
