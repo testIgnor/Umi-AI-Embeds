@@ -176,7 +176,7 @@ as a <[ezage][get gender _before=[ _after=]]>
 [/set]
 
 [set genderprompt]
-as a <[ezage][upper][get gender _before=[ _after=]]>
+as a <[ezage][get gender _before=[ _after=]]>
 [/set]
 [/chance]
 
