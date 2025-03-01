@@ -10,7 +10,7 @@ final fantasy
 [/choose]
 [/set]
 
-[chance 0]
+[chance 5]
 [set characterType]
 [choose]
 characters
@@ -20,9 +20,7 @@ characters
 [choose]
 d.va
 overwatch
-azur lane
-nikke
-granblue
+lol
 [/choose]
 [/set]
 [/chance]
