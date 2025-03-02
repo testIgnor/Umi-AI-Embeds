@@ -6,7 +6,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-final fantasy
+pokemon
 [/choose]
 [/set]
 
@@ -146,7 +146,7 @@ Outfit
 [call get_artist]
 [call choose_franchise]
 
-[chance 90]
+[chance 0]
 [call choose_franchise_simple]
 [/chance]
 
