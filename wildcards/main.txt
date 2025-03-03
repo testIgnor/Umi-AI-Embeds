@@ -164,11 +164,10 @@ Outfit
 as a <[ezage][get gender _before=[ _after=]]>
 [/set]
 
-[chance 0]
+[chance 33]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>|(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]**(weather, lightning, storm:1.5), (yellow skin, orange skin, red skin:1.5)**
-<[model][pony]>source_furry, (wolbra:1.3), <lora:Wolbra_v2:1> Wolbra, (wolf ears, snake hood, hybrid:1.2), [wolf anthro|cobra anthro], furry**(hair, hat, headwear:2.0)**
+<[model][illu]>source_anime, (d.mon \(overwatch\):1.3), Yuna Lee, black hair, medium hair, korean, green eyes <lora:Dmon ill-000045:0.75>**(d.va \(overwatch\):1.5), (headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 
