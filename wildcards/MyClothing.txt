@@ -52,7 +52,7 @@ bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow g
 <lora:0895 DVA fan clothing_v1_pony:1> ruanyi0895, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), blue bodysuit, skin tight, bunny print, gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
-<lora:BadEndPrecureIL:1> black bad end bodysuit, [call wildcards/colors] frills, [call wildcards/colors] miniskirt, flared sleeves, black bat headband, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:BadEndPrecureIL:1> black bad end bodysuit, [choose][call wildcards/colors][/choose] frills, [choose][call wildcards/colors][/choose] miniskirt, flared sleeves, black bat headband, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Alice_Nikke_Cosplay_-_IllustriousXL_r1:1> alice_cosplay, skintight
 <lora:Earthbound_-_Alice_Nikke_Cosplay_-_IllustriousXL_r1:1> alice_cosplay, skintight, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay
@@ -96,7 +96,7 @@ glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]
 blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos, <lora:Lunas-Blackedwear-Concept-SDXL-A1:1>
 <lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:St._Louis_Luxurious_Wheels:1> L0x0r100s_Wh33l5, silver dress, halterneck, backless dress, halter dress, revealing clothes, <[covered][upper][get eff_gen _before=[ _after=]]>
-<lora:Strapless_Pothole_Tube_Dress_SKNSFW:1> Strapless_Pothole_Tube_Dress_SKNSFW, short dress, strapless dress, __colors__ dress, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Strapless_Pothole_Tube_Dress_SKNSFW:1> Strapless_Pothole_Tube_Dress_SKNSFW, short dress, strapless dress, [choose][call wildcards/colors][/choose] dress, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 <lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
@@ -148,7 +148,7 @@ wearing [choose][call wildcards/species/animals][/choose] shaped mask and hood, 
 [tags clothing]
 naked coat, <[eznude][get eff_gen _before=[ _after=]]>
 nude with lesbian pride flag draped over body, <[eznude][get eff_gen _before=[ _after=]]>
-fully clothed, __colors__ china dress, qipao, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, [choose][call wildcards/colors][/choose] china dress, qipao, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 naked raincoat, <[eznude][get eff_gen _before=[ _after=]]>
 cupless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
@@ -189,7 +189,7 @@ functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
 slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingshotIllustrious:1>
 (symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>
 naked cloak, <[eznude][get eff_gen _before=[ _after=]]>
-fully clothed, __colors__ kimono, kimono, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, [choose][call wildcards/colors][/choose] kimono, kimono, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
 ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, loose dress gown, covered nipples, <[ezbottomless][get eff_gen _before=[ _after=]]>
 fully clothed, impossible clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
