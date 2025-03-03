@@ -1,23 +1,27 @@
 [choose]
 [chance 75]
-by tarakanovich <lora:tarakanovich1.5:1>
-by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
-by johndoe <lora:johndoe:0.7>
-by johndoe <lora:John_Doe_Style:0.7>
-by johndoe <lora:JohnDoe_lora:0.7>
-by pixelsketcher
-by doppel
-by slightlysimian
-by girlsay
-by wjs07, <lora:WJS07_Illustrious:0.6> WJS07style
-by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
-by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
-by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
-by exlic, <lora:ExLic_style:1> ExLic_style
-by rino99 <lora:fallen_ai_RINO99_style:1>
-by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
-by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
     [chance 50]
+    by tarakanovich <lora:tarakanovich1.5:1>
+    by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
+    by johndoe <lora:johndoe:0.7>
+    by johndoe <lora:John_Doe_Style:0.7>
+    by johndoe <lora:JohnDoe_lora:0.7>
+    by pixelsketcher
+    by doppel
+    by slightlysimian
+    by girlsay
+    by wjs07, <lora:WJS07_Illustrious:0.7> WJS07style
+    by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
+    by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
+    by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
+    by exlic, <lora:ExLic_style:1> ExLic_style
+    by rino99 <lora:fallen_ai_RINO99_style:1>
+    by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
+    by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
+    by diathorn <lora:diathorn_style_illustrious01_v3:0.7>
+    by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.7>
+    [/chance]
+    [else]
     by dandon fuga
     by [dandon fuga|sakimichan]
     by aroma sensei
@@ -31,13 +35,13 @@ by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
     by johndoe <lora:johndoe:0.7>
     by johndoe <lora:John_Doe_Style:0.7>
     by johndoe <lora:JohnDoe_lora:0.7>
-    by wjs07, <lora:WJS07_Illustrious:0.6> WJS07style
+    by wjs07, <lora:WJS07_Illustrious:0.7> WJS07style
     by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
-    by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.6>
+    by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.7>
     by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
     by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:1> ExpresHGothicNeonIncase
-    by diathorn <lora:diathorn_style_illustrious01_v3:0.6>
-    by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.6>
+    by diathorn <lora:diathorn_style_illustrious01_v3:0.7>
+    by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.7>
     by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
     by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
     by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:1>
@@ -93,7 +97,7 @@ by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
     by rz54
     by goopyarts
     by jay naylor
-    [/chance]
+    [/else]
 [/chance]
 [else]
 by dandon fuga
@@ -113,8 +117,8 @@ by exlic, <lora:ExLic_style:1> ExLic_style
 by sakimichan
 by badcompzero
 by streachybear
-by wjs07, <lora:WJS07_Illustrious:0.6> WJS07style
-by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.6>
+by wjs07, <lora:WJS07_Illustrious:0.7> WJS07style
+by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.7>
 by afrobull
 by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
 by tarakanovich <lora:tarakanovich1.5:1>
@@ -130,8 +134,8 @@ by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:1> Expr
 by ayya sap, <lora:ayyasap_pony_v3:1> ayyapsap_style, ayyapsap, source_artwork
 by andava
 by ponpu
-by diathorn <lora:diathorn_style_illustrious01_v3:0.6>
-by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.6>
+by diathorn <lora:diathorn_style_illustrious01_v3:0.7>
+by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.7>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:1>
 by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
