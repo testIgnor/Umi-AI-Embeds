@@ -190,7 +190,7 @@ as a <[ezage][get gender _before=[ _after=]]>
     [/else]
 [/if]
 
-[set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], [get genderprompt], <[EZEmotion]>, <[GazeFormat]>[chance 15], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
+[set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], [get genderprompt], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
 
 [set prompt_suffix]
     [chance 10]
