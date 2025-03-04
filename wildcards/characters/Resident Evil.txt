@@ -1,9 +1,10 @@
 (jill valentine:1.3), resident evil, blue eyes, short hair, brown hair
+(jill valentine:1.3), resident evil, jill valentine \(resident evil 5\), blue eyes, short hair, blonde hair, short ponytail, <lora:Jill_Valentine_Resident_Evil_5_Battlesuit_Illustrious:1> jillre5, ponytail
 (ada wong:1.3), resident evil, brown eyes, short hair, black hair
 (alcina dimitrescu:1.3), resident evil, pale skin, short hair, yellow eyes, black hair
 (claire redfield:1.3), resident evil, long hair, blue eyes, short hair, brown hair
 (rebecca chambers:1.3), resident evil, blue eyes, short hair, brown hair
-(sheva alomar:1.3), resident evil, dark-skinned female, brown eyes, brown hair, short hair, dark skin
-(nemesis \(resident evil\):1.3), resident evil, blue eyes, short hair, brown hair
+(sheva alomar:1.3), resident evil, dark-skinned female, brown eyes, brown hair, short hair, dark skin, very dark skin
+(nemesis \(resident evil\):1.3), resident evil
 (sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair
 (sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair, ifsherry <lora:SherryBirkinIL:1>
