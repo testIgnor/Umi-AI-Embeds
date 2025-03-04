@@ -75,6 +75,13 @@ myspecies
 futanari
 male
 [/choose][/set][/chance]
+
+[chance 100]
+[set gender]
+futanari
+[/set]
+[/chance]
+
 [switch gender]
     [case "female"]
         [set gender_short]1girl[/set]
@@ -164,11 +171,10 @@ Outfit
 as a <[ezage][get gender _before=[ _after=]]>
 [/set]
 
-[chance 100]
+[chance 0]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (lady liberty:1.0), (StatueOfLiberty4:1.3), the statue of liberty, (aqua eyes, no pupils, aqua green skin, light green skin, colored skin:1.6), tall female, (giantess:0.33) <lora:StatueOfLiberty:1>**(statue, people, small people, people in foreground, people in background:1.5)**
-<[model][illu]>source_anime, (diablo:1.3), diablo, <lora:DiabloD3:0.75> monster, horns, claws, tail, teeth, sharp teeth, spikes, yellow eyes, glowing, glowing eyes
+<[model][illu]>source_anime, (diablo:1.3), <lora:DiabloD3:1> monster, horns, claws, tail, teeth, sharp teeth, spikes, yellow eyes, glowing, glowing eyes, red skin
 [/choose]
 [/set]
 
