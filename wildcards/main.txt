@@ -74,10 +74,7 @@ myspecies
 
 [chance 0]
 [set gender]
-[choose]
-futanari
 male
-[/choose]
 [/set]
 [/chance]
 
