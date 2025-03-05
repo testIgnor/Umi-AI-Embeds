@@ -78,7 +78,7 @@ male
 [/set]
 [/chance]
 
-[chance 50]
+[chance 100]
 [set gender]
 futanari
 [/set]
