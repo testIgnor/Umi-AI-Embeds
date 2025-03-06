@@ -276,7 +276,7 @@ Main
 [chance 30]
 [set characterprompt]
 [choose]
-<[model][illu]>(cosmos\(final fantasy\):1.3), final fantasy, <lora:Cosmos:0.8> c0sm0s, blonde hair, blue eyes, long hair**pointed ears, cosmos \(plant\), cosmos \(flower\), (yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>(cosmos\(final fantasy\):1.3), final fantasy, <lora:Cosmos:0.8> c0sm0s, blonde hair, blue eyes, long hair**cloud strife, pointed ears, cosmos \(plant\), cosmos \(flower\), (yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 
