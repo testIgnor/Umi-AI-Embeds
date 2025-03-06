@@ -16,6 +16,6 @@
 <[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3), <lora:DAGASI_Dagashi_SegaSonic_Miles_Tails_Prower_Character_PonyXL:1> tails \(sonic\)
 <[model][pony]>source_furry, (cosmo the seedrian:1.3), blue eyes, cone hair bun, green hair, <lora:cosmo-il:1> cosmotheseedrian, cosmochild, short hair
 <[model][pony]>source_furry, (cosmo the seedrian:1.3), blue eyes, cone hair bun, green hair, <lora:cosmo-il:1> cosmotheseedrian, cosmoadult, long hair
-<[model][illu]>source_anime, (princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06_Illustrious:1> princesselise**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06_Illustrious:0.8> princesselise**(yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>source_anime, (princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06:1> princesselise_s06**(yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>source_anime, (topaz \(sonic\):0.0), (topaz:1.3), short hair, brown hair, pixie cut, blue eyes, earrings, lipstick, <lora:topaz-il:1> sxtopaz**(yellow skin, orange skin, red skin:1.5)**
