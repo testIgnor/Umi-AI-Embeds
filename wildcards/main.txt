@@ -205,9 +205,6 @@ Sets sd model based on retrieved_string
 [elif "'Illu' in sd_model"]
     [set model]illu[/set]
 [/elif]
-[elif "'everclear' in sd_model"]
-    [set model]pony[/set]
-[/elif]
 
 [set p_style]
 [filter_tags style=positive model="{get model}" _must_match=all]
