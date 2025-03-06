@@ -278,8 +278,8 @@ Main
 [chance 95]
 [set characterprompt]
 [choose]
-(princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06_Illustrious:1> princesselise**(furry, anthro:1.5), (yellow skin, orange skin, red skin:1.5)**
-(princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06:1> princesselise_s06**(furry, anthro:1.5), (yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06_Illustrious:1> princesselise**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06:1> princesselise_s06**(yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>(cosmos\(final fantasy\):1.3), final fantasy, <lora:Cosmos:0.75> c0sm0s**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
