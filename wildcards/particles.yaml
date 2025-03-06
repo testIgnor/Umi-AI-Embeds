@@ -288,25 +288,20 @@
     - soft
     - huge
     - upper
-'{33%<[FutaAddon][Beast]>||<[FutaAddon][--Beast]>}':
-  Description:
-    - Futanari Wrapper
-  Tags:
-    - Particle
-    - ezFuta
-    - Branching
 '(futanari, dickgirl:1.3), <[ezpenis]>**(disembodied penis:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Futanari Add-on
   Tags:
     - Particle
     - FutaAddon
+    - Standard
 '(futanari, dickgirl:1.3), <[ezpenis]>**(disembodied penis:1.5), (testicles, balls, full package futanari:1.4), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Futanari Add-on
   Tags:
     - Particle
     - FutaAddon
+    - Standard
 '(intravaginal futanari, futanari:1.3), <[ezpenis][--lower][hard]>, <[ezpussy]>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (testicles, balls, full package futanari:1.7), (disembodied penis:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Futanari Add-on
@@ -315,12 +310,92 @@
     - FutaAddon
     - IntravaginalFutanari
     - Intravaginal
+    - Standard
 '(clitoral futanari, futanari:1.3), clitoral penis, penis instead of clitoris, <[ezpenis]>, <[ezpussy][clitless]>**(vaginal sex, cowgirl, vaginal, vaginal penetration:2.0), (testicles, balls, full package futanari:1.7), (disembodied penis:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Futanari Add-on
   Tags:
     - Particle
     - FutaAddon
+    - Standard
+'(futanari, dickgirl, magical penis, glowing __colors__ penis:1.3), <[ezpenis]>**(condom:2.0), (disembodied penis:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Magical Futanari Add-on
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezmagicalfuta
+    - Standard
+'(futanari, dickgirl, magical penis, glowing __colors__ penis:1.3), <[ezpenis]>**(condom:2.0), (testicles, balls, full package futanari:1.4), (disembodied penis:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Magical Futanari Add-on
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezmagicalfuta
+    - Standard
+'(strapon, strap-on, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapon, strap-on, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (testicles, balls, full package futanari:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapless strapon, __colors__ strapon:1.5), strap-on, strapless, <[ezpenis][hard][--lower]>**(harness, straps:2.0), (disembodied penis:1.5), (penis:1.3), (testicles, balls, full package futanari:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapless strapon, strapless dildo, __colors__ strapon:1.5), strap-on, strapless, <[ezpenis][hard][--lower]>**(harness, straps:2.0), (disembodied penis:1.5), (penis:1.3), (testicles, balls, full package futanari:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'[<[ezstrapon]>|(precum, chastity cage:1.5), <[ezpenis][soft][lower]>]**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Strapon with Chastity
+  Tags:
+    - Particle
+    - FutaAddon
+    - Strapon
+    - Chastity
+'<[ezstrapon]>, <lora:Chastity_cage_with_strap-on:1> Chastitydildo, Chastity cage, Strap-on dildo, (precum, chastity cage:1.5)**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Strapon with Chastity
+  Tags:
+    - Particle
+    - FutaAddon
+    - Strapon
+    - Chastity
+'(futanari, dickgirl:1.3), <[ezpenis][soft][--upper]>, (precum, chastity cage:1.5)**(male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Futanari with Chastity
+  Tags:
+    - Particle
+    - FutaAddon
+    - Chastity
+'(futanari, dickgirl:1.3), <[ezpenis][soft][--upper]>, (precum, chastity cage:1.5)**(testicles, balls, full package futanari:1.4), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Futanari with Chastity
+  Tags:
+    - Particle
+    - FutaAddon
+    - Chastity
 '(futanari, horse futanari, dickgirl, horse penis:1.3), <[ezpenis][hard][--lower]>**(disembodied penis, horse, animal ears:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Horse futanari
@@ -387,6 +462,7 @@
     - Particle
     - FutaAddon
     - ezrobotfuta
+    - Aberration
 '(futanari, robot futanari, dickgirl, robot penis, mechanical penis:1.3), <[ezpenis][--lower]>**(disembodied penis, robot, robot joints:1.5), (testicles, balls, full package futanari:1.4), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Robot futanari
@@ -394,72 +470,7 @@
     - Particle
     - FutaAddon
     - ezrobotfuta
-'(strapon, strap-on, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Strapon
-  Tags:
-    - Particle
-    - FutaAddon
-    - ezstrapon
-'(strapon, strap-on, __colors__ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (testicles, balls, full package futanari:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Strapon
-  Tags:
-    - Particle
-    - FutaAddon
-    - ezstrapon
-'(strapless strapon, __colors__ strapon:1.5), strap-on, strapless, <[ezpenis][hard][--lower]>**(harness, straps:2.0), (disembodied penis:1.5), (penis:1.3), (testicles, balls, full package futanari:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Strapon
-  Tags:
-    - Particle
-    - FutaAddon
-    - ezstrapon
-'(strapless strapon, strapless dildo, __colors__ strapon:1.5), strap-on, strapless, <[ezpenis][hard][--lower]>**(harness, straps:2.0), (disembodied penis:1.5), (penis:1.3), (testicles, balls, full package futanari:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Strapon
-  Tags:
-    - Particle
-    - FutaAddon
-    - ezstrapon
-'[<[ezstrapon]>|(precum, chastity cage:1.5), <[ezpenis][soft][lower]>]**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Strapon with Chastity
-  Tags:
-    - Particle
-    - FutaAddon
-'<[ezstrapon]>, <lora:Chastity_cage_with_strap-on:1> Chastitydildo, Chastity cage, Strap-on dildo, (precum, chastity cage:1.5)**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Strapon with Chastity
-  Tags:
-    - Particle
-    - FutaAddon
-'(futanari, dickgirl:1.3), <[ezpenis][soft][--upper]>, (precum, chastity cage:1.5)**(male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Futanari with Chastity
-  Tags:
-    - Particle
-    - FutaAddon
-'(futanari, dickgirl:1.3), <[ezpenis][soft][--upper]>, (precum, chastity cage:1.5)**(testicles, balls, full package futanari:1.4), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Futanari with Chastity
-  Tags:
-    - Particle
-    - FutaAddon
-'(futanari, dickgirl, magical penis, glowing __colors__ penis:1.3), <[ezpenis]>**(condom:2.0), (disembodied penis:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Magical Futanari Add-on
-  Tags:
-    - Particle
-    - FutaAddon
-    - ezmagicalfuta
-'(futanari, dickgirl, magical penis, glowing __colors__ penis:1.3), <[ezpenis]>**(condom:2.0), (testicles, balls, full package futanari:1.4), (disembodied penis:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
-  Description:
-    - Magical Futanari Add-on
-  Tags:
-    - Particle
-    - FutaAddon
-    - ezmagicalfuta
+    - Aberration
 '(futanari, dickgirl, demon penis, demonic penis:1.3), glowing {red||purple||black||white} penis, <[ezpenis]>**(disembodied penis, condom:1.5), (horns, demon horns, tail, demon tail, wings, demon wings:2.0), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Demon Futanari Add-on
@@ -467,6 +478,7 @@
     - Particle
     - FutaAddon
     - ezdemonfuta
+    - Aberration
 '(futanari, dickgirl, demon penis, demonic penis:1.3), glowing {red||purple||black||white} penis, <[ezpenis]>**(disembodied penis, condom:1.5), (testicles, balls, full package futanari:1.4), (horns, demon horns, tail, demon tail, wings, demon wings:2.0), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Demon Futanari Add-on
@@ -474,6 +486,7 @@
     - Particle
     - FutaAddon
     - ezdemonfuta
+    - Aberration
 '(monster futanari:1.4), (parasite futanari:1.1), (intravaginal futanari:1.3), (monster penis, parasite penis, cock parasite:1.3), (giving birth to a penis:1.2), (parasite in pussy, worm in pussy, tentacle penis:0.8), <[ezpussy]>, <[ezpenis][hard][--lower]>, (worm in urethra:0.75), (peeing blood:0.25), vaginal object insertion, {red||purple||black||white} penis, (barbed penis:1.2), foreign object penis**(condom:2.0), double penetration, anal penetration, anal object insertion, anal, disembodied penis, dildo, sex toy, (testicles, balls, full package futanari:1.4)**':
   Description:
     - Monstrous Futanari
@@ -481,6 +494,7 @@
     - Particle
     - FutaAddon
     - ezmonsterfuta
+    - Aberration
 '(monster futanari:1.4), (parasite futanari:1.1), (intravaginal futanari:1.3), (monster penis, parasite penis, cock parasite:1.3), (giving birth to a penis:1.2), (parasite in pussy, worm in pussy, tentacle penis:0.8), <[ezpussy]>, <[ezpenis][hard][--lower]>, (worm in urethra:0.75), (peeing blood:0.25), vaginal object insertion, {red||purple||black||white} penis, (barbed penis:1.2), foreign object penis, {red||purple||black||white} testicles, (monstrous testicles:1.2), full package futanari**(condom:2.0), double penetration, anal penetration, anal object insertion, anal, disembodied penis, dildo, sex toy**':
   Description:
     - Monstrous Futanari
@@ -488,6 +502,7 @@
     - Particle
     - FutaAddon
     - ezmonsterfuta
+    - Aberration
 '(monster futanari:1.4), (parasite futanari:1.1), (intravaginal futanari:1.3), (monster penis, parasite penis, cock parasite:1.3), (giving birth to a penis:1.2), (parasite in pussy, worm in pussy, tentacle penis:0.8), <[ezpussy]>, <[ezpenis][hard][--lower]>, (worm in urethra:0.75), (peeing blood:0.25), vaginal object insertion, {red||purple||black||white} penis, (barbed penis:1.2), foreign object penis, (eyeballs on penis:1.2)**(condom:2.0), double penetration, anal penetration, anal object insertion, anal, disembodied penis, dildo, sex toy, (testicles, balls, full package futanari:1.4)**':
   Description:
     - Monstrous Futanari
@@ -495,6 +510,7 @@
     - Particle
     - FutaAddon
     - ezmonsterfuta
+    - Aberration
 '(monster futanari:1.4), (parasite futanari:1.1), (intravaginal futanari:1.3), (monster penis, parasite penis, cock parasite:1.3), (giving birth to a penis:1.2), (parasite in pussy, worm in pussy, tentacle penis:0.8), <[ezpussy]>, <[ezpenis][hard][--lower]>, (worm in urethra:0.75), (peeing blood:0.25), vaginal object insertion, {red||purple||black||white} penis, (barbed penis:1.2), foreign object penis, {red||purple||black||white} testicles, (monstrous testicles:1.2), full package futanari, (eyeballs on penis:1.2)**(condom:2.0), double penetration, anal penetration, anal object insertion, anal, disembodied penis, dildo, sex toy**':
   Description:
     - Monstrous Futanari
@@ -502,6 +518,7 @@
     - Particle
     - FutaAddon
     - ezmonsterfuta
+    - Aberration
 '(monster futanari:1.4), (parasite futanari:1.1), (intravaginal futanari:1.3), (monster penis, parasite penis, cock parasite:1.3), (giving birth to a penis:1.2), (parasite in pussy, worm in pussy, tentacle penis:0.8), <[ezpussy]>, <[ezpenis][hard][--lower]>, (worm in urethra:0.75), (peeing blood:0.25), vaginal object insertion, {red||purple||black||white} penis, (barbed penis:1.2), foreign object penis, (teeth on penis, penis dentata:1.2)**(condom:2.0), double penetration, anal penetration, anal object insertion, anal, disembodied penis, dildo, sex toy, (testicles, balls, full package futanari:1.4)**':
   Description:
     - Monstrous Futanari
@@ -509,6 +526,7 @@
     - Particle
     - FutaAddon
     - ezmonsterfuta
+    - Aberration
 '(monster futanari:1.4), (parasite futanari:1.1), (intravaginal futanari:1.3), (monster penis, parasite penis, cock parasite:1.3), (giving birth to a penis:1.2), (parasite in pussy, worm in pussy, tentacle penis:0.8), <[ezpenis][hard][--lower]>, <[ezpussy]>, (worm in urethra:0.75), (peeing blood:0.25), vaginal object insertion, {red||purple||black||white} penis, (barbed penis:1.2), foreign object penis, {red||purple||black||white} testicles, (monstrous testicles:1.2), full package futanari, (teeth on penis, penis dentata:1.2)**(condom:2.0), double penetration, anal penetration, anal object insertion, anal, disembodied penis, dildo, sex toy**':
   Description:
     - Monstrous Futanari
@@ -516,6 +534,7 @@
     - Particle
     - FutaAddon
     - ezmonsterfuta
+    - Aberration
 '(parasite futanari:1.4), (intravaginal futanari:1.3), (parasite penis, cock parasite:1.3), (parasite:1.1), (insect penis:1.2), <[ezpenis][hard][--lower]>, <[ezpussy]>, (parasite in pussy, worm in pussy:1.1), (worm in urethra:0.75), vaginal object insertion, {red||purple||black||white} penis, (barbed penis:1.2), foreign object penis**(condom:2.0), double penetration, anal penetration, anal object insertion, anal, disembodied penis, dildo, sex toy, (testicles, balls, full package futanari:1.4)**':
   Description:
     - Parasite Futanari
@@ -523,6 +542,7 @@
     - Particle
     - FutaAddon
     - ezparasitefuta
+    - Aberration
 '(parasite futanari:1.4), (intravaginal futanari:1.3), (parasite penis, cock parasite:1.3), (parasite:1.1), (insect penis:1.2), <[ezpenis][hard][--lower]>, <[ezpussy]>, (parasite in pussy, worm in pussy:1.1), (worm in urethra:0.75), vaginal object insertion, {red||purple||black||white} penis, (barbed penis:1.2), {red||purple||black||white} testicles, (parasite testicles:1.2), full package futanari, foreign object penis**(condom:2.0), double penetration, anal penetration, anal object insertion, anal, disembodied penis, dildo, sex toy**':
   Description:
     - Parasite Futanari
@@ -530,6 +550,7 @@
     - Particle
     - FutaAddon
     - ezparasitefuta
+    - Aberration
 '(futanari, dickgirl, (robot penis, mechanical penis:1.5), dragon penis, <[ezpenis][--lower]>, precum, cum on penis, cum, cumshot:1.2)**(testicles, balls, full package futanari:1.4), (male, man, 1boy, 2boys, 3boys:2.0)**':
   Description:
     - Mechagodzilla Futanari

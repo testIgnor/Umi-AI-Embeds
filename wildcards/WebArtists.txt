@@ -1,103 +1,103 @@
 [choose]
 [chance 75]
-    [chance 50]
-    by tarakanovich <lora:tarakanovich1.5:1>
-    by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
-    by johndoe <lora:johndoe:0.7>
-    by johndoe <lora:John_Doe_Style:0.7>
-    by johndoe <lora:JohnDoe_lora:0.7>
-    by pixelsketcher
-    by doppel
-    by slightlysimian
-    by girlsay
-    by wjs07, <lora:WJS07_Illustrious:0.7> WJS07style
-    by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
-    by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
-    by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
-    by exlic, <lora:ExLic_style:1> ExLic_style
-    by rino99 <lora:fallen_ai_RINO99_style:1>
-    by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
-    by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
-    by diathorn <lora:diathorn_style_illustrious01_v3:0.7>
-    by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.7>
-    [/chance]
-    [else]
-    by dandon fuga
-    by [dandon fuga|sakimichan]
-    by aroma sensei
-    by personal ami
-    by andava
-    by ponpu
-    by [personal ami|personal ami, (aroma sensei:0.5)] <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
-    by tarakanovich <lora:tarakanovich1.5:1>
-    by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
-    by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
-    by johndoe <lora:johndoe:0.7>
-    by johndoe <lora:John_Doe_Style:0.7>
-    by johndoe <lora:JohnDoe_lora:0.7>
-    by wjs07, <lora:WJS07_Illustrious:0.7> WJS07style
-    by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
-    by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.7>
-    by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
-    by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:1> ExpresHGothicNeonIncase
-    by diathorn <lora:diathorn_style_illustrious01_v3:0.7>
-    by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.7>
-    by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
-    by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
-    by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:1>
-    by exlic, <lora:ExLic_style:1> ExLic_style
-    by rino99 <lora:fallen_ai_RINO99_style:1>
-    by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
-    by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
-    by dosh
-    by utterangle
-    by redwolfxiii
-    by goonie-san
-    by tril-mizzrim
-    by photonoko
-    by nelly63
-    by chunie
-    by nowandlater
-    by domasarts
-    by seibear
-    by maldu
-    by hinar miler
-    by notglacier
-    by kluclew
-    by redvais
-    by dafka
-    by romarom
-    by macmegagerc
-    by its-holt
-    by pixelsketcher
-    by spuydjeks
-    by renabu
-    by mykiio
-    by matemi
-    by johnfoxart
-    by healingpit
-    by ventkazemaru
-    by audrarius
-    by artmarshmallow
-    by tsukune minaga
-    by whisperingfornothing
-    by kobradraws
-    by raptoral
-    by mykiio
-    by doppel
-    by cotora
-    by slightlysimian
-    by epicbassface
-    by girlsay
-    by himeragoldtail
-    by morticus
-    by raikissu
-    by rapistwerewolf
-    by nakimayo
-    by rz54
-    by goopyarts
-    by jay naylor
-    [/else]
+[chance 50]
+by tarakanovich <lora:tarakanovich1.5:1>
+by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
+by johndoe <lora:johndoe:0.7>
+by johndoe <lora:John_Doe_Style:0.7>
+by johndoe <lora:JohnDoe_lora:0.7>
+by pixelsketcher
+by doppel
+by slightlysimian
+by girlsay
+by wjs07, <lora:WJS07_Illustrious:0.7> WJS07style
+by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
+by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
+by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
+by exlic, <lora:ExLic_style:1> ExLic_style
+by rino99 <lora:fallen_ai_RINO99_style:1>
+by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
+by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
+by diathorn <lora:diathorn_style_illustrious01_v3:0.7>
+by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.7>
+[/chance]
+[else]
+by dandon fuga
+by [dandon fuga|sakimichan]
+by aroma sensei
+by personal ami
+by andava
+by ponpu
+by [personal ami|personal ami, (aroma sensei:0.5)] <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
+by tarakanovich <lora:tarakanovich1.5:1>
+by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
+by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
+by johndoe <lora:johndoe:0.7>
+by johndoe <lora:John_Doe_Style:0.7>
+by johndoe <lora:JohnDoe_lora:0.7>
+by wjs07, <lora:WJS07_Illustrious:0.7> WJS07style
+by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
+by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.7>
+by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
+by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:1> ExpresHGothicNeonIncase
+by diathorn <lora:diathorn_style_illustrious01_v3:0.7>
+by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.7>
+by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
+by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
+by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:1>
+by exlic, <lora:ExLic_style:1> ExLic_style
+by rino99 <lora:fallen_ai_RINO99_style:1>
+by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
+by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
+by dosh
+by utterangle
+by redwolfxiii
+by goonie-san
+by tril-mizzrim
+by photonoko
+by nelly63
+by chunie
+by nowandlater
+by domasarts
+by seibear
+by maldu
+by hinar miler
+by notglacier
+by kluclew
+by redvais
+by dafka
+by romarom
+by macmegagerc
+by its-holt
+by pixelsketcher
+by spuydjeks
+by renabu
+by mykiio
+by matemi
+by johnfoxart
+by healingpit
+by ventkazemaru
+by audrarius
+by artmarshmallow
+by tsukune minaga
+by whisperingfornothing
+by kobradraws
+by raptoral
+by mykiio
+by doppel
+by cotora
+by slightlysimian
+by epicbassface
+by girlsay
+by himeragoldtail
+by morticus
+by raikissu
+by rapistwerewolf
+by nakimayo
+by rz54
+by goopyarts
+by jay naylor
+[/else]
 [/chance]
 [else]
 by dandon fuga

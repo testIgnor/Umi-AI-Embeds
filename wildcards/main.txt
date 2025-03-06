@@ -6,7 +6,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-mechagodzilla
+Mechagodzilla
 [/choose]
 [/set]
 
@@ -69,16 +69,16 @@ myspecies
 [/chance]
 [/function]
 
-[function set_vars]
+[function set_gender]
 [set gender]female[/set]
 
-[chance 10]
+[chance 0]
 [set gender]
 male
 [/set]
 [/chance]
 
-[chance 15]
+[chance 100]
 [set gender]
 futanari
 [/set]
@@ -92,12 +92,82 @@ futanari
     [case "futanari"]
         [set gender_short]1futa[/set]
         [set eff_gen]futanari[/set]
+        [call get_futa]
     [/case]
     [case "male"]
         [set gender_short]1boy[/set]
         [set eff_gen]futanari[/set]
+        [set gender_suffix], (genderswap:1.5), <[ezpenis]>[/set]
     [/case]
 [/switch]
+[/function]
+
+[function get_futa]
+[set futa_type]
+standard
+[/set]
+
+[chance 25]
+[set futa_type]
+[choose]
+chastity
+strapon
+[/choose]
+[/set]
+[/chance]
+
+[chance 15]
+[set futa_type]
+[choose]
+beast
+aberration
+[/choose]
+[/set]
+[/chance]
+
+[set gender_suffix]
+, <[FutaAddon][get futa_type _before=[ _after=]]>
+[/set]
+
+
+[if "'Mechagodzilla' in franchise"]
+[set gender_suffix]
+, <[ezMechagodzillaFuta]>
+[/set]
+[/if]
+
+[/function]
+
+[function set_age gender]
+[set age_range]
+middle
+[/set]
+
+[chance 40]
+[set age_range]
+lower
+[/set]
+[/chance]
+
+[chance 20]
+[set age_range]
+upper
+[/set]
+[/chance]
+
+[set ageprompt]
+as a <[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]]>
+[/set]
+
+[set is_hairless]
+[call wildcards/no_hair]
+[/set]
+
+[if "franchise in is_hairless"]
+[set ageprompt]
+as a <[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]][--Hairy]>
+[/set]
+[/if]
 [/function]
 
 [function set_model]
@@ -159,7 +229,8 @@ Outfit
 [call choose_franchise_simple]
 [/chance]
 
-[call set_vars]
+[call set_gender]
+[call set_age gender="{get gender}"]
 
 [set characterprompt]
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
@@ -167,10 +238,6 @@ Outfit
 
 [set is_hairless]
 [call wildcards/no_hair]
-[/set]
-
-[set genderprompt]
-as a <[ezage][get gender _before=[ _after=]]>
 [/set]
 
 [chance 0]
@@ -185,20 +252,7 @@ as a <[ezage][get gender _before=[ _after=]]>
 [/set]
 [/chance]
 
-[if "franchise in is_hairless"]
-    [if "'Mechagodzilla' in franchise and 'futanari' in eff_gen"]
-    [set genderprompt]
-    as a <[ezage][female][--hairy]>, <[ezMechagodzillaFuta]>
-    [/set]
-    [/if]
-    [else]
-    [set genderprompt]
-    as a <[ezage][get gender _before=[ _after=]][--hairy]>
-    [/set]
-    [/else]
-[/if]
-
-[set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], [get genderprompt], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
+[set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
 
 [set prompt_suffix]
     [chance 10]
@@ -223,7 +277,7 @@ as a <[ezage][get gender _before=[ _after=]]>
 
 [set umistring][get character_preset], [get prompt_suffix][/set]
 
-[set retrieved_string][Umi _has_options][get umistring][/Umi][/set]
+[set retrieved_string][Umi _has_options _verbose=0][get umistring][/Umi][/set]
 
 [set opt][choose _case=0][get retrieved_string][/choose][/set]
 [set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
