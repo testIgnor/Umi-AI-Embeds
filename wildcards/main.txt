@@ -9,13 +9,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Mechagodzilla
-pstars
 celebs
 [/choose]
 [/set]
 
-[chance 0]
+[chance 20]
 [set characterType]
 [choose]
 characters
@@ -23,9 +21,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-d.va
-overwatch
-lol
+pstars
 [/choose]
 [/set]
 [/chance]
@@ -262,7 +258,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 80]
 [call choose_franchise_simple]
 [/chance]
 
@@ -277,11 +273,9 @@ Main
 [call wildcards/no_hair]
 [/set]
 
-[chance 0]
+[chance 30]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06_Illustrious:1> princesselise**(yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06:1> princesselise_s06**(yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>(cosmos\(final fantasy\):1.3), final fantasy, <lora:Cosmos:0.8> c0sm0s, blonde hair, blue eyes, long hair**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
