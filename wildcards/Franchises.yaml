@@ -771,7 +771,7 @@
     - Characters
     - TLOU
 
-'<[model][pony]>source_anime, __Characters/PStars__**(yellow skin, orange skin, red skin:1.5)**':
+'<[model]>source_anime, __Characters/PStars__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - PStars Characters
   Tags:
@@ -785,7 +785,7 @@
     - Characters
     - Divinity
 
-'<[model][pony]>source_anime, __Characters/Celebs__**(yellow skin, orange skin, red skin:1.5)**':
+'<[model]>source_anime, __Characters/Celebs__**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Celebs Characters
   Tags:

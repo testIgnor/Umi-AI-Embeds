@@ -10,6 +10,12 @@
   Tags:
     - Model
     - Pony
+'@@everclearPNYByZovya_v4@@':
+  Description:
+    - everclear model
+  Tags:
+    - Model
+    - everclear
 '{1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}':
   Description:
     - Ez random emotions
