@@ -82,4 +82,4 @@
 <[model][illu]>(bahamut:1.3), final fantasy, (genderswap:1.5), (anthro:1.3), <lora:Bahamutv3:1> b4h4_ffx, dragon, dark skin, yellow sclera, no pupils
 <[model][illu]>(bahamut:1.3), final fantasy, (genderswap:1.5), (anthro:1.3), <lora:Bahamutv3:1> b4h4_ffm, dragon, purple skin, yellow sclera, no pupils
 <[model][illu]>(cloud of darkness:1.3), final fantasy, <lora:cloud_of_darkness:1> cod
-<[model][illu]>(cosmos\(final fantasy\):1.3), final fantasy, <lora:Cosmos:0.8> c0sm0s
+<[model][illu]>(cosmos\(final fantasy\):1.3), final fantasy, <lora:Cosmos:0.8> c0sm0s, blonde hair, blue eyes, long hair**cosmos \(plant\), cosmos \(flower\)**
