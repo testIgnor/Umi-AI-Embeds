@@ -6,7 +6,7 @@
 (tikal the echidna:1.3), (anthro:1.3), <lora:checkpoint-e18_s918:1> Tikal, echidna girl, orange fur, peach skin, blue eyes, tiara, gold headband, tail
 (cream the rabbit:1.3), (anthro:1.3)
 (miles prower:1.3), (genderswap:1.5), (anthro:1.3)
-(princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06_Illustrious:1> princesselise**(furry, anthro:1.5)**
+(princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06_Illustrious:1> princesselise**(furry, anthro:1.5), (yellow skin, orange skin, red skin:1.5)**
 (princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06:1> princesselise_s06**(furry, anthro:1.5), (yellow skin, orange skin, red skin:1.5)**
 (topaz \(sonic\):1.3), short hair, brown hair, pixie cut, blue eyes, earrings, lipstick, <lora:topaz-il:1> sxtopaz**(furry, anthro:1.5), (yellow skin, orange skin, red skin:1.5)**
 (amy rose:1.3), (amy:1.0) <lora:pochincoff.pony:0.75>
