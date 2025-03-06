@@ -1,8 +1,8 @@
-(nicole aniston:1.3), nicoleAnistonQuiron woman <lora:NicoleAnistonQuiron:0.75>, blonde hair, long hair, lips
-(ana foxxx:1.3), <lora:Ana_Foxxx:0.75> anafoxxx, (black skin, dark-skinned female, dark skin, ebony, very dark skin:1.4), black hair, long hair, lips**(animal ears, tail:2.0)**
-(charlotte stokely:1.3), <lora:Charlotte_Stokely:0.6> charlottestokely, blonde hair, long hair, lips
-(belle delphine:1.3), <lora:Belle_SexNote:0.6> bellesn, pink hair, long hair, fake animal ears
-(daisy taylor:1.3), <lora:Daisy_Taylor:0.6> datyiosry, long hair, brown hair, brown eyes**daisy \(flower\)**
-(bree daniels:1.3), <lora:Bree_Daniels:0.6> breedaniels, brown hair, red hair, short hair, green eyes
-(abella danger:1.3), <lora:Abella_Danger:0.6> abelladanger, brown eyes, brown hair, long hair
-(sera ryder:1.3), <lora:Sera_Ryder_Pony:0.6> seraryder, brown eyes, brown hair, long hair
+(nicole aniston:1.3), nicoleAnistonQuiron woman <lora:NicoleAnistonQuiron:0.8>, blonde hair, long hair, lips
+(ana foxxx:1.3), <lora:Ana_Foxxx:0.8> anafoxxx, (black skin, dark-skinned female, dark skin, ebony, very dark skin:1.4), black hair, long hair, lips**(animal ears, tail:2.0)**
+(charlotte stokely:1.3), <lora:Charlotte_Stokely:0.8> charlottestokely, blonde hair, long hair, lips
+(belle delphine:1.3), <lora:Belle_SexNote:0.8> bellesn, pink hair, long hair, fake animal ears
+(daisy taylor:1.3), <lora:Daisy_Taylor:0.8> datyiosry, long hair, brown hair, brown eyes**daisy \(flower\)**
+(bree daniels:1.3), <lora:Bree_Daniels:0.8> breedaniels, brown hair, red hair, short hair, green eyes
+(abella danger:1.3), <lora:Abella_Danger:0.8> abelladanger, brown eyes, brown hair, long hair
+(sera ryder:1.3), <lora:Sera_Ryder_Pony:0.8> seraryder, brown eyes, brown hair, long hair
