@@ -11,6 +11,7 @@ characters
 [choose]
 d.va
 overwatch
+lol
 [/choose]
 [/set]
 
@@ -275,10 +276,19 @@ Main
 [/set]
 
 [chance 100]
+[set artist]
+[choose]
+by firolian, <lora:FirolianLyco:1> uncensored, realistic
+by firolian, <lora:Firolian illus:1> firolian style
+[/choose]
+[/set]
+[/chance]
+
+[chance 50]
 [set characterprompt]
 [choose]
-<[model][pony]>source_anime, (miao ying:1.3), MiaoYingMortal, white eyes, glowing eyes, no eyes, white hair, long hair, high ponytail, lipstick, makeup, pale skin <lora:Miao_Ying:0.8>**(yellow skin, orange skin, red skin:1.5)**
-<[model][pony]>source_anime, (miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:0.8>**(yellow skin, orange skin, red skin:1.5)**
+<[model][pony]>source_anime, (miao ying:1.3), MiaoYingMortal, white eyes, glowing eyes, no pupils, white hair, long hair, high ponytail, lipstick, makeup, pale skin <lora:Miao_Ying:0.9>**(yellow skin, orange skin, red skin:1.5)**
+<[model][pony]>source_anime, (miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:0.9>**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 
