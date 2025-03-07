@@ -20,6 +20,8 @@ by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
 by diathorn <lora:diathorn_style_illustrious01_v3:0.7>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.7>
+by firolian, <lora:FirolianLyco:1> uncensored, realistic
+by firolian, <lora:Firolian illus:1> firolian style
 [/chance]
 [else]
 by dandon fuga
@@ -49,6 +51,8 @@ by exlic, <lora:ExLic_style:1> ExLic_style
 by rino99 <lora:fallen_ai_RINO99_style:1>
 by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
+by firolian, <lora:FirolianLyco:1> uncensored, realistic
+by firolian, <lora:Firolian illus:1> firolian style
 by dosh
 by utterangle
 by redwolfxiii
@@ -114,6 +118,8 @@ by hornyx <lora:hornyx_pony:1>
 by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
 by [personal ami|personal ami, (aroma sensei:0.5)] <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
 by exlic, <lora:ExLic_style:1> ExLic_style
+by firolian, <lora:FirolianLyco:1> uncensored, realistic
+by firolian, <lora:Firolian illus:1> firolian style
 by sakimichan
 by badcompzero
 by streachybear
