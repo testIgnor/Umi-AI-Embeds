@@ -277,8 +277,8 @@ Main
 [chance 50]
 [set characterprompt]
 [choose]
-<[model][pony]>source_anime, (miao ying:1.3), MiaoYingMortal, white eyes, glowing eyes, no eyes, white hair, long hair, high ponytail, lipstick, makeup, light skinned female, pale skin <lora:MiaoYing_Vpred:1>**(yellow skin, orange skin, red skin:1.5)**
-<[model][pony]>source_anime, (miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:MiaoYing_Vpred:1>**(yellow skin, orange skin, red skin:1.5)**
+<[model][pony]>source_anime, (miao ying:1.3), MiaoYingMortal, white eyes, glowing eyes, no eyes, white hair, long hair, high ponytail, lipstick, makeup, light skinned female, pale skin <lora:Miao_Ying:1>
+<[model][pony]>source_anime, (miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:1>
 [/choose]
 [/set]
 
