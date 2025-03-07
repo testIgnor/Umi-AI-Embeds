@@ -1,7 +1,7 @@
 (Morathi:1.3), elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <lora:Morathi3216XL:0.8>
 (Morathi:1.3), elf, pointy ears, black hair, long hair, eyeshadow, braid, blue eyes <lora:Morathi:0.8>
 (miao ying:1.3), MiaoYingMortal, white eyes, glowing eyes, no pupils, white hair, long hair, high ponytail, lipstick, makeup, pale skin <lora:Miao_Ying:0.8>
-(miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:0.9>
+(miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:0.8>
 (arahan:1.3) <lora:Arahan:0.8>
 (crone hellebron:1.3), <lora:CroneHellebron:0.8> CroneHellebron
 (repanse de lyonesse:1.3), <lora:RepansedeLyonesse:0.8> Repanse
