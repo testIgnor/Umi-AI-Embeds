@@ -260,7 +260,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 100]
+[chance 80]
 [call choose_franchise_simple]
 [/chance]
 
