@@ -51,7 +51,7 @@ Chooses a franchise from all wildcard files
 characters
 [/set]
 
-[chance 10]
+[chance 15]
 [set characterType]
 myspecies
 [/set]
