@@ -1,6 +1,6 @@
 [choose]
-[chance 75]
-[chance 50]
+[chance 66]
+[chance 40]
 by tarakanovich <lora:tarakanovich1.5:1>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by johndoe <lora:johndoe:0.7>
@@ -20,8 +20,6 @@ by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
 by diathorn <lora:diathorn_style_illustrious01_v3:0.7>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.7>
-by firolian, <lora:FirolianLyco:1> uncensored, realistic
-by firolian, <lora:Firolian illus:1> firolian style
 [/chance]
 [else]
 by dandon fuga
@@ -53,6 +51,23 @@ by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
 by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
+by prywinko, <lora:prywXLP:1> pryw
+by revolverwing <lora:rwing illustrious 003:1>
+by kittew <lora:kittew-artist-richy-v1_ixl:1>
+by hornyx <lora:hornyx_pony:1>
+by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
+by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:1> cianyo_style
+by picturd <lora:PicturdLycoXL:1>
+by whisperfoot, <lora:whisperfootILLUS:1> whisperfoot
+by burgerkiss, <lora:Burger_Kiss_Style_-_Illustrious:1> BurgerKiss
+by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
+by ayya sap, <lora:ayyasap_pony_v3:1> ayyapsap_style, ayyapsap, source_artwork
+by hoobamon <lora:Hoobamon:1>
+by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:1>
+by dmitrys <lora:Dmitrys_Style_Illustrious:1>
+by melkor mancin, <lora:Melkor_Middle_Years_Style_V01_IL:1> ffmelkormid
+by cherry mouse street <lora:cherry_mouse_street_illu:1>
+by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:1>
 by dosh
 by utterangle
 by redwolfxiii
@@ -155,6 +170,8 @@ by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
 by cherry mouse street <lora:cherry_mouse_street_illu:1>
 by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:1>
 by rino99 <lora:fallen_ai_RINO99_style:1>
+by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
+by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
 by 007delta
 by 0r0ch1
 by 1-upclock
@@ -933,7 +950,6 @@ by mistpirit
 by misx
 by miu
 by mleonheart
-by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
 by modca
 by moddish
 by modeseven
@@ -1442,7 +1458,6 @@ by twinkle-sez
 by twiren
 by twistedhound
 by twistedscarlett60
-by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
 by twotail813
 by type
 by tyroo
