@@ -719,57 +719,57 @@
   Tags:
     - Particle
     - ezSlut
-'(asian_japanese:1.4), japanese':
+'(asian_japanese:1.4), japanese, {brown||dark brown} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(asian_chinese:1.4), chinese':
+'(asian_chinese:1.4), chinese, {brown||dark brown} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(asian_korean:1.4), korean':
+'(asian_korean:1.4), korean, {brown||dark brown} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(european:1.4)':
+'(european:1.4), {blue||green||grey||hazel||brown} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(african:1.4), dark skinned female':
+'(african:1.4), dark skinned female, {brown||dark brown||hazel} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(african:1.4), dark skinned female, very dark skin':
+'(african:1.4), dark skinned female, very dark skin, {brown||dark brown||hazel} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(latina:1.4), dark skinned female':
+'(latina:1.4), dark skinned female, {brown||hazel||green||blue||amber} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(thai:1.4)':
+'(thai:1.4), {brown||dark brown||hazel||amber} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(arab:1.4), dark skinned female':
+'(arab:1.4), dark skinned female, {brown||hazel||green||blue||amber} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(indian:1.4), dark skinned female':
+'(indian:1.4), dark skinned female, {brown||dark brown||hazel||amber} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
-'(egyptian:1.4), dark skinned female':
+'(egyptian:1.4), dark skinned female, {brown||hazel||green||amber} eyes':
   Description:
     - For use with appropriate LoRA
   Tags:
