@@ -163,25 +163,8 @@
   Tags:
     - Location
     - MyLocation
-'__Artists/Web Artists__':
+'{asian_japanese||asian_chinese||asian_korean||european||african||latina||thai||arab||indian||egyptian}':
   Description:
-    - Random Artist Names for LoRA
+    - For use with appropriate LoRA
   Tags:
-    - Artists
-'__Artists/Common__':
-  Description:
-    - Random Artist Names for LoRA
-  Tags:
-    - Artists
-    - Common
-'__Artists/More Common__':
-  Description:
-    - Random Artist Names for LoRA
-  Tags:
-    - Artists
-    - Common
-'__Artists/Has LoRA__':
-  Description:
-    - Random Artist Names for LoRA
-  Tags:
-    - Artists
+    - Racethnicity

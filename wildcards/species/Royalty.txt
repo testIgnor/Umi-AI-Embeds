@@ -1,22 +1,12 @@
-(queen:1.3)
-(princess:1.3)
-(princess:1.3), egyptian pharaoh, egyptian princess, dark-skinned female, dark skin
-(queen:1.3), egyptian pharaoh, egyptian queen, dark-skinned female, dark skin
-(priestess:1.3), egyptian priestess, dark-skinned female, dark skin
-(priestess:1.3)
-(princess:1.3), european princess, light-skinned female, light skin
-(queen:1.3), european queen, light-skinned female, light skin
-(princess:1.3), african princess, dark-skinned female, dark skin
-(queen:1.3), african queen, dark-skinned female, dark skin
-(princess:1.3), asian princess
-(queen:1.3), asian queen
-(empress:1.3), asian empress
-(empress:1.3), roman empress
-(princess:1.3), warrior princess
-(queen:1.3), warrior queen
-(prince:1.3), (genderswap:1.5)
-(king:1.3), (genderswap:1.5)
-(emperor:1.3), (genderswap:1.5)
-(duchess:1.3)
-(countess:1.3)
-(princess:1.3), knight, princess knight, female knight, female holy knight, paladin
+(queen:1.3), <[Racethnicity]> queen
+(princess:1.3), <[Racethnicity]> princess
+(priestess:1.3), <[Racethnicity]> priestess
+(empress:1.3), <[Racethnicity]> empress
+(prince:1.3), (genderswap:1.5), <[Racethnicity]> prince
+(king:1.3), (genderswap:1.5), <[Racethnicity]> king
+(emperor:1.3), (genderswap:1.5), <[Racethnicity]> emperor
+(duchess:1.3), <[Racethnicity]> duchess
+(countess:1.3), <[Racethnicity]> countess
+(warrior queen:1.3), <[Racethnicity]> queen
+(warrior princess:1.3), <[Racethnicity]> princess
+(princess knight:1.3), <[Racethnicity]> princess

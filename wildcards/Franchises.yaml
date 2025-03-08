@@ -16,12 +16,6 @@
   Tags:
     - MySpecies
     - Magical Girls
-'<[model][pony]>source_anime, __Species/Mass Effect__**(furry, anthro, animal ears:2.0)**':
-  Description:
-    - Mass Effect Aliens
-  Tags:
-    - MySpecies
-    - Mass Effect
 '<[model][pony]>source_furry, __Species/Misc__**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
@@ -60,7 +54,7 @@
   Tags:
     - MySpecies
     - Robots
-'<[model][illu]>source_anime, __Species/Royalty__, regal, elegant, royal family, royal, crown, tiara**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, __Species/Royalty__, regal, elegant, royal family, royal, crown, tiara <lora:Racethnicity2.35-Ill:1>**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Royalty
   Tags:
