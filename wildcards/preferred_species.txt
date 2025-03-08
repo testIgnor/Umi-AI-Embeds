@@ -1,4 +1,5 @@
-franxx
-misc
-skyrimwerewolf
-pokemon
+Franxx
+Misc
+SkyrimWerewolf
+Pokemon
+Royalty
