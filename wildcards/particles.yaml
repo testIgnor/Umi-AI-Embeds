@@ -719,3 +719,58 @@
   Tags:
     - Particle
     - ezSlut
+'(asian_japanese:1.4), japanese':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(asian_chinese:1.4), chinese':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(asian_korean:1.4), korean':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(european:1.4)':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(african:1.4), dark skinned female':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(african:1.4), dark skinned female, very dark skin':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(latina:1.4), dark skinned female':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(thai:1.4)':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(arab:1.4), dark skinned female':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(indian:1.4), dark skinned female':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+'(egyptian:1.4), dark skinned female':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity

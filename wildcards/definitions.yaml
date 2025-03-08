@@ -163,8 +163,3 @@
   Tags:
     - Location
     - MyLocation
-'({asian_japanese||asian_chinese||asian_korean||european||african||latina||thai||arab||indian||egyptian}:1.4)':
-  Description:
-    - For use with appropriate LoRA
-  Tags:
-    - Racethnicity
