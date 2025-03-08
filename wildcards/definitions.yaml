@@ -163,3 +163,15 @@
   Tags:
     - Location
     - MyLocation
+'__natural-hair__ hair':
+  Description:
+    - Natural Hair Colors
+  Tags:
+    - HairColor
+    - Natural
+'__exotic-hair__ hair':
+  Description:
+    - Exotic Hair Colors
+  Tags:
+    - HairColor
+    - Exotic
