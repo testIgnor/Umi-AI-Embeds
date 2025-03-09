@@ -56,7 +56,7 @@ by revolverwing <lora:rwing illustrious 003:1>
 by kittew <lora:kittew-artist-richy-v1_ixl:1>
 by hornyx <lora:hornyx_pony:1>
 by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
-by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:1> cianyo_style
+by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:0.8> cianyo_style
 by picturd <lora:PicturdLycoXL:1>
 by whisperfoot, <lora:whisperfootILLUS:1> whisperfoot
 by burgerkiss, <lora:Burger_Kiss_Style_-_Illustrious:1> BurgerKiss
@@ -143,7 +143,7 @@ by afrobull
 by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
 by tarakanovich <lora:tarakanovich1.5:1>
 by nopeys, <lora:Nopeys:1> Nopeysstyle
-by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:1> cianyo_style
+by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:0.8> cianyo_style
 by hoobamon <lora:Hoobamon:1>
 by picturd <lora:PicturdLycoXL:1>
 by whisperfoot, <lora:whisperfootILLUS:1> whisperfoot
