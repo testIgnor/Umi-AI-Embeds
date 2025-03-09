@@ -44,3 +44,4 @@
 (senica \(dq11\):1.3), dragon quest, purple hair, ponytail, long hair, purple eyes, serenica, puple hair, high ponytail <lora:Serenica:1>
 (red \(dq8\):1.3), dragon quest, brown hair, blue eyes, long hair, spiked hair, ponytail, red_dq8, black hair <lora:Red_DQ_8:1>
 (teresia:1.3), dragon quest, purple hair, pink eyes, long hair, pink hair, ponytail, Teresaxl <lora:teresaxl:1>
+(queen frysabel:1.3), dragon quest, <lora:Queen_Frysabel_DQ:1> frysabel, glasses, long hair, blonde hair, braid, crown

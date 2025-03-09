@@ -103,6 +103,7 @@ blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos
 <lora:Earthbound_-_Racing_Miku_2022_Cosplay_-_ILLUSTRIOUSXL:1> mikucosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Sakimichan_Tifa_Nurse_Outfit_Cosplay:1> micro shirt, very cropped shirt, short sleeved shirt, white shirt, latex bikini, underboob bikini, micro bikini, white bikini, red cross on bikini, highleg bikini, highleg leotard, underbust leotard, mesh leotard, see-through leotard, cross stitched leotard, detailed leotard, white leotard, white underbust corset, white corset, corset, see-through corset, white belt straps, white belt buckles, pussy floss, black thighhighs, black thigh boots, white gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
 (crop top t-shirt, underboob, loose-fitting clothes:1.5), full body stocking, body stocking, <[ezcovered][get eff_gen _before=[ _after=]]>
+nipple chain, <lora:Sex Queen:1> Chest chain, chain
 [/tags]
 
 [tags clothing clothing_type="wedding"]
@@ -334,4 +335,6 @@ untied tank top, <[eztopless][get eff_gen _before=[ _after=]]>
 olympic gymnastics outfit
 olympic gymnastics outfit, sheer clothes, <[eznude][get eff_gen _before=[ _after=]]>
 olympic gymnastics outfit, sheer clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Queens_Gown:1> Queens_Garb, flowing royal dress, midriff, golden belt, <[ezbottomless][get eff_gen _before=[ _after=]]>, <[covered][upper][get eff_gen _before=[ _after=]]>
+<lora:Queens_Gown:1> Queens_Garb, flowing royal dress, midriff, golden belt, <[ezbottomless][get eff_gen _before=[ _after=]]>
 [/tags]
