@@ -1,26 +1,26 @@
-(bast:1.3), egyptian mythology, dark-skinned female
-(ammit:1.3), egyptian mythology, dark-skinned female
-(anbs-02:1.3), egyptian mythology, dark-skinned female
-(sekhmet:1.3), egyptian mythology, dark-skinned female
-(tefnut:1.3), egyptian mythology, dark-skinned female
-(nut:1.3), egyptian mythology, dark-skinned female
-(isis:1.3), egyptian mythology, dark-skinned female
-(nephthys:1.3), egyptian mythology, dark-skinned female
-(anuput:1.3), egyptian mythology, dark-skinned female
-(hathor:1.3), egyptian mythology, dark-skinned female
-(nekhbet:1.3), egyptian mythology, dark-skinned female
-(taweret:1.3), egyptian mythology, dark-skinned female
-(wadjet:1.3), egyptian mythology, dark-skinned female
-(hera:1.3), greek mythology
-(aphrodite:1.3), greek mythology
-(artemis:1.3), greek mythology
-(athena:1.3), greek mythology
-(demeter:1.3), greek mythology
-(hestia:1.3), greek mythology
-(medusa:1.3), greek mythology
-(frigg:1.3), norse mythology
-(idunn:1.3), norse mythology
-(freyja:1.3), norse mythology
-(laufey:1.3), norse mythology
-(angrboða:1.3), norse mythology
-(hel:1.3), norse mythology
+(bast:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(ammit:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(anbs-02:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(sekhmet:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(tefnut:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(nut:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(isis:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(nephthys:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(anuput:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(hathor:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(nekhbet:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(taweret:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(wadjet:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
+(hera:1.3), greek mythology, <[Racethnicity][European]>
+(aphrodite:1.3), greek mythology, <[Racethnicity][European]>
+(artemis:1.3), greek mythology, <[Racethnicity][European]>
+(athena:1.3), greek mythology, <[Racethnicity][European]>
+(demeter:1.3), greek mythology, <[Racethnicity][European]>
+(hestia:1.3), greek mythology, <[Racethnicity][European]>
+(medusa:1.3), greek mythology, <[Racethnicity][European]>
+(frigg:1.3), norse mythology, <[Racethnicity][European]>
+(idunn:1.3), norse mythology, <[Racethnicity][European]>
+(freyja:1.3), norse mythology, <[Racethnicity][European]>
+(laufey:1.3), norse mythology, <[Racethnicity][European]>
+(angrboða:1.3), norse mythology, <[Racethnicity][European]>
+(hel:1.3), norse mythology, <[Racethnicity][European]>

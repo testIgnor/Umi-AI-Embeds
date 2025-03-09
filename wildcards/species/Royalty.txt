@@ -1,12 +1,12 @@
-(queen:1.3), <[Racethnicity]>
-(princess:1.3), <[Racethnicity]>
-(priestess:1.3), <[Racethnicity]>
-(empress:1.3), <[Racethnicity]>
-(prince:1.3), (genderswap:1.5), <[Racethnicity]>
-(king:1.3), (genderswap:1.5), <[Racethnicity]>
-(emperor:1.3), (genderswap:1.5), <[Racethnicity]>
-(duchess:1.3), <[Racethnicity]>
-(countess:1.3), <[Racethnicity]>
-(warrior queen:1.3), <[Racethnicity]>
-(warrior princess:1.3), <[Racethnicity]>
-(princess knight:1.3), <[Racethnicity]>
+(queen:1.3)
+(princess:1.3)
+(priestess:1.3)
+(empress:1.3)
+(prince:1.3), (genderswap:1.5)
+(king:1.3), (genderswap:1.5)
+(emperor:1.3), (genderswap:1.5)
+(duchess:1.3)
+(countess:1.3)
+(warrior queen:1.3)
+(warrior princess:1.3)
+(princess knight:1.3)

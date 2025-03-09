@@ -54,7 +54,7 @@
   Tags:
     - MySpecies
     - Robots
-'<[model][illu]>source_anime, __Species/Royalty__, <[HairColor][Natural]>, regal, elegant, royal family, royal, crown, tiara <lora:Racethnicity2.35-Ill:1>**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, __Species/Royalty__, <[Racethnicity]>, <[HairColor][Natural]>, regal, elegant, royal family, royal, crown, tiara**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Royalty
   Tags:
