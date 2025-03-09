@@ -66,7 +66,6 @@ by hoobamon <lora:Hoobamon:1>
 by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:1>
 by dmitrys <lora:Dmitrys_Style_Illustrious:1>
 by melkor mancin, <lora:Melkor_Middle_Years_Style_V01_IL:1> ffmelkormid
-by cherry mouse street <lora:cherry_mouse_street_illu:1>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:1>
 by dosh
 by utterangle
