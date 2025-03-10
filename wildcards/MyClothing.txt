@@ -216,8 +216,6 @@ parasite, <lora:canalV3:1> fake vagina cl in vagina, fake vagina cl in anus, cl,
 parasite, <lora:canalV3:1> fake vagina cl in vagina, fake vagina cl in mouth, cl, <[eznude][get eff_gen _before=[ _after=]]>
 parasite, <lora:canalV3:1> fake vagina cl in mouth, fake vagina cl in anus, cl, <[eznude][get eff_gen _before=[ _after=]]>
 Parasite, <lora:LivingClothes:1> Living Clothes, Tentacle Clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
-parasite, corrupted, (mouth pussy, vagina tongue, tongue coming out of pussy, giving birth to tongue:1.3), <[ezbottomless][get eff_gen _before=[ _after=]]>
-parasite, corrupted, (mouth pussy, vagina tongue, tongue coming out of pussy, giving birth to tongue, vagina dentata, vagina teeth:1.3), <[ezbottomless][get eff_gen _before=[ _after=]]>
 virgin slayer sweater, thighhighs, detached sleeves, buttplug, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:Virgin_Slayer_SweaterV1:1>
 virgin terminator sweater, <[ezcovered][get eff_gen _before=[ _after=]]>, pi-vrgn-trm-swtr, long sleeves, ribbed thighhighs, white sweater, ribbed sleeves, alternate costume, detached sleeves, side-tie panties <lora:VirginTerminatorSweater:1>
 fully clothed, wearing tight leather armor, armor, <[eznude][get eff_gen _before=[ _after=]]>
