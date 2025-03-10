@@ -12,3 +12,62 @@
 (april o'neil:1.3)
 (she-hulk:1.3)
 (squirrel girl \(marvel\):1.3)
+(bast \(marvel\):1.3)
+(black widow \(marvel\):1.3)
+(captain marvel \(marvel\):1.3)
+(emma frost \(marvel\):1.3)
+(galacta \(marvel\):1.3)
+(gamora \(marvel\):1.3)
+(hela \(marvel\):1.3)
+(invisible woman \(marvel\):1.3)
+(jane foster \(marvel\):1.3)
+(jia jing \(marvel\):1.3)
+(k'liluna \(marvel\):1.3)
+(karnilla \(marvel\):1.3)
+(locus \(marvel\):1.3)
+(luna snow \(marvel\):1.3)
+(magik \(marvel\):1.3)
+(mantis \(marvel\):1.3)
+(may parker \(marvel\):1.3)
+(peni parker \(marvel\):1.3)
+(phoenix \(marvel\):1.3)
+(psylocke \(marvel\):1.3)
+(ratatoskr \(marvel\):1.3)
+(scarlet witch \(marvel\):1.3)
+(shiklah \(marvel\):1.3)
+(shuri \(marvel\):1.3)
+(spider-zero \(marvel\):1.3)
+(storm \(marvel\):1.3)
+(valeria richards \(marvel\):1.3)
+(valkyrie \(marvel\):1.3)
+(zelma stanton \(marvel\):1.3)
+(zatanna:1.3)
+(bumblebee \(dc\):1.3)
+(green lantern:1.3)
+(star sapphire \(dc\):1.3)**(touhou project:2.0)**
+(livewire:1.3)
+(giganta:1.3)
+(lena luthor:1.3)
+(cheetah \(dc\):1.3)
+(casey krinsky:1.3)
+(ember \(dc\):1.3)
+(louis lane:1.3)
+(katana \(dc\):1.3)
+(wonder woman:1.3), dc super hero girls
+(batgirl:1.3), dc super hero girls
+(supergirl:1.3), dc super hero girls
+(bumblebee \(dc\):1.3), dc super hero girls
+(green lantern:1.3), dc super hero girls
+(zatanna:1.3), dc super hero girls
+(harley quinn:1.3), dc super hero girls
+(poison ivy:1.3), dc super hero girls
+(catwoman:1.3), dc super hero girls
+(star sapphire \(dc\):1.3), dc super hero girls**(touhou project:2.0)**
+(livewire:1.3), dc super hero girls
+(giganta:1.3), dc super hero girls
+(lena luthor:1.3), dc super hero girls
+(cheetah \(dc\):1.3), dc super hero girls
+(casey krinsky:1.3), dc super hero girls
+(ember \(dc\):1.3), dc super hero girls
+(louis lane:1.3), dc super hero girls
+(katana \(dc\):1.3), dc super hero girls
