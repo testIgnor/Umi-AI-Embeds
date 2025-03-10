@@ -3,6 +3,6 @@
 (pieck finger:1.3), shingeki no kyojin, black hair, long hair, short hair, black eyes
 (petra ral:1.3), shingeki no kyojin, black hair, short hair, brown hair, blonde hair
 (gabi braun:1.3), shingeki no kyojin, short hair, brown eyes, brown hair, blonde hair
-(female titan:1.3), shingeki no kyojin, black hair, short hair, blue eyes, blonde hair
+(female titan:1.3), shingeki no kyojin, short hair, blue eyes, blonde hair <lora:FemaleTitanNoobXL_byKonan:1> female titan, muscular, scar, hair between eyes, (giantess:0.25), abs
 (auruo bossard:1.3), shingeki no kyojin, black hair, short hair, brown hair, blonde hair
 (erd gin:1.3), shingeki no kyojin, black hair, short hair, brown hair, blonde hair
