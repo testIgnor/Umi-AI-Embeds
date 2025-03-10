@@ -27,3 +27,4 @@
 (great fairy \(zelda\):1.3), <lora:greatfairy-tloz-richy-v1_pdxl:1> gfyc, purple eyes, pink hair, very long hair, twintails, ponytail, forehead, red lips, eyeshadow, makeup, pink nails
 (great fairy \(zelda\):1.3), blue eyes, long hair, blonde hair, tpgrtfiry, sarong, wings <lora:tp_great_fairy_tpgrtfiry_ponyxl_v2:1>
 (wolf link:1.3), (genderswap:1.4), <lora:wolflink:1> wolflink, wolflink, wolf anthro, earrings, white facial markings, blue eyes, wolf tail, fluffy chest fur
+(epona:1.3), <lora:Epona:1>, horse anthro, white mane, white tail, blue eyes, long eyelashes, brown fur
