@@ -1,4 +1,5 @@
-(demon:1.3), demon girl
+(demon:1.3), demon girl, {red||purple} skin
 (succubus:1.3), demon girl
-(angel:1.3), angel girl
-(fallen angel:1.3), angel girl, corrpution
+(succubus:1.3), demon girl, {red||purple} skin
+(angel:1.3), angel girl, white wings, golden halo
+(fallen angel:1.3), angel girl, corrpution, black skin, black wings, broken halo, black halo
