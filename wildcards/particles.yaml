@@ -166,14 +166,28 @@
   Tags:
     - Particle
     - ezpussy
-'(pussy:1.1), (huge clitoris, enlarged clitoris, big clitoris, erect clitoris:1.5)':
+'(pussy:1.1), (huge clitoris, enlarged clitoris, big clitoris, erect clitoris, long clitoris:1.5), <lora:long_clit:1> clitoris, clitoral glans':
   Description:
     - Pussy preset
   Tags:
     - Particle
     - ezpussy
     - hugeclit
-'(pussy, pussy juice:1.1), (huge clitoris, enlarged clitoris, big clitoris, erect clitoris:1.5)':
+'(pussy, pussy juice:1.1), (huge clitoris, enlarged clitoris, big clitoris, erect clitoris, long clitoris:1.5), <lora:long_clit:1> clitoris, clitoral glans':
+  Description:
+    - Pussy preset
+  Tags:
+    - Particle
+    - ezpussy
+    - hugeclit
+'(pussy:1.1), (huge clitoris, enlarged clitoris, big clitoris, erect clitoris, long clitoris:1.5), <lora:long_clit:1> clitoris**clitoral glans**':
+  Description:
+    - Pussy preset
+  Tags:
+    - Particle
+    - ezpussy
+    - hugeclit
+'(pussy, pussy juice:1.1), (huge clitoris, enlarged clitoris, big clitoris, erect clitoris, long clitoris:1.5), <lora:long_clit:1> clitoris**clitoral glans**':
   Description:
     - Pussy preset
   Tags:
