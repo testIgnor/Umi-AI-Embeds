@@ -7,4 +7,4 @@
 (ender dragon:1.3), <lora:Ender_dragon_minecraft:1> ender_dragon_minecraft, wings, feral**(anthro:1.5)**
 (little sister:1.3), bioshock, <lora:LittleSister:1> LittleSister, glowing eyes, long hair, black hair
 (little sister:1.3), bioshock, <lora:LittleSister:1> LittleSister, glowing eyes, medium hair, ponytail, black hair
-(big sister:1.3), bioshock, <lora:BigSister:1> BigSister, grey eyes, medium hair, black hair
+(big sister:1.3), bioshock, <lora:BigSister:0.6> BigSister, grey eyes, medium hair, black hair
