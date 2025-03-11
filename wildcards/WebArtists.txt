@@ -1,6 +1,6 @@
 [choose]
 [chance 66]
-[chance 40]
+[chance 55]
 by tarakanovich <lora:tarakanovich1.5:1>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by johndoe <lora:johndoe:0.8>
