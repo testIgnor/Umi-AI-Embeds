@@ -122,7 +122,7 @@ Helper function for futa parameters
 standard
 [/set]
 
-[chance 25]
+[chance 15]
 [set futa_type]
 [choose]
 chastity
@@ -131,10 +131,17 @@ strapon
 [/set]
 [/chance]
 
-[chance 15]
+[chance 10]
 [set futa_type]
 [choose]
 beast
+[/choose]
+[/set]
+[/chance]
+
+[chance 45]
+[set futa_type]
+[choose]
 aberration
 [/choose]
 [/set]
