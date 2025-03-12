@@ -83,13 +83,13 @@ Sets gender_prompt
 [function set_gender]
 [set gender]female[/set]
 
-[chance 10]
+[chance 20]
 [set gender]
 male
 [/set]
 [/chance]
 
-[chance 25]
+[chance 30]
 [set gender]
 futanari
 [/set]
