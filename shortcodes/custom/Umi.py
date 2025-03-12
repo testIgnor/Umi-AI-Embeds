@@ -8,6 +8,38 @@ import glob
 from random import choices
 import yaml
 
+UsageGuide = """
+                    ### Usage (probably out of date)
+                    * `{a||b||c||...}` will pick one of `a`, `b`, `c`, ...
+                    * `{x-y$$a||b||c||...}` will pick between `x` and `y` of `a`, `b`, `c`, ...
+                    * `{x$$a||b||c||...}` will pick `x` of `a`, `b`, `c`, ...
+                    * `{x-$$a||b||c||...}` will pick atleast `x` of `a`, `b`, `c`, ...
+                    * `{-y$$a||b||c||...}` will pick upto `y` of `a`, `b`, `c`, ...
+                    * `{x%a||...}` will pick `a` with `x`% chance otherwise one of the rest
+                    * `_=text=_` will pick a random line from the file `text`.txt in the wildcard folder
+                    * `<[tag]>` will pick a random item from yaml files in wildcard folder with given `tag`
+                    * `<[tag1][tag2]>` will pick a random item from yaml files in wildcard folder with both `tag1` **and** `tag2`
+                    * `<[tag1|tag2]>` will pick a random item from yaml files in wildcard folder with `tag1` **or** `tag2`
+                    * `<[--tag]>` will pick a random item from yaml files in wildcard folder that does not have the given `tag`
+                    * `<file:[tag]>` will pick a random item from yaml file `file`.yaml in wildcard folder with given tag
+                    * `$#expression;key#$` will save the result of `expression` to be recalled with key `key` (note usage of semicolon `;`)
+                    * `$#key#$` recalls the expression with key `key`
+
+                    ### Settings override
+                    * `@@width=512, height=768@@` will set the width of the image to be `512` and height to be `768`.
+                    * Available settings to override are `cfg_scale, sampler, steps, width, height, denoising_strength`.
+
+                    ### WebUI Prompt Reference
+                    * `(text)` emphasizes text by a factor of 1.1
+                    * `[text]` deemphasizes text by a factor of 0.9
+                    * `(text:x)` (de)emphasizes text by a factor of x
+                    * `\(` or `\)` for literal parenthesis in prompt
+                    * `[from:to:when]` changes prompt from `from` to `to` after `when` steps if `when` > 1
+                            or after the fraction of `current step/total steps` is bigger than `when`
+                    * `[a|b|c|...]` cycles the prompt between the given options each step
+                    * `text1 AND text2` creates a prompt that is a mix of the prompts `text1` and `text2`.
+                    """
+
 ALL_KEY = 'all yaml files'
 
 def get_index(items, item):
@@ -18,7 +50,7 @@ def get_index(items, item):
 
 
 def parse_tag(tag):
-    return tag.replace("__", "").replace('<', '').replace('>', '').strip()
+    return tag.replace("_=", "").replace("=_", "").replace('<', '').replace('>', '').strip()
 
 
 def read_file_lines(file):
@@ -248,7 +280,7 @@ class TagReplacer:
     def __init__(self, tag_selector, options):
         self.tag_selector = tag_selector
         self.options = options
-        self.wildcard_regex = re.compile('((__|<)(.*?)(__|>))')
+        self.wildcard_regex = re.compile('((_=|<)(.*?)(=_|>))')
         self.opts_regexp = re.compile('(?<=\[)(.*?)(?=\])')
         self.debug = dict(options).get('debug', False)
 
@@ -258,12 +290,6 @@ class TagReplacer:
         match = matches.groups()[2]
         match_and_opts = match.split(':')
         if self.debug: print(f'match_and_ops: {match_and_opts}')
-        # note:
-        # file names should NOT contain double underscore '__'
-        # or more than one set of brackets '<>' as this will
-        # BREAK the regex matching
-        # if you're reading this, just bite the bullet and
-        # learn unprompted
         if (len(match_and_opts) == 2):
             selected_tags = self.tag_selector.select(
                 match_and_opts[0], self.opts_regexp.findall(match_and_opts[1]))
