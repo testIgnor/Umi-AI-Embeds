@@ -267,7 +267,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 100]
 [call choose_franchise_simple]
 [/chance]
 
@@ -291,10 +291,10 @@ by firolian, <lora:Firolian illus:1> firolian style
 [/set]
 [/chance]
 
-[chance 0]
+[chance 100]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (virgin mary:1.3), the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, goddess, holy, divinity, virgin_mary, brown hair, wavy hair, long hair <lora:checkpoint-e25_s675:0.8>
+<[model][illu]>source_anime, (big sister:1.3), bioshock, <lora:BigSister:0.6> BigSister, grey eyes, medium hair, black hair**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 
