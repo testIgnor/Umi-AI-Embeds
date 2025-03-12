@@ -294,7 +294,7 @@ by firolian, <lora:Firolian illus:1> firolian style
 [chance 100]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (big sister:1.3), bioshock, <lora:BigSister:0.6> BigSister, grey eyes, medium hair, black hair**(yellow skin, orange skin, red skin:1.5)**
+<[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3) <lora:Egg_Slave_Tailsko_ChaosCroc:1> ESTK, furry, anthro, fox girl, yellow body, yellow fur, white snout, 2 tails, latex tails, red tails, yellow hair, {black||red} eyeshadow, black lipstick, pink nose, {blue||red||purple} eyes, red eyes, long hair
 [/choose]
 [/set]
 
