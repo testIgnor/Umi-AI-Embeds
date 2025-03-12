@@ -39,7 +39,7 @@ by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
 by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
 by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.8>
 by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
-by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.8> ExpresHGothicNeonIncase
+by incase, <lora:ExpressiveH__Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.8> ExpresHGothicNeonIncase
 by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
 by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
@@ -150,7 +150,7 @@ by whisperfoot, <lora:whisperfootILLUS:1> whisperfoot
 by burgerkiss, <lora:Burger_Kiss_Style_-_Illustrious:1> BurgerKiss
 by aestheticc-meme
 by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
-by incase, <lora:ExpressiveH_Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.8> ExpresHGothicNeonIncase
+by incase, <lora:ExpressiveH__Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.8> ExpresHGothicNeonIncase
 by ayya sap, <lora:ayyasap_pony_v3:1> ayyapsap_style, ayyapsap, source_artwork
 by andava
 by ponpu

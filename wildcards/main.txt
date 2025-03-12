@@ -294,8 +294,8 @@ by firolian, <lora:Firolian illus:1> firolian style
 [chance 100]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (aika:1.3), short hair, star-shaped buns, two-tone hair, yellow hair, black hair, dreadlocks, dark-skinned female, <lora:Aika_Pretty_Please_I_Dont_Want_to_be_a_Magical_Girl:1> normal**(yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (aika:1.3), short hair, star-shaped buns, two-tone hair, yellow hair, black hair, dreadlocks, dark-skinned female, <lora:Aika_Pretty_Please_I_Dont_Want_to_be_a_Magical_Girl:1> magical girl, wings**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (aika:1.3), short hair, star-shaped buns, two-tone hair, yellow hair, black hair, dreadlocks, dark-skinned female, <lora:Aika__Pretty_Please_I_Dont_Want_to_be_a_Magical_Girl:1> normal**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (aika:1.3), short hair, star-shaped buns, two-tone hair, yellow hair, black hair, dreadlocks, dark-skinned female, <lora:Aika__Pretty_Please_I_Dont_Want_to_be_a_Magical_Girl:1> magical girl, wings**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 

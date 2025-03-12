@@ -306,7 +306,7 @@ lightning cat sweatshirt
 <lora:foreignlimb:1.2> (foreignlimb:1.5), (arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, robotic exoskeleton:1.5), (extra mechanical arms, mechanical arms, mechanical legs, unbound mechanical arms, unbound mechanical legs:1.3), extra mechanical limbs, multiple limbs, (high heels, extremely high heels:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
 reverse virgin killer sweater, <lora:0947 reverse virgin killer sweater_v1_pony:1> ruanyi0947, turtleneck sweater, grey dress, virgin killer sweater, meme attire, bare arms, bare shoulders, navel, <[covered][upper][get eff_gen _before=[ _after=]]>
 cocktail dress
-parasite, parasiticP1, several shoots <lora:parasite_shoots_pussy:1>
+parasite, parasiticP1, several shoots <lora:parasite_shoots__pussy:1>
 parasite, parasitPI, panties monster, big panty monster, plant parasite with inserts <lora:pussy_parasitelive_panties:1>
 tattered dress, ruined dress, ripped dress, exposed breasts, <[eznips]>
 tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[eznips]>
