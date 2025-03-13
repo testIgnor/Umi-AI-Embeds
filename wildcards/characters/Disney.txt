@@ -68,3 +68,7 @@
 (moana:1.3) <lora:Moana:1>, dark skin, dark brown hair, curly hair, brown eyes
 (chip:1.3), genderswap, <lora:Femchip:1> Femchip, furry, anthro, chipmunk girl, brown fur, brown eyes, chipmunk tail, black nose, brown hair, long hair, buckteeth
 (dale:1.3), genderswap, <lora:femdale:1> Femdale, furry, anthro, chipmunk girl, brown fur, blue eyes, chipmunk tail, red nose, brown hair, short hair, bangs
+(tiger lily:1.3), <lora:TigerLily_PXL_Leaf1:1> TigerLily, black hair, twin braids, brown eyes, dark skin, blue headband, feather hair ornament
+(wendy darling:1.3), <lora:WendyDarling_PXL_Leaf1:1> WendyDarling, brown hair, hairbow, blue eyes, lipstick
+(shanti:1.3), <lora:Shanti_JungleBook1_illustrious_Leaf2:1> shanti, black hair, Twintails, brown eyes, dark skin, hair bow, hoop earrings
+(alice:1.3), <lora:AliceInWonderland_PXL_Leaf1:1> Alice, blonde hair, long hair, blue eyes, headband, ribbon hairbow

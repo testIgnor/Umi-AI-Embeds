@@ -969,3 +969,10 @@
   Tags:
     - Characters
     - Bloodborne
+
+'<[model][illu]>source_anime, _=Characters/GoT=_':
+  Description:
+    - GoT Characters
+  Tags:
+    - Characters
+    - GoT

@@ -14,3 +14,4 @@
 <[model][illu]>source_anime, (elizabeth \(bioshock infinite\):1.3), black hair, short hair, blue eyes, <lora:BioElizabeth:1> ELIZABETH1
 <[model][illu]>source_anime, (aika:1.3), long hair, star-shaped buns, two-tone hair, yellow hair, black hair, dreadlocks, dark-skinned female, <lora:Aika__Pretty_Please_I_Dont_Want_to_be_a_Magical_Girl:1> normal**(yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>source_anime, (aika:1.3), long hair, star-shaped buns, two-tone hair, yellow hair, black hair, dreadlocks, dark-skinned female, <lora:Aika__Pretty_Please_I_Dont_Want_to_be_a_Magical_Girl:1> magical girl, wings**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (karaba:1.3), <lora:Karaba_TheSorceress_PXL_Leaf1:1> Karaba, black hair, dark skin, very dark skin, red eyes, jewelry, earrings, necklace, gold jewelry**(yellow skin, orange skin, red skin:1.5)**

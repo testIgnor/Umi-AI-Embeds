@@ -5,6 +5,8 @@ monokini, topless, <[ezcovered][get eff_gen _before=[ _after=]]>
 monokini, topless, <[ezcovered][get eff_gen _before=[ _after=]]>, <[allpiercings]>
 slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingshotPony_resize:1>
 tapeproject, black tape, covered nipples, <[ezcovered][get eff_gen _before=[ _after=]]>, navel <lora:TapeProjectPDXL_byKonan:1>
+<lora:BLACK_TAPE_PROJECT:1> (Black_Tape_Project:1.8), (Black Tape Project:1.2), (naked_tape:1.2), naked tape, tattoo, black electrical tape, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:BLACK_TAPE_PROJECT:1> (Black_Tape_Project:1.8), (Black Tape Project:1.2), (naked_tape:1.2), naked tape, black electrical tape, <[ezcovered][get eff_gen _before=[ _after=]]>
 micro bikini, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:micro bikini_pony_V1.0:1>
 fully clothed, skimpy clothes, bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovered][get eff_gen _before=[ _after=]]>

@@ -20,6 +20,9 @@ by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
 by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
+by kaoming, <lora:kaoming:1> kaoming
+by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
+by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
 [/chance]
 [else]
 by dandon fuga
@@ -67,6 +70,13 @@ by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_Illustri
 by dmitrys <lora:Dmitrys_Style_Illustrious:1>
 by melkor mancin, <lora:Melkor_Middle_Years_Style_V01_IL:1> ffmelkormid
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
+by kaoming, <lora:kaoming:1> kaoming
+by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
+by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
+by afrobull, <lora:AfroBull:1> BullStyle
+by afrobull, <lora:Afrobull:1> BullStyle
+by afrobull <lora:AfrobullIXL:1>
+by afrobull <lora:AfrobullLycoXL:1>
 by dosh
 by utterangle
 by redwolfxiii
@@ -139,7 +149,10 @@ by badcompzero
 by streachybear
 by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
 by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.8>
-by afrobull
+by afrobull, <lora:AfroBull:1> BullStyle
+by afrobull, <lora:Afrobull:1> BullStyle
+by afrobull <lora:AfrobullIXL:1>
+by afrobull <lora:AfrobullLycoXL:1>
 by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
 by tarakanovich <lora:tarakanovich1.5:1>
 by nopeys, <lora:Nopeys:1> Nopeysstyle
@@ -171,6 +184,9 @@ by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:
 by rino99 <lora:fallen_ai_RINO99_style:1>
 by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
 by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
+by kaoming, <lora:kaoming:1> kaoming
+by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
+by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
 by 007delta
 by 0r0ch1
 by 1-upclock
