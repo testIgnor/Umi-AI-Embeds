@@ -321,7 +321,7 @@ as a <[ezage][get gender _before=[ _after=]]>
     [/else]
 [/set]
 
-[chance 50]
+[chance 25]
 [set prompt_suffix]
 <[imageformat]>, <[MyLocation]>, nude with lesbian pride flag draped over body, naked flag, wearing flag, lesbian pride flag, pride flag, <[eznude][get eff_gen _before=[ _after=]]>
 [/set]
