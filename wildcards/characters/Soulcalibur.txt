@@ -1,6 +1,6 @@
-(isabella valentine:1.3), soulcalibur, blue eyes, short hair, white hair <lora:JN_Isabella_Valentine_Illus:1>
-(cassandra alexandra:1.3), soulcalibur, blonde hair, green eyes, blue eyes, short hair <lora:JN_Cassandra_Alexandra_Illus:1>
-(sophitia alexandra:1.3), soulcalibur, blonde hair, green eyes, blue eyes, long hair <lora:JN_Sophitia_Alexandra_Illus:1>
+(isabella valentine:1.3), soulcalibur, blue eyes, short hair, white hair <lora:JN_Isabella_Valentine_Illus:0.8>
+(cassandra alexandra:1.3), soulcalibur, blonde hair, green eyes, blue eyes, short hair <lora:JN_Cassandra_Alexandra_Illus:0.8>
+(sophitia alexandra:1.3), soulcalibur, blonde hair, green eyes, blue eyes, long hair <lora:JN_Sophitia_Alexandra_Illus:0.8>
 (taki \(soulcalibur\):1.3), soulcalibur, brown eyes, brown hair, skin tight, long hair, black hair
 (chai xianghua:1.3), soulcalibur, brown eyes, short hair, brown hair
 (talim:1.3), soulcalibur, long hair, dark skin, brown eyes, black hair
