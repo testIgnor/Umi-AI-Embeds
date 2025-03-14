@@ -20,4 +20,3 @@
 <[model][illu]>source_anime, (susan test:1.3), <lora:SusanTest_LeafXL_2:1> Susan, Red hair, long hair, blunt bangs, blue eyes, glasses, star hair ornament
 <[model][illu]>source_anime, (jenny test:1.3), <lora:JennyTest_illustrious_Leaf6:1> jennyTest, blonde hair, blue eyes
 <[model][illu]>source_anime, (sissy blakely:1.3), <lora:SissyBlakely_Illustrious_Leaf5:1> SissyBlakely, blue eyes, blonde hair, ponytail, hairband
-
