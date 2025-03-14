@@ -9,7 +9,7 @@
 <[model][illu]>source_anime, (aloy:1.3), <lora:AloyilluLoRA:0.75> aly, long hair, multiple braids, freckles, hair ornament**(yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>source_furry, (scp-1471-A:1.3), <lora:Scp-1471-A-Ilustrious:0.75> Scp-1471-A_\(Scp\), Dark Grey Fur, Black Hair, wolf's Skull Face, Black Scelera, Colored Scelera, White Eyes, No Pupils, White Iris
 <[model][illu]>source_anime, (Sanstitre:1.3), <lora:asdas:1> ethnicallyambiguousfrenchtomboy, brown eyes, short hair, parted lips, freckles, brown hair, dark skin
-<[model][illu]>source_anime, (Padmé Amidala:1.3), <lora:Queen_Padmé_Amidala_Star_Wars_Episode_1:1>, Lipstick, Single red dot on both cheeks, brown eyes, brown hair, Crown
+<[model][illu]>source_anime, (Padmé Amidala:1.3), <lora:Queen_Padmé_Amidala_Star_Wars_Episode_1:1> Queen Padmé Amidala, Lipstick, Single red dot on both cheeks, brown eyes, brown hair, Crown
 <[model][illu]>source_anime, (elizabeth \(bioshock infinite\):1.3), brown hair, low ponytail, short hair, blue eyes, <lora:BioElizabeth:1> ELIZABETH2
 <[model][illu]>source_anime, (elizabeth \(bioshock infinite\):1.3), black hair, short hair, blue eyes, <lora:BioElizabeth:1> ELIZABETH1
 <[model][illu]>source_anime, (aika:1.3), long hair, star-shaped buns, two-tone hair, yellow hair, black hair, dreadlocks, dark-skinned female, <lora:Aika__Pretty_Please_I_Dont_Want_to_be_a_Magical_Girl:1> normal**(yellow skin, orange skin, red skin:1.5)**
