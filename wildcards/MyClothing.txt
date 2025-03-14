@@ -150,7 +150,7 @@ wearing [choose][call wildcards/species/animals][/choose] shaped mask and hood, 
 [# Default]
 [tags clothing]
 naked coat, <[eznude][get eff_gen _before=[ _after=]]>
-nude with lesbian pride flag draped over body, <[eznude][get eff_gen _before=[ _after=]]>
+nude with lesbian pride flag draped over body, naked flag, wearing flag, lesbian pride flag, pride flag, <[eznude][get eff_gen _before=[ _after=]]>
 fully clothed, [choose][call wildcards/colors][/choose] china dress, qipao, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 naked raincoat, <[eznude][get eff_gen _before=[ _after=]]>
