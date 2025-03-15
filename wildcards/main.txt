@@ -140,7 +140,7 @@ beast
 [/set]
 [/chance]
 
-[chance 45]
+[chance 10]
 [set futa_type]
 [choose]
 aberration
