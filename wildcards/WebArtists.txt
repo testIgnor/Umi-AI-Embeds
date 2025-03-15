@@ -13,9 +13,9 @@ by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
 by kaoming, <lora:kaoming:1> kaoming
 by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
 by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
-by bigrbear, <lora:bigrbear_Style_V1:1> bigrbear_style
-by bigrbear <lora:bigrbear_Artist_Style_PonyXL:1>
-by bigrbear <lora:bigbear:1>
+by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
+by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
+by bigrbear <lora:bigbear:0.8>
 by jay naylor
 by pixelsketcher
 [/chance]
