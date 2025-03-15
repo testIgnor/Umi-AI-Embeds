@@ -1,18 +1,9 @@
 [choose]
 [chance 66]
+[chance 50]
 by tarakanovich <lora:tarakanovich1.5:1>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
-by johndoe <lora:johndoe:0.8>
-by johndoe <lora:John_Doe_Style:0.8>
-by johndoe <lora:JohnDoe_lora:0.6>
-by pixelsketcher
-by doppel
-by slightlysimian
-by girlsay
 by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
-by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
-by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
-by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
 by exlic, <lora:ExLic_style:1> ExLic_style
 by rino99 <lora:fallen_ai_RINO99_style:1>
 by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
@@ -22,6 +13,13 @@ by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
 by kaoming, <lora:kaoming:1> kaoming
 by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
 by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
+by bigrbear, <lora:bigrbear_Style_V1:1> bigrbear_style
+by bigrbear <lora:bigrbear_Artist_Style_PonyXL:1>
+by bigrbear <lora:bigbear:1>
+by jay naylor
+by pixelsketcher
+[/chance]
+[else]
 by dandon fuga
 by [dandon fuga|sakimichan]
 by aroma sensei
@@ -74,6 +72,9 @@ by afrobull, <lora:AfroBull:1> BullStyle
 by afrobull, <lora:Afrobull:1> BullStyle
 by afrobull <lora:AfrobullIXL:1>
 by afrobull <lora:AfrobullLycoXL:1>
+by bigrbear, <lora:bigrbear_Style_V1:1> bigrbear_style
+by bigrbear <lora:bigrbear_Artist_Style_PonyXL:1>
+by bigrbear <lora:bigbear:1>
 by dosh
 by utterangle
 by redwolfxiii
@@ -122,6 +123,7 @@ by nakimayo
 by rz54
 by goopyarts
 by jay naylor
+[/else]
 [/chance]
 [else]
 by dandon fuga
@@ -183,6 +185,9 @@ by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
 by kaoming, <lora:kaoming:1> kaoming
 by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
 by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
+by bigrbear, <lora:bigrbear_Style_V1:1> bigrbear_style
+by bigrbear <lora:bigrbear_Artist_Style_PonyXL:1>
+by bigrbear <lora:bigbear:1>
 by 007delta
 by 0r0ch1
 by 1-upclock
