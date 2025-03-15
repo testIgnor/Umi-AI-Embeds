@@ -1,6 +1,5 @@
 [choose]
 [chance 66]
-[chance 55]
 by tarakanovich <lora:tarakanovich1.5:1>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by johndoe <lora:johndoe:0.8>
@@ -23,8 +22,6 @@ by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
 by kaoming, <lora:kaoming:1> kaoming
 by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
 by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
-[/chance]
-[else]
 by dandon fuga
 by [dandon fuga|sakimichan]
 by aroma sensei
@@ -125,7 +122,6 @@ by nakimayo
 by rz54
 by goopyarts
 by jay naylor
-[/else]
 [/chance]
 [else]
 by dandon fuga
