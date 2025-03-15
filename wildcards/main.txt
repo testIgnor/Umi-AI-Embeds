@@ -153,9 +153,11 @@ aberration
 [/set]
 
 [if "'Mechagodzilla' in franchise"]
+[chance 80]
 [set gender_suffix]
 , <[ezMechagodzillaFuta]>
 [/set]
+[/chance]
 [/if]
 [/function]
 
