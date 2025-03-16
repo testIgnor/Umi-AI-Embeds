@@ -13,11 +13,16 @@ by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
 by kaoming, <lora:kaoming:1> kaoming
 by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
 by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
-by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
-by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
-by bigrbear <lora:bigbear:0.8>
+by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
+by prywinko, <lora:prywXLP:1> pryw
 by jay naylor
 by pixelsketcher
+by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.8>
+by hoobamon <lora:Hoobamon:1>
+by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
+by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
+by firolian, <lora:FirolianLyco:1> uncensored, realistic
+by firolian, <lora:Firolian illus:1> firolian style
 [/chance]
 [else]
 by dandon fuga
@@ -72,9 +77,9 @@ by afrobull, <lora:AfroBull:1> BullStyle
 by afrobull, <lora:Afrobull:1> BullStyle
 by afrobull <lora:AfrobullIXL:1>
 by afrobull <lora:AfrobullLycoXL:1>
-by bigrbear, <lora:bigrbear_Style_V1:1> bigrbear_style
-by bigrbear <lora:bigrbear_Artist_Style_PonyXL:1>
-by bigrbear <lora:bigbear:1>
+by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
+by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
+by bigrbear <lora:bigbear:0.8>
 by dosh
 by utterangle
 by redwolfxiii
@@ -185,9 +190,9 @@ by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
 by kaoming, <lora:kaoming:1> kaoming
 by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
 by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
-by bigrbear, <lora:bigrbear_Style_V1:1> bigrbear_style
-by bigrbear <lora:bigrbear_Artist_Style_PonyXL:1>
-by bigrbear <lora:bigbear:1>
+by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
+by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
+by bigrbear <lora:bigbear:0.8>
 by 007delta
 by 0r0ch1
 by 1-upclock
