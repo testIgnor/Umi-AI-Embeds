@@ -6,23 +6,23 @@
 (scarlett johansson:1.3), sclt woman <lora:Scarlett-Johanson_token_sclt_woman_r64_model_EverClear_v1:0.6>, blonde hair, medium hair, lips
 (jennifer aniston:1.3), anst woman <lora:Jennifer-Aniston_token_anst_woman_r64_model_EverClear_v1:0.6>, blonde hair, long hair
 (katy perry:1.3), katp woman <lora:Katy-Perry_token_katp_woman_r64_model_EverClear_v1:0.6>, black hair, long hair, lips
-(ariana grande:1.3), <lora:ArianaGrande_V1:1> Arian4
-(billie eilish:1.3), <lora:BillieEilish:1> black hair, multicolored hair, black hair, green hair, hair bun, double bun, two-tone hair
-(emma watson:1.3), <lora:3mm4s-pony:1> 3mm4s
-(billie eilish;1.3), <lora:bieilish:1> bieilish
-(scarlett johansson:1.3), <lora:sc4rj0_09PN:1> sc4rj0
-(zendaya coleman:1.3), <lora:Zendaya_token_zendaya_woman_r64_model_EverClear_v1:1> zendaya woman
-(taylor swift:1.3), <lora:Taylor-Swift_token_taylor_woman_r64_model_EverClear_v1:1> taylor woman
-(daisy ridley:1.3), <lora:Daisy-Ridley_token_ridley_woman_r64_model_EverClear_v1:1> ridley woman
-(scarlett johansson:1.3), <lora:Scarlett_v4:1> ScarlettJ
-(emma watson:1.3), <lora:3mm4w-pony:1> 3mm4w
-(taylor swift:1.3), <lora:taySwiftPony:1> taySwift
-(scarlett johansson:1.3), <lora:model_name_v1:1> sc4rj0
-(jennette mccurdy:1.3), <lora:J34n3tt3_pdxl_v10:1> J34n3tt3
-(gal godot:1.3) <lora:Gal_Gadot_-_IL_XL:1>
-(emilia clarke:1.3), <lora:emclarke_100img_ponyxl_autism_withcap_merger_55_71_02_08-emxclarke:1> emxclarke
-(anne hathaway:1.3), <lora:anhahaway_ponyxl_autism_xl_1_standard_merger_15_43_96_02_03_05-anxhathaway:1> anxhathaway
-(scarlett johansson:1.3), <lora:scjohansson_ponyxl_autism_xl_1_standard_merger_51_23_07_03_scxjohansson:1> scxjohansson
-(margot robbie:1.3), <lora:marobbie_ponyxl_autism_standard_xl_1_merger_16_30_42_02_03_05:1> maxrobbie
-(emma watson:1.3), <lora:emwatson_ponyxl_standard_xl_1_wo_cap_merger_17_59_07_03_emxwatson:1> emxwatson
-(natalie portman:1.3), <lora:natportman_ponyxl_standard_xl_1_wo_cap_merger_18_72_03_07:1> natxportman
+(ariana grande:1.3), <lora:ArianaGrande_V1:0.6> Arian4
+(billie eilish:1.3), <lora:BillieEilish:0.6> black hair, multicolored hair, black hair, green hair, hair bun, double bun, two-tone hair
+(emma watson:1.3), <lora:3mm4s-pony:0.6> 3mm4s
+(billie eilish;1.3), <lora:bieilish:0.6> bieilish
+(scarlett johansson:1.3), <lora:sc4rj0_09PN:0.6> sc4rj0
+(zendaya coleman:1.3), <lora:Zendaya_token_zendaya_woman_r64_model_EverClear_v1:0.6> zendaya woman
+(taylor swift:1.3), <lora:Taylor-Swift_token_taylor_woman_r64_model_EverClear_v1:0.6> taylor woman
+(daisy ridley:1.3), <lora:Daisy-Ridley_token_ridley_woman_r64_model_EverClear_v1:0.6> ridley woman
+(scarlett johansson:1.3), <lora:Scarlett_v4:0.6> ScarlettJ
+(emma watson:1.3), <lora:3mm4w-pony:0.6> 3mm4w
+(taylor swift:1.3), <lora:taySwiftPony:0.6> taySwift
+(scarlett johansson:1.3), <lora:model_name_v1:0.6> sc4rj0
+(jennette mccurdy:1.3), <lora:J34n3tt3_pdxl_v10:0.6> J34n3tt3
+(gal godot:1.3) <lora:Gal_Gadot_-_IL_XL:0.6>
+(emilia clarke:1.3), <lora:emclarke_100img_ponyxl_autism_withcap_merger_55_71_02_08-emxclarke:0.6> emxclarke
+(anne hathaway:1.3), <lora:anhahaway_ponyxl_autism_xl_1_standard_merger_15_43_96_02_03_05-anxhathaway:0.6> anxhathaway
+(scarlett johansson:1.3), <lora:scjohansson_ponyxl_autism_xl_1_standard_merger_51_23_07_03_scxjohansson:0.6> scxjohansson
+(margot robbie:1.3), <lora:marobbie_ponyxl_autism_standard_xl_1_merger_16_30_42_02_03_05:0.6> maxrobbie
+(emma watson:1.3), <lora:emwatson_ponyxl_standard_xl_1_wo_cap_merger_17_59_07_03_emxwatson:0.6> emxwatson
+(natalie portman:1.3), <lora:natportman_ponyxl_standard_xl_1_wo_cap_merger_18_72_03_07:0.6> natxportman
