@@ -6,3 +6,9 @@
 (bree daniels:1.3), <lora:Bree_Daniels:0.7> breedaniels, brown hair, red hair, short hair, green eyes
 (abella danger:1.3), <lora:Abella_Danger:0.7> abelladanger, brown eyes, brown hair, long hair
 (sera ryder:1.3), <lora:Sera_Ryder_Pony:0.7> seraryder, brown eyes, brown hair, long hair
+(adriana chechik:1.3), <lora:Adrianna_v1:1> AdriannaC
+(remy lacroix:1.3), <lora:Remy Lacroix PonyXL:1> remylacroix, hazel eyes
+(emiru:1.3), <lora:EmiruPony:1> emirulol, emiru, emiru \(twitch streamer\), long black hair, bangs, black eyes
+(belle delphine:1.3), <lora:DI_Belle_Delphine_pony:1> Belle Delphine
+(belle delphine:1.3), <lora:BelleDelphinev2:1> BelleDelphine
+(tawnee stone:1.3), <lora:T4wn33S_pdxl_v10:1> T4wn33S, brown hair, brown eyes

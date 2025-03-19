@@ -9,10 +9,8 @@ characters
 [/set]
 [set franchise]
 [choose]
-Cartoons
-Divinity
-Misc
-GoT
+celebs
+pstars
 [/choose]
 [/set]
 
@@ -29,7 +27,7 @@ pstars
 [/set]
 [/chance]
 
-[chance 10]
+[chance 0]
 [set characterType]
 [choose]
 myspecies
@@ -270,7 +268,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 40]
 [call choose_franchise_simple]
 [/chance]
 
