@@ -28,6 +28,7 @@ open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][ge
 <lora:UIMXLNAI:1> knee boots, high heel boots, UIM(\azur\), black jacket, open jacket, black choker, cropped jacket, highleg
 tankini, tank top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
 high cut crop top hoodie with bikini, breast-exposing crop top hoodie, bikini top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
+breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes
 [/tags]
 
 [tags clothing clothing_type="bodysuit"]
@@ -128,6 +129,7 @@ white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, 
 <lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
 <lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown
+skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes
 [/tags]
 
 [tags clothing clothing_type="bondage"]
