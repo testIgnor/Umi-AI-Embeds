@@ -22,14 +22,14 @@
   Tags:
     - Misc
     - MySpecies
-'<[model][pony]>source_furry, $#_=Species/Pokemon=_#$, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
+'<[model][pony]>source_furry, _=Species/Pokemon=_, pokemon anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
   Description:
     - Pokemon Anthro
   Tags:
     - Pokemon
     - MySpecies
     - Anthro
-'<[model][pony]>source_furry, $#_=Species/Pokemon=_#$, feral pokemon, feral, pokemon \(creature\)**(anthro, pokeball:2.0), (hair, hat, headwear:2.0)**':
+'<[model][pony]>source_furry, _=Species/Pokemon=_, feral pokemon, feral, pokemon \(creature\)**(anthro, pokeball:2.0), (hair, hat, headwear:2.0)**':
   Description:
     - Pokemon Feral
   Tags:
