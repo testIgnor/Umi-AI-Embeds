@@ -14,7 +14,7 @@ disney
 [/choose]
 [/set]
 
-[chance 0]
+[chance 25]
 [set characterType]
 [choose]
 characters
@@ -22,12 +22,12 @@ characters
 [/set]
 [set franchise]
 [choose]
-pstars
+celebs
 [/choose]
 [/set]
 [/chance]
 
-[chance 0]
+[chance 10]
 [set characterType]
 [choose]
 myspecies
@@ -35,7 +35,7 @@ myspecies
 [/set]
 [set franchise]
 [choose]
-royalty
+special kinds
 [/choose]
 [/set]
 [/chance]
