@@ -80,6 +80,9 @@ by afrobull <lora:AfrobullLycoXL:1>
 by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
 by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
 by bigrbear <lora:bigbear:0.8>
+by flowerxl, <lora:PONYXL_STYLE_FlowerXL_ownwaifu:1> PONYXL_STYLE_FlowerXL_ownwaifu
+by zumi, <lora:PONYXL_STYLE_Zumi_ownwaifu:1> PONYXL_STYLE_Zumi_ownwaifu
+by zheng, <lora:PONYXL_FAP_ARTSTYLE_Zheng_ownwaifu:1> ponyxl_fap_artstyle_zheng_ownwaifu
 by dosh
 by utterangle
 by redwolfxiii
@@ -193,6 +196,9 @@ by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
 by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
 by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
 by bigrbear <lora:bigbear:0.8>
+by flowerxl, <lora:PONYXL_STYLE_FlowerXL_ownwaifu:1> PONYXL_STYLE_FlowerXL_ownwaifu
+by zumi, <lora:PONYXL_STYLE_Zumi_ownwaifu:1> PONYXL_STYLE_Zumi_ownwaifu
+by zheng, <lora:PONYXL_FAP_ARTSTYLE_Zheng_ownwaifu:1> ponyxl_fap_artstyle_zheng_ownwaifu
 by 007delta
 by 0r0ch1
 by 1-upclock
