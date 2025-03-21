@@ -11,6 +11,15 @@
 (vaporeon:1.3)
 (jolteon:1.3)
 (eevee:1.3)
+(glaceon:1.3), <lora:EeveeLoveParadisePony:1> Female pokemon, skinny, sexually suggestive, perfect body
+(leafeon:1.3), <lora:EeveeLoveParadisePony:1> Female pokemon, skinny, sexually suggestive, perfect body
+(flareon:1.3), <lora:EeveeLoveParadisePony:1> Female pokemon, skinny, sexually suggestive, perfect body
+(sylveon:1.3), <lora:EeveeLoveParadisePony:1> Female pokemon, skinny, sexually suggestive, perfect body
+(espeon:1.3), <lora:EeveeLoveParadisePony:1> Female pokemon, skinny, sexually suggestive, perfect body
+(umbreon:1.3), <lora:EeveeLoveParadisePony:1> Female pokemon, skinny, sexually suggestive, perfect body
+(vaporeon:1.3), <lora:EeveeLoveParadisePony:1> Female pokemon, skinny, sexually suggestive, perfect body
+(jolteon:1.3), <lora:EeveeLoveParadisePony:1> Female pokemon, skinny, sexually suggestive, perfect body
+(eevee:1.3), <lora:EeveeLoveParadisePony:1> Female pokemon, skinny, sexually suggestive, perfect body
 (lopunny:1.3)
 (cinderace:1.3)
 (braixen:1.3)
