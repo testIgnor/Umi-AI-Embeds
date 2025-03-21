@@ -27,7 +27,7 @@ celebs
 [/set]
 [/chance]
 
-[chance 10]
+[chance 50]
 [set characterType]
 [choose]
 myspecies
@@ -35,7 +35,7 @@ myspecies
 [/set]
 [set franchise]
 [choose]
-special kinds
+pokemon
 [/choose]
 [/set]
 [/chance]
