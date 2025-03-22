@@ -14,7 +14,7 @@ disney
 [/choose]
 [/set]
 
-[chance 25]
+[chance 0]
 [set characterType]
 [choose]
 characters
@@ -27,7 +27,7 @@ celebs
 [/set]
 [/chance]
 
-[chance 50]
+[chance 0]
 [set characterType]
 [choose]
 myspecies
@@ -268,7 +268,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 90]
+[chance 0]
 [call choose_franchise_simple]
 [/chance]
 
