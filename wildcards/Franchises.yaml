@@ -84,7 +84,7 @@
   Tags:
     - MySpecies
     - Warhammer
-'<[model][pony]>source_anime, _=Species/Aeromorphs=_, <lora:Aeromorph_for_pony:1> aeromp**(airplane in sky, plane in sky, jet in sky:2.0)**':
+'<[model][pony]>source_anime, _=Species/Aeromorphs=_, <lora:Aeromorph_for_pony:1> (aeromp:1.5)**(airplane in sky, plane in sky, jet in sky:2.0)**':
   Description:
     - Aeromorphs
   Tags:
