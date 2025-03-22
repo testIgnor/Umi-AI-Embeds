@@ -1,0 +1,10 @@
+(palutena:1.3)
+(pandora:1.3), <lora:amazonpandora-pdxl-nvwls-v1:1> pdra, blue hair, very long hair, high ponytail, purple eyes
+(pandora:1.3), <lora:P2:1> ccpandora, pink eyes, blue hair, big hair, long hair, high ponytail, medium breasts, blue nails
+(phosphora:1.3), <lora:phosphora-pdxl-nvwls-v1:1> pspra, blonde hair, orange hair, gradient hair, medium hair, purple eyes
+(phosphora:1.3), <lora:Phosphora_-_Kid_Icarus:1> Phosphora_KI, blonde hair, purple eyes, short hair, multicolored hair
+(phosphora:1.3), <lora:Ph2:1> ccphosphora, short hair, flipped hair, gradient hair, blonde hair, orange hair, purple eyes, yellow nails
+(viridi:1.3), <lora:ViridiXL:1> viridixl, long hair, blonde hair, green eyes, very long hair, ponytail
+(viridi:1.3), <lora:v7:1> ccviridi, blonde hair, yellow eyes, v-shaped eyebrows, sidelocks, single hair intake, side ponytail, very long hair, ponytail holder, forehead, green nails
+(medusa:1.3), <lora:Medusa_-_Kid_Icarus:1> Medusa_KI, snake hair, colored skin, pale skin
+(medusa:1.3),  <lora:M5:1> ccmedusa, monster girl, pale skin, colored extremities, scales, snake hair, long hair, black hair, floating hair, blue eyes, slit pupils, facial tattoo, red nails, sharp fingernails

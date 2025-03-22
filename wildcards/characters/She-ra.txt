@@ -1,9 +1,13 @@
 (adora \(she-ra\):1.3)
+(adora \(she-ra\):1.3), <lora:sh3r4:1> sh3r4, long hair, blonde hair, blue eyes, ponytail
 (catra:1.3)
-(glimmer \(she-ra\):1.3)
-(entrapa:1.3)
+(catra:1.3), <lora:Catra_Shera_Pony:1> Catra_Shera, heterochromia, colored sclera
+(glimmer \(she-ra\):1.3), <lora:GlimmerV5:1> Gl1m3r, brown eyes, short hair, pink hair
+(glimmer \(she-ra\):1.3), <lora:Glimmer_She-Ra_and_the_princessess_of_power:1> glimmer_sr, pink hair, short hair
+(entrapa:1.3), <lora:EntraptaSheraPDXL_v2:1> zzEntrapta, red eyes, purple hair, long hair, twintails, very long hair
 (spinnerella:1.3)
 (queen angella:1.3)
-(mermista:1.3)
+(mermista:1.3), <lora:Mermista_she-ra_and_the_princesses_of_power:1> mermista, long hair, blue hair, dark skin, dark-skinned female
 (huntara:1.3)
 (illaoi:1.3)
+(frostra:1.3), <lora:Frosta_She-ra_and_the_princesses_of_power:1> frosta, blue hair, blunt bangs, black eyes

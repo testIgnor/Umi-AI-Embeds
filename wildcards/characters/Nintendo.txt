@@ -12,7 +12,6 @@
 (princess peach \(wedding\):1.3), blonde hair, blue eyes, long hair
 (bow \(paper mario\):1.3), long hair, green hair, facial hair
 (peachette:1.3), blonde hair, blue eyes, long hair, twintails, twin braids
-(palutena:1.3)
 (samus aran:1.3)
 (dark samus:1.3), black sclera, blue skin, black hair
 (dark samus:1.3), black sclera, blue skin, black hair, <lora:Dark_Samus_Phazon:1> phaazian

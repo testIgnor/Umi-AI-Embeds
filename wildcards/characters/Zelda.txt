@@ -28,3 +28,11 @@
 (great fairy \(zelda\):1.3), blue eyes, long hair, blonde hair, tpgrtfiry, sarong, wings <lora:tp_great_fairy_tpgrtfiry_ponyxl_v2:1>
 (wolf link:1.3), (genderswap:1.4), <lora:wolflink:1> wolflink, wolflink, wolf anthro, earrings, white facial markings, blue eyes, wolf tail, fluffy chest fur
 (epona:1.3), <lora:Epona:1>, horse anthro, white mane, white tail, blue eyes, long eyelashes, brown fur
+(maggie:1.3), <lora:MaggieWW:1> maggieww, maggiepoor, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
+(maggie:1.3), <lora:MaggieWW:1> maggieww, maggierich, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
+(sue belle:1.3), <lora:Sue Belle Pony:1> Sue Belle
+(medli:1.3), <lora:Medli_windwaker:1> medli, brown hair, red eyes, beak, pointy ears, ponytail
+(toon zelda:1.3), <lora:WindWakerStyle_Illustrious_NTRMIX_V3:1> WindWakerStyle, hair ornaments, jewelry, eyeshadow
+(tetra:1.3), <lora:WindWakerStyle_Illustrious_NTRMIX_V3:1> WindWakerStyle, brown skin, blonde hair, hair bun, blue eyes, dark-skinned female, pointy ears
+(tetra:1.3) <lora:Tetra:1>, brown skin, blonde hair, hair bun, blue eyes, dark-skinned female, pointy ears
+(tetra:1.3) <lora:TetraThe_legend_of_zelda_PONY:1>, brown skin, blonde hair, hair bun, blue eyes, dark-skinned female, pointy ears

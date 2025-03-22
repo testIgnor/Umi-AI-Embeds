@@ -23,6 +23,11 @@ by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
 by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
+by camonome, <lora:Camonome_Style:1> by_kamonome
+by camonome, <lora:Camonome:1> Camonome
+by camonome <lora:Camonome-v1-PDXL:1>
+by camonome <lora:Camonome_style:1>
+by camonome <lora:CamonomeV3:1>
 [/chance]
 [else]
 by dandon fuga
@@ -83,6 +88,11 @@ by bigrbear <lora:bigbear:0.8>
 by flowerxl, <lora:PONYXL_STYLE_FlowerXL_ownwaifu:1> PONYXL_STYLE_FlowerXL_ownwaifu
 by zumi, <lora:PONYXL_STYLE_Zumi_ownwaifu:1> PONYXL_STYLE_Zumi_ownwaifu
 by zheng, <lora:PONYXL_FAP_ARTSTYLE_Zheng_ownwaifu:1> ponyxl_fap_artstyle_zheng_ownwaifu
+by camonome, <lora:Camonome_Style:1> by_kamonome
+by camonome, <lora:Camonome:1> Camonome
+by camonome <lora:Camonome-v1-PDXL:1>
+by camonome <lora:Camonome_style:1>
+by camonome <lora:CamonomeV3:1>
 by dosh
 by utterangle
 by redwolfxiii
@@ -199,6 +209,11 @@ by bigrbear <lora:bigbear:0.8>
 by flowerxl, <lora:PONYXL_STYLE_FlowerXL_ownwaifu:1> PONYXL_STYLE_FlowerXL_ownwaifu
 by zumi, <lora:PONYXL_STYLE_Zumi_ownwaifu:1> PONYXL_STYLE_Zumi_ownwaifu
 by zheng, <lora:PONYXL_FAP_ARTSTYLE_Zheng_ownwaifu:1> ponyxl_fap_artstyle_zheng_ownwaifu
+by camonome, <lora:Camonome_Style:1> by_kamonome
+by camonome, <lora:Camonome:1> Camonome
+by camonome <lora:Camonome-v1-PDXL:1>
+by camonome <lora:Camonome_style:1>
+by camonome <lora:CamonomeV3:1>
 by 007delta
 by 0r0ch1
 by 1-upclock
