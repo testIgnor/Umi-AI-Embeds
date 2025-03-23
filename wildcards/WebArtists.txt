@@ -10,10 +10,6 @@ by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
 by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
-by kaoming, <lora:kaoming:1> kaoming
-by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
-by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
-by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
 by prywinko, <lora:prywXLP:1> pryw
 by jay naylor
 by pixelsketcher
@@ -23,11 +19,6 @@ by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
 by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
-by camonome, <lora:Camonome_Style:1> by_kamonome
-by camonome, <lora:Camonome:1> Camonome
-by camonome <lora:Camonome-v1-PDXL:1>
-by camonome <lora:Camonome_style:1>
-by camonome <lora:CamonomeV3:1>
 [/chance]
 [else]
 by dandon fuga
