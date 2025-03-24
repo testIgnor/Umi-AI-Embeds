@@ -6,4 +6,4 @@
 <[model][pony]>source_anime, (blazermate:1.3) <lora:pochincoff.pony:0.75>
 <[model][pony]>source_anime, (jennifer:1.3) <lora:pochincoff.pony:0.75>
 <[model][pony]>source_anime, (orca \(pochincoff\):1.0), (orca:1.3) <lora:pochincoff.pony:0.75>
-<[model][pony]>source_anime, (rebecca \(pochincoff\):1.0), (rebecca:1.3) <lora:pochincoff.pony:0.75>
+<[model][pony]>source_anime, (rebecca \(cyberpunk\):1.0), (rebecca:1.3) <lora:pochincoff.pony:0.75>
