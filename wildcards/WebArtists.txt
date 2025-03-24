@@ -86,6 +86,8 @@ by camonome <lora:Camonome-v1-PDXL:1>**(speech bubble, text, japanese text, hira
 by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by john doe shinobu <lora:john_doe_shinobu:1>
+by echosaber <lora:Echosaber_-_Style:1>
+by echosaber, <lora:echosaberILLUS:1> echosaber
 by dosh
 by utterangle
 by redwolfxiii
