@@ -19,6 +19,8 @@ by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
 by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
+by johndoe, by john doe <lora:johndoe:1>
+by johndoe, by john doe <lora:johndoe_IL:1>
 [/chance]
 [else]
 by dandon fuga
@@ -31,9 +33,8 @@ by [personal ami|personal ami, (aroma sensei:0.5)] <lora:ALTXLpony_063_8:1>**(lo
 by tarakanovich <lora:tarakanovich1.5:1>
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
-by johndoe <lora:johndoe:0.8>
-by johndoe <lora:John_Doe_Style:0.8>
-by johndoe <lora:JohnDoe_lora:0.6>
+by johndoe, by john doe <lora:johndoe:1>
+by johndoe, by john doe <lora:johndoe_IL:1>
 by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
 by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
 by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.8>
@@ -84,6 +85,7 @@ by camonome, <lora:Camonome:1> Camonome
 by camonome <lora:Camonome-v1-PDXL:1>
 by camonome <lora:Camonome_style:1>
 by camonome <lora:CamonomeV3:1>
+by john doe shinobu <lora:john_doe_shinobu:1>
 by dosh
 by utterangle
 by redwolfxiii
@@ -141,9 +143,8 @@ by personal ami
 by [dandon fuga|sakimichan]
 by prywinko, <lora:prywXLP:1> pryw
 by revolverwing <lora:rwing illustrious 003:1>
-by johndoe <lora:johndoe:0.8>
-by johndoe <lora:John_Doe_Style:0.8>
-by johndoe <lora:JohnDoe_lora:0.6>
+by johndoe, by john doe <lora:johndoe:1>
+by johndoe, by john doe <lora:johndoe_IL:1>
 by kittew <lora:kittew-artist-richy-v1_ixl:1>
 by hornyx <lora:hornyx_pony:1>
 by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
@@ -205,6 +206,7 @@ by camonome, <lora:Camonome:1> Camonome
 by camonome <lora:Camonome-v1-PDXL:1>
 by camonome <lora:Camonome_style:1>
 by camonome <lora:CamonomeV3:1>
+by john doe shinobu <lora:john_doe_shinobu:1>
 by 007delta
 by 0r0ch1
 by 1-upclock
