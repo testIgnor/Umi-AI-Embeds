@@ -18,7 +18,7 @@
 (eveningwear tracer \(overwatch\):1.3), overwatch, brown eyes, blonde hair, short hair <lora:Eveningwear_Tracer_Overwatch:0.75>
 (operative oxton:1.3), tracer \(overwatch\), overwatch, brown eyes, multicolored hair, black hair, green hair, short hair, spiked hair <lora:OW_TalonTracer-PONY:0.75> ow_oxton
 (tracer \(overwatch\):1.3), overwatch, le sserafim tracer, overwatch tracer, short hair, spiky hair, blonde hair <lora:Overwatch_-_Le_Sserafim_-_Tracer:0.75>
-(widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair
+(widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair, long ponytail
 (cote d'azur widowmaker:1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair**ponytail**
 (Amélie Lacroix:1.3), widowmaker \(overwatch\), yellow eyes, black hair, long hair, ponytail**(purple skin, colored skin:1.5)**
 (emily \(overwatch\):1.3), overwatch, red hair, freckles, medium hair, ginger, green eyes, red hair
@@ -42,3 +42,4 @@
 (sojourn \(overwatch\):1.3), overwatch, sojournSDXL, blue eyes, facial mark, white hair, (dark skin, dark-skinned female:1.3), science fiction, joints, cyborg, robot joints, very dark skin, dreadlocks, mechanical legs <lora:sojourn:0.75>
 (alejandra \(overwatch\):1.3), overwatch, ale, brown hair, (dark skin, dark-skinned female:1.3), twin braids <lora:AlejandraPony1.1:0.75>
 (efi oladele \(overwatch\):1.3), overwatch, <lora:Efi_Oladele_Overwatch_for_PonyXL:0.75> efi_oladele, dark-skinned female, very dark skin, facepaint, dreadlocks, black hair, short hair**(kiriko \(overwatch\):1.5)**
+(echo \(overwatch\):1.3), overwatch, <lora:EchoStealth:1> mecha, no humans, science fiction, wings, mechanical wings, humanoid robot
