@@ -2,4 +2,4 @@
 (dancer shantae:1.3), long hair, big hair, dark-skinned female, blue eyes, purple hair, very long hair, pointy ears, dark skin
 (rottytops:1.3), green skin, red eyes, green hair, short hair, colored skin
 (risky boots:1.3), red eyes, purple skin, blue skin, colored skin, purple hair
-(sky \(shantae\):1.3), blue eyes, blonde hair
+(sky \(shantae\):1.3), blue eyes, <lora:shsky-pdxl-nvwls-v1:1> shSky, blonde hair, antenna hair, dark-skinned female
