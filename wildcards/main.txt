@@ -88,7 +88,7 @@ male
 [/set]
 [/chance]
 
-[chance 30]
+[chance 80]
 [set gender]
 futanari
 [/set]
@@ -138,7 +138,7 @@ beast
 [/set]
 [/chance]
 
-[chance 10]
+[chance 100]
 [set futa_type]
 [choose]
 aberration
@@ -168,13 +168,13 @@ Sets age_prompt
 middle
 [/set]
 
-[chance 40]
+[chance 70]
 [set age_range]
 lower
 [/set]
 [/chance]
 
-[chance 20]
+[chance 30]
 [set age_range]
 upper
 [/set]
