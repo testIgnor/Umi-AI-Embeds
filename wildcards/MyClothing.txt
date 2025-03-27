@@ -67,6 +67,7 @@ mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff
 <lora:th1nbodysu1t:1> th1nbodysu1t, highleg, <[covered][lower][get eff_gen _before=[ _after=]]>
 <lora:th1nbodysu1t:1> th1nbodysu1t, highleg, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:th1nbodysu1t:1> th1nbodysu1t, highleg, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:bodystocking noob e1:1> bodystocking
 [/tags]
 
 [tags clothing clothing_type="bunnysuit"]
@@ -95,7 +96,7 @@ unconventional maid, yuino maid dress, <[ezcovered][get eff_gen _before=[ _after
 bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>, <[allpiercings]>
-(pinup, exhibitionism:1.1), revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear:1.2), <[ezcovered][get eff_gen _before=[ _after=]]>, <[eznips]>, navel**(fishing net:1.5)**
+revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, slutwear:1.2), <[ezcovered][get eff_gen _before=[ _after=]]>, <[eznips]>, navel**(fishing net:1.5)**
 blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos, <lora:Lunas-Blackedwear-Concept-SDXL-A1:1>
 <lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:St._Louis_Luxurious_Wheels:1> L0x0r100s_Wh33l5, silver dress, halterneck, backless dress, halter dress, revealing clothes, <[covered][upper][get eff_gen _before=[ _after=]]>
@@ -130,6 +131,9 @@ white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, 
 <lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown
 skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes
+<lora:hud_dk_mdressXLPfix:1> hud_dk_mdress, see-through white loose fit lace mod dress, short dress, baggy clothes, long sleeves, white hairband, earrings
+bridal lingerie, <lora:bridal_2.0:1> BR1D4LL1NG3R13
+<lora:lbc_pony_wedding dress_126:1> lbc_gd_wedding dress
 [/tags]
 
 [tags clothing clothing_type="bondage"]
@@ -189,6 +193,7 @@ open bathrobe, <[eznude][get eff_gen _before=[ _after=]]>
 open bathrobe, <[covered][upper][get eff_gen _before=[ _after=]]>
 open clothes, <[eznude][get eff_gen _before=[ _after=]]>
 open shirt, <[eznips]>
+<lora:Open_Clothes_Lingerie:1> open shirt, loose necktie, open pants, black bra, white panties
 functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
 <[eztopless][get eff_gen _before=[ _after=]]>
 slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingshotIllustrious:1>
@@ -235,7 +240,7 @@ evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][
 fully clothed, skimpy clothes
 fully clothed, wedding dress, bride, wedding
 fully clothed, kimono
-loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, fishnets, slutwear**(fishing net:1.5)**
+loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, slutwear, <lora:Loose_clothing_IL:1> Loose clothing**(fishing net:1.5)**
 school uniform
 serafuku
 fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume
@@ -258,7 +263,7 @@ front-tie top
 crop top, front-tie top
 race queen, race queen outfit
 tribal clothing, tribal outfit
-backless dress, sleevless dress, loose dress, areola slip
+backless dress, sleevless dress, loose dress, areola slip, <lora:Loose_clothing_IL:1> Loose clothing,
 gothic lolita, lolita fashion, black dress, black and white dress, long dress, frilled dress, frills, ribbon, bow, blush, long sleeves, thighhighs
 parasite, <lora:chokerV2:1> alien parasite ckr sucked on neck, ckr
 goddess dress, <lora:goddessdressILL:0.4> g0dd3ss, white dress, cleavage, plunging neckline
@@ -319,9 +324,13 @@ mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff
 tattered dress, ruined dress, ripped dress, exposed breasts, <[eznips]>, <[allpiercings]>
 tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[eznips]>, <[allpiercings]>
 tattered dress, ruined dress, ripped dress, one breast visible through ripped clothes, <[eznips]>, <[allpiercings]>
-oversized tank top, tank top, (breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank, military vehicle:2.0)**
-oversized tank top, tank top, (breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <[eznips]>, <[allpiercings]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank, military vehicle:2.0)**
-(crop top t-shirt, underboob, loose-fitting clothes:1.5), <[ezbottomless][get eff_gen _before=[ _after=]]>, <[covered][upper]>
+oversized tank top, tank top, (breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <lora:Loose_clothing_IL:1> Loose clothing, <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank, military vehicle:2.0)**
+oversized tank top, tank top, (breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <lora:Loose_clothing_IL:1> Loose clothing, <[eznips]>, <[allpiercings]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank, military vehicle:2.0)**
+(crop top t-shirt, underboob, loose-fitting clothes:1.5), <lora:Loose_clothing_IL:1> Loose clothing, <[ezbottomless][get eff_gen _before=[ _after=]]>, <[covered][upper]>
+(crop top t-shirt, underboob, loose-fitting clothes:1.5), <lora:Loose_clothing_IL:1> Loose clothing
+(crop top t-shirt, underboob, loose-fitting clothes:1.5), <lora:overhang_xl:1> crop top overhang
+<lora:Loose_clothing_IL:1> Loose clothing, open robes
+<lora:Loose_clothing_IL:1> Loose clothing, overhang, open robes, plunging neckline
 topless coveralls, coveralls, <[eztopless][get eff_gen _before=[ _after=]]>
 airline stewardess outfit, stewardess uniform
 (robotic exoskeleton:1.5), (mechanical arms, mechanical legs:1.2), exoskeleton, exosuit, <[eznude][get eff_gen _before=[ _after=]]>
@@ -339,4 +348,15 @@ olympic gymnastics outfit, sheer clothes, <[eznude][get eff_gen _before=[ _after
 olympic gymnastics outfit, sheer clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Queens_Gown:1> Queens_Garb, flowing royal dress, midriff, golden belt, <[ezbottomless][get eff_gen _before=[ _after=]]>, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:Queens_Gown:1> Queens_Garb, flowing royal dress, midriff, golden belt, <[ezbottomless][get eff_gen _before=[ _after=]]>
+<lora:nm_redloose:1> nm_redloose, navel, dress, shoes, red dress, short dress, o-ring, contrapposto, underboob, detached sleeves, high heels, red footwear, underwear, red panties, jewelry, earrings
+<lora:0526 See-through rhinestone chain clothes_v1_pony:1> ruanyi0526, belly chain, diamond \(gemstone\), barefoot, headdress, jewelry
+<lora:0402 Breast exposure fun_v1_pony:1> ruanyi0402, bare shoulders, wrist scrunchie, see-through, lace, breastless clothes, nipples, pussy
+<lora:overhang_xl:1> crop top overhang
+<lora:0438 chunli costume_v1_pony:1> ruanyi0438, thighhighs, detached sleeves, lace-trimmed legwear, breast curtains, corset, spiked bracelet, tassel, thong, chun-li, chinese clothes, spikes
+<lora:0325 printed transparent cheongsam_v1_pony:1> ruanyi0325, see-through dress, nipples, pelvic curtain, side slit, <[ezbottomless][get eff_gen _before=[ _after=]]>, short sleeves, china dress, star print
+<lora:0270 Slit nipple piercings_v1_pony:1> ruanyi0270, black dress, chain, choker, nipple piercing, see-through, pelvic curtain, <[ezbottomless][get eff_gen _before=[ _after=]]>, no panties
+<lora:0539 Fubuki fan costume_v1_pony:1> ruanyi0539, fingerless gloves, fur coat, high heel boots, pearl necklace, slingshot swimsuit
+<lora:sport bra_illustrious_V1.0:1> sports bra, sports panties
+<lora:jewelry bikini_illustrious_V1.0:1> jewelry bikini, jewelry on nipples, jewelry on pussy
+ <lora:Loincloth_Aside_XL:1> loincloth aside, <[ezbottomless][get eff_gen _before=[ _after=]]>, loincloth lift
 [/tags]
