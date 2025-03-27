@@ -138,7 +138,7 @@ beast
 [/set]
 [/chance]
 
-[chance 10]
+[chance 20]
 [set futa_type]
 [choose]
 aberration
@@ -274,7 +274,7 @@ Main
 
 [call set_gender]
 
-[chance 100]
+[chance 0]
 [set gender]
 futanari
 [/set]
