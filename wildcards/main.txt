@@ -88,7 +88,7 @@ male
 [/set]
 [/chance]
 
-[chance 80]
+[chance 30]
 [set gender]
 futanari
 [/set]
@@ -138,7 +138,7 @@ beast
 [/set]
 [/chance]
 
-[chance 100]
+[chance 10]
 [set futa_type]
 [choose]
 aberration
@@ -273,6 +273,18 @@ Main
 [/chance]
 
 [call set_gender]
+
+[chance 100]
+[set gender]
+futanari
+[/set]
+[set gender_short]1futa[/set]
+[set eff_gen]futanari[/set]
+[set gender_suffix]
+, <[FutaAddon][prolapse penis]>
+[/set]
+[/chance]
+
 [call set_age gender="{get gender}"]
 
 [set characterprompt]
