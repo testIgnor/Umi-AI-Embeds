@@ -1,30 +1,31 @@
-outdoors, (tropical beach with the ocean in the background:1.2)**(beach ball:2.0)**
-outdoors, (on the street of a medieval fantasy town:1.4)
-(in a corporate office:1.2)
-(in an abandoned warehouse:1.3)
-(white background, simple background:1.3)
-(in the spotlight, simple background:1.3)
-(grey background, simple background:1.3)
-(in an urban public park:1.4)
-(on the rooftops in a futuristic cyberpunk city:1.4)
-(in a bedroom:1.4)
-(in a fancy hotel penthouse:1.4)
-(in a snowy nordic forest:1.2)
-(vaporwave background:1.2)
-(in a holy cathedral:1.4)
-(fashion runway:1.3)**(airport, airplane, tarmac, road:2.0)**
-(blue skies with clouds:1.5)
-(rolling green hills with a clear blue sky:1.4)
-(in a church:1.4)
-(acid trip background, rainbow background:1.3)
-(under a full moon:1.3)
-(in the royal stables:1.3)
-(in the royal dressing room:1.3)
-(in the royal throne room:1.3)
-(at a rave, in a night club, rave, neon:1.3)**(stripper pole, pole:1.5)**
-outdoors, (in an enchanted fantasy forest:1.2)
-outdoors, (in an elegant regal estate garden:1.2)
-(at a cabaret club, at a hostess club:1.3), fancy upscale rich bar
+[choose]
+outdoors, tropical beach with the ocean in the background**(beach ball:2.0)**
+outdoors, on the street of a medieval fantasy town
+in a corporate office
+in an abandoned warehouse
+white background, simple background
+in the spotlight, simple background
+grey background, simple background
+in an urban public park
+on the rooftops in a futuristic cyberpunk city
+in a bedroom
+in a fancy hotel penthouse
+in a snowy nordic forest
+vaporwave background
+in a holy cathedral
+fashion runway**(airport, airplane, tarmac, road:2.0)**
+blue skies with clouds
+rolling green hills with a clear blue sky
+in a church
+acid trip background, rainbow background
+under a full moon
+in the royal stables
+in the royal dressing room
+in the royal throne room
+at a rave, in a night club, rave, neon**(stripper pole, pole:2.0)**
+outdoors, in an enchanted fantasy forest
+outdoors, in an elegant regal estate garden
+at a cabaret club, at a hostess club, fancy upscale rich bar
 Brick Wall background
 Wood Planks background
 Concrete Texture background
@@ -125,203 +126,202 @@ Waterfall Mist background
 Starlight Sky background
 Sunlit Meadow background
 Twilight Gradient background
-Abandoned Warehouse
-Forest Clearing
-Desert Highway
-Rooftop Terrace
-City Alleyway
-Mountain Overlook
-Secluded Beach
-Downtown Street
-Historic Mansion
-Urban Park
-Botanical Garden
-Train Station
-Old Factory
-Village Square
-Riverbank
-Castle Grounds
-Suburban Backyard
-Cliffside Vista
-Desert Plateau
-Lakeside Dock
-Rooftop Parking Lot
-Vintage Diner
-Gothic Cathedral
-Open Field
-Quiet Library
-Rustic Barn
-Industrial District
-Country Road
-Amusement Park
-High School Campus
-Mountain Trail
-City Bridge
-Hidden Cave
-Abandoned Theme Park
-Snowy Meadow
-Rainy Sidewalk
-Coffee Shop
-Marina Pier
-Rooftop Garden
-Antique Store
-Desert Ghost Town
-Lakeside Cabin
-Open-Air Market
-City Square
-Underground Parking Garage
-Cliffside Path
-Beach Boardwalk
-Forest Pathway
-Outdoor Amphitheater
-Countryside Vineyard
-Rocky Canyon
-Industrial Loft
-Rainforest Glade
-Suburban Street
-Luxury Penthouse
-Seaside Cliff
-Tranquil Riverbend
-Abandoned Hospital
-Underground Tunnel
-Historic Courtyard
-Hidden Garden
-Mountain Cabin
-City Rooftop
-Castle Hall
-Suburban Playground
-Fishing Dock
-Warehouse Loft
-Railway Tracks
-Desert Outpost
-Skate Park
-Outdoor Café
-Windy Hilltop
-Old Gas Station
-Historic Train Depot
-Foggy Harbor
-Scenic Overlook
-Library Archives
-Carnival Grounds
-River Walk
-Sunset Beach
-Mountain Pass
-Scenic Highway
-Country Cottage
-Lakeside Pavilion
-Abandoned Motel
-Forest Edge
-Coastal Cliffs
-Desert Oasis
-Hidden Alley
-Lighthouse Grounds
-Sunflower Field
-Rooftop Bar
-Foggy Bridge
-Quiet Dock
-Snowy Forest
-Urban Plaza
-Riverbank Park
-Desert Canyon
-City Subway Station
-Meadow Valley
-City Street
-Modern Office
-Coffee Shop
-Rooftop Terrace
-Urban Park
-Shopping Mall
-Kitchen Interior
-Living Room
-Gym Floor
-Outdoor Café
-Scenic Overlook
-Beach Boardwalk
-Forest Path
-Suburban Backyard
-Downtown Plaza
-Train Station
-Airport Terminal
-Hotel Lobby
-Co-Working Space
-Fashion Boutique
-Art Gallery
-Industrial Loft
-Skate Park
-Sports Stadium
-Seaside Cliff
-Poolside Lounge
-Rooftop Garden
-Car Showroom
-Conference Room
-Open-Air Market
-Vineyard Estate
-Desert Road
-Cozy Bookstore
-High-End Restaurant
-Golf Course
-Mountain Trail
-Children’s Playground
-Spa Resort
-Tech Lab
-Farm Field
-Street Corner
-Amusement Park
-Indoor Studio
-Outdoor Amphitheater
-Pedestrian Bridge
-Apartment Balcony
-Sunlit Meadow
-Library Steps
-Food Truck Lot
-Vintage Diner
-Ski Resort
-Marina Dock
-Basketball Court
-Music Festival Grounds
-Antique Shop
-College Campus
-Auto Garage
-Urban Alleyway
-Yoga Studio
-Tropical Beach
-Kitchen Island
-Modern Living Room
-Luxury Hotel Room
-Lakeside Pier
-Crosswalk Intersection
-Country Road
-Rooftop Bar
-City Bridge
-Pet Park
-Airport Runway
-Sunset Cliff
-Indoor Market
-Garden Pavilion
-Snowy Landscape
-Tree-Lined Path
-Historic Mansion
-Construction Site
-Farmhouse Kitchen
-Hot Air Balloon Field
-Desert Dunes
-Waterside Promenade
-Scenic Highway
-Train Carriage
-Music Studio
-Restaurant Patio
-Boutique Hotel Courtyard
-Wellness Retreat
-Shopping Street
-Hilltop View
-Skyscraper Lobby
-Bike Trail
-Tech Startup Office
-Sunset Beach
-City Park Fountain
-Coastal Path
-Indoor Garden
-Factory Floor
-Community Center
-Suburban Street
-Glass-Walled Office
+at [article]Abandoned [/article]Warehouse
+in [article]Forest [/article]Clearing
+in [article]Desert [/article]Highway
+on [article]Rooftop [/article]Terrace
+in [article]City [/article]Alleyway
+on [article]Mountain [/article]Overlook
+at [article]Secluded [/article]Beach
+on [article]Downtown [/article]Street
+in [article]Historic [/article]Mansion
+at [article]Urban [/article]Park
+in [article]Botanical [/article]Garden
+at [article]Train [/article]Station
+in [article]Old [/article]Factory
+at [article]Village [/article]Square
+on [article]Riverbank[/article]
+on [article]Castle [/article]Grounds
+in [article]Suburban [/article]Backyard
+at [article]Cliffside [/article]Vista
+on [article]Desert [/article]Plateau
+on [article]Lakeside [/article]Dock
+on [article]Rooftop [/article]Parking Lot
+in [article]Vintage [/article]Diner
+in [article]Gothic [/article]Cathedral
+at [article]Open [/article]Field
+at [article]Quiet [/article]Library
+in [article]Rustic [/article]Barn
+at [article]Industrial [/article]District
+on [article]Country [/article]Road
+at [article]Amusement [/article]Park
+on [article]High School [/article]Campus
+on [article]Mountain [/article]Trail
+on [article]City [/article]Bridge
+in [article]Hidden [/article]Cave
+at [article]Abandoned [/article]Theme Park
+at [article]Snowy [/article]Meadow
+on [article]Rainy [/article]Sidewalk
+at [article]Coffee [/article]Shop
+on [article]Marina [/article]Pier
+at [article]Rooftop [/article]Garden
+in [article]Antique [/article]Store
+in [article]Desert [/article]Ghost Town**(ghost, spirit, spooky:2.0)**
+in [article]Lakeside [/article]Cabin
+at [article]Open-Air [/article]Market
+at [article]City [/article]Square
+in [article]Underground Parking [/article]Garage
+on [article]Cliffside [/article]Path
+on [article]Beach [/article]Boardwalk
+on [article]Forest [/article]Pathway
+at [article]Outdoor [/article]Amphitheater
+at [article]Countryside [/article]Vineyard
+in [article]Rocky [/article]Canyon
+in [article]Industrial [/article]Loft
+in [article]Rainforest [/article]Glade
+at [article]Suburban [/article]Street
+in [article]Luxury [/article]Penthouse
+on [article]Seaside [/article]Cliff
+at [article]Tranquil [/article]Riverbend
+in [article]Abandoned [/article]Hospital
+in [article]Underground [/article]Tunnel
+in [article]Historic [/article]Courtyard
+in [article]Hidden [/article]Garden
+in [article]Mountain [/article]Cabin
+on [article]City [/article]Rooftop
+in [article]Castle [/article]Hall
+at [article]Suburban [/article]Playground
+on [article]Fishing [/article]Dock
+in [article]Warehouse [/article]Loft
+on [article]Railway [/article]Tracks
+at [article]Desert [/article]Outpost
+in [article]Skate [/article]Park
+at [article]Outdoor [/article]Café
+on [article]Windy [/article]Hilltop
+at [article]Old [/article]Gas Station
+in [article]Historic [/article]Train Depot
+at [article]Foggy [/article]Harbor
+at [article]Scenic [/article]Overlook
+in [article]Library [/article]Archives
+on [article]Carnival [/article]Grounds
+on [article]River [/article]Walk
+on [article]Sunset [/article]Beach
+in [article]Mountain [/article]Pass
+on [article]Scenic [/article]Highway
+in [article]Country [/article]Cottage
+at [article]Lakeside [/article]Pavilion
+in [article]Abandoned [/article]Motel
+at [article]Forest [/article]Edge
+on [article]Coastal [/article]Cliffs
+in [article]Desert [/article]Oasis
+in [article]Hidden [/article]Alley
+on [article]Lighthouse [/article]Grounds
+at [article]Sunflower [/article]Field
+at [article]Rooftop [/article]Bar
+on [article]Foggy [/article]Bridge
+on [article]Quiet [/article]Dock
+in [article]Snowy [/article]Forest
+at [article]Urban [/article]Plaza
+at [article]Riverbank [/article]Park
+in [article]Desert [/article]Canyon
+in [article]City [/article]Subway Station
+in [article]Meadow [/article]Valley
+on [article]City [/article]Street
+in [article]Modern [/article]Office
+in [article]Coffee [/article]Shop
+on [article]Rooftop [/article]Terrace
+at [article]Urban [/article]Park
+in [article]Shopping [/article]Mall
+in [article]Kitchen [/article]Interior
+in [article]Living [/article]Room
+on [article]Gym [/article]Floor
+at [article]Outdoor [/article]Café
+at [article]Scenic [/article]Overlook
+on [article]Beach [/article]Boardwalk
+on [article]Forest [/article]Path
+in [article]Suburban [/article]Backyard
+in [article]Downtown [/article]Plaza
+at [article]Train [/article]Station
+at [article]Airport [/article]Terminal
+in [article]Hotel [/article]Lobby
+in [article]Co-Working [/article]Space
+in [article]Fashion [/article]Boutique
+at [article]Art [/article]Gallery
+in [article]Industrial [/article]Loft
+at [article]Skate [/article]Park
+in [article]Sports [/article]Stadium
+on [article]Seaside [/article]Cliff
+at [article]Poolside [/article]Lounge
+at [article]Rooftop [/article]Garden
+in [article]Car [/article]Showroom
+in [article]Conference [/article]Room
+at [article]Open-Air [/article]Market
+at [article]Vineyard [/article]Estate
+on [article]Desert [/article]Road
+in [article]Cozy [/article]Bookstore
+in [article]High-End [/article]Restaurant
+on [article]Golf [/article]Course
+on [article]Mountain [/article]Trail
+at [article]Children’s [/article]Playground
+at [article]Spa [/article]Resort
+in [article]Tech [/article]Lab
+at [article]Farm [/article]Field
+at [article]Street [/article]Corner
+at [article]Amusement [/article]Park
+in [article]Indoor [/article]Studio
+at [article]Outdoor [/article]Amphitheater
+on [article]Pedestrian [/article]Bridge
+on [article]Apartment [/article]Balcony
+in [article]Sunlit [/article]Meadow
+on [article]Library [/article]Steps
+at [article]Food [/article]Truck Lot
+in [article]Vintage [/article]Diner
+at [article]Ski [/article]Resort
+on [article]Marina [/article]Dock
+on [article]Basketball [/article]Court
+on [article]Music [/article]Festival Grounds
+in [article]Antique [/article]Shop
+on [article]College [/article]Campus
+in [article]Auto [/article]Garage
+in [article]Urban [/article]Alleyway
+in [article]Yoga [/article]Studio
+on [article]Tropical [/article]Beach
+in [article]Modern Living [/article]Room
+in [article]Luxury [/article]Hotel Room
+on [article]Lakeside [/article]Pier
+at [article]Crosswalk [/article]Intersection
+on [article]Country [/article]Road
+at [article]Rooftop [/article]Bar
+on [article]City [/article]Bridge
+at [article]Pet [/article]Park
+on [article]Airport [/article]Runway
+on [article]Sunset [/article]Cliff
+at [article]Indoor [/article]Market
+in [article]Garden [/article]Pavilion
+in [article]Snowy [/article]Landscape
+on [article]Tree-Lined [/article]Path
+at [article]Historic [/article]Mansion
+at [article]Construction [/article]Site
+in [article]Farmhouse [/article]Kitchen
+on [article]Desert [/article]Dunes
+at [article]Waterside [/article]Promenade
+on [article]Scenic [/article]Highway
+in [article]Train [/article]Carriage
+at [article]Music [/article]Studio
+on [article]Restaurant [/article]Patio
+at [article]Boutique [/article]Hotel Courtyard
+at [article]Wellness [/article]Retreat
+at [article]Shopping [/article]Street
+with [article]Hilltop [/article]View
+in [article]Skyscraper [/article]Lobby
+on [article]Bike [/article]Trail
+at [article]Tech [/article]Startup Office
+on [article]Sunset [/article]Beach
+at [article]City [/article]Park Fountain
+on [article]Coastal [/article]Path
+in [article]Indoor [/article]Garden
+on [article]Factory [/article]Floor
+at [article]Community [/article]Center
+on [article]Suburban [/article]Street
+in [article]Glass-Walled [/article]Office
+[/choose]
