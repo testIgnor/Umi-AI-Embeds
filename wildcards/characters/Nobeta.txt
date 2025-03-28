@@ -1,0 +1,10 @@
+(nobeta:1.3), little witch nobeta, nobeta \(main\), witch, no headwear, hairband, red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
+(nobeta:1.3), little witch nobeta, red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
+(nobeta:1.3), little witch nobeta, nobeta \(bikini\), twinbraids, red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
+(nobeta:1.3), little witch nobeta, nobeta \(bikini\), twinbraids, see-through shirt, white shirt, red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
+(nobeta:1.3), little witch nobeta, nobeta \(beret\), pinafore dress, x hair ornament, thigh ribbon, white headwear, red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
+(nobeta:1.3), little witch nobeta, nobeta \(bunnygirl\), red dress, black leotard, twintails, black pantyhose, red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
+(nobeta:1.3), little witch nobeta, nobeta \(china dress\), pink dress, detached sleeves, side slit, red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
+(nobeta:1.3), little witch nobeta, nobeta \(nurse\), red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
+(nobeta:1.3), little witch nobeta, nobeta \(bear\), bear costume, pink ribbon, bandaid on leg, red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
+(nobeta:1.3), little witch nobeta, red eyes, blonde hair, very long hair, long hair <lora:char_nobeta-ill-rls:1>
