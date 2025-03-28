@@ -161,7 +161,7 @@
 (Rat:1.3)
 (Mouse:1.3)
 (Squirrel:1.3)
-(Hedgehog:1.3)
+(Hedgehog:1.3)**(sonic the hedgehog, sonic:2.0)**
 (Beaver:1.3)
 (Moose:1.3)
 (Bison:1.3)
