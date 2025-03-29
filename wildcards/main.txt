@@ -274,7 +274,7 @@ Main
 
 [call set_gender]
 
-[chance 0]
+[chance 100]
 [set gender]
 futanari
 [/set]
