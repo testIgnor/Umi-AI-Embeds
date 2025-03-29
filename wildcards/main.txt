@@ -268,7 +268,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 100]
+[chance 0]
 [call choose_franchise_simple]
 [/chance]
 
@@ -295,7 +295,7 @@ futanari
 [call wildcards/no_hair]
 [/set]
 
-[chance 100]
+[chance 0]
 [set artist]
 [choose]
 by johndoe, by john doe <lora:johndoe_IL:1>
