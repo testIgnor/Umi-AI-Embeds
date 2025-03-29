@@ -19,8 +19,6 @@ by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
 by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
-by johndoe, by john doe <lora:johndoe:1>
-by johndoe, by john doe <lora:johndoe_IL:1>
 [/chance]
 [else]
 by dandon fuga
