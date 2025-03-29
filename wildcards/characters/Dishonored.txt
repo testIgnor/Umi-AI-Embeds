@@ -1,0 +1,2 @@
+(Emily Kaldwin:1.3), dishonored, dark brown hair, green eyes, short hair, <lora:emily_kaldwin:1> emily_kaldwin
+(Emily Kaldwin:1.3), dishonored, dark brown hair, green eyes, short hair, <lora:EmilyKaldwinNoobXL_byKonan:1> ekaldwin

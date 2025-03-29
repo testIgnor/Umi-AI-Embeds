@@ -408,7 +408,7 @@
   Tags:
     - Characters
     - Metal Gear
-'_=Characters/Misc=_':
+'_=Characters/Misc=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Uncategorized Characters
   Tags:
@@ -990,3 +990,38 @@
   Tags:
     - Characters
     - Nobeta
+
+'<[model][illu]>source_anime, _=Characters/Bioshock=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Bioshock Characters
+  Tags:
+    - Characters
+    - Bioshock
+
+'<[model][illu]>source_anime, _=Characters/Tomb Raider=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Tomb Raider Characters
+  Tags:
+    - Characters
+    - Tomb Raider
+
+'<[model][illu]>source_anime, _=Characters/Dishonored=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Dishonored Characters
+  Tags:
+    - Characters
+    - Dishonored
+
+'<[model][illu]>source_anime, _=Characters/Diablo=_':
+  Description:
+    - Diablo Characters
+  Tags:
+    - Characters
+    - Diablo
+
+_=Characters/SCP=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - SCP Characters
+  Tags:
+    - Characters
+    - SCP

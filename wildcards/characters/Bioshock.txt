@@ -1,0 +1,2 @@
+(elizabeth \(bioshock infinite\):1.3), brown hair, low ponytail, short hair, blue eyes, <lora:BioElizabeth:1> ELIZABETH2
+(elizabeth \(bioshock infinite\):1.3), black hair, short hair, blue eyes, <lora:BioElizabeth:1> ELIZABETH1

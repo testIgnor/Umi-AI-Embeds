@@ -1,0 +1,1 @@
+(diablo:1.3), diablo, <lora:DiabloD3:0.75> monster, horns, claws, tail, teeth, sharp teeth, spikes, yellow eyes, glowing, glowing eyes
