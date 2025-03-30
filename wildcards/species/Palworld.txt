@@ -1,0 +1,28 @@
+(lovander:1.3), <lora:LovanderPXL:1> LovanderPXL
+(lovander:1.3), <lora:lovander:1> lovander, monster girl
+(wixen:1.3), <lora:Wixen:1> Wixen, palworld, neck tuft, red clothing, white body
+(wixen:1.3), <lora:wixen_pony_v3:1> wixen_pal, wixAA
+(daedream:1.3), <lora:DaeDream:1> DeaDream_\(Palworld\)
+(daedream:1.3), <lora:daedream:1> daedream, monster girl
+(lunaris:1.3), <lora:Lunaris:1> Lunaris
+(lunaris:1.3), <lora:Lunaris3kstepsfixed:1> lunaris
+(lunaris:1.3), <lora:lunaris_pony_v4:1> lunaris, lunaAA
+(lunaris:1.3), <lora:lunaris:1> lunaris, monster girl
+(dazzi:1.3), <lora:DazziXL_byKonan:1> dazzi, white hair, ponytail, hair over eyes, single horn, purple skin, teeth, cloud
+(dazzi:1.3), <lora:dazzi:1> dazzi, monster girl
+(katress:1.3), <lora:KatressPXL:1> KatressPXL
+(katress:1.3), <lora:Katress:1> Katress, palworld, blue fur, purple eyes
+(katress:1.3), <lora:Palworld_Katress_V2.1[IL]:1> Katress
+(anubis:1.3), <lora:Anubis_Palworld:1> PalAnubis, headgear, head accessory, dark skin, anthro, furry
+(anubis:1.3), <lora:Anubis_Palword:1> anubis_\(pal\)
+(petallia:1.3), <lora:Petallia:1> Petallia
+(chillet:1.3), <lora:Chillet_Palworld_Illustrious:1> ch1ll3t, light blue fur, blue eyes, white underbelly, blue back spikes, blue chest markings, blue spots, blue-tipped ears, whiskers, long animal ears
+(chillet:1.3), <lora:Chillet_FEral:1> Chillet
+(chillet:1.3), <lora:Chillet_Anthro:1> Chillet
+(lyleen:1.3), <lora:Lyleen:1> Lyleen
+(flopie:1.3), <lora:Palworld_Flopie_V0.52Alt[IL]:1> Flopie
+(splatterina:1.3), <lora:Splatterina:1> Splatterina
+(foxparks:1.3), <lora:Palworld_Foxparks_V1[IL]:1> foxparks
+(elizabee:1.3), <lora:elizabee_pony_v5:1> elizabee_pal, eliAA
+(nyafia:1.3) <lora:Nyafia_Palworld:1>
+(depresso:1.3), <lora:Depresso_Palworld:1> Depresso_\(Palworld\)
