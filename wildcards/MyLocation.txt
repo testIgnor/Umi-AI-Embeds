@@ -195,7 +195,6 @@ on [article]Fishing [/article]Dock
 in [article]Warehouse [/article]Loft
 on [article]Railway [/article]Tracks
 at [article]Desert [/article]Outpost
-in [article]Skate [/article]Park
 at [article]Outdoor [/article]Café
 on [article]Windy [/article]Hilltop
 at [article]Old [/article]Gas Station
@@ -248,7 +247,6 @@ in [article]Co-Working [/article]Space
 in [article]Fashion [/article]Boutique
 at [article]Art [/article]Gallery
 in [article]Industrial [/article]Loft
-at [article]Skate [/article]Park
 in [article]Sports [/article]Stadium
 on [article]Seaside [/article]Cliff
 at [article]Poolside [/article]Lounge
@@ -278,7 +276,6 @@ at [article]Food [/article]Truck Lot
 in [article]Vintage [/article]Diner
 at [article]Ski [/article]Resort
 on [article]Marina [/article]Dock
-on [article]Basketball [/article]Court
 on [article]Music [/article]Festival Grounds
 in [article]Antique [/article]Shop
 on [article]College [/article]Campus
