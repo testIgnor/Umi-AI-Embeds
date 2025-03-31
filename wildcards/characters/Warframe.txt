@@ -1,11 +1,7 @@
-(aoi \(warframe\):1.3), warframe, Aoi, Aoi, freckles, hair ornament, white hair, multicolored hair, two-tone hair, tied hair, (blue eyes), Science Fiction, cyborg <lora:Aoi V2:1>
-(eleanor \(warframe\):1.3), warframe, eleanor, eleanor, black hair, jewelry, multicolored hair, two-tone hair, piercing, ponytail, grey hair, earring, tied hair, purple eyes <lora:Eleanor :1>
 (oberon \(warframe\):1.3), warframe, Foberon, thin horns, leef ornaments, ornamented helmet, warframe, robot, faceless, eyeless, multicolored body, black body <lora:Feyarch_oberon:1>
 (ember \(warframe\):1.3), warframe, Hember, warframe, robot, fiery body, fiery hair, molten rock, multicolored body, black body, orange body, faceless, no mouth <lora:heirloom_Ember:1>
 (hildryn \(warframe\):1.3), warframe, HildrynWF, purple body, cyan body, abs <lora:HildrynWF_PDXL_v11:1>
 (ivara \(warframe\):1.3), warframe, ivarawf, orange hood, yellow body, cyan eyes <lora:IvaraWF_PDXL:1>
-(lettie \(warframe\):1.3), warframe, Lettie, black hair, short hair, tied hair, brown eyes, (high quality face:1.21), cyborg, science fiction <lora:Lettie:1>
-(lotus \(warframe\):1.3), warframe, <lora:lotusXL:1> ltusxl
 (mesa \(warframe\):1.3), warframe, robot, cyborg, no humans <lora:MesaPrime:1>
 (nyx \(warframe\):1.3), warframe, <lora:NyxWF_PDXL:1> NyxWF, grey body, eyeless
 (ember \(warframe\):1.3), warframe, <lora:Pyraxis_Ember:1> Pember, robot, white body, faceless, no mouth, multicolored body, multicolored body, white skin, orange energy
@@ -13,6 +9,5 @@
 (valkyr \(warframe\):1.3), warframe, <lora:ValkyrWF_PDXL_r1:1> valkwf, orange body, eyeless, mouthless
 (wisp \(warframe\):1.3), warframe, <lora:Wisp_from_Warframe_-Pony:1> wisp, faceless, smug
 (yareli \(warframe\):1.3), warframe, <lora:Yareli_Warframe__PONY_XL:1> Yareli, robotic humanoid
-(yonta \(warframe\):1.3), warframe, <lora:Yonta:1> Yonta, Science fiction
 (kavat \(warframe\):1.3), <lora:Kavat_Warframe:1>
 (kubrow \(warframe\):1.3), <lora:Kubrow_Warframe:1>
