@@ -27,7 +27,7 @@ celebs
 [/set]
 [/chance]
 
-[chance 0]
+[chance 100]
 [set characterType]
 [choose]
 myspecies
@@ -35,7 +35,8 @@ myspecies
 [/set]
 [set franchise]
 [choose]
-pokemon
+primates
+royalty
 [/choose]
 [/set]
 [/chance]
@@ -82,13 +83,13 @@ Sets gender_prompt
 [function set_gender]
 [set gender]female[/set]
 
-[chance 20]
+[chance 10]
 [set gender]
 male
 [/set]
 [/chance]
 
-[chance 30]
+[chance 15]
 [set gender]
 futanari
 [/set]
@@ -268,7 +269,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 90]
 [call choose_franchise_simple]
 [/chance]
 

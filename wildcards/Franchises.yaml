@@ -127,6 +127,12 @@
   Tags:
     - Myspecies
     - e621
+'<[model][pony]>source_furry, $#_=Species/Primates=_;theanimal#$, $#theanimal#$ anthro**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Primates Species
+  Tags:
+    - Myspecies
+    - Primates
 '<[model][pony]>source_furry, _=Species/Digimon=_**(hair, hat, headwear:2.0)**':
   Description:
     - Digimon Characters
