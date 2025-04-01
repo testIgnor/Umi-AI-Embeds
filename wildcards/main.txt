@@ -36,7 +36,6 @@ myspecies
 [set franchise]
 [choose]
 primates
-royalty
 [/choose]
 [/set]
 [/chance]
