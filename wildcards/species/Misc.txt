@@ -9,3 +9,5 @@
 (flame atronach:1.3), <lora:Flame_Atronach_Illustrious:1> flame atronach, eyeless, monster girl, faceless, no eyes, fiery hair, demon horns, orange hair, orange skin, colored skin, sharp fingernails, claws
 (flame atronach:1.3), <lora:sktfl_pdxl_EliPot_V2:1> sktfl, eyeless, monster girl, faceless, no eyes, fiery hair, demon horns, orange hair, orange skin, colored skin, sharp fingernails, claws
 (flame atronach:1.3), <lora:[Bethesda] Flame Atronach (Skyrim) Character Illustrious:1> i_am_going_to_have_sex_with_this_female_flame_atronach_from_oblivion, eyeless, monster girl, faceless, no eyes, fiery hair, demon horns, orange hair, orange skin, colored skin, sharp fingernails, claws
+(kavat \(warframe\):1.3), <lora:Kavat_Warframe:1>
+(kubrow \(warframe\):1.3), <lora:Kubrow_Warframe:1>

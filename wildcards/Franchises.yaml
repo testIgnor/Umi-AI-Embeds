@@ -743,7 +743,7 @@
     - Characters
     - Super Robot Wars
 
-'<[model][pony]>source_anime, _=Characters/Warframe=_, (faceless:1.5)**face**':
+'<[model][pony]>source_anime, _=Characters/Warframe=_, (faceless, no face, no eyes, no mouth:1.5)**(face, eyes, mouth:1.5)**':
   Description:
     - Warframe Characters
   Tags:
