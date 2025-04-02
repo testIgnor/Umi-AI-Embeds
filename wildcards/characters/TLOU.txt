@@ -1,6 +1,6 @@
-(ellie williams:1.3), the last of us, brown hair, short hair, ponytail, green eyes, freckles, lips <lora:EllieWilliams:0.66>
-(ellie williams:1.3), the last of us, brown hair, short hair, ponytail, green eyes, freckles, lips TLOUEllie <lora:EllieTLOU1ILf:0.66>
-(ellie williams:1.3), the last of us, brown hair, short hair, ponytail, green eyes, freckles, lips TLOU2Ellie <lora:TLOU2Ellie:0.66>
+(ellie williams:1.3), the last of us, brown hair, short hair, ponytail, green eyes, freckles, lips <lora:EllieWilliams:0.75>
+(ellie williams:1.3), the last of us, brown hair, short hair, ponytail, green eyes, freckles, lips TLOUEllie <lora:EllieTLOU1ILf:0.75>
+(ellie williams:1.3), the last of us, brown hair, short hair, ponytail, green eyes, freckles, lips TLOU2Ellie <lora:TLOU2Ellie:0.75>
 (sarah miller:1.3), uncharted, short hair, blonde hair, freckles, blue eyes <lora:SarahMillerILf:1>
 (dina \(the last of us\):1.3), the last of us, black hair, short hair, brown skin, brown eyes, dina <lora:dina:0.5>
 (abby anderson:1.3), the last of us, <lora:abby:0.5> abbySDXL, long hair, blue eyes, dark blonde hair, braid, freckles, muscular female

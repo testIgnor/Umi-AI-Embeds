@@ -33,7 +33,7 @@
 (merchant \(dq3\):1.3), dragon quest, pink hair, long hair, short hair, blue eyes
 (elf \(dq10\):1.3), dragon quest, pink hair, short hair, long hair, colored skin, blue eyes
 (anlucia \(dq10\):1.3), dragon quest, long hair, blonde hair, blue eyes, forehead, mole, mole under mouth, <lora:Anlucia_DQX:1>
-(desdemona \(dq12\):1.3), dragon quest, Desdemonaxl, <lora:Desdemonaxl:0.66>
+(desdemona \(dq12\):1.3), dragon quest, Desdemonaxl, <lora:Desdemonaxl:0.75>
 (princess laura:1.3), dragon quest, green eyes, long hair, orange hair, dqLaura, <lora:dqlaura-pdxl-nvwls-v1:1>
 (setia:1.3), dragon quest, dqSetia, blonde hair, curly hair <lora:dqsetia-pdxl-nvwls-v1:1>
 (emma \(dq11\):1.3), dragon quest, straight hair, long hair, blonde hair, blue eyes <lora:Emma_from_Dragon_Quest_XI_Pony:1>

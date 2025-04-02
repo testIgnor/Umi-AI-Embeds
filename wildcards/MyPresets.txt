@@ -28,7 +28,6 @@
 <[imageformat]>, as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaur_Girl:0.66>
 <[imageformat]>, as a wolf taur, as a canine taur, <lora:canine_taur_PDXL:0.66> taur, canine taur, wolf taur
 <[imageformat]>, as a dragon taur, <lora:humandragon_taur:0.66> dragonhumantaur
-<[imageformat]>, as a spider taur, <lora:SpiderTaur-PONY-PAseer:0.66> spider taur
 as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaurfuta_NOOB_V-PRED1.0_V2_dim32:1>, [call wildcards/choose_centaur]
 [/tags]
 
