@@ -1,1 +1,1 @@
-(werewolf:1.3), skyrim werewolf, werewolf anthro, no humans, monster, fangs, teeth, sharp teeth, yellow eyes, tail, wolf, furry <lora:WerewolfSkyrim:0.66>
+(werewolf:1.3), skyrim werewolf, werewolf anthro, no humans, monster, fangs, teeth, sharp teeth, yellow eyes, tail, wolf, furry <lora:WerewolfSkyrim:0.8>
