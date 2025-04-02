@@ -87,6 +87,11 @@ by john doe shinobu <lora:john_doe_shinobu:1>
 by echosaber <lora:Echosaber_-_Style:1>
 by echosaber, <lora:echosaberILLUS:1> echosaber
 by milkychu, <lora:milkychu-style-fin:1> milkychu-style
+by minus8 <lora:minus_8:1>
+by minus8 <lora:[Minus8] Artist Style PonyXL:1>
+by minus8 <lora:minus8-8-000040:1>
+by minus8, <lora:Minus8_Flash_Animation_Illustrious:1> swfstyle
+by minus8 <lora:minus8-8-000040-V1:1>
 by dosh
 by utterangle
 by redwolfxiii
@@ -209,6 +214,11 @@ by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiraga
 by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by john doe shinobu <lora:john_doe_shinobu:1>
 by milkychu, <lora:milkychu-style-fin:1> milkychu-style
+by minus8 <lora:minus_8:1>
+by minus8 <lora:[Minus8] Artist Style PonyXL:1>
+by minus8 <lora:minus8-8-000040:1>
+by minus8, <lora:Minus8_Flash_Animation_Illustrious:1> swfstyle
+by minus8 <lora:minus8-8-000040-V1:1>
 by 007delta
 by 0r0ch1
 by 1-upclock
