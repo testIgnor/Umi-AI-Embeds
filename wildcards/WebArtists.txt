@@ -19,6 +19,14 @@ by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
 by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
+by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
+by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
+[by johndoe, by john doe <lora:johndoe_IL:1>|by tarakanovich <lora:tarakanovich1.5:1>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by exlic, <lora:ExLic_style:1> ExLic_style]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:FirolianLyco:1> uncensored, realistic]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:Firolian illus:1> firolian style]
 [/chance]
 [else]
 by dandon fuga
@@ -92,6 +100,14 @@ by minus8 <lora:[Minus8] Artist Style PonyXL:1>
 by minus8 <lora:minus8-8-000040:1>
 by minus8, <lora:Minus8_Flash_Animation_Illustrious:1> swfstyle
 by minus8 <lora:minus8-8-000040-V1:1>
+by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
+by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
+[by johndoe, by john doe <lora:johndoe_IL:1>|by tarakanovich <lora:tarakanovich1.5:1>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by exlic, <lora:ExLic_style:1> ExLic_style]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:FirolianLyco:1> uncensored, realistic]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:Firolian illus:1> firolian style]
 by dosh
 by utterangle
 by redwolfxiii
@@ -219,6 +235,14 @@ by minus8 <lora:[Minus8] Artist Style PonyXL:1>
 by minus8 <lora:minus8-8-000040:1>
 by minus8, <lora:Minus8_Flash_Animation_Illustrious:1> swfstyle
 by minus8 <lora:minus8-8-000040-V1:1>
+by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
+by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
+[by johndoe, by john doe <lora:johndoe_IL:1>|by tarakanovich <lora:tarakanovich1.5:1>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by exlic, <lora:ExLic_style:1> ExLic_style]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:FirolianLyco:1> uncensored, realistic]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:Firolian illus:1> firolian style]
 by 007delta
 by 0r0ch1
 by 1-upclock
