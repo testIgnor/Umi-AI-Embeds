@@ -53,7 +53,7 @@ bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow g
 <lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 <lora:overwatch-dva-cosplay-ponyxl-lora-nochekaiser:1>, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), bodysuit, cosplay, covered navel, skin tight, vertical-striped bodysuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:0895 DVA fan clothing_v1_pony:1> ruanyi0895, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), blue bodysuit, skin tight, bunny print, gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
+<lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:BadEndPrecureIL:1> black bad end bodysuit, [choose][call wildcards/colors][/choose] frills, [choose][call wildcards/colors][/choose] miniskirt, flared sleeves, black bat headband, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Alice_Nikke_Cosplay_-_IllustriousXL_r1:1> alice_cosplay, skintight
@@ -92,7 +92,7 @@ unconventional maid, yuino maid dress, <[ezcovered][get eff_gen _before=[ _after
 [/tags]
 
 [tags clothing clothing_type="rave"]
-<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, {glowing, exhibitionism, neon_lights, bodypaint||fishnets, fishnet thighhighs||bodypaint, glitter, crotchless_panties, cupless_bra, lingerie}, <[eznude][get eff_gen _before=[ _after=]]>, {neon_green||neon_pink||neon_white||neon_yellow||neon_orange||neon_blue}**(fishing net:1.5)**
+<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, {glowing, exhibitionism, neon_lights, bodypaint||fishnet thighhighs||bodypaint, glitter, crotchless_panties, cupless_bra, lingerie}, <[eznude][get eff_gen _before=[ _after=]]>, {neon_green||neon_pink||neon_white||neon_yellow||neon_orange||neon_blue}**(fishing net:1.5)**
 bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>, <[allpiercings]>
@@ -102,7 +102,7 @@ blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos
 <lora:St._Louis_Luxurious_Wheels:1> L0x0r100s_Wh33l5, silver dress, halterneck, backless dress, halter dress, revealing clothes, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:Strapless_Pothole_Tube_Dress_SKNSFW:1> Strapless_Pothole_Tube_Dress_SKNSFW, short dress, strapless dress, [choose][call wildcards/colors][/choose] dress, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
-<lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnets, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
+<lora:Fishnets_Bodysuit_ILXL:1> bodysuit, fishnet bodysuit, <[eznude][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Racing_Miku_2022_Cosplay_-_ILLUSTRIOUSXL:1> mikucosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Sakimichan_Tifa_Nurse_Outfit_Cosplay:1> micro shirt, very cropped shirt, short sleeved shirt, white shirt, latex bikini, underboob bikini, micro bikini, white bikini, red cross on bikini, highleg bikini, highleg leotard, underbust leotard, mesh leotard, see-through leotard, cross stitched leotard, detailed leotard, white leotard, white underbust corset, white corset, corset, see-through corset, white belt straps, white belt buckles, pussy floss, black thighhighs, black thigh boots, white gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
