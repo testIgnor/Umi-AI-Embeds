@@ -103,6 +103,22 @@ by minus8, <lora:Minus8_Flash_Animation_Illustrious:1> swfstyle
 by minus8 <lora:minus8-8-000040-V1:1>
 by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
 by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
+by lewdua, <lora:Lewdua_Style:1> L3wdu4
+by picturd, <lora:Picturd:1> 91ct0rd
+by doppel, <lora:doppel:1> d0pp3l
+by jab, <lora:jab:1> J0t44b
+by tarakanovich, <lora:Tarakanovich_Style:1> T4r4k4n0v1ch
+by eltole, <lora:eltole:1> 3lt0l3
+by tawara hiryuu, <lora:Tawara_Hiryuu:1> T4w4r4H1ry00
+by stevencarson, <lora:stevencarson:1> st3v3nc4rs0n, 3d, blender \(medium\)
+by stretcher, <lora:st-retcher:1> r3tch3r
+by krabby, <lora:krabby_artist:1> kr4bb14rt1st
+by takeda hiromitsu, <lora:Takeda_Hiromitsu:1> T4k3d4H1r0m1ts0
+by legoman, <lora:[Legoman (LMSketch)] Colored Pics by Roa80H Artist Style Illustrious:1> lmsketchlegoman
+by legoman, <lora:legomanill2:1> legomanill**(sketch, black and white, monochrome:2.0)**
+by jay marvel, <lora:jay_marvel:1> sxy5tyle
+by jay marvel, <lora:Jay-marvel:1> J41m4rv3l
+by jay marvel <lora:JayMarvel-Style-PonyXL-v1.1:1>
 [by johndoe, by john doe <lora:johndoe_IL:1>|by tarakanovich <lora:tarakanovich1.5:1>]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by exlic, <lora:ExLic_style:1> ExLic_style]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
@@ -239,6 +255,22 @@ by minus8, <lora:Minus8_Flash_Animation_Illustrious:1> swfstyle
 by minus8 <lora:minus8-8-000040-V1:1>
 by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
 by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
+by lewdua, <lora:Lewdua_Style:1> L3wdu4
+by picturd, <lora:Picturd:1> 91ct0rd
+by doppel, <lora:doppel:1> d0pp3l
+by jab, <lora:jab:1> J0t44b
+by tarakanovich, <lora:Tarakanovich_Style:1> T4r4k4n0v1ch
+by eltole, <lora:eltole:1> 3lt0l3
+by tawara hiryuu, <lora:Tawara_Hiryuu:1> T4w4r4H1ry00
+by stevencarson, <lora:stevencarson:1> st3v3nc4rs0n, 3d, blender \(medium\)
+by stretcher, <lora:st-retcher:1> r3tch3r
+by krabby, <lora:krabby_artist:1> kr4bb14rt1st
+by takeda hiromitsu, <lora:Takeda_Hiromitsu:1> T4k3d4H1r0m1ts0
+by legoman, <lora:[Legoman (LMSketch)] Colored Pics by Roa80H Artist Style Illustrious:1> lmsketchlegoman
+by legoman, <lora:legomanill2:1> legomanill**(sketch, black and white, monochrome:2.0)**
+by jay marvel, <lora:jay_marvel:1> sxy5tyle
+by jay marvel, <lora:Jay-marvel:1> J41m4rv3l
+by jay marvel <lora:JayMarvel-Style-PonyXL-v1.1:1>
 [by johndoe, by john doe <lora:johndoe_IL:1>|by tarakanovich <lora:tarakanovich1.5:1>]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by exlic, <lora:ExLic_style:1> ExLic_style]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
