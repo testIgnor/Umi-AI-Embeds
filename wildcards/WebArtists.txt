@@ -29,6 +29,8 @@ by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
 [by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:FirolianLyco:1> uncensored, realistic]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:Firolian illus:1> firolian style]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh]
 [/chance]
 [/chance]
 [else]
@@ -128,6 +130,8 @@ by jay marvel <lora:JayMarvel-Style-PonyXL-v1.1:1>
 [by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:FirolianLyco:1> uncensored, realistic]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:Firolian illus:1> firolian style]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh]
 by dosh
 by utterangle
 by redwolfxiii
@@ -280,6 +284,8 @@ by jay marvel <lora:JayMarvel-Style-PonyXL-v1.1:1>
 [by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:FirolianLyco:1> uncensored, realistic]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:Firolian illus:1> firolian style]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh]
 by 007delta
 by 0r0ch1
 by 1-upclock
