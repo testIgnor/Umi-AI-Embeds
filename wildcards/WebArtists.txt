@@ -21,7 +21,7 @@ by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
 by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
 by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
-[chance 50]
+[chance 66]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by tarakanovich <lora:tarakanovich1.5:1>]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by exlic, <lora:ExLic_style:1> ExLic_style]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
