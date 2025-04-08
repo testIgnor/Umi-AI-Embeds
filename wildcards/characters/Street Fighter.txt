@@ -1,22 +1,101 @@
 (chun-li:1.3), street fighter, brown eyes, short hair, brown hair
 (chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:ChunLiSFIllustrious:1> CLICLASS
 (chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:ChunLiSFIllustrious:1> CLBTTL, brown hair, long hair, hair down, front braids, twin braids
-(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair
-(han juri:1.3), street fighter, purple eyes, multicolored hair, black hair
-(kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair
+(chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:chun-li_streetfighter:1> chun-li_streetfighter
+(chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:SF_ChunLiALT-PONY:1> bdresschun
+(chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:SF_ChunLiALT-PONY:1> swimsuitchun
+(chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:CHUN:1> CHUNLISF
+(chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:CHUN:1> CHUNLIAL
+(chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:CHUN:1> CHUNLIBO
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:PONYXL_CammyWhite_ownwaifu:1> BlueBodysuit_Cammy_ownwaifu
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:PONYXL_CammyWhite_ownwaifu:1> BlueJacket_Cammy_ownwaifu
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:PONYXL_CammyWhite_ownwaifu:1> GreenBodysuit_Cammy_ownwaifu
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:PONYXL_CammyWhite_ownwaifu:1> GreenLingirie_Cammy_ownwaifu
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:PONYXL_CammyWhite_ownwaifu:1> MbisonOutfit_Cammy_ownwaifu
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:PONYXL_CammyWhite_ownwaifu:1> Sportswear_Cammy_ownwaifu
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:PONYXL_CammyWhite_ownwaifu:1> NSFW_Cammy_ownwaifu
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:cammySF6s2xl:1> cammywxl
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:CammySF:1> CammySF
+(cammy white:1.3), street fighter, blonde hair, blue eyes, long hair, braided hair, antenna hair, ahoge, <lora:CammySF:1> CammyBO
+(han juri:1.3), street fighter, purple eyes, multicolored hair, black hair, hair horns, diagonal bangs
+(han juri:1.3), street fighter, purple eyes, multicolored hair, black hair, hair horns, diagonal bangs <lora:Juri_Street_Fighter:1> jurisf
+(han juri:1.3), street fighter, purple eyes, multicolored hair, black hair, hair horns, diagonal bangs <lora:SF_Juri-PONY:1> sfvjuri
+(han juri:1.3), street fighter, purple eyes, multicolored hair, black hair, hair horns, diagonal bangs <lora:JuriSF:1> JuriSF
+(han juri:1.3), street fighter, purple eyes, multicolored hair, black hair, hair horns, diagonal bangs <lora:JuriSF:1> JuriBO
+(han juri:1.3), street fighter, purple eyes, multicolored hair, black hair, hair horns, diagonal bangs <lora:JuriSF:1> JuriPJ
+(kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair, <lora:SakuraKasuganoIllustrious:1> SAKSFDF
+(kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair, <lora:SakuraKasuganoIllustrious:1> SAKCLAS
+(kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair, <lora:Sakura:1> sakurasfvSDXL
+(kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair, <lora:sakuraSF4xl:1> skrasf4xl
+(kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair, <lora:SAKURASF:1> SAKURASF
+(kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair, <lora:SAKURASF:1> SAKURACLAS
+(kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair, <lora:SAKURASF:1> SAKURASUM
 (rainbow mika:1.3), street fighter, blonde hair, blue eyes, long hair
-(makoto \(street fighter\):1.3), street fighter, brown eyes, short hair, black hair
+(rainbow mika:1.3), street fighter, blonde hair, blue eyes, long hair <lora:Rainbow_Mika:1>
+(rainbow mika:1.3), street fighter, blonde hair, blue eyes, long hair <lora:rainbow-mika-ponyxl-lora-nochekaiser:1>
+(rainbow mika:1.3), street fighter, blonde hair, blue eyes, long hair, <lora:SF_RainbowMika-PONY:1> sfvmika
+(rainbow mika:1.3), street fighter, blonde hair, blue eyes, long hair, <lora:R.MikaSF:1> RMikaSF
+(rainbow mika:1.3), street fighter, blonde hair, blue eyes, long hair, <lora:R.MikaSF:1> RMikaSchool
+(makoto \(street fighter\):1.3), street fighter, brown eyes, short hair, black hair, <lora:makotoSF:1> makotoxl
 (ibuki \(street fighter\):1.3), street fighter, brown eyes, brown hair, long hair, antenna hair, black hair
+(ibuki \(street fighter\):1.3), street fighter, brown eyes, brown hair, long hair, antenna hair, black hair, <lora:Ibuki iIlluLoRA:1> ibukdg
+(ibuki \(street fighter\):1.3), street fighter, brown eyes, brown hair, long hair, antenna hair, black hair, <lora:ibukiSF:1> IbukiSF
 (kanzuki karin:1.3), street fighter, blonde hair, brown eyes, long hair, antenna hair
+(kanzuki karin:1.3), street fighter, blonde hair, brown eyes, long hair, antenna hair, <lora:kanzukikarin-illu-nvwls-v1:1> fkrn
+(kanzuki karin:1.3), street fighter, blonde hair, brown eyes, long hair, antenna hair, <lora:sfkarin-pdxl-nvwls-v1:1> sfkarin
 (elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin
-(menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin
+(elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:elena_sf6:1> elena_sf6
+(elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:elena_street_fighterILL:1> elena_\(street_fighter\)
+(elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:Elena_-_Street_Fighter_3d_SF4:1> ElenaSF4
+(elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:Elena SF2 iIlluLoRA DG:1> ElenaSFDG
+(elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:SF_Elena-PONY:1> elenasf6
+(elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:SF_Elena-PONY:1> elenadef
+(menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:Menat_Street_Fighter_V_PONY_V2:1> MenatSFV
+(menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:Menat_Street_Fighter_V_PONY_V2:1> Menat_Default
+(menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:Menat_Street_Fighter_V_PONY_V2:1> Menat_Alternate
+(menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:Menat_Street_Fighter_V_PONY_V2:1> Menat_Mummy
+(menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:Menat_Street_Fighter_V_PONY_V2:1> Menat_Holiday
+(menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:menat_pony:1> menat\(street_fighter\)
+(menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:Menat iIlluLoRA  DG:1> MenatDG
 (laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair
-(rose \(street fighter\):1.3), street fighter, long hair, purple hair
-(crimson viper:1.3), street fighter, long hair, dark skin, dark-skinned female, red hair
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:laura:1> lauraSDXLmarlo
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:PONYXL_StreetFighter_LauraMatsuda_ownwaifu:1> PONYXL_StreetFighter_LauraMatsuda_ownwaifu
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:lauramatsudaxl:1> matsudaxl
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:SF_Laura-PONY:1> laura matsuda
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:SF_Laura-PONY:1> laura matsuda, deflaura
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:SF_Laura-PONY:1> laura matsuda, bjjlaura
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:SF_Laura-PONY:1> laura matsuda, altlaura
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:SF_Laura-PONY:1> laura matsuda, sptlaura
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:SF_Laura-PONY:1> laura matsuda, smrlaura
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:LauraSF:1> LauraSF
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:LauraSF:1> LauraStory
+(laura matsuda:1.3), street fighter, dark-skinned female, brown eyes, long hair, wavy hair, black hair, dark skin, asymmetrical hair, <lora:LauraSF:1> LauraBattle
+(rose \(street fighter\):1.3), street fighter, long hair, purple hair, blue eyes, hair intake, ahoge, <lora:Rose SF PXL v01:1> rosesfdg
+(rose \(street fighter\):1.3), street fighter, long hair, purple hair, blue eyes, hair intake, ahoge, <lora:RoseStreetFighter:1> RoseSF
+(crimson viper:1.3), street fighter, long hair, dark skin, dark-skinned female, red hair, <lora:CviperMCxl:1> cvprxl
+(crimson viper:1.3), street fighter, long hair, dark skin, dark-skinned female, red hair, <lora:crimsonViperXL_LoRA-C3Lier_AdamW_Dim8_Alpha8_UN-3e-4_TE-1.5e-4_10batch_ponyDiffusionV6XL_v6StartWithThisOne:1>
 (manon legrand:1.3), street fighter, pink hair, blue eyes
-(kimberly jackson:1.3), street fighter, dark-skinned female, brown eyes, multicolored hair, long hair, very dark skin, dark skin, black hair
-(a.k.i. \(street fighter\):1.3), street fighter, red eyes, impossible hair, short hair, white hair
+(manon legrand:1.3), street fighter, pink hair, blue eyes, <lora:ManondefDwnsty:1> manonsf
+(manon legrand:1.3), street fighter, pink hair, blue eyes, <lora:Manon SF6 Pony -mnon - damocles_aaa:1> mnon
+(manon legrand:1.3), street fighter, pink hair, blue eyes, <lora:Manon:1> manonSDXL
+(kimberly jackson:1.3), street fighter, dark-skinned female, brown eyes, multicolored hair, long hair, very dark skin, dark skin, black hair, <lora:KimberlySF6:1> kimberlyxl
+(a.k.i. \(street fighter\):1.3), street fighter, red eyes, impossible hair, short hair, white hair, <lora:AKI:1> AKI
 (kolin:1.3), street fighter, blonde hair, blue eyes, long hair
 (decapre:1.3), street fighter, blonde hair, long hair, red eyes
-(lily hawk:1.3), street fighter, dark-skinned female, brown eyes, brown hair, dark skin, black hair
-(female seth \(street fighter\):1.3), street fighter, yellow eyes, grey skin, long hair, colored skin, very long hair, metal skin, black hair
+(lily hawk:1.3), street fighter, dark-skinned female, brown eyes, brown hair, dark skin, black hair, <lora:SF_LilyHawk-PONY:1> sf6lilydef
+(lily hawk:1.3), street fighter, dark-skinned female, brown eyes, brown hair, dark skin, black hair, <lora:SF_LilyHawk-PONY:1> sf6lilyalt
+(female seth \(street fighter\):1.3), street fighter, yellow eyes, grey skin, long hair, colored skin, very long hair, metal skin, black hair, <lora:SethXL:1> seth
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, spiked hair, <lora:psnff_idxl_EliPot:1> psnff
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, spiked hair <lora:Poison:1>
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, <lora:poisonstreetfighter_pony_v1:1> PoisonStreetFighter
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, <lora:Poison iIlluLoRA DG 2:1> Poisondg
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, <lora:PosionDwnsty:1> poisonff
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, <lora:SFV_Poison-PONY:1> sfvpoison
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, <lora:32dim-SF_Poison-PONY:1> poisondef
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, <lora:32dim-SF_Poison-PONY:1> poisoncop
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, <lora:32dim-SF_Poison-PONY:1> poisonstory
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, <lora:32dim-SF_Poison-PONY:1> poisonhallow
+(poison:1.3), street fighter, pink hair, blue eyes, long hair, <lora:32dim-SF_Poison-PONY:1> poisonrnd
+(li fen:1.3), street fighter, brown hair, brown eyes, short hair, hair buns, <lora:LiFenxl:1> lifenxl
+(melike:1.3), street fighter, dark skin, blue eyes, blonde hair, dark-skinned female, long blonde braids <lora:Melike_-_Street_Fighter_4:1> aia_melike_sf
+(yamato nadeshiko \(street fighter\):1.3), black hair, green eyes, short hair, black hair, <lora:NadeshikoXL-full:1> nadeshikoxl

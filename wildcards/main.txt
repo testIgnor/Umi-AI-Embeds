@@ -10,10 +10,11 @@ characters
 [set franchise]
 [choose]
 Tekken
+Street Fighter
 [/choose]
 [/set]
 
-[chance 50]
+[chance 25]
 [set characterType]
 [choose]
 characters
