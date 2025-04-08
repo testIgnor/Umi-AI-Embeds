@@ -9,9 +9,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-MahoAko
-Cartoons
-Pokemon
+Tekken
 [/choose]
 [/set]
 
@@ -23,11 +21,9 @@ characters
 [/set]
 [set franchise]
 [choose]
-Dragon Quest
-Zelda
-Comics
-Street Fighter
-Zootopia
+MahoAko
+Cartoons
+Pokemon
 [/choose]
 [/set]
 [/chance]
