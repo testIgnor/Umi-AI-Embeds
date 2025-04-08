@@ -11,10 +11,11 @@ characters
 [choose]
 Tekken
 Street Fighter
+Zelda
 [/choose]
 [/set]
 
-[chance 25]
+[chance 15]
 [set characterType]
 [choose]
 characters
