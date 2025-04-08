@@ -9,11 +9,9 @@ characters
 [/set]
 [set franchise]
 [choose]
-Zelda
-Street Fighter
 MahoAko
-Comics
 Cartoons
+Pokemon
 [/choose]
 [/set]
 
@@ -25,11 +23,10 @@ characters
 [/set]
 [set franchise]
 [choose]
-KoF
 Dragon Quest
-Madoka
-Pokemon
-SAO
+Zelda
+Comics
+Street Fighter
 Zootopia
 [/choose]
 [/set]
