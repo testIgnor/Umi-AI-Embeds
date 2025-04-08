@@ -3,9 +3,12 @@
 (manya \(dq4\):1.3), dragon quest, dark-skinned female, purple hair, long hair, dark skin, purple eyes, maya <lora:Maya_Manya_Dragon_Quest_PONY:1>
 (princess of moonbrook:1.3), dragon quest, purple eyes, purple hair, long hair <lora:princess-of-moon-brook-ponyxl-lora-nochekaiser:1>
 (jessica albert:1.3), dragon quest, orange hair, red eyes, twintails <lora:jessica-albert-ponyxl-lora-nochekaiser:1>
+(jessica albert:1.3), dragon quest, orange hair, red eyes, twintails, <lora:Jessica-DQ8-Illustrious:1> dqJe
+(jessica albert:1.3), dragon quest, orange hair, red eyes, twintails, <lora:Jessica-IL:1> j3ss1c4
 (sage \(dq3\):1.3), dragon quest, long hair, blue hair, red eyes, dq3sage, <lora:dq3sage-pdxl-nvwls-v1:1>
 (alena \(dq4\):1.3), dragon quest, orange hair, long hair, curly hair, brown eyes, otenbahimealena <lora:alenablacktalepony:1>
 (soldier \(dq3\):1.3), dragon quest, long hair, purple hair, blue eyes, soldier\(dq3\) <lora:soldier(dq3)_pony:1>
+(soldier \(dq3\):1.3), dragon quest, long hair, purple hair, blue eyes, <lora:dqsoldier-illu-nvwls-v1:1> d3sold
 (priest \(dq3\):1.3), dragon quest, long hair, blue hair, aqua hair, red eyes, pr1est <lora:Priest_dq3:1>
 (roto \(dq3\):1.3), dragon quest, brown hair, short hair, long hair, blue eyes, black hair
 (martina \(dq11\):1.3), dragon quest, purple hair, long hair, very long hair, purple eyes, black hair, ponytail, martina <lora:dq-martina-ponyxl-lora-nochekaiser:1>

@@ -1,4 +1,6 @@
 (chun-li:1.3), street fighter, brown eyes, short hair, brown hair
+(chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:ChunLiSFIllustrious:1> CLICLASS
+(chun-li:1.3), street fighter, brown eyes, short hair, brown hair, <lora:ChunLiSFIllustrious:1> CLBTTL, brown hair, long hair, hair down, front braids, twin braids
 (cammy white:1.3), street fighter, blonde hair, blue eyes, long hair
 (han juri:1.3), street fighter, purple eyes, multicolored hair, black hair
 (kasugano sakura:1.3), street fighter, brown eyes, short hair, brown hair

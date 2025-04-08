@@ -16,3 +16,23 @@
 (lord enorme:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, black hair, yellow eyes <lora:michiko-tanaka-ponyxl-lora-nochekaiser:1>
 (anemo nemo:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, green hair, pink eyes, hair over one eye, aqua hair, ahoge <lora:nemo-anemo-ponyxl-lora-nochekaiser:1>
 (leberblume:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, green hair, pink eyes, hair over one eye, aqua hair, ahoge <lora:nemo-anemo-ponyxl-lora-nochekaiser:1>
+
+(hiiragi utena:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, purple hair, yellow eyes, ahoge, hair intakes, <lora:Hiiragi Utena_illustrious:1> Hiiragi Utena
+(magia baiser:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, purple hair, yellow eyes, ahoge, hair intakes, <lora:Hiiragi Utena_illustrious:1> Hiiragi Utena
+(araga kiwi:1.3), mahou shoujo ni akogarete, gushing over magical girls, bangs, ahoge, mole, mole under eye, purple eyes, green hair, hair bun, double hair bun, <lora:Araga Kiwi_illustrious:1> Araga Kiwi
+(magia leopard:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, bangs, ahoge, mole, mole under eye, purple eyes, green hair, hair bun, double hair bun, <lora:Araga Kiwi_illustrious:1> Araga Kiwi**(leopard:2.0), (anthro, animal ears, tail:2.0)**
+(morino korisu:1.3), mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair, <lora:Morino Korisu_illustrious:1> Morino Korisu
+(nero alice:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, pink eyes, red eyes, long hair, very long hair, ahoge, blonde hair, <lora:Morino Korisu_illustrious:1> Morino Korisu
+(minakami sayo:1.3), mahou shoujo ni akogarete, gushing over magical girls, brown eyes, long hair, blue hair, <lora:Minakami Sayo_illustrious:1> Minakami Sayo
+(magia azul:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, brown eyes, long hair, blue hair, <lora:Minakami Sayo_illustrious:1> Minakami Sayo
+(tenkawa kaoruko:1.3), mahou shoujo ni akogarete, gushing over magical girls, long hair, blue eyes, blonde hair, <lora:Tenkawa Kaoruko_illustrious:1> Tenkawa Kaoruko
+(magia sulfur:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, blue eyes, blonde hair, <lora:Tenkawa Kaoruko_illustrious:1> Tenkawa Kaoruko
+(hanabishi haruka:1.3), mahou shoujo ni akogarete, gushing over magical girls, drill hair, green eyes, pink hair, twintails, <lora:Haruka Hanabishi_illustrious:1> Haruka Hanabishi
+(magia magenta:1.3), magical girl, mahou shoujo ni akogarete, gushing over magical girls, drill hair, green eyes, pink hair, twintails, <lora:Haruka Hanabishi_illustrious:1> Haruka Hanabishi
+(akoya matama:1.3), mahou shoujo ni akogarete, gushing over magical girls, long hair, brown hair, green eyes, multicolored hair, aqua eyes, two side up, streaked hair, <lora:akoya matama_illustrious:1> Akoya Matama
+(loco musica:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, brown hair, green eyes, multicolored hair, aqua eyes, two side up, streaked hair, <lora:akoya matama_illustrious:1> Akoya Matama
+(tanaka mihciko:1.3), mahou shoujo ni akogarete, gushing over magical girls, long hair, black hair, yellow eyes, <lora:Lord Enorme_illustrious:1> Lord Enorme
+(lord enorme:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, black hair, yellow eyes, <lora:Lord Enorme_illustrious:1> Lord Enorme
+(anemo nemo:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, green hair, pink eyes, hair over one eye, aqua hair, ahoge, <lora:Anemo Nemo_illustrious:1> Anemo Nemo
+(leberblume:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, green hair, pink eyes, hair over one eye, aqua hair, ahoge, <lora:Anemo Nemo_illustrious:1> Anemo Nemo
+(sister gigant:1.3), purple hair, pink hair, half-closed eyes, very long hair, blue eyes, <lora:Sister Gigant_illustrious:1> Sister Gigant

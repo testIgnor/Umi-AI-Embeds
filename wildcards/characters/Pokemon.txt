@@ -10,6 +10,7 @@
 (cynthia \(pokemon\):1.3), pokemon, blonde hair, very long hair, long hair, grey eyes
 (akari \(pokemon\):1.3), pokemon, grey eyes, long hair, black hair
 (misty \(pokemon\):1.3), pokemon, short hair, orange hair, green eyes, blue eyes
+(misty \(pokemon\):1.3), pokemon, short hair, orange hair, green eyes, blue eyes, <lora:MistyCardArt_IXL:1> zzMisty
 (iono \(pokemon\):1.3), pokemon, split-color hair, blue hair, two-tone hair, multicolored hair, low-tied long hair, bow-shaped hair, pink eyes, pink hair, long hair, very long hair
 (nessa \(pokemon\):1.3), pokemon, blue eyes, blue hair, black hair, two-tone hair, multicolored hair, dark skin, dark-skinned female, long hair
 (bea \(pokemon\):1.3), pokemon, hair between eyes, blue eyes, grey eyes, grey hair, dark skin, dark-skinned female, short hair

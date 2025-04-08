@@ -10,4 +10,5 @@
 (miki sayaka \(magical girl\):1.3), mahou shoujo madoka magica, short hair, blue eyes, blue hair
 (sakura kyoko \(magical girl\):1.3), mahou shoujo madoka magica, long hair, red hair, ponytail, red eyes
 (tomoe mami \(magical girl\):1.3), mahou shoujo madoka magica, blonde hair, drill hair, twintails, yellow eyes, long hair
+(tomoe mami \(magical girl\):1.3), mahou shoujo madoka magica, blonde hair, drill hair, twintails, yellow eyes, long hair <lora:mamitomoeILM:1>
 (akuma homura \(magical girl\):1.3), mahou shoujo madoka magica, purple eyes, long hair, black hair

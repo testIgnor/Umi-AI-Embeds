@@ -15,7 +15,9 @@
 (bast \(marvel\):1.3)
 (black widow \(marvel\):1.3)
 (captain marvel \(marvel\):1.3)
-(emma frost \(marvel\):1.3)
+(emma frost \(marvel\):1.3), blonde hair, short hair, blue eyes, earrings, blue lips
+(emma frost \(marvel\):1.3), <lora:emmaFrostRivals_pony_byJaneB:1> emm4frostrivals, blonde hair, short hair, blue eyes, earrings, blue lips
+(emma frost \(marvel\):1.3), <lora:emmafrostMR-guy90-Illust-LoraV1:1> tsinne, blonde hair, short hair, blue eyes, earrings, blue lips
 (galacta \(marvel\):1.3)
 (gamora \(marvel\):1.3)
 (hela \(marvel\):1.3)

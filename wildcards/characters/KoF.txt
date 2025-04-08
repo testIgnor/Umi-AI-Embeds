@@ -1,4 +1,6 @@
 (shiranui mai:1.3), the king of fighters, long hair, brown eyes, brown hair
+(shiranui mai:1.3), the king of fighters, long hair, brown eyes, brown hair, <lora:MaiShiranuiFFIllustrious:1> SHMAFF
+(shiranui mai:1.3), the king of fighters, long hair, brown eyes, brown hair, <lora:MaiShiranuiFFIllustrious:1> SMACOTW
 (angel \(kof\):1.3), the king of fighters, short hair, blue eyes, white hair
 (leona heidern:1.3), the king of fighters, long hair, blue eyes, blue hair
 (kula diamond:1.3), the king of fighters, red eyes, long hair, blue hair

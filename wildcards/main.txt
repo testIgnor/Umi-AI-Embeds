@@ -9,12 +9,15 @@ characters
 [/set]
 [set franchise]
 [choose]
-d.va
-overwatch
+Zelda
+Street Fighter
+MahoAko
+Comics
+Cartoons
 [/choose]
 [/set]
 
-[chance 0]
+[chance 50]
 [set characterType]
 [choose]
 characters
@@ -22,7 +25,12 @@ characters
 [/set]
 [set franchise]
 [choose]
-celebs
+KoF
+Dragon Quest
+Madoka
+Pokemon
+SAO
+Zootopia
 [/choose]
 [/set]
 [/chance]
@@ -268,7 +276,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 50]
+[chance 90]
 [call choose_franchise_simple]
 [/chance]
 
