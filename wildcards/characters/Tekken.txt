@@ -1,14 +1,48 @@
-(kazama asuka:1.3), tekken, brown eyes, short hair, brown hair
-(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair
-(ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair
+(kazama asuka:1.3), tekken, brown eyes, short hair, brown hair, <lora:T8Asuka:1> T8Asuka
+(kazama asuka:1.3), tekken, brown eyes, short hair, brown hair <lora:AsukaPdxlDwnsty:1>
+(kazama asuka:1.3), tekken, brown eyes, short hair, brown hair, <lora:Asuka_Kazama_TEKKEN_PONY_XL_by_UOC:1> asuka kazama, asuka kazama \(tekken\)
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, hime cut, makeup, <lora:T8Lili:1> T8Lili
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, hime cut, makeup, <lora:emilie:1> emiliederochefortSDXL
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:LiliT8:1> LiliT8
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:liliv1:1> lili
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:liliv1:1> liliclassic
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:liliv1:1> lilit7
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:liliv1:1> lilit8
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:liliv1:1> lilibride
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:liliv1:1> liliswimsuit
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:liliv1:1> lilit8alt
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:Lili_-_Tekken:1> Lili
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs <lora:lili_tekken8:1>
+(ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:ILTKXiaoyu:1> TKXiaoyu
+(ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:TKXiaoyu:1> TKXiaoyu
+(ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:Ling_Xiaoyu_TEKKEN_PONY_XL_by_UOC:1> ling xiaoyu, ling xiaoyu \(tekken\)
+(ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:Ling_Xiaoyu_tekken_2P_outfit:1>
 (reina \(tekken\):1.3), tekken, multicolored hair, purple hair, short hair, purple eyes, black hair
-(nina williams:1.3), tekken, blonde hair, short hair, blue eyes, long hair
-(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes
-(julia chang:1.3), tekken, long hair, brown eyes, brown hair
-(anna williams:1.3), tekken, blue eyes, short hair, brown hair
+(reina \(tekken\):1.3), tekken, multicolored hair, purple hair, short hair, purple eyes, black hair, <lora:TKReina:1> TKReina
+(nina williams:1.3), tekken, blonde hair, short hair, blue eyes, long hair, <lora:ChamNinaWilliamsPonyXL6e-5:1> NinWilliams
+(nina williams:1.3), tekken, blonde hair, short hair, blue eyes, long hair, <lora:ChamNinaWilliamsPonyXL6e-5:1> WilliamsDefault
+(nina williams:1.3), tekken, blonde hair, short hair, blue eyes, long hair, <lora:ChamNinaWilliamsPonyXL6e-5:1> WillamsSecond
+(nina williams:1.3), tekken, blonde hair, short hair, blue eyes, long hair, <lora:Nina_Williams__TEKKEN_PONY_XL_by_UOC:1> nina williams, nina williams \(tekken\)
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:TKNAlisa:1> TKNAlisa
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:Alisa_Bosconovitch:1> Normal_Alisa
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:Alisa_Bosconovitch:1> BattleBunny_Alisa
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:Alisa_Bosconovitch:1> Regular_Alisa
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:Alisa_Bosconovitch:1> TropicalBikini_Alisa
+(julia chang:1.3), tekken, long hair, brown eyes, brown hair, <lora:Julia_Chang_Tekken_PONY_XL_by_UOC:1> julia chang, julia chang \(tekken\)
+(anna williams:1.3), tekken, blue eyes, short hair, brown hair, <lora:Anna_Williams_TEKKEN_PONY_XL_by_UOC:1> anna williams, anna williams \(tekken\)
 (eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, long hair, pale skin, black hair
-(josie rizal:1.3), tekken, dark-skinned female, brown eyes, brown hair, short hair, dark skin, black hair
+(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, long hair, pale skin, black hair, <lora:TKNEliza:1> TKNEliza, demon horns
+(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, long hair, pale skin, black hair, <lora:Eliza_-_Tekken:1> Eliza
+(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, long hair, pale skin, black hair, <lora:Elize_TEKKEN_PONY_XL_by_UOC:1> Elize, Elize \(tekken\)
+(josie rizal:1.3), tekken, dark-skinned female, brown eyes, brown hair, short hair, dark skin, black hair, <lora:Josie_Rizal_TEKKEN_PONY_XL_by_UOC:1> josie rizal, josie rizal \(tekken\)
 (kazama jun:1.3), tekken, short hair, black hair
 (leo kliesen:1.3), tekken, blonde hair, blue eyes, short hair
-(lucky chloe:1.3), tekken, blonde hair, blue eyes, long hair
-(christie monteiro:1.3), tekken, dark-skinned female, brown eyes, brown hair, long hair, dark skin
+(lucky chloe:1.3), tekken, blonde hair, blue eyes, long hair, <lora:Lucky_Chloe_Tekken_PONY_XL_by_UOC:1> lucky chloe, lucky chloe \(tekken\)
+(christie monteiro:1.3), tekken, dark-skinned female, brown eyes, brown hair, long hair, dark skin, <lora:TekkenChirstieMonteiro:1> TekkenChris
+(katarina alves:1.3), tekken, brown hair, long hair, brown eyes, <lora:Katarina_Alves_TEKKEN_PONY_XL_by_UOC:1> katarina alves, katarina alves \(tekken\)
+(kunimitsu \(tekken\):1.3), tekken, blue eyes, red hair, long hair, long ponytail, <lora:Kunimitsu_-_Tekken_7:1> KunimitsuTK
+(kunimitsu \(tekken\):1.3), tekken, blue eyes, red hair, long hair, long ponytail, <lora:Kunimitsu_Tekken_PONY_XL_by_UOC:1> kunimitsu, kunimitsu \(tekken\)
+(kunimitsu \(tekken\):1.3), tekken, blue eyes, red hair, long hair, long ponytail, <lora:KunimitsuTT2:1> Kunimitsu
+(angel \(tekken\):1.3), tekken, blonde hair, blue eyes, braided bun, hair bun, angel wings, white wings, circlet, jewelry <lora:Angel_Tekken:1>
+(lidia sobieska:1.3), tekken, blonde hair, blue eyes, ponytail, <lora:edgLidiaTekkenPony:1> edgLidia
+(mishima kazumi:1.3), tekken, brown hair, black hair, long hair, red eyes, blunt bangs, red eyeshadow, sidelocks, hair ornament, hair bun, <lora:TekkenKazumi:1> TKNKZMI
