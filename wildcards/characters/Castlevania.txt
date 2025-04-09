@@ -1,3 +1,22 @@
-(charlotte aulin:1.3), castlevania \(series\), long hair, blue eyes, brown hair, blonde hair
-(maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair
+(charlotte aulin:1.3), castlevania \(series\), long hair, blue eyes, brown hair, <lora:akumajocharlotteaulinpony:1> charlotteaulinpor
+(charlotte aulin:1.3), castlevania \(series\), long hair, blue eyes, brown hair, <lora:Charlotte_Aulin_Castlevania_Portrait_of_Ruin:1> Charlotte_Aulin
+(charlotte aulin:1.3), castlevania \(series\), long hair, blue eyes, brown hair <lora:castlevania_charlotteaulin_ponyXL:1> charlotte aulin
+(maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, low ponytail, <lora:YoungMaria_Nocture_LCD_v04:1> youngmaria_nocturne_lcd
+(maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, low ponytail <lora:Maria_Renard_illus:1>
+(maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, low ponytail, <lora:Maria_Renard__Castlevania_Nocturne_:1> maria
+(maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, low ponytail, <lora:castlevania-maria-ponyxl-lora-nochekaiser:1>, castlevaniamaria
+(maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, <lora:Maria_Renard_Ver2.0_Castlevania_IS:1> Maria_Renard
 (shanoa \(castlevania\):1.3), castlevania \(series\), very long hair, long hair, black hair, blue eyes
+(shanoa \(castlevania\):1.3), castlevania \(series\), very long hair, long hair, black hair, blue eyes, <lora:ShanoaCV-pdxl:1> shanCV
+(shanoa \(castlevania\):1.3), castlevania \(series\), very long hair, long hair, black hair, blue eyes, <lora:ShanoaCV-illu:1> shanCV
+(succubus \(castlevania\):1.3), castlevania \(series\), blue eyes, pale skin, elf ears, long hair, blonde hair, demon wings, <lora:LOISucc_t2:1> LOISucc
+(succubus \(castlevania\):1.3), castlevania \(series\), red eyes, long hair, red hair, demon wings, <lora:CVSuccubus_t1:1> CVSuccubus
+(carmilla \(castlevania\):1.3), castlevania \(series\), brown hair, long hiar, red eyes, <lora:COTMCarmillaIL:1> carmilla, hair ribbon, pink ribbon
+(yoko belnades:1.3), castlevania \(series\), long hair, blonde hair, blue eyes, <lora:YokoCV-pdxl:1> yokoCV
+(annette renard:1.3), castlevania \(series\), red eyes, eyeshadow liner, long hair, blonde hair, curtain bangs, <lora:AnnetteSuccubus:1> AnnetteSuccubus, demon wings
+(annette renard:1.3), castlevania \(series\), blue eyes, eyeshadow liner, short hair, long locks, blonde hair, braided ballet bun, french braid, <lora:AnnetteRenard:1>  AnnetteRenard
+(sypha belnades:1.3), castlevania \(series\), short hair, brown hair, blonde hair, blue eyes, <lora:seypha illuLoRA DG :1> Seyphadg
+(loretta lecarde:1.3), castlevania \(series\), pale skin, purple hair, blunt bangs, hime cut, blue eyes, long hair, red lips, <lora:lore:1> Loretta Lecarde
+(stella lecarde:1.3), castlevania \(series\), pale skin, bangs, blunt bangs, drill hair, hair bun, double bun, purple hair, blue eyes, lipstick, red lips, <lora:Stella:1> stella
+(frozen shade:1.3), castlevania \(series\), blue hair, long hair, white eyes, no pupils, blue skin, colored skin, long ponytail, <lora:CaptainFrozen_Shade_-_Castlevania_Nocturne_Pony:1> FR0Z3NSH4DE
+(hakuba mina:1.3), castlevania \(series\), brown eyes, brown hair, short hair, <lora:minahakuba-cv-richy-v1_pdxl:1> minahakuba
