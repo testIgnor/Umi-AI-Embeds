@@ -30,10 +30,10 @@
 (alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, <lora:Alisa_Bosconovitch:1> TropicalBikini_Alisa
 (julia chang:1.3), tekken, long hair, brown eyes, brown hair, <lora:Julia_Chang_Tekken_PONY_XL_by_UOC:1> julia chang, julia chang \(tekken\)
 (anna williams:1.3), tekken, blue eyes, short hair, brown hair, <lora:Anna_Williams_TEKKEN_PONY_XL_by_UOC:1> anna williams, anna williams \(tekken\)
-(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, long hair, pale skin, black hair
-(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, long hair, pale skin, black hair, <lora:TKNEliza:1> TKNEliza, demon horns
-(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, long hair, pale skin, black hair, <lora:Eliza_-_Tekken:1> Eliza
-(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, long hair, pale skin, black hair, <lora:Elize_TEKKEN_PONY_XL_by_UOC:1> Elize, Elize \(tekken\)
+(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, pale skin, black hair, demon horns
+(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, pale skin, black hair, demon horns, <lora:TKNEliza:1> TKNEliza
+(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, pale skin, black hair, demon horns, <lora:Eliza_-_Tekken:1> Eliza
+(eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, pale skin, black hair, demon horns, <lora:Elize_TEKKEN_PONY_XL_by_UOC:1> Elize, Elize \(tekken\)
 (josie rizal:1.3), tekken, dark-skinned female, brown eyes, brown hair, short hair, dark skin, black hair, <lora:Josie_Rizal_TEKKEN_PONY_XL_by_UOC:1> josie rizal, josie rizal \(tekken\)
 (kazama jun:1.3), tekken, short hair, black hair
 (leo kliesen:1.3), tekken, blonde hair, blue eyes, short hair
