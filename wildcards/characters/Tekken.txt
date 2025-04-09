@@ -23,11 +23,11 @@
 (nina williams:1.3), tekken, blonde hair, short hair, blue eyes, long hair, <lora:ChamNinaWilliamsPonyXL6e-5:1> WilliamsDefault
 (nina williams:1.3), tekken, blonde hair, short hair, blue eyes, long hair, <lora:ChamNinaWilliamsPonyXL6e-5:1> WillamsSecond
 (nina williams:1.3), tekken, blonde hair, short hair, blue eyes, long hair, <lora:Nina_Williams__TEKKEN_PONY_XL_by_UOC:1> nina williams, nina williams \(tekken\)
-(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:TKNAlisa:1> TKNAlisa
-(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:Alisa_Bosconovitch:1> Normal_Alisa
-(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:Alisa_Bosconovitch:1> BattleBunny_Alisa
-(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:Alisa_Bosconovitch:1> Regular_Alisa
-(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, mechanical wings, <lora:Alisa_Bosconovitch:1> TropicalBikini_Alisa
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, <lora:TKNAlisa:1> TKNAlisa
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, <lora:Alisa_Bosconovitch:1> Normal_Alisa
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, <lora:Alisa_Bosconovitch:1> BattleBunny_Alisa
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, <lora:Alisa_Bosconovitch:1> Regular_Alisa
+(alisa boskonovich:1.3), tekken, two-tone hair, multicolored hair, pink hair, short hair, green eyes, android, lips, drill hair, hair ornament, robot joints, <lora:Alisa_Bosconovitch:1> TropicalBikini_Alisa
 (julia chang:1.3), tekken, long hair, brown eyes, brown hair, <lora:Julia_Chang_Tekken_PONY_XL_by_UOC:1> julia chang, julia chang \(tekken\)
 (anna williams:1.3), tekken, blue eyes, short hair, brown hair, <lora:Anna_Williams_TEKKEN_PONY_XL_by_UOC:1> anna williams, anna williams \(tekken\)
 (eliza \(tekken\):1.3), tekken, yellow eyes, red eyes, short hair, long hair, pale skin, black hair
