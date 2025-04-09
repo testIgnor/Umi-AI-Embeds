@@ -79,7 +79,7 @@
 (manon legrand:1.3), street fighter, pink hair, blue eyes, <lora:Manon SF6 Pony -mnon - damocles_aaa:1> mnon
 (manon legrand:1.3), street fighter, pink hair, blue eyes, <lora:Manon:1> manonSDXL
 (kimberly jackson:1.3), street fighter, dark-skinned female, brown eyes, multicolored hair, long hair, very dark skin, dark skin, black hair, <lora:KimberlySF6:1> kimberlyxl
-(a.k.i. \(street fighter\):1.3), street fighter, red eyes, impossible hair, short hair, white hair, <lora:AKI:0.7> AKI
+(a.k.i. \(street fighter\):1.3), street fighter, red eyes, impossible hair, short hair, white hair, <lora:AKI:1> AKI
 (kolin:1.3), street fighter, blonde hair, blue eyes, long hair
 (decapre:1.3), street fighter, blonde hair, long hair, red eyes
 (lily hawk:1.3), street fighter, dark-skinned female, brown eyes, brown hair, dark skin, black hair, <lora:SF_LilyHawk-PONY:1> sf6lilydef
