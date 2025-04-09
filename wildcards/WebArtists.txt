@@ -125,6 +125,7 @@ by jay marvel, <lora:jay_marvel:1> sxy5tyle
 by jay marvel, <lora:Jay-marvel:1> J41m4rv3l
 by jay marvel <lora:JayMarvel-Style-PonyXL-v1.1:1>
 by mokushi, <lora:Mokushi_style-05:1> MokushiC-3
+by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 [by johndoe, by john doe <lora:johndoe_IL:1>|by tarakanovich <lora:tarakanovich1.5:1>]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by exlic, <lora:ExLic_style:1> ExLic_style]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
@@ -280,6 +281,7 @@ by jay marvel, <lora:jay_marvel:1> sxy5tyle
 by jay marvel, <lora:Jay-marvel:1> J41m4rv3l
 by jay marvel <lora:JayMarvel-Style-PonyXL-v1.1:1>
 by mokushi, <lora:Mokushi_style-05:1> MokushiC-3
+by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 [by johndoe, by john doe <lora:johndoe_IL:1>|by tarakanovich <lora:tarakanovich1.5:1>]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by exlic, <lora:ExLic_style:1> ExLic_style]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
