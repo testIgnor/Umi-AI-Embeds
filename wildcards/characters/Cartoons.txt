@@ -21,3 +21,10 @@
 <[model][illu]>source_anime, (susan test:1.3), <lora:SusanTest_LeafXL_2:1> Susan, Red hair, long hair, blunt bangs, blue eyes, glasses, star hair ornament
 <[model][illu]>source_anime, (jenny test:1.3), <lora:JennyTest_illustrious_Leaf6:1> jennyTest, blonde hair, blue eyes
 <[model][illu]>source_anime, (sissy blakely:1.3), <lora:SissyBlakely_Illustrious_Leaf5:1> SissyBlakely, blue eyes, blonde hair, ponytail, hairband
+<[model][illu]>source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:jenny_wakeman:1> jenny_wakeman
+<[model][illu]>source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:XJ-9:1> xj9
+<[model][illu]>source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:Jenny_Wakeman_PDXL_V2:1> Jenny
+<[model][illu]>source_anime, (jenny wakeman:1.3), twintails, twintails, black eyes, blush stickers, red hair, <lora:JennyHSXLP:1> jennyhs
+<[model][illu]>source_anime, (jenny belle:1.3), <lora:slipperyt_illust_jennymin:1> slipperyt_illust_jennymin, brown hair, blue eyes, choker, bangs, short hair, minecraft, flower hair accessory
+<[model][illu]>source_anime, (jenny belle:1.3), <lora:JennyBelleSTXL:1> JennyBelleSTXL, blue eyes, brown hair, short hair, bangs, flower hair, black choker
+<[model][illu]>source_anime, (jenny belle:1.3), <lora:Jenny_belle_3d_3d_render_minecraft_woman:1> Jenny belle
