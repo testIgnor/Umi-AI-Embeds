@@ -12,10 +12,11 @@ characters
 Tekken
 Street Fighter
 Zelda
+Castlevania
 [/choose]
 [/set]
 
-[chance 15]
+[chance 0]
 [set characterType]
 [choose]
 characters
@@ -271,7 +272,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 90]
 [call choose_franchise_simple]
 [/chance]
 
