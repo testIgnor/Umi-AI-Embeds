@@ -10,3 +10,6 @@
 <[model][illu]>source_anime, (starbucks:1.3), <lora:Starbucks_Wendys:1> Starbucks Siren
 <[model][illu]>source_anime, (starbucks:1.3), <lora:Starbucks_Wendys:1> STB-Chan
 <[model][illu]>source_anime, (wendy:1.3), <lora:Starbucks_Wendys:1> Wendy \(Wendy's\)
+<[model][illu]>source_anime, (jenny belle:1.3), <lora:slipperyt_illust_jennymin:1> slipperyt_illust_jennymin, brown hair, blue eyes, choker, bangs, short hair, minecraft, flower hair accessory
+<[model][illu]>source_anime, (jenny belle:1.3), <lora:JennyBelleSTXL:1> JennyBelleSTXL, blue eyes, brown hair, short hair, bangs, flower hair, black choker
+<[model][illu]>source_anime, (jenny belle:1.3), <lora:Jenny_belle_3d_3d_render_minecraft_woman:1> Jenny belle
