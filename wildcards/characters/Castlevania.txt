@@ -5,7 +5,7 @@
 (maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, low ponytail <lora:Maria_Renard_illus:1>
 (maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, low ponytail, <lora:Maria_Renard__Castlevania_Nocturne_:1> maria
 (maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, low ponytail, <lora:castlevania-maria-ponyxl-lora-nochekaiser:1>, castlevaniamaria
-(maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, <lora:Maria_Renard_Ver2.0_Castlevania_IS:0.7> Maria_Renard
+(maria renard:1.3), castlevania \(series\), very long hair, long hair, blue eyes, blonde hair, <lora:Maria_Renard_Ver2.0_Castlevania_IS:1> Maria_Renard
 (shanoa \(castlevania\):1.3), castlevania \(series\), very long hair, long hair, black hair, blue eyes
 (shanoa \(castlevania\):1.3), castlevania \(series\), very long hair, long hair, black hair, blue eyes, <lora:ShanoaCV-pdxl:1> shanCV
 (shanoa \(castlevania\):1.3), castlevania \(series\), very long hair, long hair, black hair, blue eyes, <lora:ShanoaCV-illu:1> shanCV
