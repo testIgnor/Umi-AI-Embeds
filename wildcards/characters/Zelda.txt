@@ -18,7 +18,7 @@
 (paya \(zelda\):1.3), brown eyes, white hair, grey hair, long hair
 (nabooru:1.3), gerudo, zzNabooru, dark-skinned female, yellow eyes, red hair, long hair, ponytail, dark skin, hair pulled back, forehead jewel, <lora:NabooruZelda_PDXL:1>
 (malon:1.3), brown hair, red hair, long hair, blue eyes
-(twinrova:1.3), gerudo, dark-skinned female, twintails, red eyes, magical fire hair, magical ice hair**(princess zelda, malon, cremia, romani \(zelda\), midna, linkle:1.7)**
+(twinrova:1.3), gerudo, dark-skinned female, twintails, red eyes, magical fire hair, magical ice hair, <lora:TwinrovaIL:1> Twinrova**(princess zelda, malon, cremia, romani \(zelda\), midna, linkle:1.7)**
 (princess zelda:1.3), {the legend of zelda: breath of the wild||the legend of zelda: tears of the kingdom}, {short hair||long hair}, blonde hair, blue eyes, green eyes, pointy ears
 (princess zelda:1.3), {short hair||long hair}, blonde hair, blue eyes, green eyes, pointy ears**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
 (princess zelda:1.3), <lora:ootzelda-illu-nvwls-v1:1> ocarzld, blonde hair, long hair, sidelocks, blue eyes, pointy ears
