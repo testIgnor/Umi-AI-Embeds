@@ -85,7 +85,7 @@
   Tags:
     - MySpecies
     - Anthroids
-'<[model][pony]>source_anime, _=Species/Warhammer=_':
+'<[model][illu]>source_anime, _=Species/Warhammer=_':
   Description:
     - Warhammer Creatures
   Tags:
@@ -242,7 +242,7 @@
   Tags:
     - Characters
     - Disgaea
-'<[model][pony]>source_anime, _=Characters/Disney=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, _=Characters/Disney=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Disney Characters
   Tags:
@@ -553,7 +553,7 @@
   Tags:
     - Characters
     - SAO
-'<[model][pony]>source_anime, _=Characters/She-ra=_, she-ra and the princesses of power**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, _=Characters/She-ra=_, she-ra and the princesses of power**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - She-ra Characters
   Tags:
@@ -764,14 +764,14 @@
     - Characters
     - Puyopuyo
 
-'<[model][pony]>source_anime, _=Characters/Warhammer=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, _=Characters/Warhammer=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Warhammer Characters
   Tags:
     - Characters
     - Warhammer
 
-'<[model][pony]>source_anime, _=Characters/TLOU=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, _=Characters/TLOU=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - TLOU Characters
   Tags:
