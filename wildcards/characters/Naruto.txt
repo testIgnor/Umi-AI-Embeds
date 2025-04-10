@@ -8,11 +8,11 @@
 (tsunade \(naruto\):1.3), blonde hair, brown eyes, long hair <lora:Naruto_Tsunade_NAIXL110:1>
 (tsunade \(naruto\):1.3), blonde hair, brown eyes, long hair, <lora:Tsunade-IL-v1:1> ChopioTsunade
 (temari \(naruto\):1.3), blonde hair, green eyes, short hair <lora:Naruto_TemariShippuden_iXL:1>
-(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails, whisker marks
-(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails, whisker marks <lora:Naruko_IL:1>
-(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails, whisker marks <lora:Naruko_v1_pony:1>
-(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails, whisker marks <lora:Naruko_PD6XL_1:1>
-(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails, whisker marks, <lora:Naruko:1> narukopony
+(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails
+(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails <lora:Naruko_IL:1>
+(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails <lora:Naruko_v1_pony:1>
+(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails <lora:Naruko_PD6XL_1:1>
+(naruko \(naruto\):1.3), blonde hair, blue eyes, long hair, very long hair, twintails, <lora:Naruko:1> narukopony
 (haruno sakura:1.3), pink hair, green eyes, short hair, <lora:Sakura_PXL:1> harunosakura
 (yamanaka ino:1.3), blue eyes, long hair, hair over one eye, blonde hair, high ponytail <lora:Naruto_InoYamanaka_PXL:1> yamanaka1n0
 (tenten \(naruto\):1.3), brown eyes, brown hair, short hair, long hair, blonde hair, black hair
