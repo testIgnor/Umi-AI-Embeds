@@ -1,33 +1,31 @@
-(purah:1.3), red eyes, short hair, white hair
+(purah:1.3), red eyes, short hair, pointy ears, white hair
 (mipha:1.3), multicolored skin, yellow eyes, red skin, colored skin
-(sheik:1.3), blonde hair, blue eyes, long hair, red eyes
-(urbosa:1.3), gerudo, dark-skinned female, big hair, long hair, green eyes, dark skin, red hair
+(sheik:1.3), blonde hair, blue eyes, long hair, pointy ears, red eyes
+(urbosa:1.3), gerudo, dark-skinned female, big hair, long hair, green eyes, dark skin, pointy ears, red hair
 (midna \(true\):1.3), orange hair, red eyes, blue skin, long hair, colored skin, <lora:Midna:1> M1dn4
 (midna:1.3), orange hair, red eyes, yellow sclera, blue skin, ponytail, colored skin <lora:TLOZ_Midna_a1_1_PonyXL:1>
-(saria \(zelda\):1.3), green hair, blue eyes, short hair
-(riju:1.3), gerudo, dark-skinned female, long hair, green eyes, dark skin, red hair, zzRiju <lora:RijuTotK_IXL_v3:1>
-(linkle:1.3), blonde hair, blue eyes, long hair
+(saria \(zelda\):1.3), green hair, blue eyes, pointy ears, short hair
+(riju:1.3), gerudo, dark-skinned female, long hair, green eyes, dark skin, red hair, pointy ears, zzRiju <lora:RijuTotK_IXL_v3:1>
+(linkle:1.3), blonde hair, blue eyes, long hair, pointy ears
 (princess ruto:1.3), blue skin, colored skin, blue eyes, purple eyes <lora:Ruto_Zelda_P1:1>
-(marin \(zelda\):1.3), orange hair, brown eyes, brown hair, long hair
-(medli:1.3), red eyes, long hair, brown hair
-(lana \(hyrule warriors\):1.3), long hair, blue hair, purple eyes
-(cia \(hyrule warriors\):1.3), dark-skinned female, red eyes, short hair, white hair, dark skin, purple eyes
-(princess hilda:1.3), long hair, purple hair, red eyes
-(cremia:1.3), brown hair, long hair, blue eyes, red hair
-(great fairy \(zelda\):1.3), blue eyes, long hair, pink hair**(princess zelda, malon, cremia, romani \(zelda\), midna, linkle:1.7)**
-(paya \(zelda\):1.3), brown eyes, white hair, grey hair, long hair
-(nabooru:1.3), gerudo, zzNabooru, dark-skinned female, yellow eyes, red hair, long hair, ponytail, dark skin, hair pulled back, forehead jewel, <lora:NabooruZelda_PDXL:1>
-(malon:1.3), brown hair, red hair, long hair, blue eyes
-(twinrova:1.3), gerudo, dark-skinned female, twintails, red eyes, <lora:TwinrovaIL:1> Twinrova**(princess zelda, malon, cremia, romani \(zelda\), midna, linkle:1.7)**
+(marin \(zelda\):1.3), orange hair, brown eyes, brown hair, long hair, pointy ears
+(medli:1.3), red eyes, long hair, brown hair, pointy ears
+(lana \(hyrule warriors\):1.3), long hair, blue hair, purple eyes, pointy ears
+(cia \(hyrule warriors\):1.3), dark-skinned female, red eyes, short hair, white hair, dark skin, purple eyes, pointy ears
+(princess hilda:1.3), long hair, purple hair, red eyes, pointy ears
+(cremia:1.3), brown hair, long hair, blue eyes, red hair, pointy ears,
+(paya \(zelda\):1.3), brown eyes, white hair, grey hair, long hair, pointy ears
+(nabooru:1.3), gerudo, zzNabooru, dark-skinned female, yellow eyes, red hair, long hair, ponytail, dark skin, hair pulled back, forehead jewel, pointy ears, <lora:NabooruZelda_PDXL:1>
+(malon:1.3), brown hair, red hair, long hair, blue eyes, pointy ears,
+(twinrova:1.3), gerudo, dark-skinned female, twintails, red eyes, pointy ears, <lora:TwinrovaIL:1> Twinrova
 (princess zelda:1.3), {the legend of zelda: breath of the wild||the legend of zelda: tears of the kingdom}, {short hair||long hair}, blonde hair, blue eyes, green eyes, pointy ears
 (princess zelda:1.3), {short hair||long hair}, blonde hair, blue eyes, green eyes, pointy ears**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
-(princess zelda:1.3), <lora:ootzelda-illu-nvwls-v1:1> ocarzld, blonde hair, long hair, sidelocks, blue eyes, pointy ears
-(princess zelda:1.3), blonde hair, long hair, sidelocks, blue eyes, pointy ears, <lora:Princess_Zelda_-_Echoes_of_Wisdom_r1:1> Zelda_EoW, high ponytail
-(young zelda:1.3), blonde hair, short hair, blue eyes, pointy ears, <lora:ZeldaOOT:1> ZeldaOOT
-(great fairy \(zelda\):1.3), blue eyes, long hair, pink hair <lora:Great_Fairy_Zelda_Pony:1>
-(princess zelda:1.3), brown hair, long hair, sidelocks, blue eyes, pointy ears, <lora:Princess_Zelda_Twilight_Princess_pony:1> zeldatwilight
-(princess zelda:1.3), brown hair, long hair, sidelocks, blue eyes, pointy ears, <lora:JN_Zelda_TP_Illus:1> Zelda TP
-(princess zelda:1.3), brown hair, long hair, sidelocks, blue eyes, pointy ears, <lora:tp_zelda_tpzlda_ponyxl_v1:1> tpzlda
+(princess zelda:1.3), <lora:ootzelda-illu-nvwls-v1:1> ocarzld, blonde hair, long hair, sidelocks, blue eyes, pointy ears**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
+(princess zelda:1.3), blonde hair, long hair, sidelocks, blue eyes, pointy ears, <lora:Princess_Zelda_-_Echoes_of_Wisdom_r1:1> Zelda_EoW, high ponytail**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
+(young zelda:1.3), blonde hair, short hair, blue eyes, pointy ears, <lora:ZeldaOOT:1> ZeldaOOT**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
+(princess zelda:1.3), brown hair, long hair, sidelocks, blue eyes, pointy ears, <lora:Princess_Zelda_Twilight_Princess_pony:1> zeldatwilight**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
+(princess zelda:1.3), brown hair, long hair, sidelocks, blue eyes, pointy ears, <lora:JN_Zelda_TP_Illus:1> Zelda TP**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
+(princess zelda:1.3), brown hair, long hair, sidelocks, blue eyes, pointy ears, <lora:tp_zelda_tpzlda_ponyxl_v1:1> tpzlda**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
 (princess zelda:1.3), blonde hair, short hair, sidelocks, pointy ears, <lora:Light dragon Zelda Hybrid_SLPGRMM:1> Zelda, elf ears, green eyes, hybrid, scales, white scales, horns, blue crystal horns, tail
 (princess zelda:1.3), blonde hair, long hair, sidelocks, blue eyes, pointy ears, <lora:Fugtrup_Zelda_Character_Nintendo_PonyXL:1> zelda
 (princess zelda:1.3), blonde hair, long hair, sidelocks, blue eyes, pointy ears <lora:princess_Zelda_NSFW:1>
@@ -37,15 +35,16 @@
 (princess zelda:1.3), blonde hair, short hair, sidelocks, blue eyes, pointy ears, <lora:Zelda Officialv3:1> zeldacape
 (princess zelda:1.3), blonde hair, long hair, sidelocks, blue eyes, pointy ears, <lora:ZeldaXL:1> zelda
 (princess zelda:1.3), blonde hair, long hair, sidelocks, blue eyes, pointy ears, <lora:ZeldaSDXL:1> ZeldaSDXL
-(great fairy \(zelda\):1.3), <lora:greatfairy-tloz-richy-v1_pdxl:1> gfyc, purple eyes, pink hair, very long hair, twintails, ponytail, forehead, red lips, eyeshadow, makeup, pink nails
-(great fairy \(zelda\):1.3), blue eyes, long hair, blonde hair, tpgrtfiry, sarong, wings <lora:tp_great_fairy_tpgrtfiry_ponyxl_v2:1>
+(great fairy \(zelda\):1.3), blue eyes, long hair, pink hair <lora:Great_Fairy_Zelda_Pony:1>
+(great fairy \(zelda\):1.3), <lora:greatfairy-tloz-richy-v1_pdxl:1> gfyc, pointy ears, purple eyes, pink hair, very long hair, twintails, ponytail, forehead, red lips, eyeshadow, makeup, pink nails
+(great fairy \(zelda\):1.3), blue eyes, long hair, blonde hair, pointy ears, tpgrtfiry, sarong, wings <lora:tp_great_fairy_tpgrtfiry_ponyxl_v2:1>
 (wolf link:1.3), (genderswap:1.4), <lora:wolflink:1> wolflink, wolflink, wolf anthro, earrings, white facial markings, blue eyes, wolf tail, fluffy chest fur
 (epona:1.3), <lora:Epona:1>, horse anthro, white mane, white tail, blue eyes, long eyelashes, brown fur
 (maggie:1.3), <lora:MaggieWW:1> maggieww, maggiepoor, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
 (maggie:1.3), <lora:MaggieWW:1> maggieww, maggierich, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
 (sue belle:1.3), <lora:Sue Belle Pony:1> Sue Belle
 (medli:1.3), <lora:Medli_windwaker:1> medli, brown hair, red eyes, beak, pointy ears, ponytail
-(toon zelda:1.3), <lora:WindWakerStyle_Illustrious_NTRMIX_V3:1> WindWakerStyle, hair ornaments, jewelry, eyeshadow
+(toon zelda:1.3), <lora:WindWakerStyle_Illustrious_NTRMIX_V3:1> WindWakerStyle, hair ornaments, jewelry, pointy ears, eyeshadow
 (tetra:1.3), <lora:WindWakerStyle_Illustrious_NTRMIX_V3:1> WindWakerStyle, brown skin, blonde hair, hair bun, blue eyes, dark-skinned female, pointy ears
 (tetra:1.3) <lora:Tetra:1>, brown skin, blonde hair, hair bun, blue eyes, dark-skinned female, pointy ears
 (tetra:1.3) <lora:TetraThe_legend_of_zelda_PONY:1>, brown skin, blonde hair, hair bun, blue eyes, dark-skinned female, pointy ears
