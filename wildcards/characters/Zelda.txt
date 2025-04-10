@@ -1,11 +1,11 @@
 (purah:1.3), red eyes, short hair, pointy ears, white hair
 (mipha:1.3), multicolored skin, yellow eyes, red skin, colored skin
 (sheik:1.3), blonde hair, blue eyes, long hair, pointy ears, red eyes
-(urbosa:1.3), gerudo, dark-skinned female, long nose, tanned skin, big hair, long hair, green eyes, dark skin, pointy ears, red hair
+(urbosa:1.3), gerudo, dark-skinned female, tanned skin, big hair, long hair, green eyes, dark skin, pointy ears, red hair
 (midna \(true\):1.3), orange hair, red eyes, blue skin, long hair, colored skin, <lora:Midna:1> M1dn4
 (midna:1.3), orange hair, red eyes, yellow sclera, blue skin, ponytail, colored skin <lora:TLOZ_Midna_a1_1_PonyXL:1>
 (saria \(zelda\):1.3), green hair, blue eyes, pointy ears, short hair
-(riju:1.3), gerudo, dark-skinned female, long nose, tanned skin, long hair, green eyes, dark skin, red hair, pointy ears, zzRiju <lora:RijuTotK_IXL_v3:1>
+(riju:1.3), gerudo, dark-skinned female, tanned skin, long hair, green eyes, dark skin, red hair, pointy ears, zzRiju <lora:RijuTotK_IXL_v3:1>
 (linkle:1.3), blonde hair, blue eyes, long hair, pointy ears
 (princess ruto:1.3), blue skin, colored skin, blue eyes, purple eyes <lora:Ruto_Zelda_P1:1>
 (marin \(zelda\):1.3), orange hair, brown eyes, brown hair, long hair, pointy ears
@@ -15,9 +15,9 @@
 (princess hilda:1.3), long hair, purple hair, red eyes, pointy ears
 (cremia:1.3), brown hair, long hair, blue eyes, red hair, pointy ears,
 (paya \(zelda\):1.3), brown eyes, white hair, grey hair, long hair, pointy ears
-(nabooru:1.3), gerudo, dark-skinned female, long nose, tanned skin, yellow eyes, red hair, long hair, ponytail, dark skin, hair pulled back, forehead jewel, pointy ears, zzNabooru <lora:NabooruZelda_PDXL:1>
+(nabooru:1.3), gerudo, dark-skinned female, tanned skin, yellow eyes, red hair, long hair, ponytail, dark skin, hair pulled back, forehead jewel, pointy ears, zzNabooru <lora:NabooruZelda_PDXL:1>
 (malon:1.3), brown hair, red hair, long hair, blue eyes, pointy ears,
-(twinrova:1.3), gerudo, dark-skinned female, long nose, tanned skin, red eyes, pointy ears, (glowing hair, magical hair:1.4), (multicolored hair:1.4), hair pulled back, hair tubes, sidelocks, (twintails, fire hair, ice hair, asymmetrical hair, different colored hair:1.3), white hair, big hair, very long hair, <lora:TwinrovaIL:1> Twinrova
+(twinrova:1.3), gerudo, dark-skinned female, tanned skin, red eyes, pointy ears, (glowing hair, magical hair:1.4), (multicolored hair:1.4), hair pulled back, hair tubes, sidelocks, (twintails, fire hair, ice hair, asymmetrical hair, different colored hair:1.3), white hair, big hair, very long hair, <lora:TwinrovaIL:1> Twinrova
 (princess zelda:1.3), {the legend of zelda: breath of the wild||the legend of zelda: tears of the kingdom}, {short hair||long hair}, blonde hair, blue eyes, green eyes, pointy ears
 (princess zelda:1.3), {short hair||long hair}, blonde hair, blue eyes, green eyes, pointy ears**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
 (princess zelda:1.3), <lora:ootzelda-illu-nvwls-v1:1> ocarzld, blonde hair, long hair, sidelocks, blue eyes, pointy ears**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
