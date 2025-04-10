@@ -308,7 +308,7 @@ futanari
 [chance 100]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (twinrova:1.3), gerudo, dark-skinned female, twintails, red eyes, <lora:TwinrovaIL:1> Twinrova**(princess zelda, malon, cremia, romani \(zelda\), midna, linkle:1.7), (yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (twinrova:1.3), gerudo, dark-skinned female, twintails, red eyes, pointy ears, <lora:TwinrovaIL:1> Twinrova**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 
