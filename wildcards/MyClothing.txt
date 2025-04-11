@@ -1,3 +1,14 @@
+[if "'futanari' in eff_gen"]
+<lora:DownbulgeIL:1> down_bulge
+<lora:upbulgeIL:1> north_bulge, curved_bulge
+<lora:Bido:1> bido
+<lora:lilpenispeekIllust:1> lil_peek
+<lora:SidewBulgeIllust:1> side_bulge
+<lora:PenisDownLegV2:1> penis_down_leg
+<lora:wrenchppinthillu:1> ppinth, thighhighs, penis in thighhighs
+<lora:Penis_Through_Leghole:1> penis through leghole
+[/if]
+
 [tags clothing clothing_type="bikini"]
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 sling bikini, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
