@@ -163,9 +163,10 @@ aberration
 
 
 [##]
-Sets age_prompt
+Sets age range
 [/##]
-[function set_age gender]
+[function set_age_range]
+
 [set age_range]
 upper
 [/set]
@@ -181,6 +182,13 @@ lower
 middle
 [/set]
 [/chance]
+[/function]
+
+
+[##]
+Sets age_prompt
+[/##]
+[function set_age gender]
 
 [set ageprompt]
 as a <[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]]>
@@ -284,6 +292,14 @@ futanari
 [set eff_gen]futanari[/set]
 [set gender_suffix]
 , <[FutaAddon][prolapse penis]>
+[/set]
+[/chance]
+
+[call set_age_range]
+
+[chance 100]
+[set age_range]
+lower
 [/set]
 [/chance]
 
