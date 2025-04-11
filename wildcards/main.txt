@@ -167,10 +167,10 @@ Sets age_prompt
 [/##]
 [function set_age gender]
 [set age_range]
-middle
+upper
 [/set]
 
-[chance 70]
+[chance 80]
 [set age_range]
 lower
 [/set]
@@ -178,7 +178,7 @@ lower
 
 [chance 30]
 [set age_range]
-upper
+middle
 [/set]
 [/chance]
 
