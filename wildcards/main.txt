@@ -297,7 +297,7 @@ futanari
 
 [call set_age_range]
 
-[chance 100]
+[chance 0]
 [set age_range]
 bottom
 [/set]
