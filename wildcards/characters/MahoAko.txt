@@ -16,7 +16,6 @@
 (lord enorme:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, long hair, black hair, yellow eyes <lora:michiko-tanaka-ponyxl-lora-nochekaiser:1>
 (anemo nemo:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, green hair, pink eyes, hair over one eye, aqua hair, ahoge <lora:nemo-anemo-ponyxl-lora-nochekaiser:1>
 (leberblume:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, green hair, pink eyes, hair over one eye, aqua hair, ahoge <lora:nemo-anemo-ponyxl-lora-nochekaiser:1>
-
 (hiiragi utena:1.3), mahou shoujo ni akogarete, gushing over magical girls, short hair, purple hair, yellow eyes, ahoge, hair intakes, <lora:Hiiragi Utena_illustrious:1> Hiiragi Utena
 (magia baiser:1.3), dark magical girl, mahou shoujo ni akogarete, gushing over magical girls, short hair, purple hair, yellow eyes, ahoge, hair intakes, <lora:Hiiragi Utena_illustrious:1> Hiiragi Utena
 (araga kiwi:1.3), mahou shoujo ni akogarete, gushing over magical girls, bangs, ahoge, mole, mole under eye, purple eyes, green hair, hair bun, double hair bun, <lora:Araga Kiwi_illustrious:1> Araga Kiwi
