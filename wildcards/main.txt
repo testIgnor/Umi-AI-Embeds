@@ -284,14 +284,14 @@ Main
 
 [call set_gender]
 
-[chance 100]
+[chance 0]
 [set gender]
 futanari
 [/set]
 [set gender_short]1futa[/set]
 [set eff_gen]futanari[/set]
 [set gender_suffix]
-, <[FutaAddon][prolapse penis]>
+, <[FutaAddon][get futa_type _before=[ _after=]]>
 [/set]
 [/chance]
 
@@ -299,7 +299,7 @@ futanari
 
 [chance 100]
 [set age_range]
-Loli
+bottom
 [/set]
 [/chance]
 
