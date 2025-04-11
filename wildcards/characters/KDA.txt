@@ -1,0 +1,87 @@
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes, <lora:kda_pony_v1-1:1> akali
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes, <lora:kda_more_pony_v1-1:1> akali
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes, <lora:checkpoint-e18_s648:1>
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes, <lora:KDAAkaliIlluLoRA:1> KDA, akli
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes, <lora:KDAAkaliPonyLora:1> KDA
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes, <lora:KDA_Akali:1> kda_akali
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes, <lora:KDA_Akali:1> kda_akali_neon, purple skin, body paint
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes, <lora:KDA_Akali_-_UHD_-_Pony:1> KDA Akali
+(k/da akali:1.3), league of legends, short hair, purple hair, ponytail, green eyes, <lora:akalikda:1> akalikda, k/da \(league of legends\)
+(k/da all out akali:1.3), league of legends, short hair, purple hair, two-tone hair, multicolored hair, streaked hair, blonde hair, black hair, ponytail, blue eyes
+(k/da all out akali:1.3), league of legends, short hair, purple hair, two-tone hair, multicolored hair, streaked hair, blonde hair, black hair, ponytail, blue eyes, <lora:KDAAkaliPonyLora:1> Allout
+(k/da all out akali:1.3), league of legends, short hair, purple hair, two-tone hair, multicolored hair, streaked hair, blonde hair, black hair, ponytail, blue eyes, <lora:akali:1> aanix_akali
+(k/da all out akali:1.3), league of legends, short hair, purple hair, two-tone hair, multicolored hair, streaked hair, blonde hair, black hair, ponytail, blue eyes, <lora:KDA_AllOut_Akali_PonyXL:1> kdaalloutakali
+(k/da all out akali:1.3), league of legends, short hair, purple hair, two-tone hair, multicolored hair, streaked hair, blonde hair, black hair, ponytail, blue eyes,  <lora:KDAAkaliIlluLoRA:1> Allout, akli
+(k/da all out akali:1.3), league of legends, short hair, purple hair, two-tone hair, multicolored hair, streaked hair, blonde hair, black hair, ponytail, blue eyes,   <lora:kda-allout-akali-illust:1> xakalix, k/da \(league of legends\)
+(k/da baddest akali:1.3), league of legends, long hair, multicolored hair, blonde hair, black hair, ponytail, blue eyes, <lora:KDAAkaliIlluLoRA:1> Baddest, akli
+(k/da baddest akali:1.3), league of legends, long hair, multicolored hair, blonde hair, black hair, ponytail, blue eyes, <lora:KDAAkaliPonyLora:1> Baddest
+(k/da baddest akali:1.3), league of legends, long hair, multicolored hair, blonde hair, black hair, ponytail, blue eyes, <lora:kda-allout-baddest-akali:1> xakalix, k/da \(league of legends\)
+(k/da popstar akali:1.3), league of legends, purple hair, ponytail, sidelocks, blue eyes, <lora:kda-popstar-akali-illust:1> xakalix, k/da \(league of legends\)
+
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:ahrikdaXL:1>  ahrikdaxl
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:KDAAHRIIL:1> kdaahriil
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:kda_pony_v1-1:1> ahri
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails,  <lora:kda_more_pony_v1-1:1> ahri
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:KDA_Ahri_League_of_Legends:1> KDA Ahr1
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:Ahri:1> aanix_ahri
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:IL_阿狸Ahri_KDA2_v1:1> ahir_kda2
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:IL_阿狸Ahri_KDA_v1:1> ahir_kda
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:KDA AhriIlluLoRA:1> ari
+(k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails <lora:KDAAhriPonyLora:1>
+(k/da all out ahri:1.3), league of legends, multicolored hair, pink hair, blonde hair, gradient hair, long hair, blue eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails,
+(k/da all out ahri:1.3), league of legends, multicolored hair, pink hair, blonde hair, gradient hair, long hair, blue eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDAAhriPonyLora:1> allout
+(k/da all out ahri:1.3), league of legends, multicolored hair, pink hair, blonde hair, gradient hair, long hair, blue eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDA AhriIlluLoRA:1> allout, ari
+(k/da all out ahri:1.3), league of legends, multicolored hair, pink hair, blonde hair, gradient hair, long hair, blue eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDA_AllOut_Ahri_PonyXL:1> kdaalloutahri
+(k/da all out ahri:1.3), league of legends, multicolored hair, pink hair, blonde hair, gradient hair, long hair, blue eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:kda-allout-ahri-illust:1> xahrix, k/da \(league of legends\)
+(k/da baddest ahri:1.3), league of legends, blonde hair, long hair, aqua eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:ahribaddest:1> ahribaddest
+(k/da baddest ahri:1.3), league of legends, blonde hair, long hair, aqua eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDA AhriIlluLoRA:1> baddest, ari
+(k/da baddest ahri:1.3), league of legends, blonde hair, long hair, aqua eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDAAhriPonyLora:1> baddest
+(k/da baddest ahri:1.3), league of legends, blonde hair, long hair, aqua eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:kda-allout-baddest-ahri:1> xahrix, k/da \(league of legends\)
+(k/da popstar ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDA AhriIlluLoRA:1> popstar, ari
+(k/da popstar ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDAAhriPonyLora:1> popstar
+(k/da popstar ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:kda-popstar-ahri-illust:1> xahrix, k/da \(league of legends\)
+(k/da prestige ahri:1.3), league of legends, short hair, multicolored hair, bangs, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDA AhriIlluLoRA:1> prestige, ari
+(k/da prestige ahri:1.3), league of legends, short hair, multicolored hair, bangs, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDAAhriPonyLora:1> prestige
+
+(k/da evelynn:1.3), league of legends, long hair, pink hair, yellow eyes
+(k/da evelynn:1.3), league of legends, long hair, pink hair, yellow eyes, <lora:kda_pony_v1-1:1> evelynn
+(k/da evelynn:1.3), league of legends, long hair, pink hair, yellow eyes, <lora:kda_more_pony_v1-1:1> evelynn
+(k/da evelynn:1.3), league of legends, long hair, pink hair, yellow eyes, <lora:KDA EvelynnIlluLoRA:1> evlyn
+(k/da all out evelynn:1.3), league of legends, long hair, grey hair, yellow eyes
+(k/da all out evelynn:1.3), league of legends, long hair, grey hair, yellow eyes, <lora:Evelynn_KDA:1> Evelynn_KDA
+(k/da all out evelynn:1.3), league of legends, long hair, grey hair, yellow eyes, <lora:evelyn:1> aanix_evelynn
+(k/da all out evelynn:1.3), league of legends, long hair, grey hair, yellow eyes, <lora:kda-allout-evelynn-illust:1> xevelynnx, k/da \(league of legends\)
+(k/da baddest evelynn:1.3), league of legends, long hair, grey hair, yellow eyes, <lora:kda-allout-baddest-evelynn:1> xevelynnx, k/da \(league of legends\)
+(k/da popstar evelynn:1.3), league of legends, purple hair, long hair, hair over shoulder, yellow eyes, <lora:kda-popstar-evelynn-illust:1> xevelynnx, k/da \(league of legends\)
+
+(k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun
+(k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:kaisakdaXL:1> kaisakdaxl, k/da \(league of legends\)
+(k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:KDAKAISA:1> kdakaisa
+(k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:kda_pony_v1-1:1> kaisa
+(k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:kda_more_pony_v1-1:1> kaisa
+(k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:Kaisa:1> kda_kaisa
+(k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:KDA_Kaisa_PONY:1> kdakaisa
+(k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:KDA_Kaisa:1> kda_kaisa
+(k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:KaisaStarGuardianKDA:1> kdakaisa
+(k/da all out kai'sa:1.3), league of legends, purple eyes, black hair, long hair, ponytail, bangs, streaked hair, hair pulled back, asymmetrical bangs, <lora:KDA KaisaIlluLoRA:1> allout, kasa
+(k/da all out kai'sa:1.3), league of legends, purple eyes, black hair, long hair, ponytail, bangs, streaked hair, hair pulled back, asymmetrical bangs, <lora:KDA KaisaPony:1> allout
+(k/da all out kai'sa:1.3), league of legends, purple eyes, black hair, long hair, ponytail, bangs, streaked hair, hair pulled back, asymmetrical bangs, <lora:kda-allout-kaisa-illust:1> xkaisax, k/da \(league of legends\)
+(k/da all out kai'sa:1.3), league of legends, purple eyes, black hair, long hair, ponytail, bangs, streaked hair, hair pulled back, asymmetrical bangs, <lora:KDA_AllOut_KaiSa_PonyXL:1> kdaalloutkaisa, k/da \(league of legends\)
+(k/da baddest kai'sa:1.3), league of legends, purple eyes, ponytail, long hair, multicolored hair, (green hair:1.1), black hair, <lora:kaisabaddestXL:1> kaisabaddestxl
+(k/da baddest kai'sa:1.3), league of legends, purple eyes, ponytail, long hair, multicolored hair, (green hair:1.1), black hair, <lora:KDA KaisaIlluLoRA:1> Baddest, kasa
+(k/da baddest kai'sa:1.3), league of legends, purple eyes, ponytail, long hair, multicolored hair, (green hair:1.1), black hair, <lora:KDA KaisaPony:1> Baddest
+(k/da baddest kai'sa:1.3), league of legends, purple eyes, ponytail, long hair, multicolored hair, (green hair:1.1), black hair, <lora:kda-allout-baddest-kaisa:1> xkaisax, k/da \(league of legends\)
+(k/da popstar kai'sa:1.3), league of legends, purple eyes, long hair, double bun, twin braids, purple hair, <lora:KDA KaisaIlluLoRA:1> popstar, kasa
+(k/da popstar kai'sa:1.3), league of legends, purple eyes, long hair, double bun, twin braids, purple hair, <lora:KDA KaisaPony:1> popstar
+(k/da popstar kai'sa:1.3), league of legends, purple eyes, long hair, double bun, twin braids, purple hair, <lora:kda-popstar-kaisa-illust:1> xkaisax, k/da \(league of legends\)
+(k/da prestige kai'sa:1.3), league of legends, long hair, blonde hair, bangs, <lora:KDA KaisaIlluLoRA:1> Prestige, kasa
+(k/da prestige kai'sa:1.3), league of legends, long hair, blonde hair, bangs, <lora:KDA KaisaPony:1> Prestige, kasa
+
+(k/da seraphine:1.3), league of legends, long hair, aqua hair, ponytail, bangs, blue eyes
+(k/da seraphine:1.3), league of legends, long hair, aqua hair, ponytail, bangs, blue eyes, <lora:kda_more_pony_v1-1:1> seraphine
+(k/da seraphine:1.3), league of legends, long hair, aqua hair, ponytail, bangs, blue eyes, <lora:Seraphine_KDA:1> Seraphine \(KDA\)
+(k/da seraphine:1.3), league of legends, long hair, aqua hair, ponytail, bangs, blue eyes, <lora:sera:1> aanix_seraphine
+(k/da seraphine:1.3), league of legends, long hair, aqua hair, ponytail, bangs, blue eyes, <lora:SeraphineKDAAOXL:1> SeraphineKDAAOXL, K/DA \(league of legends\)
+(k/da all out seraphine:1.3), league of legends, aqua hair, very long hair, ponytail, bangs, blue eyes, <lora:kda-allout-seraphine-illust:1> xseraphinex, k/da \(league of legends\)

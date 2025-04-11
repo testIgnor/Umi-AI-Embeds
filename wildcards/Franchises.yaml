@@ -396,6 +396,12 @@
   Tags:
     - Characters
     - LoL
+'<[model][illu]>source_anime, _=Characters/KDA=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - KDA Characters
+  Tags:
+    - Characters
+    - KDA
 '<[model][illu]>source_anime, _=Characters/Love Live=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Love Live Characters
