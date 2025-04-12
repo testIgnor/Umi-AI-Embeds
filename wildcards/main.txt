@@ -9,13 +9,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Naruto
-Zelda
-Castlevania
+KDA
 [/choose]
 [/set]
 
-[chance 25]
+[chance 10]
 [set characterType]
 [choose]
 characters
@@ -23,8 +21,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-Tekken
-Street Fighter
+D.VA
 [/choose]
 [/set]
 [/chance]
