@@ -1,26 +1,33 @@
-godzilla
-mechagodzilla
-ace attorney
-celebs
-pstars
-divinity
-misc
-nintendo
-overwatch
-lol
-street fighter
-tekken
-warhammer
-zelda
-xenoblade
-ookami
-mahoako
-final fantasy
-dragon quest
-fire emblem
-guilty gear
+Godzilla
+Mechagodzilla
+Ace Attorney
+Pstars
+Divinity
+Misc
+Nintendo
+D.Va
+KDA
+Street Fighter
+Tekken
+Warhammer
+Zelda
+Xenoblade
+Ookami
+Mahoako
+Final Fantasy
+Dragon Quest
+Fire Emblem
+Guilty Gear
+Cartoons
+Pokemon
+RWBY
+She-ra
+Soulcalibur
+Signalis
+SCP
 ZZZ
 Honkai
 Granblue
 Genshin
+Granblue
 Azur Lane
