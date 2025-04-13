@@ -2,10 +2,10 @@
 [chance 66]
 [chance 66]
 by tarakanovich <lora:tarakanovich1.5:1>
+by tarakanovich, <lora:Tarakanovich_Style:1> T4r4k4n0v1ch
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
 by exlic, <lora:ExLic_style:1> ExLic_style
-by rino99 <lora:fallen_ai_RINO99_style:1>
 by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
 by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
@@ -13,26 +13,11 @@ by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
 by prywinko, <lora:prywXLP:1> pryw
 by jay naylor
 by pixelsketcher
-by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.8>
 by hoobamon <lora:Hoobamon:1>
-by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
-by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
 by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
 by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
 by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
-by mokushi, <lora:Mokushi_style-05:1> MokushiC-3
-[chance 66]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by tarakanovich <lora:tarakanovich1.5:1>]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by exlic, <lora:ExLic_style:1> ExLic_style]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:FirolianLyco:1> uncensored, realistic]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by firolian, <lora:Firolian illus:1> firolian style]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.8>]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh]
-[/chance]
 [/chance]
 [else]
 by dandon fuga
