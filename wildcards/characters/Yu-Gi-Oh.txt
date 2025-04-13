@@ -55,3 +55,44 @@
 (harpie girl \(yu-gi-oh!\):1.3), yu-gi-oh!, long hair, blue eyes, blonde hair
 (aussa the earth charmer:1.3), yu-gi-oh!, short hair, long hair, blue hair, green hair, red eyes, red hair, hair between eyes, brown hair, brown eyes
 (witchcrafter madame verre:1.3), yu-gi-oh!, streaked hair, multicolored hair, purple eyes, blue hair, long hair, very long hair, blue eyes, pink hair
+(dinomorphia kentregina:1.3), yu-gi-oh!, <lora:Dinomorphia Kentregina illuXL v1:1> Dinomorphia Kentregina
+(kitchen dragonmaid:1.3), yu-gi-oh! <lora:kitchen dragonmaid illuXL v1.1:1>
+(ohime the manifested mikanko:1.3), yu-gi-oh!, <lora:Ohime the Manifested Mikanko illuXL v1:1> Ohime the Manifested Mikanko
+(fu-ri the orb mikanko:1.3), yu-gi-oh!, <lora:Fu-Ri the Orb Mikanko iluXL v1:1> fu ri the orb mikanko
+(silent magician:1.3), yu-gi-oh!, <lora:Silent Magician illuXL v1:1> Silent Magician
+(dogmatika fleurdelis:1.3), yu-gi-oh!, <lora:Dogmatika Fleurdelis & Ecclesia the Virtuous illuXL v1:1> dogmatika fleurdelis
+(ecclesia the virtuous:1.3), yu-gi-oh!, <lora:Dogmatika Fleurdelis & Ecclesia the Virtuous illuXL v1:1> dogmatika ecclesia the virtuous
+(tearlarments havnis:1.3), yu-gi-oh!, <lora:Tearlaments Havnis illuXL v1:1> Tearlaments Havnis
+(tearlarments shaylen:1.3), yu-gi-oh!, <lora:Tearlaments Shaylen ponyXL v1.1:1> tearlaments shaylen
+(parlor dragonmaid:1.3), yu-gi-oh!, <lora:parlor dragonmaid illuXL v1.1:1> parlor dragonmaid
+(parlor dragonmaid:1.3), yu-gi-oh!, <lora:parlor dragonmaid illuXL v1.1:1> laundry dragonmaid
+(parlor dragonmaid:1.3), yu-gi-oh!, <lora:parlor dragonmaid illuXL v1.1:1> dragonmaid lorpar
+(arias the labrynth butler:1.3), yu-gi-oh! <lora:arias the labrynth butler iluXL v1:1>
+(apollousa bow of the goddess:1.3), yu-gi-oh!, <lora:Apollousa, Bow of the Goddess illuXL v1.1:1> apollousa bow of the goddess
+(yuki-onna the absolute zero mayakashi:1.3), yu-gi-oh!, <lora:Yuki-Onna, the Absolute Zero Mayakashi illuXL v1:1> yuki-onna the absolute zero mayakashi
+(rilliona the magistus of verre:1.3), yu-gi-oh!, <lora:Rilliona, the Magistus of Verre illuXL v1:1> Rilliona, the Magistus of Verre
+(maiden with eyes of blue:1.3), yu-gi-oh!, <lora:Maiden with Eyes of Blue illuXL v1.11:1> maiden with eyes of blue, blue eyes white dragon
+(chamber dragonmaid:1.3), yu-gi-oh! <lora:Chamber dragonmaid illuXL v1.1:1>
+(nurse dragonmaid:1.3), yu-gi-oh! <lora:Nurse dragonmaid illuXL v1.1:1>
+(house dragonmaid:1.3), yu-gi-oh! <lora:House dragonmaid illuXL v1:1>
+(harpy queen:1.3), yu-gi-oh!, <lora:Harpie Queen and gal illuXL v1:1> harpie queen
+(harpy gal:1.3), yu-gi-oh!, <lora:Harpie Queen and gal illuXL v1:1> harpie gal
+(malice queen white binder:1.3), yu-gi-oh! <lora:MALICE Queen White Binder illuXL v1.2:1>
+(dragonmaid latys:1.3), yu-gi-oh!, <lora:Dragonmaid latys illuXL v2:1> dragonmaid latys
+(sky striker ace roze:1.3), yu-gi-oh!, <lora:Sky striker ace - Roze illuXL v1:1> sky striker ace - roze
+(sky striker ace raye:1.3), yu-gi-oh!, <lora:Sky striker ace - raye ponyXL v4.1:1> sky striker ace - raye
+(water enchantress of the temple:1.3), yu-gi-oh!, <lora:Water Enchantress of the temple illuXL v1.1:1> Water Enchantress of the temple
+(tearlaments kitkallos:1.3), yu-gi-oh!, <lora:Tearlaments Kitkallos illuXL v1:1> tearlaments kitkallos
+(malice pawn white rabbit:1.3), yu-gi-oh!, <lora:MALICE Pawn White Rabbit illuXL v1:1> malice pawn white rabbit
+(lovely labrynth of the silver castle:1.3), yu-gi-oh!, <lora:Lady Labrynth of the Silver Castle illuXL v1:1> lovely labrynth of the silver castle
+(harpy lady:1.3), yu-gi-oh! <lora:Harpie Lady illuXL v2:1>
+(diabellze the original sinkeeper:1.3), yu-gi-oh!, <lora:diabellstar the black witch and original sinkeeper illuXL v1.2:1> diabellze the original sinkeeper
+(diabellstar the black witch:1.3), yu-gi-oh!, <lora:diabellstar the black witch and original sinkeeper illuXL v1.2:1> diabellstar the black witch
+(apprentice illusion magician:1.3), yu-gi-oh!, <lora:Apprentice Illusion Magician illuXL v1:1> Apprentice Illusion Magician
+(lovely labrynth of the silver castle:1.3), yu-gi-oh!, <lora:Lovely labrynth of the silver castle illuXL v1:1> lovely labrynth of the silver castle
+(ash blossom & joyous spring:1.3), yu-gi-oh!, <lora:Ash Blossom & Joyous Spring illuXL v1:1> Ash Blossom & Joyous Spring
+(i:p masquerena:1.3), yu-gi-oh!, <lora:Ip masquerena illuXL v1:1> i:p masquerena
+(dark magician girl:1.3), yu-gi-oh!, <lora:Dark magician girl and cosplay illuXL v1.5:1> dark magician girl
+(witchcrafter madame verre:1.3), yu-gi-oh!, <lora:Witchcrafter Madame Verre illuXL v1:1> Witchcrafter Madame Verre
+(magi magi magician gal:1.3), yu-gi-oh!, <lora:Magi Magi Magician Gal illuXL v1.1:1> Magi Magi Magician Gal
+

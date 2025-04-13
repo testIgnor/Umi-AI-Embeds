@@ -1,12 +1,48 @@
 (toph bei fong:1.3), avatar: the last airbender, black hair, short hair, blind eyes
-(ty lee:1.3), avatar: the last airbender, brown hair, long hair, brown eyes, braided ponytail**(azula:1.5)**
-(azula:1.3), avatar: the last airbender, brown hair, short hair, brown eyes, high ponytail
-(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair
-(suki:1.3), avatar: the last airbender, short hair, brown hair, brown eyes, pale skin, white skin**(azula:1.5)**
-(mai:1.3), avatar: the last airbender, black hair, long hair, brown eyes, hair bun, double bun**(azula:1.5)**
+(ty lee:1.3), avatar: the last airbender, brown hair, long hair, brown eyes, braided ponytail, long braid, single braid, <lora:ty_lee:1> Nostra666**(azula:1.5)**
+(azula:1.3), avatar: the last airbender, brown eyes, brown hair, short hair, parted bangs, hair ornament, hair bun, topknot, <lora:AzulaAPXL:1> AzulaAPXL
+(azula:1.3), avatar: the last airbender, brown eyes, brown hair, short hair, parted bangs, hair ornament, hair bun, topknot <lora:Azula_-_Avatar_The_Last_Airbender:1>
+(azula:1.3), avatar: the last airbender, brown eyes, brown hair, short hair, parted bangs, hair ornament, hair bun, topknot, <lora:Azula_-_Avatar_the_Last_Airbender_PonyXL:1> Azula
+(azula:1.3), avatar: the last airbender, brown eyes, brown hair, short hair, parted bangs, hair ornament, hair bun, topknot <lora:AzulaIllustriousXL_byKonan:1>
+(azula:1.3), avatar: the last airbender, brown eyes, brown hair, short hair, parted bangs, hair ornament, hair bun, topknot, <lora:a4z0l4:1> 4z0l4
+(azula:1.3), avatar: the last airbender, brown eyes, brown hair, short hair, parted bangs, hair ornament, hair bun, topknot, <lora:Azula_TheLastAirbender_PXL_Leaf1:1> Azula
+(azula:1.3), avatar: the last airbender, brown eyes, brown hair, short hair, parted bangs, hair ornament, hair bun, topknot <lora:azula-book2-ponyxl-lora-nochekaiser:1>
+(azula:1.3), avatar: the last airbender, brown eyes, brown hair, short hair, parted bangs, hair ornament, hair bun, topknot, <lora:AzulaXL:1> azula
+(azula:1.3), avatar: the last airbender, brown eyes, brown hair, short hair, parted bangs, hair ornament, hair bun, topknot, <lora:Avatar_The_Last_Airbender_Princess_Azula:1> Nostra666
+(ursa:1.3), avatar: the last airbender, hair bun, long hair, brown hair, yellow eyes <lora:Ursa(ATLA):1>
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks <lora:Katara:1>
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks, <lora:Katara_-_Avatar_PonyXL:1> ka_tara
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks <lora:KataraIllustriousXL_byKonan:1>
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks <lora:kataraILL:1>
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks, <lora:Katara_-_Avatar_the_Last_Airbender_PonyXL:1> Katara
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks, <lora:Katara_TheLastAirbender_PXL_Leaf1:1> katara
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks, <lora:Katara - [Avatar - The last Airbender] - illustriousXL v1:1> sysdeep_katara
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks <lora:KataraCaps:1>
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks <lora:katara-book2-ponyxl-lora-nochekaiser:1>
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks <lora:KataraXL:1>
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, topknot, <lora:KataraIllustriousXL_byKonan:1> fnkatara
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, topknot, <lora:kataraILL:1> fire nation
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, topknot, <lora:Katara_-_Avatar__-_Book_3_Fire_PonyXL:1> KataraFire
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, topknot, <lora:Katara - [Avatar - The last Airbender] - illustriousXL v1:1> sysdeep_katara
+(suki:1.3), avatar: the last airbender, short hair, brown hair, brown eyes, pale skin, white skin, makeup, lipstick <lora:suki-book2-ponyxl-lora-nochekaiser:1>**(azula:1.5)**
+(suki:1.3), avatar: the last airbender, short hair, brown hair, brown eyes, pale skin, white skin, makeup, lipstick, <lora:Suki:1> suki, kyoshiwarrior**(azula:1.5)**
+(suki:1.3), avatar: the last airbender, short hair, brown hair, brown eyes, <lora:Suki:1> suki**(azula:1.5)**
+(jin:1.3), avatar: the last airbender, long hair, brown hair, twin braids, green eyes, dark hair, <lora:jinAvatar:1> jinAvatar
+(jin:1.3), avatar: the last airbender, long hair, brown hair, twin braids, green eyes, dark hair, <lora:Jin:1> jin
+(mai:1.3), avatar: the last airbender, black hair, long hair, blunt bangs, double hair bun, twintails, sidelocks, yellow eyes, <lora:Mai_Avatar:1> Mai_Avatar**(azula:1.5)**
+(mai:1.3), avatar: the last airbender, black hair, long hair, blunt bangs, double hair bun, twintails, sidelocks, yellow eyes, <lora:Mai_-_Avatar_the_Last_Airbender_PonyXL:1> Mai**(azula:1.5)**
+(mai:1.3), avatar: the last airbender, black hair, long hair, blunt bangs, double hair bun, twintails, sidelocks, yellow eyes, <lora:MaiXL:1> mai**(azula:1.5)**
+(mai:1.3), avatar: the last airbender, black hair, long hair, blunt bangs, double hair bun, twintails, sidelocks, yellow eyes <lora:mai-book2book3-ponyxl-lora-nochekaiser:1>**(azula:1.5)**
+(meng:1.3), avatar: the last airbender, <lora:Meng_-_Avatar_the_Last_Airbender_PonyXL:1> Meng
 (korra:1.3), the legend of korra, blue eyes, dark skin, dark-skinned female, brown hair, {ponytail, long hair||short hair}
-(asami sato:1.3), the legend of korra, black hair, green eyes, long hair
+(korra:1.3), the legend of korra, blue eyes, dark skin, dark-skinned female, brown hair, {ponytail, long hair||short hair}, <lora:korraXL:1> korraXL
+(asami sato:1.3), the legend of korra, black hair, green eyes, long hair, lipstick, makeup
+(asami sato:1.3), the legend of korra, black hair, green eyes, long hair, lipstick, makeup, <lora:asamiXL:1> asamiXL
 (jinora:1.3), the legend of korra, brown eyes, brown hair, hair bun, short hair, single hair bun, <lora:j1n0r2IL:1> j1n0r2IL, side bun, single hair bun**(korra:1.5)**
 (jinora:1.3), the legend of korra, brown eyes, brown hair, hair bun, short hair, single hair bun, <lora:Jinora_-_Original_Appearance_-_Legend_of_Korra:1> jinora_k**(korra:1.5)**
+(jinora:1.3), the legend of korra, brown eyes, brown hair, hair bun, short hair, single hair bun, <lora:Jinora_-_Avatar_-_Legend_of_Korra:1> Jinora**(korra:1.5)**
+(jinora:1.3), the legend of korra, brown eyes, brown hair, hair bun, short hair, single hair bun, <lora:Jinora_-_Avatar_The_Legend_of_Korra_PonyXL:1> Jinora**(korra:1.5)**
+(jinora:1.3), the legend of korra, brown eyes, brown hair, hair bun, short hair, single hair bun, <lora:JinoraAvatarPXL:1> JinoraAvatarPXL**(korra:1.5)**
+(jinora:1.3), the legend of korra, brown eyes, brown hair, hair bun, short hair, single hair bun, <lora:jinoraXL:1> jinoraXL**(korra:1.5)**
 (ikki:1.3), the legend of korra, grey eyes, black hair, double hair bun, short hair, <lora:IkkiXLv2:1> ikki**(korra:1.5)**
 (ikki:1.3), the legend of korra, grey eyes, black hair, double hair bun, short hair, <lora:Ikki_-_Avatar_The_Legend_of_Korra_PonyXL:1> Ikki**(korra:1.5)**
