@@ -18,6 +18,10 @@ by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
 by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
 by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [/chance]
 [else]
 by dandon fuga
@@ -120,6 +124,10 @@ by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 [by johndoe, by john doe <lora:johndoe_IL:1>|by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.8>]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 by dosh
 by utterangle
 by redwolfxiii
@@ -276,6 +284,10 @@ by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 [by johndoe, by john doe <lora:johndoe_IL:1>|by liang xing, by liangxing <lora:Earthbound_-_LiangXing_Artist_Style_-_IllustriousXL:0.8>]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 by 007delta
 by 0r0ch1
 by 1-upclock
