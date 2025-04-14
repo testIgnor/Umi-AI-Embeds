@@ -7,14 +7,14 @@
 (morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:MorriganAenslandIllustrious:1> MORAENSCSL
 (morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:MorriganAenslandIllustrious:1> MORMVCIALT
 (morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:MorriganAenslandIllustrious:1> MRRNRS
-(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings
-(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:Lilith:1> lil1th 4ensland
-(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:lilith_pony:1> lilith
-(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:Lilith_Aensland_IL:1> lilith \(darkstalkers\)
-(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:JN_Lilith_Illus:1> Lilith
-(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:lilith:1> lilithSDXL
-(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:lilith_aensland:1> l1l1th, lilith aensland
-(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:DS_Lilith-PONY:1> dslilith
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings**remilia scarlet**
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:Lilith:1> lil1th 4ensland**remilia scarlet**
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:lilith_pony:1> lilith**remilia scarlet**
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:Lilith_Aensland_IL:1> lilith \(darkstalkers\)**remilia scarlet**
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:JN_Lilith_Illus:1> Lilith**remilia scarlet**
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:lilith:1> lilithSDXL**remilia scarlet**
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:lilith_aensland:1> l1l1th, lilith aensland**remilia scarlet**
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:DS_Lilith-PONY:1> dslilith**remilia scarlet**
 (felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl
 (felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl <lora:felicia_pony:1>
 (felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl, <lora:felicia_pony:1> felicia_\(vampire\)
