@@ -38,4 +38,149 @@
 (dark magician girl:1.3), yu-gi-oh!, <lora:Dark magician girl and cosplay illuXL v1.5:1> dark magician girl
 (witchcrafter madame verre:1.3), yu-gi-oh!, <lora:Witchcrafter Madame Verre illuXL v1:1> Witchcrafter Madame Verre
 (magi magi magician gal:1.3), yu-gi-oh!, <lora:Magi Magi Magician Gal illuXL v1.1:1> Magi Magi Magician Gal
-
+(teardrop the rikka queen:1.3), yu-gi-oh!, <lora:Teardrop the Rikka Queen illuXL v1:1> Teardrop the Rikka Queen
+(shaman of the tenyi:1.3), yu-gi-oh!, <lora:Shaman Of The Tenyi illuXL v1.2:1> Shaman Of The Tenyi
+(amazoness paladin:1.3), yu-gi-oh!, <lora:Amazoness paladin and saga illuXL v1.1:1> amazoness paladin
+(amazoness sage:1.3), yu-gi-oh!, <lora:Amazoness paladin and saga illuXL v1.1:1> amazoness sage
+(harpie oracle:1.3), yu-gi-oh!, <lora:Harpie Oracle illuXL v1:1> Harpie Oracle
+(junk warrior:1.3), yu-gi-oh!, <lora:Junk Warrior illuXL v1:1> junk warrior
+(silent paladin:1.3), yu-gi-oh!, <lora:Silent Paladin illuXL v1:1> Silent Paladin
+(beyond the pendulum:1.3), yu-gi-oh!, <lora:Beyond the Pendulum illuXL v1:1> Beyond the Pendulum
+(nightmare apprentice:1.3), yu-gi-oh!, <lora:Nightmare Apprentice illuXL v1:1> Nightmare Apprentice
+(harpie channeler dancer:1.3), yu-gi-oh!, <lora:Harpie Channeler & Dancer illuXL v2.1:1> harpie channeler
+(harpie dancer:1.3), yu-gi-oh!, <lora:Harpie Channeler & Dancer illuXL v2.1:1> harpie dancer
+(exosister gibrine:1.3), yu-gi-oh!, <lora:Exosister irene and Sophia illuXL v1.1:1> exosister gibrine
+(exosister irene:1.3), yu-gi-oh!, <lora:Exosister irene and Sophia illuXL v1.1:1> exosister irene
+(exosister asophiel:1.3), yu-gi-oh!, <lora:Exosister irene and Sophia illuXL v1.1:1> exosister asophiel
+(exosister sophia:1.3), yu-gi-oh!, <lora:Exosister irene and Sophia illuXL v1.1:1> exosister sophia
+(gagaga girl:1.3), yu-gi-oh!, <lora:Gagaga girl illuXL v1.2:1> gagaga girl
+(spright carrot:1.3), yu-gi-oh!, <lora:Spright Carrot illuXL v1.11:1> Spright Carrot
+(promethean princess bestower of flames:1.3), yu-gi-oh!, <lora:Promethean Princess, Bestower of Flames illuXL v1.11:1> promethean princess - bestower of flames
+(guardian eatos:1.3), yu-gi-oh!, <lora:Guardian Eatos illuXL v1:1> guardian eatos
+(fairy tail snow:1.3), yu-gi-oh!, <lora:Fairy Tail snow illuXL v1.1:1> fairy tail - snow
+(amazoness chain master:1.3), yu-gi-oh!, <lora:amazoness chain master and kujaku mai illuXL v1.1:1> amazoness chain master
+(kujaku mai:1.3), yu-gi-oh!, <lora:amazoness chain master and kujaku mai illuXL v1.1:1> kujaku mai
+(ki sikil:1.3), yu-gi-oh!, <lora:Evil Twin illuXL v1:1> evil twin ki-sikil
+(lil la:1.3), yu-gi-oh!, <lora:Evil Twin illuXL v1:1> evil twin lil-la
+(visas starfrost:1.3), yu-gi-oh!, <lora:visas starfrost illuXL v1:1> visas starfrost
+(tearlaments kitkallos:1.3), yu-gi-oh!, <lora:visas starfrost illuXL v1:1> tearlaments kitkallos
+(diabellstar the sin adjudicator:1.3), yu-gi-oh!, <lora:Diabellstar the Sin Adjudicator illuXL v1.1:1> Diabellstar the Sin Adjudicator
+(amazoness empress:1.3), yu-gi-oh!, <lora:Amazoness empress, golden whip & silver sword master illuXL v1.3:1> amazoness empress
+(amazoness golden whip master:1.3), yu-gi-oh!, <lora:Amazoness empress, golden whip & silver sword master illuXL v1.3:1> amazoness golden whip master
+(amazoness silver sword master:1.3), yu-gi-oh!, <lora:Amazoness empress, golden whip & silver sword master illuXL v1.3:1> amazoness silver sword master
+(amazoness blowpiper:1.3), yu-gi-oh!, <lora:Amazoness spy, blowpiper, fighter & swords woman illuXL v1.31:1> amazoness blowpiper
+(amazoness swordswoman:1.3), yu-gi-oh!, <lora:Amazoness spy, blowpiper, fighter & swords woman illuXL v1.31:1> amazoness swords woman
+(amazoness spy:1.3), yu-gi-oh!, <lora:Amazoness spy, blowpiper, fighter & swords woman illuXL v1.31:1> amazoness spy
+(amazoness fighter:1.3), yu-gi-oh!, <lora:Amazoness spy, blowpiper, fighter & swords woman illuXL v1.31:1> amazoness fighter
+(fairy tail luna:1.3), yu-gi-oh!, <lora:Fairy Tail - Luna illuXL v1:1> Fairy tail - luna
+(dinomorphia therizia:1.3), yu-gi-oh!, <lora:Dinomorphia Therizia illuXL v1:1> Dinomorphia Therizia
+(harpie carla:1.3), yu-gi-oh!, <lora:Harpie Cielo, Cielo & Regina illuXL v1:1> Harpie Carla
+(harpie cielo:1.3), yu-gi-oh!, <lora:Harpie Cielo, Cielo & Regina illuXL v1:1> Harpie Cielo
+(harpie regina:1.3), yu-gi-oh!, <lora:Harpie Cielo, Cielo & Regina illuXL v1:1> Harpie Regina
+(s-force pla tina:1.3), yu-gi-oh!, <lora:S-force pla tina & Nightchaser illuXL v1:1> S-force pla tina
+(s-force nightchaser:1.3), yu-gi-oh!, <lora:S-force pla tina & Nightchaser illuXL v1:1> S-force Nightchaser
+(argostars glorious adra:1.3), yu-gi-oh!, <lora:Argostars - Glorious Adra illuXL v1:1> argostars - glorious adra
+(red blossoms from underroot:1.3), yu-gi-oh!, <lora:Red Blossoms from Underroot illuXL v1:1> red blossoms from underroot
+(red blossoms from underroot:1.3), yu-gi-oh!, <lora:Red Blossoms from Underroot illuXL v1:1> terrors of the afterroot
+(lil la sweet:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la illuXL v4:1> lil la sweet
+(lil la treat:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la illuXL v4:1> lil la treat
+(lil la:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la illuXL v4:1> lil la
+(ka skikil:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la illuXL v4:1> ka sikil
+(fairy tail rella:1.3), yu-gi-oh!, <lora:Fairy Tail - Rella illuXL v1.2:1> fairy tail - rella
+(fairy tail rochka:1.3), yu-gi-oh!, <lora:Fairy Tail - rochka illuXL v1:1> fairy tail - rochka
+(spellbreaker of the ice barrier:1.3), yu-gi-oh!, <lora:Spellbreaker Of The Ice Barrier illuXL v1.1:1> Spellbreaker Of The Ice Barrier
+(kozmo farmgirl kozmo:1.3), yu-gi-oh!, <lora:Kozmo Farmgirl illuXL v1:1> Kozmo Farmgirl
+(malice pawn cheshire cat:1.3), yu-gi-oh!, <lora:MALICE Pawn Cheshire Cat illuXL v1:1> malice pawn cheshire cat
+(malice pawn dormouse:1.3), yu-gi-oh!, <lora:MALICE Pawn Dormouse illuXL v1:1> malice pawn dormouse
+(centur ion trudea:1.3), yu-gi-oh!, <lora:Centur-ion Primera & Trudea illuXL v1.3:1> centur-ion trudea
+(centur ion primera:1.3), yu-gi-oh!, <lora:Centur-ion Primera & Trudea illuXL v1.3:1> centur-ion primera primus
+(centur ion primera:1.3), yu-gi-oh!, <lora:Centur-ion Primera & Trudea illuXL v1.3:1> centur-ion primera
+(centur ion primera:1.3), yu-gi-oh!, <lora:Centur-ion Primera & Trudea illuXL v1.3:1> centur-ion emeth vi
+(k9-17 ripper:1.3), yu-gi-oh!, <lora:K9-17 Ripper illuXL v1.2:1> K9-17 Ripper
+(gagaga clerk:1.3), yu-gi-oh!, <lora:Gagaga clerk illuXL v1:1> gagaga clerk
+(exceed the pendulum:1.3), yu-gi-oh!, <lora:Exceed the Pendulum illuXL v1:1> Exceed the Pendulum
+(malice pawn march hare:1.3), yu-gi-oh!, <lora:MALICE Pawn March Hare illuXL v2:1> malice pawn march hare
+(malice queen hearts of crypter:1.3), yu-gi-oh! <lora:MALICE queen hearts of crypter illuXL v1.1:1>
+(injection fairy lily:1.3), yu-gi-oh!, <lora:Injection Fairy Lily illuXL v1:1> injection fairy lily
+(war rock wento:1.3), yu-gi-oh!, <lora:War Rock Wento illuXL v1:1> War Rock Wento
+(red archery girl:1.3), yu-gi-oh!, <lora:Red Archery Girl illuXL v1.1:1> Red Archery Girl
+(malice queen red ransom:1.3), yu-gi-oh! <lora:MALICE Queen Red Ransom illuXL v1:1>
+(traptrix rafflesia:1.3), yu-gi-oh!, <lora:Traptrix Rafflesia illuXL v1:1> Traptrix Rafflesia
+(traptrix cularia:1.3), yu-gi-oh!, <lora:Traptrix Cularia illuXL v1:1> Traptrix Cularia
+(traptrix atypus:1.3), yu-gi-oh!, <lora:Traptrix Atypus illuXL v1:1> Traptrix Atypus
+(traptrix allomerus:1.3), yu-gi-oh!, <lora:Traptrix Allomerus illuXL v1:1> Traptrix Allomerus
+(traptrix vesiculo:1.3), yu-gi-oh!, <lora:Traptrix Vesiculo illuXL v1:1> Traptrix Vesiculo
+(traptrix arachnocampa:1.3), yu-gi-oh!, <lora:Traptrix Arachnocampa illuXL v1.1:1> Traptrix Arachnocampa
+(traptrix mantis:1.3), yu-gi-oh!, <lora:Traptrix Mantis illuXL v1:1> Traptrix Mantis
+(traptrix atrax:1.3), yu-gi-oh!, <lora:Traptrix Atrax illuXL v1:1> Traptrix Atrax
+(traptrix holeutea:1.3), yu-gi-oh!, <lora:Traptrix Holeutea illuXL v1:1> Traptrix Holeutea
+(diabellstar the black witch:1.3), yu-gi-oh!, <lora:Diabellstar the black witch alt illuXL v2:1> diabellstar the black witch
+(traptrix genlisea:1.3), yu-gi-oh!, <lora:Traptrix Genlisea illuXL v1:1> Traptrix Genlisea
+(traptrix nepenthes:1.3), yu-gi-oh!, <lora:Traptrix Nepenthes illuXL v1.2:1> Traptrix Nepenthes
+(traptrix sera:1.3), yu-gi-oh!, <lora:Traptrix Sera illuXL v1:1> Traptrix Sera
+(ohdo yuamu:1.3), yu-gi-oh!, <lora:ohdo yuamu illuXL v1:1> ohdo yuamu
+(traptrix myrmeleo:1.3), yu-gi-oh!, <lora:Traptrix Myrmeleo illuXL v1:1> Traptrix Myrmeleo
+(traptrix dionaea:1.3), yu-gi-oh!, <lora:Traptrix Dionaea illuXL v1.1:1> Traptrix Dionaea
+(traptrix pudica:1.3), yu-gi-oh!, <lora:Traptrix Pudica illuXL v1.1:1> Traptrix Pudica
+(traptrix pinguicula:1.3), yu-gi-oh!, <lora:Traptrix Pinguicula illuXL v1:1> traptrix pinguicula
+(minerva the exalted lightsworn:1.3), yu-gi-oh!, <lora:Minerva, the Exalted Lightsworn illuXL v1.1:1> minerva - the exalted lightsworn
+(thunder nyan nyan:1.3), yu-gi-oh!, <lora:Thunder Nyan Nyan illuXL v1.2:1> Thunder Nyan Nyan
+(delirium silbyx:1.3), yu-gi-oh!, <lora:Delirium Silbyx illuXL v1:1> Delirium Silbyx
+(galatea the orcust automaton i:1.3), yu-gi-oh!, <lora:Galatea, the Orcust Automaton i illuXL v1.2:1> Galatea, the Orcust Automaton i
+(hugin the runick wings:1.3), yu-gi-oh!, <lora:Hugin the runick wings illuXL v1:1> Hugin the Runick Wings
+(melffy mommy:1.3), yu-gi-oh!, <lora:Melffy Mommy illuXL v1.1:1> Melffy Mommy
+(moon of the closed heaven:1.3), yu-gi-oh!, <lora:Moon of the Closed Heaven illuXL v1.1:1> Moon of the Closed Heaven
+(allure queen lv5 5:1.3), yu-gi-oh!, <lora:Allure Queen LV5 illuXL v1.1:1> Allure Queen LV5
+(laundry dragonmaid:1.3), yu-gi-oh! <lora:laundry dragonmaid & eldlich the golden lord illuXL v1:1>
+(vanquish soul pantera:1.3), yu-gi-oh!, <lora: vanquish_soul_pantera illuXL v1:1> vanquish_soul_pantera
+(tg wonder magician:1.3), yu-gi-oh!, <lora:T.G. Wonder Magician illuXL v1:1> T.G. Wonder Magician
+(condemned darklord:1.3), yu-gi-oh!, <lora:Condemned Darklord illuXL v1.1:1> Condemned Darklord
+(lacrima the crimson tears:1.3), yu-gi-oh!, <lora:Lacrima the Crimson Tears & Fiendsmith Engraver illuXL v1:1> Lacrima the Crimson Tears
+(fiendsmith engraver:1.3), yu-gi-oh!, <lora:Lacrima the Crimson Tears & Fiendsmith Engraver illuXL v1:1> fiendsmith engraver
+(darklord ixchel:1.3), yu-gi-oh!, <lora:Darklord ixchel illuXL v1.1:1> Darklord ixchel
+(legendary six samurai mizuho:1.3), yu-gi-oh!, <lora:Legendary Six Samurai - Mizuho illuXL v1:1> Legendary Six Samurai - Mizuho
+(sevens sevens road witch:1.3), yu-gi-oh!, <lora:Sevens Road Witch illuXL v1:1> Sevens Road Witch
+(dominus impulse:1.3), yu-gi-oh! <lora:Dominus Impulse illuXL v1:1>
+(dragon tale fymena:1.3), yu-gi-oh!, <lora:Dragon Tale Fymena illuXL v1.31:1> Dragon Tail Fymena
+(elemental hero stratos:1.3), yu-gi-oh!, <lora:Elemental HERO Stratos illuXL v1:1> Elemental HERO Stratos
+(rush duel meika etraynze the shadow flower venus:1.3), yu-gi-oh!, <lora:Meika Etraynze the Shadow Flower Venus illuXL v1:1> Meika Etraynze the Shadow Flower Venus
+(kanan the swordmistress:1.3), yu-gi-oh!, <lora:Kanan the Swordmistress illuXL v1.1:1> Kanan the Swordmistress
+(robolady:1.3), yu-gi-oh!, <lora:Robolady illuXL v1:1> Robolady
+(water girl:1.3), yu-gi-oh!, <lora:water girl illuXL v1.1:1> water girl
+(ariane the labrynth servant:1.3), yu-gi-oh!, <lora:Arianne and  Arianna the Labrynth Servant illusXL v1.1:1> Arianna the Labrynth Servant
+(arianna the labrynth servant:1.3), yu-gi-oh!, <lora:Arianne and  Arianna the Labrynth Servant illusXL v1.1:1> Arianne the Labrynth Servant
+(ghostrick angel of mischief:1.3), yu-gi-oh!, <lora:Ghostrick Angel of Mischief illusXL v1:1> Ghostrick Angel of Mischief
+(tearlaments shaylen ponyxl:1.3), yu-gi-oh!, <lora:Tearlaments Shaylen illuXL v1:1> tearlaments shaylen
+(ha re the sword mikanko:1.3), yu-gi-oh!, <lora:Ha Re the sword mikanko and Nini the Mirror Mikanko illuXL v1:1> Ha Re the sword mikanko
+(nini the mirror mikanko:1.3), yu-gi-oh!, <lora:Ha Re the sword mikanko and Nini the Mirror Mikanko illuXL v1:1> Nini the Mirror Mikanko
+(selettrice vaalmonica:1.3), yu-gi-oh!, <lora:Selettrice Vaalmonica iluXL v1:1> selettrice vaalmonica
+(angello vaalmonica:1.3), yu-gi-oh!, <lora:Selettrice Vaalmonica iluXL v1:1> angello vaalmonica
+(dimonno vaalmonica:1.3), yu-gi-oh!, <lora:Selettrice Vaalmonica iluXL v1:1> dimonno vaalmonica
+(a bao a qu the lightless shadow:1.3), yu-gi-oh!, <lora:A-Bao A Qu, the Lightless Shadow illuXL v1.1:1> a-bao a qun - the lightless shadow
+(ai \(yu-gi-oh!\):1.3), yu-gi-oh!, <lora:Playmaker, Accesscode, Decode Talker & Firewall Dragon illuXL v1.1:1> ai \(yu-gi-oh!\)
+(decode talker:1.3), yu-gi-oh!, <lora:Playmaker, Accesscode, Decode Talker & Firewall Dragon illuXL v1.1:1> decode talker
+(firewall dragon:1.3), yu-gi-oh!, <lora:Playmaker, Accesscode, Decode Talker & Firewall Dragon illuXL v1.1:1> firewall dragon
+(accesscode talker:1.3), yu-gi-oh!, <lora:Playmaker, Accesscode, Decode Talker & Firewall Dragon illuXL v1.1:1> accesscode talker
+(serena \(yu-gi-oh!\):1.3), yu-gi-oh!, <lora:Serena and Lunalight part A illuXL v1.2:1> serena \(yu-gi-oh!\)
+(lunalight cat dancer:1.3), yu-gi-oh!, <lora:Serena and Lunalight part A illuXL v1.2:1> Lunalight Cat Dancer
+(lunalight leo dancer:1.3), yu-gi-oh!, <lora:Serena and Lunalight part A illuXL v1.2:1> Lunalight Leo Dancer
+(lunalight panther dancer:1.3), yu-gi-oh!, <lora:Serena and Lunalight part A illuXL v1.2:1> Lunalight Panther Dancer
+(lunalight sabre dancer:1.3), yu-gi-oh!, <lora:Serena and Lunalight part A illuXL v1.2:1> Lunalight Sabre Dancer
+(underworld goddess of the closed world:1.3), yu-gi-oh!, <lora:underworld goddess of the closed world illuXL v1:1> underworld goddess of the closed world
+(blazing cartesia the virtuous:1.3), yu-gi-oh!, <lora:blazing cartesia the virtuous illuXL v1.2:1> blazing cartesia the virtuous
+(amazoness archer:1.3), yu-gi-oh!, <lora:Amazoness Archer illuXL v1.11:1> Amazoness Archer
+(amazoness augusta:1.3), yu-gi-oh!, <lora:Amazoness Augusta, Amazoness Spiritualist illuXL v1.1:1> amazoness augusta
+(amazoness spiritualist:1.3), yu-gi-oh!, <lora:Amazoness Augusta, Amazoness Spiritualist illuXL v1.1:1> amazoness spiritualist
+(galaxy eyes tachyon dragon:1.3), yu-gi-oh!, <lora:Galaxy-Eyes Tachyon Dragon illuXL v1:1> galaxy-eyes tachyon dragon
+(neo galaxy eyes tachyon dragon:1.3), yu-gi-oh!, <lora:Galaxy-Eyes Tachyon Dragon illuXL v1:1> neo galaxy-eyes tachyon dragon
+(mizael:1.3), yu-gi-oh!, <lora:Galaxy-Eyes Tachyon Dragon illuXL v1:1> mizael
+(swordsoul of mo ye:1.3), yu-gi-oh!, <lora:Swordsoul of Mo Ye illuXL v1.2:1> Swordsoul of Mo Ye
+(amazoness queen:1.3), yu-gi-oh!, <lora:Amazoness Queen & Trainee illuXL v1:1> Amazoness Queen, Amazoness Trainee
+(amazoness trainee:1.3), yu-gi-oh!, <lora:Amazoness Queen & Trainee illuXL v1:1> Amazoness Trainee
+(maiden of the aqua:1.3), yu-gi-oh!, <lora:Maiden of the Aqua illuXL v1.2:1> maiden of the aqua
+(tour guide from the underworld:1.3), yu-gi-oh!, <lora:tour guide, beat cop, muckraker from the underworld EX illuXL v1:1> tour guide from the underworld
+(beat cop from the underworld:1.3), yu-gi-oh!, <lora:tour guide, beat cop, muckraker from the underworld EX illuXL v1:1> beat cop from the underworld
+(muckraker from the underworld:1.3), yu-gi-oh!, <lora:tour guide, beat cop, muckraker from the underworld EX illuXL v1:1> muckraker from the underworld
+(kurikara divincarnate:1.3), yu-gi-oh!, <lora:Kurikara Divincarnate illuXL v1:1> kurikara divincarnate
+(galaxy eyes photon dragon:1.3), yu-gi-oh!, <lora:Galaxy-Eyes Prime Photon Dragon illuXL v2.3:1> galaxy-eyes photon dragon
+(icejade acti:1.3), yu-gi-oh!, <lora:Icejade Acti illuXL v1.2:1> Icejade Acti
