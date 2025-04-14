@@ -40,6 +40,7 @@ open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][ge
 tankini, tank top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
 high cut crop top hoodie with bikini, breast-exposing crop top hoodie, bikini top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes
+business suit bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="bodysuit"]
