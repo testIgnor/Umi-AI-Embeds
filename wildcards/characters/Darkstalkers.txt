@@ -1,6 +1,31 @@
-(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair
-(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, long hair, short hair
-(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes
+(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings
+(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:JN_Morrigan_Aensland_Illus:1> Morrigan Aensland
+(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:morrigan_aensland_illust_scarxzys:1> morrigan aensland
+(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:PONYXL_Darkstalkers_MorriganAensland_ownwaifu:1> NSFW_MorriganAensland_ownwaifu
+(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:Morrigan_Aensland:1> M0rr1g4n
+(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:MorriganAenslandIllustrious:1> DRKSTKRSMORAENS
+(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:MorriganAenslandIllustrious:1> MORAENSCSL
+(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:MorriganAenslandIllustrious:1> MORMVCIALT
+(morrigan aensland:1.3), darkstalkers, long hair, green eyes, green hair, blunt bangs, hime cut, head wings, bat wings, low wings, demon wings, <lora:MorriganAenslandIllustrious:1> MRRNRS
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:Lilith:1> lil1th 4ensland
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:lilith_pony:1> lilith
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:Lilith_Aensland_IL:1> lilith \(darkstalkers\)
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:JN_Lilith_Illus:1> Lilith
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:lilith:1> lilithSDXL
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:lilith_aensland:1> l1l1th, lilith aensland
+(lilith \(darkstalkers\):1.3), darkstalkers, red eyes, purple hair, short hair, head wings, bat wings, low wings, demon wings, <lora:DS_Lilith-PONY:1> dslilith
+(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl
+(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl <lora:felicia_pony:1>
+(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl, <lora:felicia_pony:1> felicia_\(vampire\)
+(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl, <lora:Felicia_darkstalkers:1> FeliciaILL
+(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl, <lora:JN_Felicia_Illus:1> Felicia
+(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl, <lora:Felicia-Illustrious-v01:1> feliciads
+(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl, <lora:felicia:1> FeliciaSDXL
+(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl, <lora:PONYXL_Darkstalkers_Felicia_ownwaifu:1> NSFW_Darkstalkers_Felicia_ownwaifu
+(felicia \(darkstalkers\):1.3), darkstalkers, long hair, blue hair, big hair, blue eyes, very long hair, cat ears, cat tail, cat girl, <lora:felicia_v2:1> f3l1c14
 (hsien-ko:1.3), darkstalkers, flipped hair, red eyes, purple hair, blue skin, short hair, blue hair, colored skin
-(b.b. hood:1.3), darkstalkers, blonde hair, long hair, blue eyes, short hair
-(q-bee:1.3), darkstalkers, purple hair, blue hair, short hair
+(hsien-ko:1.3), darkstalkers, flipped hair, red eyes, purple hair, blue skin, short hair, blue hair, colored skin, <lora:Hsien-ko:1> hs13nsk
+(b.b. hood:1.3), darkstalkers, blonde hair, long hair, blue eyes, short hair, <lora:JN_Baby_Bonnie_Hood_Illus:1> Baby Bonnie Hood
+(b.b. hood:1.3), darkstalkers, blonde hair, long hair, blue eyes, short hair, <lora:bulleta_pony:1> bulleta
+(q-bee:1.3), darkstalkers, purple hair, blue hair, short hair, black eyes, antennae, monster girl, arthropod girl, wings, <lora:Q-bee:1> b33sk
