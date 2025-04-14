@@ -313,7 +313,7 @@ bottom
 [chance 0]
 [set artist]
 [choose]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
 [/choose]
 [/set]
 [/chance]
