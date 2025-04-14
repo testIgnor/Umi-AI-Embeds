@@ -9,9 +9,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-Bloodborne
 Yu-gi-oh
-ATLA
 [/choose]
 [/set]
 
@@ -277,7 +275,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 100]
 [call choose_franchise_simple]
 [/chance]
 
