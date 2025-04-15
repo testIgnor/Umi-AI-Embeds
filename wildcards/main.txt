@@ -9,12 +9,14 @@ characters
 [/set]
 [set franchise]
 [choose]
-Yu-gi-oh
-Darkstalkers
+Peach
+Daisy
+Bowsette
+Rosalina
 [/choose]
 [/set]
 
-[chance 0]
+[chance 20]
 [set characterType]
 [choose]
 characters
@@ -23,6 +25,8 @@ characters
 [set franchise]
 [choose]
 D.VA
+Nintendo
+KDA
 [/choose]
 [/set]
 [/chance]
@@ -276,7 +280,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 100]
 [call choose_franchise_simple]
 [/chance]
 
