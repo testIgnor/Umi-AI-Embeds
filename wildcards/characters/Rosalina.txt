@@ -1,0 +1,17 @@
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_Bokuman:1> Rosalina
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:JN_Rosalina_Illus:1> Rosalina
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalinaロゼッタスーパーマリオシリーズ:1> Rosalina
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> IncrsRsln
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnDef
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnBiker
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnFF
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnStriker
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnTnns
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnHllwn
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnAurora
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnSND
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnSwm
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnDS
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnCat
+(rosalina:1.3), blonde hair, long hair, hair over one eye, wavy hair, aqua eyes, lipstick, <lora:Rosalina_illusXL_Incrs_v1:1> RslnLeotard

@@ -1,15 +1,8 @@
-(princess peach:1.3), blonde hair, blue eyes, long hair
-(bowsette:1.3), blonde hair, blue eyes, long hair, hair between eyes
-(rosalina:1.3), blonde hair, blue eyes, long hair**(luma:2.0)**
-(princess daisy:1.3), blonde hair, long hair, blue eyes, brown hair
-(bowser:1.3), blonde hair, long hair, blue eyes, red hair
 (booette:1.3), princess king boo, red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes**(boo:2.0)**
 (pauline \(mario\):1.3), blonde hair, long hair, blue eyes, brown hair
-(vivian \(paper mario\):1.3), pink hair, curly hair, purple skin, long hair, colored skin, hair over eyes
+(vivian \(paper mario\):1.3), pink hair, curly hair, purple skin, long hair, colored skin, hair over eyes, <lora:IL_Vivian_PM:1> vivian_\(paper_mario\), purple body, ghost
 (chompette:1.3), princess chain chomp, black eyes, long hair, short hair, black hair
 (warupeach:1.3), blonde hair, blue eyes, long hair
-(biker peach:1.3), blonde hair, blue eyes, long hair
-(princess peach \(wedding\):1.3), blonde hair, blue eyes, long hair
 (bow \(paper mario\):1.3), long hair, green hair, facial hair
 (peachette:1.3), blonde hair, blue eyes, long hair, twintails, twin braids
 (samus aran:1.3)

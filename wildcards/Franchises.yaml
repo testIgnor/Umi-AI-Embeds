@@ -475,6 +475,30 @@
   Tags:
     - Characters
     - Nintendo
+'<[model][illu]>source_anime, _=Characters/Peach=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Peach
+  Tags:
+    - Characters
+    - Peach
+'<[model][illu]>source_anime, _=Characters/Bowsette=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Bowsette
+  Tags:
+    - Characters
+    - Bowsette
+'<[model][illu]>source_anime, _=Characters/Daisy=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Daisy
+  Tags:
+    - Characters
+    - Daisy
+'<[model][illu]>source_anime, _=Characters/Rosalina=_**(luma:2.0), (yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Rosalina
+  Tags:
+    - Characters
+    - Rosalina
 '<[model][illu]>source_anime, _=Characters/Overwatch=_**(d.va \(overwatch\):1.5), (headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Overwatch Characters
