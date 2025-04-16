@@ -3,27 +3,43 @@
 [chance 66]
 by tarakanovich <lora:tarakanovich1.5:1>
 by tarakanovich, <lora:Tarakanovich_Style:1> T4r4k4n0v1ch
-by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
-by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
 by exlic, <lora:ExLic_style:1> ExLic_style
 by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
-by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
-by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
-by prywinko, <lora:prywXLP:1> pryw
-by jay naylor
-by pixelsketcher
-by hoobamon <lora:Hoobamon:1>
-by firolian, <lora:FirolianLyco:1> uncensored, realistic
-by firolian, <lora:Firolian illus:1> firolian style
 by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
 by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
-[by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[chance 25]
+by jay naylor
+by pixelsketcher
+by revolverwing <lora:rwing illustrious 003:1>
+by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
+by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
+by firolian, <lora:FirolianLyco:1> uncensored, realistic
+by firolian, <lora:Firolian illus:1> firolian style
+by hoobamon <lora:Hoobamon:1>
+by prywinko, <lora:prywXLP:1> pryw
+by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
+by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
+by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
+by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
+by kaoming, <lora:kaoming:1> kaoming
+by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
+by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
+by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
+by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
+by bigrbear <lora:bigrbearSyle IXL3:0.8>
+by camonome, <lora:Camonome_Style:1> by_kamonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
+by camonome, <lora:Camonome:1> Camonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
+by camonome <lora:Camonome-v1-PDXL:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
+by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
+by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
+[by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
+[by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
+[/chance]
 [/chance]
 [else]
 by dandon fuga
