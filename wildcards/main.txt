@@ -28,6 +28,7 @@ Peach
 Daisy
 Bowsette
 Rosalina
+Warhammer
 [/choose]
 [/set]
 [/chance]
