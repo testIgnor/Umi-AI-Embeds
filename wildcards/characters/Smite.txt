@@ -1,39 +1,45 @@
 (the morrigan \(smite\):1.3), smite, black hair
-(neith \(smite\):1.3), smite, brown hair, dark skin, blue eyes, dark-skinned female, black hair, short hair
+(neith \(smite\):1.3), smite, black hair, purple hair, dark skin, blue eyes, dark-skinned female, short hair
+(neith \(smite\):1.3), smite, black hair, purple hair, dark skin, blue eyes, dark-skinned female, short hair, <lora:neith:1> Neith
+(neith \(smite\):1.3), smite, black hair, purple hair, dark skin, blue eyes, dark-skinned female, short hair, <lora:NeithSmite:1> imtdneith
 (nemesis \(smite\):1.3), smite, long hair, blue eyes, black hair
 (classic artemis:1.3), smite, red hair
-(bellona \(smite\):1.3), smite, black hair, short hair
+(bellona \(smite\):1.3), smite, black hair, short hair <lora:Bellona_Smite:1>
 (nox \(smite\):1.3), smite, white hair
 (artio \(smite\):1.3), smite, green eyes, red hair
 (aphrodite \(smite\):1.3), smite, blonde hair
 (morgan le fay \(smite\):1.3), smite, long hair, purple eyes, black hair, pale skin
 (nu wa \(smite\):1.3), smite, red hair, green eyes
 (kali \(smite\):1.3), smite, long hair, black hair, blue skin
-(yemoja \(smite\):1.3), smite, long hair, dark skin, blue eyes, black hair, dark-skinned female, braided hair
+(yemoja \(smite\):1.3), smite, long hair, dark skin, blue eyes, black hair, dark-skinned female, braided hair, <lora:Yemoja_Pony_Test_2:1> YemojaSmite, headdress
 (athena \(smite\):1.3), smite, long hair, blonde hair, blue eyes
+(athena \(smite\):1.3), smite, long hair, blonde hair, blue eyes, <lora:athena_smite:1> athena_smite
 (hel \(smite\):1.3), smite, blue skin, blonde hair, blue eyes, white hair, purple hair
-(awilix \(smite\):1.3), smite, black hair, blue eyes
+(awilix \(smite\):1.3), smite, black hair, <lora:Awilix_-_Smite:1> AwiliSmi, green eyes, purple eyeshadow, dark lips
 (persephone \(smite\):1.3), smite, red hair, green eyes
-(discordia \(smite\):1.3), smite, short hair, purple hair
+(discordia \(smite\):1.3), smite, short hair, purple hair <lora:DiscordiaSmite:1>
 (arachne \(smite\):1.3), smite, white hair, blue skin
 (scylla \(smite\):1.3), smite, blue eyes, red hair, short hair
 (chang'e \(smite\):1.3), smite, blonde hair, black hair, white hair
 (maman brigitte \(smite\):1.3), smite, dark skin, dark-skinned female
-(ishtar \(smite\):1.3), smite, dark-skinned female, black hair, dark skin
+(ishtar \(smite\):1.3), smite, dark-skinned female, black hair, dark skin, green eyes, <lora:Ishtar_-_Smite_PDXL:1> IshSmi
 (da ji \(smite\):1.3), smite, black hair
-(aphrodite:1.3), smite, long hair, blue eyes, blonde hair, black hair
+(aphrodite:1.3), smite, long hair, blue eyes, blonde hair
+(aphrodite:1.3), smite, long hair, blue eyes, blonde hair, <lora:SmiteAphroditeIllu:1> SmiteAphrodite
+(aphrodite:1.3), smite, long hair, blue eyes, blonde hair, <lora:SmiteAphrodite:1> SmiteAphrodite
 (oblivion queen discordia:1.3), smite, short hair, multicolored hair, glowing eyes, hair, blue eyes, purple hair
-(pele \(smite\):1.3), smite, brown hair, dark skin, black hair, dark-skinned female, red hair
-(feline fashion awilix:1.3), smite, black hair, blue eyes
+(pele \(smite\):1.3), smite, long hair, brown hair, orange hair, multicolored hair, hair flower, dark skin, dark-skinned female, orange eyes, <lora:Pele_-_Smite_PDXL:1> PeleSmi
 (vampiress amaterasu:1.3), smite, red eyes, black hair, long hair, pale skin
+(amaterasu:1.3), smite, brown eyes, black hair, long hair, <lora:SAmaterasu:1> SAmaterasu
 (aphra cadabra aphrodite:1.3), smite, long hair, black hair, pale skin
 (senpai da ji:1.3), smite, blue hair
 (nike \(smite\):1.3), smite, blonde hair, black hair, green eyes, short hair
-(hera \(smite\):1.3), smite, brown hair
+(hera \(smite\):1.3), smite, brown hair <lora:HeraSmite:1>
 (beach babe aphrodite:1.3), smite, blonde hair
 (ix chel \(smite\):1.3), smite, long hair, dark skin, dark-skinned female, black hair, ponytail, green eyes
 (freya \(smite\):1.3), smite, blonde hair
 (mulan \(smite\):1.3), smite, black hair
+(mulan \(smite\):1.3), smite, blue eyes, blue hair, twintails, pink hair, multicolored hair, <lora:WildStyle_Mulan_-_Smite:1> MulWilStySmi
 (medusa \(smite\):1.3), smite, green skin
 (persephone:1.3), smite, long hair, green eyes, red hair
 (jing wei \(smite\):1.3), smite, brown hair, twintails, black hair
@@ -49,8 +55,11 @@
 (skadi \(smite\):1.3), smite, long hair, brown hair, brown eyes, twintails, blue skin, blonde hair, blue eyes, green eyes, braided hair, white hair
 (classic athena:1.3), smite, long hair, blue eyes, blonde hair
 (madame blade serqet:1.3), smite, black hair, dark skin
-(maman brigitte:1.3), smite, dark skin, dark-skinned female
-(nu wa:1.3), smite, long hair, red hair, green eyes
-(kali:1.3), smite, black hair, blue eyes, blue skin
+(maman brigitte:1.3), smite, dark skin, dark-skinned female, <lora:Maman_Brigitte_-_Smite:1> MaBriSmi, skull face paint, facepaint, feather hair ornament, green eyes
+(nu wa:1.3), smite, long hair, red hair, green eyes <lora:NuWa_Smite:1>
+(kali:1.3), smite, black hair, blue eyes, blue skin, <lora:Kali_-_Smite_Pony:1> KaSmiLi, extra arms, 4 arms, braid, multiple braids, no pupils
 (terra:1.3), smite, long hair, multicolored hair, two tone hair, black hair, green hair, green eyes, purple hair
 (morrigan \(goddess\):1.3), smite, black hair
+(daji \(smite\):1.3), smite, <lora:DaJi_-_Smite_PDXL:1> DaSmiJi, forehead mark, orange eyeshadow, black hair, hair bun, orange eyes, makeup, multiple tails, fox tail
+(charbydis \(smite\):1.3), smite <lora:CharbydisSmite:1>
+(izanami \(smite\):1.3), smite, <lora:Izanami_-_Smite:1> IzaSmi, black hair, monster girl, facial mark, yellow eyes, hair over one eye
