@@ -276,9 +276,9 @@ Choose artist from webartists
 
 
 [##]
-Main
+Makes the prompt
 [/##]
-[function main_function]
+[function make_prompt]
 
 [call get_artist]
 [call choose_franchise]
@@ -369,6 +369,32 @@ as a <[ezage][get gender _before=[ _after=]]>
 [set n_prompt][choose _case=2][get retrieved_string][/choose][/set]
 
 [call set_model]
+
+[/function]
+
+
+[##]
+Main function
+[/##]
+[function main_function]
+
+[call make_prompt]
+
+[set no_lora]
+[char-count <]
+[get p_prompt]
+[/char-count]
+[/set]
+
+[while "no_lora > 4"]
+[call make_prompt]
+
+[set no_lora]
+[char-count <]
+[get p_prompt]
+[/char-count]
+[/set]
+[/while]
 
 [get p_style], [get p_prompt]
 
