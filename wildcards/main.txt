@@ -9,14 +9,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Peach
-Daisy
-Bowsette
-Rosalina
+Ace Attorney
 [/choose]
 [/set]
 
-[chance 20]
+[chance 5]
 [set characterType]
 [choose]
 characters
@@ -27,6 +24,10 @@ characters
 D.VA
 Nintendo
 KDA
+Peach
+Daisy
+Bowsette
+Rosalina
 [/choose]
 [/set]
 [/chance]
@@ -280,7 +281,7 @@ Main
 [call get_artist]
 [call choose_franchise]
 
-[chance 0]
+[chance 90]
 [call choose_franchise_simple]
 [/chance]
 
