@@ -420,11 +420,11 @@ posing together
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
 [set p_prompt]
-[get total_prefix] ADDCOMM [get char_1p][chance 10], <[ezpreg]>[/chance] ADDCOL [get char_2p][chance 10], <[ezpreg]>[/chance]
+[half-lora][get total_prefix] ADDCOMM [get char_1p][chance 10], <[ezpreg]>[/chance] ADDCOL [get char_2p][chance 10], <[ezpreg]>[/chance][/half-lora]
 [/set]
 
 [set n_prompt]
-[get total_neg] ADDCOMM [get char_1n], ([get char_2p]:0.5) ADDCOL [get char_2n], ([get char_1p]:0.5)
+[get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:0.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:0.5)
 [/set]
 
 [set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
@@ -477,11 +477,11 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], <[im
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
 [set p_prompt]
-[get total_prefix] ADDCOMM [get char_1p][chance 10], <[ezpreg]>[/chance] ADDCOL [get char_2p][chance 10], <[ezpreg]>[/chance]
+[half-lora][get total_prefix] ADDCOMM [get char_1p][chance 10], <[ezpreg]>[/chance] ADDCOL [get char_2p][chance 10], <[ezpreg]>[/chance][/half-lora]
 [/set]
 
 [set n_prompt]
-[get total_neg] ADDCOMM [get char_1n], ([get char_2p]:0.5) ADDCOL [get char_2n], ([get char_1p]:0.5)
+[get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:0.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:0.5)
 [/set]
 
 [set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
@@ -501,7 +501,7 @@ Makes the prompt
 
 [call choose_franchise]
 
-[chance 1]
+[chance 100]
 [call make_double]
 [/chance]
 [else]
