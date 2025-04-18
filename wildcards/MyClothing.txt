@@ -1,14 +1,3 @@
-[if "'futanari' in eff_gen"]
-<lora:DownbulgeIL:1> down_bulge
-<lora:upbulgeIL:1> north_bulge, curved_bulge
-<lora:Bido:1> bido
-<lora:lilpenispeekIllust:1> lil_peek
-<lora:SidewBulgeIllust:1> side_bulge
-<lora:PenisDownLegV2:1> penis_down_leg
-<lora:wrenchppinthillu:1> ppinth, thighhighs, penis in thighhighs
-<lora:Penis_Through_Leghole:1> penis through leghole
-[/if]
-
 [tags clothing clothing_type="bikini"]
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 sling bikini, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -370,5 +359,16 @@ olympic gymnastics outfit, sheer clothes, <[ezcovered][get eff_gen _before=[ _af
 <lora:0539 Fubuki fan costume_v1_pony:1> ruanyi0539, fingerless gloves, fur coat, high heel boots, pearl necklace, slingshot swimsuit
 <lora:sport bra_illustrious_V1.0:1> sports bra, sports panties
 <lora:jewelry bikini_illustrious_V1.0:1> jewelry bikini, jewelry on nipples, jewelry on pussy
- <lora:Loincloth_Aside_XL:1> loincloth aside, <[ezbottomless][get eff_gen _before=[ _after=]]>, loincloth lift
+<lora:Loincloth_Aside_XL:1> loincloth aside, <[ezbottomless][get eff_gen _before=[ _after=]]>, loincloth lift
+
+[if "'futanari' in eff_gen"]
+<lora:DownbulgeIL:1> down_bulge
+<lora:upbulgeIL:1> north_bulge, curved_bulge
+<lora:Bido:1> bido
+<lora:lilpenispeekIllust:1> lil_peek
+<lora:SidewBulgeIllust:1> side_bulge
+<lora:PenisDownLegV2:1> penis_down_leg
+<lora:wrenchppinthillu:1> ppinth, thighhighs, penis in thighhighs
+<lora:Penis_Through_Leghole:1> penis through leghole
+[/if]
 [/tags]
