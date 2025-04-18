@@ -379,7 +379,7 @@ Makes a 2character prompt
 [/switch]
 
 [set prefix0]
-NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], <[imageformat]>, ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>**(solo, alone:2.0)**
+NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], <[imageformat][cowboyshot|fullbody]>, ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>**(solo, alone:2.0)**
 [/set]
 
 [set prefix1]
