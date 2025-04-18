@@ -327,17 +327,10 @@ Choose artist from webartists
 [/if]
 [/function]
 
-
 [##]
-Makes the prompt
+Makes a 1character prompt
 [/##]
-[function make_prompt]
-
-[call get_artist]
-[call choose_franchise]
-[call set_gender]
-[call set_age_range]
-[call set_age gender="{get gender}"]
+[function make_single]
 
 [call set_overrides]
 
@@ -357,12 +350,6 @@ Makes the prompt
     [/else]
 [/set]
 
-[chance 0]
-[set prompt_suffix]
-<[imageformat]>, ([call wildcards/MyLocation]:1.3), nude with lesbian pride flag draped over body, naked flag, wearing flag, lesbian pride flag, pride flag, <[eznude][get eff_gen _before=[ _after=]]>
-[/set]
-[/chance]
-
 [set umistring][get character_preset], [get prompt_suffix][/set]
 
 [set retrieved_string][Umi _has_options _verbose=0 _debug=0][get umistring][/Umi][/set]
@@ -370,6 +357,109 @@ Makes the prompt
 [set opt][choose _case=0][get retrieved_string][/choose][/set]
 [set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
 [set n_prompt][choose _case=2][get retrieved_string][/choose][/set]
+
+[/function]
+
+
+[##]
+Makes a 2character prompt
+[/##]
+[function make_double]
+
+[switch gender]
+    [case "female"]
+        [set gender_short]2girls[/set]
+    [/case]
+    [case "futanari"]
+        [set gender_short]2futas[/set]
+    [/case]
+    [case "male"]
+        [set gender_short]2boys[/set]
+    [/case]
+[/switch]
+
+[set prefix0]
+NSFW, [get gender_short], [get artist], <[imageformat]>, ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>
+[/set]
+
+[set prefix1]
+[chance 80]
+    [choose][call wildcards/myclothing][/choose]
+[/chance]
+[else]
+    <[eznude][get eff_gen _before=[ _after=]]>
+[/else]
+[/set]
+
+[set prefix2]
+[choose]
+kissing
+making out
+hugging
+posing together
+[/choose]
+[/set]
+
+[set processed_prefix]
+[Umi]
+[get prefix0], [get prefix1], ([get prefix2]:1.4)
+[/Umi]
+[/set]
+
+[set total_prefix][choose _case=0][get processed_prefix][/choose][/set]
+[set total_neg][choose _case=1][get processed_prefix][/choose][/set]
+
+[set char_1]$#[get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance];char1#$[/set]
+
+[call set_age_range]
+[call set_age gender="{get gender}"]
+[call choose_franchise]
+
+[set char_2]$#[get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance];char2#$[/set]
+
+[set character_preset]
+[get char_1] ADDCOL [get char_2]**$#char2#$ ADDCOL $#char1#$**
+[/set]
+
+[set processed_char]
+[Umi]
+[get character_preset]
+[/Umi]
+[/set]
+
+[set char_p][choose _case=0][get processed_char][/choose][/set]
+[set char_n][choose _case=1][get processed_char][/choose][/set]
+
+[set p_prompt]
+[get total_prefix] ADDCOMM [get char_p]
+[/set]
+
+[set n_prompt]
+[get total_neg] ADDCOMM [get char_n]
+[/set]
+
+[set opt][choose _case=0][Umi _has_options]<[model][Illu]>[/Umi][/choose][/set]
+
+[/function]
+
+[##]
+Makes the prompt
+[/##]
+[function make_prompt]
+
+[call get_artist]
+[call set_gender]
+[call set_age_range]
+[call set_age gender="{get gender}"]
+
+[call choose_franchise]
+
+[chance 100]
+[call make_double]
+[/chance]
+[else]
+[call make_single]
+[/else]
 
 [call set_model]
 
