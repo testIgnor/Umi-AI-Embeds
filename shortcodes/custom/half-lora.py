@@ -13,7 +13,6 @@ class Shortcode():
         pattern = re.compile(r'<lora:(.+?)>')
         newtext = content
         for x in pattern.findall(content):
-            print(x)
             name = x.split(':')[0]
             weight = float(x.split(':')[1])
             newtext = newtext.replace(x, f'{name}:{weight/2}')
