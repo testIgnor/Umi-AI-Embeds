@@ -368,13 +368,13 @@ Makes a 2character prompt
 
 [switch gender]
     [case "female"]
-        [set gender_short]2girls[/set]
+        [set gender_short](2girls:1.5)[/set]
     [/case]
     [case "futanari"]
-        [set gender_short]2futas[/set]
+        [set gender_short](2futas:1.5)[/set]
     [/case]
     [case "male"]
-        [set gender_short]2boys[/set]
+        [set gender_short](2boys:1.5)[/set]
     [/case]
 [/switch]
 
