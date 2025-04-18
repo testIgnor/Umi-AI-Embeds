@@ -401,7 +401,7 @@ posing together
 [/set]
 
 [set processed_prefix]
-[Umi]
+[Umi _verbose=0]
 [get prefix0], [get prefix1], ([get prefix2]:1.4)
 [/Umi]
 [/set]
@@ -422,7 +422,7 @@ posing together
 [/set]
 
 [set processed_char]
-[Umi]
+[Umi _verbose=0]
 [get character_preset]
 [/Umi]
 [/set]
@@ -438,7 +438,7 @@ posing together
 [get total_neg] ADDCOMM [get char_n]
 [/set]
 
-[set opt][choose _case=0][Umi _has_options]<[model][Illu]>[/Umi][/choose][/set]
+[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
 
 [/function]
 
