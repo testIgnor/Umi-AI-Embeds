@@ -424,7 +424,7 @@ posing together
 [/set]
 
 [set n_prompt]
-[get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:0.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:0.5)
+[get total_neg] ADDCOMM [get char_1n], [strip-lora][get char_2p][/strip-lora] ADDCOL [get char_2n], [strip-lora][get char_1p][/strip-lora]
 [/set]
 
 [set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
@@ -456,7 +456,7 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], <[im
 [/set]
 
 [set prefix2]
-(centered in frame, symmetry:1.5), SplitScreen, split screen <lora:Splitscreen_XLPD:0.3>
+(centered in frame, symmetry:1.5), SplitScreen, split screen <lora:Splitscreen_XLPD:0.6>
 [/set]
 
 [set processed_prefix]
@@ -481,7 +481,7 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], <[im
 [/set]
 
 [set n_prompt]
-[get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:0.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:0.5)
+[get total_neg] ADDCOMM [get char_1n], [strip-lora][get char_2p][/strip-lora] ADDCOL [get char_2n], [strip-lora][get char_1p][/strip-lora]
 [/set]
 
 [set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
@@ -526,7 +526,7 @@ Main function
 [/char-count]
 [/set]
 
-[while "no_lora > 4"]
+[while "no_lora > 6"]
 [call make_prompt]
 
 [set no_lora]
@@ -535,6 +535,10 @@ Main function
 [/char-count]
 [/set]
 [/while]
+
+[if "no_lora > 4"]
+[set p_prompt][half-lora][get p_prompt][/half-lora][/set]
+[/if]
 
 [get p_style], [get p_prompt]
 
