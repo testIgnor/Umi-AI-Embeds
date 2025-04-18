@@ -423,7 +423,7 @@ class PromptGenerator:
 
     def prompt_memory_replace(self, prompt, memory_dict={}):
         p = prompt
-        memory_regex = re.compile('((__|\$\#)(.*?)(__|\#\$))')
+        memory_regex = re.compile('((\$\#)(.*?)(\#\$))')
         # match regex for $#foo;bar#$ here
         results = memory_regex.findall(p)
         for result in results:
