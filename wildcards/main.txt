@@ -409,13 +409,13 @@ posing together
 [set total_prefix][choose _case=0][get processed_prefix][/choose][/set]
 [set total_neg][choose _case=1][get processed_prefix][/choose][/set]
 
-[set char_1]$#[get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance];char1#$[/set]
+[set char_1]$#[get characterprompt];char1#$, [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance][/set]
 
 [call set_age_range]
 [call set_age gender="{get gender}"]
 [call choose_franchise]
 
-[set char_2]$#[get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance];char2#$[/set]
+[set char_2]$#[get characterprompt];char2#$, [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance][/set]
 
 [set character_preset]
 [get char_1] ADDCOL [get char_2]**$#char2#$ ADDCOL $#char1#$**
