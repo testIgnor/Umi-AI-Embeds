@@ -402,7 +402,7 @@ posing together
 
 [set processed_prefix]
 [Umi _verbose=0]
-[get prefix0], [get prefix1], [set gender_short] ([get prefix2]:1.4)
+[get prefix0], [get prefix1], [get gender_short] ([get prefix2]:1.4)
 [/Umi]
 [/set]
 
