@@ -501,8 +501,8 @@ Makes the prompt
 
 [call choose_franchise]
 
-[chance 0]
-[call make_princess]
+[chance 1]
+[call make_double]
 [/chance]
 [else]
 [call make_single]
