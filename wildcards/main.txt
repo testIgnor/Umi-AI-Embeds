@@ -401,7 +401,7 @@ posing together
 [/set]
 
 [set processed_prefix]
-[Umi _verbose=0]
+[Umi]
 [get prefix0], [get prefix1], [get gender_short] ([get prefix2]:1.4)
 [/Umi]
 [/set]
@@ -409,18 +409,18 @@ posing together
 [set total_prefix][choose _case=0][get processed_prefix][/choose][/set]
 [set total_neg][choose _case=1][get processed_prefix][/choose][/set]
 
-[set char_1][Umi _verbose=0][get characterprompt][/Umi][/set]
+[set char_1][Umi][get characterprompt][/Umi][/set]
 [set char_1p][choose _case=0][get char_1][/choose][/set]
 [set char_1n][choose _case=1][get char_1][/choose][/set]
 
 [call choose_franchise]
 
-[set char_2][Umi _verbose=0][get characterprompt][/Umi][/set]
+[set char_2][Umi][get characterprompt][/Umi][/set]
 [set char_2p][choose _case=0][get char_2][/choose][/set]
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
 [set p_prompt]
-[half-lora][get total_prefix] ADDCOMM [get char_1p][chance 10], <[ezpreg]>[/chance] ADDCOL [get char_2p][chance 10], <[ezpreg]>[/chance][/half-lora]
+[half-lora][get total_prefix] ADDCOMM [get char_1p][chance 10], [Umi]<[ezpreg]>[/Umi][/chance] ADDCOL [get char_2p][chance 10], [Umi]<[ezpreg]>[/Umi][/chance][/half-lora]
 [/set]
 
 [set n_prompt]
@@ -460,7 +460,7 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], <[im
 [/set]
 
 [set processed_prefix]
-[Umi _verbose=0]
+[Umi]
 [get prefix0], [get prefix1], [get prefix2]
 [/Umi]
 [/set]
@@ -468,16 +468,16 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], <[im
 [set total_prefix][choose _case=0][get processed_prefix][/choose][/set]
 [set total_neg][choose _case=1][get processed_prefix][/choose][/set]
 
-[set char_1][Umi _verbose=0][get characterprompt][/Umi][/set]
+[set char_1][Umi][get characterprompt][/Umi][/set]
 [set char_1p][choose _case=0][get char_1][/choose][/set]
 [set char_1n][choose _case=1][get char_1][/choose][/set]
 
-[set char_2][Umi _verbose=0][get characterprompt][/Umi][/set]
+[set char_2][Umi][get characterprompt][/Umi][/set]
 [set char_2p][choose _case=0][get char_2][/choose][/set]
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
 [set p_prompt]
-[half-lora][get total_prefix] ADDCOMM [get char_1p][chance 10], <[ezpreg]>[/chance] ADDCOL [get char_2p][chance 10], <[ezpreg]>[/chance][/half-lora]
+[half-lora][get total_prefix] ADDCOMM [get char_1p][chance 10], [Umi]<[ezpreg]>[/Umi][/chance] ADDCOL [get char_2p][chance 10], [Umi]<[ezpreg]>[/Umi][/chance][/half-lora]
 [/set]
 
 [set n_prompt]
@@ -502,7 +502,10 @@ Makes the prompt
 [call choose_franchise]
 
 [chance 100]
+[choose]
 [call make_double]
+[call make_princess]
+[/choose]
 [/chance]
 [else]
 [call make_single]
