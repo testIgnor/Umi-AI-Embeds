@@ -522,7 +522,7 @@ class Shortcode():
                             """
 
     def run_block(self, pargs, kwargs, context, content):
-        _verbose = self.Unprompted.parse_arg("_verbose", True)
+        _verbose = self.Unprompted.parse_arg("_verbose", False)
         _debug = self.Unprompted.parse_arg("_debug", False)
         _ignore_paths = self.Unprompted.parse_arg("_ignore_paths", False)
         _cache_files = self.Unprompted.parse_arg("_cache_files", True)
