@@ -448,7 +448,7 @@ Royalty
 [/set]
 
 [set prefix0]
-NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], [Umi]<[ezpreg]>[/Umi][/chance], <[imageformat][cowboyshot|fullbody]>, ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo
+NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix][chance 10][Umi], <[ezpreg]>[/Umi][/chance], <[imageformat][cowboyshot|fullbody]>, ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo
 [/set]
 
 [set prefix1]
@@ -477,7 +477,7 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], [Umi
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
 [set p_prompt]
-[half-lora][get total_prefix] ADDCOMM [get char_1p][chance 10] ADDCOL [get char_2p][chance 10][/half-lora]
+[half-lora][get total_prefix] ADDCOMM [get char_1p] ADDCOL [get char_2p][/half-lora]
 [/set]
 
 [set n_prompt]
