@@ -419,8 +419,12 @@ posing together
 [set char_2p][choose _case=0][get char_2][/choose][/set]
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
+[set preg]
+[choose _case=0][Umi]<[ezpreg]>[/Umi][/choose]
+[/set]
+
 [set p_prompt]
-[half-lora][get total_prefix] ADDCOMM [get char_1p][chance 10], [Umi]<[ezpreg]>[/Umi][/chance] ADDCOL [get char_2p][chance 10], [Umi]<[ezpreg]>[/Umi][/chance][/half-lora]
+[half-lora][get total_prefix] ADDCOMM [get char_1p][chance 10], [get preg][/chance] ADDCOL [get char_2p][chance 10], [get preg][/chance][/half-lora]
 [/set]
 
 [set n_prompt]
