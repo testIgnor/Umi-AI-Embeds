@@ -1,26 +1,66 @@
-(roxanne wolf:1.3), fnaf
-(toy chica \(fnaf\):1.3), fnaf
+(roxanne wolf:1.3), fnaf, silver hair, orange eyes, wolf ears, green bangs, <lora:Roxanne_Wolf:1>
+(roxanne wolf:1.3), fnaf, silver hair, orange eyes, wolf ears, green bangs, <lora:Roxanne_Wolf_Roxy_mayosplash:1> Roxymayosplash
+(roxanne wolf:1.3), fnaf, silver hair, orange eyes, wolf ears, green bangs, <lora:Roxanne-CbdCcnt-style_il:1> furry, Roxanne-CbdCcnt-style
+(roxanne wolf:1.3), fnaf, silver hair, orange eyes, wolf ears, green bangs, <lora:Roxanne_wolf_fnaf:1> roxanne_wolf_fnaf, ear_piercing, green_hair, collar, yellow_eyes
+(toy chica \(fnaf\):1.3), fnaf <lora:Toy_Chica_disembowell:1>
 (cupcake \(fnaf\):1.3), fnaf
-(chica \(fnaf\):1.3), fnaf
-(vanny \(fnaf\):1.3), fnaf
-(mangle \(fnaf\):1.3), fnaf
-(bonfie \(cryptiacurves\):1.3), fnaf
-(fexa \(cryptiacurves\):1.3), fnaf
-(glamrock chica:1.3), fnaf
-(chiku \(cryptiacurves\):1.3), fnaf
-(frenni \(cryptiacurves\):1.3), fnaf
+(chica \(fnaf\):1.3), fnaf, <lora:ChicaLOVE:1> ChicaLOVE, hirt, navel, black eyes, robot, heart-shaped pupils, doll joints, robot joints, yellow skin, sharp teeth
+(chica \(fnaf\):1.3), fnaf, <lora:Chica_FNAF_IL:1> chica FNAF, chicken girl, beak, purple eyes, bird legs, anthro, animatronic, animatronic neck, animatronic arms, animatronic legs, animatronic hands
+(chica \(fnaf\):1.3), fnaf, <lora:ChicaXL:1> ChicaXL, Chica \(Fnaf\)
+(vanny \(fnaf\):1.3), fnaf, <lora:Vanny_-_FNAF:1> Vanny_FNAF, Rabbit costume, rabbit ears, red eyes, blue bow, furry, stitches
+(vanny \(fnaf\):1.3), fnaf, <lora:VannyV2_-_FNAF_IL:1> vanny, patchwork fursuit, blue bow, black pupils, red sclera, anthro, broken fursuit, open fursuit
+(mangle \(fnaf\):1.3), fnaf, animal ears, yellow eyes, fluffy tail, robot joints, teeth, android, robot, <lora:WMangleH:1> Animatronic, mangle
+(mangle \(fnaf\):1.3), fnaf, animal ears, yellow eyes, fluffy tail, robot joints, teeth, android, robot, <lora:Mangle:1> mangle
+(mangle \(fnaf\):1.3), fnaf, animal ears, yellow eyes, fluffy tail, robot joints, teeth, android, robot, <lora:Mangle_FNAF_IL:1> Manglefnaf
+(bonfie \(cryptiacurves\):1.3), fnaf, <lora:Bonfie_Cally3D_No_Style:1> bonf1e_cally3d, anthro rabbit, rabbit girl, furry, purple skin, short hair, red eyes, purple hair, rabbit tail
+(fexa \(cryptiacurves\):1.3), fnaf, <lora:fexa_cryptiacurves:1> fexa_cryptiacurves, eye_patch, yellow_eyes, red_body, machine, bandage, breast bandage, anthro, furry, furry female
+(fexa \(cryptiacurves\):1.3), fnaf, <lora:Fexa-e90_s1530:1> Fexa FNAF, short hair, red fur, animal ears, yellow eyes, red hair, freckles, furry fox, eyepatch, golden fang, fox ears
+(fexa \(cryptiacurves\):1.3), fnaf, <lora:Fexa_Cally3D_No_Style:1> f3xa_cally3d, furry, yellow eyes, body fur, golden fang, animal ears, red skin, red hair, fox tail
+(glamrock chica:1.3), fnaf, <lora:Glamrock_Chica:1> Glamrock chica, Anthro, avian, robot
+(chiku \(cryptiacurves\):1.3), fnaf, <lora:Chiku_Cally3D_No_Style:1> ch1ku_cally3d,  yellow skin, yellow hair, hair ornament, topknot, pink eyes, anthro, chicken tail
+(frenni \(cryptiacurves\):1.3), fnaf, <lora:Frenni_Cally3D_No_Style:1> fr3nni_cally3d, animal ears, high ponytail, bear tail, brown hair, furry, blue eyes, brown skin
 (lovetaste chica:1.3), fnaf
 (runaboo chica:1.3), fnaf
 (withered chica \(fnaf\):1.3), fnaf
-(bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(bonnie \(fnaf\):1.3), fnaf, <lora:bonnie:1> bonnie_fnaf, animal ears
+(bonnie \(fnaf\):1.3), fnaf, <lora:BonnieXLFnaf:1> BonnieXL, Bonnie \(Fnaf\)
 (glamrock freddy:1.3), fnaf, (genderswap:1.5)
-(springtrap \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(glamrock chica:1.3), fnaf, <lora:Glamrock_Chica_IL:1> da9197, beak, green triangle earrings, purple bow in hair
+(glamrock chica:1.3), fnaf, <lora:Glamrock_Chica_mayosplash:1>, beak, green triangle earrings, purple bow in hair
+(springtrap \(fnaf\):1.3), fnaf, (genderswap:1.5), <lora:Springtrap-Illustrious-v1.1:1> springtrap
 (montgomery gator:1.3), fnaf, (genderswap:1.5)
-(freddy \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(freddy \(fnaf\):1.3), <lora:Fredina_Cally3D_No_Style:1> fr3dina_cally3d, furry, animal ears, brown hair, blue eyes, brown skin, bear tail
+(freddy \(fnaf\):1.3), <lora:fnaf_shady_bear-style:1> shady bear-style
+(freddy \(fnaf\):1.3), <lora:FreddyXLPony:1> FreddyXL, Freddy \(Fnaf\)
 (spring bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
 (toy freddy \(fnaf\):1.3), fnaf, (genderswap:1.5)
 (toy bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
 (glamrock bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
-(foxy \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(foxy \(fnaf\):1.3), fnaf, <lora:RfoxyDXL:1> animatronic, foxy, rfoxyd, green eyes
+(foxy \(fnaf\):1.3), fnaf, <lora:Foxy_-_fnaf_thegeckoninja_style:1> foxy_fnaf
+(foxy \(fnaf\):1.3), fnaf, <lora:Foxy:1> foxy_fnaf, furry
+(foxy \(fnaf\):1.3), fnaf, <lora:Foxy_fnaf:1> foxy \(fnaf\)
+(foxy \(fnaf\):1.3), fnaf, <lora:FoxyXLFnaf:1> FoxyXL, Foxy \(Fnaf\)
 (withered bonnie \(fnaf\):1.3), fnaf, (genderswap:1.5)
-(golden freddy \(fnaf\):1.3), fnaf, (genderswap:1.5)
+(golden freddy \(fnaf\):1.3), <lora:Goldie_Cally3D_No_Style_r2:1> gold1e_cally3d, furry, yellow skin, bear tail, yellow hair, black sclera, white eyes, animal ears, doll joints, robot joints
+(circus baby:1.3), fnaf, <lora:CircusBB-PonyV2:1> CircusBB, android, animatronic, robot, robot joints, white skin, red hair, twintails
+(circus baby:1.3), fnaf, android, animatronic, robot, robot joints, white skin, red hair, twintails, <lora:Baby_SL_model_fnaf:1> Bslmdel\(Fnaf\)
+(circus baby:1.3), fnaf, <lora:Circus Baby_1:1> Circus Baby, source_cartoon, red shirt, red skirt
+(charlotte emily:1.3), fnaf, <lora:Charlotte_emily_ill:1> charlotte, brown hair, black pants, black eyes
+(elizabeth afton:1.3), fnaf, <lora:Elizabeth Afton_Illustrious:1> elizabeth, ribbon, blonde hair, freckles, green eyes, short hair
+(bonnet \(fnaf\):1.3), fnaf, pink skin, pink hair, hair over eyes, robot joints <lora:Bon_bon_and_bonet:1>
+(bonbon \(fnaf\):1.3), fnaf, blue skin, blue hair, hair over eyes, robot joints <lora:Bon_bon_and_bonet:1>
+(jackie \(fnaf\):1.3), fnaf, <lora:jackie:1> jackie, twin tails, red hair, twin braids, sharp teeth, pale skin
+(cassie \(fnaf\):1.3), fnaf, dark skin, dark-skinned female, low double bun, brown hair, brown eyes, freckles, <lora:Cassie_FNAF_illustrious:1> CassieFNAF
+(cassie \(fnaf\):1.3), fnaf, dark skin, dark-skinned female, low double bun, brown hair, brown eyes, freckles, <lora:cassie:1> cassie
+(cassie \(fnaf\):1.3), fnaf, dark skin, dark-skinned female, low double bun, brown hair, brown eyes, freckles, <lora:Cassie:1> cassie
+(vanessa \(fnaf\):1.3), fnaf, <lora:vanessa:1> vanessaSDXL, short hair, blonde hair, green eyes
+(vanessa \(fnaf\):1.3), fnaf, <lora:Vanessa_IL:1> vanessa, short hair, blonde hair, green eyes
+(sarah \(fnaf\):1.3), fnaf, <lora:sarah_fnaf_ill:1> sarah, freckles, brown hair, blue eyes
+(susie \(fnaf\):1.3), fnaf, <lora:Susie_Illustrious:1> susie, bow, ribbon, blonde hair, freckles, red ribbon, short hair, blue eyes
+(ballora \(fnaf\):1.3), fnaf <lora:Ballora_FNAF_-_Pony_XL:1>
+(lolbit \(fnaf\):1.3), fnaf, <lora:Lolbit_FNAF_IL:1> lolbit, fox girl, black sclera, white pupils, anthro, animatronic, animatronic arms, animatronic ears, animatronic hands, animatronic legs, animatronic neck, animatronic head
+(marie \(fnaf\):1.3), fnaf, <lora:Marie_Fredinas_NightclubMarionette_FNAF_Character_LoRA:1> Marie \(FNAF\), colored skin, white hair, black eyes, coloured sclera, short hair
+(marie \(fnaf\):1.3), fnaf, <lora:Marie_Cally3D_No_Style:1> mar1e_cally3d, anthro, white skin, black sclera, white eyes, short hair
+(glitchtrap \(fnaf\):1.3), fnaf, <lora:glitchtrap:1> glitchtrap, rabbit ears, teeth
+(cassidy \(fnaf\):1.3), fnaf, <lora:cassidy_cartoon_v2:1> cassidy, black hair, twintails, black eyes, hair ornament, bangs

@@ -1,5 +1,6 @@
 (taylor swift:1.3), <lora:taySwiftPonyXL:0.6> taySwift, blonde hair, long hair, lips
 (billie eilish:1.3), <lora:Billie_SexNote:0.6> billiesn, multicolored hair, black hair, green hair, twintails, green nails
+(billie eilish:1.3), <lora:billie:1> BillieSDXLv2, black hair, green hair, hair bun, double bun, lips, multicolored hair, two-tone hair
 (lady gaga:1.3), gaga woman <lora:Lady-Gaga_token_gaga_woman_r64_model_EverClear_v1:0.6>, blonde hair, short hair, lips
 (miley cyrus:1.3), cyrs woman <lora:Miley-Cyrus_token_cyrs_woman_r64_model_EverClear_v1:0.6>, blonde hair, short hair, lips
 (jennifer lawrence:1.3), lawrence woman <lora:Jennifer-Lawrence_token_lawrence_woman_r64_model_EverClear_v1:0.6>, blonde hair, long hair, lips

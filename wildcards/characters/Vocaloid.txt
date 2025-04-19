@@ -1,4 +1,6 @@
 (hatsune miku:1.3), vocaloid, aqua eyes, long hair, blue hair, aqua hair, blue eyes, very long hair
+(hatsune miku:1.3), vocaloid, <lora:fortnite_miku_v2:1> neko miku \(fortnite\), long hair, multicolored hair, pink hair, gradient hair, twintails
+(hatsune miku:1.3), vocaloid, <lora:fortnite_miku_v2:1> brite miku \(fortnite\), long hair, multicolored hair, purple hair, gradient hair, twintails
 (megurine luka:1.3), vocaloid, very long hair, long hair, pink hair, blue eyes
 (gumi:1.3), vocaloid, long hair, green eyes, green hair, short hair
 (yuki miku:1.3), vocaloid, very long hair, long hair, blue hair, blue eyes

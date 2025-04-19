@@ -1,4 +1,5 @@
 (gwen stacy:1.3)
+(gwen stacy:1.3), <lora:SpiderGwen_Fortnite_PXL_Leaf2:1> spidergwen, blonde hair, blue eyes
 (mary jane watson:1.3)
 (wonder woman:1.3)
 (poison ivy:1.3)
@@ -9,13 +10,25 @@
 (power girl:1.3)
 (raven \(dc\):1.3)
 (starfire:1.3)
+(she-venom:1.3)
+(she-venom:1.3), <lora:SheVenomFortnite:1> sharp teeth, teeth
 (april o'neil:1.3)
+(april o'neil:1.3) <lora:April_O_Neil_Fortnite:1>
+(april o'neil:1.3), <lora:Aprilfn:1> Aprilfortnite, brown hair, brown eyes
 (she-hulk:1.3)
+(she-hulk:1.3), <lora:shehulk:1> shehulkFN, long hair, green eyes, green hair, lips, colored skin, muscular female, green skin
 (squirrel girl \(marvel\):1.3)
 (bast \(marvel\):1.3)
+(venom \(marvel\):1.3), (genderswap:1.5)
+(venom \(marvel\):1.3), (genderswap:1.5), <lora:Venom_Fortnite:1> venom_\(marvel\)
+(rogue \(marvel\):1.3)
+(rogue \(marvel\):1.3) <lora:Rogue_Fortnite:1>
 (black widow \(marvel\):1.3)
+(black cat \(marvel\):1.3)
+(black cat \(marvel\):1.3) <lora:Black_cat_fortnite_Pony:1>
 (captain marvel \(marvel\):1.3)
 (emma frost \(marvel\):1.3), blonde hair, short hair, blue eyes, earrings, blue lips
+(emma frost \(marvel\):1.3), <lora:FNEmmaFrost:1> EmFrFortn, silver hair, parted hair, long hair,
 (emma frost \(marvel\):1.3), <lora:emmaFrostRivals_pony_byJaneB:1> emm4frostrivals, blonde hair, short hair, blue eyes, earrings, blue lips
 (emma frost \(marvel\):1.3), <lora:emmafrostMR-guy90-Illust-LoraV1:1> tsinne, blonde hair, short hair, blue eyes, earrings, blue lips
 (galacta \(marvel\):1.3)
@@ -34,6 +47,7 @@
 (peni parker \(marvel\):1.3)
 (phoenix \(marvel\):1.3)
 (psylocke \(marvel\):1.3)
+(psylocke \(marvel\):1.3), <lora:Psylocke_Fortnite:1> Psylocke_Fortnite, dark-skinned female, purple hair, black hair, long hair, ponytail, asymmetrical hair, mole, purple eyes, makeup, purple lips
 (ratatoskr \(marvel\):1.3)
 (scarlet witch \(marvel\):1.3)
 (shiklah \(marvel\):1.3)
