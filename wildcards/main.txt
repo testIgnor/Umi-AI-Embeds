@@ -3,7 +3,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides]
 
-[chance 100]
+[chance 0]
 [call choose_franchise_simple]
 [/chance]
 
