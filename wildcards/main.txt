@@ -471,7 +471,7 @@ NSFW, [get gender_short], [get artist], (<[imageformat][cowboyshot|fullbody]>:1.
 [/set]
 
 [set prefix2]
-(centered in frame, symmetry, upper body:1.5), <lora:SplitScreen_illusXL_Incrs_v1:1> SplitScreen, split screen**(dividing line, vertical line, horizontal line:1.7)**
+(centered in frame, symmetry, upper body, lower body, full body:1.5), <lora:SplitScreen_illusXL_Incrs_v1:1> SplitScreen, split screen**(dividing line, vertical line, horizontal line:1.7)**
 [/set]
 
 [set processed_prefix]
