@@ -455,7 +455,7 @@ NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][g
 [/set]
 
 [set prefix2]
-(face in frame, head in frame, symmetry:1.5), SplitScreen, split screen, <lora:Splitscreen_XLPD:0.4>**(dividing line, vertical line, horizontal line:1.7)**
+(face in frame, head in frame, symmetry:1.5), SplitScreen, split screen, <lora:Splitscreen_XLPD:1>**(dividing line, vertical line, horizontal line:1.7), (face out of frame, no eyes, no mouth:2.0)**
 [/set]
 
 [set processed_prefix]
