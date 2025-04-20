@@ -410,7 +410,7 @@ posing together
 [set total_prefix][choose _case=0][get processed_prefix][/choose][/set]
 [set total_neg][choose _case=1][get processed_prefix][/choose][/set]
 
-[set char_1][Umi][get characterprompt][/Umi][/set]
+[set char_1][Umi _sync_seed=0][get characterprompt][/Umi][/set]
 [set char_1p][choose _case=0][get char_1][/choose][/set]
 [set char_1n][choose _case=1][get char_1][/choose][/set]
 
@@ -473,7 +473,7 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix][chanc
 [set total_prefix][choose _case=0][get processed_prefix][/choose][/set]
 [set total_neg][choose _case=1][get processed_prefix][/choose][/set]
 
-[set char_1][Umi][get characterprompt][/Umi][/set]
+[set char_1][Umi _sync_seed=0][get characterprompt][/Umi][/set]
 [set char_1p][choose _case=0][get char_1][/choose][/set]
 [set char_1n][choose _case=1][get char_1][/choose][/set]
 
