@@ -870,19 +870,19 @@
   Tags:
     - Racethnicity
     - European
-'(african:1.4), dark skinned female, {brown||dark brown||hazel} eyes <lora:Racethnicity2.35-Ill:1>':
+'(african:1.4), (dark skinned female:1.4), {brown||dark brown||hazel} eyes <lora:Racethnicity2.35-Ill:1>':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
     - African
-'(african:1.4), dark skinned female, very dark skin, {brown||dark brown||hazel} eyes <lora:Racethnicity2.35-Ill:1>':
+'(african:1.4), (dark skinned female, very dark skin:1.4), {brown||dark brown||hazel} eyes <lora:Racethnicity2.35-Ill:1>':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
     - African
-'(latina:1.4), dark skinned female, {brown||hazel||green||blue||amber} eyes <lora:Racethnicity2.35-Ill:1>':
+'(latina:1.4), (dark skinned female:1.4), {brown||hazel||green||blue||amber} eyes <lora:Racethnicity2.35-Ill:1>':
   Description:
     - For use with appropriate LoRA
   Tags:
@@ -895,20 +895,20 @@
     - Racethnicity
     - Asian
     - Thai
-'(arab:1.4), dark skinned female, {brown||hazel||green||blue||amber} eyes <lora:Racethnicity2.35-Ill:1>':
+'(arab:1.4), (dark skinned female:1.4), {brown||hazel||green||blue||amber} eyes <lora:Racethnicity2.35-Ill:1>':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
     - African
-'(indian:1.4), dark skinned female, {brown||dark brown||hazel||amber} eyes <lora:Racethnicity2.35-Ill:1>':
+'(indian:1.4), (dark skinned female:1.4), {brown||dark brown||hazel||amber} eyes <lora:Racethnicity2.35-Ill:1>':
   Description:
     - For use with appropriate LoRA
   Tags:
     - Racethnicity
     - Asian
     - Indian
-'(egyptian:1.4), dark skinned female, {brown||hazel||green||amber} eyes <lora:Racethnicity2.35-Ill:1>':
+'(egyptian:1.4), (dark skinned female:1.4), {brown||hazel||green||amber} eyes <lora:Racethnicity2.35-Ill:1>':
   Description:
     - For use with appropriate LoRA
   Tags:
