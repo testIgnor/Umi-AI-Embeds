@@ -506,7 +506,7 @@ Makes the prompt
 [call choose_franchise]
 
 [chance 20]
-[chance 50]
+[chance 10]
 [call make_double]
 [/chance]
 [else]
