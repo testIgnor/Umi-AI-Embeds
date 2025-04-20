@@ -461,7 +461,7 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix][chanc
 [/set]
 
 [set prefix2]
-(face in frame, head in frame, centered in frame, symmetry:1.5), SplitScreen, split screen, split vertically, <lora:Splitscreen_XLPD:0.6>**(dividing line, split horizontally:1.7)**
+(face in frame, head in frame, symmetry:1.5), SplitScreen, split screen, split vertically, <lora:Splitscreen_XLPD:0.6>**(dividing line, vertical line, horizontal line, split horizontally:1.7)**
 [/set]
 
 [set processed_prefix]
