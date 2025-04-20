@@ -66,3 +66,4 @@
 (princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair <lora:Princess_Peach_Shiny_Style_V3.0_Illustrious:1>
 (princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:peach:1> peach
 (princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:Princess_Peach:1> peach1x
+(princess peach \(corrupted\):1.3), purple lips, red hair, very long hair, yellow sclera, yellow body, yellow scales, slit pupils, purple tongue, <lora:Corrupted_Princess_Peach_Tao_2Carat:1> TaoPeach, mouth nipples, lipples, multicolored breasts
