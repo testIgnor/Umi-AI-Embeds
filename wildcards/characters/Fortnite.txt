@@ -1,184 +1,184 @@
-(meow skulls:1.3), fortnite, <lora:MeowSkullsPXL:0.7> MeowSkullsPXL
-(meow skulls:1.3), fortnite, <lora:Meowskulls_Illustrious:0.7> mxcaoxzz, multicolored_fur
-(meow skulls:1.3), fortnite, <lora:Meow_Skulls_Fortnite_-_Character:0.7> MeowSkulls, cat, anthro, furry, multicolored fur, multicolored body, multicolored face, cat tail, cat ears, brown fur, white fur, black fur
-(meow skulls:1.3), fortnite, <lora:MeowSkullsFPXL:0.7> MeowSkullsFPXL, anthro furry, furry female, body fur, blue-orange-white fur, multicolored fur, orange eyes, animal ears, cat ears, ear piercing
-(raven team leader:1.3), fortnite, <lora:Raven_Team_Leader_Fortnite:0.7> raven_team_leader_fortnite, shadow_face, clothing, hood, fur, purple_body
-(raven team leader:1.3), fortnite, <lora:RavenTeamLeadder:0.7> RavenTeamLeaderSDXL,  body fur, scar on one eye, dark skin, black sclera, bear ears, dark-skinned female, animal ears, purple eyes, black hair
-(raven team leader:1.3), fortnite, <lora:raven_tl_illu:0.7> Raventlxl, anthro, purple body, animal ears, shadow face, glowing eyes, hood
-(raven team leader:1.3), fortnite, <lora:raven-team-leader_pdxl:0.7> raven team leader
-(raven team leader:1.3), fortnite, <lora:Fortnite_RavenLeader-PONY:0.7> fnrtleader
-(pack leader highwire:1.3), fortnite, <lora:Pack_Leader_Highwire_-_Character:0.7> PLHighwire
-(pack leader highwire:1.3), fortnite, <lora:Highwire_from_fortnite_furry_Pony_Diffussion_ver.:0.7> Highwire, Anthro, blue inner ear, black fur, black body, blue sclera
-(pack leader highwire:1.3), fortnite, <lora:Highwire_pack_leader_illust:0.7> highwire_pack_leader_illust
-(pack leader highwire:1.3), fortnite, <lora:Highwire_illustriousXL:0.7> Highwire, blue sclera, pink eye, blue mouth, right closed eye
-(pack leader highwire:1.3), fortnite, <lora:pl-highwire:0.7> Plhighwirexl, anthro, black fur, animal ears, animal nose, purple eyes, blue sclera
-(pack leader highwire:1.3), fortnite,<lora:P_highwire:0.7> P Highwire, P Highwire, Anthro black body, white fur, blue inner ear fur, pink eyes, blue sclera, white pupils, pink face markings, blue mouth, wolf tail, wolf ears, fluffy tail, digitigrade, claws, snout
-(kimiko five-tails:1.3), fortnite, <lora:KimikoFiveTailsFPXL:0.7> KimikoFiveTailsFPXL, anthro furry, furry female, body fur, white fur, facial mark, pink eyes, red hair, medium hair, animal ears, animal ear fluff, medium breasts, white tail, fox tail
-(kimiko five-tails:1.3), fortnite, <lora:Kimiko_gobi_fortnite:0.7> Kimiko, anthro, female, tail, breasts, animal nose, fox ears, pink hair, animal ears, pawpads, facial mark, pink eyes, fox tail, hair tie, white fur, two-tone fur
-(kimiko five-tails:1.3), fortnite, <lora:kimiko_fivetails:0.7> kimiko_fivetails, anthro, female, tail, breasts, animal nose, fox ears, pink hair, animal ears, pawpads, facial mark, pink eyes, fox tail, hair tie, white fur, two-tone fur
-(kimiko five-tails:1.3), fortnite, <lora:Kimiko-5t-pony:0.7> Kimikoxl, anthro, fox girl, white fur, pink hair, animal ears, animal nose, pink eyes, face markings, eye scar
-(cuddle team leader:1.3), fortnite, <lora:Cuddle_Team_Leader__Pony:0.7> CuddleTeamLeaderSDXL, pink fur, animal ears
-(cuddle team leader:1.3), fortnite, <lora:Fortnite Cuddle team leaderPonyLora:0.7> cuddlebear
-(lexa \(fortnite\):1.3), fortnite, <lora:Princess_Lexa_Fortnite:0.7> PrincessLexa, long hair, white hair, bangs, hairband, red eyes
-(lexa \(fortnite\):1.3), fortnite, <lora:PrincessLexa:0.7> Lexa, long hair, white hair, bangs, hairband, red eyes
-(lexa \(fortnite\):1.3), fortnite, <lora:Princess_Lexa_-_Fortnite_Skin_SDXL__Pony:0.7>, long hair, white hair, bangs, hairband, red eyes
-(lexa \(fortnite\):1.3), fortnite, <lora:FN_OldLexa-PONY:0.7> fnlexadef
-(lexa \(fortnite\):1.3), fortnite, <lora:FN_OldLexa-PONY:0.7> fnlexamch
-(lexa \(fortnite\):1.3), fortnite, <lora:FN_PrincessLexa-PONY:0.7> fnpnclexa
-(lexa \(fortnite\):1.3), fortnite, <lora:FN_PrincessLexa-PONY:0.7> fnhbglexa
-(helsie \(fortnite\):1.3), fortnite, <lora:Helsie_fortnite_illust:0.7> helsie_fortnite_illust, green eyes, multicolored hair, jewelry, earrings, bracelet, freckles
-(helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:0.7>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, helsiedef, multicolored hair, ponytail,
-(helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:0.7>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, helsiealt, blonde
-(helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:0.7>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, helsiehunt
-(helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:0.7>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, Helsiernd
-(aura \(fortnite\):1.3), fortnite, <lora:Fortnite_-_Aura_Pony:0.7> AuraFN, long orange braids
-(penny \(fortnite\):1.3), fortnite, <lora:penny:0.7> pennyil, short hair, blue eyes, pink hair, lips, tattoo
-(hope \(fortnite\):1.3), fortnite, <lora:ShadowBladeHope:0.7> ShadowBladeHopeSDXL, blue eyes, blue hair, ponytail
-(hope \(fortnite\):1.3), fortnite, <lora:FNHeroicHope:0.7> FNHeroHop, blue hair, ponytail, blue eyes, purple lips
-(hope \(fortnite\):1.3), fortnite, <lora:FN_HopeSB-PONY:0.7> ninjahope
-(hope \(fortnite\):1.3), fortnite, <lora:Hope__Fortnite:0.7> Hope, blue hair
-(hope \(fortnite\):1.3), fortnite, <lora:Hope_Fortnite:0.7> Hope_Fortnite, blue hair, blue lips, purple lips, makeup, multicolored hair, streaked hair, nail polish, jewelry, ponytail,
-(erisa \(fortnite\):1.3), fortnite, <lora:ErisaFNIlluV1:0.7> erisafn, slit pupils, yellow eyes, scar on face, long hair, single braid, black hair, white animal ears
-(erisa \(fortnite\):1.3), fortnite, <lora:erisa_fortnite:0.7> erisa_fortnite, long hair, black hair, yellow eyes, braid, fair skin, single braid, braided ponytail, hair_over_shoulder, cat_ears, slit_pupils
-(erisa \(fortnite\):1.3), fortnite <lora:erisa:0.7> erisa
-(night rose \(fortnite\):1.3), fortnite, <lora:NightRoseApexAiIllustrious:0.7> night rose, night rose_fortnite
-(night rose \(fortnite\):1.3), fortnite, <lora:FortniteMidnightRose:0.7> n1ght_r0se
-(night rose \(fortnite\):1.3), fortnite, <lora:FN_NightRose-PONY:0.7> fnrosedef
-(night rose \(fortnite\):1.3), fortnite, <lora:FN_NightRose-PONY:0.7> fnrosealt
-(leelah \(fortnite\):1.3), fortnite, <lora:Leelah:0.7> blue hair, pink hair, short hair, multicolored hair, two-tone hair, light blue hair, ahoge, hair bun, double bun, dark skin, dark-skinned female, blue eyes, makeup, eyeshadow, freckles
-(leelah \(fortnite\):1.3), fortnite, <lora:KMS_Fortnite_Leelah_IL:0.7> fn_leelah, dark skin, blue eyes, blue hair, pink hair, short hair, multicolored hair, two-tone hair, light blue hair, ahoge, hair bun, double bun, makeup, eyeshadow, freckles
-(nemia \(fortnite\):1.3), fortnite, <lora:nemia:0.7> Nemia, red skin, green hair, twin tails, hair between eyes, lilac eyes, horns
-(nemia \(fortnite\):1.3), fortnite, <lora:nemia-10:0.7> NemiaSDXL, blue eyes, hair ornament, hair between eyes, twintails, purple eyes, green hair, horns, hairclip
-(nemia \(fortnite\):1.3), fortnite, <lora:FN_Nemia-PONY:0.7> fnnemia
-(jules \(fortnite\):1.3), fortnite, <lora:julesxl2:0.7> jules_fortnite
-(jules \(fortnite\):1.3), fortnite, <lora:jULESFN:0.7> JulesFN, twin braids, black hair
-(jules \(fortnite\):1.3), fortnite, <lora:jULESFN:0.7> JulesBeach, twin braids, two-tone hair, full-body tattoo
-(jules \(fortnite\):1.3), fortnite, <lora:Jules_fortnite:0.7> Jules, long hair, black hair, twin braids, black lips, freckles, piercing, tattoo, brown eyes, earrings
-(highwire \(fortnite\):1.3), fortnite, <lora:highwire_fortnite:0.7>, highwire_hood_off, pink hair, makeup, blue lips, multicolored hair, white hair, lipstick, pink eyes, purple eyes, dark-skinned female, dark skin, hair between eyes, short hair, two-tone hair, eyeshadow
-(skye \(fortnite\):1.3), fortnite, <lora:Skye:0.7> skyeog
-(skye \(fortnite\):1.3), fortnite, <lora:SkyeFort3:0.7> skye_fort
-(skye \(fortnite\):1.3), fortnite, <lora:Undercover Skye IL:0.7> undercoverskye
-(skye \(fortnite\):1.3), fortnite, <lora:Skye_Fortnite:0.7> Skye, blue eyes, brown hair
-(tntina \(fortnite\):1.3), fortnite, <lora:Tntina_Fortnite:0.7> Tntina, short hair, brown hair, brown eyes
-(tntina \(fortnite\):1.3), fortnite, <lora:FN_TNTina-PONY:0.7> tinadef
-(tntina \(fortnite\):1.3), fortnite, <lora:FN_TNTina-PONY:0.7> tinadyn
-(zoe clash \(fortnite\):1.3), fortnite, <lora:zoe1:0.7> zoeclash_fortnite
-(daraku \(fortnite\):1.3), fortnite, <lora:Daraku:0.7> Daraku, black hair, long hair, colored inner hair, green eyes, orange eyeshadow, lip piercing
-(daraku \(fortnite\):1.3), fortnite, <lora:32dim-FN_Daraku-PONY:0.7> fndaraku
-(haze \(fortnite\):1.3), fortnite, <lora:HazeFN3:0.7> HazeFN, pink hair, black lipstick, long hair, pink eyes
-(haze \(fortnite\):1.3), fortnite, <lora:HazeFN3:0.7> HazeSW, double bun, pink hair, pink eyes
-(haze \(fortnite\):1.3), fortnite, <lora:HazeFN3:0.7> HazeHarp, pink hair
-(phaedra \(fortnite\):1.3), fortnite <lora:Phaedra-JoeSanders:0.7> PhaedraFN, long hair, brown hair, blunt bangs, eyeshadow, lips, lipstick, colored top lip, grey lips, nose ring
-(phaedra \(fortnite\):1.3), fortnite <lora:Phaedra-JoeSanders:0.7> FestPhaedraFN, long hair, multicolored hair, streaked hair, two-tone hair, braid, headband, brown hair, pink hair, brown eyes, lips, lipstick, colored top lip, grey lips, nose ring
-(syd \(fortnite\):1.3), fortnite, <lora:Fortnite_-_Raven_Team_Syd_Pony:0.7> RavenTeamSyd, purple eyes, purple hair, long hair, black lips
-(syd \(fortnite\):1.3), fortnite, <lora:FN_Syd-PONY-PONY:0.7> fnrvtsyd
-(syd \(fortnite\):1.3), fortnite, <lora:FN_Syd-PONY-PONY:0.7> fndefsyd
-(demi \(fortnite\):1.3), fortnite, <lora:FNDemi:0.7> DemiFN, black hair, streaked hair, red eyes, high ponytail, short ponytail
-(headhunter \(fortnite\):1.3), fortnite, <lora:headhunter_Fortnite:0.7> hhft, tattoo, black hair, bangs, ponytail, hair over shoulder
-(lynx \(fortnite\):1.3), fortnite, <lora:Lynx_Fortnite:0.7> lynx, green eyes, black glasses, mole, pink hair, short hair, side part, makeup, black lipstick, ear piercing
-(lynx \(fortnite\):1.3), fortnite, <lora:P-Lynx_fortnite:0.7> lynx, green eyes, black glasses, mole, pink hair, short hair, side part, makeup, black lipstick, ear piercing
-(lynx \(fortnite\):1.3), fortnite, <lora:linx:0.7> linx, green eyes, black glasses, mole, pink hair, short hair, side part, makeup, black lipstick, ear piercing
-(sunstrider \(fortnite\):1.3), fortnite, <lora:Sunstrider:0.7> sunstrider, blonde hair, lips, brown eyes, ponytail,
-(doctor slone \(fortnite\):1.3), fortnite, <lora:fnslone IL:0.7> fnslone
+(meow skulls:1.3), fortnite, <lora:MeowSkullsPXL:1> MeowSkullsPXL
+(meow skulls:1.3), fortnite, <lora:Meowskulls_Illustrious:1> mxcaoxzz, multicolored_fur
+(meow skulls:1.3), fortnite, <lora:Meow_Skulls_Fortnite_-_Character:1> MeowSkulls, cat, anthro, furry, multicolored fur, multicolored body, multicolored face, cat tail, cat ears, brown fur, white fur, black fur
+(meow skulls:1.3), fortnite, <lora:MeowSkullsFPXL:1> MeowSkullsFPXL, anthro furry, furry female, body fur, blue-orange-white fur, multicolored fur, orange eyes, animal ears, cat ears, ear piercing
+(raven team leader:1.3), fortnite, <lora:Raven_Team_Leader_Fortnite:1> raven_team_leader_fortnite, shadow_face, clothing, hood, fur, purple_body
+(raven team leader:1.3), fortnite, <lora:RavenTeamLeadder:1> RavenTeamLeaderSDXL,  body fur, scar on one eye, dark skin, black sclera, bear ears, dark-skinned female, animal ears, purple eyes, black hair
+(raven team leader:1.3), fortnite, <lora:raven_tl_illu:1> Raventlxl, anthro, purple body, animal ears, shadow face, glowing eyes, hood
+(raven team leader:1.3), fortnite, <lora:raven-team-leader_pdxl:1> raven team leader
+(raven team leader:1.3), fortnite, <lora:Fortnite_RavenLeader-PONY:1> fnrtleader
+(pack leader highwire:1.3), fortnite, <lora:Pack_Leader_Highwire_-_Character:1> PLHighwire
+(pack leader highwire:1.3), fortnite, <lora:Highwire_from_fortnite_furry_Pony_Diffussion_ver.:1> Highwire, Anthro, blue inner ear, black fur, black body, blue sclera
+(pack leader highwire:1.3), fortnite, <lora:Highwire_pack_leader_illust:1> highwire_pack_leader_illust
+(pack leader highwire:1.3), fortnite, <lora:Highwire_illustriousXL:1> Highwire, blue sclera, pink eye, blue mouth, right closed eye
+(pack leader highwire:1.3), fortnite, <lora:pl-highwire:1> Plhighwirexl, anthro, black fur, animal ears, animal nose, purple eyes, blue sclera
+(pack leader highwire:1.3), fortnite, <lora:P_highwire:1> P Highwire, P Highwire, Anthro black body, white fur, blue inner ear fur, pink eyes, blue sclera, white pupils, pink face markings, blue mouth, wolf tail, wolf ears, fluffy tail, digitigrade, claws, snout
+(kimiko five-tails:1.3), fortnite, <lora:KimikoFiveTailsFPXL:1> KimikoFiveTailsFPXL, anthro furry, furry female, body fur, white fur, facial mark, pink eyes, red hair, medium hair, animal ears, animal ear fluff, medium breasts, white tail, fox tail
+(kimiko five-tails:1.3), fortnite, <lora:Kimiko_gobi_fortnite:1> Kimiko, anthro, female, tail, breasts, animal nose, fox ears, pink hair, animal ears, pawpads, facial mark, pink eyes, fox tail, hair tie, white fur, two-tone fur
+(kimiko five-tails:1.3), fortnite, <lora:kimiko_fivetails:1> kimiko_fivetails, anthro, female, tail, breasts, animal nose, fox ears, pink hair, animal ears, pawpads, facial mark, pink eyes, fox tail, hair tie, white fur, two-tone fur
+(kimiko five-tails:1.3), fortnite, <lora:Kimiko-5t-pony:1> Kimikoxl, anthro, fox girl, white fur, pink hair, animal ears, animal nose, pink eyes, face markings, eye scar
+(cuddle team leader:1.3), fortnite, <lora:Cuddle_Team_Leader__Pony:1> CuddleTeamLeaderSDXL, pink fur, animal ears
+(cuddle team leader:1.3), fortnite, <lora:Fortnite Cuddle team leaderPonyLora:1> cuddlebear
+(lexa \(fortnite\):1.3), fortnite, <lora:Princess_Lexa_Fortnite:1> PrincessLexa, long hair, white hair, bangs, hairband, red eyes
+(lexa \(fortnite\):1.3), fortnite, <lora:PrincessLexa:1> Lexa, long hair, white hair, bangs, hairband, red eyes
+(lexa \(fortnite\):1.3), fortnite, <lora:Princess_Lexa_-_Fortnite_Skin_SDXL__Pony:1>, long hair, white hair, bangs, hairband, red eyes
+(lexa \(fortnite\):1.3), fortnite, <lora:FN_OldLexa-PONY:1> fnlexadef
+(lexa \(fortnite\):1.3), fortnite, <lora:FN_OldLexa-PONY:1> fnlexamch
+(lexa \(fortnite\):1.3), fortnite, <lora:FN_PrincessLexa-PONY:1> fnpnclexa
+(lexa \(fortnite\):1.3), fortnite, <lora:FN_PrincessLexa-PONY:1> fnhbglexa
+(helsie \(fortnite\):1.3), fortnite, <lora:Helsie_fortnite_illust:1> helsie_fortnite_illust, green eyes, multicolored hair, jewelry, earrings, bracelet, freckles
+(helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:1>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, helsiedef, multicolored hair, ponytail,
+(helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:1>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, helsiealt, blonde
+(helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:1>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, helsiehunt
+(helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:1>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, Helsiernd
+(aura \(fortnite\):1.3), fortnite, <lora:Fortnite_-_Aura_Pony:1> AuraFN, long orange braids
+(penny \(fortnite\):1.3), fortnite, <lora:penny:1> pennyil, short hair, blue eyes, pink hair, lips, tattoo
+(hope \(fortnite\):1.3), fortnite, <lora:ShadowBladeHope:1> ShadowBladeHopeSDXL, blue eyes, blue hair, ponytail
+(hope \(fortnite\):1.3), fortnite, <lora:FNHeroicHope:1> FNHeroHop, blue hair, ponytail, blue eyes, purple lips
+(hope \(fortnite\):1.3), fortnite, <lora:FN_HopeSB-PONY:1> ninjahope
+(hope \(fortnite\):1.3), fortnite, <lora:Hope__Fortnite:1> Hope, blue hair
+(hope \(fortnite\):1.3), fortnite, <lora:Hope_Fortnite:1> Hope_Fortnite, blue hair, blue lips, purple lips, makeup, multicolored hair, streaked hair, nail polish, jewelry, ponytail,
+(erisa \(fortnite\):1.3), fortnite, <lora:ErisaFNIlluV1:1> erisafn, slit pupils, yellow eyes, scar on face, long hair, single braid, black hair, white animal ears
+(erisa \(fortnite\):1.3), fortnite, <lora:erisa_fortnite:1> erisa_fortnite, long hair, black hair, yellow eyes, braid, fair skin, single braid, braided ponytail, hair_over_shoulder, cat_ears, slit_pupils
+(erisa \(fortnite\):1.3), fortnite <lora:erisa:1> erisa
+(night rose \(fortnite\):1.3), fortnite, <lora:NightRoseApexAiIllustrious:1> night rose, night rose_fortnite
+(night rose \(fortnite\):1.3), fortnite, <lora:FortniteMidnightRose:1> n1ght_r0se
+(night rose \(fortnite\):1.3), fortnite, <lora:FN_NightRose-PONY:1> fnrosedef
+(night rose \(fortnite\):1.3), fortnite, <lora:FN_NightRose-PONY:1> fnrosealt
+(leelah \(fortnite\):1.3), fortnite, <lora:Leelah:1> blue hair, pink hair, short hair, multicolored hair, two-tone hair, light blue hair, ahoge, hair bun, double bun, dark skin, dark-skinned female, blue eyes, makeup, eyeshadow, freckles
+(leelah \(fortnite\):1.3), fortnite, <lora:KMS_Fortnite_Leelah_IL:1> fn_leelah, dark skin, blue eyes, blue hair, pink hair, short hair, multicolored hair, two-tone hair, light blue hair, ahoge, hair bun, double bun, makeup, eyeshadow, freckles
+(nemia \(fortnite\):1.3), fortnite, <lora:nemia:1> Nemia, red skin, green hair, twin tails, hair between eyes, lilac eyes, horns
+(nemia \(fortnite\):1.3), fortnite, <lora:nemia-10:1> NemiaSDXL, blue eyes, hair ornament, hair between eyes, twintails, purple eyes, green hair, horns, hairclip
+(nemia \(fortnite\):1.3), fortnite, <lora:FN_Nemia-PONY:1> fnnemia
+(jules \(fortnite\):1.3), fortnite, <lora:julesxl2:1> jules_fortnite
+(jules \(fortnite\):1.3), fortnite, <lora:jULESFN:1> JulesFN, twin braids, black hair
+(jules \(fortnite\):1.3), fortnite, <lora:jULESFN:1> JulesBeach, twin braids, two-tone hair, full-body tattoo
+(jules \(fortnite\):1.3), fortnite, <lora:Jules_fortnite:1> Jules, long hair, black hair, twin braids, black lips, freckles, piercing, tattoo, brown eyes, earrings
+(highwire \(fortnite\):1.3), fortnite, <lora:highwire_fortnite:1>, highwire_hood_off, pink hair, makeup, blue lips, multicolored hair, white hair, lipstick, pink eyes, purple eyes, dark-skinned female, dark skin, hair between eyes, short hair, two-tone hair, eyeshadow
+(skye \(fortnite\):1.3), fortnite, <lora:Skye:1> skyeog
+(skye \(fortnite\):1.3), fortnite, <lora:SkyeFort3:1> skye_fort
+(skye \(fortnite\):1.3), fortnite, <lora:Undercover Skye IL:1> undercoverskye
+(skye \(fortnite\):1.3), fortnite, <lora:Skye_Fortnite:1> Skye, blue eyes, brown hair
+(tntina \(fortnite\):1.3), fortnite, <lora:Tntina_Fortnite:1> Tntina, short hair, brown hair, brown eyes
+(tntina \(fortnite\):1.3), fortnite, <lora:FN_TNTina-PONY:1> tinadef
+(tntina \(fortnite\):1.3), fortnite, <lora:FN_TNTina-PONY:1> tinadyn
+(zoe clash \(fortnite\):1.3), fortnite, <lora:zoe1:1> zoeclash_fortnite
+(daraku \(fortnite\):1.3), fortnite, <lora:Daraku:1> Daraku, black hair, long hair, colored inner hair, green eyes, orange eyeshadow, lip piercing
+(daraku \(fortnite\):1.3), fortnite, <lora:32dim-FN_Daraku-PONY:1> fndaraku
+(haze \(fortnite\):1.3), fortnite, <lora:HazeFN3:1> HazeFN, pink hair, black lipstick, long hair, pink eyes
+(haze \(fortnite\):1.3), fortnite, <lora:HazeFN3:1> HazeSW, double bun, pink hair, pink eyes
+(haze \(fortnite\):1.3), fortnite, <lora:HazeFN3:1> HazeHarp, pink hair
+(phaedra \(fortnite\):1.3), fortnite <lora:Phaedra-JoeSanders:1> PhaedraFN, long hair, brown hair, blunt bangs, eyeshadow, lips, lipstick, colored top lip, grey lips, nose ring
+(phaedra \(fortnite\):1.3), fortnite <lora:Phaedra-JoeSanders:1> FestPhaedraFN, long hair, multicolored hair, streaked hair, two-tone hair, braid, headband, brown hair, pink hair, brown eyes, lips, lipstick, colored top lip, grey lips, nose ring
+(syd \(fortnite\):1.3), fortnite, <lora:Fortnite_-_Raven_Team_Syd_Pony:1> RavenTeamSyd, purple eyes, purple hair, long hair, black lips
+(syd \(fortnite\):1.3), fortnite, <lora:FN_Syd-PONY-PONY:1> fnrvtsyd
+(syd \(fortnite\):1.3), fortnite, <lora:FN_Syd-PONY-PONY:1> fndefsyd
+(demi \(fortnite\):1.3), fortnite, <lora:FNDemi:1> DemiFN, black hair, streaked hair, red eyes, high ponytail, short ponytail
+(headhunter \(fortnite\):1.3), fortnite, <lora:headhunter_Fortnite:1> hhft, tattoo, black hair, bangs, ponytail, hair over shoulder
+(lynx \(fortnite\):1.3), fortnite, <lora:Lynx_Fortnite:1> lynx, green eyes, black glasses, mole, pink hair, short hair, side part, makeup, black lipstick, ear piercing
+(lynx \(fortnite\):1.3), fortnite, <lora:P-Lynx_fortnite:1> lynx, green eyes, black glasses, mole, pink hair, short hair, side part, makeup, black lipstick, ear piercing
+(lynx \(fortnite\):1.3), fortnite, <lora:linx:1> linx, green eyes, black glasses, mole, pink hair, short hair, side part, makeup, black lipstick, ear piercing
+(sunstrider \(fortnite\):1.3), fortnite, <lora:Sunstrider:1> sunstrider, blonde hair, lips, brown eyes, ponytail,
+(doctor slone \(fortnite\):1.3), fortnite, <lora:fnslone IL:1> fnslone
 (the imagined \(fortnite\):1.3), fortnite
-(lennox rose \(fortnite\):1.3), fortnite, <lora:LennoxRoseFOPXL:0.7> LennoxRoseFOPXL, pink eyes, blonde hair, pink hair, multicolored hair, long twintails, sidelocks, blunt bangs,
-(mae \(fortnite\):1.3), fortnite, <lora:Mae_Fortnite:0.7> mae from fortnite, purple eyes, lavender hair, multicolored hair, twintails, hoop earrings
-(yuki \(fortnite\):1.3), fortnite, <lora:Yuki (Fortnite) IL:0.7> fnyuki
-(valeria \(fortnite\):1.3), fortnite, <lora:Valeria:0.7> Valeria
-(valeria \(fortnite\):1.3), fortnite, <lora:valeria:0.7> valeria_fortnite
-(stray \(fortnite\):1.3), fortnite, <lora:Stray:0.7> stray \(fortnite\)
-(persephone \(fortnite\):1.3), fortnite, <lora:Persephone__Fortnite:0.7> FN_Persephone
-(dark bomber \(fortnite\):1.3), fortnite, <lora:Dark_Bomber_FortnitePonyLora:0.7>
-(iconica prime \(fortnite\):1.3), fortnite, <lora:Iconica_Prime_Fortnite:0.7> IconicaPrimeF, dark-skinned female, pink hair, dreadlocks, long hair, twintails, green eyes
-(katalina \(fortnite\):1.3), fortnite, <lora:FN_Katalina:0.7> FN_Katalina
-(katalina \(fortnite\):1.3), fortnite, <lora:k4t4l1n4:0.7> k4t4l1n4
-(nix scarlett \(fortnite\):1.3), fortnite, <lora:Nix_Scarlett__FORTNITE:0.7>
-(ark \(fortnite\):1.3), fortnite, <lora:Ark_Fortnite_PXL_Leaf1:0.7> ark, white hair, short hair, blue eyes, lipstick, halo
-(ark \(fortnite\):1.3), fortnite, <lora:Ark_Fortnite_PXL_Leaf1:0.7> ark_Shadow, black hair, short hair, no pupils, glowing eyes, red lipstick, glowing halo, white halo
-(renegade raider \(fortnite\):1.3), <lora:Renegade_Raider:0.7> Renegade Raider
-(evie \(fortnite\):1.3), fortnite, <lora:Summitseeker_Evie__Fortnite:0.7> FN_Summitseeker_Evie
-(evie \(fortnite\):1.3), fortnite, <lora:EvieFN2:0.7> EvieFN, short hair, black hair, hoop earrings, brown eyes, choker
-(evie \(fortnite\):1.3), fortnite, <lora:EvieFN2:0.7> EvieSyn, short hair, hoop earrings, brown eyes
-(evie \(fortnite\):1.3), fortnite, <lora:Evie_-_Fortnite_Illustrious:0.7> Evie, black eyes, short hair, bobcut hair, bangs, red lipstick, makeup, black eyeshadow, red and blue hoop earrings
-(sparkle diva \(fortnite\):1.3), fortnite, <lora:Sparkle_Diva:0.7> SparkleDiva, pink eyes, bright makeup, blue lipstick, blue hair, two high buns, pink highlights
-(luna \(fortnite\):1.3), fortnite, <lora:DarkFortnite:0.7> drk, halo, two-tone wings, black hair, short hair, green eyes, facial mark, nose piercing, nose ring
-(luna \(fortnite\):1.3), fortnite, <lora:DarkFortniteilluLoRA:0.7> drk, halo, two-tone wings, black hair, short hair, green eyes, facial mark, nose piercing, nose ring
-(poison ivy \(fortnite\):1.3), fortnite, <lora:Poison_Ivy_Fortnite:0.7> PoisonIvyF, red hair, long hair, green eyes, red nails, makeup, pointy ears, lipstick
-(saeko \(fortnite\):1.3), fortnite, long hair, black hair, hair between eyes, blue eyes, red lips, lipstick <lora:Spirit_Hunter_Saeko_Fortnite:0.7> SHSaeko, Outfit1
-(saeko \(fortnite\):1.3), fortnite, long hair, black hair, hair between eyes, orange eyes, golden lips, lipstick, <lora:Spirit_Hunter_Saeko_Fortnite:0.7> SHSaeko, Outfit2
-(saeko \(fortnite\):1.3), fortnite, long hair, black hair, hair between eyes, blue eyes, silver lips, lipstick, <lora:Spirit_Hunter_Saeko_Fortnite:0.7> SHSaeko, Outfit3
-(midnight dusk \(fortnite\):1.3), fortnite, <lora:Midnight_Dusk_Fortnite:0.7> MidnightDuskF, colored skin, grey skin, long hair, pink hair, black lips, lipstick, red eyes
-(tsuki \(fortnite\):1.3), fortnite, <lora:Tsuki:0.7> tsukiog
-(tsuki \(fortnite\):1.3), fortnite, <lora:Tsuki_Final:0.7> tsuki, tsukiv2
-(tsuki \(fortnite\):1.3), fortnite, <lora:Tsuki_Final:0.7> tsuki, tsuki_human
-(tsuki \(fortnite\):1.3), fortnite, <lora:Tsuki_Final:0.7> tsuki, android
-(rio \(fortnite\):1.3), fortnite, <lora:Fortnite DoublecrossilluLoRA:0.7> dbblecrss, dark skin, long hair, ponytail, earrings, eyepatch, hair flower
-(rio \(fortnite\):1.3), fortnite, <lora:Fortnite DoublecrossPonyLoRA:0.7> dbblecrss, dark skin, long hair, ponytail, earrings, eyepatch, hair flower
-(the mechanist \(fortnite\):1.3), fortnite, <lora:checkpoint-e18_s486:0.7> brown hair, short hair tied in two pigtails
-(the mechanist \(fortnite\):1.3), fortnite, <lora:The_Mechanist_Fortnite:0.7> MechanistFort, short hair, black hair
-(the mechanist \(fortnite\):1.3), fortnite, <lora:themachinist:0.7> themachinist_fortnite
-(the mechanist \(fortnite\):1.3), fortnite, <lora:FN_Machinist-PONY:0.7> fnmachinist
-(ruby shadows \(fortnite\):1.3), fortnite, <lora:Ruby_Shadows_Fortnite:0.7> RubyShadows, black hair, long hair
-(marigold \(fortnite\):1.3), fortnite, <lora:Fortnite MarigoldilluLoRA:0.7> mrigld, short hair, heterochromia, scar over eye, golden arm, golden finger, colored skin
-(marigold \(fortnite\):1.3), fortnite, <lora:Fortnite MarigoldPonyLoRA:0.7> mrigld, short hair, heterochromia, scar over eye
-(marigold \(fortnite\):1.3), fortnite, <lora:Marigold_Fortnite:0.7> MarigoldFO, black hair, heterochromia, yellow eyes, white eyes, short hair, black lips, lipstick, makeup, pale skin
-(dj bop \(fortnite\):1.3), fortnite, <lora:djbob:0.7> djbob, animal ears, purple hair, rabbit ears, colored skin
-(mina park \(fortnite\):1.3), fortnite, <lora:Mina_Park_Fortnite:0.7> Mina_Park, short hair, pink hair, hairband, jewelry, ear piercing, makeup
-(kate bishop \(fortnite\):1.3), fortnite, <lora:Fortnite Kate BishopilluLoRA:0.7> kate, ponytail, bangs
-(kate bishop \(fortnite\):1.3), fortnite, <lora:Kate BishopPonyLora:0.7> kate, ponytail, bangs
-(cate meowdy \(fortnite\):1.3), fortnite, <lora:CateMeowdy:0.7> cate meowdy, furry female, cat girl, cat ears, ponytail, blue-orange-white fur, arm tattoo, cat tail, black eyes
-(cate meowdy \(fortnite\):1.3), fortnite, <lora:CateMeowdyFortnite:0.7> CateMeowdyFN, anthro, calico, simple face, multicolor fur, ears, cat ears, cat tail, furry, animal ears, body fur, arm markings, ponytail,
-(ava-tarr \(fortnite\):1.3), fortnite, <lora:Tarr:0.7> Ava-Tarr, colored skin, purple skin, multicolored skin, long hair, gradient hair, glowing hair, long twintails, animal ears, hair over one eye, solid circle eyes, no pupils, no mouth
-(king kong \(fortnite\):1.3), fortnite, <lora:King_Kong_Fortnite__Illustrious_:0.7> King Kong, (genderswap:1.5)
-(aphrodite \(fortnite\):1.3), fortnite, <lora:Aphrodite_Fortnite:0.7> Aphrodite, short hair, white hair, brown eyes
-(aphrodite \(fortnite\):1.3), fortnite, <lora:Aphrodite_Fortnite:0.7> Aphrodite \(Goddess Mode\), pink hair, pink skin, purple skin, yellow colored inner hair
-(aphrodite \(fortnite\):1.3), fortnite <lora:Aphrodite_Fortnite-000005:0.7>
-(aphrodite \(fortnite\):1.3), fortnite <lora:Aphrodite_Fortnite_PONY:0.7>
-(aphrodite \(fortnite\):1.3), fortnite, <lora:FN_Aphrodite-PONY:0.7> aphrodef
-(aphrodite \(fortnite\):1.3), fortnite, <lora:FN_Aphrodite-PONY:0.7> aphroimo
-(ice spice \(fortnite\):1.3), fortnite, <lora:Icespice2:0.7> IcespiceFN, long hair, orange hair, blunt bangs
-(serenade \(fortnite\):1.3), fortnite, <lora:SerenadeFortnite:0.7> srndfrtnt
-(aubrey \(fortnite\):1.3), fortnite <lora:Aubrey_Fortnite:0.7>
-(persephone \(fortnite\):1.3), fortnite, <lora:Persephone :0.7> Persephone
-(carolina \(fortnite\):1.3), fortnite, <lora:Carolina_-_Fortnite_Pony:0.7> carolina, hair flower, hair ornament, flower, blonde hair, long hair, hoop earrings, earrings
-(harlowe \(fortnite\):1.3), fortnite, <lora:Harlowe_-_Fortnite:0.7> pink skin, white hair, medium hair, green eyes
-(catalyst \(fortnite\):1.3), fortnite, <lora:Catalyst_Fortnite:0.7> CatalystFN
-(valentina \(fortnite\):1.3), fortnite, <lora:Valentina_Fortnite:0.7> ValentinaFO, Val_Ver_1, dark-skinned female, long hair, black hair, orange eyes, purple lips
-(valentina \(fortnite\):1.3), fortnite, <lora:Valentina_Fortnite:0.7> ValentinaFO, Val_Ver_2, dark-skinned female, long hair, red hair, jewelry, orange eyes, makeup, necklace
-(valentina \(fortnite\):1.3), fortnite, <lora:Valentina_Fortnite:0.7> ValentinaFO, Val_Ver_3, dark-skinned female, long hair, red hair, orange eyes, purple lips
-(felina \(fortnite\):1.3), fortnite, <lora:Felina_Fortnite:0.7> FelinaFo, cyborg, mechanical arms, belt, mechanical legs
-(remi \(fortnite\):1.3), fortnite, <lora:Remi_V2:0.7> Remi_Fortnite
-(era \(fortnite\):1.3), fortnite, <lora:era_fortnite:0.7> era_fortnite, short hair, black hair, brown hair, earrings, hair ornament, makeup, lips, brown eyes
-(zoey \(fortnite\):1.3), fortnite, <lora:ZoeyFortnite:0.7> \(ZoeyFortnite\)
-(zoey \(fortnite\):1.3), fortnite <lora:Zoey_Fortnite:0.7>
-(stella \(fortnite\):1.3), fortnite, <lora:Stella_Fortnite_Character_LoRA:0.7> Stella
-(reina \(fortnite\):1.3), fortnite, <lora:Reina_XL:0.7> Reina, white hair, red eyes, eyepatch
-(gemini \(fortnite\):1.3), fortnite, <lora:Gemini:0.7> display face bunny, bunny ears, Gemini Fortnite
-(chigusa \(fortnite\):1.3), fortnite, <lora:Chigusa_Fortnite:0.7> chigusafn, green eyes, grey hair, long hair, straight hair, tattoo
-(rebel \(fortnite\):1.3), fortnite, <lora:RebelFortnite:0.7> rebelfortnite, robot girl, robot, joints, mechanical legs, robot joints
-(pumpkincat \(fortnite\):1.3), fortnite, <lora:pumpkincat_fortnite:0.7> pumpkincat_fortnite
-(hana \(fortnite\):1.3), fortnite, <lora:hanafn-guy-PONY-LyCorisV1:0.7> hanafn, green hair, lips, medium hair
-(lovely \(fortnite\):1.3), fortnite, <lora:lovely2:0.7> lovely_fortnite
-(desdemona \(fortnite\):1.3), fortnite, <lora:Desdemona:0.7> Desdemona
-(cinder \(fortnite\):1.3), fortnite, <lora:CinderPony:0.7> fncinder, dark skin, gradient hair, brown hair, orange hair, twin braids, hair over one eye, blue hoop earrings
-(cinder \(fortnite\):1.3), fortnite, <lora:CinderPony:0.7> rrcinder, dark skin, brown hair, twin braids, hair over one eye, hoop earrings, black choker
-(shimmerdusk \(fortnite\):1.3), fortnite, <lora:Shimmerdusk:0.7> shimmerdusk, pointy ears, black hair, red eyes, jewelry, earrings, long hair, multicolored hair, black lips, lipstick, makeup, vampire, tattoo
-(pj \(fortnite\):1.3), fortnite, <lora:PJFOPXL_r2:0.7> PJFOPXL, blue eyes, brown hair, long hair, hair over one eye
-(crystal \(fortnite\):1.3), fortnite, <lora:crystal:0.7> CrystalIL, black hair, brown eyes, twintails, short twintails
-(sylvie \(fortnite\):1.3), fortnite, <lora:sylvie:0.7> SylvieSDXL, ponytail, braid, freckles, blue eyes, brown hair
-(ramirez \(fortnite\):1.3), fortnite, <lora:ramirez:0.7> ramirez_fortnite
-(mizuki \(fortnite\):1.3), fortnite, <lora:Mizuki_Fortnite:0.7> Mizuki_Fortnite, long hair, ponytail, braid, hairclip, blonde hair, white hair, hair ornament, blut bangs, sidelock, makeup, lipstick, blue lips, eyeshadow, dark-skinned female, blue eyes
-(antonia \(fortnite\):1.3), fortnite, <lora:Antonia_Fortnite:0.7> Antonia_Fortnite, dark-skinned female, short hair, brown hair, multicolored hair, two-tone hair, asymmetrical hair, hair over one eye, brown eyes, jewelry, earrings, makeup
-(antonia \(fortnite\):1.3), fortnite, <lora:32dim-FN_Antonia-PONY:0.7> fnantonia
-(slurpentine \(fortnite\):1.3), fortnite, <lora:slurpetine:0.7> lurpetineIL, long hair, black hair, red eyes
-(oblivion \(fortnite\):1.3), fortnite, <lora:oblivon:0.7> oblivonSDXL, science fiction
-(opal \(fortnite\):1.3), fortnite, <lora:FN_Opal-PONY:0.7> fnopal
-(scarr \(fortnite\):1.3), fortnite, <lora:Ringmaster_Scarr:0.7> Ringmaster Scarr
-(jade \(fortnite\):1.3), fortnite, <lora:FN_Jade-PONY:0.7> fnjade
-(piper \(fortnite\):1.3), fortnite, <lora:FN_PiperPace-PONY:0.7> fnpiper
-(rox \(fortnite\):1.3), fortnite, <lora:FN_Rox-PONY:0.7> fnroxcasual
-(rox \(fortnite\):1.3), fortnite, <lora:FN_Rox-PONY:0.7> fnroxsuit
-(malice \(fortnite\):1.3), fortnite, <lora:FN_Malice-PONY:0.7> fnmalice
-(dusty \(fortnite\):1.3), fortnite, <lora:32dim-FN_Dusty-PONY:0.7> dustydef
-(dusty \(fortnite\):1.3), fortnite, <lora:32dim-FN_Dusty-PONY:0.7> dustyalt
-(shiver \(fortnite\):1.3), fortnite, <lora:FN_Shiver-PONY:0.7> fnshiver
+(lennox rose \(fortnite\):1.3), fortnite, <lora:LennoxRoseFOPXL:1> LennoxRoseFOPXL, pink eyes, blonde hair, pink hair, multicolored hair, long twintails, sidelocks, blunt bangs,
+(mae \(fortnite\):1.3), fortnite, <lora:Mae_Fortnite:1> mae from fortnite, purple eyes, lavender hair, multicolored hair, twintails, hoop earrings
+(yuki \(fortnite\):1.3), fortnite, <lora:Yuki (Fortnite) IL:1> fnyuki
+(valeria \(fortnite\):1.3), fortnite, <lora:Valeria:1> Valeria
+(valeria \(fortnite\):1.3), fortnite, <lora:valeria:1> valeria_fortnite
+(stray \(fortnite\):1.3), fortnite, <lora:Stray:1> stray \(fortnite\)
+(persephone \(fortnite\):1.3), fortnite, <lora:Persephone__Fortnite:1> FN_Persephone
+(dark bomber \(fortnite\):1.3), fortnite, <lora:Dark_Bomber_FortnitePonyLora:1>
+(iconica prime \(fortnite\):1.3), fortnite, <lora:Iconica_Prime_Fortnite:1> IconicaPrimeF, dark-skinned female, pink hair, dreadlocks, long hair, twintails, green eyes
+(katalina \(fortnite\):1.3), fortnite, <lora:FN_Katalina:1> FN_Katalina
+(katalina \(fortnite\):1.3), fortnite, <lora:k4t4l1n4:1> k4t4l1n4
+(nix scarlett \(fortnite\):1.3), fortnite, <lora:Nix_Scarlett__FORTNITE:1>
+(ark \(fortnite\):1.3), fortnite, <lora:Ark_Fortnite_PXL_Leaf1:1> ark, white hair, short hair, blue eyes, lipstick, halo
+(ark \(fortnite\):1.3), fortnite, <lora:Ark_Fortnite_PXL_Leaf1:1> ark_Shadow, black hair, short hair, no pupils, glowing eyes, red lipstick, glowing halo, white halo
+(renegade raider \(fortnite\):1.3), <lora:Renegade_Raider:1> Renegade Raider
+(evie \(fortnite\):1.3), fortnite, <lora:Summitseeker_Evie__Fortnite:1> FN_Summitseeker_Evie
+(evie \(fortnite\):1.3), fortnite, <lora:EvieFN2:1> EvieFN, short hair, black hair, hoop earrings, brown eyes, choker
+(evie \(fortnite\):1.3), fortnite, <lora:EvieFN2:1> EvieSyn, short hair, hoop earrings, brown eyes
+(evie \(fortnite\):1.3), fortnite, <lora:Evie_-_Fortnite_Illustrious:1> Evie, black eyes, short hair, bobcut hair, bangs, red lipstick, makeup, black eyeshadow, red and blue hoop earrings
+(sparkle diva \(fortnite\):1.3), fortnite, <lora:Sparkle_Diva:1> SparkleDiva, pink eyes, bright makeup, blue lipstick, blue hair, two high buns, pink highlights
+(luna \(fortnite\):1.3), fortnite, <lora:DarkFortnite:1> drk, halo, two-tone wings, black hair, short hair, green eyes, facial mark, nose piercing, nose ring
+(luna \(fortnite\):1.3), fortnite, <lora:DarkFortniteilluLoRA:1> drk, halo, two-tone wings, black hair, short hair, green eyes, facial mark, nose piercing, nose ring
+(poison ivy \(fortnite\):1.3), fortnite, <lora:Poison_Ivy_Fortnite:1> PoisonIvyF, red hair, long hair, green eyes, red nails, makeup, pointy ears, lipstick
+(saeko \(fortnite\):1.3), fortnite, long hair, black hair, hair between eyes, blue eyes, red lips, lipstick <lora:Spirit_Hunter_Saeko_Fortnite:1> SHSaeko, Outfit1
+(saeko \(fortnite\):1.3), fortnite, long hair, black hair, hair between eyes, orange eyes, golden lips, lipstick, <lora:Spirit_Hunter_Saeko_Fortnite:1> SHSaeko, Outfit2
+(saeko \(fortnite\):1.3), fortnite, long hair, black hair, hair between eyes, blue eyes, silver lips, lipstick, <lora:Spirit_Hunter_Saeko_Fortnite:1> SHSaeko, Outfit3
+(midnight dusk \(fortnite\):1.3), fortnite, <lora:Midnight_Dusk_Fortnite:1> MidnightDuskF, colored skin, grey skin, long hair, pink hair, black lips, lipstick, red eyes
+(tsuki \(fortnite\):1.3), fortnite, <lora:Tsuki:1> tsukiog
+(tsuki \(fortnite\):1.3), fortnite, <lora:Tsuki_Final:1> tsuki, tsukiv2
+(tsuki \(fortnite\):1.3), fortnite, <lora:Tsuki_Final:1> tsuki, tsuki_human
+(tsuki \(fortnite\):1.3), fortnite, <lora:Tsuki_Final:1> tsuki, android
+(rio \(fortnite\):1.3), fortnite, <lora:Fortnite DoublecrossilluLoRA:1> dbblecrss, dark skin, long hair, ponytail, earrings, eyepatch, hair flower
+(rio \(fortnite\):1.3), fortnite, <lora:Fortnite DoublecrossPonyLoRA:1> dbblecrss, dark skin, long hair, ponytail, earrings, eyepatch, hair flower
+(the mechanist \(fortnite\):1.3), fortnite, <lora:checkpoint-e18_s486:1> brown hair, short hair tied in two pigtails
+(the mechanist \(fortnite\):1.3), fortnite, <lora:The_Mechanist_Fortnite:1> MechanistFort, short hair, black hair
+(the mechanist \(fortnite\):1.3), fortnite, <lora:themachinist:1> themachinist_fortnite
+(the mechanist \(fortnite\):1.3), fortnite, <lora:FN_Machinist-PONY:1> fnmachinist
+(ruby shadows \(fortnite\):1.3), fortnite, <lora:Ruby_Shadows_Fortnite:1> RubyShadows, black hair, long hair
+(marigold \(fortnite\):1.3), fortnite, <lora:Fortnite MarigoldilluLoRA:1> mrigld, short hair, heterochromia, scar over eye, golden arm, golden finger, colored skin
+(marigold \(fortnite\):1.3), fortnite, <lora:Fortnite MarigoldPonyLoRA:1> mrigld, short hair, heterochromia, scar over eye
+(marigold \(fortnite\):1.3), fortnite, <lora:Marigold_Fortnite:1> MarigoldFO, black hair, heterochromia, yellow eyes, white eyes, short hair, black lips, lipstick, makeup, pale skin
+(dj bop \(fortnite\):1.3), fortnite, <lora:djbob:1> djbob, animal ears, purple hair, rabbit ears, colored skin
+(mina park \(fortnite\):1.3), fortnite, <lora:Mina_Park_Fortnite:1> Mina_Park, short hair, pink hair, hairband, jewelry, ear piercing, makeup
+(kate bishop \(fortnite\):1.3), fortnite, <lora:Fortnite Kate BishopilluLoRA:1> kate, ponytail, bangs
+(kate bishop \(fortnite\):1.3), fortnite, <lora:Kate BishopPonyLora:1> kate, ponytail, bangs
+(cate meowdy \(fortnite\):1.3), fortnite, <lora:CateMeowdy:1> cate meowdy, furry female, cat girl, cat ears, ponytail, blue-orange-white fur, arm tattoo, cat tail, black eyes
+(cate meowdy \(fortnite\):1.3), fortnite, <lora:CateMeowdyFortnite:1> CateMeowdyFN, anthro, calico, simple face, multicolor fur, ears, cat ears, cat tail, furry, animal ears, body fur, arm markings, ponytail,
+(ava-tarr \(fortnite\):1.3), fortnite, <lora:Tarr:1> Ava-Tarr, colored skin, purple skin, multicolored skin, long hair, gradient hair, glowing hair, long twintails, animal ears, hair over one eye, solid circle eyes, no pupils, no mouth
+(king kong \(fortnite\):1.3), fortnite, <lora:King_Kong_Fortnite__Illustrious_:1> King Kong, (genderswap:1.5)
+(aphrodite \(fortnite\):1.3), fortnite, <lora:Aphrodite_Fortnite:1> Aphrodite, short hair, white hair, brown eyes
+(aphrodite \(fortnite\):1.3), fortnite, <lora:Aphrodite_Fortnite:1> Aphrodite \(Goddess Mode\), pink hair, pink skin, purple skin, yellow colored inner hair
+(aphrodite \(fortnite\):1.3), fortnite <lora:Aphrodite_Fortnite-000005:1>
+(aphrodite \(fortnite\):1.3), fortnite <lora:Aphrodite_Fortnite_PONY:1>
+(aphrodite \(fortnite\):1.3), fortnite, <lora:FN_Aphrodite-PONY:1> aphrodef
+(aphrodite \(fortnite\):1.3), fortnite, <lora:FN_Aphrodite-PONY:1> aphroimo
+(ice spice \(fortnite\):1.3), fortnite, <lora:Icespice2:1> IcespiceFN, long hair, orange hair, blunt bangs
+(serenade \(fortnite\):1.3), fortnite, <lora:SerenadeFortnite:1> srndfrtnt
+(aubrey \(fortnite\):1.3), fortnite <lora:Aubrey_Fortnite:1>
+(persephone \(fortnite\):1.3), fortnite, <lora:Persephone :1> Persephone
+(carolina \(fortnite\):1.3), fortnite, <lora:Carolina_-_Fortnite_Pony:1> carolina, hair flower, hair ornament, flower, blonde hair, long hair, hoop earrings, earrings
+(harlowe \(fortnite\):1.3), fortnite, <lora:Harlowe_-_Fortnite:1> pink skin, white hair, medium hair, green eyes
+(catalyst \(fortnite\):1.3), fortnite, <lora:Catalyst_Fortnite:1> CatalystFN
+(valentina \(fortnite\):1.3), fortnite, <lora:Valentina_Fortnite:1> ValentinaFO, Val_Ver_1, dark-skinned female, long hair, black hair, orange eyes, purple lips
+(valentina \(fortnite\):1.3), fortnite, <lora:Valentina_Fortnite:1> ValentinaFO, Val_Ver_2, dark-skinned female, long hair, red hair, jewelry, orange eyes, makeup, necklace
+(valentina \(fortnite\):1.3), fortnite, <lora:Valentina_Fortnite:1> ValentinaFO, Val_Ver_3, dark-skinned female, long hair, red hair, orange eyes, purple lips
+(felina \(fortnite\):1.3), fortnite, <lora:Felina_Fortnite:1> FelinaFo, cyborg, mechanical arms, belt, mechanical legs
+(remi \(fortnite\):1.3), fortnite, <lora:Remi_V2:1> Remi_Fortnite
+(era \(fortnite\):1.3), fortnite, <lora:era_fortnite:1> era_fortnite, short hair, black hair, brown hair, earrings, hair ornament, makeup, lips, brown eyes
+(zoey \(fortnite\):1.3), fortnite, <lora:ZoeyFortnite:1> \(ZoeyFortnite\)
+(zoey \(fortnite\):1.3), fortnite <lora:Zoey_Fortnite:1>
+(stella \(fortnite\):1.3), fortnite, <lora:Stella_Fortnite_Character_LoRA:1> Stella
+(reina \(fortnite\):1.3), fortnite, <lora:Reina_XL:1> Reina, white hair, red eyes, eyepatch
+(gemini \(fortnite\):1.3), fortnite, <lora:Gemini:1> display face bunny, bunny ears, Gemini Fortnite
+(chigusa \(fortnite\):1.3), fortnite, <lora:Chigusa_Fortnite:1> chigusafn, green eyes, grey hair, long hair, straight hair, tattoo
+(rebel \(fortnite\):1.3), fortnite, <lora:RebelFortnite:1> rebelfortnite, robot girl, robot, joints, mechanical legs, robot joints
+(pumpkincat \(fortnite\):1.3), fortnite, <lora:pumpkincat_fortnite:1> pumpkincat_fortnite
+(hana \(fortnite\):1.3), fortnite, <lora:hanafn-guy-PONY-LyCorisV1:1> hanafn, green hair, lips, medium hair
+(lovely \(fortnite\):1.3), fortnite, <lora:lovely2:1> lovely_fortnite
+(desdemona \(fortnite\):1.3), fortnite, <lora:Desdemona:1> Desdemona
+(cinder \(fortnite\):1.3), fortnite, <lora:CinderPony:1> fncinder, dark skin, gradient hair, brown hair, orange hair, twin braids, hair over one eye, blue hoop earrings
+(cinder \(fortnite\):1.3), fortnite, <lora:CinderPony:1> rrcinder, dark skin, brown hair, twin braids, hair over one eye, hoop earrings, black choker
+(shimmerdusk \(fortnite\):1.3), fortnite, <lora:Shimmerdusk:1> shimmerdusk, pointy ears, black hair, red eyes, jewelry, earrings, long hair, multicolored hair, black lips, lipstick, makeup, vampire, tattoo
+(pj \(fortnite\):1.3), fortnite, <lora:PJFOPXL_r2:1> PJFOPXL, blue eyes, brown hair, long hair, hair over one eye
+(crystal \(fortnite\):1.3), fortnite, <lora:crystal:1> CrystalIL, black hair, brown eyes, twintails, short twintails
+(sylvie \(fortnite\):1.3), fortnite, <lora:sylvie:1> SylvieSDXL, ponytail, braid, freckles, blue eyes, brown hair
+(ramirez \(fortnite\):1.3), fortnite, <lora:ramirez:1> ramirez_fortnite
+(mizuki \(fortnite\):1.3), fortnite, <lora:Mizuki_Fortnite:1> Mizuki_Fortnite, long hair, ponytail, braid, hairclip, blonde hair, white hair, hair ornament, blut bangs, sidelock, makeup, lipstick, blue lips, eyeshadow, dark-skinned female, blue eyes
+(antonia \(fortnite\):1.3), fortnite, <lora:Antonia_Fortnite:1> Antonia_Fortnite, dark-skinned female, short hair, brown hair, multicolored hair, two-tone hair, asymmetrical hair, hair over one eye, brown eyes, jewelry, earrings, makeup
+(antonia \(fortnite\):1.3), fortnite, <lora:32dim-FN_Antonia-PONY:1> fnantonia
+(slurpentine \(fortnite\):1.3), fortnite, <lora:slurpetine:1> lurpetineIL, long hair, black hair, red eyes
+(oblivion \(fortnite\):1.3), fortnite, <lora:oblivon:1> oblivonSDXL, science fiction
+(opal \(fortnite\):1.3), fortnite, <lora:FN_Opal-PONY:1> fnopal
+(scarr \(fortnite\):1.3), fortnite, <lora:Ringmaster_Scarr:1> Ringmaster Scarr
+(jade \(fortnite\):1.3), fortnite, <lora:FN_Jade-PONY:1> fnjade
+(piper \(fortnite\):1.3), fortnite, <lora:FN_PiperPace-PONY:1> fnpiper
+(rox \(fortnite\):1.3), fortnite, <lora:FN_Rox-PONY:1> fnroxcasual
+(rox \(fortnite\):1.3), fortnite, <lora:FN_Rox-PONY:1> fnroxsuit
+(malice \(fortnite\):1.3), fortnite, <lora:FN_Malice-PONY:1> fnmalice
+(dusty \(fortnite\):1.3), fortnite, <lora:32dim-FN_Dusty-PONY:1> dustydef
+(dusty \(fortnite\):1.3), fortnite, <lora:32dim-FN_Dusty-PONY:1> dustyalt
+(shiver \(fortnite\):1.3), fortnite, <lora:FN_Shiver-PONY:1> fnshiver
