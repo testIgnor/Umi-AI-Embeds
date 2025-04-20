@@ -453,7 +453,7 @@ Royalty
 [/set]
 
 [set prefix0]
-NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], <[imageformat][cowboyshot|fullbody]>, (face in frame:1.5), ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo
+NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], <[imageformat][cowboyshot|fullbody]>, (face in frame:1.7), ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo
 [/set]
 
 [set prefix1]
@@ -461,7 +461,7 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix][chanc
 [/set]
 
 [set prefix2]
-(centered in frame, symmetry:1.5), SplitScreen, split screen, split vertically, <lora:Splitscreen_XLPD:0.6>**(dividing line, split horizontally:1.7)**
+(face in frame, head in frame, centered in frame, symmetry:1.5), SplitScreen, split screen, split vertically, <lora:Splitscreen_XLPD:0.6>**(dividing line, split horizontally:1.7)**
 [/set]
 
 [set processed_prefix]
