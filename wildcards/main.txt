@@ -3,7 +3,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides]
 
-[chance 0]
+[chance 100]
 [call choose_franchise_simple]
 [/chance]
 
@@ -32,10 +32,16 @@ bottom
 [/set]
 [/chance]
 
-[chance 0]
+[chance 20]
 [set characterprompt]
 [choose]
 <[model][illu]>source_anime, (princess peach \(corrupted\):1.3), purple lips, red hair, very long hair, yellow sclera, yellow body, yellow scales, slit pupils, purple tongue, <lora:Corrupted_Princess_Peach_Tao_2Carat:1> TaoPeach, mouth nipples, lipples, multicolored breasts**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (pack leader highwire:1.3), fortnite, <lora:Pack_Leader_Highwire_-_Character:0.7> PLHighwire**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (pack leader highwire:1.3), fortnite, <lora:Highwire_from_fortnite_furry_Pony_Diffussion_ver.:0.7> Highwire, Anthro, blue inner ear, black fur, black body, blue sclera**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (pack leader highwire:1.3), fortnite, <lora:Highwire_pack_leader_illust:0.7> highwire_pack_leader_illust**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (pack leader highwire:1.3), fortnite, <lora:Highwire_illustriousXL:0.7> Highwire, blue sclera, pink eye, blue mouth, right closed eye**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (pack leader highwire:1.3), fortnite, <lora:pl-highwire:0.7> Plhighwirexl, anthro, black fur, animal ears, animal nose, purple eyes, blue sclera**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (pack leader highwire:1.3), fortnite,<lora:P_highwire:0.7> P Highwire, P Highwire, Anthro black body, white fur, blue inner ear fur, pink eyes, blue sclera, white pupils, pink face markings, blue mouth, wolf tail, wolf ears, fluffy tail, digitigrade, claws, snout**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 [/chance]
@@ -54,7 +60,6 @@ characters
 [/set]
 [set franchise]
 [choose]
-fnaf
 Fortnite
 [/choose]
 [/set]
@@ -500,8 +505,8 @@ Makes the prompt
 
 [call choose_franchise]
 
-[chance 100]
-[chance 0]
+[chance 20]
+[chance 50]
 [call make_double]
 [/chance]
 [else]
