@@ -447,6 +447,17 @@ Makes a split royalty prompt
 [/##]
 [function make_princess]
 
+[set characterType]
+myspecies
+[/set]
+[set franchise]
+Royalty
+[/set]
+
+[call set_gender]
+[call set_age_range]
+[call set_age gender="{get gender}"]
+
 [set characterprompt]
 <[model][illu]>source_anime, _=Species/Royalty=_, regal, elegant, royal family, royal, crown, tiara**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**
 [/set]
@@ -498,15 +509,14 @@ Makes the prompt
 [/##]
 [function make_prompt]
 
+[call choose_franchise]
 [call get_artist]
 [call set_gender]
 [call set_age_range]
 [call set_age gender="{get gender}"]
 
-[call choose_franchise]
-
-[chance 20]
-[chance 10]
+[chance 100]
+[chance 0]
 [call make_double]
 [/chance]
 [else]
