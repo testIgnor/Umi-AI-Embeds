@@ -32,10 +32,10 @@ bottom
 [/set]
 [/chance]
 
-[chance 20]
+[chance 40]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (princess peach \(corrupted\):1.3), purple lips, red hair, very long hair, yellow sclera, yellow body, yellow scales, slit pupils, purple tongue, <lora:Corrupted_Princess_Peach_Tao_2Carat:1> TaoPeach, mouth nipples, lipples, multicolored breasts**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (princess peach \(corrupted\):1.3), purple lips, red hair, very long hair, yellow sclera, colored skin, yellow body, yellow skin, (yellow scales, scalie, human lizard hybrid:1.3), slit pupils, purple tongue, <lora:Corrupted_Princess_Peach_Tao_2Carat:1> (TaoPeach, mouth nipples, lipples, multicolored breasts:1.2)
 <[model][illu]>source_anime, (pack leader highwire:1.3), fortnite, <lora:Pack_Leader_Highwire_-_Character:1> PLHighwire**(yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>source_anime, (pack leader highwire:1.3), fortnite, <lora:Highwire_from_fortnite_furry_Pony_Diffussion_ver.:1> Highwire, Anthro, blue inner ear, black fur, black body, blue sclera**(yellow skin, orange skin, red skin:1.5)**
 <[model][illu]>source_anime, (pack leader highwire:1.3), fortnite, <lora:Highwire_pack_leader_illust:1> highwire_pack_leader_illust**(yellow skin, orange skin, red skin:1.5)**
@@ -463,7 +463,7 @@ Royalty
 [/set]
 
 [set prefix0]
-NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], (<[imageformat][cowboyshot|fullbody]>:1.3), full body in view, ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo**(harsh shadows, tanlines, close-up, extreme close-up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0)**
+NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], (<[imageformat][cowboyshot|fullbody]>:1.3), (face in frame, head in frame, face in view, head in view, full body in view:1.7), ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines, close-up, extreme close-up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0)**
 [/set]
 
 [set prefix1]
@@ -471,7 +471,7 @@ NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][g
 [/set]
 
 [set prefix2]
-(face in frame, head in frame, face in view, head in view, symmetry:1.5), SplitScreen, split screen, <lora:Splitscreen_XLPD:1>**(dividing line, vertical line, horizontal line:1.7)**
+(centered in frame, symmetry:1.5), SplitScreen, split screen, <lora:Splitscreen_XLPD:1>**(dividing line, vertical line, horizontal line:1.7)**
 [/set]
 
 [set processed_prefix]
@@ -496,7 +496,7 @@ NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][g
 [/set]
 
 [set n_prompt]
-[get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.2)
+[get total_neg] ADDCOMM ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL ([strip-lora][get char_1p][/strip-lora]:1.2)
 [/set]
 
 [set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]

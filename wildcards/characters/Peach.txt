@@ -1,69 +1,69 @@
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:Princess_Peachピーチ姫マリオ:1> Princess Peach
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:princess_peachez:1> princess_peachez
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:Princess_Peach_IL:1> princess peach
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair <lora:PrincessPeach_Rizdraws:1>
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchBiker
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchCat
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchWestern
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchDetective
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchDoc
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchFire
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchLeotard
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchHalloween
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchHappi
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchKimono
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchKungFu
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchMermaid
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchNinja
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchPatissiere
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:Princess_Peachピーチ姫マリオ:1> Princess Peach**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:princess_peachez:1> princess_peachez**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:Princess_Peach_IL:1> princess peach**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair <lora:PrincessPeach_Rizdraws:1>**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchBiker**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchCat**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchWestern**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchDetective**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchDoc**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchFire**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchLeotard**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchHalloween**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchHappi**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchKimono**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchKungFu**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchMermaid**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchNinja**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchPatissiere**(yellow skin, orange skin, red skin:1.5)**
 (pink gold peach:1.3), no pupils, pink skin, metal skin, shiny skin, long hair, ponytail, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchPinkGold
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchShadowQueen
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchSunshine
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchStriker
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchSwimwear
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchSwordfighter
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchTanuki
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchTennis
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchVacation
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchWedding
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchWinter
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchWinterTime
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchYukata
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchBiker
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchCat
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchWestern
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchThief
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchDetective
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchDoc
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchSkater
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchFire
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchLeotard
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchHalloween
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchHappi
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchKimono
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchKungFu
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchMermaid
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchNinja
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchNurse
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchPatissiere
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchShadowQueen**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchSunshine**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchStriker**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchSwimwear**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchSwordfighter**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchTanuki**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchTennis**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchVacation**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchWedding**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchWinter**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchWinterTime**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_NoobAI_Incrs_v1:1> princess peach, IncrsPchYukata**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchBiker**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchCat**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchWestern**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchThief**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchDetective**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchDoc**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchSkater**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchFire**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchLeotard**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchHalloween**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchHappi**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchKimono**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchKungFu**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchMermaid**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchNinja**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchNurse**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchPatissiere**(yellow skin, orange skin, red skin:1.5)**
 (pink gold peach:1.3), no pupils, pink skin, metal skin, shiny skin, long hair, ponytail, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchPinkGold
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchShadowQueen
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchStriker
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchSunshine
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchSwimwear
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchSwordfighter
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchTanuki
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchTennis
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchVacation
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchWedding
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchWinter
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchWinterTime
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchYukata
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeachXL:1> princess peach
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair <lora:Princess_Peach_Shiny_Style_V3.0_Illustrious:1>
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:peach:1> peach
-(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:Princess_Peach:1> peach1x
-(princess peach \(corrupted\):1.3), purple lips, red hair, very long hair, yellow sclera, yellow body, yellow scales, slit pupils, purple tongue, <lora:Corrupted_Princess_Peach_Tao_2Carat:1> TaoPeach, mouth nipples, lipples, multicolored breasts
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchShadowQueen**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchStriker**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchSunshine**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchSwimwear**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchSwordfighter**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchTanuki**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchTennis**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchVacation**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchWedding**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchWinter**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchWinterTime**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeach_XLPD:1> princess peach, IncrsPchYukata**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:PrincessPeachXL:1> princess peach**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair <lora:Princess_Peach_Shiny_Style_V3.0_Illustrious:1>**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:peach:1> peach**(yellow skin, orange skin, red skin:1.5)**
+(princess peach:1.3), blonde hair, blue eyes, long hair, wavy hair, <lora:Princess_Peach:1> peach1x**(yellow skin, orange skin, red skin:1.5)**
+(princess peach \(corrupted\):1.3), purple lips, red hair, very long hair, yellow sclera, colored skin, yellow body, yellow skin, (yellow scales, scalie, human lizard hybrid:1.3), slit pupils, purple tongue, <lora:Corrupted_Princess_Peach_Tao_2Carat:1> (TaoPeach, mouth nipples, lipples, multicolored breasts:1.2)

@@ -475,7 +475,7 @@
   Tags:
     - Characters
     - Nintendo
-'<[model][illu]>source_anime, _=Characters/Peach=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, _=Characters/Peach=_':
   Description:
     - Peach
   Tags:
@@ -679,13 +679,13 @@
   Tags:
     - Characters
     - World Witches
-'<[model][illu]>source_anime, _=Characters/Xenoblade=_':
+'<[model][illu]>source_anime, _=Characters/Xenoblade=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Xenoblade Characters
   Tags:
     - Characters
     - Xenoblade
-'<[model][illu]>source_anime, _=Characters/Yu-Gi-Oh=_':
+'<[model][illu]>source_anime, _=Characters/Yu-Gi-Oh=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Yu-Gi-Oh Characters
   Tags:
@@ -724,7 +724,7 @@
     - Characters
     - Madoka
 
-'<[model][illu]>source_anime, _=Characters/Shantae=_':
+'<[model][illu]>source_anime, _=Characters/Shantae=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Shantae Characters
   Tags:
@@ -745,7 +745,7 @@
     - Characters
     - Frieren
 
-'<[model][illu]>source_anime, _=Characters/DunMeshi=_':
+'<[model][illu]>source_anime, _=Characters/DunMeshi=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - DunMeshi Characters
   Tags:
@@ -815,7 +815,7 @@
     - Characters
     - PStars
 
-'<[model][illu]>source_anime, _=Characters/Divinity=_':
+'<[model][illu]>source_anime, _=Characters/Divinity=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Divinity Characters
   Tags:
@@ -829,7 +829,7 @@
     - Characters
     - Celebs
 
-'<[model][pony]>source_furry, _=Characters/Ookami=_':
+'<[model][pony]>source_furry, _=Characters/Ookami=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Ookami Characters
   Tags:
@@ -875,7 +875,7 @@
   Tags:
     - Characters
     - Mechagodzilla
-'<[model][illu]>source_anime, _=Characters/Smite=_':
+'<[model][illu]>source_anime, _=Characters/Smite=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Smite Characters
   Tags:
@@ -887,7 +887,7 @@
   Tags:
     - Characters
     - Zootopia
-'<[model][illu]>source_anime, _=Characters/Mythology=_':
+'<[model][illu]>source_anime, _=Characters/Mythology=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Mythology Characters
   Tags:
@@ -950,7 +950,7 @@
     - Characters
     - Mana
 
-'<[model][pony]>_=Characters/Pochincoff=_':
+'<[model][pony]>_=Characters/Pochincoff=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Pochincoff Characters
   Tags:
@@ -971,7 +971,7 @@
     - Characters
     - Detroit
 
-'<[model][pony]>source_anime, _=Characters/pvz=_':
+'<[model][pony]>source_anime, _=Characters/pvz=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - pvz Characters
   Tags:
@@ -999,14 +999,14 @@
     - Characters
     - Cookie Run
 
-'<[model][illu]>source_furry, _=Characters/Bloodborne=_':
+'<[model][illu]>source_furry, _=Characters/Bloodborne=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Bloodborne Characters
   Tags:
     - Characters
     - Bloodborne
 
-'<[model][illu]>source_anime, _=Characters/GoT=_':
+'<[model][illu]>source_anime, _=Characters/GoT=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - GoT Characters
   Tags:
