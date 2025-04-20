@@ -529,6 +529,7 @@ class Shortcode():
         _has_options = self.Unprompted.parse_arg("_has_options", False)
         _sync_seed = self.Unprompted.parse_arg("_sync_seed", True)
 
+        seed = -1
         if _sync_seed:
             try:
                 seed = self.Unprompted.shortcode_user_vars["unprompted_seed"]
