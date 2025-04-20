@@ -463,7 +463,7 @@ Royalty
 [/set]
 
 [set prefix0]
-NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], (<[imageformat][cowboyshot|fullbody]>:1.3), (face in frame, head in frame, face in view, head in view, full body in view, zoomed out:1.5), ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines, close-up, extreme close-up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0)**
+NSFW, [get gender_short], [get artist], (<[imageformat][cowboyshot|fullbody]>:1.3), (face in frame, head in frame, face in view, head in view, full body in view, zoomed out:1.5), [get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines, close-up, extreme close-up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0)**
 [/set]
 
 [set prefix1]
@@ -471,7 +471,7 @@ NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][g
 [/set]
 
 [set prefix2]
-(centered in frame, symmetry:1.5), <lora:SplitScreen_illusXL_Incrs_v1:1> SplitScreen, split screen, upper body**(dividing line, vertical line, horizontal line:1.7)**
+(centered in frame, symmetry, upper body:1.5), <lora:SplitScreen_illusXL_Incrs_v1:1> SplitScreen, split screen**(dividing line, vertical line, horizontal line:1.7)**
 [/set]
 
 [set processed_prefix]
