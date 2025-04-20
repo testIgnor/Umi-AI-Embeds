@@ -461,7 +461,7 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix][chanc
 [/set]
 
 [set prefix2]
-(centered in frame, symmetry:1.5), SplitScreen, split screen <lora:Splitscreen_XLPD:0.6>
+(centered in frame, symmetry:1.5), SplitScreen, split screen <lora:Splitscreen_XLPD:0.6>**(dividing line:1.7)**
 [/set]
 
 [set processed_prefix]
