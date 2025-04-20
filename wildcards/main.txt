@@ -476,7 +476,7 @@ NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][g
 
 [set processed_prefix]
 [Umi]
-[get prefix0], [get prefix1], [get prefix2]
+[half-lora][get prefix0], [get prefix1][/half-lora], [get prefix2]
 [/Umi]
 [/set]
 
@@ -492,7 +492,7 @@ NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][g
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
 [set p_prompt]
-[half-lora][get total_prefix] ADDCOMM [get char_1p] ADDCOL [get char_2p][/half-lora]
+[get total_prefix] ADDCOMM [half-lora][get char_1p] ADDCOL [get char_2p][/half-lora]
 [/set]
 
 [set n_prompt]
@@ -515,8 +515,8 @@ Makes the prompt
 [call set_age_range]
 [call set_age gender="{get gender}"]
 
-[chance 20]
-[chance 33]
+[chance 100]
+[chance 0]
 [call make_double]
 [/chance]
 [else]
