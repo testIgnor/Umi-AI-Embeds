@@ -452,7 +452,7 @@ Makes a split royalty prompt
 [/set]
 
 [set prefix0]
-NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], (<[imageformat][cowboyshot|fullbody]>:1.3), ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo**(closeup, extreme closeup:1.7)**
+NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], (<[imageformat][cowboyshot|fullbody]>:1.3), ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo**(harsh shadows, tanlines, close-up, extreme close-up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0)**
 [/set]
 
 [set prefix1]
@@ -460,7 +460,7 @@ NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][g
 [/set]
 
 [set prefix2]
-(face in frame, head in frame, symmetry:1.5), SplitScreen, split screen, <lora:Splitscreen_XLPD:1>**(dividing line, vertical line, horizontal line:1.7), (face out of frame, no eyes, no mouth:2.0)**
+(face in frame, head in frame, symmetry:1.5), SplitScreen, split screen, <lora:Splitscreen_XLPD:1>**(dividing line, vertical line, horizontal line:1.7)**
 [/set]
 
 [set processed_prefix]
@@ -472,11 +472,11 @@ NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][g
 [set total_prefix][choose _case=0][get processed_prefix][/choose][/set]
 [set total_neg][choose _case=1][get processed_prefix][/choose][/set]
 
-[set char_1][Umi _sync_seed=0]<[Racethnicity]>, <[HairColor][Natural]>[/Umi][/set]
+[set char_1][Umi _sync_seed=0]<[Racethnicity][light]>, <[HairColor][Natural]>[/Umi][/set]
 [set char_1p][choose _case=0][get char_1][/choose][/set]
 [set char_1n][choose _case=1][get char_1][/choose][/set]
 
-[set char_2][Umi _sync_seed=0]<[Racethnicity]>, <[HairColor][Natural]>[/Umi][/set]
+[set char_2][Umi _sync_seed=0]<[Racethnicity][dark]>, <[HairColor][Natural]>[/Umi][/set]
 [set char_2p][choose _case=0][get char_2][/choose][/set]
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
@@ -485,7 +485,7 @@ NSFW, [get gender_short], [get artist], [get characterprompt], [get ageprompt][g
 [/set]
 
 [set n_prompt]
-[get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.5)
+[get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.2)
 [/set]
 
 [set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
