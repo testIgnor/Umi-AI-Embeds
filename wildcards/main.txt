@@ -3,7 +3,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides]
 
-[chance 100]
+[chance 0]
 [call choose_franchise_simple]
 [/chance]
 
@@ -474,10 +474,6 @@ NSFW, [get gender_short], [get artist], (<[imageformat][cowboyshot|fullbody]>:1.
 (centered in frame, symmetry:1.5), <lora:SplitScreen_illusXL_Incrs_v1:1> SplitScreen, split screen**(dividing line, vertical line, horizontal line:1.7)**
 [/set]
 
-[set prefix2]
-(centered in frame, symmetry:1.5),  <lora:Split_Style_Concept:1> splitstyle, splitscreen, split screen, split theme, two distinct halves**(dividing line, vertical line, horizontal line:1.7)**
-[/set]
-
 [set processed_prefix]
 [Umi]
 [half-lora][get prefix0], [get prefix1][/half-lora], [get prefix2]
@@ -503,7 +499,7 @@ NSFW, [get gender_short], [get artist], (<[imageformat][cowboyshot|fullbody]>:1.
 [get total_neg] ADDCOMM ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL ([strip-lora][get char_1p][/strip-lora]:1.2)
 [/set]
 
-[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Pony]>[/Umi][/choose][/set]
+[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
 
 [/function]
 
@@ -519,8 +515,8 @@ Makes the prompt
 [call set_age_range]
 [call set_age gender="{get gender}"]
 
-[chance 80]
-[chance 20]
+[chance 100]
+[chance 0]
 [call make_double]
 [/chance]
 [else]
