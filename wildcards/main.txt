@@ -86,22 +86,37 @@ Overwatch
 [/set]
 [/chance]
 
-[chance 0]
-[set characterType]
-[choose]
-myspecies
-[/choose]
-[/set]
-[set franchise]
-[choose]
-primates
-[/choose]
-[/set]
-[/chance]
-
 [set characterprompt]
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
+[/function]
+
+
+[##]
+Makes the prompt
+[/##]
+[function make_prompt]
+
+[call choose_franchise]
+[call get_artist]
+[call set_gender]
+[call set_age_range]
+[call set_age gender="{get gender}"]
+
+[chance 66]
+[chance 33]
+[call make_double]
+[/chance]
+[else]
+[call make_princess]
+[/else]
+[/chance]
+[else]
+[call make_single]
+[/else]
+
+[call set_model]
+
 [/function]
 
 
@@ -504,34 +519,6 @@ NSFW, [get gender_short], [get artist], (full body, full body picture, full body
 [/set]
 
 [set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
-
-[/function]
-
-
-[##]
-Makes the prompt
-[/##]
-[function make_prompt]
-
-[call choose_franchise]
-[call get_artist]
-[call set_gender]
-[call set_age_range]
-[call set_age gender="{get gender}"]
-
-[chance 66]
-[chance 33]
-[call make_double]
-[/chance]
-[else]
-[call make_princess]
-[/else]
-[/chance]
-[else]
-[call make_single]
-[/else]
-
-[call set_model]
 
 [/function]
 
