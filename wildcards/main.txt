@@ -511,7 +511,7 @@ NSFW, [get gender_short], [get artist], (full body, full body picture, full body
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
 [set p_prompt]
-[get total_prefix] ADDCOMM [half-lora][get char_1p] ADDCOL [get char_2p][/half-lora]
+[get total_prefix] ADDCOMM [half-lora]([get char_1p]:1.3) ADDCOL ([get char_2p]:1.6)[/half-lora]
 [/set]
 
 [set n_prompt]
