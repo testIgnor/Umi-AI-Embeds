@@ -402,6 +402,9 @@ NSFW, [get gender_short], [get artist], [get ageprompt][get gender_suffix], <[im
 kissing
 making out
 hugging
+cuddling
+groping each other
+holding hands
 posing together
 [/choose]
 [/set]
