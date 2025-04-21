@@ -3,7 +3,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides]
 
-[chance 0]
+[chance 50]
 [call choose_franchise_simple]
 [/chance]
 
@@ -32,7 +32,7 @@ bottom
 [/set]
 [/chance]
 
-[chance 40]
+[chance 0]
 [set characterprompt]
 [choose]
 <[model][illu]>source_anime, (princess peach \(corrupted\):1.3), purple lips, red hair, very long hair, yellow sclera, colored skin, yellow body, yellow skin, (yellow scales, scalie, human lizard hybrid:1.3), slit pupils, purple tongue, <lora:Corrupted_Princess_Peach_Tao_2Carat:1> (TaoPeach, mouth nipples, lipples, multicolored breasts:1.2)
@@ -60,7 +60,8 @@ characters
 [/set]
 [set franchise]
 [choose]
-Fortnite
+Godzilla
+Mechagodzilla
 [/choose]
 [/set]
 
@@ -466,7 +467,7 @@ Royalty
 [/set]
 
 [set prefix0]
-NSFW, [get gender_short], [get artist], (<[imageformat][cowboyshot|fullbody]>:1.3), (full body in view, zoomed out, upper body, full body:1.4), [get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], <[eznude][get eff_gen _before=[ _after=]]>, ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines, close-up, extreme close-up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0)**
+NSFW, [get gender_short], [get artist], (full body, full body picture, full body in view, zoomed out:1.7), [get characterprompt], [get ageprompt][get gender_suffix][chance 10], <[ezpreg]>[/chance], <[eznude][get eff_gen _before=[ _after=]]>, ([call wildcards/MyLocation]:1.3), <[EZEmotion]>, <[GazeFormat]>, solo**(2girls, 3girls, 4girls:2.0), (harsh shadows, tanlines, close-up, extreme close-up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0)**
 [/set]
 
 [set prefix1]
@@ -474,7 +475,7 @@ NSFW, [get gender_short], [get artist], (<[imageformat][cowboyshot|fullbody]>:1.
 [/set]
 
 [set prefix2]
-(centered in frame, symmetry:1.5), <lora:SplitScreen_illusXL_Incrs_v1:1> SplitScreen, split screen**(dividing line, vertical line, horizontal line:1.7)**
+(centered in frame, symmetry:1.5), upper body, <lora:SplitScreen_illusXL_Incrs_v1:1> SplitScreen, split screen**(dividing line, vertical line, horizontal line:1.7)**
 [/set]
 
 [set processed_prefix]
@@ -518,8 +519,8 @@ Makes the prompt
 [call set_age_range]
 [call set_age gender="{get gender}"]
 
-[chance 100]
-[chance 0]
+[chance 66]
+[chance 33]
 [call make_double]
 [/chance]
 [else]
