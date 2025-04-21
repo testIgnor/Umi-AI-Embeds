@@ -499,7 +499,7 @@ NSFW, [get gender_short], [get artist], (<[imageformat][cowboyshot|fullbody]>:1.
 [get total_neg] ADDCOMM ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL ([strip-lora][get char_1p][/strip-lora]:1.2)
 [/set]
 
-[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
+[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Pony]>[/Umi][/choose][/set]
 
 [/function]
 
