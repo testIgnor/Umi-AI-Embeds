@@ -103,7 +103,7 @@ Makes the prompt
 [call set_age_range]
 [call set_age gender="{get gender}"]
 
-[chance 66]
+[chance 20]
 [chance 33]
 [call make_double]
 [/chance]
