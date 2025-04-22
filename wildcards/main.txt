@@ -103,8 +103,8 @@ Makes the prompt
 [call set_age_range]
 [call set_age gender="{get gender}"]
 
-[chance 15]
-[chance 33]
+[chance 100]
+[chance 0]
 [call make_double]
 [/chance]
 [else]
@@ -482,7 +482,7 @@ Royalty
 [/set]
 
 [set prefix0]
-NSFW, ([get gender_short], solo:1.7), [get characterprompt], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>, [get artist], (full body:1.5)[chance 10], <[ezpreg]>[/chance], (<[eznude][get eff_gen _before=[ _after=]]>:1.4), ([call wildcards/MyLocation]:1.3), solo**(2girls, 3girls, 4girls, person in background, people in background:2.0), (harsh shadows, tanlines, close-up, extreme close-up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0)**
+NSFW, ([get gender_short], solo:1.7), [get characterprompt], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>, [get artist], (full body:1.5)[chance 10], <[ezpreg]>[/chance], (<[eznude][get eff_gen _before=[ _after=]]>:1.4), ([call wildcards/MyLocation]:1.3), solo**(2girls, 3girls, 4girls, person in background, people in background, 2futas, 3futas, 4futas, 2boys, 3boys, 4boys:2.0), (harsh shadows, tanlines, close-up, extreme close-up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0)**
 [/set]
 
 [set prefix1]
