@@ -1055,9 +1055,16 @@
     - Characters
     - Diablo
 
-_=Characters/SCP=_**(yellow skin, orange skin, red skin:1.5)**':
+'_=Characters/SCP=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - SCP Characters
   Tags:
     - Characters
     - SCP
+
+'<[model][illu]>source_anime, _=Characters/Dragon Age=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Dragon Age Characters
+  Tags:
+    - Characters
+    - Dragon Age

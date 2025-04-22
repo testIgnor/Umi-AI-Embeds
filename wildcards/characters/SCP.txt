@@ -10,3 +10,6 @@
 <[model][illu]>source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair <lora:yamamura sadako-PonyXL-lora-Faxtron:1>
 <[model][illu]>source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair, <lora:YamamuraSadakoPonyXL:1> yamamura sadako, the ring
 <[model][illu]>source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair, <lora:sadako:1> SadakoIL, yamamura sadako
+<[model][illu]>source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:m3gan-pxl:1> M3GAN
+<[model][illu]>source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:M3GAN_V1:1> m3gandoll
+<[model][illu]>source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:SheFailedToProtectCady:1> M3GAN

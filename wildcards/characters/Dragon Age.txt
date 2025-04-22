@@ -1,0 +1,32 @@
+(the lady of the forest:1.3), dragon age, <lora:ILLU_The_Lady_of_the_Forest_DAO_by_SulfurSniffer:1> ss-l0fda0-illu, monster girl, long hair, black hair, green skin, black sclera, yellow eyes, slit pupils, covered in vines, hair over one eye, clawed hands
+(taash \(dragon age\):1.3), dragon age, teal eyes, blue-grey skin, broad shoulders, muscular, <lora:Taash_V2:1> Taa5h
+(taash \(dragon age\):1.3), dragon age, teal eyes, blue-grey skin, broad shoulders, muscular, <lora:Dragon_Age_Veilguard_-_Taash:1> taash, qunari
+(sera \(dragon age\):1.3), dragon age, short hair, blonde hair, blue eyes, pointy ears, <lora:ILDAISera:1> DAISera
+(sera \(dragon age\):1.3), dragon age, short hair, blonde hair, blue eyes, pointy ears, <lora:DAISera:1> DAISera
+(cassandra \(dragon age\):1.3), dragon age, <lora:DAI_Cassandra:1> Pentaghast
+(cassandra \(dragon age\):1.3), dragon age, <lora:Cassandra131:1> CASSANDRAxl
+(josephine \(dragon age\):1.3), dragon age, black hair, brown eyes, tanned skin, <lora:ILDAJosephine:1> DAJosephine
+(josephine \(dragon age\):1.3), dragon age, black hair, brown eyes, tanned skin, <lora:DAJosephine:1> DAJosephine
+(neve gallus:1.3), dragon age, black hair, long hair, brown eyes, dark skin, <lora:ANaveGallus_character:1> NaveGallus
+(neve gallus:1.3), dragon age, black hair, long hair, brown eyes, dark skin, <lora:DVNeve:1> DVNeve
+(neve gallus:1.3), dragon age, black hair, long hair, brown eyes, dark skin, <lora:ILDVNeve:1> DVNeve
+(bellara \(dragon age\):1.3), dragon age, brown hair, hair bun, brown eyes, facial marks, pointy ears, earring, <lora:ILDVBellara:1> DVBellara
+(bellara \(dragon age\):1.3), dragon age, brown hair, hair bun, brown eyes, facial marks, pointy ears, earring, <lora:DVBellara:1> DVBellara
+(lace harding:1.3), dragon age, freckles, short hair, red hair, brown hair, short hair, green eyes, <lora:ALaceHarding_character:1> LaceHarding
+(lace harding:1.3), dragon age, freckles, short hair, red hair, brown hair, short hair, green eyes, <lora:ILDVHarding:1> DVHarding
+(leliana \(dragon age\):1.3), dragon age, orange hair, blue eyes, short hair, <lora:DALeliana:1> DALeliana
+(leliana \(dragon age\):1.3), dragon age, orange hair, blue eyes, short hair, <lora:dai_leliana01:1> leliana
+(desire demon \(dragon age\):1.3), dragon age, demon girl, black sclera, yellow eyes, horns, colored skin, purple skin, purple facial marking, (glowing facial marking),  purple fire hair,  demon tail, <lora:Desire_DemonDragon_Age_-_ILLU_by_SulfurSniffer:1> ss-d3sd3m-illu
+(desire demon \(dragon age\):1.3), dragon age, demon girl, black sclera, yellow eyes, horns, colored skin, purple skin, purple facial marking, (glowing facial marking),  purple fire hair,  demon tail, <lora:DesireDemon:1> d3sired3monda
+(isabela \(dragon age\):1.3), dragon age, black hair, brown eyes, tan, dark skin, chin piercing, hazel eyes, <lora:DAIsabella:1> DAIsabella
+(isabela \(dragon age\):1.3), dragon age, black hair, brown eyes, tan, dark skin, chin piercing, hazel eyes, <lora:Isabela_Dragon_Age_The_Veilguard_Pony:1> Isabela
+(isabela \(dragon age\):1.3), dragon age, black hair, brown eyes, tan, dark skin, chin piercing, hazel eyes <lora:Isabela_DA:1>
+(isabela \(dragon age\):1.3), dragon age, black hair, brown eyes, tan, dark skin, chin piercing, hazel eyes, <lora:Isabela_from_Dragon_age_2_-_ILLU_character_model_by_SulfurSniffer:1> ss-isad2-illu
+(morrigan \(dragon age\):1.3), dragon age, black hair, yellow eyes, hair updo, short hair, <lora:DAMorrigan:1> DAMorrigan
+(morrigan \(dragon age\):1.3), dragon age, black hair, yellow eyes, hair updo, short hair, <lora:morriganDA-guy90-Illust-LoraV1:1> nagrom
+(morrigan \(dragon age\):1.3), dragon age, black hair, yellow eyes, hair updo, short hair, <lora:Morrigan_-_IL:1> Morrigan_DAO
+(morrigan \(dragon age\):1.3), dragon age, black hair, yellow eyes, hair updo, short hair, <lora:Morrigan_-_Dragon_Age_Origins:1> Morrigan_DAO
+(morrigan \(dragon age\):1.3), dragon age, black hair, yellow eyes, hair updo, short hair, <lora:MorriganDwnsty:1> morrigan_da
+(merrill \(dragon age\):1.3), dragon age, pointy ears, face tattoo, facial mark, short hair, black hair, green eyes, <lora:Merrill_Dragon_Age_PonyILL:1> DAmerrill
+(merrill \(dragon age\):1.3), dragon age, pointy ears, face tattoo, facial mark, short hair, black hair, green eyes, <lora:Merrill_Dragon_age_2:1> SulfS-M3rr1LL
+(sapphira \(dragon age\):1.3), dragon age, long hair, black hair, brown eyes, dark skin, dark-skinned female, makeup, lipstick, ponytail, <lora:dragonage-sapphira-anime-ponyxl-lora-nochekaiser:1>, sapphira
