@@ -500,7 +500,7 @@ NSFW, ([get gender_short], solo:1.7), [get characterprompt], [get ageprompt][get
 [/set]
 
 [set prefix2]
-(centered in frame, symmetry:1.3), <lora:SplitScreen_illusXL_Incrs_v1:1> SplitScreen, split screen**(dividing line, vertical line, horizontal line:1.7)**
+(centered in frame, symmetry:1.6), <lora:SplitScreen_illusXL_Incrs_v1:1> SplitScreen, split screen**(dividing line, vertical line, horizontal line:1.7)**
 [/set]
 
 [set processed_prefix]
