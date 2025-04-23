@@ -1,5 +1,47 @@
 (yagami hikari:1.3), brown hair, brown eyes, short hair
-(makino ruki:1.3), brown hair, short hair, blue eyes, ponytail
+(yagami hikari:1.3), brown hair, brown eyes, short hair, <lora:Hikari_Yagami:1> kari yagami
+(yagami hikari:1.3), brown hair, brown eyes, short hair, <lora:Hikari_Yagami__Digimon_Adventure_illustrious:1> hikari yagami, digimon adventure
+(yagami hikari:1.3), brown hair, brown eyes, short hair <lora:Hikari_illus:1>
+(yagami hikari:1.3), brown hair, brown eyes, short hair, <lora:yagami_hikari:1> hikari_yagami
+(yagami hikari:1.3), brown hair, brown eyes, short hair <lora:Kari__Yolei_v2:1>
+(yagami hikari:1.3), brown hair, brown eyes, short hair, <lora:hikari-yagami-ponyxl-lora-nochekaiser:1> hikari yagami
 (kari kamiya:1.3), brown hair, brown eyes, short hair
+(kari kamiya:1.3), brown hair, brown eyes, short hair, <lora:KariDA2PXL:1> KariDA2PXL
 (hikari kamiya:1.3), brown hair, brown eyes, short hair
-(rika nonaka:1.3), brown hair, short hair, blue eyes, ponytail
+(makino ruki:1.3), brown hair, short hair, blue eyes, ponytail
+(makino ruki:1.3), orange hair, red hair, two-tone hair, short hair, blue eyes, ponytail, <lora:makino_ruki:1> ruki_makino
+(rika nonaka:1.3), orange hair, red hair, two-tone hair, short hair, blue eyes, ponytail
+(rika nonaka:1.3), orange hair, red hair, two-tone hair, short hair, blue eyes, ponytail, <lora:Rika_Nonaka_Digimon_Tamers_-_Pony:1> RNonaka
+(rika nonaka:1.3), orange hair, red hair, two-tone hair, short hair, blue eyes, ponytail <lora:RukiJuri:1>
+(kinosaki arisa:1.3), <lora:Kinosaki_Arisa:1> arisa, brown hair, brown eyes, medium hair
+(kimishima saki:1.3), <lora:Kimishima_Saki:1> saki
+(orimoto izumi:1.3), <lora:orimoto_izumi:1> izumi_orimoto, long hair, blonde hair, green eyes
+(orimoto izumi:1.3), <lora:Izumi_ZOE:1> long hair, blonde hair, green eyes
+(orimoto izumi:1.3), <lora:Izumi_Orimoto__zoe_orimoto_Illustrious_V1:1> digimon frontier, izumi orimoto, zoe orimoto, long hair, blonde hair, green eyes
+(sarah damon:1.3), cherry auburn hair, green eyes, drill hair, hair over shoulder, <lora:IL_Sarah_Damon:1> sarahdamon
+(sarah damon:1.3), cherry auburn hair, green eyes, drill hair, hair over shoulder, <lora:PONY_Sarah_Damon:1> sarah
+(eri karan:1.3), <lora:eri Karan illu:1> erikaran
+(tachikawa mimi:1.3), <lora:Mimi_Tachikawa__Digimon_Adventure_illustrious:1> long hair, pink hair, multicolored hair, brown eyes, streaked hair
+(tachikawa mimi:1.3), <lora:MimiSora:1> long hair, pink hair, multicolored hair, brown eyes, streaked hair
+(tachikawa mimi:1.3), <lora:Mimi_tachikawa_Digimon_adventure_02_Illtustrious_V1_r2:1> digimon adventure 02, mimi tachikawa, long hair, pink hair, multicolored hair, brown eyes, streaked hair
+(tachikawa mimi:1.3), <lora:Mimi_tachikawa_pony_xl:1> digimon adventure 02, mimi tachikawa, long hair, pink hair, multicolored hair, brown eyes, streaked hair
+(mikagura mirei:1.3), <lora:Mirei_Mikagura_IL_v2:1> mikaguramirei, purple hair, medium hair, purple eyes, no pupils, glasses, purple glasses
+(catherine deneuve:1.3), <lora:Catherine_Deneuvei_IllustXL:1> catherine_deneuve, long hair, blonde hair, bangs, blue eyes, blunt bangs
+(shibuya aoi:1.3), <lora:Shibuya_Aoi:1> shibuyaaoi, black hair, black eyes, ponytail
+(amano nene:1.3), Brown hair, high ponytail, purple eyes, jewelry, <lora:Amano_Nene:1> nene, necklace, split ponytail
+(amano nene:1.3), <lora:Nene__Akari_Pony:1> Brown hair, high ponytail, purple eyes, jewelry, split ponytail
+(amano nene:1.3), <lora:Nene_amano_V2:1> digimon, digimon xros wars, amano nene \(digimon xros wars\), split ponytail, Brown hair, high ponytail, purple eyes, jewelry
+(tsukiyono ruli:1.3), <lora:Ruli_DGG_Pony:1> Brown hair, long hair, sidelocks, Low-Tied Long Hair, blunt bangs, purple eyes
+(hinomoto akari:1.3), <lora:Nene__Akari_Pony:1> red hair, yellow eyes, twintails
+(shiramine nokia:1.3), <lora:diginokia-pdxl-nvwls-v1:1> digiNokia, red hair, twintails
+(inoue miyako:1.3), <lora:Kari__Yolei_v2:1> long hair, purple hair, brown eyes, glasses, forehead
+(makiko date:1.3), <lora:makiko_date-cybersleuth-koto-PonyXL:1> datmai, brown hair, medium hair, gradient hair, blonde hair, brown eyes
+(katou juri:1.3) <lora:RukiJuri:1>
+(takenouchi sora:1.3) <lora:MimiSora:1>, orange hair, maroon eyes, medium hair
+(takenouchi sora:1.3), <lora:Digimon_Adventure_tri._-_Sora_Takenouchi:1> sora_takenouchi_tri, orange hair, maroon eyes, medium hair
+(oofuchi himari:1.3), <lora:Himari_Oofuchi:1> himari_digimon, tan skin, purple hair, purple eyes
+(sayo \(digimon\):1.3), <lora:digimon_sayo_ill_v01:1> digisayo, purple hair, long hair, hair between eyes, purple eyes
+(sayo \(digimon\):1.3), <lora:DMS_sayoXLIllustrious001:1> sayo \(digimon_story\), purple hair, long hair, hair between eyes, purple eyes
+(sayo \(digimon\):1.3), <lora:Sayo_XL:1> sayo, purple hair, long hair, hair between eyes, purple eyes
+(mon \(digimon\):1.3), <lora:Mon (Digimon ReArise):1> Mon \(Digimon ReArise\), blue eyes, hair over one eye, short hair, pink hair
+(close \(digimon\):1.3), <lora:Close:1> liberatorclose

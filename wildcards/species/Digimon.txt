@@ -1,19 +1,64 @@
-(renamon:1.3), digimon
-(gatomon:1.3), digimon
-(guilmon:1.3), digimon
-(flamedramon:1.3), digimon
-(gomamon:1.3), digimon
-(veemon:1.3), digimon
-(gulusgammamon:1.3), digimon
-(gammamon:1.3), digimon
-(dorumon:1.3), digimon
-(x-digimon:1.3), digimon
-(impmon:1.3), digimon
-(weregarurumon:1.3), digimon
-(taomon:1.3), digimon
-(exveemon:1.3), digimon
-(wargreymon:1.3), digimon
-(symbareangoramon:1.3), digimon
-(angoramon:1.3), digimon
-(gabumon:1.3), digimon
-(leomon:1.3), digimon
+(renamon:1.3)
+(renamon:1.3), <lora:renamon-05:1> renamoon
+(renamon:1.3), <lora:Renamon_illust:1> renamon_illust
+(renamon:1.3), <lora:Renamon_Digimon_Tamers:1> Renamon, digimon \(creature\), furry, solo, fox ears, blue eyes, black sclera, body fur, yellow fur, white fur, tail, fox tail
+(renamon:1.3), <lora:Renamon iLLus:1> renamon, digimon \(creature\), furry, solo, fox ears, blue eyes, black sclera, body fur, yellow fur, white fur, tail, fox tail
+(renamon:1.3), <lora:Renamon-Pokemon-Ilustrious:1> Renamon_\(Digimon\), digimon \(creature\), furry, solo, fox ears, blue eyes, black sclera, body fur, yellow fur, white fur, tail, fox tail
+(renamon:1.3), <lora:digimon_pony_v1_mx3:1> renamon, digimon \(creature\), furry, solo, fox ears, blue eyes, black sclera, body fur, yellow fur, white fur, tail, fox tail
+(gatomon:1.3)
+(gatomon:1.3), <lora:Gatomon-Digimon-Ilustrious:1> Gatomon_\(Digimon\), Furry Cat, Anthro Furry, White Fur, Light Blue Eyes
+(gatomon:1.3), <lora:Gatomon:1> gatomon, white fur, big yellow gloves, tail ring
+(cendrillmon:1.3), <lora:PONYXL_DIGIMON_Cendrillmon_ownwaifu:1> MAIN_Cendrillmon_ownwaifu, blonde hair, blue lips, colored skin, covered eyes, hair flower, hair ornament, helmet, lipstick, long hair, mask, no eyes, pink flower, white skin, digimon \(creature\), rose, makeup, eye mask, ice, head wings, crystal, gem, lips, blue skin
+(cendrillmon:1.3), <lora:PONYXL_DIGIMON_Cendrillmon_ownwaifu:1> MAIN_Cendrillmon_ownwaifu, blonde hair, blue lips, colored skin, covered eyes, hair flower, hair ornament, helmet, lipstick, long hair, mask, no eyes, pink flower, white skin, digimon \(creature\), rose, makeup, eye mask, ice, head wings, crystal, gem, lips, blue skin
+(cendrillmon:1.3), <lora:Cendrillmon_Pony:1> cendrillmon, blonde hair, blue lips, colored skin, covered eyes, hair flower, hair ornament, helmet, lipstick, long hair, mask, no eyes, pink flower, white skin, digimon \(creature\), rose, makeup, eye mask, ice, head wings, crystal, gem, lips, blue skin
+(angewomon:1.3), blonde hair, long hair, covered eyes, winged helmet, angel wings, multiple wings, white wings <lora:angwmn_idxl_EliPot:1>
+(angewomon:1.3), blonde hair, long hair, covered eyes, winged helmet, angel wings, multiple wings, white wings, <lora:angewomon32_pony:1> angewomon
+(angewomon:1.3), blonde hair, long hair, covered eyes, winged helmet, angel wings, multiple wings, white wings, <lora:angewomon-ponyxl-lora-nochekaiser:1> angewomon
+(angewomon:1.3), blonde hair, long hair, covered eyes, winged helmet, angel wings, multiple wings, white wings, <lora:Angewomon_1024x1600:1> Angewomon
+(angewomon:1.3), blonde hair, long hair, covered eyes, winged helmet, angel wings, multiple wings, white wings, <lora:Angewomon_Illu_Dwnsty:1> angwmn
+(angewomon:1.3), blonde hair, long hair, covered eyes, winged helmet, angel wings, multiple wings, white wings, <lora:digimon_pony_v1_mx3:1> angewomon
+(angewomon:1.3), blonde hair, long hair, covered eyes, winged helmet, angel wings, multiple wings, white wings, <lora:angewomon_pony:1> digimon_\(creature\), angewomon
+(lilithmon:1.3), wings, nail polish, makeup, bat wings, lipstick, claws, long fingernails, sharp fingernails, purple nails, purple lips, black hair, short hair, <lora:LilithmonIXL:1> zzLilithmon
+(lilithmon:1.3), wings, nail polish, makeup, bat wings, lipstick, claws, long fingernails, sharp fingernails, purple nails, purple lips, black hair, short hair, <lora:lilithmon-pdxl-nvwls-v1:1> lilithmon
+(sistermon:1.3), <lora:Sistermon_Blanc:1> sistermonblanc, grey eyes, grey hair, pink hat, very long floppy animal ears
+(lilimon:1.3), <lora:Lilim0n:1> Lilim0n
+(junomon:1.3), <lora:junomon-pdxl-nvwls-v1:1> jnmon, double bun, blonde hair, blue eyes, short hair
+(sakuyamon:1.3), <lora:digimon-sakura-ponyxl-lora-nochekaiser:1> sakuyamon, animal ears, fox, fox ears, long hair, white hair, facial mark, fox mask, mask, covered eyes
+(sakuyamon:1.3), <lora:checkpoint-e18_s756:1> sakuyamon_il, animal ears, fox, fox ears, long hair, white hair, facial mark, fox mask, mask, covered eyes
+(sakuyamon:1.3), <lora:digimon_pony_v1_mx3:1> sakuyamon, animal ears, fox, fox ears, long hair, white hair, facial mark, fox mask, mask, covered eyes
+(beelstarmon:1.3), <lora:beelstarmon-pdxl-nvwls-v1:1> beelstarmon, blonde hair, very long hair, mask, purple eyes
+(ladydevimon:1.3), <lora:lady_devimon:1> lady_devimonxl, long hair, grey hair, red eyes, large breasts, black wings, purple lips, mask,very long hair, grey skin, digimon \(creature\), wings, belt, colored skin, chain, claws
+(ladydevimon:1.3), <lora:Ladydevimon_Digimon_-_Illustrious:1> ladydevimon, long hair, grey hair, red eyes, large breasts, black wings, purple lips, mask,very long hair, grey skin, digimon \(creature\), wings, belt, colored skin, chain, claws
+(ladydevimon:1.3), <lora:digimon_pony_v1_mx3:1> ladydevimon, long hair, grey hair, red eyes, large breasts, black wings, purple lips, mask,very long hair, grey skin, digimon \(creature\), wings, belt, colored skin, chain, claws
+(fairimon:1.3), <lora:fairimon-ponyxl-lora-nochekaiser:1> fairimon, facial mark, purple hair, short hair, visor \(armor\), hair ornament, covered eyes
+(fairimon:1.3), <lora:digimon_pony_v1_mx3:1> fairimon, facial mark, purple hair, short hair, visor \(armor\), hair ornament, covered eyes
+(venusmon:1.3), <lora:venusmon-pdxl-nvwls-v1:1> venusmon, blonde hair, very long hair, blindfold, white ribbon, bandages over eyes
+(venusmon:1.3), <lora:venusmonIL:1> venusmon, blonde hair, very long hair, blindfold, white ribbon, bandages over eyes
+(venusmon:1.3), <lora:Venusmon_XL:1> venusmon, blonde hair, very long hair, blindfold, white ribbon, bandages over eyes
+(kazemon:1.3), <lora:kazemon:1> kazemonwz, visor, purple hair, very long hair, digimon \(creature\), hair ornament, covered eyes, purple hairband, butterfly wings
+(jetsilphymon:1.3), <lora:JetSilphymon_Digimon_-_Illustrious:1> JetSilphymon, short hair, red eyes, blue hair, wings, digimon \(creature\)
+(warudamon:1.3), <lora:Warudamon_-_Digimon_v1:1> w4rud4m0n, yellow eyes,  purple hair, pointy ears, colored skin, red claws, fangs, short hair, facial tattoo, symbol-shaped pupils
+(cutemon:1.3), <lora:Cutemon-Digimon-Ilustrious:1> Cutemon_\(Digimon\), Pink skin, Brown Eyes, Long pointy ears, animal ears, rabbit ears, Anthro, bald, no hair
+(mervamon:1.3), <lora:Mervamon_-_Digimon:1> Mervamon, blue hair, twin braids, very long hair
+(medusamon:1.3), <lora:MedusamonPony:1> medusamon, gold horns, mask, single eye, low wings, snake hair
+(sanzomon:1.3), <lora:SanzomonIL_Digimon:1> sanzomon, blonde hair, long hair
+(minervamon:1.3), <lora:Minervamon_ILus:1> Minervamon, blue hair, braid
+(tinkermon:1.3), <lora:TinkermonIL:1> Tinkermon, long hair, blue eyes, blonde hair, jewelry, ponytail, hair bow, wings
+(tinkermon:1.3), <lora:Tinkermon:1> Tinkermon, long hair, blue eyes, blonde hair, jewelry, ponytail, hair bow, wings
+(tinkermon:1.3), <lora:tinkermon:1> tinkermon, long hair, blue eyes, blonde hair, jewelry, ponytail, hair bow, wings
+(mastemon:1.3), <lora:Mastemon_Digimon:1> Mastemon, humanoid, angel wings, demon wings, blonde hair, braid, ponytail
+(archnemon:1.3), <lora:Archnemon(human form):1> archnemon \(human form\), lipstick, purple lips, long hair, blue hair, makeup
+(lunamon:1.3), <lora:Lunamon-Digimon-Ilustrious:1> Lunamon_(Digimon), Light Pink Fur, Pointy Ears, Pink Eyes, Blue Ear Markings, Blue shaded Ahoge, Grey Claws
+(queenbeemon:1.3), <lora:QueenBeemonIllustrious:1> queenbeenmon, antenna, mask, green eyes, purple hair, braided ponytail, hair ornament, energy wings
+(biyomon:1.3), <lora:Biyomon-Digimon-Ilustrious:1> Biyomon_\(Digimon\), Pink Fur, Red Beak, Blue Eyes
+(biyomon:1.3), <lora:Biyomon_ponyV6XL:1> biyomon, Digimon, Pink Fur, Red Beak, Blue Eyes
+(ranamon:1.3), <lora:Ranamon_Ilus:1> Ranamon, red eyes, blue hair, ahoge, pointy ears, colored skin, green skin, head fins
+(ranamon:1.3), <lora:digimon_ranamon:1> ranamon, red eyes, blue hair, ahoge, pointy ears, colored skin, green skin, head fins
+(ranamon:1.3), <lora:ranamon_1 :1> digimon_\(creature\), ranamon \(digimon\), red eyes, blue hair, ahoge, pointy ears, colored skin, green skin, head fins
+(ranamon:1.3), <lora:Ranamon:1> digimon, digimon frontier, ranamon, red eyes, blue hair, ahoge, pointy ears, colored skin, green skin, head fins
+(witchmon:1.3), blonde hair, short hair, <lora:Witchmon_XL:1> witchmon
+(hawkmon:1.3), <lora:Hawkmon_SDXL:1> Hawkmon
+(chaperomon:1.3), <lora:ChaperomonIllustrious:1> chaperomon, blonde hair
+(ordinemon:1.3), <lora:Ordinemon_Digimon_Adventure_Tri_IL:1> Ordinemon, monster girl, fallen angel, eyeless, noseless, earless, tentacle hair, white body, black wings, feathered wings, angel wings, sharp teeth, big wings
+(palmon:1.3), <lora:palmon:1> palmon, digimon
+(rosemon:1.3), <lora:digimon_pony_v1_mx3:1> rosemon
