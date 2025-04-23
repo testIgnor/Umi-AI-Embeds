@@ -478,7 +478,7 @@ Royalty
 [call set_age gender="{get gender}"]
 
 [set characterprompt]
-<[model][illu]>source_anime, _=Species/Royalty=_, (biracial:1.5), regal, elegant, royal family, royal, crown, tiara, (heterochromia, multicolored hair, two toned hair, two-tone skin, two skin colors:1.3)**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, _=Species/Royalty=_, (biracial:1.5), (conjoined:0.5), regal, elegant, royal family, royal, crown, tiara, (heterochromia, multicolored hair, two toned hair, two-tone skin, two skin colors:1.3)**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5)**
 [/set]
 
 [set prefix0]
