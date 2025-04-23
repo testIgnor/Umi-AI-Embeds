@@ -258,7 +258,6 @@ at [article]Vineyard [/article]Estate
 on [article]Desert [/article]Road
 in [article]Cozy [/article]Bookstore
 in [article]High-End [/article]Restaurant
-on [article]Golf [/article]Course
 on [article]Mountain [/article]Trail
 at [article]Children’s [/article]Playground
 at [article]Spa [/article]Resort
