@@ -53,4 +53,5 @@ anthro
 scalie
 SplitScreen
 split screen
+split character
 义肢拘束
