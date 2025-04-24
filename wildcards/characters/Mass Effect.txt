@@ -1,16 +1,13 @@
-(jack \(mass effect\):1.3), <lora:Jack_Mass_Effect_Illustrious:1> jackmeaf, tattoo or full-body tattoo, earring
-(jack \(mass effect\):1.3), <lora:JackME3-147:1>
-(cora \(mass effect\):1.3), <lora:coraMEAxl:1> coraxl
-(liara t'soni:1.3), colored skin, blue skin
-(liara t'soni:1.3), colored skin, blue skin, <lora:liarazure:1> liarazure
-(miranda lawson:1.3), <lora:MirandaXL:1>, miranda, black hair, long hair, blue eyes
-(tali'zorah nar rayya:1.3), colored skin, purple skin
-(femshep:1.3), jane shepard, commander shepard
-(samara:1.3), colored skin, blue skin, <lora:SamaraMassEffect2_pony_v1:1> SamaraMassEffect, alien
-(samara:1.3), colored skin, blue skin, <lora:SamaraPDXL:1> alien, light-blue eyes
-(peebee:1.3), colored skin, blue skin, <lora:PeeBeeXL:1> peebeexl
-(matriarch benezia:1.3), colored skin, blue skin, <lora:Matriarch_Benezia:1> Asari, Benezia, Blue Skin, Blue Eyes
-(edi \(mass effect\):1.3), <lora:EdiXL:1> edixl
-(edi \(mass effect\):1.3), <lora:Edi-e42_s1134:1> Edi Mass Effect, humanoid robot
-(edi \(mass effect\):1.3), <lora:EDIME3ILf:1> edilf, colored skin, grey skin, lips, robot joints, bodysuit, grey eyes, visor
-(edi \(mass effect\):1.3), <lora:EDI_Mass_Effect:1> EDI-DH, humanoid robot, black lips, yellow heads-up display, grey skin, short hair, black hair
+(jack \(mass effect\):1.3), <lora:Jack_Mass_Effect_Illustrious:0.7> jackmeaf, tattoo or full-body tattoo, earring
+(jack \(mass effect\):1.3), <lora:JackME3-147:0.7>
+(cora \(mass effect\):1.3), <lora:coraMEAxl:0.7> coraxl
+(liara t'soni:1.3), colored skin, blue skin, <lora:liarazure:0.7> liarazure
+(miranda lawson:1.3), <lora:MirandaXL:0.7>, miranda, black hair, long hair, blue eyes
+(samara:1.3), colored skin, blue skin, <lora:SamaraMassEffect2_pony_v1:0.7> SamaraMassEffect, alien
+(samara:1.3), colored skin, blue skin, <lora:SamaraPDXL:0.7> alien, light-blue eyes
+(peebee:1.3), colored skin, blue skin, <lora:PeeBeeXL:0.7> peebeexl
+(matriarch benezia:1.3), colored skin, blue skin, <lora:Matriarch_Benezia:0.7> Asari, Benezia, Blue Skin, Blue Eyes
+(edi \(mass effect\):1.3), <lora:EdiXL:0.7> edixl
+(edi \(mass effect\):1.3), <lora:Edi-e42_s1134:0.7> Edi Mass Effect, humanoid robot
+(edi \(mass effect\):1.3), <lora:EDIME3ILf:0.7> edilf, colored skin, grey skin, lips, robot joints, bodysuit, grey eyes, visor
+(edi \(mass effect\):1.3), <lora:EDI_Mass_Effect:0.7> EDI-DH, humanoid robot, black lips, yellow heads-up display, grey skin, short hair, black hair
