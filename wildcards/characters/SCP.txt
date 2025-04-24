@@ -13,3 +13,8 @@
 <[model][illu]>source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:m3gan-pxl:1> M3GAN
 <[model][illu]>source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:M3GAN_V1:1> m3gandoll
 <[model][illu]>source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:SheFailedToProtectCady:1> M3GAN
+<[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday:1> black hair, twin braids, brown eyes
+<[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday_Addams_XL_PONY:1> black hair, twin braids, brown eyes
+<[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday Addams:1> black hair, twin braids, brown eyes
+<[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday_v2:1> wednesday, black hair, twin braids, brown eyes
+<[model][illu]>source_anime, (enid sinclair:1.3), blonde hair, blue eyes, short hair, gradient hair, colored tips, blue hair, <lora:Enid_Sinclair_Wednesday_-_Toon_Version:1> enidS1inclair
