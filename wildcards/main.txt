@@ -506,13 +506,16 @@ NSFW, ([get gender_short], solo:1.7), [get characterprompt], [get ageprompt][get
 [set total_neg][choose _case=1][get processed_prefix][/choose], (dividing line, vertical line, horizontal line:1.7)[/set]
 
 [set char_1][Umi _sync_seed=0]<[Racethnicity][light]>, <[HairColor][Natural]>[/Umi][/set]
-[set char_1p][choose _case=0][get char_1][/choose][/set]
+[set char_1i][choose _case=0][get char_1][/choose][/set]
 
 [set char_2][Umi _sync_seed=0]<[Racethnicity][dark]>, <[HairColor][Natural]>[/Umi][/set]
-[set char_2p][choose _case=0][get char_2][/choose][/set]
+[set char_2i][choose _case=0][get char_2][/choose][/set]
 
-[set char_1n]([strip-lora][get char_2p][/strip-lora]:1.5)[/set]
-[set char_2n]([strip-lora][get char_1p][/strip-lora]:1.2)[/set]
+[set char_1p]([get char_1i]:1.3)[/set]
+[set char_2p]([get char_2i]:1.6)[/set]
+
+[set char_1n]([strip-lora][get char_2i][/strip-lora]:1.5)[/set]
+[set char_2n]([strip-lora][get char_1i][/strip-lora]:1.2)[/set]
 
 
 [chance 100]
