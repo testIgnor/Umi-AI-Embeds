@@ -65,7 +65,7 @@ Digimon
 [/choose]
 [/set]
 
-[chance 30]
+[chance 70]
 [set characterType]
 [choose]
 characters
@@ -74,9 +74,8 @@ characters
 [set franchise]
 [choose]
 SCP
-Dragon Age
-Mass Effect
-ATLA
+Bakugan
+Dead or Alive
 [/choose]
 [/set]
 [/chance]
