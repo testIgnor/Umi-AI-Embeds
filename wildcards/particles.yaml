@@ -851,7 +851,14 @@
     - Racethnicity
     - African
     - dark
-'african, (dark-skinned female, very dark skin:1.4), {brown||dark brown||hazel} eyes <lora:Racethnicity2.35-Ill:1>':
+'african, dark-skinned female, very dark skin, {brown||dark brown||hazel} eyes <lora:Racethnicity2.35-Ill:1>':
+  Description:
+    - For use with appropriate LoRA
+  Tags:
+    - Racethnicity
+    - African
+    - dark
+'african, dark-skinned female, very dark skin, ebony, {brown||dark brown||hazel} eyes <lora:Racethnicity2.35-Ill:1>':
   Description:
     - For use with appropriate LoRA
   Tags:
