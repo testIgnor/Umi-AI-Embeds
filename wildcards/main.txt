@@ -560,7 +560,7 @@ Main function
 [/set]
 [/while]
 
-[if "no_lora > 4"]
+[if "no_lora > 3"]
 [set p_prompt][half-lora][get p_prompt][/half-lora][/set]
 [/if]
 
