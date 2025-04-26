@@ -133,6 +133,8 @@ by jay marvel, <lora:Jay-marvel:1> J41m4rv3l
 by jay marvel <lora:JayMarvel-Style-PonyXL-v1.1:1>
 by mokushi, <lora:Mokushi_style-05:1> MokushiC-3
 by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
+by zone, <lora:[Zone] 2006-2008 Artist Style Illustrious:1> zone20062008il
+by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
@@ -286,6 +288,8 @@ by jay marvel, <lora:Jay-marvel:1> J41m4rv3l
 by jay marvel <lora:JayMarvel-Style-PonyXL-v1.1:1>
 by mokushi, <lora:Mokushi_style-05:1> MokushiC-3
 by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
+by zone, <lora:[Zone] 2006-2008 Artist Style Illustrious:1> zone20062008il
+by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
