@@ -109,6 +109,10 @@ blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos
 <lora:Sakimichan_Tifa_Nurse_Outfit_Cosplay:1> micro shirt, very cropped shirt, short sleeved shirt, white shirt, latex bikini, underboob bikini, micro bikini, white bikini, red cross on bikini, highleg bikini, highleg leotard, underbust leotard, mesh leotard, see-through leotard, cross stitched leotard, detailed leotard, white leotard, white underbust corset, white corset, corset, see-through corset, white belt straps, white belt buckles, pussy floss, black thighhighs, black thigh boots, white gloves, <[ezcovered][get eff_gen _before=[ _after=]]>
 (crop top t-shirt, underboob, loose-fitting clothes:1.5), full body stocking, body stocking, <[ezcovered][get eff_gen _before=[ _after=]]>
 nipple chain, <lora:Sex Queen:1> Chest chain, chain
+mesh shorts, mesh shorts with panties, mesh shirt, mesh shirt with bra, <[ezcovered][get eff_gen _before=[ _after=]]>
+mesh shorts, mesh shirt, mesh shirt with bra, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+mesh shorts, mesh shorts with panties, mesh shirt, <[covered][lower][get eff_gen _before=[ _after=]]>, <[eztopless][get eff_gen _before=[ _after=]]>
+mesh shorts, mesh shirt, <[ezbottomless][get eff_gen _before=[ _after=]]>, <[eztopless][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="wedding"]
