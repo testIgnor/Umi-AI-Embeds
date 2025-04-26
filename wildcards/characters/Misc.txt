@@ -9,8 +9,8 @@
 <[model][illu]>source_anime, (aika:1.3), long hair, star-shaped buns, two-tone hair, yellow hair, black hair, dreadlocks, dark-skinned female, <lora:Aika__Pretty_Please_I_Dont_Want_to_be_a_Magical_Girl:1> normal
 <[model][illu]>source_anime, (aika:1.3), long hair, star-shaped buns, two-tone hair, yellow hair, black hair, dreadlocks, dark-skinned female, <lora:Aika__Pretty_Please_I_Dont_Want_to_be_a_Magical_Girl:1> magical girl, wings
 <[model][illu]>source_anime, (karaba:1.3), <lora:Karaba_TheSorceress_PXL_Leaf1:1> Karaba, black hair, dark skin, very dark skin, red eyes, jewelry, earrings, necklace, gold jewelry
-<[model][illu]>source_anime, (starbucks:1.3), <lora:Starbucks_Wendys:1> Starbucks Siren
-<[model][illu]>source_anime, (starbucks:1.3), <lora:Starbucks_Wendys:1> STB-Chan
+<[model][illu]>source_anime, (starbucks:1.3), streaked hair, multicolored hair, colored skin, grey skin, black and white hair, green hair, <lora:Starbucks_Wendys:1> Starbucks Siren
+<[model][illu]>source_anime, (starbucks:1.3), streaked hair, multicolored hair, colored skin, grey skin, black and white hair, green hair, <lora:Starbucks_Wendys:1> STB-Chan
 <[model][illu]>source_anime, (wendy:1.3), <lora:Starbucks_Wendys:1> Wendy \(Wendy's\)
 <[model][illu]>source_anime, (jenny belle:1.3), <lora:slipperyt_illust_jennymin:1> slipperyt_illust_jennymin, brown hair, blue eyes, choker, bangs, short hair, minecraft, flower hair accessory
 <[model][illu]>source_anime, (jenny belle:1.3), <lora:JennyBelleSTXL:1> JennyBelleSTXL, blue eyes, brown hair, short hair, bangs, flower hair, black choker
