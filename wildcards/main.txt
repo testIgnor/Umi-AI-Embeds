@@ -54,8 +54,8 @@ characters
 [/set]
 [set franchise]
 [choose]
-Star Fox
 Nintendo
+Misc
 [/choose]
 [/set]
 
