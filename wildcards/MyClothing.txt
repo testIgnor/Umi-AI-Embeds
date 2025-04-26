@@ -113,6 +113,7 @@ nipple chain, <lora:Sex Queen:1> Chest chain, chain
 
 [tags clothing clothing_type="wedding"]
 fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+wedding dress, bride, wedding, open front dress, exposed crotch dress, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
