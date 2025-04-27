@@ -1,10 +1,75 @@
 (jill valentine:1.3), resident evil, blue eyes, short hair, brown hair
+(jill valentine:1.3), resident evil, blue eyes, short hair, brown hair, <lora:REJill:1> JillRE3, brown hair, bob cut, short hair
+(jill valentine:1.3), resident evil, blue eyes, short hair, brown hair, <lora:RREVJill:1> RREVJill
+(jill valentine:1.3), resident evil, blue eyes, short hair, brown hair, <lora:jill:1> jillvalentineSDXL
 (jill valentine:1.3), resident evil, jill valentine \(resident evil 5\), blue eyes, short hair, blonde hair, short ponytail, <lora:Jill_Valentine_Resident_Evil_5_Battlesuit_Illustrious:1> jillre5, ponytail
 (ada wong:1.3), resident evil, brown eyes, short hair, black hair
+(ada wong:1.3), resident evil, brown eyes, short hair, black hair, <lora:adawong-re-richy-v1_pdxl:1> adasweater
+(ada wong:1.3), resident evil, brown eyes, short hair, black hair, <lora:adawong-re-richy-v1_pdxl:1> adadress
+(ada wong:1.3), resident evil, brown eyes, short hair, black hair, <lora:adawong-re-richy-v1_pdxl:1> adachina
 (alcina dimitrescu:1.3), resident evil, pale skin, short hair, yellow eyes, black hair
+(alcina dimitrescu:1.3), resident evil, pale skin, short hair, yellow eyes, black hair, <lora:AlcinaDimitrescuDw:1> ladydimitrescu
+(alcina dimitrescu:1.3), resident evil, pale skin, short hair, yellow eyes, black hair, <lora:AlcinaDimitrescuxl:1> alcinaxl
 (claire redfield:1.3), resident evil, long hair, blue eyes, short hair, brown hair
+(claire redfield:1.3), resident evil, long hair, blue eyes, short hair, brown hair, <lora:RERClaire:1> RERClaire
 (rebecca chambers:1.3), resident evil, blue eyes, short hair, brown hair
+(rebecca chambers:1.3), resident evil, blue eyes, short hair, brown hair, <lora:RE0Rebecca:1> RE0Rebecca
+(rebecca chambers:1.3), resident evil, blue eyes, short hair, brown hair <lora:RebC:1>
+(rebecca chambers:1.3), resident evil, blue eyes, short hair, brown hair, <lora:IL_RE1Becky_t1-28-64:1> rebecca chambers
 (sheva alomar:1.3), resident evil, dark-skinned female, brown eyes, brown hair, short hair, dark skin, very dark skin
+(sheva alomar:1.3), resident evil, dark-skinned female, brown eyes, brown hair, short hair, dark skin, very dark skin, <lora:RE_ShevaAlomarDLC-PONY:1> tribalsheva
+(sheva alomar:1.3), resident evil, dark-skinned female, brown eyes, brown hair, short hair, dark skin, very dark skin, <lora:RE_ShevaAlomarDLC-PONY:1> officesheva
+(sheva alomar:1.3), resident evil, dark-skinned female, brown eyes, brown hair, short hair, dark skin, very dark skin, <lora:RE_ShevaAlomarDLC-PONY:1> rhoodsheva
+(sheva alomar:1.3), resident evil, dark-skinned female, brown eyes, brown hair, short hair, dark skin, very dark skin, <lora:RE5Sheva:1> RE5Sheva
 (nemesis \(resident evil\):1.3), resident evil
 (sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair
+(sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair, <lora:RE_SherryBirkin-PONY:1> sherrydef
+(sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair, <lora:RE_SherryBirkin-PONY:1> sherryfuku
+(sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair, <lora:RE_SherryBirkin-PONY:1> sherryrnd
 (sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair, ifsherry <lora:SherryBirkinIL:1>
+(sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair, <lora:RE6Sherry:1> RE6Sherry
+(sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair, <lora:Sherry_Birkin_-_Resident_Evil_6:1> Sh3rryre6
+(sherry birkin:1.3), resident evil, blue eyes, blonde hair, short hair, <lora:SherryBirkinIllusV2:1> sherrybrkn
+(rosemary winters:1.3), resident evil, blue eyes, blonde hair, long hair, <lora:RE_Winters-PONY:1> rosewinters
+(rosemary winters:1.3), resident evil, blue eyes, blonde hair, long hair, <lora:REVRose:1> REVRose
+(rosemary winters:1.3), resident evil, blue eyes, blonde hair, long hair, <lora:Rosemary_Winters_Resident_evil_8_Village_Illustrious:1> rosere8
+(mia winters:1.3), resident evil, brown eyes, brown hair, long hair, <lora:RE_Winters-PONY:1> miawinters
+(mia winters:1.3), resident evil, brown eyes, brown hair, long hair, <lora:REVMia:1> REVMia
+(helena harper:1.3), resident evil, <lora:RE6Helena:1> RE6Helena, brown hair, medium hair, brown eyes
+(helena harper:1.3), resident evil, <lora:Helena_Harper_-_illus:1> helenaresix, brown hair, medium hair, brown eyes
+(zoe baker:1.3), resident evil, <lora:RE7Zoe:1> RE7Zoe, brown hair, short hair, blue eyes
+(alyssa ashcroft:1.3), resident evil, <lora:Alyssa_Ashcroft_resident_evil_outbreak:1> Alyssa, Blonde, short hair, side part, Hair over one eye
+(annette birkin:1.3), resident evil, <lora:REAnnette:1> REAnnette, blonde hair, blue eyes, long hair, ponytail, hair over shoulder
+(annette birkin:1.3), resident evil, <lora:AnnetteBirkin:1> blonde hair, blue eyes, long hair, ponytail, hair over shoulder
+(eveline \(resident evil\):1.3), resident evil, <lora:RE7Eveline:1> RE7Eveline, black hair, long hair, green eyes
+(eveline \(resident evil\):1.3), resident evil, <lora:Based Eveline:1> sevenline, black hair, long hair, green eyes
+(eveline \(resident evil\):1.3), resident evil, <lora:EvelineREXL:1> evelineXL, black hair, long hair, green eyes
+(eveline \(resident evil\):1.3), resident evil, <lora:EvelineILf:1> 3vilf, black hair, long hair, green eyes
+(miranda \(resident evil\):1.3), resident evil, <lora:REVMiranda:1> REVMiranda, blonde hair, short hair, blue eyes
+(misty \(resident evil\):1.3), resident evil, <lora:Misty_zombie:1> mistyhuman, brown hair, short hair, green eyes
+(misty \(resident evil\):1.3), resident evil, <lora:Misty_zombie:1> mistyzombie, brown hair, short hair, green eyes, zombie, colored skin, grey skin
+(allyson \(resident evil\):1.3), resident evil, <lora:Allyson_-_Resident_Evil_5:1> allysonre, blonde, long hair, lips
+(allyson \(resident evil\):1.3), resident evil, <lora:Resident_evil_5_-_Allyson:1> Allyson, blonde, long hair, lips
+(excella gionne:1.3), resident evil, <lora:RE5Excella:1> RE5Excella, brown hair, blue eyes, hair updo, hair bun
+(excella gionne:1.3), resident evil, <lora:Excella_Gionne_-_illust:1> excellagionnere, brown hair, blue eyes, hair updo, hair bun
+(excella gionne:1.3), resident evil, <lora:Excella GionnePonyLoRA:1> xcllaginn, brown hair, blue eyes, hair updo, hair bun
+(deborah harper:1.3), resident evil, <lora:Deborah_V4:1> Deborah Harper, Cracked Skin, Shiny Skin, Scar, Cracked breasts without nipples, Yellow eyes, grey skin
+(deborah harper:1.3), resident evil, long hair, brown hair, brown eyes, <lora:deborahharperXL:1> deborahharperxl
+(rachel foley:1.3), resident evil, long hair, hair over eyes, hair over one eye blonde hair, <lora:RachelFoleyRER_illustrious_v1:1> RachelFoley
+(rachel foley:1.3), resident evil, long hair, hair over eyes, hair over one eye blonde hair, <lora:rachelfoleyresidentevil_pony_v1:1> RachelFoley
+(rachel foley:1.3), resident evil, <lora:Rachel_Ooze:1>
+(moira burton:1.3), resident evil, short hair, brown hair, brown eyes, <lora:moiraRE_PDXL:1> moiraRE
+(moira burton:1.3), resident evil, short hair, brown hair, brown eyes <lora:Resident_Evil_Revelations_Moira_Burton:1>
+(alexia ashford:1.3), resident evil, <lora:Alexia_Ashford_-_Resident_Evil:1> alexiaash, blonde, long hair, blue eyes
+(alexia ashford:1.3), resident evil, <lora:Alexia_Ashford_-_Resident_Evil:1> monsteralexia, monster girl, colored skin, grey skin, scales, green hair, green veins, hair over one eye, yellow eyes
+(cindy lennox:1.3), resident evil, <lora:Cindy_Lennox_-_Resident_Evil_Outbreak:1> Cindy, blonde, ponytail
+(maria gomez:1.3), resident evil, <lora:Maria_Gomez_-_Resident_Evil_VendettaDeath_Island:1> mariagomez, blonde, hair over one eye, makeup
+(daniela dimitrescu:1.3), resident evil <lora:Daniela_Dimitrescu_-_Resident_Evil_Village:1>
+(cassandra dimitrescu:1.3), resident evil <lora:Cassandra_Dimitrescu_-_Resident_Evil_Village:1>
+(bela dimitrescu:1.3), resident evil <lora:Bela_Dimitrescu_-_Resident_Evil_Village:1>
+(becca woolett:1.3), resident evil, <lora:BeccaWoolettRER:1> blue eyes, wavy hair, blonde hair, long hair
+(natalia korda:1.3), resident evil, <lora:NataliaKorda:1> black hair, braid, brown eyes, lips, hair ribbon, blue ribbon, ribbon
+(ashley graham:1.3), resident evil, blonde hair, short hair, brown eyes, <lora:reashley-illu-nvwls-v1:1> reashg
+(ashley graham:1.3), resident evil, blonde hair, short hair, brown eyes, <lora:ashleygraham-pdxl-nvwls-v1:1> reAshley
+(marissa ronson:1.3), resident evil, <lora:Tweed_-_Resident_Evil:1> tweedre, red hair, short hair, hair over one eye
+(caroline floyd:1.3), resident evil, <lora:Willow_-_RE:1> rewillow, black hair, ponytail
