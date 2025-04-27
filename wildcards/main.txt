@@ -3,7 +3,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides]
 
-[chance 0]
+[chance 75]
 [call choose_franchise_simple]
 [/chance]
 
@@ -54,8 +54,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-Nintendo
-Misc
+Resident Evil
 [/choose]
 [/set]
 
