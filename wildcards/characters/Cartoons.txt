@@ -25,3 +25,5 @@
 <[model][illu]>source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:XJ-9:1> xj9
 <[model][illu]>source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:Jenny_Wakeman_PDXL_V2:1> Jenny
 <[model][illu]>source_anime, (jenny wakeman:1.3), twintails, twintails, black eyes, blush stickers, red hair, <lora:JennyHSXLP:1> jennyhs
+<[model][illu]>source_anime, (amanda \(invicible\):1.3), <lora:MonsterGirlA:1> amandaxl, brown ponytail, medium hair, bangs, hairpin, grey eyes
+<[model][illu]>source_anime, (amanda \(invicible\):1.3), <lora:monster_girlIL:1> m_g, brown ponytail, medium hair, bangs, hairpin, grey eyes

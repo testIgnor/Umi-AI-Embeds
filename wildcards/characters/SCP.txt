@@ -18,3 +18,33 @@
 <[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday Addams:1> black hair, twin braids, brown eyes
 <[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday_v2:1> wednesday, black hair, twin braids, brown eyes
 <[model][illu]>source_anime, (enid sinclair:1.3), blonde hair, blue eyes, short hair, gradient hair, colored tips, blue hair, <lora:Enid_Sinclair_Wednesday_-_Toon_Version:1> enidS1inclair
+<[model][illu]>source_anime, (moth:1.3), monster girl, wings, arthropod girl, extra eyes, black sclera, antennae <lora:mothXLP:1>
+<[model][illu]>source_anime, (sin eater:1.3), final fantasy, sineater <lora:SinEater-Pony:1>
+<[model][illu]>source_anime, (chimera bug:1.3), ChimeraBugMGQ, pink hair, pink eyes, monster girl, arthropod girl, twintails <lora:ChimeraBugMGQ_V1:1>
+<[model][illu]>source_anime, (little sister:1.3), bioshock, <lora:LittleSister:1> LittleSister, glowing eyes, long hair, black hair
+<[model][illu]>source_anime, (little sister:1.3), bioshock, <lora:LittleSister:1> LittleSister, glowing eyes, medium hair, ponytail, black hair
+<[model][illu]>source_anime, (big sister:1.3), bioshock, <lora:BigSister:0.6> BigSister, grey eyes, medium hair, black hair
+<[model][illu]>source_anime, (river goddess:1.3) <lora:River_Goddess_v2:1>
+<[model][illu]>source_anime, (angel \(smt\):1.3), shin megami tensei, angelSMT, long hair, angel wings <lora:AngelSMT-pdxl:1>
+<[model][illu]>source_anime, (spitter \(l4d\):1.3), <lora:The_Spitter_Left_4_DeadGanassa_Version:1> Twin tails, brown hair, saliva, colored skin, Grey skin, colored scelera, Glowing yellow eyes, spittergv
+<[model][illu]>source_anime, (hunter \(l4d\):1.3), <lora:The_Hunter_Left_4_DeadGanassa_Version:1> teeth, hair over one eye, long tongue, colored skin, grey skin, black hair, huntergv
+<[model][illu]>source_anime, (witch \(l4d\):1.3), <lora:The_Witch_Left_4_DeadGanassa_Version:1> long hair, Blonde hair, Lock claw Fingers, colored scelera, glowing red eyes, colored skin, grey skin, Witchgv
+<[model][illu]>source_anime, (witch \(l4d\):1.3), <lora:l4d_witch_ponyXL:1> l4dwitch, grey skin, claws, grey hair
+<[model][illu]>source_anime, (witch \(l4d\):1.3), <lora:witchL4dxl:1> wchl4dxl, grey skin, claws, grey hair
+<[model][illu]>source_anime, (guardian \(tew\):1.3), <lora:GuardianXL:1> gdianxl
+<[model][illu]>source_anime, (kuchisake:1.3), <lora:KuchisakeREDxl:1> Kuchisakexl
+<[model][illu]>source_anime, (nureonna:1.3), <lora:NureOnna:1> NureOnna, lamia
+<[model][illu]>source_anime, (sophia sakamoto:1.3), <lora:SophiaSakamotoxl:1> sakamotoxl
+<[model][illu]>source_anime, (skin witch:1.3), <lora:SkinWitchxl:1> sknwtchxl
+<[model][illu]>source_anime, (sphinx \(dragon's dogma\):1.3), <lora:Sphinx:1> Sphinx
+<[model][illu]>source_anime, (eldritch monster girl:1.3), <lora:Eldritch_Monster_Girl-e56_s1176:1> Eldritch, Monster Girl, tentacles
+<[model][illu]>source_anime, (lava girl:1.3), <lora:Lava_Girl_PDXL:1> zzLavaGirl, black scales, colored skin, monster girl, orange skin, fire, fiery hair, red skin, red hair
+<[model][illu]>source_anime, (mako \(mgi\):1.3), <lora:Mako:1> Mak0_mgi, gradient hair, blue hair, long hair, abs, shark mermaid, shark tail, orange eyes, slit pupils, monster girl, muscular female
+<[model][illu]>source_anime, (monster girl:1.3), <lora:Monster_Girl:1>
+<[model][illu]>source_anime, (monster girl:1.3), <lora:Monster_girl_test:1>
+<[model][illu]>source_anime, (monster girl:1.3), <lora:mon_deepsea_IL_r1:1> monster girl
+<[model][illu]>source_anime, (monster girl:1.3), <lora:Monster Girl Dragon:1> Monster Girl Dragon, dragon horns, dragon tail, dragon wings
+<[model][illu]>source_anime, (monster girl:1.3), <lora:monstergirl:1> monster girl
+<[model][illu]>source_anime, (monster girl:1.3), <lora:cosmongirl_IL:1> monster girl
+<[model][illu]>source_anime, (monster girl:1.3), <lora:mutated_mongirl_IL:1> monster girl
+<[model][illu]>source_anime, (scylla:1.3), <lora:Scylla_ILXL:1> monster girl, octopus, suction cups, scylla, no legs, tentacles, tentacle legs, tentacle hair
