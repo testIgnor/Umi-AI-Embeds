@@ -348,7 +348,7 @@ Makes a 1character prompt
 
 [call set_overrides]
 
-[set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls:2.0)**[/set]
+[set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls, person in background, people in background, 2futas, 3futas, 4futas, 2boys, 3boys, 4boys:2.0)**[/set]
 
 [set prompt_suffix]
     [chance 20]
