@@ -1,6 +1,6 @@
 [choose]
 [chance 66]
-[chance 66]
+[chance 50]
 by tarakanovich <lora:tarakanovich1.5:1>
 by tarakanovich, <lora:Tarakanovich_Style:1> T4r4k4n0v1ch
 by exlic, <lora:ExLic_style:1> ExLic_style
@@ -12,7 +12,7 @@ by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
-[chance 25]
+[chance 40]
 by jay naylor
 by pixelsketcher
 by revolverwing <lora:rwing illustrious 003:1>
