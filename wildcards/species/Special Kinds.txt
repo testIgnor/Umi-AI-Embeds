@@ -1,5 +1,3 @@
-(zombie:1.3), (zombie girl:1.4), (pale skin:1.5), (empty eyes, no pupils:1.3)**(green skin, blue skin, purple skin, yellow skin, orange skin, red skin:1.5)**
-(zombie:1.3), <lora:Undead_Girl_-_UHD_-_Pony:1>, sexy beautiful unde4d, undead, necrotic decaying body, exposed bone, black high ponytail, black lips, pale skin, black nails**(green skin, blue skin, purple skin, yellow skin, orange skin, red skin:1.5)**
 (tomboy:1.3), short hair, muscular female**(yellow skin, orange skin, red skin:1.5)**
 (mermaid:1.3), mermaid princess**(yellow skin, orange skin, red skin:1.5)**
 (mermaid:1.3), mermaid queen**(yellow skin, orange skin, red skin:1.5)**
