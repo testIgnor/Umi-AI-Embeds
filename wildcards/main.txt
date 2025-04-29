@@ -59,7 +59,7 @@ Cartoons
 [/choose]
 [/set]
 
-[chance 0]
+[chance 25]
 [set characterType]
 [choose]
 characters
@@ -67,9 +67,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-SCP
-Bakugan
-Dead or Alive
+Resident Evil
 [/choose]
 [/set]
 [/chance]
