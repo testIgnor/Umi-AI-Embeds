@@ -1,121 +1,121 @@
-(lei fang:1.3), dead or alive, long hair, brown eyes, black hair, twin braids, braided hair rings, <lora:ILDOALeiFang:1> DOALeiFang
-(lei fang:1.3), dead or alive, long hair, brown eyes, black hair, twin braids, braided hair rings, <lora:Lei_Fang_Dead_or_Alive:1> leifang
-(lei fang:1.3), dead or alive, long hair, brown eyes, black hair, twin braids, braided hair rings, <lora:Leifang_ILXL:1> leifang
-(lei fang:1.3), dead or alive, long hair, brown eyes, black hair, twin braids, braided hair rings, <lora:LeiFangDOA:1> LeiFangDOA
-(christie \(doa\):1.3), dead or alive, blonde hair, blue eyes, short hair, white hair, <lora:DOAChristie:1> DOAChristie
-(christie \(doa\):1.3), dead or alive, blonde hair, blue eyes, short hair, white hair, <lora:doachristie-pdxl-nvwls-v1:1> doaChristie
-(christie \(doa\):1.3), dead or alive, blonde hair, blue eyes, short hair, white hair, <lora:OTA_DoAChristie_v01:1> ota_doachristie_v01
-(christie \(doa\):1.3), dead or alive, blonde hair, blue eyes, short hair, white hair, <lora:ChristieDOA:1> Christie
-(mila \(doa\):1.3), dead or alive, brown eyes, multicolored hair, red eyes, short hair, red hair, <lora:MilaDOA-10:1> Mila
-(mila \(doa\):1.3), dead or alive, brown eyes, multicolored hair, red eyes, short hair, red hair, <lora:Dead_or_Alive_-_Mila_v1.3:1> MilaDOA
-(mila \(doa\):1.3), dead or alive, brown eyes, multicolored hair, red eyes, short hair, red hair, <lora:MilaDOA:1> MilaDOA
-(lisa hamilton:1.3), dead or alive, dark-skinned female, brown eyes, brown hair, short hair, very dark skin, dark skin, <lora:DOALisaHamilton:1> DOAlisaH
-(amy \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-amy, green eyes, twintails, hair ornament, long hair, hairclip, bangs, brown hair
-(ayane \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-ayane, red eyes, purple hair, short hair, headband
-(ayane \(doa\):1.3), dead or alive, <lora:doaayane-pdxl-nvwls-v1:1> doaAyane, red eyes, purple hair, short hair, headband
-(ayane \(doa\):1.3), dead or alive, <lora:OTA_DoAAyane_v01:1> ota_doaayane_v01, red eyes, purple hair, short hair, headband
-(ayane \(doa\):1.3), dead or alive, <lora:ayanev2:1> ayane, red eyes, purple hair, short hair, headband
-(ayane \(doa\):1.3), dead or alive, <lora:ayane-illustrious:1> ayane, red eyes, purple hair, short hair, headband
-(ayane \(doa\):1.3), dead or alive, <lora:AyaneDOAIllustrious:1> AYNDOADF, red eyes, purple hair, short hair, headband
-(elise \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-elise, pink hair, blue eyes, short hair, green eyes, single hair bun, hair ornament
-(elise \(doa\):1.3), dead or alive, <lora:EliseDOAXVV:1> EliseDOA, pink hair, blue eyes, short hair, green eyes, single hair bun, hair ornament
-(fiona \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-fiona, long hair, light purple hair, purple eyes
-(fiona \(doa\):1.3), dead or alive, <lora:fionadoa:1> doafiona, long hair, light purple hair, purple eyes
-(helena douglas:1.3), dead or alive, <lora:ILDOAHelena:1> DOAHelena, blonde hair, long hair, blue eyes, ponytail
-(helena douglas:1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-helena, blonde hair, long hair, blue eyes, ponytail
-(helena douglas:1.3), dead or alive, <lora:doahelena-pdxl-nvwls-v1:1> doaHelena, blonde hair, long hair, blue eyes, ponytail
-(helena douglas:1.3), dead or alive, <lora:Helena2_v3:1> Helena \(doa\), blonde hair, long hair, blue eyes, ponytail
-(hitomi \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-hitomi, hairband, brown hair, long hair
-(hitomi \(doa\):1.3), dead or alive, <lora:Hitomi:1> hitdoa, hairband, brown hair, long hair
-(hitomi \(doa\):1.3), dead or alive, <lora:HitomiDOA:1> HitomiDOA, hairband, brown hair, long hair
-(honoka \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-honoka, pink hair, skull hair ornament, one side up, long hair
-(honoka \(doa\):1.3), dead or alive, <lora:DOAHonoka:1> DOAHonoka, pink hair, skull hair ornament, one side up, long hair
-(honoka \(doa\):1.3), dead or alive, <lora:ILDOAHonoka:1> DOAHonoka, pink hair, skull hair ornament, one side up, long hair
-(honoka \(doa\):1.3), dead or alive, <lora:doahonoka:1> honoka, pink hair, skull hair ornament, one side up, long hair
-(honoka \(doa\):1.3), dead or alive, <lora:OTA_DoAHonoka_v01:1> ota_doahonoka_v01, pink hair, skull hair ornament, one side up, long hair
-(honoka \(doa\):1.3), dead or alive, <lora:doahonoka_pony:1> honoka, pink hair, skull hair ornament, one side up, long hair
-(kanna \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-kanna, green eyes, red hair, twintails, horns, hair tubes, sidelocks
-(kanna \(doa\):1.3), dead or alive, <lora:Kanna:1> Kanna, green eyes, red hair, twintails, horns, hair tubes, sidelocks
-(kasumi \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-kasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:DOAKasumi:1> DOAKasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:ILDOAKasumi:1> DOAKasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:Kasumi_Dead_or_Alive_ILXL:1> kasumi \(doa\), ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:Kasumi_Dead_or_Alive:1> doakasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:kasumi01-e10:1> ceiiai kasumidoa, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:Kasumi_DOA_IS:1> Kasumi_DOA, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:kasumi-illustrious:1> kasfg, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:doakasumi-pdxl-nvwls-v1:1> doakasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:OTA_DoAKasumi_v01:1> ota_doakasumi_v01, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:kasumi_V2:1> doakasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:merged:1> ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:kasumiDOA6xl:1> kasumixl, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(kasumi \(doa\):1.3), dead or alive, <lora:KasumiIllustDOA:1> KSMIDOADF, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
-(koharu \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-koharu, black hair, side ponytail, hair ornament, hair bell, blunt bangs, jingle bell, brown eyes, black eyes, long hair
-(koharu \(doa\):1.3), dead or alive, <lora:nico_doa_pony:1> Koharu \(doa\), black hair, side ponytail, hair ornament, hair bell, blunt bangs, jingle bell, brown eyes, black eyes, long hair
-(kokoro \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-kokoro, black hair, long hair, blue eyes, black eyes, sidelocks, hair tubes
-(kokoro \(doa\):1.3), dead or alive, <lora:kokorodoa:1> kokoro, black hair, long hair, blue eyes, black eyes, sidelocks, hair tubes
-(kokoro \(doa\):1.3), dead or alive, <lora:OTA_DoAKokoro_v01:1> ota_doakokoro_v01, black hair, long hair, blue eyes, black eyes, sidelocks, hair tubes
-(kokoro \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-kokoro, black hair, long hair, blue eyes, black eyes, twintails
-(leifang \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-leifang, braid, brown hair, twin braids, brown eyes
-(lobelia \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-lobelia, blue hair, long hair, side braid, bangs, green eyes, hair flower
-(luna \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-luna, short hair, white hair, blue eyes
-(luna \(doa\):1.3), dead or alive, <lora:doaluna-pdxl-nvwls-v1:1> doaLuna, short hair, white hair, blue eyes
-(luna \(doa\):1.3), dead or alive, <lora:OTA_DoALuna_v01:1> ota_doaluna_v01, short hair, white hair, blue eyes
-(marie rose:1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-marie rose, blue eyes, blonde hair, long hair, straight hair, x hair ornament, twintails, hair ribbon, hair ornament, black ribbon
-(marie rose:1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-marie rose, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
-(marie rose:1.3), dead or alive, <lora:[incise soul (Team Ninja Dead Or Alive)] Marie Rose Character Illustrious:1> marie_rose_incise_soul, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
-(marie rose:1.3), dead or alive, <lora:[incise soul (Team Ninja Dead Or Alive)] Marie Rose Character PonyXL:1> incisesoulmarierose, marie rose, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
-(marie rose:1.3), dead or alive, <lora:MarieDOA:1> MarieRose, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
-(marie rose:1.3), dead or alive, <lora:marierose-illu-nvwls-v1:1> mrirs, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
-(marie rose:1.3), dead or alive, <lora:marierose-pdxl-nvwls-v1:1> doamarie, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
-(marie rose:1.3), dead or alive, <lora:MarieRose_PonyXL:1> marie rose, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
-(misaki \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-misaki, brown eyes, brown hair, long hair, side ponytail, hairclip, hair ornament
-(misaki \(doa\):1.3), dead or alive, <lora:misaki_doa_pony:1> misaki \(doa\), brown eyes, brown hair, long hair, side ponytail, hairclip, hair ornament
-(momiji \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-momiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
-(momiji \(doa\):1.3), dead or alive, <lora:Momiji紅葉Dead_Or_Alive:1> Momiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
-(momiji \(doa\):1.3), dead or alive, <lora:DOAMomiji:1> DOAMomiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
-(momiji \(doa\):1.3), dead or alive, <lora:ILDOAMomiji:1> DOAMomiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
-(momiji \(doa\):1.3), dead or alive, <lora:doamomiji-pdxl-nvwls-v1:1> doaMomiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
-(momiji \(doa\):1.3), dead or alive, <lora:OTA_DoAMomiji_v01:1> ota_doamomiji_v01, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
-(momiji \(doa\):1.3), dead or alive, <lora:Momiji_dead_or_aliveNinja_Gaiden_V1:1> black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
-(momiji \(doa\):1.3), dead or alive, <lora:Momiji:1> MomijiSDXL, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
-(monica \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-monica, blue eyes, brown hair, long hair, hair ornament, hairclip
-(monica \(doa\):1.3), dead or alive, <lora:OTA_DoAMonica_v01:1> ota_doamonica_v01, blue eyes, brown hair, long hair, hair ornament, hairclip
-(nagisa \(doa\)1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-nagisa, short hair, black hair, brown eyes
-(nagisa \(doa\)1.3), dead or alive, <lora:OTA_DoANagisa_v01:1> ota_doanagisa_v01, short hair, black hair, brown eyes
-(nagisa \(doa\)1.3), dead or alive, <lora:nagisa_doa_pony:1> nagisa \(doa\), short hair, black hair, brown eyes
-(nanami \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-nanami, blue eyes, black hair, brown hair, multicolored hair
-(nanami \(doa\):1.3), dead or alive, <lora:OTA_DoANanami_v01:1> ota_doananami_v01, blue eyes, black hair, brown hair, multicolored hair
-(nanami \(doa\):1.3), dead or alive, <lora:NanamiDOAXVV:1> NanamiDOAXVV, blue eyes, black hair, brown hair, multicolored hair
-(nyotengu \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-nyotengu, black hair, long hair, blunt bangs, hime cut
-(nyotengu \(doa\):1.3), dead or alive, <lora:Nyotengu_XL:1> nyotengu, black hair, long hair, blunt bangs, hime cut
-(nyotengu \(doa\):1.3), dead or alive, <lora:ILDOANyotengu:1> DOANyotengu, black hair, long hair, blunt bangs, hime cut
-(nyotengu \(doa\):1.3), dead or alive, <lora:DOANyotengu:1> DOANyotengu, black hair, long hair, blunt bangs, hime cut
-(nyotengu \(doa\):1.3), dead or alive, <lora:Nyotengu女天狗Dead_Or_Alive:1> Nyotengu, black hair, long hair, blunt bangs, hime cut
-(nyotengu \(doa\):1.3), dead or alive, <lora:nyotengu-illu-nvwls-v1:1> d0anyo, black hair, long hair, blunt bangs, hime cut
-(nyotengu \(doa\):1.3), dead or alive, <lora:nyotengu-pdxl-nvwls-v1:1> doaNyo, black hair, long hair, blunt bangs, hime cut
-(nyotengu \(doa\):1.3), dead or alive, <lora:OTA_DoANyotengu_v01:1> ota_doanyotengu_v01, black hair, long hair, blunt bangs, hime cut
-(patty \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-patty, white hair, blue eyes, short hair, white hair, dark-skinned female
-(patty \(doa\):1.3), dead or alive, <lora:doaxpatty-pdxl-nvwls-v1:1> doaxpatty, white hair, blue eyes, short hair, white hair, dark-skinned female
-(patty \(doa\):1.3), dead or alive, <lora:OTA_DoAPatty_v01:1> ota_doapatty_v01, white hair, blue eyes, short hair, white hair, dark-skinned female
-(reika \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-reika, blue eyes, short ponytail, short hair, black hair, blue hair
-(reika \(doa\):1.3), dead or alive, <lora:ReikaDOAXVVPony:1> RKAXVV, blue eyes, short ponytail, short hair, black hair, blue hair
-(sayuri \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-sayuri, long hair, black hair, mole under eye, lips, hair ornament, brown eyes
-(sayuri \(doa\):1.3), dead or alive, <lora:Sayuri_Dead_or_Alive:1> sayuri, sayuri \(doa\), long hair, black hair, mole under eye, lips, hair ornament, brown eyes
-(shandy \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-shandy, long hair, brown eyes, purple hair, blue hair, multicolored hair
-(shizuku \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-shizuku, fox ears, short hair, purple hair, fox tail, pink eyes
-(tsukushi \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-tsukushi, glasses, brown eyes, hair ornament, brown hair, short hair, hairclip
-(tsukushi \(doa\):1.3), dead or alive, <lora:tukushi(doa)_pony:1> tukushi \(doa\), glasses, brown eyes, hair ornament, brown hair, short hair, hairclip
-(tamaki \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-tamaki, short hair, mole under eye, green eyes, blue hair
-(tamaki \(doa\):1.3), dead or alive, <lora:tamaki:1> tamaki, short hair, mole under eye, green eyes, blue hair
-(tamaki \(doa\):1.3), dead or alive, <lora:doatamaki-pdxl-nvwls-v1:1> doaTamaki, short hair, mole under eye, green eyes, blue hair
-(tamaki \(doa\):1.3), dead or alive, <lora:OTA_DoATamaki_v01:1> ota_doatamaki_v01, short hair, mole under eye, green eyes, blue hair
-(tina armstrong:1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-tina, blonde hair, blue eyes, short hair
-(tina armstrong:1.3), dead or alive, <lora:tinaarmstrong_pony_v1:1> blonde hair, blue eyes, short hair
-(tina armstrong:1.3), dead or alive, <lora:TinaDOA2:1> TinaDOA, blonde hair, blue eyes, short hair
-(yukino \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-yukino, blonde hair, long hair, purple eyes, ponytail, earrings
-(meg \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:1> doa-meg, brown hair, blonde hair, short hair, multicolored hair
-(rachel \(doa\):1.3), dead or alive, <lora:ngrachel-pdxl-nvwls-v1:1> ngrachel, blonde hair, ponytail, blue eyes, long ponytail, high ponytail, red lips
-(rachel \(doa\):1.3), dead or alive, <lora:RachelDOA:1> Rachel, blonde hair, ponytail, blue eyes, long ponytail, high ponytail, red lips
-(miyako \(doa\):1.3), dead or alive, <lora:Miyako_Dead_or_Alive:1> myk-doa, short hair, brown hair
-(nico \(doa\):1.3), dead or alive, <lora:doanico_pony:1> nico, blue hair, hair ornament, green eyes, short hair
+(lei fang:1.3), dead or alive, long hair, brown eyes, black hair, twin braids, braided hair rings, <lora:ILDOALeiFang:0.8> DOALeiFang
+(lei fang:1.3), dead or alive, long hair, brown eyes, black hair, twin braids, braided hair rings, <lora:Lei_Fang_Dead_or_Alive:0.8> leifang
+(lei fang:1.3), dead or alive, long hair, brown eyes, black hair, twin braids, braided hair rings, <lora:Leifang_ILXL:0.8> leifang
+(lei fang:1.3), dead or alive, long hair, brown eyes, black hair, twin braids, braided hair rings, <lora:LeiFangDOA:0.8> LeiFangDOA
+(christie \(doa\):1.3), dead or alive, blonde hair, blue eyes, short hair, white hair, <lora:DOAChristie:0.8> DOAChristie
+(christie \(doa\):1.3), dead or alive, blonde hair, blue eyes, short hair, white hair, <lora:doachristie-pdxl-nvwls-v1:0.8> doaChristie
+(christie \(doa\):1.3), dead or alive, blonde hair, blue eyes, short hair, white hair, <lora:OTA_DoAChristie_v01:0.8> ota_doachristie_v01
+(christie \(doa\):1.3), dead or alive, blonde hair, blue eyes, short hair, white hair, <lora:ChristieDOA:0.8> Christie
+(mila \(doa\):1.3), dead or alive, brown eyes, multicolored hair, red eyes, short hair, red hair, <lora:MilaDOA-10:0.8> Mila
+(mila \(doa\):1.3), dead or alive, brown eyes, multicolored hair, red eyes, short hair, red hair, <lora:Dead_or_Alive_-_Mila_v1.3:0.8> MilaDOA
+(mila \(doa\):1.3), dead or alive, brown eyes, multicolored hair, red eyes, short hair, red hair, <lora:MilaDOA:0.8> MilaDOA
+(lisa hamilton:1.3), dead or alive, dark-skinned female, brown eyes, brown hair, short hair, very dark skin, dark skin, <lora:DOALisaHamilton:0.8> DOAlisaH
+(amy \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-amy, green eyes, twintails, hair ornament, long hair, hairclip, bangs, brown hair
+(ayane \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-ayane, red eyes, purple hair, short hair, headband
+(ayane \(doa\):1.3), dead or alive, <lora:doaayane-pdxl-nvwls-v1:0.8> doaAyane, red eyes, purple hair, short hair, headband
+(ayane \(doa\):1.3), dead or alive, <lora:OTA_DoAAyane_v01:0.8> ota_doaayane_v01, red eyes, purple hair, short hair, headband
+(ayane \(doa\):1.3), dead or alive, <lora:ayanev2:0.8> ayane, red eyes, purple hair, short hair, headband
+(ayane \(doa\):1.3), dead or alive, <lora:ayane-illustrious:0.8> ayane, red eyes, purple hair, short hair, headband
+(ayane \(doa\):1.3), dead or alive, <lora:AyaneDOAIllustrious:0.8> AYNDOADF, red eyes, purple hair, short hair, headband
+(elise \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-elise, pink hair, blue eyes, short hair, green eyes, single hair bun, hair ornament
+(elise \(doa\):1.3), dead or alive, <lora:EliseDOAXVV:0.8> EliseDOA, pink hair, blue eyes, short hair, green eyes, single hair bun, hair ornament
+(fiona \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-fiona, long hair, light purple hair, purple eyes
+(fiona \(doa\):1.3), dead or alive, <lora:fionadoa:0.8> doafiona, long hair, light purple hair, purple eyes
+(helena douglas:1.3), dead or alive, <lora:ILDOAHelena:0.8> DOAHelena, blonde hair, long hair, blue eyes, ponytail
+(helena douglas:1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-helena, blonde hair, long hair, blue eyes, ponytail
+(helena douglas:1.3), dead or alive, <lora:doahelena-pdxl-nvwls-v1:0.8> doaHelena, blonde hair, long hair, blue eyes, ponytail
+(helena douglas:1.3), dead or alive, <lora:Helena2_v3:0.8> Helena \(doa\), blonde hair, long hair, blue eyes, ponytail
+(hitomi \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-hitomi, hairband, brown hair, long hair
+(hitomi \(doa\):1.3), dead or alive, <lora:Hitomi:0.8> hitdoa, hairband, brown hair, long hair
+(hitomi \(doa\):1.3), dead or alive, <lora:HitomiDOA:0.8> HitomiDOA, hairband, brown hair, long hair
+(honoka \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-honoka, pink hair, skull hair ornament, one side up, long hair
+(honoka \(doa\):1.3), dead or alive, <lora:DOAHonoka:0.8> DOAHonoka, pink hair, skull hair ornament, one side up, long hair
+(honoka \(doa\):1.3), dead or alive, <lora:ILDOAHonoka:0.8> DOAHonoka, pink hair, skull hair ornament, one side up, long hair
+(honoka \(doa\):1.3), dead or alive, <lora:doahonoka:0.8> honoka, pink hair, skull hair ornament, one side up, long hair
+(honoka \(doa\):1.3), dead or alive, <lora:OTA_DoAHonoka_v01:0.8> ota_doahonoka_v01, pink hair, skull hair ornament, one side up, long hair
+(honoka \(doa\):1.3), dead or alive, <lora:doahonoka_pony:0.8> honoka, pink hair, skull hair ornament, one side up, long hair
+(kanna \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-kanna, green eyes, red hair, twintails, horns, hair tubes, sidelocks
+(kanna \(doa\):1.3), dead or alive, <lora:Kanna:0.8> Kanna, green eyes, red hair, twintails, horns, hair tubes, sidelocks
+(kasumi \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-kasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:DOAKasumi:0.8> DOAKasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:ILDOAKasumi:0.8> DOAKasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:Kasumi_Dead_or_Alive_ILXL:0.8> kasumi \(doa\), ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:Kasumi_Dead_or_Alive:0.8> doakasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:kasumi01-e10:0.8> ceiiai kasumidoa, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:Kasumi_DOA_IS:0.8> Kasumi_DOA, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:kasumi-illustrious:0.8> kasfg, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:doakasumi-pdxl-nvwls-v1:0.8> doakasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:OTA_DoAKasumi_v01:0.8> ota_doakasumi_v01, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:kasumi_V2:0.8> doakasumi, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:merged:0.8> ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:kasumiDOA6xl:0.8> kasumixl, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:KasumiIllustDOA:0.8> KSMIDOADF, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(koharu \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-koharu, black hair, side ponytail, hair ornament, hair bell, blunt bangs, jingle bell, brown eyes, black eyes, long hair
+(koharu \(doa\):1.3), dead or alive, <lora:nico_doa_pony:0.8> Koharu \(doa\), black hair, side ponytail, hair ornament, hair bell, blunt bangs, jingle bell, brown eyes, black eyes, long hair
+(kokoro \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-kokoro, black hair, long hair, blue eyes, black eyes, sidelocks, hair tubes
+(kokoro \(doa\):1.3), dead or alive, <lora:kokorodoa:0.8> kokoro, black hair, long hair, blue eyes, black eyes, sidelocks, hair tubes
+(kokoro \(doa\):1.3), dead or alive, <lora:OTA_DoAKokoro_v01:0.8> ota_doakokoro_v01, black hair, long hair, blue eyes, black eyes, sidelocks, hair tubes
+(kokoro \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-kokoro, black hair, long hair, blue eyes, black eyes, twintails
+(leifang \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-leifang, braid, brown hair, twin braids, brown eyes
+(lobelia \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-lobelia, blue hair, long hair, side braid, bangs, green eyes, hair flower
+(luna \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-luna, short hair, white hair, blue eyes
+(luna \(doa\):1.3), dead or alive, <lora:doaluna-pdxl-nvwls-v1:0.8> doaLuna, short hair, white hair, blue eyes
+(luna \(doa\):1.3), dead or alive, <lora:OTA_DoALuna_v01:0.8> ota_doaluna_v01, short hair, white hair, blue eyes
+(marie rose:1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-marie rose, blue eyes, blonde hair, long hair, straight hair, x hair ornament, twintails, hair ribbon, hair ornament, black ribbon
+(marie rose:1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-marie rose, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
+(marie rose:1.3), dead or alive, <lora:[incise soul (Team Ninja Dead Or Alive)] Marie Rose Character Illustrious:0.8> marie_rose_incise_soul, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
+(marie rose:1.3), dead or alive, <lora:[incise soul (Team Ninja Dead Or Alive)] Marie Rose Character PonyXL:0.8> incisesoulmarierose, marie rose, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
+(marie rose:1.3), dead or alive, <lora:MarieDOA:0.8> MarieRose, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
+(marie rose:1.3), dead or alive, <lora:marierose-illu-nvwls-v1:0.8> mrirs, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
+(marie rose:1.3), dead or alive, <lora:marierose-pdxl-nvwls-v1:0.8> doamarie, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
+(marie rose:1.3), dead or alive, <lora:MarieRose_PonyXL:0.8> marie rose, blue eyes, blonde hair, long hair, x hair ornament, twintails, hair ribbon
+(misaki \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-misaki, brown eyes, brown hair, long hair, side ponytail, hairclip, hair ornament
+(misaki \(doa\):1.3), dead or alive, <lora:misaki_doa_pony:0.8> misaki \(doa\), brown eyes, brown hair, long hair, side ponytail, hairclip, hair ornament
+(momiji \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-momiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
+(momiji \(doa\):1.3), dead or alive, <lora:Momiji紅葉Dead_Or_Alive:0.8> Momiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
+(momiji \(doa\):1.3), dead or alive, <lora:DOAMomiji:0.8> DOAMomiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
+(momiji \(doa\):1.3), dead or alive, <lora:ILDOAMomiji:0.8> DOAMomiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
+(momiji \(doa\):1.3), dead or alive, <lora:doamomiji-pdxl-nvwls-v1:0.8> doaMomiji, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
+(momiji \(doa\):1.3), dead or alive, <lora:OTA_DoAMomiji_v01:0.8> ota_doamomiji_v01, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
+(momiji \(doa\):1.3), dead or alive, <lora:Momiji_dead_or_aliveNinja_Gaiden_V1:0.8> black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
+(momiji \(doa\):1.3), dead or alive, <lora:Momiji:0.8> MomijiSDXL, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
+(monica \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-monica, blue eyes, brown hair, long hair, hair ornament, hairclip
+(monica \(doa\):1.3), dead or alive, <lora:OTA_DoAMonica_v01:0.8> ota_doamonica_v01, blue eyes, brown hair, long hair, hair ornament, hairclip
+(nagisa \(doa\)1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-nagisa, short hair, black hair, brown eyes
+(nagisa \(doa\)1.3), dead or alive, <lora:OTA_DoANagisa_v01:0.8> ota_doanagisa_v01, short hair, black hair, brown eyes
+(nagisa \(doa\)1.3), dead or alive, <lora:nagisa_doa_pony:0.8> nagisa \(doa\), short hair, black hair, brown eyes
+(nanami \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-nanami, blue eyes, black hair, brown hair, multicolored hair
+(nanami \(doa\):1.3), dead or alive, <lora:OTA_DoANanami_v01:0.8> ota_doananami_v01, blue eyes, black hair, brown hair, multicolored hair
+(nanami \(doa\):1.3), dead or alive, <lora:NanamiDOAXVV:0.8> NanamiDOAXVV, blue eyes, black hair, brown hair, multicolored hair
+(nyotengu \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-nyotengu, black hair, long hair, blunt bangs, hime cut
+(nyotengu \(doa\):1.3), dead or alive, <lora:Nyotengu_XL:0.8> nyotengu, black hair, long hair, blunt bangs, hime cut
+(nyotengu \(doa\):1.3), dead or alive, <lora:ILDOANyotengu:0.8> DOANyotengu, black hair, long hair, blunt bangs, hime cut
+(nyotengu \(doa\):1.3), dead or alive, <lora:DOANyotengu:0.8> DOANyotengu, black hair, long hair, blunt bangs, hime cut
+(nyotengu \(doa\):1.3), dead or alive, <lora:Nyotengu女天狗Dead_Or_Alive:0.8> Nyotengu, black hair, long hair, blunt bangs, hime cut
+(nyotengu \(doa\):1.3), dead or alive, <lora:nyotengu-illu-nvwls-v1:0.8> d0anyo, black hair, long hair, blunt bangs, hime cut
+(nyotengu \(doa\):1.3), dead or alive, <lora:nyotengu-pdxl-nvwls-v1:0.8> doaNyo, black hair, long hair, blunt bangs, hime cut
+(nyotengu \(doa\):1.3), dead or alive, <lora:OTA_DoANyotengu_v01:0.8> ota_doanyotengu_v01, black hair, long hair, blunt bangs, hime cut
+(patty \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-patty, white hair, blue eyes, short hair, white hair, dark-skinned female
+(patty \(doa\):1.3), dead or alive, <lora:doaxpatty-pdxl-nvwls-v1:0.8> doaxpatty, white hair, blue eyes, short hair, white hair, dark-skinned female
+(patty \(doa\):1.3), dead or alive, <lora:OTA_DoAPatty_v01:0.8> ota_doapatty_v01, white hair, blue eyes, short hair, white hair, dark-skinned female
+(reika \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-reika, blue eyes, short ponytail, short hair, black hair, blue hair
+(reika \(doa\):1.3), dead or alive, <lora:ReikaDOAXVVPony:0.8> RKAXVV, blue eyes, short ponytail, short hair, black hair, blue hair
+(sayuri \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-sayuri, long hair, black hair, mole under eye, lips, hair ornament, brown eyes
+(sayuri \(doa\):1.3), dead or alive, <lora:Sayuri_Dead_or_Alive:0.8> sayuri, sayuri \(doa\), long hair, black hair, mole under eye, lips, hair ornament, brown eyes
+(shandy \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-shandy, long hair, brown eyes, purple hair, blue hair, multicolored hair
+(shizuku \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-shizuku, fox ears, short hair, purple hair, fox tail, pink eyes
+(tsukushi \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-tsukushi, glasses, brown eyes, hair ornament, brown hair, short hair, hairclip
+(tsukushi \(doa\):1.3), dead or alive, <lora:tukushi(doa)_pony:0.8> tukushi \(doa\), glasses, brown eyes, hair ornament, brown hair, short hair, hairclip
+(tamaki \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-tamaki, short hair, mole under eye, green eyes, blue hair
+(tamaki \(doa\):1.3), dead or alive, <lora:tamaki:0.8> tamaki, short hair, mole under eye, green eyes, blue hair
+(tamaki \(doa\):1.3), dead or alive, <lora:doatamaki-pdxl-nvwls-v1:0.8> doaTamaki, short hair, mole under eye, green eyes, blue hair
+(tamaki \(doa\):1.3), dead or alive, <lora:OTA_DoATamaki_v01:0.8> ota_doatamaki_v01, short hair, mole under eye, green eyes, blue hair
+(tina armstrong:1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-tina, blonde hair, blue eyes, short hair
+(tina armstrong:1.3), dead or alive, <lora:tinaarmstrong_pony_v1:0.8> blonde hair, blue eyes, short hair
+(tina armstrong:1.3), dead or alive, <lora:TinaDOA2:0.8> TinaDOA, blonde hair, blue eyes, short hair
+(yukino \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-yukino, blonde hair, long hair, purple eyes, ponytail, earrings
+(meg \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-meg, brown hair, blonde hair, short hair, multicolored hair
+(rachel \(doa\):1.3), dead or alive, <lora:ngrachel-pdxl-nvwls-v1:0.8> ngrachel, blonde hair, ponytail, blue eyes, long ponytail, high ponytail, red lips
+(rachel \(doa\):1.3), dead or alive, <lora:RachelDOA:0.8> Rachel, blonde hair, ponytail, blue eyes, long ponytail, high ponytail, red lips
+(miyako \(doa\):1.3), dead or alive, <lora:Miyako_Dead_or_Alive:0.8> myk-doa, short hair, brown hair
+(nico \(doa\):1.3), dead or alive, <lora:doanico_pony:0.8> nico, blue hair, hair ornament, green eyes, short hair
