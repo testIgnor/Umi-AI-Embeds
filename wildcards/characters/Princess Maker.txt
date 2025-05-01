@@ -1,0 +1,7 @@
+(Lisa Anderson:1.3), princess maker, red eyes, grey hair, wavy hair, long hair <lora:Takami Akai_illustriousXL:1>
+(Maria Lindberg:1.3), princess maker, green eyes, brown hair, short hair <lora:Takami Akai_illustriousXL:1>
+(Maria Lindberg:1.3), princess maker, green eyes, brown hair, short hair <lora:Kai_Princess Maker:1>
+(Olive Oyl:1.3), princess maker, brown eyes, brown hair, long hair, curly hair <lora:Takami Akai_illustriousXL:1>
+(Olive Oyl:1.3), princess maker, brown eyes, brown hair, long hair, curly hair, <lora:princess_maker_2_pony_v1:1> princessMaker
+(Olive Oyl:1.3), princess maker, brown eyes, brown hair, long hair, curly hair, <lora:princess_maker_2_pony_v1:1> princessMakerAdult
+(Olive Oyl:1.3), princess maker, brown eyes, brown hair, long hair, curly hair, <lora:princess_maker_2_pony_v1:1> princessMakerChild

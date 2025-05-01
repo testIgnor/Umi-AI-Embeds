@@ -364,7 +364,7 @@
     - FutaAddon
     - ezmagicalfuta
     - Standard
-'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (male, man, 1boy, 2boys, 3boys:2.0)**':
+'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5)**':
   Description:
     - Strapon
   Tags:
@@ -372,7 +372,55 @@
     - FutaAddon
     - ezstrapon
     - Strapon
-'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (penis:1.3), (testicles, balls, full package futanari:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
+'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>**(disembodied penis:1.5), (testicles, balls, full package futanari:1.5)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>, <lora:Strap_on_ILXL:1> penis, uncensored, strap-on, dildo, sex toy**(disembodied penis:1.5)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>, <lora:Strap_on_ILXL:1> penis, uncensored, strap-on, dildo, sex toy**(disembodied penis:1.5), (testicles, balls, full package futanari:1.5)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>, <lora:StrapOnV13IllustriousXL:1> strap-on**(disembodied penis:1.5)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>, <lora:StrapOnV13IllustriousXL:1> strap-on**(disembodied penis:1.5), (testicles, balls, full package futanari:1.5)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>,<lora:strap-on xl:1> strap-on, sex toy, dildo**(disembodied penis:1.5)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>,<lora:strap-on xl:1> strap-on, sex toy, dildo**(disembodied penis:1.5), (testicles, balls, full package futanari:1.5)**':
   Description:
     - Strapon
   Tags:
@@ -389,6 +437,30 @@
     - ezstrapon
     - Strapon
 '(strapless strapon, strapless dildo, _=colors=_ strapon:1.5), strap-on, strapless, <[ezpenis][hard][--lower]>**(harness, straps:2.0), (disembodied penis:1.5), (penis:1.3), (testicles, balls, full package futanari:1.5), (male, man, 1boy, 2boys, 3boys:2.0)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapless strapon, strapless dildo, _=colors=_ strapon:1.5), strap-on, strapless, <[ezpenis][hard][--lower]>, <lora:strapless-dildo:1> strapless_dildo, sd_flush**(harness, straps:2.0), (disembodied penis:1.5), (testicles, balls, full package futanari:1.5)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapless strapon, strapless dildo, _=colors=_ strapon:1.5), strap-on, strapless, <[ezpenis][hard][--lower]>, <lora:strapless-dildo:1> strapless_dildo, sd_widebase**(harness, straps:2.0), (disembodied penis:1.5), (testicles, balls, full package futanari:1.5)**':
+  Description:
+    - Strapon
+  Tags:
+    - Particle
+    - FutaAddon
+    - ezstrapon
+    - Strapon
+'(strapless strapon, strapless dildo, _=colors=_ strapon:1.5), strap-on, strapless, <[ezpenis][hard][--lower]>, <lora:strapless-dildo:1> strapless_dildo, sd_inserting**(harness, straps:2.0), (disembodied penis:1.5), (testicles, balls, full package futanari:1.5)**':
   Description:
     - Strapon
   Tags:
@@ -702,7 +774,7 @@
   Tags:
     - Particle
     - PenisType
-'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>**(penis:1.3)**':
+'(strapon, strap-on, _=colors=_ strapon:1.5), <[ezpenis][hard][--lower]>, <lora:Strap_on_ILXL:1> penis, uncensored, strap-on, dildo, sex toy':
   Description:
     - Penis Types
   Tags:

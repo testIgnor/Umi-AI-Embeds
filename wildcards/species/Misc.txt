@@ -9,6 +9,8 @@
 (flame atronach:1.3), <lora:Flame_Atronach_Illustrious:1> flame atronach, eyeless, monster girl, faceless, no eyes, fiery hair, demon horns, orange hair, orange skin, colored skin, sharp fingernails, claws
 (flame atronach:1.3), <lora:sktfl_pdxl_EliPot_V2:1> sktfl, eyeless, monster girl, faceless, no eyes, fiery hair, demon horns, orange hair, orange skin, colored skin, sharp fingernails, claws
 (flame atronach:1.3), <lora:[Bethesda] Flame Atronach (Skyrim) Character Illustrious:1> i_am_going_to_have_sex_with_this_female_flame_atronach_from_oblivion, eyeless, monster girl, faceless, no eyes, fiery hair, demon horns, orange hair, orange skin, colored skin, sharp fingernails, claws
+(spriggan:1.3), moss, antlers, leaf, claws, colored skin, glowing eyes, pointy ears, green sclera, no pupils, green eyes, wooden skin, dryad, floating leaves, <lora:Wrens_Spriggans_XL_Pony_V1.2:1> Spriggan, deer
+(spriggan:1.3), <lora:sksprgn_pdxl_EliPot:1> sksprg, moss, antlers, leaf, claws, colored skin, glowing eyes, pointy ears, green sclera, no pupils, green eyes, wooden skin, dryad, floating leaves
 (kavat \(warframe\):1.3), <lora:Kavat_Warframe:1>
 (kubrow \(warframe\):1.3), <lora:Kubrow_Warframe:1>
 (licker \(resident evil\):1.3), <lora:Licker_Resident_evil:1> Likcker \(resident evil\), detailed skin, tongue out, exposed brain, exposed muscles, open mouth, detailed teeth, long tongue
