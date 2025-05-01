@@ -4,3 +4,5 @@ SkyrimWerewolf
 Pokemon
 Royalty
 Special Kinds
+Palworld
+Digimon
