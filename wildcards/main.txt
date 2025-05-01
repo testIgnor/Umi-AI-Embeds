@@ -89,8 +89,8 @@ Makes the prompt
 [call set_age_range]
 [call set_age gender="{get gender}"]
 
-[chance 25]
-[chance 75]
+[chance 15]
+[chance 50]
 [call make_double]
 [/chance]
 [else]
@@ -134,7 +134,7 @@ myspecies
 [set searchpath][get basepath]*.txt[/set]
 [set franchise][choose][filelist "{get searchpath}" _basename _hide_ext][/choose][/set]
 
-[chance 10]
+[chance 20]
 [if characterType="characters"]
 [set franchise][choose][call wildcards/preferred_franchises][/choose][/set]
 [/if]
