@@ -8,31 +8,6 @@ Overrides Prompt Properties
 [/chance]
 
 [chance 0]
-[set gender]
-futanari
-[/set]
-[set gender_short]1futa[/set]
-[set eff_gen]futanari[/set]
-[set gender_suffix]
-, <[FutaAddon][get futa_type _before=[ _after=]]>
-[/set]
-[/chance]
-
-[chance 0]
-[set age_range]
-bottom
-[/set]
-[/chance]
-
-[chance 0]
-[set artist]
-[choose]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
-[/choose]
-[/set]
-[/chance]
-
-[chance 0]
 [set characterprompt]
 [choose]
 <[model][illu]>source_anime, (deborah harper:1.3), resident evil, <lora:Deborah_V4:1> Deborah Harper, Cracked Skin, Shiny Skin, Scar, Cracked breasts without nipples, Yellow eyes, grey skin**(yellow skin, orange skin, red skin:1.5)**
