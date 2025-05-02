@@ -38,7 +38,7 @@ by camonome, <lora:Camonome:1> Camonome**(speech bubble, text, japanese text, hi
 by camonome <lora:Camonome-v1-PDXL:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
-<lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), oldfilm, halftone, jaggy_lines, game screen shot of a video game, simple_background
+<lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
 <lora:fepas_XL-v2.0_il:1> fepas, pixel art, retro artstyle
@@ -155,7 +155,7 @@ by mokushi, <lora:Mokushi_style-05:1> MokushiC-3
 by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 by zone, <lora:[Zone] 2006-2008 Artist Style Illustrious:1> zone20062008il
 by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
-<lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), oldfilm, halftone, jaggy_lines, game screen shot of a video game, simple_background
+<lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
 <lora:fepas_XL-v2.0_il:1> fepas, pixel art, retro artstyle
@@ -330,7 +330,7 @@ by mokushi, <lora:Mokushi_style-05:1> MokushiC-3
 by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 by zone, <lora:[Zone] 2006-2008 Artist Style Illustrious:1> zone20062008il
 by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
-<lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), oldfilm, halftone, jaggy_lines, game screen shot of a video game, simple_background
+<lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
 <lora:fepas_XL-v2.0_il:1> fepas, pixel art, retro artstyle
