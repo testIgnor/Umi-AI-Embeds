@@ -28,7 +28,6 @@ outdoors, in an elegant regal estate garden
 at a cabaret club, at a hostess club, fancy upscale rich bar
 Brick Wall background
 Wood Planks background
-Concrete Texture background
 Marble Surface background
 Vintage Paper background
 Galaxy Sky background
@@ -38,7 +37,6 @@ Bokeh Lights background
 Floral Pattern background
 Watercolor Splash background
 Metal Grunge background
-Fabric Texture background
 Snowy Landscape background
 Mountain Peaks background
 Ocean Waves background
@@ -51,76 +49,47 @@ Raindrops on Glass background
 Starry Night background
 Foggy Meadow background
 Neon Glow background
-Abstract Shapes background
 Rainbow Gradient background
-Crumpled Paper background
 Dark Concrete background
-Painted Canvas background
-Brick Alleyway background
 Golden Sunrise background
-Ice Texture background
 Tropical Beach background
 Desert Canyon background
 Lavender Field background
 Cherry Blossoms background
 Sunlit Forest background
 Urban Graffiti background
-Pebble Ground background
-Mosaic Tiles background
 Shadow Silhouettes background
 Old Wood Fence background
 Starburst Pattern background
 Cloudy Sky background
-Metallic Surface background
-Polka Dots background
-Chevron Pattern background
-Wavy Lines background
 Gradient Blur background
-Velvet Texture background
-Stone Wall background
 Tropical Leaves background
 Sandy Beach background
 Sunset Horizon background
-Ink Splatter background
-Checkered Floor background
-Rainbow Prism background
-Cracked Earth background
 Glitter Sparkles background
 Paper Collage background
 Retro Stripes background
-Glass Texture background
 Digital Grid background
 Fireworks Sky background
 Frosted Window background
 Oil Paint Strokes background
-Colorful Confetti background
 Starfield background
-Linen Fabric background
-Water Ripples background
 Graffiti Wall background
 Iceberg Scene background
 Twilight Sky background
 Shimmering Water background
 Foggy Forest background
 Pink Clouds background
-Woodgrain Pattern background
-Cracked Marble background
-Ink Wash background
 Sunset Glow background
 Rainy Window background
-Pebble Texture background
 Electric Neon background
 Golden Bokeh background
-Abstract Waves background
-Dappled Light background
 Cosmic Nebula background
 Sandy Desert background
 Painted Wall background
 Gradient Swirl background
 Floral Wallpaper background
-Vintage Map background
 Snowy Branches background
-Brick Texture background
 Rainbow Mist background
 Waterfall Mist background
 Starlight Sky background
@@ -139,7 +108,6 @@ at [article]Urban [/article]Park
 in [article]Botanical [/article]Garden
 at [article]Train [/article]Station
 in [article]Old [/article]Factory
-at [article]Village [/article]Square
 on [article]Riverbank[/article]
 on [article]Castle [/article]Grounds
 in [article]Suburban [/article]Backyard
@@ -169,7 +137,6 @@ in [article]Antique [/article]Store
 in [article]Desert [/article]Ghost Town**(ghost, spirit, spooky:2.0)**
 in [article]Lakeside [/article]Cabin
 at [article]Open-Air [/article]Market
-at [article]City [/article]Square
 in [article]Underground Parking [/article]Garage
 on [article]Cliffside [/article]Path
 on [article]Beach [/article]Boardwalk
@@ -270,7 +237,6 @@ at [article]Outdoor [/article]Amphitheater
 on [article]Pedestrian [/article]Bridge
 on [article]Apartment [/article]Balcony
 in [article]Sunlit [/article]Meadow
-on [article]Library [/article]Steps
 at [article]Food [/article]Truck Lot
 in [article]Vintage [/article]Diner
 at [article]Ski [/article]Resort
