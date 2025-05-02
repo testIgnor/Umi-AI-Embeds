@@ -56,7 +56,7 @@ by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, 
 <lora:merged_pixel_base_model_svd:1> pixel art
 <lora:cone:1> c0ne, pixel art
 <lora:Dungeon_Squad_IllustriousV5:1> pixel art
-<lora:sakuemonq:1>
+<lora:sakuemonq:1> pixel art
 <lora:Pixel_Art:1> Pixel_Art
 <lora:pixel:1> pixel
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
@@ -173,7 +173,7 @@ by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
 <lora:merged_pixel_base_model_svd:1> pixel art
 <lora:cone:1> c0ne, pixel art
 <lora:Dungeon_Squad_IllustriousV5:1> pixel art
-<lora:sakuemonq:1>
+<lora:sakuemonq:1> pixel art
 <lora:Pixel_Art:1> Pixel_Art
 <lora:pixel:1> pixel
 by takami akai <lora:Takami Akai_illustriousXL:1>
@@ -348,7 +348,7 @@ by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
 <lora:merged_pixel_base_model_svd:1> pixel art
 <lora:cone:1> c0ne, pixel art
 <lora:Dungeon_Squad_IllustriousV5:1> pixel art
-<lora:sakuemonq:1>
+<lora:sakuemonq:1> pixel art
 <lora:Pixel_Art:1> Pixel_Art
 <lora:pixel:1> pixel
 by takami akai <lora:Takami Akai_illustriousXL:1>
