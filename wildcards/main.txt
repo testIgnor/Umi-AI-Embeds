@@ -3,7 +3,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides]
 
-[chance 0]
+[chance 75]
 [call choose_franchise_simple]
 [/chance]
 
@@ -24,13 +24,12 @@ Chooses a franchise from a fixed list
 [function choose_franchise_simple]
 [set characterType]
 [choose]
-characters
+myspecies
 [/choose]
 [/set]
 [set franchise]
 [choose]
-SCP
-Cartoons
+Franxx
 [/choose]
 [/set]
 
@@ -568,7 +567,7 @@ Main function
 [/set]
 [/while]
 
-[if "no_lora > 4"]
+[if "no_lora > 3"]
 [set p_prompt][half-lora][get p_prompt][/half-lora][/set]
 [/if]
 
