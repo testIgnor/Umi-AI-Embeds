@@ -15,7 +15,7 @@ Overrides Prompt Properties
 [/set]
 [/chance]
 
-[chance 0]
+[chance 100]
 [set artist]
 [choose]
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
