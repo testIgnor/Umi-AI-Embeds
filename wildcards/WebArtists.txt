@@ -61,7 +61,7 @@ by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, 
 <lora:pixel:1> pixel
 <lora:ASF3_style:1> SF3XL
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:EPTakNao:1>, retro anime style
+<lora:EPTakNao:0.75>, retro anime style
 <lora:Csp2PixelArtPonyYIL_Style:1> Csp2Pixel
 <lora:hrn_yc_illustriousXL:1> retro artstyle
 <lora:HM2K_PONY:1> HM2K
@@ -195,7 +195,7 @@ by takami akai <lora:Takami Akai_illustriousXL:1>
 <lora:pixel:1> pixel
 <lora:ASF3_style:1> SF3XL
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:EPTakNao:1>, retro anime style
+<lora:EPTakNao:0.75>, retro anime style
 <lora:Csp2PixelArtPonyYIL_Style:1> Csp2Pixel
 <lora:hrn_yc_illustriousXL:1> retro artstyle
 <lora:HM2K_PONY:1> HM2K
@@ -386,7 +386,7 @@ by takami akai <lora:Takami Akai_illustriousXL:1>
 <lora:pixel:1> pixel
 <lora:ASF3_style:1> SF3XL
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:EPTakNao:1>, retro anime style
+<lora:EPTakNao:0.75>, retro anime style
 <lora:Csp2PixelArtPonyYIL_Style:1> Csp2Pixel
 <lora:hrn_yc_illustriousXL:1> retro artstyle
 <lora:HM2K_PONY:1> HM2K
