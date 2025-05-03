@@ -38,43 +38,6 @@ by camonome, <lora:Camonome:1> Camonome**(speech bubble, text, japanese text, hi
 by camonome <lora:Camonome-v1-PDXL:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
-<lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
-<lora:DK4Style_SDXL:1> DKPCEStyle
-<lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
-<lora:fepas_XL-v2.0_il:1> fepas, pixel art, retro artstyle
-<lora:fepne_XL-v2.0_il:1> fepne, pixel art, retro artstyle
-<lora:pixel_style:1> pixel art
-<lora:Vikings_Pixel_Lora:1> Pixel_Art
-<lora:N1coDuran_Pixel_Art_Style:1> pixel art, by n1co
-<lora:Pixel_ArtPony:1> pixel_art
-<lora:0325-6:1> Pixel style
-<lora:birdman46049238_noob10-xl-000275:1> pixel art
-<lora:pixelart:1> pixel art
-<lora:Retro_pixel_shading_pony:1> pixel art shading
-<lora:ElinSpriteNoobLocon_byKonan:1> pixel art
-<lora:1856601-11:1> pixel art
-<lora:merged_pixel_base_model_svd:1> pixel art
-<lora:cone:1> c0ne, pixel art
-<lora:Dungeon_Squad_IllustriousV5:1> pixel art
-<lora:sakuemonq:1> pixel art
-<lora:Pixel_Art:1> Pixel_Art
-<lora:pixel:1> pixel
-<lora:ASF3_style:1> SF3XL
-<lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:EPTakNao:0.75>, retro anime style
-<lora:Csp2PixelArtPonyYIL_Style:1> Csp2Pixel
-<lora:hrn_yc_illustriousXL:1> retro artstyle
-<lora:HM2K_PONY:1> HM2K
-<lora:1990_p1_IL:1> anime coloring, anime style, anime screen cap, 1990s \(style\), retro style
-<lora:1990_retro_p2il:1> anime coloring, 1990s \(style\), retro style
-<lora:retroanimestyle:1> retroanimestyle
-<lora:conti_v2:1> conti2, aesthetic
-<lora:90s_Retro_anime_style_Pony:1> retro anime style, gto anime style, golden boy anime style, ghost in the shell style, perfect blue anime style
-<lora:Retro_60s_Decarlo_ILXL:1> decarloxl, retro colors, 60s
-<lora:t00nstylev1PonySDXL:1> t00nstyl3
-<lora:RetroXL:1> r3tr0styl3, artist style: urushihara satoshi, 1990s_\(style\), 1980s_\(style\)
-<lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
-<lora:mahou_shoujo_ai:1> mahou shoujo ai
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
 [/chance]
