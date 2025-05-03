@@ -1,6 +1,8 @@
 [choose]
 [chance 66]
 [chance 50]
+by jay naylor
+by pixelsketcher
 by tarakanovich <lora:tarakanovich1.5:1>
 by tarakanovich, <lora:Tarakanovich_Style:1> T4r4k4n0v1ch
 by exlic, <lora:ExLic_style:1> ExLic_style
@@ -9,24 +11,20 @@ by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
 by dave cheung <lora:[Dave Cheung] Extracurricular ArtistCG Art Style PonyXL:1>
 by dave cheung, <lora:Artist_Style_-_Dave_Cheung:1> davecheung-dh
 by takami akai <lora:Takami Akai_illustriousXL:1>
+by revolverwing <lora:rwing illustrious 003:1>
+by hoobamon <lora:Hoobamon:1>
+by prywinko, <lora:prywXLP:1> pryw
+by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
+by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
+by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
+by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
-[chance 40]
-by jay naylor
-by pixelsketcher
-by revolverwing <lora:rwing illustrious 003:1>
-by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
-by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
+[chance 50]
 by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
-by hoobamon <lora:Hoobamon:1>
-by prywinko, <lora:prywXLP:1> pryw
-by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
-by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
-by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
-by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
 by kaoming, <lora:kaoming:1> kaoming
 by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
 by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
@@ -38,6 +36,20 @@ by camonome, <lora:Camonome:1> Camonome**(speech bubble, text, japanese text, hi
 by camonome <lora:Camonome-v1-PDXL:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
+<lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
+<lora:EPTakNao:0.75>, retro anime style
+<lora:hrn_yc_illustriousXL:1> retro artstyle
+<lora:HM2K_PONY:1> HM2K
+<lora:1990_p1_IL:1> anime coloring, anime style, anime screen cap, 1990s \(style\), retro style
+<lora:1990_retro_p2il:1> anime coloring, 1990s \(style\), retro style
+<lora:retroanimestyle:1> retroanimestyle
+<lora:conti_v2:1> conti2, aesthetic
+<lora:90s_Retro_anime_style_Pony:1> retro anime style, gto anime style, golden boy anime style, ghost in the shell style, perfect blue anime style
+<lora:Retro_60s_Decarlo_ILXL:1> decarloxl, retro colors, 60s
+<lora:t00nstylev1PonySDXL:1> t00nstyl3
+<lora:RetroXL:1> r3tr0styl3, artist style: urushihara satoshi, 1990s_\(style\), 1980s_\(style\)
+<lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
+<lora:mahou_shoujo_ai:1> mahou shoujo ai
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
 [/chance]
