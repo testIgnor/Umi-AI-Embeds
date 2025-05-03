@@ -18,8 +18,31 @@ Overrides Prompt Properties
 [chance 0]
 [set artist]
 [choose]
+<lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
+<lora:DK4Style_SDXL:1> DKPCEStyle
+<lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
+<lora:fepas_XL-v2.0_il:1> fepas, pixel art, retro artstyle
+<lora:fepne_XL-v2.0_il:1> fepne, pixel art, retro artstyle
+<lora:pixel_style:1> pixel art
+<lora:Vikings_Pixel_Lora:1> Pixel_Art
+<lora:N1coDuran_Pixel_Art_Style:1> pixel art, by n1co
+<lora:Pixel_ArtPony:1> pixel_art
+<lora:0325-6:1> Pixel style
+<lora:birdman46049238_noob10-xl-000275:1> pixel art
+<lora:pixelart:1> pixel art
+<lora:Retro_pixel_shading_pony:1> pixel art shading
+<lora:ElinSpriteNoobLocon_byKonan:1> pixel art
+<lora:1856601-11:1> pixel art
+<lora:merged_pixel_base_model_svd:1> pixel art
+<lora:cone:1> c0ne, pixel art
+<lora:Dungeon_Squad_IllustriousV5:1> pixel art
+<lora:sakuemonq:1> pixel art
+<lora:Pixel_Art:1> Pixel_Art
+<lora:pixel:1> pixel
+<lora:ASF3_style:1> SF3XL
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:EPTakNao:1>, retro anime style
+<lora:EPTakNao:0.75>, retro anime style
+<lora:Csp2PixelArtPonyYIL_Style:1> Csp2Pixel
 <lora:hrn_yc_illustriousXL:1> retro artstyle
 <lora:HM2K_PONY:1> HM2K
 <lora:1990_p1_IL:1> anime coloring, anime style, anime screen cap, 1990s \(style\), retro style
@@ -32,7 +55,6 @@ Overrides Prompt Properties
 <lora:RetroXL:1> r3tr0styl3, artist style: urushihara satoshi, 1990s_\(style\), 1980s_\(style\)
 <lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
 <lora:mahou_shoujo_ai:1> mahou shoujo ai
-by takami akai <lora:Takami Akai_illustriousXL:1>
 [/choose]
 [/set]
 [/chance]
@@ -71,6 +93,10 @@ Resident Evil
 [set characterprompt]
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
+
+[call set_gender]
+[call set_age_range]
+[call set_age gender="{get gender}"]
 [/function]
 
 
@@ -78,12 +104,6 @@ Resident Evil
 Makes the prompt
 [/##]
 [function make_prompt]
-
-[call choose_franchise]
-[call get_artist]
-[call set_gender]
-[call set_age_range]
-[call set_age gender="{get gender}"]
 
 [chance 15]
 [chance 50]
@@ -142,6 +162,10 @@ myspecies
 [set characterprompt]
 <[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
 [/set]
+
+[call set_gender]
+[call set_age_range]
+[call set_age gender="{get gender}"]
 [/function]
 
 
@@ -342,6 +366,8 @@ Makes a 1character prompt
 [/##]
 [function make_single]
 
+[call choose_franchise]
+[call get_artist]
 [call set_overrides]
 
 [set character_preset]NSFW, [get gender_short], [get characterprompt], [get artist], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance], (solo:1.5)**(2girls, 3girls, 4girls, person in background, people in background, 2futas, 3futas, 4futas, 2boys, 3boys, 4boys:2.0)**[/set]
@@ -375,6 +401,10 @@ Makes a 1character prompt
 Makes a 2character prompt
 [/##]
 [function make_double]
+
+[call choose_franchise]
+[call get_artist]
+[call set_overrides]
 
 [switch gender]
     [case "female"]
@@ -428,6 +458,7 @@ symmetrical docking
 [set char_1n][choose _case=1][get char_1][/choose][/set]
 
 [call choose_franchise]
+[call set_overrides]
 
 [set char_2][Umi _sync_seed=0][get characterprompt][/Umi][/set]
 [set char_2p][choose _case=0][get char_2][/choose][/set]
@@ -455,6 +486,9 @@ Makes a split character prompt
 [/##]
 [function make_split]
 
+[call choose_franchise]
+[call get_artist]
+
 [set prefix0]
 NSFW, [get gender_short], [get ageprompt][get gender_suffix], <[EZEmotion]>, facing the camera, looking at viewer, [get artist], (full body:1.0), (centered, symmetry:1.5), <[eznude][get eff_gen _before=[ _after=]]>, (nude:1.5)[chance 10], <[ezpreg]>[/chance], ([call wildcards/MyLocation]:1.3), (split character:0.0), solo**(2girls, 3girls, 4girls, person in background, people in background, 2futas, 3futas, 4futas, 2boys, 3boys, 4boys:2.0), (harsh shadows, tanlines, close-up, extreme close-up, close up, extreme close up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0), (clothes, clothing:1.5), picture frame***
 [/set]
@@ -475,6 +509,7 @@ NSFW, [get gender_short], [get ageprompt][get gender_suffix], <[EZEmotion]>, fac
 [set char_1n][choose _case=1][get char_1][/choose][/set]
 
 [call choose_franchise]
+[call set_overrides]
 
 [set char_2][Umi _sync_seed=0][get characterprompt][/Umi][/set]
 [set char_2p][choose _case=0][get char_2][/choose][/set]
@@ -543,15 +578,6 @@ NSFW, ([get gender_short], solo:1.7), source_anime, [get characterprompt], [get 
 
 [set char_1n]([strip-lora][get char_2i][/strip-lora]:1.5)[/set]
 [set char_2n]([strip-lora][get char_1i][/strip-lora]:1.2)[/set]
-
-
-[chance 0]
-[set char_1p](princess:1.1), (british princess, british, white skin, light skin, pale skin, blonde hair, blue eyes:1.3)[/set]
-[set char_2p](princess:1.1), (african princess, african, black skin, dark-skinned female, dark skin, ebony, very dark skin, black hair, brown eyes:1.6)[/set]
-
-[set char_1n](african, black skin, dark-skinned female, dark skin, ebony, very dark skin, black hair, brown eyes:1.5)[/set]
-[set char_2n](british, white skin, light-skinned female, light skin, pale skin, blonde hair, blue eyes:1.2)[/set]
-[/chance]
 
 [set p_prompt]
 [get total_prefix] ADDCOMM [half-lora][get char_1p] ADDCOL [get char_2p][/half-lora]
