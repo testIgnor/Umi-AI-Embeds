@@ -15,7 +15,7 @@ Overrides Prompt Properties
 [/set]
 [/chance]
 
-[chance 100]
+[chance 0]
 [set artist]
 [choose]
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
