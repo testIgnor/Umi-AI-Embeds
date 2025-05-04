@@ -37,7 +37,6 @@ by camonome <lora:Camonome-v1-PDXL:1>**(speech bubble, text, japanese text, hira
 by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:EPTakNao:0.75>, retro anime style
 <lora:hrn_yc_illustriousXL:1> retro artstyle
 <lora:HM2K_PONY:1> HM2K
 <lora:1990_p1_IL:1> anime coloring, anime style, anime screen cap, 1990s \(style\), retro style
@@ -170,7 +169,6 @@ by takami akai <lora:Takami Akai_illustriousXL:1>
 <lora:pixel:1> pixel
 <lora:ASF3_style:1> SF3XL
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:EPTakNao:0.75>, retro anime style
 <lora:Csp2PixelArtPonyYIL_Style:1> Csp2Pixel
 <lora:hrn_yc_illustriousXL:1> retro artstyle
 <lora:HM2K_PONY:1> HM2K
@@ -361,7 +359,6 @@ by takami akai <lora:Takami Akai_illustriousXL:1>
 <lora:pixel:1> pixel
 <lora:ASF3_style:1> SF3XL
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:EPTakNao:0.75>, retro anime style
 <lora:Csp2PixelArtPonyYIL_Style:1> Csp2Pixel
 <lora:hrn_yc_illustriousXL:1> retro artstyle
 <lora:HM2K_PONY:1> HM2K
