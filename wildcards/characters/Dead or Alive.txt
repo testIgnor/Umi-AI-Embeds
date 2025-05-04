@@ -81,9 +81,9 @@
 (momiji \(doa\):1.3), dead or alive, <lora:Momiji:0.8> MomijiSDXL, black hair, brown eyes, ponytail, very long hair, makeup, freckle, makeup
 (monica \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-monica, blue eyes, brown hair, long hair, hair ornament, hairclip
 (monica \(doa\):1.3), dead or alive, <lora:OTA_DoAMonica_v01:0.8> ota_doamonica_v01, blue eyes, brown hair, long hair, hair ornament, hairclip
-(nagisa \(doa\)1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-nagisa, short hair, black hair, brown eyes
-(nagisa \(doa\)1.3), dead or alive, <lora:OTA_DoANagisa_v01:0.8> ota_doanagisa_v01, short hair, black hair, brown eyes
-(nagisa \(doa\)1.3), dead or alive, <lora:nagisa_doa_pony:0.8> nagisa \(doa\), short hair, black hair, brown eyes
+(nagisa \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-nagisa, short hair, black hair, brown eyes
+(nagisa \(doa\):1.3), dead or alive, <lora:OTA_DoANagisa_v01:0.8> ota_doanagisa_v01, short hair, black hair, brown eyes
+(nagisa \(doa\):1.3), dead or alive, <lora:nagisa_doa_pony:0.8> nagisa \(doa\), short hair, black hair, brown eyes
 (nanami \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-nanami, blue eyes, black hair, brown hair, multicolored hair
 (nanami \(doa\):1.3), dead or alive, <lora:OTA_DoANanami_v01:0.8> ota_doananami_v01, blue eyes, black hair, brown hair, multicolored hair
 (nanami \(doa\):1.3), dead or alive, <lora:NanamiDOAXVV:0.8> NanamiDOAXVV, blue eyes, black hair, brown hair, multicolored hair
