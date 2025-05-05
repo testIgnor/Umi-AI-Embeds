@@ -11,7 +11,9 @@ micro bikini, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:micro bikini_p
 fully clothed, skimpy clothes, bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, cow print bikini, cow print thighhighs <[ezcovered][get eff_gen _before=[ _after=]]>
 ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:0588 fragmented swimsuit_v1_pony:0.6>
-4ng3ll1ng, {blue||white||black} lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:4ng3ll1ngXLP:0.6>
+4ng3ll1ng, blue lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:4ng3ll1ngXLP:0.6>
+4ng3ll1ng, white lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:4ng3ll1ngXLP:0.6>
+4ng3ll1ng, black lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:4ng3ll1ngXLP:0.6>
 bodypaint clothes, bodypaint, <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint clothes_pony_V1.0:1>
 center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][get eff_gen _before=[ _after=]]>
 open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][get eff_gen _before=[ _after=]]>
@@ -93,7 +95,9 @@ unconventional maid, yuino maid dress, <[ezcovered][get eff_gen _before=[ _after
 [/tags]
 
 [tags clothing clothing_type="rave"]
-<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, {glowing, exhibitionism, neon_lights, bodypaint||fishnet thighhighs||bodypaint, glitter, crotchless_panties, cupless_bra, lingerie}, <[eznude][get eff_gen _before=[ _after=]]>, {neon_green||neon_pink||neon_white||neon_yellow||neon_orange||neon_blue}**(fishing net:1.5)**
+<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, glowing, exhibitionism, neon_lights, bodypaint, <[eznude][get eff_gen _before=[ _after=]]>, [call wildcards/choose_neon]**(fishing net:1.5)**
+<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, glowing, exhibitionism, neon_lights, bodypaint, fishnet thighhighs, bodypaint, glitter, crotchless_panties, cupless_bra, lingerie, <[eznude][get eff_gen _before=[ _after=]]>, [call wildcards/choose_neon]**(fishing net:1.5)**
+<lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, glowing, exhibitionism, neon_lights, bodypaint, bodypaint, glitter, crotchless_panties, cupless_bra, lingerie, <[eznude][get eff_gen _before=[ _after=]]>, [call wildcards/choose_neon]**(fishing net:1.5)**
 bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>, <[allpiercings]>
@@ -150,12 +154,15 @@ bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow g
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:foreignlimb:1> foreignlimb, (mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton:1.5), extra mechanical limbs, multiple limbs, 义肢拘束
 fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
-wearing latex bondage outfit, bondage, bound, BDSM, shibari, {ring||ball} gag, <[eznude][get eff_gen _before=[ _after=]]>
+wearing latex bondage outfit, bondage, bound, BDSM, shibari, ring gag, <[eznude][get eff_gen _before=[ _after=]]>
+wearing latex bondage outfit, bondage, bound, BDSM, shibari, ball gag, <[eznude][get eff_gen _before=[ _after=]]>
 bondage outfit, bondage clothing, HDA_BondageOutfitXL
 dominatrix outfit, bondage outfit, bondage clothing
 blindfold, covered eyes, chain, collar, bondage outfit, underboob, black short shorts
 bondage harness, belt collar, arms behind back, o-ring, <lora:better_bondage_pdxl_goofy:1> betterBondage, bondage, bdsm
-<lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, [chance 50]{white||black} pantyhose[/chance][else]bare legs[/else]
+<lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, white pantyhose
+<lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, black pantyhose
+<lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, bare legs
 wearing [choose][call wildcards/species/animals][/choose] shaped mask and hood, wearing mask over eyes, bondage hood, covered eyes, wearing latex bondage outfit, bondage, bound, BDSM, <[eznude][get eff_gen _before=[ _after=]]>
 [/tags]
 
@@ -240,7 +247,8 @@ evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][
 <lora:underboobnunILL:0.5> underboob nun, latex nun, underboob, nun, habit, detached sleeves, breast curtains, <[covered][lower][get eff_gen _before=[ _after=]]>
 <lora:NunV3ILL:0.5> nun, thighhighs, habit, large breasts, garter straps, frills, white skirt, long sleeves, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:NunV4ILL:0.5> nun, pasties, habit, skirt, see-through, zipper, <[covered][upper][get eff_gen _before=[ _after=]]>
-<lora:latexbodysuitnunILL:0.5> latex bodysuit nun, latex, nun, bodysuit, skin tight, {black||white} bodysuit, shiny clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:latexbodysuitnunILL:0.5> latex bodysuit nun, latex, nun, bodysuit, skin tight, black bodysuit, shiny clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:latexbodysuitnunILL:0.5> latex bodysuit nun, latex, nun, bodysuit, skin tight, white bodysuit, shiny clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:NunV5ILL:0.5> nun, latex leotard, habit, garter straps, fishnet thighhighs, cross, <[ezcovered][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
 <lora:gothicsheerleotardILL:0.5> see-through leotard, wide sleeves, long sleeves, thigh boots, thighhighs, highleg leotard, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes
