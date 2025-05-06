@@ -1,5 +1,6 @@
 (gwen stacy:1.3)
 (gwen stacy:1.3), <lora:SpiderGwen_Fortnite_PXL_Leaf2:1> spidergwen, blonde hair, blue eyes
+(gwenom:1.3), <lora:gwenom:1> gwenom
 (mary jane watson:1.3)
 (wonder woman:1.3)
 (poison ivy:1.3)
@@ -11,7 +12,15 @@
 (raven \(dc\):1.3)
 (starfire:1.3)
 (she-venom:1.3)
+(she-venom:1.3), <lora:She-Venom_Illustrious:1> She-Venom
 (she-venom:1.3), <lora:SheVenomFortnite:1> sharp teeth, teeth
+(she-venom:1.3) <lora:She-Venom_Lewd:1>
+(she-venom:1.3), <lora:shevenom-pdxl-nvwls-v1:1> shevnm, mask, sharp teeth, tongue, black bodysuit
+(she-venom:1.3), <lora:SheVenomILf:1> sh3ilf, sharp teeth, bodysuit, muscular, claws, long tongue, tongue out
+(she-venom:1.3), <lora:Persephone_Symbiote_-__Marvel_Spiderman__Venom_:1> PersephoneSym, white hair, low twintails, very long hair, crossed bangs, muscular female, black skin, monster girl, symbiote, white eyes, no pupils, white body pattern, featureless face, no mouth, black claws, symbiote
+(venom \(horse\):1.3), horse anthro, (genderswap:1.5), <lora:VenomHorse:1> VenomHorse, anthro, anthro horse, glowing eyes, white eyes, black hair, black body, white markings, tail, muscular, claws, sharp teeth, no pupil, black mane, tail
+(venom \(horse\):1.3), horse anthro, (genderswap:1.5), <lora:Venom_Horse_marvel:1> venom horse, anthro, anthro horse, glowing eyes, white eyes, black hair, black body, white markings, tail, muscular, claws, sharp teeth, no pupil, black mane, tail
+(venom \(horse\):1.3), horse anthro, (genderswap:1.5), <lora:VenomHorsePXL:1> VenomHorsePXL, anthro, anthro horse, glowing eyes, white eyes, black hair, black body, white markings, tail, muscular, claws, sharp teeth, no pupil, black mane, tail
 (april o'neil:1.3)
 (april o'neil:1.3) <lora:April_O_Neil_Fortnite:1>
 (april o'neil:1.3), <lora:Aprilfn:1> Aprilfortnite, brown hair, brown eyes

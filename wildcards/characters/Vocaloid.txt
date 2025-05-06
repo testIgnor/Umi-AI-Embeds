@@ -85,5 +85,34 @@
 (bicute bunnies miku:1.3), vocaloid, aqua eyes, hair between eyes, blue hair, aqua hair, blue eyes
 (bicute bunnies miku \(white bunny\):1.3), vocaloid, aqua eyes, hair between eyes, blue hair, aqua hair, blue eyes
 (racing miku \(2013\):1.3), vocaloid, aqua eyes, long hair, aqua hair, very long hair, dark skin
+(venom miku:1.3), vocaloid, <lora:chokopaii_vanommiku_illustriousXL:1> vnmmiku, monster girl, long hair, black hair, hair between eyes, twintails, white eyes
 (kagamine rin:1.3), vocaloid, blonde hair, short hair, blue eyes
 (kagamine len:1.3), vocaloid, blonde hair, short hair, blue eyes
+(kasane teto:1.3), utau, red eyes, drill hair, red hair
+(adachi rei:1.3), utau, orange hair, orange eyes
+(kasane teto \(utau\):1.3), utau, drill hair, red hair
+(kasane teto \(sv\):1.3), utau, red eyes, drill hair, ahoge, red hair
+(utane uta:1.3), utau, purple hair, short hair, purple eyes
+(momone momo:1.3), utau, long hair, pink hair
+(yokune ruko:1.3), utau, twintails, black hair
+(nurse robot type t:1.3), utau, short hair, blonde hair
+(sekka yufu:1.3), utau, long hair
+(zundamon \(utau\):1.3), utau, green hair, long hair, low ponytail, yellow eyes
+(sukone tei:1.3), utau, long hair, red eyes
+(nene nene:1.3), utau, short hair
+(gekiyaku:1.3), utau, long hair, red eyes
+(kasane teto \(halloween\):1.3), utau, red eyes, drill hair, ahoge, red hair
+(pearto:1.3), utau, red hair
+(poyoroid:1.3), utau, pink hair, short hair, aqua hair
+(kasane teto \(voicepeak\):1.3), utau, ahoge, drill hair, red hair, red eyes, hair between eyes
+(rival teto \(project voltage\):1.3), utau, ahoge, drill hair, red hair
+(kasane neko \(haru57928031\):1.3), utau, ahoge, drill hair, tail, cat ears, cat tail, animal ears
+(ouka miko:1.3), utau, tail
+(haruka nana:1.3), utau, twintails, pink hair
+(xia yu yao:1.3), utau, long hair, black hair
+(nagone mako:1.3), utau, long hair, ponytail, black hair
+(nizimine kakoi:1.3), utau, green hair
+(sister teto:1.3), utau, drill hair, red hair
+(yurika sayu:1.3), utau, long hair, blue hair, blue eyes
+(sakura teto:1.3), utau, drill hair, pink hair
+(denka shaa:1.3), utau, twintails, orange hair, multicolored hair

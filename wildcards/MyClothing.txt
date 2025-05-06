@@ -211,6 +211,10 @@ functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
 <[eztopless][get eff_gen _before=[ _after=]]>
 slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingshotIllustrious:1>
 (symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>
+(symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>, <lora:She Venom IL:1> she venom, black bodysuit
+(symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>, <lora:Venom Absorb:1> SYMBIOTE, TENTACLES, TENTACLE SEX, TONGUE OUT, LONG TONGUE
+(symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>, <lora:checkpoint-e30_s510:1> venomization, symbiote bodysuit, torn bodysuit, high heels, slit pupils, womb tattoo, sharp teeth, black tongue, long tongue
+(symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>, <lora:Concept_Venom_AssimilationTransformationCorruption_-_PDXL:1> venom_assimilation
 naked cloak, <[eznude][get eff_gen _before=[ _after=]]>
 fully clothed, [choose][call wildcards/colors][/choose] kimono, kimono, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
 ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered][get eff_gen _before=[ _after=]]>
