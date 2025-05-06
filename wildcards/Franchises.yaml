@@ -43,18 +43,27 @@
     - Palworld
     - MySpecies
     - Anthro
+'<[model][pony]>source_furry, $#_=Species/Preferred Animals=_;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
+  Description:
+    - Random Species
+  Tags:
+    - Preferred Animals
+    - MySpecies
+    - Anthro
 '<[model][pony]>source_furry, $#_=Species/Animals=_;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
     - Animals
     - MySpecies
+    - Anthro
 '<[model][pony]>source_furry, $#_=Species/Animals=_;theanimal#$, feral $#theanimal#$**(anthro:1.5), (hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
     - Animals
     - MySpecies
+    - Feral
 '<[model][illu]>source_anime, _=Species/Robots=_':
   Description:
     - Robots
