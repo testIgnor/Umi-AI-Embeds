@@ -1,5 +1,6 @@
 (frieren:1.3), sousou no frieren, purple hair, green eyes, grey hair, white hair, twintails, long hair, pointy ears
-(fern \(sousou no frieren\):1.3), sousou no frieren, purple hair, purple eyes, twintails, long hair
+(fern \(sousou no frieren\):1.3), sousou no frieren, purple hair, purple eyes, long hair
+(fern \(young\) \(sousou no frieren\):1.3), sousou no frieren, purple hair, purple eyes, twintails, long hair
 (ubel \(sousou no frieren\):1.3), sousou no frieren, hair between eyes, purple eyes, green hair, side ponytail, long hair
 (aura \(sousou no frieren\):1.3), sousou no frieren, purple hair, blue eyes, pink hair, twintails, long hair
 (serie \(sousou no frieren\):1.3), sousou no frieren, blonde hair, yellow eyes, long hair, pointy ears
