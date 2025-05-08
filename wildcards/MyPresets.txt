@@ -29,6 +29,7 @@
 <[imageformat]>, as a wolf taur, as a canine taur, <lora:canine_taur_PDXL:0.66> taur, canine taur, wolf taur
 <[imageformat]>, as a dragon taur, <lora:humandragon_taur:0.66> dragonhumantaur
 as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaurfuta_NOOB_V-PRED1.0_V2_dim32:1>, [call wildcards/choose_centaur]
+as a centaur, robot centaur, cyborg centaur, android centaur, horse legs, human torso, taur, animal ears <lora:Centaurfuta_NOOB_V-PRED1.0_V2_dim32:1>, [call wildcards/choose_centaur]
 <[imageformat]>, as a dark cyberpunk, cyborg, <lora:Certaintyofsteelpd1:1> AKDTFLPD, stitches
 <[imageformat]>, as a heavenly abomination, <lora:angel_body_horror_style:1> angel body horror
 <[imageformat]>, with a parasite infestation, <lora:Parasite_eldritch_transformation:1> Changed, horror, parasite, takeover, transformation, (body horror:1.2), skin change, Corruption, eldritch
