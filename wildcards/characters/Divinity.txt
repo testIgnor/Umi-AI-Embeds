@@ -4,5 +4,5 @@
 (Goddess of Moon:1.3), brown hair, long hair, green eyes, red lips <lora:Kai_Goddess of Moon:0.75>
 (Goddess of Youth:1.3), blonde hair, long hair, sidelock, blue eyes, red lips <lora:Kai_Goddess of Youth:0.75>
 (goddess:1.3), silver hair, long hair, purple eyes, red lips <lora:Kai_goddess:0.75>
-(luce:1.3) <lora:luce:1>
+(luce:1.3), short hair, blue hair, blue eyes <lora:luce:1>
 (britannia:1.3), <lora:Goddess_britannia_illustrious_Leaf1:1> Britannia, brown hair, long hair, brown eyes
