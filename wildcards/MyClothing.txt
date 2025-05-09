@@ -379,6 +379,7 @@ olympic gymnastics outfit, sheer clothes, <[ezcovered][get eff_gen _before=[ _af
 <lora:Loincloth_Aside_XL:1> loincloth aside, <[ezbottomless][get eff_gen _before=[ _after=]]>, loincloth lift
 <lora:toybox-xl-ill-v2:1> dildo under clothes
 <lora:toybox-xl-ill-v2:1> dildo under panties
+subtle exposure, nipple slip, pussy slip
 
 [if "'futanari' in eff_gen"]
 <lora:DownbulgeIL:1> down_bulge
