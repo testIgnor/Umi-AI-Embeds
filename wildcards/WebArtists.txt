@@ -85,7 +85,6 @@ by revolverwing <lora:rwing illustrious 003:1>
 by kittew <lora:kittew-artist-richy-v1_ixl:1>
 by hornyx <lora:hornyx_pony:1>
 by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
-by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:0.8> cianyo_style
 by picturd <lora:PicturdLycoXL:1>
 by whisperfoot, <lora:whisperfootILLUS:1> whisperfoot
 by burgerkiss, <lora:Burger_Kiss_Style_-_Illustrious:1> BurgerKiss
@@ -182,6 +181,7 @@ by takami akai <lora:Takami Akai_illustriousXL:1>
 <lora:RetroXL:1> r3tr0styl3, artist style: urushihara satoshi, 1990s_\(style\), 1980s_\(style\)
 <lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
 <lora:mahou_shoujo_ai:1> mahou shoujo ai
+[by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:0.8> cianyo_style|by dandon fuga]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
@@ -372,6 +372,7 @@ by takami akai <lora:Takami Akai_illustriousXL:1>
 <lora:RetroXL:1> r3tr0styl3, artist style: urushihara satoshi, 1990s_\(style\), 1980s_\(style\)
 <lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
 <lora:mahou_shoujo_ai:1> mahou shoujo ai
+[by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:0.8> cianyo_style|by dandon fuga]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
 [by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
