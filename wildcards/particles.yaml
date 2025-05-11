@@ -54,19 +54,93 @@
     - Particle
     - eznips
     - Inverted
-'<[eznips]>, (topless:1.2), <[covered][lower][female]>':
+'<[eznips]>, (topless:1.2)':
   Description:
     - Topless
   Tags:
     - Particle
     - ezTopless
+'<[eznips]>, (topless:1.2), <[allpiercings]>':
+  Description:
+    - Topless
+  Tags:
+    - Particle
+    - ezTopless
+'<[eznips]>, (nipple slip:1.2)':
+  Description:
+    - Nip Slip
+  Tags:
+    - Particle
+    - ezExposure
+    - upper
     - female
-'<[eznips]>, (topless:1.2), <[covered][lower][futanari]>':
+    - futanari
+'<[eznips]>, (areola slip:1.2)':
   Description:
-    - Topless
+    - Areola Slip
   Tags:
     - Particle
-    - ezTopless
+    - ezExposure
+    - upper
+    - female
+    - futanari
+'<[eznips]>, (nipple slip:1.2), <[allpiercings]>':
+  Description:
+    - Nip Slip
+  Tags:
+    - Particle
+    - ezExposure
+    - upper
+    - female
+    - futanari
+'<[eznips]>, (areola slip:1.2), <[allpiercings]>':
+  Description:
+    - Areola Slip
+  Tags:
+    - Particle
+    - ezExposure
+    - upper
+    - female
+    - futanari
+'(pussy peek:1.2)':
+  Description:
+    - Pussy Peek
+  Tags:
+    - Particle
+    - ezExposure
+    - lower
+    - female
+'(penis peek:1.2)':
+  Description:
+    - Penis Peek
+  Tags:
+    - Particle
+    - ezExposure
+    - lower
+    - futanari
+'nude, <[eznips]>, {75%<[ezpussy][standard]>||<[ezpussy]>}':
+  Description:
+    - Nude Female
+  Tags:
+    - EZNude
+    - Female
+'nude, <[eznips]>, exposed penis':
+  Description:
+    - Nude Futa
+  Tags:
+    - EZNude
+    - Futanari
+'nude, <[eznips]>, <[allpiercings]>, {75%<[ezpussy][standard]>||<[ezpussy]>}':
+  Description:
+    - Nude Female
+  Tags:
+    - EZNude
+    - Female
+'nude, <[eznips]>, <[allpiercings]>, exposed penis':
+  Description:
+    - Nude Futa
+  Tags:
+    - EZNude
     - Futanari
 'lactation, milky breasts, (pregnant:1.2)':
   Description:

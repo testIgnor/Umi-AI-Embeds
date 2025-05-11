@@ -1,8 +1,8 @@
 [tags clothing clothing_type="bikini"]
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 sling bikini, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
-monokini, topless, <[ezcovered][get eff_gen _before=[ _after=]]>
-monokini, topless, <[ezcovered][get eff_gen _before=[ _after=]]>, <[allpiercings]>
+monokini, <[eztopless]>
+monokini, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingshotPony_resize:1>
 tapeproject, black tape, covered nipples, <[ezcovered][get eff_gen _before=[ _after=]]>, navel <lora:TapeProjectPDXL_byKonan:1>
 <lora:BLACK_TAPE_PROJECT:1> (Black_Tape_Project:1.8), (Black Tape Project:1.2), (naked_tape:1.2), naked tape, tattoo, black electrical tape, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -31,23 +31,26 @@ open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][ge
 tankini, tank top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
 high cut crop top hoodie with bikini, breast-exposing crop top hoodie, bikini top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes
+breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 business suit bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="bodysuit"]
 biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][get eff_gen _before=[ _after=]]>**(helmet, headwear, hat:2.0)**
 skinbodysuit, bodysuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:skinbodysuit e3:1>
-latex bodysuit, <lora:bodysuit_illustrious_V1.0:1> bodysuit, latex, zipper, unzipping, <[covered][upper][get eff_gen _before=[ _after=]]>
-latex bodysuit, <lora:bodysuit_illustrious_V1.0:1> bodysuit, latex, zipper, unzipping, <[covered][lower][get eff_gen _before=[ _after=]]>
+latex bodysuit, <lora:bodysuit_illustrious_V1.0:1> bodysuit, latex, zipper, unzipping, <[ezexposure][upper][get eff_gen _before=[ _after=]]>,
+latex bodysuit, <lora:bodysuit_illustrious_V1.0:1> bodysuit, latex, zipper, unzipping, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 latex bodysuit, <lora:bodysuit_illustrious_V1.0:1> bodysuit, latex, zipper, <[ezcovered][get eff_gen _before=[ _after=]]>
 ruanyi0469, Nude color bodysuit, shiny clothes, skin tight, tattoo, barcode, nude, metal spine, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:0469 Stellar Blade (Skin Suit)_v3_pony:0.5>
 metalSuit, necklace, high heels, helmet, <[eznude][get eff_gen _before=[ _after=]]> <lora:MetalSuitPonyV2:0.5>
 leotard, athletic leotard, tight clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 leotard, sheer leotard, tight clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
-leotard, breastless leotard, tight clothes, <[eztopless][get eff_gen _before=[ _after=]]>
-leotard, crotchless leotard, tight clothes, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+leotard, breastless leotard, tight clothes, <[eztopless]>
+leotard, crotchless leotard, tight clothes, <[ezbottomless][get eff_gen _before=[ _after=]]>
 goth bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][get eff_gen _before=[ _after=]]>
-bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]>, o-ring
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[eznude][get eff_gen _before=[ _after=]]>, o-ring
@@ -63,10 +66,12 @@ bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow g
 <lora:Earthbound_-_Alice_Nikke_Cosplay_-_IllustriousXL_r1:1> alice_cosplay, skintight, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay
 <lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+<lora:Earthbound_-_Cinderella_Nikke_Cosplay_-_ILLUSTRIOUSXL:1> nikkecosplay, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Racing_Miku_2022_Cosplay_-_ILLUSTRIOUSXL:1> mikucosplay, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:foreignlimb:1> foreignlimb, (mechanical arms, mechanical legs, arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, exoskeleton:1.5), extra mechanical limbs, multiple limbs, 义肢拘束
 mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff_gen _before=[ _after=]]>
+mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][upper][get eff_gen _before=[ _after=]]>
+mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:th1nbodysu1t:1> th1nbodysu1t, highleg, <[covered][lower][get eff_gen _before=[ _after=]]>
 <lora:th1nbodysu1t:1> th1nbodysu1t, highleg, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:th1nbodysu1t:1> th1nbodysu1t, highleg, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -76,11 +81,11 @@ mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff
 [tags clothing clothing_type="bunnysuit"]
 reverse bunnysuit, functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
 bunnysuit, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
-bunnysuit, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, areola slip
+bunnysuit, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, functionally nude
 reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
-reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, areola slip
-<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, wearing glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through,sideless outfit, wearing glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+reverse bunnysuit, heart pasties, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, functionally nude
+<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through, sideless outfit, wearing glass slipper, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:sirius(rabbit)XLNAI:1> translucent_bunnysuit, slingshot swimsuit, see-through, sideless outfit, wearing glass slipper, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 translucent bunnysuit
 [/tags]
 
@@ -100,8 +105,8 @@ unconventional maid, yuino maid dress, <[ezcovered][get eff_gen _before=[ _after
 <lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, glowing, exhibitionism, neon_lights, bodypaint, bodypaint, glitter, crotchless_panties, cupless_bra, lingerie, <[eznude][get eff_gen _before=[ _after=]]>, [call wildcards/choose_neon]**(fishing net:1.5)**
 bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>
-glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>, <[allpiercings]>
-revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, slutwear:1.2), <[ezcovered][get eff_gen _before=[ _after=]]>, <[eznips]>, navel**(fishing net:1.5)**
+revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, slutwear:1.2), <[ezcovered][get eff_gen _before=[ _after=]]>, navel**(fishing net:1.5)**
+revealing clothes, see-through, (loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, slutwear:1.2), <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>, navel**(fishing net:1.5)**
 blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos, <lora:Lunas-Blackedwear-Concept-SDXL-A1:1>
 <lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:St._Louis_Luxurious_Wheels:1> L0x0r100s_Wh33l5, silver dress, halterneck, backless dress, halter dress, revealing clothes, <[covered][upper][get eff_gen _before=[ _after=]]>
@@ -115,33 +120,50 @@ blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos
 nipple chain, <lora:Sex Queen:1> Chest chain, chain
 mesh shorts, mesh shorts with panties, mesh shirt, mesh shirt with bra, <[ezcovered][get eff_gen _before=[ _after=]]>
 mesh shorts, mesh shirt, mesh shirt with bra, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
-mesh shorts, mesh shorts with panties, mesh shirt, <[covered][lower][get eff_gen _before=[ _after=]]>, <[eztopless][get eff_gen _before=[ _after=]]>
-mesh shorts, mesh shirt, <[ezbottomless][get eff_gen _before=[ _after=]]>, <[eztopless][get eff_gen _before=[ _after=]]>
+mesh shorts, mesh shorts with panties, mesh shirt, <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+mesh shorts, mesh shirt, <[ezbottomless][get eff_gen _before=[ _after=]]>, <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+mesh shorts, mesh shirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+mesh shorts, mesh shirt, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+mesh shorts, mesh shirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="wedding"]
 fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
-wedding dress, bride, wedding, open front dress, exposed crotch dress, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
-fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+wedding dress, bride, wedding, open front dress, exposed crotch dress, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 functionally nude, skimpy clothes, wedding lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, [wedding dress, bride, wedding|see-through bikini]
-functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white lingerie, bride, wedding, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 (wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint**(skirt, bridal veil:2.0)**
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:0765 flower wedding_v1_pony:1>
+ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]> <lora:0765 flower wedding_v1_pony:1>
+ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezexposure][lower][get eff_gen _before=[ _after=]]> <lora:0765 flower wedding_v1_pony:1>
+ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezexposure][upper][get eff_gen _before=[ _after=]]> <lora:0765 flower wedding_v1_pony:1>
 white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 <lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][get eff_gen _before=[ _after=]]>
-<lora:Lace_Slingshot:1>  L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Lace_Slingshot:1> L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Lace_Slingshot:1> L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+<lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown
 skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes
+skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:hud_dk_mdressXLPfix:1> hud_dk_mdress, see-through white loose fit lace mod dress, short dress, baggy clothes, long sleeves, white hairband, earrings
+<lora:hud_dk_mdressXLPfix:1> hud_dk_mdress, see-through white loose fit lace mod dress, short dress, baggy clothes, long sleeves, white hairband, earrings, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 bridal lingerie, <lora:bridal_2.0:1> BR1D4LL1NG3R13
 <lora:lbc_pony_wedding dress_126:1> lbc_gd_wedding dress
 [/tags]
@@ -174,41 +196,52 @@ fully clothed, [choose][call wildcards/colors][/choose] china dress, qipao, long
 fully clothed, skimpy clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 naked raincoat, <[eznude][get eff_gen _before=[ _after=]]>
 cupless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
-naked apron, <[eznude][get eff_gen _before=[ _after=]]>
-naked jacket, <[eznude][get eff_gen _before=[ _after=]]>
+naked apron, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+naked jacket, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <[ezbottomless][get eff_gen _before=[ _after=]]>
-nude, <[eznude][get eff_gen _before=[ _after=]]>
+<[eznude][get eff_gen _before=[ _after=]]>
 nippleless bra, crotchless panties, sheer panties, see through panties
 heavy armor, fully clothed, armor, <[ezcovered][get eff_gen _before=[ _after=]]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
 chastity belt
 nude with pride flag draped over body, <[eznude][get eff_gen _before=[ _after=]]>
 zero suit, <[ezcovered][get eff_gen _before=[ _after=]]>, fully clothed, tight clothes
-naked armor, armor, <[eznude][get eff_gen _before=[ _after=]]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
+naked armor, armor, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(plate, helmet, headwear, hat:2.0), (holding, weapon:1.7)**
 virgin destroyer sweater, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
 virgin destroyer sweater, sideboob, underboob, white panties, white thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:attire_virgindestroyer_ponyXL:1>
 virgin destroyer sweater, detached sleeves, panties, thighhighs <[ezcovered][get eff_gen _before=[ _after=]]> <lora:virgin_destroyer_sweater_v0.1-pony:1>
-chastity belt, <[eztopless][get eff_gen _before=[ _after=]]>
+chastity belt, <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 see-through, ballerina, black thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]>
 nippleless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
 shibari under clothes, see-through clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 tight t-shirt, wet t-shirt, short shorts, <[ezcovered][get eff_gen _before=[ _after=]]>
 cupless bra, crotchless panties, sheer panties, see through panties
 painted clothes, false clothes, fully clothed, functionally nude, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint
-naked kimono, <[eznude][get eff_gen _before=[ _after=]]>
-naked shirt, <[eznude][get eff_gen _before=[ _after=]]>
+naked kimono, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+naked kimono, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+naked kimono, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+naked shirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+naked shirt, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+naked shirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 business suit, tight clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 virgin killer sweater, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
 school swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 naked cape, <[eznude][get eff_gen _before=[ _after=]]>
 fully clothed, oversized sweater, naked sweater, long sleeves, sleeves past wrists, covered nipples, <[ezbottomless][get eff_gen _before=[ _after=]]>
-open dress, <[eznude][get eff_gen _before=[ _after=]]>
-open bathrobe, <[eznude][get eff_gen _before=[ _after=]]>
-open bathrobe, <[covered][upper][get eff_gen _before=[ _after=]]>
-open clothes, <[eznude][get eff_gen _before=[ _after=]]>
-open shirt, <[eznips]>
-<lora:Open_Clothes_Lingerie:1> open shirt, loose necktie, open pants, black bra, white panties
-functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
-<[eztopless][get eff_gen _before=[ _after=]]>
+open dress, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+open dress, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+open dress, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+open bathrobe, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+open bathrobe, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+open bathrobe, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+open clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+open clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+open clothes, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+open shirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+open shirt, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+open shirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:Open_Clothes_Lingerie:1> open shirt, loose necktie, open pants, black bra, white panties, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+functionally nude, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingshotIllustrious:1>
 (symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>
 (symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>, <lora:She Venom IL:1> she venom, black bodysuit
@@ -217,8 +250,8 @@ slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:slingsho
 (symbiote, venom symbiote, venom \(marvel\), liquid latex, living clothes:1.1), latex clothes, <[eznude][get eff_gen _before=[ _after=]]>, <lora:Concept_Venom_AssimilationTransformationCorruption_-_PDXL:1> venom_assimilation
 naked cloak, <[eznude][get eff_gen _before=[ _after=]]>
 fully clothed, [choose][call wildcards/colors][/choose] kimono, kimono, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
-ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezcovered][get eff_gen _before=[ _after=]]>
-fully clothed, loose dress gown, covered nipples, <[ezbottomless][get eff_gen _before=[ _after=]]>
+ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+fully clothed, loose dress gown, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 fully clothed, impossible clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 <[ezMaleSwimwearChallenge][get eff_gen _before=[ _after=]]>
 plugsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -227,8 +260,10 @@ naked scarf, <[eznude][get eff_gen _before=[ _after=]]>
 naked hoodie, <[eznude][get eff_gen _before=[ _after=]]>
 shibari over clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 nippleless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
-monokini, <[eztopless][get eff_gen _before=[ _after=]]>
-cheerleader uniform, cheerleader skirt, skimpy clothes, covered nipples, <[ezbottomless][get eff_gen _before=[ _after=]]>
+monokini, <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
+cheerleader uniform, cheerleader skirt, skimpy clothes, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+cheerleader uniform, cheerleader skirt, skimpy clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
+cheerleader uniform, cheerleader skirt, skimpy clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 cupless bra, crotchless panties, sheer panties, see through panties, condom belt, used condom**(condom on penis:2.0)**
 magical girl costume, <[ezbottomless][get eff_gen _before=[ _after=]]>
 corrupted magical girl costume <lora:Corruptionv2.1XL:1>, <[ezbottomless][get eff_gen _before=[ _after=]]>
@@ -246,6 +281,9 @@ virgin slayer sweater, thighhighs, detached sleeves, buttplug, <[ezcovered][get 
 virgin terminator sweater, <[ezcovered][get eff_gen _before=[ _after=]]>, pi-vrgn-trm-swtr, long sleeves, ribbed thighhighs, white sweater, ribbed sleeves, alternate costume, detached sleeves, side-tie panties <lora:VirginTerminatorSweater:1>
 fully clothed, wearing tight leather armor, armor, <[eznude][get eff_gen _before=[ _after=]]>
 fully clothed, wearing tight leather armor, armor, <[ezcovered][get eff_gen _before=[ _after=]]>
+fully clothed, wearing tight leather armor, armor, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+fully clothed, wearing tight leather armor, armor, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+fully clothed, wearing tight leather armor, armor, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 evening gown, formal clothes, see-through clothes, revealing clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
 evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:underboobnunILL:0.5> underboob nun, latex nun, underboob, nun, habit, detached sleeves, breast curtains, <[covered][lower][get eff_gen _before=[ _after=]]>
@@ -258,10 +296,16 @@ evening gown, formal clothes, see-through clothes, revealing clothes, <[eznude][
 fully clothed, skimpy clothes
 fully clothed, wedding dress, bride, wedding
 fully clothed, kimono
+loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, slutwear, <lora:Loose_clothing_IL:1> Loose clothing, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
+loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, slutwear, <lora:Loose_clothing_IL:1> Loose clothing, <[ezexposure][upper][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
+loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, slutwear, <lora:Loose_clothing_IL:1> Loose clothing, <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(fishing net:1.5)**
 loose t-shirt, crop top, short shorts, fishnet tights, fishnet sleeves, slutwear, <lora:Loose_clothing_IL:1> Loose clothing**(fishing net:1.5)**
 school uniform
 serafuku
 fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume
+fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+fully clothed, skimpy clothes, nun's habit, nun outfit, nun costume, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 fully clothed, impossible clothes
 maid, maid uniform, maid headdress, maid apron
 unconventional maid, tactical maid
@@ -269,27 +313,38 @@ unconventional maid, wa maid, traditional japanese maid
 unconventional maid
 bondage outfit, bondage clothing, HDA_BondageOutfitXL
 harem outfit
+harem outfit, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+harem outfit, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+harem outfit, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 shibari
 fully clothed, ballroom gown
 fully clothed, dress
 fully clothed, formal dress
-official outfit, official style, original outfit, original style
+fully clothed, ballroom gown, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+fully clothed, dress, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+fully clothed, formal dress, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 tied shirt
 crop top
 crop top, tied shirt
 front-tie top
 crop top, front-tie top
+crop top, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+crop top, tied shirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+front-tie top, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+crop top, front-tie top, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 race queen, race queen outfit
 tribal clothing, tribal outfit
 backless dress, sleevless dress, loose dress, areola slip, <lora:Loose_clothing_IL:1> Loose clothing,
 gothic lolita, lolita fashion, black dress, black and white dress, long dress, frilled dress, frills, ribbon, bow, blush, long sleeves, thighhighs
 parasite, <lora:chokerV2:1> alien parasite ckr sucked on neck, ckr
 goddess dress, <lora:goddessdressILL:0.4> g0dd3ss, white dress, cleavage, plunging neckline
+goddess dress, <lora:goddessdressILL:0.4> g0dd3ss, white dress, cleavage, plunging neckline, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 parasite, <lora:starfish_parasites:0.6> alien parasites on breasts, srfh, sucked on breasts, <lora:ALTXLpony_063_8:1>**(long torso:2.0)**
-(hand bra:1.3), topless, covering self
+(hand bra:1.3), <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>, covering self
 hooters uniform, lora:Hooters_Outfit_Illustrious:1> hooters logo, short shorts, orange shorts, booty shorts, owl logo, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:Char_mhwilds-Gemma-ILXL:1> crop top, cropped jacket, red jacket, midriff, pants, chaps, tool belt
 <lora:Outfit_Soph_AthenaCosplay-ILXL:1> gold dress, clasp, cloak, ath3na, (large headpiece, gold crown:1.1), cleavage
+<lora:Outfit_Soph_AthenaCosplay-ILXL:1> gold dress, clasp, cloak, ath3na, (large headpiece, gold crown:1.1), cleavage, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:CosplayTeamRocketIXL:1> Cosplay_TeamRocket, team rocket uniform, white jacket, cropped jacket, white skirt, elbow gloves, black thighhighs, zettai ryouiki
 <lora:edgDangerousBeastISLv1:1> dgrbst, animal ears, wearing dgrbst
 bat lingerie
@@ -297,89 +352,87 @@ bikini jeans
 breastless ghost costume
 cat lingerie
 china tracksuit
-daphne dress
-dongtan dress
-florida bikini
+china tracksuit, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+china tracksuit, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 front zipper swimsuit
-guitar little sister \(hitomi o\) \(cosplay\)
-gris swimsuit
 halloween dare succubus lingerie
-heattech leotard
-hot limit
-killer:jeans
-lumakini
 miku collar bikini
 open-chest sweater
+open-chest sweater, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 oppai hoodie
-paciane dress
 pentagram cutout
-rei no hitomi
-rei no mizugi
-rei no serafuku
-modakawa dress
-samurai jacket
 sharkini
 virgin annihilator sweater
-yomorio lingerie
-yuio maid dress
 black nurse outfit, enamel leather dark nurse
 backwards virgin killer sweater
-edie crop hoodie
 evolved virgin killer sweater
-lightning cat sweatshirt
 <lora:embedded penetrable sextoy illustrious v1.1:1> embedded_penetrable_sex_toy, x-ray, inside view, womb window, mechanical parts, mechanical fleshlight, sexdoll, transparent body, pink fleshlight
 <lora:embedded penetrable sextoy illustrious v1.1:1> embedded_penetrable_sex_toy, robot furry, anthro, sexfnaf, mechanical, transparent body, artificial vagina, red fleshlight
 <lora:embedded penetrable sextoy illustrious v1.1:1> embedded_penetrable_sex_toy, robot furry, anthro, sexfurry, x-ray, inside view, robotic body, womb window, furry
 <lora:foreignlimb:1.2> (foreignlimb:1.5), (arms behind back, reverse prayer, bound arms, bound legs, bound ankles, restrained, bondage, bound, bdsm, robotic exoskeleton:1.5), (extra mechanical arms, mechanical arms, mechanical legs, unbound mechanical arms, unbound mechanical legs:1.3), extra mechanical limbs, multiple limbs, (high heels, extremely high heels:1.2), exoskeleton, exosuit, 义肢拘束, <[eznude][get eff_gen _before=[ _after=]]>
-reverse virgin killer sweater, <lora:0947 reverse virgin killer sweater_v1_pony:1> ruanyi0947, turtleneck sweater, grey dress, virgin killer sweater, meme attire, bare arms, bare shoulders, navel, <[covered][upper][get eff_gen _before=[ _after=]]>
+reverse virgin killer sweater, <lora:0947 reverse virgin killer sweater_v1_pony:1> ruanyi0947, turtleneck sweater, grey dress, virgin killer sweater, meme attire, bare arms, bare shoulders, navel, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 cocktail dress
 parasite, parasiticP1, several shoots <lora:parasite_shoots__pussy:1>
 parasite, parasitPI, panties monster, big panty monster, plant parasite with inserts <lora:pussy_parasitelive_panties:1>
-tattered dress, ruined dress, ripped dress, exposed breasts, <[eznips]>
-tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[eznips]>
+tattered dress, ruined dress, ripped dress, exposed breasts, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 tattered dress, ruined dress, ripped dress, one breast visible through ripped clothes, <[eznips]>
 mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][lower][get eff_gen _before=[ _after=]]>
-tattered dress, ruined dress, ripped dress, exposed breasts, <[eznips]>, <[allpiercings]>
-tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[eznips]>, <[allpiercings]>
-tattered dress, ruined dress, ripped dress, one breast visible through ripped clothes, <[eznips]>, <[allpiercings]>
-oversized tank top, tank top, (breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <lora:Loose_clothing_IL:1> Loose clothing, <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank, military vehicle:2.0)**
-oversized tank top, tank top, (breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <lora:Loose_clothing_IL:1> Loose clothing, <[eznips]>, <[allpiercings]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank, military vehicle:2.0)**
-(crop top t-shirt, underboob, loose-fitting clothes:1.5), <lora:Loose_clothing_IL:1> Loose clothing, <[ezbottomless][get eff_gen _before=[ _after=]]>, <[covered][upper]>
+mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[covered][upper][get eff_gen _before=[ _after=]]>
+mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[ezcovered][get eff_gen _before=[ _after=]]>
+tattered dress, ruined dress, ripped dress, exposed breasts, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+tattered dress, ruined dress, ripped dress, one breast visible through ripped clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+oversized tank top, tank top, (breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <lora:Loose_clothing_IL:1> Loose clothing, <[ezexposure][upper][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank, military vehicle:2.0)**
+oversized tank top, tank top, (breasts visible through sleeves, loose-fitting clothes, sleeveless shirt:1.5), <lora:Loose_clothing_IL:1> Loose clothing, <[ezexposure][upper][get eff_gen _before=[ _after=]]>**(sleeves, jacket, tank, military vehicle:2.0)**
+(crop top t-shirt, underboob, loose-fitting clothes:1.5), <lora:Loose_clothing_IL:1> Loose clothing, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 (crop top t-shirt, underboob, loose-fitting clothes:1.5), <lora:Loose_clothing_IL:1> Loose clothing
-(crop top t-shirt, underboob, loose-fitting clothes:1.5), <lora:overhang_xl:1> crop top overhang
+(crop top t-shirt, underboob, loose-fitting clothes:1.5), <lora:overhang_xl:1> crop top overhang, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:Loose_clothing_IL:1> Loose clothing, open robes
-<lora:Loose_clothing_IL:1> Loose clothing, overhang, open robes, plunging neckline
-topless coveralls, coveralls, <[eztopless][get eff_gen _before=[ _after=]]>
+<lora:Loose_clothing_IL:1> Loose clothing, overhang, open robes, plunging neckline, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+topless coveralls, coveralls, <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 airline stewardess outfit, stewardess uniform
+airline stewardess outfit, stewardess uniform, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 (robotic exoskeleton:1.5), (mechanical arms, mechanical legs:1.2), exoskeleton, exosuit, <[eznude][get eff_gen _before=[ _after=]]>
-(oversized camisole, loose-fitting clothes, sleeveless shirt:1.5), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket:2.0)**
-(oversized chemise, loose-fitting clothes, sleeveless shirt:1.5), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket:2.0)**
-(oversized babydoll, loose-fitting clothes, sleeveless shirt:1.5), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, baby, doll:2.0)**
-(oversized negligee, loose-fitting clothes, sleeveless shirt:1.5), <[eznips]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, baby, doll:2.0)**
+(oversized camisole, loose-fitting clothes, sleeveless shirt:1.5), <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket:2.0)**
+(oversized chemise, loose-fitting clothes, sleeveless shirt:1.5), <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket:2.0)**
+(oversized babydoll, loose-fitting clothes, sleeveless shirt:1.5), <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, baby, doll:2.0)**
+(oversized negligee, loose-fitting clothes, sleeveless shirt:1.5), <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket, baby, doll:2.0)**
 (business suit leotard:1.3), business suit, tight clothes, bare legs, <[ezcovered][get eff_gen _before=[ _after=]]>**(stockings, leggings, pantyhose:1.5)**
 (business suit leotard:1.3), business suit, tight clothes, bare legs, bare arms, sleeveless, <[ezcovered][get eff_gen _before=[ _after=]]>**(stockings, leggings, pantyhose, jacket, sleeves:1.5)**
 (business suit leotard:1.3), business suit, tight clothes, stockings, leggings, pantyhose, <[ezcovered][get eff_gen _before=[ _after=]]>
+(business suit leotard:1.3), business suit, tight clothes, bare legs, <[ezexposure][upper][get eff_gen _before=[ _after=]]>**(stockings, leggings, pantyhose:1.5)**
+(business suit leotard:1.3), business suit, tight clothes, bare legs, bare arms, sleeveless, <[ezexposure][upper][get eff_gen _before=[ _after=]]>**(stockings, leggings, pantyhose, jacket, sleeves:1.5)**
+(business suit leotard:1.3), business suit, tight clothes, stockings, leggings, pantyhose, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 (full body tattoo, body covered in tattoos, many tattoos, tattoos on arms, tattoos on legs, tattoos everywhere:1.6), <[eznude][get eff_gen _before=[ _after=]]>
-untied tank top, <[eztopless][get eff_gen _before=[ _after=]]>
+untied tank top, <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 olympic gymnastics outfit
-olympic gymnastics outfit, sheer clothes, <[eznude][get eff_gen _before=[ _after=]]>
+olympic gymnastics outfit, sheer clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 olympic gymnastics outfit, sheer clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Queens_Gown:1> Queens_Garb, flowing royal dress, midriff, golden belt, <[ezbottomless][get eff_gen _before=[ _after=]]>, <[covered][upper][get eff_gen _before=[ _after=]]>
-<lora:Queens_Gown:1> Queens_Garb, flowing royal dress, midriff, golden belt, <[ezbottomless][get eff_gen _before=[ _after=]]>
+<lora:Queens_Gown:1> Queens_Garb, flowing royal dress, midriff, golden belt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:Queens_Gown:1> Queens_Garb, flowing royal dress, midriff, golden belt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:Queens_Gown:1> Queens_Garb, flowing royal dress, midriff, golden belt, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 <lora:nm_redloose:1> nm_redloose, navel, dress, shoes, red dress, short dress, o-ring, contrapposto, underboob, detached sleeves, high heels, red footwear, underwear, red panties, jewelry, earrings
+<lora:nm_redloose:1> nm_redloose, navel, dress, shoes, red dress, short dress, o-ring, contrapposto, underboob, detached sleeves, high heels, red footwear, underwear, red panties, jewelry, earrings, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:0526 See-through rhinestone chain clothes_v1_pony:1> ruanyi0526, belly chain, diamond \(gemstone\), barefoot, headdress, jewelry
 <lora:0402 Breast exposure fun_v1_pony:1> ruanyi0402, bare shoulders, wrist scrunchie, see-through, lace, breastless clothes, nipples, pussy
+<lora:0402 Breast exposure fun_v1_pony:1> ruanyi0402, bare shoulders, wrist scrunchie, see-through, lace, breastless clothes, nipples, pussy, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:overhang_xl:1> crop top overhang
+<lora:overhang_xl:1> crop top overhang, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:0438 chunli costume_v1_pony:1> ruanyi0438, thighhighs, detached sleeves, lace-trimmed legwear, breast curtains, corset, spiked bracelet, tassel, thong, chun-li, chinese clothes, spikes
-<lora:0325 printed transparent cheongsam_v1_pony:1> ruanyi0325, see-through dress, nipples, pelvic curtain, side slit, <[ezbottomless][get eff_gen _before=[ _after=]]>, short sleeves, china dress, star print
+<lora:0438 chunli costume_v1_pony:1> ruanyi0438, thighhighs, detached sleeves, lace-trimmed legwear, breast curtains, corset, spiked bracelet, tassel, thong, chun-li, chinese clothes, spikes, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:0325 printed transparent cheongsam_v1_pony:1> ruanyi0325, see-through dress, nipples, pelvic curtain, side slit, <[ezexposure][lower][get eff_gen _before=[ _after=]]>, short sleeves, china dress, star print
 <lora:0270 Slit nipple piercings_v1_pony:1> ruanyi0270, black dress, chain, choker, nipple piercing, see-through, pelvic curtain, <[ezbottomless][get eff_gen _before=[ _after=]]>, no panties
 <lora:0539 Fubuki fan costume_v1_pony:1> ruanyi0539, fingerless gloves, fur coat, high heel boots, pearl necklace, slingshot swimsuit
 <lora:sport bra_illustrious_V1.0:1> sports bra, sports panties
+<lora:sport bra_illustrious_V1.0:1> sports bra, sports panties, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:jewelry bikini_illustrious_V1.0:1> jewelry bikini, jewelry on nipples, jewelry on pussy
-<lora:Loincloth_Aside_XL:1> loincloth aside, <[ezbottomless][get eff_gen _before=[ _after=]]>, loincloth lift
+<lora:Loincloth_Aside_XL:1> loincloth aside, <[ezexposure][lower][get eff_gen _before=[ _after=]]>, loincloth lift
 <lora:toybox-xl-ill-v2:1> dildo under clothes
 <lora:toybox-xl-ill-v2:1> dildo under panties
-subtle exposure, nipple slip, pussy slip
+subtle exposure, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+subtle exposure, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+subtle exposure, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 
 [if "'futanari' in eff_gen"]
 <lora:DownbulgeIL:1> down_bulge
