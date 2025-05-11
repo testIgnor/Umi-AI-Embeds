@@ -1,31 +1,45 @@
-(shining glitter cookie:1.3), cookie run, pink hair, multicolored hair, long hair
+(shining glitter cookie:1.3), cookie run, pink hair, multicolored hair, long hair, <lora:GlitterAXL:1> SGCRSA, long hair, multicolored hair, braided ponytail, glitter hair
 (cream puff cookie:1.3), cookie run, blue eyes, long hair
-(white lily cookie:1.3), cookie run, white hair, long hair
-(blackberry cookie:1.3), cookie run, purple hair, purple eyes
-(latte cookie:1.3), cookie run, dark-skinned female, long hair, dark skin, very long hair, white hair
-(cocoa cookie:1.3), cookie run, brown hair, brown eyes, long hair
-(milky way cookie:1.3), cookie run, long hair, low twintails, very long hair, colored skin, white hair, twintails
-(black pearl cookie:1.3), cookie run, white hair, long hair
+(white lily cookie:1.3), cookie run, white hair, long hair, <lora:WhiteLilyXL:1> WLC, hair flower, long hair, long braid
+(white lily cookie:1.3), cookie run, white hair, long hair, <lora:WhiteLilyXL:1> WLC, hair flower, long hair, single braid
+(blackberry cookie:1.3), cookie run, purple hair, purple eyes, <lora:BlackberryXL:1> BBCR, medium hair, two-tone hair, blunt bangs, hair bun
+(latte cookie:1.3), cookie run, dark-skinned female, long hair, dark skin, very long hair, white hair, <lora:latte_cookie_(cookie_run)-koto-illustrious test:1> latcokie, latcokie, white hair, dark-skinned female, long hair, brown eyes
+(cocoa cookie:1.3), cookie run, brown hair, brown eyes, long hair, <lora:CocoaCookie:1> CocoaCookie, long hair, brown hair, brown eyes, colored eyelashes, white eyelashes, dark skinned girl
+(milky way cookie:1.3), cookie run, long hair, low twintails, very long hair, colored skin, white hair, twintails, <lora:Milkyway_Cookie:1> m1lkywaycookie, low twintails, black hat, konpeito hairties, white skin, colored skin, purple eyes
+(black pearl cookie:1.3), cookie run, white hair, long hair <lora:black_pearl_cookie:1>
 (cherry blossom cookie:1.3), cookie run, pink eyes, pink hair, long hair
 (pomegranate cookie:1.3), cookie run, red hair, red eyes
 (walnut cookie:1.3), cookie run
 (strawberry cookie:1.3), cookie run
-(cream soda cookie:1.3), cookie run, very long hair, blue eyes, blue hair, long hair
-(tiger lily cookie:1.3), cookie run, long hair
+(cream soda cookie:1.3), cookie run, very long hair, blue eyes, blue hair, long hair, <lora:Creamsoda:1> creamsoda
+(tiger lily cookie:1.3), cookie run, long hair, <lora:Tiger_Lily_Cookie_-_Cookie_Run:1> tigerlilycookie, cookie run, blue hair, long hair, flower in hair, dark-skinned female, orange eyes, aqua hair
+(tiger lily cookie:1.3), cookie run, long hair, <lora:Tiger_Lily_Cookie_illustrious-XL:1> tlc, hair ornament, dark-skinned female, very long hair, facial mark, orange eyes, aqua hair
 (onion cookie:1.3), cookie run, purple hair, purple eyes
 (parfait cookie:1.3), cookie run, blue eyes, long hair
-(cotton cookie:1.3), cookie run, white hair
+(cotton cookie:1.3), cookie run, white hair, blue eyes, <lora:CCRKXL:1> CTCR, CTCR Def
 (cherry cookie:1.3), cookie run, twintails
 (roguefort cookie:1.3), cookie run
 (cotton candy cookie:1.3), cookie run, pink hair, long hair
 (lime cookie:1.3), cookie run, green eyes, twintails, green hair, long hair
-(butter pretzel cookie:1.3), cookie run, very long hair, long hair
+(butter pretzel cookie:1.3), cookie run, very long hair, long hair, <lora:CR_BPC:1> CR_BPC, white eyelashes, blonde hair
 (cheesecake cookie:1.3), cookie run, blonde hair
-(white ghost cookie:1.3), cookie run, white hair, long hair
+(white ghost cookie:1.3), cookie run, <lora:CRGhostXL:1> CR_WGC, two-tone hair, gradient eyes, very long hair, hair intakes, white eyelashes
 (cream puff cookie \(dark magic hat\):1.3), cookie run, very long hair, blue eyes, white hair, long hair
 (kumiho cookie:1.3), cookie run, tail, fox tail, blue hair, red eyes
 (pumpkin pie cookie:1.3), cookie run, short hair, orange eyes, orange hair
 (frost queen cookie:1.3), cookie run, blue eyes, white hair
-(timekeeper cookie \(ruler of the ephemeral flow\):1.3), cookie run, yellow eyes, blonde hair
+(timekeeper cookie:1.3), cookie run, yellow eyes, blonde hair, <lora:Timekeeper:1> tkcookie, tkeyepatch, long hair, blonde hair, tkstripedhair, white eyelashes, colored eyelashes, dark skin
+(timekeeper cookie:1.3), cookie run, yellow eyes, blonde hair, <lora:TimeKeeperXL:1> TimeKC, long hair, blonde hair, white eyelashes, colored eyelashes, dark skin,long hair, streaked hair, very long hair, white eyelashes, dark skin, eyepatch, one eye covered
 (fairy cookie:1.3), cookie run, green hair
 (pompon \(cookie run\):1.3), cookie run, short hair, orange eyes, orange hair
+(clover cookie:1.3), cookie run, messy hair, white hair, hair over one eye, blue eyes, <lora:Clover_Cookie_-_Illustrious:1> clover_cookie_\(cookie_run_kingdom\)
+(clover cookie:1.3), cookie run, messy hair, white hair, hair over one eye, blue eyes, <lora:Clover_Cookie_V2_Cookie_Run_Kingdom:1> clover cookie, cookie_run_kingdom_\(series\)
+(princess cookie:1.3), cookie run, <lora:PrincessCookie_PXL_Leaf4:1> PrincessCookie, pink hair, red eyes, crown, lipstick, dark skin
+(black forest cookie:1.3), cookie run, <lora:BlackForest:1> black forest cookie, dark-skinned female, very dark skin, white eyes, dark brown hair, very long hair, layered hair, bangs, hair between eyes
+(cherry cola cookie:1.3), cookie run, <lora:CherryColaCookie:1> ccolacookie, black hair, red eyes, hair over one eye, ponytail, cherry hair ornament
+(shadow milk cookie:1.3), cookie run, <lora:ShadowMilkCookie:1> smilkcookie, colored eyelashes, heterochromia, colored sclera, black sclera, blue eyes
+(pure vanilla cookie:1.3), cookie run, <lora:PureVanilla:1> pure vanilla cookie, tan skin, blonde hair, short hair, parted bangs, white eyelashes, forehead marking, heterochromia, blue and yellow eyes
+(green tea mousse cookie:1.3), cookie run, <lora:CRK_GTMXL:1> CRK_GTMousse, long hair, green hair, white eyelashes, cross-shaped pupils
+(green strawberry crepe cookie:1.3), cookie run, <lora:StrawCrepe2XL:1> SBCC, short hair, pink hair, blue eyes, gold headgear, strawberry hair ornament, cone earmuffs
+(raspberry cookie:1.3), cookie run, <lora:Raspberry:1> raspberry cookie, tan skin, pink hair, long hair, blue hair ribbon, white eyelashes, pink eyes
+(matcha cookie:1.3), cookie run, <lora:MatchaXL:1> MCCRO, horns, medium hair, hair bun, white eyelashes, green eyes, green hair
