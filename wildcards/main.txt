@@ -3,7 +3,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides]
 
-[chance 0]
+[chance 100]
 [call choose_franchise_simple]
 [/chance]
 
@@ -52,11 +52,13 @@ characters
 [/set]
 [set franchise]
 [choose]
-Divinity
+Street Fighter
+Cookie Run
+Dead or Alive
 [/choose]
 [/set]
 
-[chance 5]
+[chance 10]
 [set characterType]
 [choose]
 characters
@@ -64,7 +66,14 @@ characters
 [/set]
 [set franchise]
 [choose]
-Smite
+Tekken
+Soulcalibur
+KDA
+Fire Emblem
+Persona
+D.Va
+Dishonored
+Detroit
 [/choose]
 [/set]
 [/chance]
