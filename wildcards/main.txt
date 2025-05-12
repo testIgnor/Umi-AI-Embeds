@@ -3,7 +3,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides]
 
-[chance 100]
+[chance 0]
 [call choose_franchise_simple]
 [/chance]
 
@@ -52,9 +52,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-Street Fighter
 Cookie Run
-Dead or Alive
 [/choose]
 [/set]
 
@@ -67,6 +65,8 @@ characters
 [set franchise]
 [choose]
 Tekken
+Street Fighter
+Dead or Alive
 Soulcalibur
 KDA
 Fire Emblem
