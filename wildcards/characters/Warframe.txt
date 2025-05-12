@@ -1,8 +1,6 @@
 (oberon \(warframe\):1.3), warframe, Foberon, thin horns, leef ornaments, ornamented helmet, warframe, robot, faceless, eyeless, multicolored body, black body <lora:Feyarch_oberon:1>
 (ember \(warframe\):1.3), warframe, Hember, warframe, robot, fiery body, fiery hair, molten rock, multicolored body, black body, orange body, faceless, no mouth <lora:heirloom_Ember:1>
 (hildryn \(warframe\):1.3), warframe, HildrynWF, purple body, cyan body, abs <lora:HildrynWF_PDXL_v11:1>
-(ivara \(warframe\):1.3), warframe, ivarawf, orange hood, yellow body, cyan eyes <lora:IvaraWF_PDXL:1>
-(mesa \(warframe\):1.3), warframe, robot, cyborg, no humans <lora:MesaPrime:1>
 (nyx \(warframe\):1.3), warframe, <lora:NyxWF_PDXL:1> NyxWF, grey body, eyeless
 (ember \(warframe\):1.3), warframe, <lora:Pyraxis_Ember:1> Pember, robot, white body, faceless, no mouth, multicolored body, multicolored body, white skin, orange energy
 (saryn \(warframe\):1.3), warframe, <lora:Sarynxl:1> sarynxl
