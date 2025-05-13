@@ -6,8 +6,8 @@ masterpiece, best quality, amazing quality, zPDXL3
 [/tags]
 
 [tags style="negative" model="pony"]
-zPDXL2-neg, score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (sitting on top of a man, sitting on top of a male, sitting on top of a boy:2.0), (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:1.5), monochrome, blurry, lowres, low-res, watermark, text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), man, men, male, multiple boys, multiple men, old man, ojisan, ugly bastard, foreground man, background people
+zPDXL2-neg, score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:1.5), (person in background, people in background:2.0), monochrome, blurry, lowres, low-res, watermark, text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), man, men, male, multiple boys, multiple men, old man, ojisan, ugly bastard, foreground man, background people
 [/tags]
 [tags style="negative" model="illu"]
-zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, (sitting on top of a man, sitting on top of a male, sitting on top of a boy:2.0), (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:1.5), text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), man, men, male, multiple boys, multiple men, old man, ojisan, ugly bastard, foreground man, background people
+zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:1.5), (person in background, people in background:2.0), text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), man, men, male, multiple boys, multiple men, old man, ojisan, ugly bastard, foreground man, background people
 [/tags]
