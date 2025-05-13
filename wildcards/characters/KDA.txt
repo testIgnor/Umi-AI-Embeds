@@ -18,7 +18,6 @@
 (k/da baddest akali:1.3), league of legends, long hair, multicolored hair, blonde hair, black hair, ponytail, blue eyes, <lora:KDAAkaliPonyLora:1> Baddest
 (k/da baddest akali:1.3), league of legends, long hair, multicolored hair, blonde hair, black hair, ponytail, blue eyes, <lora:kda-allout-baddest-akali:1> xakalix, k/da \(league of legends\)
 (k/da popstar akali:1.3), league of legends, purple hair, ponytail, sidelocks, blue eyes, <lora:kda-popstar-akali-illust:1> xakalix, k/da \(league of legends\)
-
 (k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails
 (k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:ahrikdaXL:1>  ahrikdaxl
 (k/da ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, swept bangs, fox girl, multiple tails, <lora:KDAAHRIIL:1> kdaahriil
@@ -44,7 +43,6 @@
 (k/da popstar ahri:1.3), league of legends, blonde hair, long hair, yellow eyes, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:kda-popstar-ahri-illust:1> xahrix, k/da \(league of legends\)
 (k/da prestige ahri:1.3), league of legends, short hair, multicolored hair, bangs, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDA AhriIlluLoRA:1> prestige, ari
 (k/da prestige ahri:1.3), league of legends, short hair, multicolored hair, bangs, animal ears, fox ears, fox tail, crystal tail, tail, fox girl, multiple tails, <lora:KDAAhriPonyLora:1> prestige
-
 (k/da evelynn:1.3), league of legends, long hair, pink hair, yellow eyes
 (k/da evelynn:1.3), league of legends, long hair, pink hair, yellow eyes, <lora:kda_pony_v1-1:1> evelynn
 (k/da evelynn:1.3), league of legends, long hair, pink hair, yellow eyes, <lora:kda_more_pony_v1-1:1> evelynn
@@ -55,7 +53,6 @@
 (k/da all out evelynn:1.3), league of legends, long hair, grey hair, yellow eyes, <lora:kda-allout-evelynn-illust:1> xevelynnx, k/da \(league of legends\)
 (k/da baddest evelynn:1.3), league of legends, long hair, grey hair, yellow eyes, <lora:kda-allout-baddest-evelynn:1> xevelynnx, k/da \(league of legends\)
 (k/da popstar evelynn:1.3), league of legends, purple hair, long hair, hair over shoulder, yellow eyes, <lora:kda-popstar-evelynn-illust:1> xevelynnx, k/da \(league of legends\)
-
 (k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun
 (k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:kaisakdaXL:1> kaisakdaxl, k/da \(league of legends\)
 (k/da kai'sa:1.3), league of legends, purple hair, purple lips, buns, braids, purple eyes, long hair, twin braids, double bun, <lora:KDAKAISA:1> kdakaisa
@@ -78,7 +75,6 @@
 (k/da popstar kai'sa:1.3), league of legends, purple eyes, long hair, double bun, twin braids, purple hair, <lora:kda-popstar-kaisa-illust:1> xkaisax, k/da \(league of legends\)
 (k/da prestige kai'sa:1.3), league of legends, long hair, blonde hair, bangs, <lora:KDA KaisaIlluLoRA:1> Prestige, kasa
 (k/da prestige kai'sa:1.3), league of legends, long hair, blonde hair, bangs, <lora:KDA KaisaPony:1> Prestige, kasa
-
 (k/da seraphine:1.3), league of legends, long hair, aqua hair, ponytail, bangs, blue eyes
 (k/da seraphine:1.3), league of legends, long hair, aqua hair, ponytail, bangs, blue eyes, <lora:kda_more_pony_v1-1:1> seraphine
 (k/da seraphine:1.3), league of legends, long hair, aqua hair, ponytail, bangs, blue eyes, <lora:Seraphine_KDA:1> Seraphine \(KDA\)
