@@ -1,5 +1,6 @@
 (harvest goddess \(harvest moon\):1.3), goddess, holy, divinity, green hair, long hair, green eyes, twin hair buns, long braid
 (virgin mary:1.3), brown hair, wavy hair, long hair, brown eyes, the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, goddess, holy, divinity, virgin_mary <lora:checkpoint-e25_s675:1>
+(virgin mary:1.3), brown hair, wavy hair, long hair, brown eyes, the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, (as a succubus:1.5), succubus, corrupted, demonic, heavy makeup, eyeliner, eyelashes, womb tattoo, prehensile tail, spade-tipped tail, leathery wings, hip wings, demon wings, bat wings, inverted cross jewelry, inverted cross necklace, virgin_mary <lora:checkpoint-e25_s675:1>
 (Goddess of Forest:1.3), blonde hair, long hair, brown eyes, red lips <lora:Kai_Goddess of Forest:0.75>
 (Goddess of Moon:1.3), brown hair, long hair, green eyes, red lips <lora:Kai_Goddess of Moon:0.75>
 (Goddess of Youth:1.3), blonde hair, long hair, sidelock, blue eyes, red lips <lora:Kai_Goddess of Youth:0.75>
