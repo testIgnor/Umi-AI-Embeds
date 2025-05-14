@@ -40,6 +40,7 @@ business suit bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="maleswimwear"]
+(nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2)**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 (nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[covered][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 (nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 [/tags]
