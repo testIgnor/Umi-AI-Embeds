@@ -15,7 +15,7 @@ ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][get eff_gen _before=[ _after
 4ng3ll1ng, white lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:4ng3ll1ngXLP:0.6>
 4ng3ll1ng, black lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:4ng3ll1ngXLP:0.6>
 bodypaint clothes, bodypaint, <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint clothes_pony_V1.0:1>
-center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, net, <[ezcovered][get eff_gen _before=[ _after=]]>
+center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, mesh, <[ezcovered][get eff_gen _before=[ _after=]]>
 open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:chainmailbikiniILL:1> chainmail bikini, pelvic curtain
 <lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][get eff_gen _before=[ _after=]]>
