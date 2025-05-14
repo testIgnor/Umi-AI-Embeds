@@ -47,11 +47,10 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides_post]
 
-[chance 100]
+[chance 50]
 [set prompt_suffix]
 [choose]
 <[imageformat]>, ([call wildcards/MyLocation]:1.3), [call get_clothing clothing_type="maleswimwear"]
-
 [/choose]
 [/set]
 [/chance]
