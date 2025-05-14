@@ -7,11 +7,10 @@ Overrides Prompt Properties
 [call choose_franchise_simple]
 [/chance]
 
-[chance 25]
+[chance 100]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (virgin mary:1.3), brown hair, wavy hair, long hair, brown eyes, the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, goddess, holy, divinity, virgin_mary <lora:checkpoint-e25_s675:1>**(yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (d.mon \(overwatch\):1.3), Yuna Lee, black hair, medium hair, korean, green eyes <lora:Dmon ill-000045:1>**(d.va \(overwatch\):1.5), (headwear, glasses, goggles, hat:2.0), (holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (virgin mary:1.3), brown hair, wavy hair, long hair, brown eyes, the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, (as a succubus:1.5), succubus, corrupted, demonic, heavy makeup, eyeliner, eyelashes, womb tattoo, prehensile tail, spade-tipped tail, leathery wings, hip wings, demon wings, bat wings, inverted cross jewelry, inverted cross necklace, virgin_mary <lora:checkpoint-e25_s675:1>**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 [/chance]
@@ -94,7 +93,7 @@ Makes the prompt
 [/##]
 [function make_prompt]
 
-[chance 15]
+[chance 0]
 [chance 50]
 [call make_double]
 [/chance]
