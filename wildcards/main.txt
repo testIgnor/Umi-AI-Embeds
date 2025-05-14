@@ -110,7 +110,7 @@ Makes the prompt
 [/##]
 [function make_prompt]
 
-[chance 0]
+[chance 10]
 [chance 50]
 [call make_double]
 [/chance]
