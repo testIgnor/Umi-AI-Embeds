@@ -35,14 +35,15 @@ breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 business suit bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
-(nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[covered][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
-(nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
+<[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2)**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
+<[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[covered][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
+<[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 [/tags]
 
 [tags clothing clothing_type="maleswimwear"]
-(nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2)**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
-(nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[covered][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
-(nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
+<[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2)**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
+<[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[covered][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
+<[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 [/tags]
 
 [tags clothing clothing_type="bodysuit"]
@@ -261,8 +262,9 @@ fully clothed, [choose][call wildcards/colors][/choose] kimono, kimono, long dre
 ripped clothes, ripped t-shirt, tight t-shirt, wet t-shirt, ripped tights, tights, tight leggings, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 fully clothed, loose dress gown, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 fully clothed, impossible clothes, <[ezcovered][get eff_gen _before=[ _after=]]>
-(nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[covered][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
-(nude:1.1), <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
+<[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2)**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
+<[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[covered][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
+<[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 plugsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 naked overalls, <[eznude][get eff_gen _before=[ _after=]]>
 naked scarf, <[eznude][get eff_gen _before=[ _after=]]>
