@@ -18,6 +18,7 @@ by jack dempa <lora:jack_dempa_style_pdxl_goofy:1>
 by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
+by thekite, <lora:TheKite_Style:1> TheKite_Style
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
@@ -145,6 +146,7 @@ by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 by zone, <lora:[Zone] 2006-2008 Artist Style Illustrious:1> zone20062008il
 by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
 by takami akai <lora:Takami Akai_illustriousXL:1>
+by thekite, <lora:TheKite_Style:1> TheKite_Style
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
@@ -336,6 +338,7 @@ by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 by zone, <lora:[Zone] 2006-2008 Artist Style Illustrious:1> zone20062008il
 by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
 by takami akai <lora:Takami Akai_illustriousXL:1>
+by thekite, <lora:TheKite_Style:1> TheKite_Style
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
