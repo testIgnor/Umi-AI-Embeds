@@ -195,6 +195,7 @@ bondage harness, belt collar, arms behind back, o-ring, <lora:better_bondage_pdx
 <lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, black pantyhose
 <lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, bare legs
 wearing [choose][call wildcards/species/animals][/choose] shaped mask and hood, wearing mask over eyes, bondage hood, covered eyes, wearing latex bondage outfit, bondage, bound, BDSM, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Vibrator panty_Pony_V2.1:1> bkp, object insertion, sex toy, bdsm, bound
 [/tags]
 
 [# Default]
@@ -441,11 +442,15 @@ olympic gymnastics outfit, sheer clothes, <[ezcovered][get eff_gen _before=[ _af
 <lora:jewelry bikini_illustrious_V1.0:1> jewelry bikini, jewelry on nipples, jewelry on pussy
 <lora:Loincloth_Aside_XL:1> loincloth aside, <[ezexposure][lower][get eff_gen _before=[ _after=]]>, loincloth lift
 <lora:toybox-xl-ill-v2:1> dildo under clothes
-<lora:toybox-xl-ill-v2:1> dildo under panties
 subtle exposure, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 subtle exposure, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 subtle exposure, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
-
+vibrator under clothes, remote vibrator, vibrator under skirt, no underwear, no panties
+<lora:Vibrator_Egg_ILXL:1> sex toy, object insertion, vaginal object insertion, remote control vibrator, vibrator cord, egg vibrator, roter, thigh strap
+<lora:Vibrator panty_Pony_V2.1:1> bkp, object insertion, sex toy, bdsm, bound
+<lora:vibrator-under-panties-illustriousxl-lora-nochekaiser:1>, vibrator under panties, vibrator, dildo under panties, sex toy, vibrator bulge, remote control vibrator, sex toy, vibrator cord, wet panties, object insertion, pussy juice
+<lora:vibrator-under-panties-ponyxl-lora-nochekaiser:1>, vibrator under panties, vibrator, dildo under panties, sex toy, vibrator bulge
+<lora:vibrator under clothes_illustrious_V1.0:1>  vibrator under clothes, egg vibrator
 [if "'futanari' in eff_gen"]
 <lora:DownbulgeIL:1> down_bulge
 <lora:upbulgeIL:1> north_bulge, curved_bulge
