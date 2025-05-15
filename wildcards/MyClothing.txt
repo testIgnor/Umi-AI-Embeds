@@ -445,6 +445,9 @@ olympic gymnastics outfit, sheer clothes, <[ezcovered][get eff_gen _before=[ _af
 subtle exposure, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 subtle exposure, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 subtle exposure, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+casual exposure, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+casual exposure, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+casual exposure, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 vibrator under clothes, remote vibrator, vibrator under skirt, no underwear, no panties
 <lora:Vibrator_Egg_ILXL:1> sex toy, object insertion, vaginal object insertion, remote control vibrator, vibrator cord, egg vibrator, roter, thigh strap
 <lora:Vibrator panty_Pony_V2.1:1> bkp, object insertion, sex toy, bdsm, bound
