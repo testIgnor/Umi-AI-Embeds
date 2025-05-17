@@ -146,6 +146,7 @@ functionally nude, skimpy clothes, bridal lingerie, (wedding dress:0.0), white l
 fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, wedding bikini, wedding dress, wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 (wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint**(skirt, bridal veil:2.0)**
+(wedding dress:0.7), painted clothes, false clothes, painted on wedding dress, fully clothed, functionally nude, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:painted clothes IL2.1:1> fakeclothse, painted clothes, clothes imitation, bodypaint, naked paint**(skirt, bridal veil:2.0)**
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 fully clothed, skimpy clothes, wedding dress, bride, wedding, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
@@ -220,6 +221,7 @@ naked armor, armor, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[eze
 virgin destroyer sweater, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude, <lora:virgin_destroyer_sweaterPony:1>
 virgin destroyer sweater, sideboob, underboob, white panties, white thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:attire_virgindestroyer_ponyXL:1>
 virgin destroyer sweater, detached sleeves, panties, thighhighs <[ezcovered][get eff_gen _before=[ _after=]]> <lora:virgin_destroyer_sweater_v0.1-pony:1>
+virgin destroyer sweater, detached sleeves, panties, thighhighs <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:virgin_destroyer_sweaterClip_L_Illustrious:1> virgin destroyer sweater
 chastity belt, <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 see-through, ballerina, black thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]>
 nippleless bra, crotchless panties, pearl thong <lora:Underwearless_Pony:1>
@@ -227,6 +229,7 @@ shibari under clothes, see-through clothes, <[ezcovered][get eff_gen _before=[ _
 tight t-shirt, wet t-shirt, short shorts, <[ezcovered][get eff_gen _before=[ _after=]]>
 cupless bra, crotchless panties, sheer panties, see through panties
 painted clothes, false clothes, fully clothed, functionally nude, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:Painted Clothes:1> paintedclothes, bodypaint, naked paint
+painted clothes, false clothes, fully clothed, functionally nude, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:painted clothes IL2.1:1> fakeclothse, painted clothes, clothes imitation, bodypaint, naked paint
 naked kimono, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 naked kimono, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 naked kimono, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
@@ -454,6 +457,7 @@ vibrator under clothes, remote vibrator, vibrator under skirt, no underwear, no 
 <lora:vibrator-under-panties-illustriousxl-lora-nochekaiser:1>, vibrator under panties, vibrator, dildo under panties, sex toy, vibrator bulge, remote control vibrator, sex toy, vibrator cord, wet panties, object insertion, pussy juice
 <lora:vibrator-under-panties-ponyxl-lora-nochekaiser:1>, vibrator under panties, vibrator, dildo under panties, sex toy, vibrator bulge
 <lora:vibrator under clothes_illustrious_V1.0:1>  vibrator under clothes, egg vibrator
+exhibitionism, <lora:bw_ero_ilxl:1> body writing, bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]>
 [if "'futanari' in eff_gen"]
 <lora:DownbulgeIL:1> down_bulge
 <lora:upbulgeIL:1> north_bulge, curved_bulge

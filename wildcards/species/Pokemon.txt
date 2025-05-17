@@ -85,6 +85,7 @@
 (moltres:1.3), <lora:POKEMON_MOLTRES:0.6> moltres
 (mightyena:1.3), <lora:POKEMON_MIGHTYENA:0.6> Mightyena
 (mespirit:1.3), <lora:Mesprit_Pony:0.6> Mesprit
+(mespirit:1.3), <lora:Mesprit_Illustrious:0.6> WnMsprt
 (meganium:1.3), <lora:Meganium:0.6>
 (machamp:1.3), (genderswap:1.5), <lora:CHARACTER_Machamp:0.6> Machamp
 (jirachi:1.3), <lora:POKEMONL_JIRACHI:0.6> Jirachi
@@ -98,6 +99,7 @@
 (ampharos:1.3), <lora:CHARACTER_AMPHAROS_PONY_XL:0.6> Ampharos
 (alolan vulpix:1.3), <lora:POKEMON_ALOLAN_VULPIX:0.6> alolan_vulpix
 (iron valiant:1.3), <lora:IronValiant:0.6> ironvaliantsv, green hair, colored skin, white skin, pink eyes, colored sclera
+(iron valiant:1.3), <lora:ironvalinatillust:1> ironvaliantillust, green hair, colored skin, white skin, pink eyes, colored sclera
 (galarian articuno:1.3), <lora:POKEMON_GALARIAN_ARTICUNO:1> galarian_articuno
 (galarian zapdos:1.3), <lora:POKEMON_GALARIAN_ZAPDOS:1> galarian_zapdos
 (galarian moltres:1.3), <lora:POKEMON_GALARIAN_MOLTRES:1> galarian_moltres

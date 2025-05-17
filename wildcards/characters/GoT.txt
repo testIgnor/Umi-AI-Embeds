@@ -1,9 +1,13 @@
 (margaery tyrell:1.3), <lora:MargaeryTyrell_PXL_Leaf1:1> MARGAERY, brown hair, long hair, blue eyes
+(margaery tyrell:1.3), <lora:MargaeryTyrell_illustrious_Leaf1:1> MARGAERY, brown hair, long hair, blue eyes
 (arya stark:1.3), <lora:Arya_Stark_PXL_Leaf1:1> AryaStark, black hair, dark brown hair, long hair, blue eyes
 (arya stark:1.3), <lora:Arya_Stark_Graphic_Novel_Edition:1> black hair, dark brown hair, long hair, blue eyes
 (sansa stark:1.3), <lora:SansaStark_PXL_Leaf1:1> SansaStark, long hair, red hair, blue eyes
+(sansa stark:1.3), <lora:SansaStark_illustrious_Leaf2:1> SansaStark, long hair, red hair, blue eyes
 (cersei lannister:1.3), <lora:CerseiLannister_r1:1> long hair, blonde hair, green eyes, jewelry, necklace
 (cersei lannister:1.3), <lora:CerseiLannister_PXL_Leaf1:1> CerseiLannister, long hair, blonde hair, blue eyes, jewelry, necklace
+(cersei lannister:1.3), <lora:CerseiLannister_illustrious_Leaf1_r2:1> CerseiLannister, long hair, blonde hair, blue eyes, jewelry, necklace
 (daenerys targaryen:1.3), <lora:DaenerysTargaryen_PXL_Leaf1:1> DAENERYS, white hair, long hair, blue eyes
 (daenerys targaryen:1.3), <lora:Dragon_Princess:1> DragonerysPrincess, white hair, long hair, blue eyes
 (daenerys targaryen:1.3), <lora:Daenerys_NAI:1> white hair, long hair, blue eyes
+(daenerys targaryen:1.3), <lora:DaenerysTargaryen_illustrious_Leaf3:1> DAENERYS, white hair, long hair, blue eyes

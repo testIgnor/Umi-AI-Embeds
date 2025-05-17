@@ -28,6 +28,7 @@
 <[imageformat]>, as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaur_Girl:0.66>
 <[imageformat]>, as a wolf taur, as a canine taur, <lora:canine_taur_PDXL:0.66> taur, canine taur, wolf taur
 <[imageformat]>, as a dragon taur, <lora:humandragon_taur:0.66> dragonhumantaur
+<[imageformat]>, <lora:Centaur_Transformation_Illustrious:1> centaur, horse legs, human torso, taur, animal ears
 as a centaur, centaur, horse legs, human torso, taur, animal ears <lora:Centaurfuta_NOOB_V-PRED1.0_V2_dim32:1>, [call wildcards/choose_centaur]
 as a centaur, robot centaur, cyborg centaur, android centaur, horse legs, human torso, taur, synthetic body, mechanical parts <lora:Centaurfuta_NOOB_V-PRED1.0_V2_dim32:1>, [call wildcards/choose_centaur]
 <[imageformat]>, as a dark cyberpunk, cyborg, <lora:Certaintyofsteelpd1:1> AKDTFLPD, stitches
@@ -43,6 +44,7 @@ as a centaur, robot centaur, cyborg centaur, android centaur, horse legs, human 
 <[imageformat]>, (at a rave, in a night club, rave, neon:1.3), [call get_clothing clothing_type="rave"], (tattoo:1.3)**(stripper pole, pole:1.5)**
 <[imageformat]>, (at a rave, in a night club, rave, neon:1.3), <[ezgoth]>, [call get_clothing clothing_type="rave"], (tattoo:1.3)**(stripper pole, pole:1.5)**
 <[imageformat]>, outdoors, (in an fantasy forest:1.2), (pinup, exhibitionism:1.1), <[eznude][get eff_gen _before=[ _after=]]>, (parasite, Leucochloridium ((Leucochloridium Antenna)), Leucochloridium Breasts:1.2, (Leucochloridium pussy), Leucochloridium Eyes:1.5) <lora:Leucochloridium:1>
+<[imageformat]>, outdoors, (in an fantasy forest:1.2), (pinup, exhibitionism:1.1), <[eznude][get eff_gen _before=[ _after=]]>, (parasite, Leucochloridium ((Leucochloridium Antenna)), Leucochloridium Breasts:1.2, (Leucochloridium pussy), Leucochloridium Eyes:1.5), <lora:Leucochloridium_illus:1> leucochloridium
 <[imageformat]>, outdoors, (in an elegant regal estate garden:1.2), (pinup, exhibitionism:1.1), [call get_clothing clothing_type="wedding"]
 <[imageformat]>, outdoors, (in an elegant regal estate garden:1.2), (pinup, exhibitionism:1.1), [call get_clothing clothing_type="maid"]
 <[imageformat]>, (at a cabaret club, at a hostess club:1.3), fancy upscale rich bar, (pinup, exhibitionism:1.1), [call get_clothing clothing_type="bunnysuit"]

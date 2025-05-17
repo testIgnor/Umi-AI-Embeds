@@ -9,6 +9,7 @@
 (academy d.va \(overwatch\):1.3), overwatch, blonde hair, Academy dva, Twinbraids <lora:dva academy illus-000040:1>
 (police officer d.va \(overwatch\):1.3), overwatch, (d.va \(overwatch\):1.3), officerdva <lora:Officerdva Illus:1>
 (d.va \(overwatch\):1.3), overwatch, d.va heist, medium hair, pink hair, ponytail <lora:D.Va Heist:1>
+(d.va \(overwatch\):1.3), overwatch, d.va heist, medium hair, pink hair, ponytail <lora:dva_heist_illus:1>
 (d.va \(overwatch\):1.3), overwatch, D.Va <lora:D.Va:1>
 (d.va \(overwatch\):1.3), overwatch, dva porsche, short hair, brown hair <lora:Porsche Dva illus:1>
 (d.va \(overwatch\):1.3), overwatch, Le Sserafim D.va, Overwatch D.va, short purple hair, pink face paint <lora:Overwatch_-_Le_Sserafim_-_D.va:1>

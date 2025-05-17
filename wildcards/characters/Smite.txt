@@ -56,6 +56,7 @@
 (classic athena:1.3), smite, long hair, blue eyes, blonde hair
 (madame blade serqet:1.3), smite, black hair, dark skin
 (maman brigitte:1.3), smite, dark skin, dark-skinned female, <lora:Maman_Brigitte_-_Smite:1> MaBriSmi, skull face paint, facepaint, feather hair ornament, green eyes
+(maman brigitte:1.3), smite, dark skin, dark-skinned female, <lora:Maman_Brigette_-_Ill:1> MaBriSmi, skull face paint, facepaint, feather hair ornament, green eyes
 (nu wa:1.3), smite, long hair, red hair, green eyes <lora:NuWa_Smite:1>
 (kali:1.3), smite, black hair, blue eyes, blue skin, <lora:Kali_-_Smite_Pony:1> KaSmiLi, extra arms, 4 arms, braid, multiple braids, no pupils
 (terra:1.3), smite, long hair, multicolored hair, two tone hair, black hair, green hair, green eyes, purple hair

@@ -15,6 +15,7 @@
 (hero's daughter \(dq5\):1.3), dragon quest, blonde hair, long hair, blue eyes, short hair
 (prince of lorasia:1.3), dragon quest, curly hair, purple hair, short hair, spiked hair, blonde hair, long hair, blue eyes
 (veronica \(dq11\):1.3), dragon quest, blonde hair, long hair, blue eyes, purple eyes, veronica dq11 <lora:veronica dq11PonyXL:1>
+(veronica \(dq11\):1.3), dragon quest, blonde hair, long hair, blue eyes, purple eyes, <lora:veronica dq11_illustriousXL:1> veronica dq11
 (senya \(dq11\):1.3), dragon quest, purple eyes, blonde hair, blue eyes, long hair, senya dq11 <lora:senya dq11PonyXL:1>
 (maribel \(dq7\):1.3), dragon quest, curly hair, long hair, green eyes, blue eyes, red hair, maribel dq7 <lora:maribel dq7PonyXL:1>
 (prince of samantoria:1.3), dragon quest, curly hair, purple hair, short hair, spiked hair, blonde hair, long hair, blue eyes

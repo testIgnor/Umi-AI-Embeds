@@ -8,6 +8,7 @@
 (riju:1.3), gerudo, dark-skinned female, tanned skin, long hair, green eyes, dark skin, red hair, pointy ears, zzRiju <lora:RijuTotK_IXL_v3:1>
 (linkle:1.3), blonde hair, blue eyes, long hair, pointy ears
 (princess ruto:1.3), blue skin, colored skin, blue eyes, purple eyes <lora:Ruto_Zelda_P1:1>
+(princess ruto:1.3), blue skin, colored skin, blue eyes, purple eyes, <lora:RutoZelda_IXL:1> zzRuto
 (marin \(zelda\):1.3), orange hair, brown eyes, brown hair, long hair, pointy ears
 (medli:1.3), red eyes, long hair, brown hair, pointy ears
 (lana \(hyrule warriors\):1.3), long hair, blue hair, purple eyes, pointy ears
@@ -43,6 +44,7 @@
 (maggie:1.3), <lora:MaggieWW:1> maggieww, maggiepoor, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
 (maggie:1.3), <lora:MaggieWW:1> maggieww, maggierich, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
 (sue belle:1.3), <lora:Sue Belle Pony:1> Sue Belle
+(sue belle:1.3), <lora:Sue_Belle_Illus:1> Sue Belle
 (medli:1.3), <lora:Medli_windwaker:1> medli, brown hair, red eyes, beak, pointy ears, ponytail
 (toon zelda:1.3), <lora:WindWakerStyle_Illustrious_NTRMIX_V3:1> WindWakerStyle, hair ornaments, jewelry, pointy ears, eyeshadow
 (tetra:1.3), <lora:WindWakerStyle_Illustrious_NTRMIX_V3:1> WindWakerStyle, brown skin, blonde hair, hair bun, blue eyes, dark-skinned female, pointy ears

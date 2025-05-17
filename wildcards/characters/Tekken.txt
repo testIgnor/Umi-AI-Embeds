@@ -17,6 +17,7 @@
 (ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:TKXiaoyu:1> TKXiaoyu
 (ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:Ling_Xiaoyu_TEKKEN_PONY_XL_by_UOC:1> ling xiaoyu, ling xiaoyu \(tekken\)
 (ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:Ling_Xiaoyu_tekken_2P_outfit:1>
+(ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:Ling_Xiaoyu_Illustrious_XL:1> xiaoyutbl
 (reina \(tekken\):1.3), tekken, multicolored hair, purple hair, short hair, purple eyes, black hair
 (reina \(tekken\):1.3), tekken, multicolored hair, purple hair, short hair, purple eyes, black hair, <lora:TKReina:1> TKReina
 (nina williams:1.3), tekken, blonde hair, short hair, blue eyes, long hair, <lora:ChamNinaWilliamsPonyXL6e-5:1> NinWilliams

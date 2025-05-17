@@ -37,6 +37,7 @@
 (rainbow mika:1.3), street fighter, blonde hair, blue eyes, long hair, <lora:R.MikaSF:1> RMikaSF
 (rainbow mika:1.3), street fighter, blonde hair, blue eyes, long hair, <lora:R.MikaSF:1> RMikaSchool
 (makoto \(street fighter\):1.3), street fighter, brown eyes, short hair, black hair, <lora:makotoSF:1> makotoxl
+(makoto \(street fighter\):1.3), street fighter, brown eyes, short hair, black hair, <lora:makotoSF4xl:1> makotosf4xl
 (ibuki \(street fighter\):1.3), street fighter, brown eyes, brown hair, long hair, antenna hair, black hair
 (ibuki \(street fighter\):1.3), street fighter, brown eyes, brown hair, long hair, antenna hair, black hair, <lora:Ibuki iIlluLoRA:1> ibukdg
 (ibuki \(street fighter\):1.3), street fighter, brown eyes, brown hair, long hair, antenna hair, black hair, <lora:ibukiSF:1> IbukiSF
@@ -50,6 +51,7 @@
 (elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:Elena SF2 iIlluLoRA DG:1> ElenaSFDG
 (elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:SF_Elena-PONY:1> elenasf6
 (elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:SF_Elena-PONY:1> elenadef
+(elena \(street fighter\):1.3), street fighter, dark-skinned female, very dark skin, short hair, blue eyes, white hair, dark skin, <lora:ElenaSF4xl:1> elenasf4xl
 (menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:Menat_Street_Fighter_V_PONY_V2:1> MenatSFV
 (menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:Menat_Street_Fighter_V_PONY_V2:1> Menat_Default
 (menat:1.3), street fighter, dark-skinned female, purple hair, short hair, green eyes, dark skin, <lora:Menat_Street_Fighter_V_PONY_V2:1> Menat_Alternate

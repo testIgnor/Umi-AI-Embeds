@@ -19,10 +19,8 @@ by pia sama, <lora:Pia-Sama_Style_PonyXL:1> pia-sama
 by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
 by thekite, <lora:TheKite_Style:1> TheKite_Style
-[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
-[by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
-[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
-[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
 [chance 50]
 by firolian, <lora:FirolianLyco:1> uncensored, realistic
 by firolian, <lora:Firolian illus:1> firolian style
@@ -70,8 +68,10 @@ by takeda hiromitsu <lora:takeda_hiromitsu_style_illustrious_goofy:1>
 by cutesexyrobutts <lora:cutesexyrobutts_style_illustrious_goofy:0.8>
 by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
 by incase, <lora:ExpressiveH__Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.8> ExpresHGothicNeonIncase
+by incase, <lora:ExpressiveHGothicNeonIncaseStyleMixV2ALLXLbyUOC:1> 3xpr3sgg0th1cn30n1nc4s3, ExpresHGothicNeonIncaseUOC, ExpresHGothicNeonIncase
 by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
+by diathorn, <lora:Diathorn_PDXL:1> diathornstyle
 by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
 by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
 by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:0.8>
@@ -190,6 +190,8 @@ by thekite, <lora:TheKite_Style:1> TheKite_Style
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
 by dosh
 by utterangle
 by redwolfxiii
@@ -274,11 +276,13 @@ by burgerkiss, <lora:Burger_Kiss_Style_-_Illustrious:1> BurgerKiss
 by aestheticc-meme
 by tofuubear <lora:Lunas-Tofuubear-SDXL-A1:1>
 by incase, <lora:ExpressiveH__Incase_Mixed_Style_v2_Illustrious_XL_by_UOC:0.8> ExpresHGothicNeonIncase
+by incase, <lora:ExpressiveHGothicNeonIncaseStyleMixV2ALLXLbyUOC:1> 3xpr3sgg0th1cn30n1nc4s3, ExpresHGothicNeonIncaseUOC, ExpresHGothicNeonIncase
 by ayya sap, <lora:ayyasap_pony_v3:1> ayyapsap_style, ayyapsap, source_artwork
 by andava
 by ponpu
 by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
+by diathorn, <lora:Diathorn_PDXL:1> diathornstyle
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
 by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
@@ -382,6 +386,8 @@ by thekite, <lora:TheKite_Style:1> TheKite_Style
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
 by 007delta
 by 0r0ch1
 by 1-upclock

@@ -5,12 +5,15 @@
 (vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:0.6> vicar amelia \(bloodborne\), Vicar_FF
 (vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:0.6> vicar amelia \(bloodborne\), Vicar_Waifu
 (vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:0.6> vicar amelia \(bloodborne\), Vicar_Monster
+(vicar amelia:1.3), bloodborne, canine anthro, antlers, digitigrade, tail, two tone fur, black fur, white fur, covered eyes, <lora:Vicar_Amelia__Illustrious:1> bbvicamelia
 (vicar amelia:1.3), bloodborne, covered eyes, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:0.6> vicar amelia \(bloodborne\), Vicar_Human
 (melina:1.3), elden ring, <lora:Melina - Elden Ring:1> m3lina, scar across eye, facial tattoo, one eye closed, yellow eyes, brown hair, medium hair
 (melina:1.3), elden ring, <lora:Melina_pdxl_Incrs_v2:1> IncrsMelina, scar across eye, facial tattoo, one eye closed, yellow eyes, brown hair, medium hair
 (recluse:1.3), elden ring, <lora:PonyRecluseER:1> RecluseER, colored skin, black skin, lips, very long hair, white hair
 (recluse:1.3), elden ring, <lora:Recluse_Elden_Ring_Nightreign_-_Illustrious_V3:1> recluse \(elden ring\), colored skin, black skin, lips, very long hair, white hair
 (recluse:1.3), elden ring, <lora:ER_Recluse-PONY:1> errecluse, colored skin, black skin, lips, very long hair, white hair
+(recluse:1.3), elden ring, <lora:recluse_50_v3_IL20stable:1> recluse \(elden ring\), colored skin, black skin, lips, very long hair, white hair
+(recluse:1.3), elden ring, <lora:iLLRecluseERN:1> iLLRecluseERN, colored skin, black skin, lips, very long hair, white hair
 (roderika:1.3), elden ring, <lora:roderika:1> roderika, elden ring
 (hyetta:1.3), elden ring, <lora:T1:1> hyetta \(elden ring\), short ponytail
 (ranni:1.3), elden ring, <lora:Ranni_illusXLNoobAI_Incrs_v1:1> RnnDef, blue eyes, one eye closed, blue hair, wavy hair, (4 arms:1.2), extra faces, ghost face, blue skin, colored skin, cracked skin, doll joints
