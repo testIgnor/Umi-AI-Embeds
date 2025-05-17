@@ -10,8 +10,7 @@ Overrides Prompt Properties
 [chance 0]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (virgin mary:1.3), brown hair, wavy hair, long hair, brown eyes, the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, (as a succubus:1.5), succubus, corrupted, demonic, heavy makeup, eyeliner, eyelashes, womb tattoo, prehensile tail, spade-tipped tail, leathery wings, hip wings, demon wings, bat wings, inverted cross jewelry, inverted cross necklace, virgin_mary <lora:checkpoint-e25_s675:1>**(yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (Emily Kaldwin:1.3), dishonored, dark brown hair, green eyes, short hair, <lora:emily_kaldwin:1> emily_kaldwin**(yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (Emily Kaldwin:0.0), dishonored, dark brown hair, green eyes, short hair, <lora:emily_kaldwin:1> emily_kaldwin**Emily Kaldwin, (yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 [/chance]
