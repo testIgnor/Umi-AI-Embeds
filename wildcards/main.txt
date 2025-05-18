@@ -16,9 +16,10 @@ top
 [chance 100]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (Emily Kaldwin:0.0), dishonored, dark brown hair, green eyes, short hair, hair accessory, white hair ribbon, hairband, <lora:emily_kaldwin:1> emily_kaldwin**Emily Kaldwin, (yellow skin, orange skin, red skin:1.5)**
+<[model][illu]>source_anime, (Emily Kaldwin:0.0), dishonored, dark brown hair, green eyes, short hair, hair accessory, hair ribbon, hairband, white ribbon, <lora:emily_kaldwin:1> emily_kaldwin**Emily Kaldwin, (yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
+[call set_age gender="{get gender}"]
 [/chance]
 
 [chance 0]
