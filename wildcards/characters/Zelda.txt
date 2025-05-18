@@ -23,7 +23,7 @@
 (princess zelda:1.3), {short hair||long hair}, blonde hair, blue eyes, green eyes, pointy ears**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
 (princess zelda:1.3), <lora:ootzelda-illu-nvwls-v1:1> ocarzld, blonde hair, long hair, sidelocks, blue eyes, pointy ears**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
 (princess zelda:1.3), blonde hair, long hair, sidelocks, blue eyes, pointy ears, <lora:Princess_Zelda_-_Echoes_of_Wisdom_r1:1> Zelda_EoW, high ponytail**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
-(young zelda:1.3), blonde hair, short hair, blue eyes, pointy ears, <lora:ZeldaOOT:1> ZeldaOOT**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
+(young zelda:1.3), blonde hair, short hair, blue eyes, pointy ears, wimple, <lora:ZeldaOOT:1> ZeldaOOT**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
 (princess zelda:1.3), brown hair, long hair, sidelocks, blue eyes, pointy ears, <lora:Princess_Zelda_Twilight_Princess_pony:1> zeldatwilight**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
 (princess zelda:1.3), brown hair, long hair, sidelocks, blue eyes, pointy ears, <lora:JN_Zelda_TP_Illus:1> Zelda TP**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
 (princess zelda:1.3), brown hair, long hair, sidelocks, blue eyes, pointy ears, <lora:tp_zelda_tpzlda_ponyxl_v1:1> tpzlda**the legend of zelda: breath of the wild, the legend of zelda: tears of the kingdom**
