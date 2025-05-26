@@ -147,7 +147,6 @@ in [article]Mountain [/article]Cabin
 on [article]City [/article]Rooftop
 in [article]Castle [/article]Hall
 at [article]Suburban [/article]Playground
-on [article]Fishing [/article]Dock
 in [article]Warehouse [/article]Loft
 on [article]Railway [/article]Tracks
 at [article]Desert [/article]Outpost
