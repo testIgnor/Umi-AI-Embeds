@@ -460,6 +460,14 @@ vibrator under clothes, remote vibrator, vibrator under skirt, no underwear, no 
 <lora:vibrator-under-panties-ponyxl-lora-nochekaiser:1>, vibrator under panties, vibrator, dildo under panties, sex toy, vibrator bulge
 <lora:vibrator under clothes_illustrious_V1.0:1>  vibrator under clothes, egg vibrator
 exhibitionism, <lora:bw_ero_ilxl:1> body writing, bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]>
+<[eznude][get eff_gen _before=[ _after=]]>, <lora:Tail plug 2:1> anal object insertion, cat tail
+<[eznude][get eff_gen _before=[ _after=]]>, <lora:Tail plug 2:1> anal object insertion, dog tail
+<[eznude][get eff_gen _before=[ _after=]]>, <lora:Tail plug 2:1> anal object insertion, horse tail
+<[eznude][get eff_gen _before=[ _after=]]>, <lora:Anal tail:1> anal tail, uncensored
+<[eznude][get eff_gen _before=[ _after=]]>, <lora:anal_tail:1> anal tail, uncensored
+<[eznude][get eff_gen _before=[ _after=]]>,  <lora:analtail:1> anal tail, buttplug, uncensored
+<[eznude][get eff_gen _before=[ _after=]]>, <lora:anal tail plug_illustrious_V1.0:1> atp, anal tail, anal object insertion, butt plug, animal ears
+<[eznude][get eff_gen _before=[ _after=]]>, <lora:Anal_Beads_Tail_ILXL:1> tail, anus, sex toy, fake tail, anal tail, butt plug, anal, object insertion, ass focus, anal object insertion
 [if "'futanari' in eff_gen"]
 <lora:DownbulgeIL:1> down_bulge
 <lora:upbulgeIL:1> north_bulge, curved_bulge
