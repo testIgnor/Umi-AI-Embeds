@@ -1,6 +1,4 @@
-[set debugging]
-0
-[/set]
+[set debugging]0[/set]
 
 [##]
 Overrides Prompt Properties
@@ -13,7 +11,7 @@ middle
 [/set]
 [/chance]
 
-[chance 0]
+[chance 90]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -30,20 +28,6 @@ middle
 [chance 0]
 [set artist]
 [choose]
-<lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
-<lora:DK4Style_SDXL:1> DKPCEStyle
-<lora:ASF3_style:1> SF3XL
-<lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:hrn_yc_illustriousXL:1> retro artstyle
-<lora:HM2K_PONY:1> HM2K
-<lora:1990_p1_IL:1> anime coloring, anime style, anime screen cap, 1990s \(style\), retro style
-<lora:1990_retro_p2il:1> anime coloring, 1990s \(style\), retro style
-<lora:retroanimestyle:1> retroanimestyle
-<lora:conti_v2:1> conti2, aesthetic
-<lora:90s_Retro_anime_style_Pony:1> retro anime style, gto anime style, golden boy anime style, ghost in the shell style, perfect blue anime style
-<lora:Retro_60s_Decarlo_ILXL:1> decarloxl, retro colors, 60s
-<lora:t00nstylev1PonySDXL:1> t00nstyl3
-<lora:RetroXL:1> r3tr0styl3, artist style: urushihara satoshi, 1990s_\(style\), 1980s_\(style\)
 <lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
 <lora:mahou_shoujo_ai:1> mahou shoujo ai
 [/choose]
@@ -95,11 +79,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Cookie Run
+Detroit
 [/choose]
 [/set]
 
-[chance 10]
+[chance 0]
 [set characterType]
 [choose]
 characters
@@ -107,16 +91,8 @@ characters
 [/set]
 [set franchise]
 [choose]
-Tekken
-Street Fighter
-Dead or Alive
-Soulcalibur
 KDA
-Fire Emblem
-Persona
 D.Va
-Dishonored
-Detroit
 [/choose]
 [/set]
 [/chance]
