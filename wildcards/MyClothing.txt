@@ -409,6 +409,8 @@ oversized tank top, tank top, (breasts visible through sleeves, loose-fitting cl
 topless coveralls, coveralls, <[eztopless]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 airline stewardess outfit, stewardess uniform
 airline stewardess outfit, stewardess uniform, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+(airline stewardess leotard:1.3), airline stewardess outfit, stewardess uniform, <[covered][lower][get eff_gen _before=[ _after=]]>
+(airline stewardess leotard:1.3), airline stewardess outfit, stewardess uniform, <[ezcovered][get eff_gen _before=[ _after=]]>
 (robotic exoskeleton:1.5), (mechanical arms, mechanical legs:1.2), exoskeleton, exosuit, <[eznude][get eff_gen _before=[ _after=]]>
 (oversized camisole, loose-fitting clothes, sleeveless shirt:1.5), <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket:2.0)**
 (oversized chemise, loose-fitting clothes, sleeveless shirt:1.5), <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>**(sleeves, jacket:2.0)**
