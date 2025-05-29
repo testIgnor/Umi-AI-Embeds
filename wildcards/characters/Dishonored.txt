@@ -1,2 +1,2 @@
-(Emily Kaldwin:0.0), dishonored, dark brown hair, green eyes, short hair, hair accessory, hair ribbon, hairband, white ribbon, <lora:emily_kaldwin:1> emily_kaldwin**Emily Kaldwin,  (dishonored 2:1.3)**
-(Emily Kaldwin:1.3), dishonored, dark brown hair, green eyes, short hair, <lora:EmilyKaldwinNoobXL_byKonan:1> ekaldwin
+(Emily Kaldwin:0.0), dishonored, brown hair, black hair, green eyes, short hair, hair accessory, hair ribbon, hairband, white ribbon, <lora:emily_kaldwin:1> emily_kaldwin**Emily Kaldwin,  (dishonored 2:1.3)**
+(Emily Kaldwin:1.3), dishonored, brown hair, black hair, green eyes, short hair, <lora:EmilyKaldwinNoobXL_byKonan:1> ekaldwin
