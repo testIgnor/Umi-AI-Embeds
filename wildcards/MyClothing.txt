@@ -34,7 +34,7 @@ breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
-business suit bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
+business suit bikini, business suit, bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:venus-bikini-illustriousxl-lora-nochekaiser:1> <lora:venus-bikini-illustriousxl-lora-nochekaiser:1>, venus bikini, fortune bikini, naked jewelry, navel, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:venus-bikini-illustriousxl-lora-nochekaiser:1> <lora:venus-bikini-illustriousxl-lora-nochekaiser:1>, venus bikini, fortune bikini, naked jewelry, navel, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 <lora:venus-bikini-illustriousxl-lora-nochekaiser:1> <lora:venus-bikini-illustriousxl-lora-nochekaiser:1>, venus bikini, fortune bikini, naked jewelry, navel, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
