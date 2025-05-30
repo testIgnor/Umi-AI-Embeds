@@ -2,6 +2,6 @@
 (ellie williams:1.3), the last of us, brown hair, short hair, ponytail, green eyes, freckles, lips TLOUEllie <lora:EllieTLOU1ILf:0.75>
 (ellie williams:1.3), the last of us, brown hair, short hair, ponytail, green eyes, freckles, lips TLOU2Ellie <lora:TLOU2Ellie:0.75>
 (sarah miller:1.3), the last of us, short hair, blonde hair, freckles, blue eyes <lora:SarahMillerILf:1>
-(cassie drake:1.3), uncharted, long hair, blonde hair, brown eyes, lips <lora:CassieDrakeATE:1>
+(cassie drake:1.3), uncharted, medium hair, blonde hair, brown eyes, lips <lora:CassieDrakeATE:1>
 (dina \(the last of us\):1.3), the last of us, black hair, short hair, brown skin, brown eyes, dina <lora:dina:0.75>
 (abby anderson:1.3), the last of us, <lora:abby:0.75> abbySDXL, long hair, blue eyes, brown hair, blonde hair, braid, freckles, muscular female
