@@ -16,7 +16,7 @@ lower
 [call set_age gender="{get gender}"]
 [/chance]
 
-[chance 5]
+[chance 25]
 [set characterprompt]
 [choose]
 <[model][pony]>source_furry, (miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:1>**(yellow skin, orange skin, red skin:1.5)**
