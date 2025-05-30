@@ -14,5 +14,5 @@
 (kavat \(warframe\):1.3), <lora:Kavat_Warframe:1>
 (kubrow \(warframe\):1.3), <lora:Kubrow_Warframe:1>
 (licker \(resident evil\):1.3), <lora:Licker_Resident_evil:1> Likcker \(resident evil\), detailed skin, tongue out, exposed brain, exposed muscles, open mouth, detailed teeth, long tongue
-(molded \(resident evil\):1.3), <lora:Molded:1> monster, black skin, no humans, claws, teeth, horror theme, eyeless
+(molded \(resident evil\):1.3), <lora:Molded:0.5> monster, black skin, claws, teeth, horror theme, eyeless
 (klaxosaur snake:1.3), Klaxosaur_Snake, Klaxosaur_pet, giant creature <lora:HerrscherAGGA2023_Klaxosaur_Princess__Franxx_SDXLPoni_V1:0.8>
