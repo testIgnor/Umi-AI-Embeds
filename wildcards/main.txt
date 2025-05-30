@@ -11,12 +11,12 @@ lower
 [/set]
 [/chance]
 
-[chance 10]
+[chance 0]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
 
-[chance 50]
+[chance 0]
 [set characterprompt]
 [choose]
 <[model][illu]>source_anime, (Emily Kaldwin:0.0), dishonored, brown hair, black hair, green eyes, short hair, hair accessory, hair ribbon, hairband, white ribbon, <lora:emily_kaldwin:1> emily_kaldwin**Emily Kaldwin, (dishonored 2:1.3), (yellow skin, orange skin, red skin:1.5)**
@@ -44,7 +44,7 @@ lower
 Overrides Prompt Properties
 [/##]
 [function set_overrides_post]
-[chance 10]
+[chance 0]
 [set prompt_suffix]
 [choose]
 <[imageformat]>, ([call wildcards/MyLocation]:1.3), airline stewardess outfit, stewardess uniform
@@ -55,7 +55,7 @@ Overrides Prompt Properties
 [/set]
 [/chance]
 
-[chance 10]
+[chance 0]
 [set prompt_suffix]
 [choose]
 <[imageformat]>, ([call wildcards/MyLocation]:1.3), (business suit leotard:1.3), business suit, tight clothes, bare legs, <[ezcovered][get eff_gen _before=[ _after=]]>**(stockings, leggings, pantyhose:1.5)**
