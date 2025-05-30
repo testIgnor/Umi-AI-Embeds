@@ -16,11 +16,10 @@ lower
 [call set_age gender="{get gender}"]
 [/chance]
 
-[chance 100]
+[chance 40]
 [set characterprompt]
 [choose]
 <[model][pony]>source_furry, (miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:1>**(yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (king kong \(fortnite\):1.3), fortnite, <lora:King_Kong_Fortnite__Illustrious_:1> King Kong, (genderswap:1.5)**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 [call set_age gender="{get gender}"]
