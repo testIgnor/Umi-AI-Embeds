@@ -35,6 +35,9 @@ breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 business suit bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:venus-bikini-illustriousxl-lora-nochekaiser:1> <lora:venus-bikini-illustriousxl-lora-nochekaiser:1>, venus bikini, fortune bikini, naked jewelry, navel, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:venus-bikini-illustriousxl-lora-nochekaiser:1> <lora:venus-bikini-illustriousxl-lora-nochekaiser:1>, venus bikini, fortune bikini, naked jewelry, navel, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:venus-bikini-illustriousxl-lora-nochekaiser:1> <lora:venus-bikini-illustriousxl-lora-nochekaiser:1>, venus bikini, fortune bikini, naked jewelry, navel, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2)**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[covered][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
@@ -89,6 +92,7 @@ mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[ezcovered][get eff_gen 
 
 [tags clothing clothing_type="bunnysuit"]
 reverse bunnysuit, functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:reverse-bunnysuit-illustriousxl-lora-nochekaiser:1>, reverse bunnysuit, heart pasties, heart maebari, crotchless pantyhose, latex legwear, rabbit ears, fake animal ears, rabbit tail, wrist cuffs, navel, functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
 bunnysuit, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
 bunnysuit, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, functionally nude
 reverse bunnysuit, heart pasties, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
@@ -176,6 +180,7 @@ skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, tra
 <lora:hud_dk_mdressXLPfix:1> hud_dk_mdress, see-through white loose fit lace mod dress, short dress, baggy clothes, long sleeves, white hairband, earrings, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 bridal lingerie, <lora:bridal_2.0:1> BR1D4LL1NG3R13
 <lora:lbc_pony_wedding dress_126:1> lbc_gd_wedding dress
+<lora:BridalCape_Illustrious:1> see-through, <[eznude][get eff_gen _before=[ _after=]]>, veil, bridal veil, bridalcape
 [/tags]
 
 [tags clothing clothing_type="bondage"]
@@ -328,10 +333,10 @@ unconventional maid, tactical maid
 unconventional maid, wa maid, traditional japanese maid
 unconventional maid
 bondage outfit, bondage clothing, HDA_BondageOutfitXL
-harem outfit
-harem outfit, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
-harem outfit, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
-harem outfit, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:harem-outfit-illustriousxl-lora-nochekaiser:1>, harem outfit, white veil, arabian clothes, neck ring, mouth veil, circlet, harem pants, thighlet, gold trim
+<lora:harem-outfit-illustriousxl-lora-nochekaiser:1>, harem outfit, white veil, arabian clothes, neck ring, mouth veil, circlet, harem pants, thighlet, gold trim, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:harem-outfit-illustriousxl-lora-nochekaiser:1>, harem outfit, white veil, arabian clothes, neck ring, mouth veil, circlet, harem pants, thighlet, gold trim, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:harem-outfit-illustriousxl-lora-nochekaiser:1>, harem outfit, white veil, arabian clothes, neck ring, mouth veil, circlet, harem pants, thighlet, gold trim, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 shibari
 fully clothed, ballroom gown
 fully clothed, dress
@@ -460,6 +465,7 @@ vibrator under clothes, remote vibrator, vibrator under skirt, no underwear, no 
 <lora:vibrator-under-panties-ponyxl-lora-nochekaiser:1>, vibrator under panties, vibrator, dildo under panties, sex toy, vibrator bulge
 <lora:vibrator under clothes_illustrious_V1.0:1>  vibrator under clothes, egg vibrator
 exhibitionism, <lora:bw_ero_ilxl:1> body writing, bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Nipples_chained_to_clitoris_Illustrious_concept:1> chainedcnp, nipple bar, clitoris piercing, nipple chain, linked piercing, <[eznude][get eff_gen _before=[ _after=]]>
 <[eznude][get eff_gen _before=[ _after=]]>, <lora:Tail plug 2:1> anal object insertion, cat tail
 <[eznude][get eff_gen _before=[ _after=]]>, <lora:Tail plug 2:1> anal object insertion, dog tail
 <[eznude][get eff_gen _before=[ _after=]]>, <lora:Tail plug 2:1> anal object insertion, horse tail
