@@ -17,3 +17,9 @@
 <[model][illu]>source_anime, (jenny belle:1.3), <lora:Jenny_belle_3d_3d_render_minecraft_woman:1> Jenny belle
 <[model][illu]>source_anime, (zone-tan:1.3), purple hair, medium hair, blue eyes, pale skin, hair over one eye, ahoge, drill hair, skull hair ornament, <lora:zonearchive_zone-tan_ponyXL:1> zone-tan
 <[model][illu]>source_anime, (zone-tan:1.3), purple hair, medium hair, blue eyes, pale skin, hair over one eye, ahoge, drill hair, skull hair ornament, <lora:ZONETAN_3:1> zonetan
+<[model][illu]>source_anime, (laimu:1.3), <lora:VTuber_Laimu:1> VTuber Laimu, VTuber Laimu, multicolored hair, green hair, white hair, long hair, braid, ahoge, gradient hair, green eyes, animal ears, animal tail
+<[model][illu]>source_anime, (laimu:1.3), <lora:Laimu__Limealicious:1> laimu \(vtuber\), gradient hair, green hair, white hair, green eyes, animal ears, green hairband, single braid, hair over shoulder, tail, food-themed necklace, choker
+<[model][illu]>source_anime, (laimu:1.3), <lora:Laimu__Limealicious:1> laimu \(vtuber\), gradient hair, green hair, white hair, green eyes, animal ears, green hairband, hairclip, twintails, tail, food-themed necklace, choker
+<[model][illu]>source_anime, (laimu:1.3), <lora:LaimuPDXL_V1-Manityro-CAME:1> LaimuVT, green eyes, animal ears, tail, multicolored hair, gradient hair, green hair, white hair, choker, necklace, Medium hair, single braid
+<[model][illu]>source_anime, (laimu:1.3), <lora:LaimuPDXL_V1-Manityro-CAME:1> LaimuVT, green eyes, animal ears, tail, multicolored hair, gradient hair, green hair, white hair, choker, necklace, Short hair
+<[model][illu]>source_anime, (laimu:1.3), <lora:LaimuPDXL_V1-Manityro-CAME:1> LaimuVT, green eyes, animal ears, tail, multicolored hair, gradient hair, green hair, white hair, choker, necklace, Long hair
