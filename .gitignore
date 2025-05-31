@@ -1,5 +1,4 @@
 .idea
 .env
 *.pyc
-scripts/test.ipynb
-wildcards/test.txt
+test.*
