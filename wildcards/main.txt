@@ -5,7 +5,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides_pre]
 
-[chance 33]
+[chance 50]
 [set age_range]
 middle
 [/set]
