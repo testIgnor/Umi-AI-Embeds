@@ -11,7 +11,7 @@ lower
 [/set]
 [/chance]
 
-[chance 0]
+[chance 25]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -19,7 +19,7 @@ lower
 [chance 25]
 [set characterprompt]
 [choose]
-<[model][pony]>source_furry, (miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:1>**(yellow skin, orange skin, red skin:1.5)**
+<[model][pony]>source_furry, (miao ying:1.3), (scalie, anthro, personified:1.3), MiaoYingDragon, no humans, dragon, tail, horns, monster, scales, spikes, teeth, purple eyes, white hair, long hair, high ponytail <lora:Miao_Ying:0.8>**(yellow skin, orange skin, red skin:1.5)**
 [/choose]
 [/set]
 [call set_age gender="{get gender}"]
@@ -63,12 +63,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Detroit
-TLOU
+Misc
 [/choose]
 [/set]
 
-[chance 50]
+[chance 10]
 [set characterType]
 [choose]
 myspecies
