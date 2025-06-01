@@ -1,0 +1,68 @@
+(shigure ui \(vtuber\):1.3), blonde hair, short hair, green eyes
+(mint fantome:1.3), green hair, multicolored hair, pointy ears, blue eyes, gradient hair, short hair, white hair
+(dokibird \(vtuber\):1.3), twintails, green eyes, blonde hair, long hair
+(shigure ui \(vtuber\) \(1st costume\):1.3), blonde hair, short hair, green eyes, brown hair
+(fallenshadow:1.3), medium hair, brown hair, pink eyes, purple hair
+(shylily:1.3), tail, ahoge, animal ears, multicolored hair, purple eyes, cetacean tail, fish tail, long hair, heart ahoge, white hair, black hair, streaked hair
+(shigure ui \(vtuber\) \(young\):1.3), blonde hair, twintails, short hair, green eyes
+(mint fantome \(minto 2.0\):1.3), green hair, ahoge, multicolored hair, pointy ears, blue eyes, gradient hair, white hair
+(bao \(vtuber\):1.3), tail, blue hair, red eyes, long hair
+(yuuki sakuna:1.3), pink eyes, ahoge, animal ears, cat ears, long hair, pink hair
+(tomari mari:1.3), pink eyes, ahoge, rabbit ears, animal ears, very long hair, twintails, long hair, pink hair, low twintails
+(dokibird \(vtuber\) \(retro doki\):1.3), green eyes, twintails, blonde hair, long hair
+(rurudo lion:1.3), lion ears, tail, ahoge, animal ears, yellow eyes, brown hair, long hair, hair between eyes, lion tail
+(delutaya:1.3), ahoge, red eyes, multicolored hair, drill hair, twintails, pink hair, green hair, streaked hair
+(annytf:1.3), tail, fox ears, animal ears, multicolored hair, brown hair, purple eyes, long hair, pink hair, fox tail
+(nimi nightmare:1.3), animal ears, medium hair, brown hair, green eyes, tapir ears
+(dokibird \(vtuber\) \(bounty hunter\):1.3), blonde hair, ahoge, skin fang, medium hair, blue eyes, short hair
+(amatsuka uto:1.3), blue hair, ahoge, multicolored hair, blue eyes, long hair
+(yuuki sakuna \(1st costume\):1.3), pink eyes, ahoge, animal ears, cat ears, long hair, pink hair
+(mikeneko \(vtuber\):1.3), ahoge, tail, red eyes, animal ears, cat ears, purple eyes, cat tail, long hair, pink hair
+(akuma nihmune:1.3), animal ears, long hair, red eyes, purple hair
+(sinder \(vtuber\):1.3), tail, multicolored hair, animal ears, wolf tail, brown hair, fiery ears, long hair, orange hair, orange eyes, wolf ears, streaked hair
+(snuffy \(vtuber\):1.3), raccoon ears, raccoon tail, grey hair, tail, ahoge, animal ears, multicolored hair, blue eyes, short hair
+(dooby \(vtuber\):1.3), blonde hair, tail, ahoge, multicolored hair, green eyes, short hair
+(wisps \(mint fantome\):1.3), green hair, ahoge, multicolored hair, pointy ears, blue eyes, gradient hair, white hair
+(dragoon \(dokibird\):1.3), green eyes, twintails, blonde hair, long hair
+(fallenshadow \(1st costume\):1.3), medium hair, brown hair, pink eyes
+(pochimaru \(vtuber\):1.3), blue eyes, hair between eyes, long hair, grey hair
+(shigure ui \(vtuber\) \(2nd costume\):1.3), blonde hair, short hair, twintails, green eyes, low twintails, short twintails
+(amiya aranha:1.3), purple eyes, long hair, purple hair
+(rurudo lion \(1st costume\):1.3), lion ears, tail, ahoge, animal ears, yellow eyes, brown hair, long hair, hair between eyes, lion tail
+(mikazuki silvi:1.3), blue eyes, white hair, owl ears, long hair
+(sakurada hane:1.3), tail, ahoge, animal ears, cat ears, blue eyes, pink hair, long hair, hair between eyes
+(saruei \(vtuber\):1.3), tail, grey hair, red eyes, long hair
+(koromo naruru:1.3), blonde hair, tail, multiple tails, fox ears, animal ears, multicolored hair, blue eyes, long hair, fox tail, hair between eyes, white hair, streaked hair
+(kamiko kana:1.3), tail, ahoge, red hair, fox ears, animal ears, multicolored hair, very long hair, yellow eyes, long hair, fox tail, white hair, streaked hair
+(shylily \(1st costume\):1.3), tail, ahoge, multicolored hair, animal ears, purple eyes, cetacean tail, fish tail, long hair, heart ahoge, white hair, black hair, streaked hair
+(lincoro:1.3), blue hair, red eyes, short hair, pointy ears, twintails, short twintails, green hair
+(kagura nana:1.3), blue hair, grey hair, ahoge, multicolored hair, hair between eyes, blue eyes, long hair
+(whiskey project:1.3), ahoge, blonde hair, blue eyes, long hair
+(juniper actias:1.3), white skin, colored skin, green eyes, long hair, white hair
+(menace mamaki:1.3), blue hair, grey hair, tail, colored inner hair, multicolored hair, animal ears, purple eyes, long hair
+(isonade orca:1.3), red hair, red eyes, multicolored hair, skin fang, pointy ears, hair between eyes, short hair, black hair, streaked hair
+(shimo hisae:1.3), blue hair, pink eyes, tail, tail ornament, demon tail, tail bow, animal ears, multicolored hair, cat ears, cat tail, long hair, two-tone hair
+(bon \(vtuber\):1.3), grey eyes, dark-skinned female, dark skin, multicolored hair, brown hair, pink hair, short hair, black hair, streaked hair
+(sky above me \(vtuber\):1.3), ahoge, very long hair, brown hair, hair between eyes, long hair, brown eyes
+(tomoe umari:1.3), horse ears, tail, horse tail, multicolored hair, animal ears, brown hair, brown eyes, short hair, white hair, streaked hair
+(shylily \(bikini\):1.3), tail, ahoge, multicolored hair, animal ears, purple eyes, cetacean tail, fish tail, long hair, heart ahoge, white hair, black hair, streaked hair
+(naplings \(nimi nightmare\):1.3), animal ears, medium hair, brown hair, green eyes, tapir ears
+(camila \(vtuber\):1.3), ahoge, tail, multicolored hair, pointy ears, purple eyes, long hair, pink hair, white hair, streaked hair
+(miilkywayz:1.3), blue hair, tail, animal ears, blue eyes, long hair, cow ears, cow tail
+(zeta \(vtuber\):1.3), blue hair, blonde hair, multicolored hair, blue eyes, gradient hair, long hair
+(ikuchan kaoru \(character\):1.3), purple hair, animal ears, blue eyes, dog ears, short hair
+(kamishiro natsume:1.3), purple hair, red eyes, fox ears, animal ears, long hair
+(filian \(vtuber\):1.3), tail, ahoge, animal ears, cat ears, purple eyes, long hair, white hair
+(kanzarin \(vtuber\):1.3), blue hair, colored inner hair, multicolored hair, medium hair, blue eyes, pink hair
+(hennyano \(nachoneko\):1.3), grey hair, tail, animal ears, cat ears, cat tail, blue eyes, long hair
+(jenny belle:1.3), <lora:slipperyt_illust_jennymin:1> slipperyt_illust_jennymin, brown hair, blue eyes, choker, bangs, short hair, minecraft, flower hair accessory
+(jenny belle:1.3), <lora:JennyBelleSTXL:1> JennyBelleSTXL, blue eyes, brown hair, short hair, bangs, flower hair, black choker
+(jenny belle:1.3), <lora:Jenny_belle_3d_3d_render_minecraft_woman:1> Jenny belle
+(zone-tan:1.3), purple hair, medium hair, blue eyes, pale skin, hair over one eye, ahoge, drill hair, skull hair ornament, <lora:zonearchive_zone-tan_ponyXL:1> zone-tan
+(zone-tan:1.3), purple hair, medium hair, blue eyes, pale skin, hair over one eye, ahoge, drill hair, skull hair ornament, <lora:ZONETAN_3:1> zonetan
+(laimu:1.3), <lora:VTuber_Laimu:1> VTuber Laimu, VTuber Laimu, multicolored hair, green hair, white hair, long hair, braid, ahoge, gradient hair, green eyes, animal ears, animal tail
+(laimu:1.3), <lora:Laimu__Limealicious:1> laimu \(vtuber\), gradient hair, green hair, white hair, green eyes, animal ears, green hairband, single braid, hair over shoulder, tail, food-themed necklace, choker
+(laimu:1.3), <lora:Laimu__Limealicious:1> laimu \(vtuber\), gradient hair, green hair, white hair, green eyes, animal ears, green hairband, hairclip, twintails, tail, food-themed necklace, choker
+(laimu:1.3), <lora:LaimuPDXL_V1-Manityro-CAME:1> LaimuVT, green eyes, animal ears, tail, multicolored hair, gradient hair, green hair, white hair, choker, necklace, Medium hair, single braid
+(laimu:1.3), <lora:LaimuPDXL_V1-Manityro-CAME:1> LaimuVT, green eyes, animal ears, tail, multicolored hair, gradient hair, green hair, white hair, choker, necklace, Short hair
+(laimu:1.3), <lora:LaimuPDXL_V1-Manityro-CAME:1> LaimuVT, green eyes, animal ears, tail, multicolored hair, gradient hair, green hair, white hair, choker, necklace, Long hair
