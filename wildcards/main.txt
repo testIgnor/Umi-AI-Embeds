@@ -509,7 +509,7 @@ NSFW, [get gender_short], (solo:1.0), [get ageprompt][get gender_suffix], <[EZEm
 [/half-lora]
 [/set]
 
-[set total_prefix][choose _case=0][get processed_prefix][/choose], <lora:SplitScreen_illusXL_Incrs_v1:1.3> (SplitScreen, split screen:0.8)[/set]
+[set total_prefix][choose _case=0][get processed_prefix][/choose], <lora:SplitScreen_illusXL_Incrs_v1:1.0> (SplitScreen, split screen:0.8)[/set]
 [set total_neg][choose _case=1][get processed_prefix][/choose], (dividing line, vertical line, horizontal line:1.7)[/set]
 
 [set char_1][Umi _sync_seed=0][get characterprompt][/Umi][/set]
@@ -570,7 +570,7 @@ NSFW, [get gender_short], (solo:1.0), source_anime, [get characterprompt], [get 
 [/half-lora]
 [/set]
 
-[set total_prefix][choose _case=0][get processed_prefix][/choose], <lora:SplitScreen_illusXL_Incrs_v1:1.3> (SplitScreen, split screen:0.8)[/set]
+[set total_prefix][choose _case=0][get processed_prefix][/choose], <lora:SplitScreen_illusXL_Incrs_v1:1.0> (SplitScreen, split screen:0.8)[/set]
 
 [set total_neg][choose _case=1][get processed_prefix][/choose], (dividing line, vertical line, horizontal line:1.7)[/set]
 
