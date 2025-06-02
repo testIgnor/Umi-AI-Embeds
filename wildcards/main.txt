@@ -11,7 +11,7 @@ middle
 [/set]
 [/chance]
 
-[chance 50]
+[chance 0]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -587,7 +587,7 @@ NSFW, [get gender_short], (solo:1.0), source_anime, [get characterprompt], [get 
 [set char_2n]([strip-lora][get char_1i][/strip-lora]:1.2)[/set]
 
 [set p_prompt]
-[get total_prefix], <lora:Racethnicity2.35-Ill:1>ADDCOMM [get char_1p] ADDCOL [get char_2p]
+[get total_prefix], <lora:Racethnicity2.35-Ill:0.8>ADDCOMM [get char_1p] ADDCOL [get char_2p]
 [/set]
 
 [set n_prompt]
