@@ -74,17 +74,17 @@ Ace Attorney
 [chance 50]
 [set characterType]
 [choose]
+characters
+[/choose]
+[/set]
+[set franchise]
+[choose]
 Honkai
 Genshin
 ZZZ
 WuWa
 Azur Lane
 Blue Archive
-[/choose]
-[/set]
-[set franchise]
-[choose]
-Royalty
 [/choose]
 [/set]
 [/chance]
