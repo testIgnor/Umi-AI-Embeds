@@ -11,7 +11,7 @@ middle
 [/set]
 [/chance]
 
-[chance 0]
+[chance 90]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -64,14 +64,22 @@ characters
 [/set]
 [set franchise]
 [choose]
-IndieV
+D.Va
+KDA
+Overwatch
+Ace Attorney
 [/choose]
 [/set]
 
-[chance 10]
+[chance 50]
 [set characterType]
 [choose]
-myspecies
+Honkai
+Genshin
+ZZZ
+WuWa
+Azur Lane
+Blue Archive
 [/choose]
 [/set]
 [set franchise]
