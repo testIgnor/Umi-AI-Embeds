@@ -85,6 +85,7 @@ ZZZ
 WuWa
 Azur Lane
 Blue Archive
+Nikke
 [/choose]
 [/set]
 [/chance]
