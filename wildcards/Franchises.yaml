@@ -706,6 +706,12 @@
   Tags:
     - Characters
     - Zelda
+'<[model][illu]>source_anime, _=Characters/TLOZ=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - TLOZ Characters
+  Tags:
+    - Characters
+    - TLOZ
 '<[model][illu]>source_anime, _=Characters/ZZZ=_ <lora:zzz-v6-illustrious:1>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - ZZZ Characters

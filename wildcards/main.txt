@@ -75,7 +75,7 @@ Genshin
 [/choose]
 [/set]
 
-[chance 0]
+[chance 50]
 [set characterType]
 [choose]
 characters
@@ -83,9 +83,10 @@ characters
 [/set]
 [set franchise]
 [choose]
-Honkai
-Genshin
-WuWa
+Peach
+Daisy
+Rosalina
+Zelda
 [/choose]
 [/set]
 [/chance]
