@@ -72,7 +72,6 @@ Nikke
 Azur Lane
 Honkai
 Genshin
-WuWa
 [/choose]
 [/set]
 
