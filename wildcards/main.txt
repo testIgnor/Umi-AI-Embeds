@@ -64,9 +64,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-D.Va
 KDA
-Overwatch
 ZZZ
 Nikke
 Azur Lane
