@@ -67,10 +67,16 @@ characters
 D.Va
 KDA
 Overwatch
+ZZZ
+Nikke
+Azur Lane
+Honkai
+Genshin
+WuWa
 [/choose]
 [/set]
 
-[chance 50]
+[chance 0]
 [set characterType]
 [choose]
 characters
@@ -80,10 +86,7 @@ characters
 [choose]
 Honkai
 Genshin
-ZZZ
 WuWa
-Azur Lane
-Nikke
 [/choose]
 [/set]
 [/chance]
