@@ -5,9 +5,9 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides_pre]
 
-[chance 0]
+[chance 80]
 [set age_range]
-middle
+upper
 [/set]
 [/chance]
 
@@ -67,7 +67,6 @@ characters
 D.Va
 KDA
 Overwatch
-Ace Attorney
 [/choose]
 [/set]
 
@@ -84,7 +83,6 @@ Genshin
 ZZZ
 WuWa
 Azur Lane
-Blue Archive
 Nikke
 [/choose]
 [/set]
