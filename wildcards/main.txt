@@ -102,7 +102,7 @@ Makes the prompt
 
 [call preprocess]
 
-[chance 10]
+[chance 5]
 [chance 50]
 [call make_double]
 [/chance]
