@@ -11,24 +11,14 @@ upper
 [/set]
 [/chance]
 
-[chance 80]
+[chance 70]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
 
-[chance 70]
+[chance 0]
 [set characterprompt]
 [choose]
-(echo \(overwatch\):1.3), overwatch, <lora:ow-echo:1> xechox, blue skin, humanoid robot, robot joints, detached wings
-(freja \(overwatch\):1.3), overwatch, <lora:ow-freja:1> xfrejax, orange hair, short hair, braid, single hair bun, hair ribbon, green eyes, freckles, facial mark
-(illari \(overwatch\):1.3), overwatch, <lora:ow-illari:1> xillarix, dark-skinned female, black hair, long hair, twin braids, hair ornament, brown eyes, facial mark, earrings
-(brigitte \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair, ponytail, sidelocks, freckles, <lora:ow-brigitte:1> xbrigittex
-(kiriko \(overwatch\):1.3), overwatch, green hair, topknot, brown eyes, facial mark, <lora:ow-kiriko:1> xkirikox, green hair, topknot, brown eyes, facial mark
-(widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair, long ponytail, tattoo, <lora:ow-widowmaker:1> xwidowmakerx
-(mercy \(overwatch\):1.3), overwatch, blonde hair, ponytail, blue eyes, long hair, <lora:ow-mercy:1> xmercyx
-(sombra \(overwatch\):1.3), overwatch, two-tone hair, (dark skin, dark-skinned female:1.3), multicolored hair, undercut, two-tone hair, purple hair, brown hair, purple eyes, makeup, lipstick, earrings, mole under eye, asymmetrical hair, <lora:ow-sombra:1> xsombrax
-(gifdoozer's black cat d.va \(overwatch\):0.0), d.va \(overwatch\), overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, long hair, purple eyes, whisker markings, cat ear headphones, <lora:ow-dva-gifdoozers-blackcat:1> xdvax**(cat, rabbit:2.0)**
-(gifdoozer's black cat d.va \(overwatch\):0.0), d.va \(overwatch\), overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, long hair, purple eyes, whisker markings, cat ear headphones, <lora:ow-dva-gifdoozers-blackcat:1> xdvax, gold collar, sleeveless leotard, cleavage cutout, navel, chest bow, thighhighs, thigh boots, high heels, elbow gloves**(cat, rabbit:2.0)**
 (emily \(overwatch\):1.3), overwatch, freckles, medium hair, ginger, <lora:Emily_Overwatch:1> Emily_\(Overwatch\), long hair, orange hair, green eyes, red hair
 [/choose]
 [/set]
@@ -75,6 +65,8 @@ characters
 [set franchise]
 [choose]
 Comics
+D.Va
+Overwatch
 [/choose]
 [/set]
 
