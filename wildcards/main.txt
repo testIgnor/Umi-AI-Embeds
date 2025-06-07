@@ -11,12 +11,12 @@ upper
 [/set]
 [/chance]
 
-[chance 0]
+[chance 100]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
 
-[chance 100]
+[chance 70]
 [set characterprompt]
 [choose]
 (echo \(overwatch\):1.3), overwatch, <lora:ow-echo:1> xechox, blue skin, humanoid robot, robot joints, detached wings
@@ -74,8 +74,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-D.Va
-Overwatch
+Comics
 [/choose]
 [/set]
 
