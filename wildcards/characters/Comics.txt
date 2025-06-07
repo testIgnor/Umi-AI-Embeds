@@ -26,45 +26,97 @@
 (april o'neil:1.3), <lora:Aprilfn:1> Aprilfortnite, brown hair, brown eyes
 (she-hulk:1.3)
 (she-hulk:1.3), <lora:shehulk:1> shehulkFN, long hair, green eyes, green hair, lips, colored skin, muscular female, green skin
-(squirrel girl \(marvel\):1.3)
+(squirrel girl \(marvel\):1.3), <lora:MR_SquirrelGirl-PONY:1> mrsqrgrl
+(squirrel girl \(marvel\):1.3), <lora:Marvel_Rivals_-_Squirrel_Girl:1> squirrel girl, squirrel ears, squirrel tail, short hair, red hair, freckles, green eyes
+(squirrel girl \(marvel\):1.3), <lora:SquirrelgirlMRxl:1> SqrrelgrlMRxl
 (bast \(marvel\):1.3)
 (venom \(marvel\):1.3), symbiote, (genderswap:1.5)
 (venom \(marvel\):1.3), symbiote, (genderswap:1.5), <lora:Venom_Fortnite:1> venom_\(marvel\)
-(rogue \(marvel\):1.3)
+(venom \(marvel\):1.3), symbiote, (genderswap:1.5), <lora:Venom-illustriousXL:1> venom \(marvel\)
 (rogue \(marvel\):1.3) <lora:Rogue_Fortnite:1>
-(black widow \(marvel\):1.3)
+(black widow \(marvel\):1.3), <lora:weißwidow_and_baclk:1> WidowMarvelRivals, Widowredhair, red hair, Blue eyes
+(black widow \(marvel\):1.3), <lora:weißwidow_and_baclk:1> WidowMarvelRivals, WihiteWidow, Blonde hair, Midhair, medium hair, Blue eyes
+(black widow \(marvel\):1.3), <lora:Black_Widow_Marvel_Rivals_-_PonyXL:1> blackwidow_rivals, red hair, asymmetrical hair, eyeliner, blue eyes, red lips
+(black widow \(marvel\):1.3), <lora:Marvel_Rivals_-_Black_Widow:1> red hair, short hair, asymmetrical hair, blue eyes
+(black widow \(marvel\):1.3), <lora:BlackWidowMRxl:1> blckwdwmrxl
 (black cat \(marvel\):1.3)
 (black cat \(marvel\):1.3) <lora:Black_cat_fortnite_Pony:1>
 (captain marvel \(marvel\):1.3)
-(emma frost \(marvel\):1.3), blonde hair, short hair, blue eyes, earrings, blue lips
 (emma frost \(marvel\):1.3), <lora:FNEmmaFrost:1> EmFrFortn, silver hair, parted hair, long hair,
 (emma frost \(marvel\):1.3), <lora:emmaFrostRivals_pony_byJaneB:1> emm4frostrivals, blonde hair, short hair, blue eyes, earrings, blue lips
 (emma frost \(marvel\):1.3), <lora:emmafrostMR-guy90-Illust-LoraV1:1> tsinne, blonde hair, short hair, blue eyes, earrings, blue lips
 (emma frost \(marvel\):1.3), <lora:emmaFrostRivals_illustrious_byJaneB2:1> emm4frostrivals, blonde hair, short hair, blue eyes, earrings, blue lips
 (emma frost \(marvel\):1.3), <lora:emmafrostMR-guy90-Illust-LoraV202:1> tsinne, blonde hair, short hair, blue eyes, earrings, blue lips
-(galacta \(marvel\):1.3)
+(emma frost \(marvel\):1.3), <lora:Emma_Frost:1> 3mm4Fr0st, blonde hair, blue lips, blue eyes, large breasts, short hair, lipstick, jewelry
+(emma frost \(marvel\):1.3), <lora:Emmafrost-IL-v1:1> Chopio3mmaFrost, short hair, blonde hair, bob cut, blue lips, blue eyes
+(emma frost \(marvel\):1.3), <lora:emmafrostMRxl:1> emfrstMRxl
+(emma frost \(marvel\):1.3), <lora:Emma_Frost_Marvel_Rivals_-_PonyXL:1> emma_rivals, blonde hair, short hair, eyeliner, blue eyes, earrings, crystal on chest, white and blue choker, blue lipstick
+(galacta \(marvel\):1.3), <lora:Galacta_Marvel_Rivals:1> galacta, purple headpiece, long hair, black hair
+(galacta \(marvel\):1.3), <lora:MR_Galacta-PONY:1> mrgalacta, purple headpiece, long hair, black hair
+(galacta \(marvel\):1.3), <lora:GalactaMRxl:1> glctamrxl, purple headpiece, long hair, black hair
 (gamora \(marvel\):1.3)
-(hela \(marvel\):1.3)
+(hela \(marvel\):1.3), <lora:Hela_Marvel_Rivals_-_PonyXL:1> hela_rivals, default skin, green eyes, glowing eyes, helmet, spiked helmet, green lips
+(hela \(marvel\):1.3), <lora:Marvel_Rivals_-_Hela:1> Hela, helmet, glowing eyes, green eyes, green lipstick
+(hela \(marvel\):1.3), <lora:HelaMRxl:1> helamrxl
 (invisible woman \(marvel\):1.3)
 (jane foster \(marvel\):1.3)
 (jia jing \(marvel\):1.3)
 (k'liluna \(marvel\):1.3)
 (karnilla \(marvel\):1.3)
 (locus \(marvel\):1.3)
-(luna snow \(marvel\):1.3)
-(magik \(marvel\):1.3)
-(mantis \(marvel\):1.3)
+(wanda \(marvel\):1.3), <lora:WandaMRxl:1> wandamrxl
+(luna snow \(marvel\):1.3), <lora:Marvel_Rivals_-_Luna_Snow_-_Mirae_2099:1> long hair, two-tone hair, pink and purple hair, gradient hair, cyan hair tips, twin buns, side-swept bangs, headphones
+(luna snow \(marvel\):1.3), <lora:Marvel_Rivals_-_Luna_Snow:1> multicolored hair, short hair, black hair, white hair
+(luna snow \(marvel\):1.3), <lora:RivalsLunaSnow:1> LNSWRVLS, short hair, two-tone hair, makeup, black hair, white hair, earrings, white choker, necklace
+(luna snow \(marvel\):1.3), <lora:RivalsLunaSnow:1> RVLSLNALT, two-tone hair, dress, blunt bangs, crown braid, makeup, single sidelock, blue hair, white hair
+(luna snow \(marvel\):1.3), <lora:MR_LunaSnow-IL:1> mrlunasnow
+(luna snow \(marvel\):1.3), <lora:LunaSMRxl:1> lunasmrxl
+(magik \(marvel\):1.3), <lora:Magik_Illu_Dwnsty:1> magik_mvr, blue eyes, blonde hair, long hair, freckles
+(magik \(marvel\):1.3), <lora:Magik_Marvel_Rivals_-_PonyXL:1> magik_rivals, blonde hair, long hair, hair accessory, eyeliner, blue eyes, earrings
+(magik \(marvel\):1.3), <lora:Marvel_Rivals_-_Magik:1> long hair, wavy hair, thick bangs, golden hair
+(magik \(marvel\):1.3), <lora:MagikMRxl:1> MagikMRxl
+(dagger \(marvel\):1.3), <lora:daggerMR-guy90-Illust-LoraV101:1> reggad, blonde hair, long hair, asymmetrical hair, crescent facial mark, blue eyes, earrings
+(dagger \(marvel\):1.3), <lora:Dagger_Illu_Dwnsty:1> dagger_mvr, blue eyes, blonde hair, long hair, hair behind ear, hoop earrings
+(dagger \(marvel\):1.3), <lora:Dagger_Marvel_Rivals_-_PonyXL:1> dagger_rivals, blue eyes, blonde hair, long hair, moon mark, eyeliner
+(dagger \(marvel\):1.3), <lora:DaggerMRxl:1> dggrmrxl
+(mantis \(marvel\):1.3), <lora:Mantis_Marvel_Rivals_-_PonyXL:1> mantis_rivals, antennae, makeup, black eyes, medium hair, black hair, ponytail, pointy ears
+(mantis \(marvel\):1.3), <lora:Marvel_Rivals_-_Mantis:1> black hair, layered hair, side-swept bangs, green antennae, elf ears
+(mantis \(marvel\):1.3), <lora:RivalsMantisIllustrious:1> RVLSMNT, antennae, black hair, medium hair,  makeup, pointy ears, empty eyes
+(mantis \(marvel\):1.3), <lora:RivalsMantisIllustrious:1> MNTGOTG, antennae, black hair, blue eyes, long hair, blue nails
+(mantis \(marvel\):1.3), <lora:MantisMRxl:1> mntismrxl
 (may parker \(marvel\):1.3)
-(peni parker \(marvel\):1.3)
+(peni parker \(marvel\):1.3), <lora:MR_PeniParker-IL:1> penidef
+(peni parker \(marvel\):1.3), <lora:MR_PeniParker-IL:1> penialt
+(peni parker \(marvel\):1.3), <lora:MR_PeniParker-IL:1> peniold
+(peni parker \(marvel\):1.3), <lora:Peni_parker_marvel_rivels:1> peni rivals, blue eyes
+(peni parker \(marvel\):1.3), <lora:PeniParkerMRxl:1> pniprkrmrxl
+(peni parker \(marvel\):1.3), <lora:Marvel_Rivals_-_Peni_Parker:1> peni parker, black hair, red hair, multicolored hair, twintails, blue eyes
+(peni parker \(marvel\):1.3), <lora:Peni_Parker:1> P3n1P4rk3r, blue eyes, black hair, multicolored hair, brown hair, makeup, streaked hair, eyeshadow, short hair, twintails, red hair, blonde hair
 (phoenix \(marvel\):1.3)
-(psylocke \(marvel\):1.3)
+(psylocke \(marvel\):1.3), <lora:Marvel_Rivals_-_Psylocke:1> Psylocke, purple hair, ponytail, blue eyes
+(psylocke \(marvel\):1.3), <lora:Weeb_psylocke:1> high ponytail, purple hair
+(psylocke \(marvel\):1.3), <lora:Marvel_Rivals_-_Psylocke_Vengeance_r1:1> psylocke, black hair, parted bangs, long hair, purple eyes
+(psylocke \(marvel\):1.3), <lora:psylocke_vengeance_v2:1> psylocke_vengeance, purple eyes, black hair, long hair, silver hoop earrings
+(psylocke \(marvel\):1.3), <lora:Psylockeblood:1> purple hair, braid, hair over one eye, twin braids, one eye covered
+(psylocke \(marvel\):1.3), <lora:PsylockeMRxl:1> psylockemrxl
 (psylocke \(marvel\):1.3), <lora:Psylocke_Fortnite:1> Psylocke_Fortnite, dark-skinned female, purple hair, black hair, long hair, ponytail, asymmetrical hair, mole, purple eyes, makeup, purple lips
 (ratatoskr \(marvel\):1.3)
-(scarlet witch \(marvel\):1.3)
+(scarlet witch \(marvel\):1.3), <lora:Marvel_Rivals_-_Scarlet_Witch:1> long hair, wavy hair, deep red hair, yellow eyes, sharp angular crown, red headpiece
 (shiklah \(marvel\):1.3)
 (shuri \(marvel\):1.3)
 (spider-zero \(marvel\):1.3)
-(storm \(marvel\):1.3)
+(storm \(marvel\):1.3), <lora:Storm_-_Marvel_Rivals:1> St0rm, dark-skinned female, white hair, blue eyes, DefaultSkin
+(storm \(marvel\):1.3), <lora:Storm_-_Marvel_Rivals:1> St0rm, dark-skinned female, white hair, blue eyes, Iv0ryBr3ze
+(storm \(marvel\):1.3), <lora:Storm_-_Marvel_Rivals:1> St0rm, dark-skinned female, white hair, blue eyes, M0hawkR0ck
+(storm \(marvel\):1.3), <lora:Storm_Illu_Dwnsty:1> storm_mvr, blue eyes, white hair, dreadlocks, asymmetrical hair, long hair, makeup, dark skin, earrings
+(storm \(marvel\):1.3), <lora:Marvel_Rivals_-_Storm:1> storm, white hair, dark-skinned female, earrings, blue eyes
+(storm \(marvel\):1.3), <lora:StormMRXL:1> StrmMRXL
+(sue storm \(marvel\):1.3), <lora:Marvel_Rivals_-_Sue_Storm_-_Invisible_Woman:1> sue storm, blonde hair, medium hair, blue eyes
+(sue storm \(marvel\):1.3), <lora:Invisible_Woman_Marvel_Rivals_-_PonyXL:1> invisiblewoman_rivals, blonde hair, long hair, eyeliner, blue eyes, earrings
+(sue storm \(marvel\):1.3), <lora:Susan_Storm:1> S0s4nSt0rm, blonde hair, blue eyes, long hair, earrings, jewelry
+(sue storm \(marvel\):1.3), <lora:Marvel_Rivals_-_Susan_Storm_-_Wedding:1> Susan Storm, long blonde hair, half-up hairstyle, elegant hair, golden hair ornament, sheer white veil
+(sue storm \(marvel\):1.3), <lora:Marvel_Rivals_-_Sue_Storm_-_Malice:1> malice, red eyes, spikes, gloves, armor, mask, black lips, white hair
+(sue storm \(marvel\):1.3), <lora:SueStormMRXL:1> suestormmrxl
 (valeria richards \(marvel\):1.3)
 (valkyrie \(marvel\):1.3)
 (zelma stanton \(marvel\):1.3)
