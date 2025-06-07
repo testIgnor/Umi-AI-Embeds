@@ -58,12 +58,10 @@
 (hela \(marvel\):1.3), <lora:Hela_Marvel_Rivals_-_PonyXL:1> hela_rivals, default skin, green eyes, glowing eyes, helmet, spiked helmet, green lips
 (hela \(marvel\):1.3), <lora:Marvel_Rivals_-_Hela:1> Hela, helmet, glowing eyes, green eyes, green lipstick
 (hela \(marvel\):1.3), <lora:HelaMRxl:1> helamrxl
-(invisible woman \(marvel\):1.3)
 (jane foster \(marvel\):1.3)
 (jia jing \(marvel\):1.3)
 (k'liluna \(marvel\):1.3)
 (karnilla \(marvel\):1.3)
-(locus \(marvel\):1.3)
 (wanda \(marvel\):1.3), <lora:WandaMRxl:1> wandamrxl
 (luna snow \(marvel\):1.3), <lora:Marvel_Rivals_-_Luna_Snow_-_Mirae_2099:1> long hair, two-tone hair, pink and purple hair, gradient hair, cyan hair tips, twin buns, side-swept bangs, headphones
 (luna snow \(marvel\):1.3), <lora:Marvel_Rivals_-_Luna_Snow:1> multicolored hair, short hair, black hair, white hair
@@ -84,7 +82,6 @@
 (mantis \(marvel\):1.3), <lora:RivalsMantisIllustrious:1> RVLSMNT, antennae, black hair, medium hair,  makeup, pointy ears, empty eyes
 (mantis \(marvel\):1.3), <lora:RivalsMantisIllustrious:1> MNTGOTG, antennae, black hair, blue eyes, long hair, blue nails
 (mantis \(marvel\):1.3), <lora:MantisMRxl:1> mntismrxl
-(may parker \(marvel\):1.3)
 (peni parker \(marvel\):1.3), <lora:MR_PeniParker-IL:1> penidef
 (peni parker \(marvel\):1.3), <lora:MR_PeniParker-IL:1> penialt
 (peni parker \(marvel\):1.3), <lora:MR_PeniParker-IL:1> peniold
@@ -100,7 +97,6 @@
 (psylocke \(marvel\):1.3), <lora:Psylockeblood:1> purple hair, braid, hair over one eye, twin braids, one eye covered
 (psylocke \(marvel\):1.3), <lora:PsylockeMRxl:1> psylockemrxl
 (psylocke \(marvel\):1.3), <lora:Psylocke_Fortnite:1> Psylocke_Fortnite, dark-skinned female, purple hair, black hair, long hair, ponytail, asymmetrical hair, mole, purple eyes, makeup, purple lips
-(ratatoskr \(marvel\):1.3)
 (scarlet witch \(marvel\):1.3), <lora:Marvel_Rivals_-_Scarlet_Witch:1> long hair, wavy hair, deep red hair, yellow eyes, sharp angular crown, red headpiece
 (shiklah \(marvel\):1.3)
 (shuri \(marvel\):1.3)
@@ -122,7 +118,6 @@
 (zelma stanton \(marvel\):1.3)
 (zatanna:1.3)
 (bumblebee \(dc\):1.3)
-(green lantern:1.3)
 (star sapphire \(dc\):1.3)**(touhou project:2.0)**
 (livewire:1.3)
 (giganta:1.3)
