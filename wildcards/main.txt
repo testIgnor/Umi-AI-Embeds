@@ -11,18 +11,26 @@ upper
 [/set]
 [/chance]
 
-[chance 100]
+[chance 0]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
 
-[chance 0]
+[chance 100]
 [set characterprompt]
 [choose]
-<[model][illu]>source_anime, (laimu:1.3), <lora:VTuber_Laimu:1> VTuber Laimu, VTuber Laimu, multicolored hair, green hair, white hair, long hair, braid, ahoge, gradient hair, green eyes, animal ears, animal tail
+(echo \(overwatch\):1.3), overwatch, <lora:ow-echo:1> xechox, blue skin, humanoid robot, robot joints, detached wings
+(freja \(overwatch\):1.3), overwatch, <lora:ow-freja:1> xfrejax, orange hair, short hair, braid, single hair bun, hair ribbon, green eyes, freckles, facial mark
+(illari \(overwatch\):1.3), overwatch, <lora:ow-illari:1> xillarix, dark-skinned female, black hair, long hair, twin braids, hair ornament, brown eyes, facial mark, earrings
+(brigitte \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair, ponytail, sidelocks, freckles, <lora:ow-brigitte:1> xbrigittex
+(kiriko \(overwatch\):1.3), overwatch, green hair, topknot, brown eyes, facial mark, <lora:ow-kiriko:1> xkirikox, green hair, topknot, brown eyes, facial mark
+(widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair, long ponytail, tattoo, <lora:ow-widowmaker:1> xwidowmakerx
+(mercy \(overwatch\):1.3), overwatch, blonde hair, ponytail, blue eyes, long hair, <lora:ow-mercy:1> xmercyx
+(gifdoozer's black cat d.va \(overwatch\):0.0), d.va \(overwatch\), overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, long hair, purple eyes, whisker markings, cat ear headphones, <lora:ow-dva-gifdoozers-blackcat:1> xdvax**(cat, rabbit:2.0)**
+(gifdoozer's black cat d.va \(overwatch\):0.0), d.va \(overwatch\), overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, long hair, purple eyes, whisker markings, cat ear headphones, <lora:ow-dva-gifdoozers-blackcat:1> xdvax, gold collar, sleeveless leotard, cleavage cutout, navel, chest bow, thighhighs, thigh boots, high heels, elbow gloves**(cat, rabbit:2.0)**
 [/choose]
 [/set]
-[set characterprompt][get characterprompt]**(yellow skin, orange skin, red skin:1.5)**[/set]
+[set characterprompt]<[model][illu]>source_anime, [get characterprompt]**(yellow skin, orange skin, red skin:1.5)**[/set]
 [call set_age gender="{get gender}"]
 [/chance]
 
