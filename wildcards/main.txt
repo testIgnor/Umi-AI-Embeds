@@ -26,6 +26,7 @@ upper
 (kiriko \(overwatch\):1.3), overwatch, green hair, topknot, brown eyes, facial mark, <lora:ow-kiriko:1> xkirikox, green hair, topknot, brown eyes, facial mark
 (widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair, long ponytail, tattoo, <lora:ow-widowmaker:1> xwidowmakerx
 (mercy \(overwatch\):1.3), overwatch, blonde hair, ponytail, blue eyes, long hair, <lora:ow-mercy:1> xmercyx
+(sombra \(overwatch\):1.3), overwatch, two-tone hair, (dark skin, dark-skinned female:1.3), multicolored hair, undercut, two-tone hair, purple hair, brown hair, purple eyes, makeup, lipstick, earrings, mole under eye, asymmetrical hair, <lora:ow-sombra:1> xsombrax
 (gifdoozer's black cat d.va \(overwatch\):0.0), d.va \(overwatch\), overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, long hair, purple eyes, whisker markings, cat ear headphones, <lora:ow-dva-gifdoozers-blackcat:1> xdvax**(cat, rabbit:2.0)**
 (gifdoozer's black cat d.va \(overwatch\):0.0), d.va \(overwatch\), overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, long hair, purple eyes, whisker markings, cat ear headphones, <lora:ow-dva-gifdoozers-blackcat:1> xdvax, gold collar, sleeveless leotard, cleavage cutout, navel, chest bow, thighhighs, thigh boots, high heels, elbow gloves**(cat, rabbit:2.0)**
 [/choose]
