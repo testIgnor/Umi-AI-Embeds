@@ -5,13 +5,13 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides_pre]
 
-[chance 80]
+[chance 0]
 [set age_range]
 upper
 [/set]
 [/chance]
 
-[chance 90]
+[chance 100]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -64,16 +64,12 @@ characters
 [/set]
 [set franchise]
 [choose]
-KDA
-ZZZ
-Nikke
-Azur Lane
-Honkai
-Genshin
+D.Va
+Overwatch
 [/choose]
 [/set]
 
-[chance 50]
+[chance 0]
 [set characterType]
 [choose]
 characters
@@ -81,6 +77,12 @@ characters
 [/set]
 [set franchise]
 [choose]
+KDA
+ZZZ
+Nikke
+Azur Lane
+Honkai
+Genshin
 Peach
 Daisy
 Rosalina
