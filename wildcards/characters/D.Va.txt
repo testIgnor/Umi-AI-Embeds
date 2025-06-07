@@ -1,10 +1,13 @@
-(d.va \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair
+(d.va \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair, whisker markings, eyeliner, lipgloss, eyelashes, eyebrows
+(d.va \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair, whisker markings, eyeliner, lipgloss, eyelashes, eyebrows, <lora:ow-dva:1> xdvax
 (black cat d.va:0.0), black_catdva, overwatch, blonde hair, twintails, cat ears, animal ears, fake animal ears, brown eyes, long hair, d.va \(overwatch\) <lora:Black cat dva illus:1>**(cat, rabbit:2.0)**
-(junebug d.va \(overwatch\):1.3), overwatch, medium hair, brown eyes, brown hair, ponytail
-(cruiser d.va \(overwatch\):1.3), overwatch, medium hair, brown eyes, brown hair, ponytail
+(junebug d.va \(overwatch\):1.3), overwatch, medium hair, brown eyes, brown hair, ponytail, whisker markings, eyeliner, lipgloss, eyelashes, eyebrows
+(cruiser d.va \(overwatch\):1.3), overwatch, medium hair, brown eyes, brown hair, ponytail, whisker markings, eyeliner, lipgloss, eyelashes, eyebrows
 (academy d.va \(overwatch\):1.3), overwatch, Academy dva, Twinbraids <lora:dva academy illus-000040:1>
-(b.va:1.3), d.va \(overwatch\), overwatch, ponytail, long hair, brown eyes, brown hair
-(gifdoozer's black cat d.va \(overwatch\):0.0), black_catdva, overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, brown eyes, long hair, d.va \(overwatch\) <lora:Black cat dva illus:1>**(cat, rabbit:2.0)**
+(b.va:1.3), d.va \(overwatch\), overwatch, ponytail, long hair, brown eyes, brown hair, whisker markings, eyeliner, lipgloss, eyelashes, eyebrows
+(gifdoozer's black cat d.va \(overwatch\):0.0), black_catdva, overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, long hair, purple eyes, whisker markings, cat ear headphones, d.va \(overwatch\) <lora:Black cat dva illus:1>**(cat, rabbit:2.0)**
+(gifdoozer's black cat d.va \(overwatch\):0.0), overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, long hair, purple eyes, whisker markings, cat ear headphones, <lora:ow-dva-gifdoozers-blackcat:1> xdvax**(cat, rabbit:2.0)**
+(gifdoozer's black cat d.va \(overwatch\):0.0), overwatch, (blonde hair:1.3), cat ears, animal ears, fake animal ears, long hair, purple eyes, whisker markings, cat ear headphones, <lora:ow-dva-gifdoozers-blackcat:1> xdvax, gold collar, sleeveless leotard, cleavage cutout, navel, chest bow, thighhighs, thigh boots, high heels, elbow gloves**(cat, rabbit:2.0)**
 (white cat d.va:0.0), black_catdva, overwatch, (orange hair:1.3), twintails, cat ears, animal ears, fake animal ears, brown eyes, long hair, d.va \(overwatch\) <lora:Black cat dva illus:1>**(cat, rabbit:2.0)**
 (academy d.va \(overwatch\):1.3), overwatch, blonde hair, Academy dva, Twinbraids <lora:dva academy illus-000040:1>
 (police officer d.va \(overwatch\):1.3), overwatch, (d.va \(overwatch\):1.3), officerdva <lora:Officerdva Illus:1>
