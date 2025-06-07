@@ -43,11 +43,12 @@
     - Palworld
     - MySpecies
     - Anthro
-'<[model][pony]>source_furry, $#_=Species/Preferred Animals=_;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
+'<[model][pony]>source_furry, $#_=Species/Preferred-Animals=_;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
   Description:
     - Random Species
   Tags:
-    - Preferred Animals
+    - Preferred-Animals
+    - Animals
     - MySpecies
     - Anthro
 '<[model][pony]>source_furry, $#_=Species/Animals=_;theanimal#$, $#theanimal#$ anthro**(hair, hat, headwear:2.0)**':
