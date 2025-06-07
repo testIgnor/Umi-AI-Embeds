@@ -200,7 +200,7 @@ bondage harness, belt collar, arms behind back, o-ring, <lora:better_bondage_pdx
 <lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, white pantyhose
 <lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, black pantyhose
 <lora:AncientBunnyHoodSet_Illustrious:1> ancientbunnyhoodset, latex hood, bondage hood, black hood, covered face, covered hair, armbinder, arms behind back, bound, bdsm, bondage, bunny ears, blue bunny ears, thighhigh boots, blue heels, spreader bar, ankle spreader bar, blue spreader bar, bare legs
-wearing [choose][call wildcards/species/preferred animals][/choose] shaped mask and hood, wearing mask over eyes, bondage hood, covered eyes, wearing latex bondage outfit, bondage, bound, BDSM, <[eznude][get eff_gen _before=[ _after=]]>
+wearing [choose][call wildcards/species/preferred-animals][/choose] shaped mask and hood, wearing mask over eyes, bondage hood, covered eyes, wearing latex bondage outfit, bondage, bound, BDSM, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:Vibrator panty_Pony_V2.1:1> bkp, object insertion, sex toy, bdsm, bound
 [/tags]
 
