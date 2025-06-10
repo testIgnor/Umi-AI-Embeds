@@ -29,8 +29,7 @@ upper
 [chance 0]
 [set artist]
 [choose]
-<lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
-<lora:mahou_shoujo_ai:1> mahou shoujo ai
+by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
 [/choose]
 [/set]
 [/chance]
