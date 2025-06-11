@@ -11,7 +11,7 @@ upper
 [/set]
 [/chance]
 
-[chance 80]
+[chance 60]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -67,7 +67,7 @@ Fortnite
 [/choose]
 [/set]
 
-[chance 10]
+[chance 40]
 [set characterType]
 [choose]
 characters
@@ -75,13 +75,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-Comics
-D.Va
-Overwatch
-KDA
-ZZZ
-Nikke
-Azur Lane
+FiM
 [/choose]
 [/set]
 [/chance]
