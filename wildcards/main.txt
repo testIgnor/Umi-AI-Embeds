@@ -11,7 +11,7 @@ upper
 [/set]
 [/chance]
 
-[chance 0]
+[chance 80]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -63,13 +63,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Comics
-D.Va
-Overwatch
+Fortnite
 [/choose]
 [/set]
 
-[chance 0]
+[chance 10]
 [set characterType]
 [choose]
 characters
@@ -77,16 +75,13 @@ characters
 [/set]
 [set franchise]
 [choose]
+Comics
+D.Va
+Overwatch
 KDA
 ZZZ
 Nikke
 Azur Lane
-Honkai
-Genshin
-Peach
-Daisy
-Rosalina
-Zelda
 [/choose]
 [/set]
 [/chance]
@@ -188,7 +183,7 @@ futanari
     [case "male"]
         [set gender_short]1boy[/set]
         [set eff_gen]futanari[/set]
-        [set gender_suffix], (genderswap:1.5), <[ezpenis]>[/set]
+        [set gender_suffix], (genderswap, gender morph:1.5), <[ezpenis]>[/set]
     [/case]
 [/switch]
 
@@ -273,7 +268,7 @@ Sets age_prompt
 [function set_age gender]
 
 [set ageprompt]
-as a <[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]]>
+<[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]]>
 [/set]
 
 [set is_hairless]
@@ -282,7 +277,7 @@ as a <[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]]>
 
 [if "franchise in is_hairless"]
 [set ageprompt]
-as a <[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]][--Hairy]>
+<[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]][--Hairy]>
 [/set]
 [/if]
 
