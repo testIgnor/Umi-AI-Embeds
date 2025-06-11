@@ -1,13 +1,19 @@
 [tags style="positive" model="pony"]
 score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_explicit, zPDXL3
+score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_explicit
 [/tags]
 [tags style="positive" model="illu"]
 masterpiece, best quality, amazing quality, zPDXL3
+masterpiece, best quality, amazing quality
 [/tags]
 
 [tags style="negative" model="pony"]
 zPDXL2-neg, score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:2.0), (person in background, people in background:2.0), (person in foreground, people in foreground:2.0), monochrome, blurry, lowres, low-res, watermark, text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), (old man, ojisan, ugly bastard, foreground man:2.0)
+zPDXL2-neg, score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
+score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
 [/tags]
 [tags style="negative" model="illu"]
 zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:2.0), (person in background, people in background:2.0), (person in foreground, people in foreground:2.0), text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), (old man, ojisan, ugly bastard, foreground man:2.0)
+zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
+Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
 [/tags]
