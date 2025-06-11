@@ -11,7 +11,7 @@ upper
 [/set]
 [/chance]
 
-[chance 60]
+[chance 90]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
