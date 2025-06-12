@@ -31,4 +31,5 @@
 (13-amp \(warioware\):1.3), pink hair, long hair, green eyes
 (shygal:1.3), <lora:Shygal_-_Minus8_IL:1> Shygal, black eyes, green hair, short hair, hair over one eye
 (shygal:1.3), <lora:shyguy_pdxl:1> shyguy, shygal, black eyes, green hair, short hair, hair over one eye
-(shygal:1.3),<lora:shygal:1> shygalSDXL, black eyes, green hair, short hair, hair over one eye
+(shygal:1.3), <lora:shygal:1> shygalSDXL, black eyes, green hair, short hair, hair over one eye
+(toadette:1.3), <lora:Toadette:1> Toadette, Long lumpy hair, pink hair, black eyes, lumpy twin braids
