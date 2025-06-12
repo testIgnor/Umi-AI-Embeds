@@ -1,0 +1,20 @@
+(rael \(stellar blade\):1.3), stellar blade, <lora:RaelStellar:1> Rael, long hair, black hair, hair slicked back, blue eyes, thick eyebrows, covered mouth, mascara, mechanical parts, mouth veil, mechanical arms, mechanical legs
+(lily \(stellar blade\):1.3), stellar blade, <lora:sblily-illu-nvwls-v1:1> sblly, brown hair, short hair, blue eyes
+(lily \(stellar blade\):1.3), stellar blade, <lora:sblily-pdxl-nvwls-v1:1> sblily, brown hair, short hair, blue eyes
+(lily \(stellar blade\):1.3), stellar blade, <lora:Lily_-_Stellar_Blade:1> lily,, brown hair, short hair, blue eyes
+(raven \(stellar blade\):0.0), stellar blade, <lora:sbraven-pdxl-nvwls-v1:1> sbRav, black hair, swept bangs, very long hair, blue eyes, mole under eye
+(raven \(stellar blade\):0.0), stellar blade, <lora:sbraven-illu-nvwls-v1:1> r4ven, black hair, swept bangs, very long hair, dark blue eyes, lips, mole under eye
+(raven \(stellar blade\):0.0), stellar blade, <lora:RavenStellar:1> Raven, long hair, black hair, blue eyes, mole under eye, swept bangs, very long hair
+(raven \(stellar blade\):0.0), stellar blade, <lora:SB_Raven-IL:1> sbraven, long hair, black hair, blue eyes, mole under eye, swept bangs, very long hair
+(eve \(stellar blade\):1.3), stellar blade, <lora:sbeve-illu-nvwls-v1:1> defEve, black hair, brown eyes, long ponytail
+(eve \(stellar blade\):1.3), stellar blade, <lora:sbeve-illu-nvwls-v1:1> altEve, black hair, brown eyes, long ponytail
+(eve \(stellar blade\):1.3), stellar blade, <lora:sbeve-pdxl-nvwls-v1:1> defEve, black hair, long ponytail
+(eve \(stellar blade\):1.3), stellar blade, <lora:sbeve-pdxl-nvwls-v1:1> altEve, black hair, long ponytail
+(eve \(stellar blade\):1.3), stellar blade, <lora:checkpoint-e64_s512:1> eve \(stellar blade\), brown eyes, brown hair, bangs, sidelocks, ponytail, long hair
+(eve \(stellar blade\):1.3), stellar blade, <lora:Eve_StellarBlade:1> Eve \(stellar blade\), brown eyes, brown hair, bangs, sidelocks, ponytail, long hair
+(eve \(stellar blade\):1.3), stellar blade, <lora:EVE-e39_s897:1> eve stellar blade, long hair, blunt bangs, brown eyes, black hair, ponytail
+(eve \(stellar blade\):1.3), stellar blade, <lora:EveStellarblade:1> Eve, long hair, black hair, hair ornament, ponytail, blunt bangs, brown eyes
+(eve \(stellar blade\):1.3), stellar blade, <lora:EveSuitDwnsty:1> sbeve, black hair, brown eyes, ponytail, long hair, blunt bangs
+(eve \(stellar blade\):1.3), stellar blade, <lora:EveSB_Illu_Dwnsty:1> evesb, brown eyes, black hair, ponytail, blunt bangs
+(eve \(stellar blade\):1.3), stellar blade, <lora:SB_EVE-IL:1> sbevedef, black hair, brown eyes, long ponytail, blunt bangs
+(tachy \(stellar blade\):1.3), stellar blade, <lora:SB_Tachy-IL:1> stellartachy, black hair, long hair, black eyes
