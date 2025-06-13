@@ -63,11 +63,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Fortnite
+Stellar Blade
 [/choose]
 [/set]
 
-[chance 40]
+[chance 0]
 [set characterType]
 [choose]
 characters
