@@ -20,38 +20,8 @@ by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
 by thekite, <lora:TheKite_Style:1> TheKite_Style
 by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
-[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
-[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
-[chance 50]
-by firolian, <lora:FirolianLyco:1> uncensored, realistic
-by firolian, <lora:Firolian illus:1> firolian style
-by kaoming, <lora:kaoming:1> kaoming
-by kaoming, <lora:Kaoming_PonyXL_dim32:1> kaoming
-by kaoming, <lora:n11esp调味料画风0.1版本XL:1> tiaoweiliao, kaoming
-by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
-by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
-by bigrbear <lora:bigrbearSyle IXL3:0.8>
-by camonome, <lora:Camonome_Style:1> by_kamonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
-by camonome, <lora:Camonome:1> Camonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
-by camonome <lora:Camonome-v1-PDXL:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
-by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
-by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
-<lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
-<lora:hrn_yc_illustriousXL:1> retro artstyle
-<lora:HM2K_PONY:1> HM2K
-<lora:1990_p1_IL:1> anime coloring, anime style, anime screen cap, 1990s \(style\), retro style
-<lora:1990_retro_p2il:1> anime coloring, 1990s \(style\), retro style
-<lora:retroanimestyle:1> retroanimestyle
-<lora:conti_v2:1> conti2, aesthetic
-<lora:90s_Retro_anime_style_Pony:1> retro anime style, gto anime style, golden boy anime style, ghost in the shell style, perfect blue anime style
-<lora:Retro_60s_Decarlo_ILXL:1> decarloxl, retro colors, 60s
-<lora:t00nstylev1PonySDXL:1> t00nstyl3
-<lora:RetroXL:1> r3tr0styl3, artist style: urushihara satoshi, 1990s_\(style\), 1980s_\(style\)
-<lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
-<lora:mahou_shoujo_ai:1> mahou shoujo ai
-[by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
-[/chance]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
 [/chance]
 [else]
 by dandon fuga
@@ -149,6 +119,13 @@ by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
 by takami akai <lora:Takami Akai_illustriousXL:1>
 by thekite, <lora:TheKite_Style:1> TheKite_Style
 by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
+by gammainks, <lora:Gammainks_v2:1> bygema1nks
+by gammainks, <lora:gammainks:1> gammainks
+by sciamano240, <lora:checkpoint-e18_s558:1> sciamano240 style
+by sciamano240, <lora:Sciamano240_Style:1> sc14m4an0
+by sciamano240, <lora:Artist_Sciamano240:1> Artist_Sciamano240
+by sciamano240, <lora:Sciamano240_Style_-_Illustrious:1> illustrioussciamano
+by sciamano240 <lora:sciamano240_pony_v2:1>
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
@@ -192,8 +169,8 @@ by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
-[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
-[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
 by dosh
 by utterangle
 by redwolfxiii
@@ -346,6 +323,13 @@ by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
 by takami akai <lora:Takami Akai_illustriousXL:1>
 by thekite, <lora:TheKite_Style:1> TheKite_Style
 by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
+by gammainks, <lora:Gammainks_v2:1> bygema1nks
+by gammainks, <lora:gammainks:1> gammainks
+by sciamano240, <lora:checkpoint-e18_s558:1> sciamano240 style
+by sciamano240, <lora:Sciamano240_Style:1> sc14m4an0
+by sciamano240, <lora:Artist_Sciamano240:1> Artist_Sciamano240
+by sciamano240, <lora:Sciamano240_Style_-_Illustrious:1> illustrioussciamano
+by sciamano240 <lora:sciamano240_pony_v2:1>
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
@@ -389,8 +373,8 @@ by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
-[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
-[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:1> diathornstyle]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
 by 007delta
 by 0r0ch1
 by 1-upclock
