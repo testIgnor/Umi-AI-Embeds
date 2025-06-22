@@ -78,7 +78,6 @@ by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
 by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
 by bigrbear <lora:bigrbearSyle IXL3:0.8>
 by flowerxl, <lora:PONYXL_STYLE_FlowerXL_ownwaifu:1> PONYXL_STYLE_FlowerXL_ownwaifu
-by zumi, <lora:PONYXL_STYLE_Zumi_ownwaifu:1> PONYXL_STYLE_Zumi_ownwaifu
 by zheng, <lora:PONYXL_FAP_ARTSTYLE_Zheng_ownwaifu:1> ponyxl_fap_artstyle_zheng_ownwaifu
 by camonome, <lora:Camonome_Style:1> by_kamonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome, <lora:Camonome:1> Camonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
@@ -126,6 +125,12 @@ by sciamano240, <lora:Sciamano240_Style:1> sc14m4an0
 by sciamano240, <lora:Artist_Sciamano240:1> Artist_Sciamano240
 by sciamano240, <lora:Sciamano240_Style_-_Illustrious:1> illustrioussciamano
 by sciamano240 <lora:sciamano240_pony_v2:1>
+by zumi, <lora:PONYXL_STYLE_Zumi_ownwaifu:1> PONYXL_STYLE_Zumi_ownwaifu
+by zumi, <lora:Zumi_Pony_XL_Artstyle:1> ARTSTYLE_Zumi_ownwaifu
+by iparupua, <lora:PONYXL_STYLE_iparupua_ownwaifu:1> PONYXL_STYLE_iparupua_ownwaifu
+by melonart, <lora:PONYXL_STYLE_Furry_Melonart_ownwaifu:1> PONYXL_STYLE_Furry_Melonart_ownwaifu
+by melonart, <lora:MelonArt_Style_Lora_v2:1> by melonart
+by melonart, <lora:MelonArt_Style_Lora_Illustrious:1> by melonart
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
@@ -284,7 +289,6 @@ by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
 by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
 by bigrbear <lora:bigrbearSyle IXL3:0.8>
 by flowerxl, <lora:PONYXL_STYLE_FlowerXL_ownwaifu:1> PONYXL_STYLE_FlowerXL_ownwaifu
-by zumi, <lora:PONYXL_STYLE_Zumi_ownwaifu:1> PONYXL_STYLE_Zumi_ownwaifu
 by zheng, <lora:PONYXL_FAP_ARTSTYLE_Zheng_ownwaifu:1> ponyxl_fap_artstyle_zheng_ownwaifu
 by camonome, <lora:Camonome_Style:1> by_kamonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome, <lora:Camonome:1> Camonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
@@ -330,6 +334,12 @@ by sciamano240, <lora:Sciamano240_Style:1> sc14m4an0
 by sciamano240, <lora:Artist_Sciamano240:1> Artist_Sciamano240
 by sciamano240, <lora:Sciamano240_Style_-_Illustrious:1> illustrioussciamano
 by sciamano240 <lora:sciamano240_pony_v2:1>
+by zumi, <lora:PONYXL_STYLE_Zumi_ownwaifu:1> PONYXL_STYLE_Zumi_ownwaifu
+by zumi, <lora:Zumi_Pony_XL_Artstyle:1> ARTSTYLE_Zumi_ownwaifu
+by iparupua, <lora:PONYXL_STYLE_iparupua_ownwaifu:1> PONYXL_STYLE_iparupua_ownwaifu
+by melonart, <lora:PONYXL_STYLE_Furry_Melonart_ownwaifu:1> PONYXL_STYLE_Furry_Melonart_ownwaifu
+by melonart, <lora:MelonArt_Style_Lora_v2:1> by melonart
+by melonart, <lora:MelonArt_Style_Lora_Illustrious:1> by melonart
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
