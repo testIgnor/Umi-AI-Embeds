@@ -17,3 +17,4 @@
 (bowsette:1.3), blonde hair, blue eyes, long hair, wavy hair, hair between eyes, <lora:shiBowsetteV1:1> shiprinbow, bowsette
 (bowsette:1.3), blonde hair, blue eyes, long hair, wavy hair, hair between eyes, <lora:shiBowsetteV1:1> sshiprinbow, bowsette
 (bowsette jr:1.3), blonde hair, blue eyes, short hair, wavy hair, hair between eyes, ponytail, <lora:Bowsette_Jr_for_illustrious:1> bowsettejr
+(bowsette:1.3), dry bowsette, <lora:DryBowsette_PDXL:1> zzDryBowsette, blonde hair, long hair, wavy hair, hair between eyes, black sclera, colored sclera, skeleton, horns, spikes, long hair, crown, super crown, jewelry, bracelet
