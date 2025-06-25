@@ -149,6 +149,12 @@
   Tags:
     - Myspecies
     - Digimon
+'<[model]>source_furry, (protogen:1.3), _=Species/Protogen=_':
+  Description:
+    - Protogen Characters
+  Tags:
+    - Myspecies
+    - Protogen
 '<[model][illu]>source_anime, _=Species/Evangelion=_**(hair, hat, headwear:2.0)**':
   Description:
     - Evangelion Characters
