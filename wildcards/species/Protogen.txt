@@ -1,0 +1,6 @@
+<lora:Protogen-ponyxl:1> Protogen, furry, animal ears, tail, fur, body fur, mask, protogen visor, protogen face, glowing, claws, animal ears, furry anthro, body fur, tail, digitigrade
+<lora:Protogen-base:1> Protogen, protogen visor, protogen face, glowing, claws, animal ears, furry anthro, body fur, tail, digitigrade
+<lora:Protogen_LoRA_for_Illustrious:1> Protogen, protogen visor, protogen face, glowing, claws, animal ears, furry anthro, body fur, tail, digitigrade
+<lora:Protogen:1> protogen, furry, animal ears, tail, fur, body fur, mask, protogen visor, protogen face, glowing, claws, animal ears, furry anthro, body fur, tail, digitigrade
+<lora:ProtogenPDXL:1> protogen, protogen visor, protogen face, furry, glowing, claws, animal ears, furry anthro, body fur, tail, digitigrade
+<lora:Protogen-Ilustrious:1> protogen, protogen visor, protogen face, Anthro_furry, glowing, claws, animal ears, furry anthro, body fur, tail, digitigrade
