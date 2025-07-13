@@ -14,6 +14,8 @@ characters
 [choose]
 Celebs
 Pstars
+Divinity
+Mythology
 [/choose]
 [/set]
 
@@ -145,7 +147,7 @@ Makes a 1character prompt
 [call set_age_range]
 [call set_age gender="{get gender}"]
 
-[set character_preset](realistic, photorealistic, photograph:1.5), portrait, professional artistic photoshoot, NSFW, (solo:1.5), [get characterprompt], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance]**(person in background, people in background:2.0)**[/set]
+[set character_preset]realistic, photorealistic, photograph, NSFW, (solo:1.5), [get characterprompt], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance]**(person in background, people in background:2.0)**[/set]
 
 [set prompt_suffix]
     [chance 15]
