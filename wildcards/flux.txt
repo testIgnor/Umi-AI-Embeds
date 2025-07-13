@@ -147,7 +147,7 @@ Makes a 1character prompt
 [call set_age_range]
 [call set_age gender="{get gender}"]
 
-[set character_preset]realistic, photorealistic, photograph, NSFW, (solo:1.5), [get characterprompt], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance]**(person in background, people in background:2.0)**[/set]
+[set character_preset](realistic, photorealistic, photograph:1.3), NSFW, (solo:1.5), [get characterprompt], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance]**(person in background, people in background:2.0)**[/set]
 
 [set prompt_suffix]
     [chance 15]
@@ -183,10 +183,11 @@ Main function
 [choose]
 <lora:NSFW_master:0.8>
 <lora:nsfw_flux_lora_v1:0.8> AiArtV
+<lora:nwsj_flux:0.8>
 [/choose]
 [/set]
 
-[strip-lora][get p_prompt][/strip-lora] [get global_lora]
+[strip-lora][get p_prompt][/strip-lora][chance 50], [get global_lora][/chance]
 
 [/function]
 
