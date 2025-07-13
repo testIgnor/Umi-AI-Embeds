@@ -177,7 +177,14 @@ Main function
 
 [call make_prompt]
 
-[strip-lora][get p_prompt][/strip-lora]
+[set global_lora]
+[choose]
+<lora:NSFW_master:1>
+<lora:nsfw_flux_lora_v1:1> AiArtV
+[/choose]
+[/set]
+
+[strip-lora][get p_prompt][/strip-lora] [get global_lora]
 
 [/function]
 
