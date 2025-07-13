@@ -181,8 +181,8 @@ Main function
 
 [set global_lora]
 [choose]
-<lora:NSFW_master:1>
-<lora:nsfw_flux_lora_v1:1> AiArtV
+<lora:NSFW_master:0.8>
+<lora:nsfw_flux_lora_v1:0.8> AiArtV
 [/choose]
 [/set]
 
