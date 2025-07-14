@@ -187,7 +187,7 @@ Main function
 [/choose]
 [/set]
 
-[strip-lora][get p_prompt][/strip-lora][chance 50], [get global_lora][/chance]
+[strip-lora][get p_prompt][/strip-lora][chance 0], [get global_lora][/chance]
 
 [/function]
 
