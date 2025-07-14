@@ -34,6 +34,7 @@ by john doe, <lora:jdart:1> jdart style
 by john doe, <lora:john_doe:1> S4s4k1Nsfw
 [by john doe, <lora:jdart:1> jdart style|by dandon fuga]
 [by john doe, <lora:jdart:1> jdart style|by pixelsketcher]
+[by john doe, <lora:jdart:1> jdart style|by diathorn, <lora:DiathornILf:1> d1ailf]
 [/choose]
 [/set]
 [/chance]
