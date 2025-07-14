@@ -26,10 +26,14 @@ upper
 [call set_age gender="{get gender}"]
 [/chance]
 
-[chance 0]
+[chance 100]
 [set artist]
 [choose]
-by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
+by diathorn, <lora:DiathornILf:1> d1ailf
+by john doe, <lora:jdart:1> jdart style
+by john doe, <lora:john_doe:1> S4s4k1Nsfw
+[by john doe, <lora:jdart:1> jdart style|by dandon fuga]
+[by john doe, <lora:jdart:1> jdart style|by pixelsketcher]
 [/choose]
 [/set]
 [/chance]

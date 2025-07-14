@@ -653,7 +653,7 @@
   Tags:
     - Characters
     - Touhou
-'<[model][illu]>source_anime, _=Characters/Umamusume=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, _=Characters/Umamusume=_  <lora:UmaDiffusionXL_4th_weighted:1>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Umamusume Characters
   Tags:

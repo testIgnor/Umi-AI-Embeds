@@ -28,3 +28,4 @@
 (rya:1.3), elden ring, <lora:ER_Rya-PONY:1> errya
 (miquella:1.3), elden ring, <lora:ER_Miquella-PONY:1> ermiquella
 (marika:1.3), elden ring, <lora:ER_Marika-PONY:1> ermarika
+(marika:1.3), elden ring, <lora:ER_MarikaV1-IL:1> ermar1ka

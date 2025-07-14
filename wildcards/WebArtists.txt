@@ -20,8 +20,11 @@ by pochincoff, pochincoffstyle <lora:Pochincoff_Illustrious:1>
 by wjs07, <lora:WJS07_Illustrious:0.8> WJS07style
 by thekite, <lora:TheKite_Style:1> TheKite_Style
 by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
-[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
-[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
+by john doe, <lora:jdart:1> jdart style
+by john doe, <lora:john_doe:1> S4s4k1Nsfw
+by diathorn, <lora:DiathornILf:1> d1ailf
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:DiathornILf:1> d1ailf]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:DiathornILf:1> d1ailf]
 [/chance]
 [else]
 by dandon fuga
@@ -43,6 +46,7 @@ by incase, <lora:ExpressiveHGothicNeonIncaseStyleMixV2ALLXLbyUOC:1> 3xpr3sgg0th1
 by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
 by diathorn, <lora:Diathorn_PDXL:1> diathornstyle
+by diathorn, <lora:DiathornILf:1> d1ailf
 by twistedscarlett60, <lora:TwistedScarlett-Illustrious:1> sc4rl
 by mleonheart, <lora:MLeonheart_Style:1> by_mleonheart
 by logan cure, by logancure <lora:Earthbound_-_Logan_Cure_Style_-_IllustriousXL:0.8>
@@ -131,6 +135,8 @@ by iparupua, <lora:PONYXL_STYLE_iparupua_ownwaifu:1> PONYXL_STYLE_iparupua_ownwa
 by melonart, <lora:PONYXL_STYLE_Furry_Melonart_ownwaifu:1> PONYXL_STYLE_Furry_Melonart_ownwaifu
 by melonart, <lora:MelonArt_Style_Lora_v2:1> by melonart
 by melonart, <lora:MelonArt_Style_Lora_Illustrious:1> by melonart
+by john doe, <lora:jdart:1> jdart style
+by john doe, <lora:john_doe:1> S4s4k1Nsfw
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
@@ -168,14 +174,16 @@ by melonart, <lora:MelonArt_Style_Lora_Illustrious:1> by melonart
 <lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
 <lora:mahou_shoujo_ai:1> mahou shoujo ai
 [by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:0.8> cianyo_style|by dandon fuga]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
+[by john doe, <lora:jdart:1> jdart style|by dandon fuga]
+[by john doe, <lora:jdart:1> jdart style|by pixelsketcher]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:DiathornILf:1> d1ailf]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:DiathornILf:1> d1ailf]
 by dosh
 by utterangle
 by redwolfxiii
@@ -267,6 +275,7 @@ by ponpu
 by diathorn <lora:diathorn_style_illustrious01_v3:0.8>
 by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>
 by diathorn, <lora:Diathorn_PDXL:1> diathornstyle
+by diathorn, <lora:DiathornILf:1> d1ailf
 by neoartcore <lora:Earthbound_-_NeoArtCore_Artist_Style_-_IllustriousXL:0.8>
 by tekuho, by tekuho no habo <lora:Tekuho_Art_Style:1>
 by tekuho, by tekuho no habo, <lora:Tekuho_Style:1> T3kuh0
@@ -340,6 +349,8 @@ by iparupua, <lora:PONYXL_STYLE_iparupua_ownwaifu:1> PONYXL_STYLE_iparupua_ownwa
 by melonart, <lora:PONYXL_STYLE_Furry_Melonart_ownwaifu:1> PONYXL_STYLE_Furry_Melonart_ownwaifu
 by melonart, <lora:MelonArt_Style_Lora_v2:1> by melonart
 by melonart, <lora:MelonArt_Style_Lora_Illustrious:1> by melonart
+by john doe, <lora:jdart:1> jdart style
+by john doe, <lora:john_doe:1> S4s4k1Nsfw
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
@@ -377,14 +388,16 @@ by melonart, <lora:MelonArt_Style_Lora_Illustrious:1> by melonart
 <lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
 <lora:mahou_shoujo_ai:1> mahou shoujo ai
 [by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:0.8> cianyo_style|by dandon fuga]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by dandon fuga]
-[by johndoe, by john doe <lora:johndoe_IL:1>|by pixelsketcher]
+[by john doe, <lora:jdart:1> jdart style|by dandon fuga]
+[by john doe, <lora:jdart:1> jdart style|by pixelsketcher]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn <lora:diathorn_style_illustrious01_v3:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, Diathornstyle <lora:Diathorn_Illustrious:0.8>]
 [by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
 [by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:Diathorn_PDXL:0.8> diathornstyle]
+[by firolian, <lora:FirolianLyco:1> uncensored, realistic|by diathorn, <lora:DiathornILf:1> d1ailf]
+[by firolian, <lora:Firolian illus:1> firolian style|by diathorn, <lora:DiathornILf:1> d1ailf]
 by 007delta
 by 0r0ch1
 by 1-upclock
