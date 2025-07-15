@@ -288,26 +288,24 @@ Sets sd model based on retrieved_string
 [/##]
 [function set_model]
 
-[if "opt not in sd_model"]
-    [set sd_model][get opt][/set]
-[/if]
-
-[if "'PONY' in sd_model"]
-    [set model]pony[/set]
-[/if]
-[elif "'Illu' in sd_model"]
-    [set model]illu[/set]
-[/elif]
+[set model]
+[filter_tags model="{get opt}"]
+[choose][call wildcards/models][/choose]
+[/set]
 
 [set p_style]
-[filter_tags style=positive model="{get model}" _must_match=all]
+[filter_tags style=positive model="{get opt}" _must_match=all]
 [choose][call wildcards/styles][/choose]
 [/set]
 
 [set n_style]
-[filter_tags style=negative model="{get model}" _must_match=all]
+[filter_tags style=negative model="{get opt}" _must_match=all]
 [choose][call wildcards/styles][/choose]
 [/set]
+
+[if "model not in sd_model"]
+    [set sd_model][get opt][/set]
+[/if]
 
 [/function]
 

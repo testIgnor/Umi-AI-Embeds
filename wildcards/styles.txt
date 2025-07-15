@@ -5,6 +5,11 @@ score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_expl
 [tags style="positive" model="illu"]
 masterpiece, best quality, amazing quality, zPDXL3
 masterpiece, best quality, amazing quality
+masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery
+[/tags]
+[tags style="positive" model="NAI"]
+masterpiece, best quality, amazing quality, very awa,absurdres,newest,very aesthetic,depth of field, highres
+masterpiece, best quality, newest, absurdres, highres
 [/tags]
 
 [tags style="negative" model="pony"]
@@ -16,4 +21,9 @@ score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg arti
 zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:2.0), (person in background, people in background:2.0), (person in foreground, people in foreground:2.0), text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), (old man, ojisan, ugly bastard, foreground man:2.0)
 zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
 Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
+modern, recent, old, oldest, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digits, fewer digits, cropped, very displeasing, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, username, signature, simple background, conjoined,bad ai-generated
+[/tags]
+[tags style="negative" model="NAI"]
+worst quality, old, early, low quality, lowres, signature, username, logo, bad hands, mutated hands
+worst quality,normal quality,anatomical nonsense,bad anatomy,interlocked fingers,extra fingers,watermark,simple background,transparent,low quality,logo,text,signature,face backlighting,backlighting
 [/tags]

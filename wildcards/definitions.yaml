@@ -1,15 +1,22 @@
-'@@waiNSFWIllustrious_v140@@':
+'@@illu@@':
   Description:
     - Illu Model
   Tags:
     - Model
     - Illu
-'@@waiANINSFWPONYXL_v140@@':
+'@@pony@@':
   Description:
     - Pony Model
   Tags:
     - Model
     - Pony
+'@@NAI@@':
+  Description:
+    - Noob Model
+  Tags:
+    - Model
+    - NAI
+
 '{1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}':
   Description:
     - Ez random emotions

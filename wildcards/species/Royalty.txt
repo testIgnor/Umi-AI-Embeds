@@ -10,3 +10,4 @@
 (warrior queen:1.3)
 (warrior princess:1.3)
 (princess knight:1.3)
+(papissa:0.0), pope, female pope, popess
