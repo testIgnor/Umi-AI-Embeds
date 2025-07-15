@@ -176,7 +176,7 @@ Makes a 1character prompt
 
 [set retrieved_string][Umi _has_options _verbose="{get debugging}" _debug="{get debugging}"][get umistring][/Umi][/set]
 
-[set p_prompt][remove-string asian_][remove-string source_anime,][choose _case=1][get retrieved_string][/choose][/remove-string][/remove-string][/set]
+[set p_prompt][remove-strings asian_ european_ source_anime,][choose _case=1][get retrieved_string][/choose][/remove-strings][/set]
 
 [/function]
 

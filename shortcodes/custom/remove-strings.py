@@ -9,10 +9,9 @@ class Shortcode():
     def run_block(self, pargs, kwargs, context, content):
         if not content:
             return
-        try:
-            substring = pargs[0]
-        except IndexError as e:
-            self.log.exception('Please supply a substring.')
-        if substring not in content:
-            return content
-        return content.replace(substring, '').strip()
+        if len(pargs) == 0:
+            self.log.exception('Please supply substrings.')
+        new_content = content
+        for substring in pargs:
+            new_content = new_content.replace(substring, '').strip()
+        return new_content
