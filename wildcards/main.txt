@@ -304,7 +304,7 @@ Sets sd model based on retrieved_string
 [/set]
 
 [if "model not in sd_model"]
-    [set sd_model][get opt][/set]
+    [set sd_model][get model][/set]
 [/if]
 
 [/function]
