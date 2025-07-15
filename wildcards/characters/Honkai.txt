@@ -1,4 +1,10 @@
-(firefly \(honkai: star rail\):1.3), honkai \(series\), two-tone eyes, grey hair, long hair, hair between eyes, purple eyes
+(firefly \(honkai: star rail\):1.3), honkai \(series\), two-tone eyes, grey hair, long hair, hair between eyes, purple eyes, blue pupils, purple eyes, blue eyes, grey hair, multicolored hair, long hair, black hairband, hair ornament
+(firefly \(honkai: star rail\):1.3), honkai \(series\), two-tone eyes, grey hair, long hair, hair between eyes, purple eyes, blue pupils, purple eyes, blue eyes, grey hair, multicolored hair, long hair, black hairband, hair ornament, <lora:ChamFireflyNoob:1> F1reflyHSR
+(firefly \(honkai: star rail\):1.3), honkai \(series\), two-tone eyes, grey hair, long hair, hair between eyes, purple eyes, blue pupils, purple eyes, blue eyes, grey hair, multicolored hair, long hair, black hairband, hair ornament, <lora:ChamFireflyNoob:1> F1reflyDF
+(firefly \(honkai: star rail\):1.3), honkai \(series\), two-tone eyes, grey hair, long hair, hair between eyes, purple eyes, blue pupils, purple eyes, blue eyes, grey hair, multicolored hair, long hair, black hairband, hair ornament, <lora:ChamFireflyNoob:1> F1reflyPlugsuit
+(firefly \(honkai: star rail\):1.3), honkai \(series\), two-tone eyes, grey hair, long hair, hair between eyes, purple eyes, blue pupils, purple eyes, blue eyes, grey hair, multicolored hair, long hair, black hairband, hair ornament, <lora:ChamFireflyNoob:1> F1reflyVsn
+(firefly \(honkai: star rail\):1.3), honkai \(series\), two-tone eyes, grey hair, long hair, hair between eyes, purple eyes, blue pupils, purple eyes, blue eyes, grey hair, multicolored hair, long hair, black hairband, hair ornament, <lora:ChamFireflyNoob:1> F1reflyJpll
+(firefly \(honkai: star rail\):1.3), honkai \(series\), two-tone eyes, grey hair, long hair, hair between eyes, purple eyes, blue pupils, purple eyes, blue eyes, grey hair, multicolored hair, long hair, black hairband, hair ornament, <lora:ChamFireflyNoob:1> F1reflyJourney
 (kafka \(honkai: star rail\):1.3), honkai \(series\), long hair, purple hair, purple eyes, hair between eyes
 (acheron \(honkai: star rail\):1.3), honkai \(series\), multicolored hair, purple hair, streaked hair, long hair, very long hair, purple eyes
 (kiana kaslana:1.3), honkai \(series\), grey hair, long hair, hair between eyes, blue eyes, white hair, very long hair
@@ -47,6 +53,7 @@
 (fu hua \(valkyrie accipiter\):1.3), honkai \(series\), red eyes, grey hair, long hair, hair between eyes, blue hair, blue eyes, white hair, black hair
 (fu hua \(fenghuang of vicissitude\):1.3), honkai \(series\), two-tone hair, low-tied long hair, multicolored hair, red eyes, streaked hair, grey hair, long hair, hair between eyes, white hair, very long hair, red hair
 (sam \(honkai: star rail\):1.3), honkai \(series\), <lora:ChamFireflyIllustriousXL:1> SAM, mecha, full armor, helmet
+(sam \(honkai: star rail\):1.3), honkai \(series\), <lora:ChamFireflyNoob:1> SAM, mecha, full armor, helmet
 (clara \(honkai: star rail\):1.3), honkai \(series\), red eyes, grey hair, hair between eyes, long hair, white hair, pink eyes
 (theresa apocalypse \(valkyrie pledge\):1.3), honkai \(series\), grey hair, long hair, hair between eyes, blue eyes, white hair
 (theresa apocalypse \(luna kindred\):1.3), honkai \(series\), red eyes, long hair, hair between eyes, white hair, very long hair

@@ -20,6 +20,7 @@
 (katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks <lora:KataraCaps:1>
 (katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks <lora:katara-book2-ponyxl-lora-nochekaiser:1>
 (katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks <lora:KataraXL:1>
+(katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, braid, side locks, <lora:Katara_TheLastAirbender_illustrious_Leaf1:1> katara
 (katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, topknot, <lora:KataraIllustriousXL_byKonan:1> fnkatara
 (katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, topknot, <lora:kataraILL:1> fire nation
 (katara:1.3), avatar: the last airbender, blue eyes, dark skin, dark-skinned female, brown hair, long hair, topknot, <lora:Katara_-_Avatar__-_Book_3_Fire_PonyXL:1> KataraFire

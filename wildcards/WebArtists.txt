@@ -79,6 +79,7 @@ by afrobull, <lora:AfroBull:1> BullStyle
 by afrobull, <lora:Afrobull:1> BullStyle
 by afrobull <lora:AfrobullIXL:1>
 by afrobull <lora:AfrobullLycoXL:1>
+by afrobull <lora:AfrobullNAI:1>
 by bigrbear, <lora:bigrbear_Style_V1:0.8> bigrbear_style
 by bigrbear <lora:bigrbear_Artist_Style_PonyXL:0.8>
 by bigrbear <lora:bigrbearSyle IXL3:0.8>
@@ -89,6 +90,7 @@ by camonome, <lora:Camonome:1> Camonome**(speech bubble, text, japanese text, hi
 by camonome <lora:Camonome-v1-PDXL:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
+by camonome, <lora:camonome:1> camonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by john doe shinobu <lora:john_doe_shinobu:1>
 by echosaber <lora:Echosaber_-_Style:1>
 by echosaber, <lora:echosaberILLUS:1> echosaber
@@ -120,6 +122,7 @@ by mokushi, <lora:Mokushi_style-05:1> MokushiC-3
 by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 by zone, <lora:[Zone] 2006-2008 Artist Style Illustrious:1> zone20062008il
 by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
+by zone, <lora:[Zone] 2006-2008 Artist Style Ver2 Illustrious:1> zone2006to2008v2il
 by takami akai <lora:Takami Akai_illustriousXL:1>
 by thekite, <lora:TheKite_Style:1> TheKite_Style
 by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
@@ -138,6 +141,7 @@ by melonart, <lora:MelonArt_Style_Lora_v2:1> by melonart
 by melonart, <lora:MelonArt_Style_Lora_Illustrious:1> by melonart
 by john doe, <lora:jdart:1> jdart style
 by john doe, <lora:john_doe:1> S4s4k1Nsfw
+by gagala, <lora:PONYXL_STYLE_Gagala_ownwaifu:1> PONYXL_STYLE_Gagala_ownwaifu
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
@@ -162,6 +166,7 @@ by john doe, <lora:john_doe:1> S4s4k1Nsfw
 <lora:ASF3_style:1> SF3XL
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
 <lora:Csp2PixelArtPonyYIL_Style:1> Csp2Pixel
+<lora:Pixel_Art_EPS:1> pixstyle
 <lora:hrn_yc_illustriousXL:1> retro artstyle
 <lora:HM2K_PONY:1> HM2K
 <lora:1990_p1_IL:1> anime coloring, anime style, anime screen cap, 1990s \(style\), retro style
@@ -259,6 +264,7 @@ by afrobull, <lora:AfroBull:1> BullStyle
 by afrobull, <lora:Afrobull:1> BullStyle
 by afrobull <lora:AfrobullIXL:1>
 by afrobull <lora:AfrobullLycoXL:1>
+by afrobull <lora:AfrobullNAI:1>
 by thiccwithaq <lora:nyantcha_style_illustrious_goofy:1>
 by tarakanovich <lora:tarakanovich1.5:1>
 by nopeys, <lora:Nopeys:1> Nopeysstyle
@@ -306,6 +312,7 @@ by camonome, <lora:Camonome:1> Camonome**(speech bubble, text, japanese text, hi
 by camonome <lora:Camonome-v1-PDXL:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:Camonome_style:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by camonome <lora:CamonomeV3:1>**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
+by camonome, <lora:camonome:1> camonome**(speech bubble, text, japanese text, hiragana, katakana, kanji, writing, comic:2.0)**
 by john doe shinobu <lora:john_doe_shinobu:1>
 by milkychu, <lora:milkychu-style-fin:1> milkychu-style
 by minus8 <lora:minus_8:1>
@@ -335,6 +342,7 @@ by mokushi, <lora:Mokushi_style-05:1> MokushiC-3
 by vincentcc, <lora:vincentcc:1> v1nc3ntcst1l3
 by zone, <lora:[Zone] 2006-2008 Artist Style Illustrious:1> zone20062008il
 by zone <lora:[Zone] 2006-2008 Artist Style PonyXL:1>
+by zone, <lora:[Zone] 2006-2008 Artist Style Ver2 Illustrious:1> zone2006to2008v2il
 by takami akai <lora:Takami Akai_illustriousXL:1>
 by thekite, <lora:TheKite_Style:1> TheKite_Style
 by miyakon22, <lora:Miyakon22_Style:1> Miyakon22_Style, Uncensored
@@ -377,6 +385,7 @@ by john doe, <lora:john_doe:1> S4s4k1Nsfw
 <lora:ASF3_style:1> SF3XL
 <lora:r3tr0XLP:1> r3tr0, traditional media, oil painting
 <lora:Csp2PixelArtPonyYIL_Style:1> Csp2Pixel
+<lora:Pixel_Art_EPS:1> pixstyle
 <lora:hrn_yc_illustriousXL:1> retro artstyle
 <lora:HM2K_PONY:1> HM2K
 <lora:1990_p1_IL:1> anime coloring, anime style, anime screen cap, 1990s \(style\), retro style

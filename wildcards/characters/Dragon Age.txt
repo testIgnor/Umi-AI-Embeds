@@ -29,4 +29,5 @@
 (morrigan \(dragon age\):1.3), dragon age, black hair, yellow eyes, hair updo, short hair, <lora:MorriganDwnsty:0.7> morrigan_da
 (merrill \(dragon age\):1.3), dragon age, pointy ears, face tattoo, facial mark, short hair, black hair, green eyes, <lora:Merrill_Dragon_Age_PonyILL:0.7> DAmerrill
 (merrill \(dragon age\):1.3), dragon age, pointy ears, face tattoo, facial mark, short hair, black hair, green eyes, <lora:Merrill_Dragon_age_2:0.7> SulfS-M3rr1LL
+(merrill \(dragon age\):1.3), dragon age, pointy ears, face tattoo, facial mark, short hair, black hair, green eyes, <lora:Merrill_DA2_-_ILLU_by_SulfurSniffer:1> M3rr1LL-ill
 (sapphira \(dragon age\):1.3), dragon age, long hair, black hair, brown eyes, dark skin, dark-skinned female, makeup, lipstick, ponytail, <lora:dragonage-sapphira-anime-ponyxl-lora-nochekaiser:0.7>, sapphira

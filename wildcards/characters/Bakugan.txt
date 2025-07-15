@@ -1,8 +1,16 @@
 (mylene farrow:1.3), <lora:mylene_farrow:1> mylene farrow, short hair, aqua hair, blue hair, makeup
+(mylene farrow:1.3), <lora:Mylene_Farrow:1> mylene, short hair, aqua hair, blue hair, makeup
 (chan lee:1.3), <lora:chan_lee:1> Bakugan, chan lee, black hair, eyeshadow, makeup, brown eyes, ponytail, bangs
 (fabia sheen:1.3), <lora:Fabia_Sheen:1> fabia sheen, blue hair, green eyes, jewelry
+(fabia sheen:1.3), <lora:Fabia_Sheen_V3:1> fabia1, blue hair, green eyes, jewelry
 (fabia sheen:1.3), <lora:Fabia_Sheen:1> fabia sheen \(neathian\), blue hair, green eyes,colored skin, colored sclera, blue skin, black sclera
+(fabia sheen:1.3),  <lora:Fabia_Sheen_V3:1> fabia2, blue hair, green eyes,colored skin, colored sclera, blue skin, black sclera
+(fabia sheen:1.3),  <lora:Fabia_Sheen_V3:1> fabia3, blue hair, green eyes,colored skin, colored sclera, blue skin, black sclera
 (alice gehabich:1.3), <lora:Alice_gehabich_pony_xl:1> Bakugan, Alice gehabich, Long hair, Orange hair, Brown eyes
+(alice gehabich:1.3), <lora:alice_gehabich:1> ailcegb, Long hair, Orange hair, Brown eyes
 (mira clay:1.3), <lora:mira_clay_Illustrious_V1:1> bakugan, blue eyes, orange hair, short hair, jewelry
 (runo misaki:1.3), <lora:Runo_Misaki_Illustrious_V1:1> bakugan, twintails, long hair, aqua hair, green eyes
 (julie makimoto:1.3), <lora:Julie_makimoto:1> bakugan, julie makimoto, dark skin, dark-skinned female, hair ornament, long hair, belt, gloves, ponytail, white hair
+(julie makimoto:1.3), <lora:Julie_Makimoto_Vestroia_Version_V1:1> bakugan, julie makimoto, dark skin, dark-skinned female, hair ornament, long hair, belt, gloves, ponytail, white hair
+(julie makimoto:1.3), <lora:Julie_Makimoto_Vestroia_Version_V1:1> bakugan new vestroia, julie makimoto, dark skin, dark-skinned female, hair ornament, long hair, belt, gloves, ponytail, white hair
+(lia venegas:1.3), <lora:Lia_Venegas_v2:1> lia, ponytail, long hair, blue hair, dark-skinned female, grey eyes

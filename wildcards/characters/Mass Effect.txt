@@ -1,5 +1,9 @@
 (jack \(mass effect\):1.3), <lora:Jack_Mass_Effect_Illustrious:0.7> jackmeaf, tattoo or full-body tattoo, earring
-(jack \(mass effect\):1.3), <lora:JackME3-147:0.7>
+(jack \(mass effect\):1.3) <lora:JackME3-147:0.7>
+(jack \(mass effect\):1.3), <lora:Jack_Mass_Effect_2-3_V2_Illustrious:1> jackmeaf, tattoo, earring, buzz cut
+(jack \(mass effect\):1.3), <lora:Jack_Mass_Effect_2-3_V2_Illustrious:1> jackmeaf, full-body tattoo, earring, buzz cut
+(jack \(mass effect\):1.3), <lora:Jack_Mass_Effect_2-3_V2_Illustrious:1> jackmeaf, tattoo, earring, bald
+(jack \(mass effect\):1.3), <lora:Jack_Mass_Effect_2-3_V2_Illustrious:1> jackmeaf, full-body tattoo, earring, bald
 (cora \(mass effect\):1.3), <lora:coraMEAxl:0.7> coraxl
 (liara t'soni:1.3), colored skin, blue skin, <lora:liarazure:0.7> liarazure
 (miranda lawson:1.3), <lora:MirandaXL:0.7>, miranda, black hair, long hair, blue eyes

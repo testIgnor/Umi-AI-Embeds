@@ -4,15 +4,17 @@
 <[model][pony]>source_furry, (vanilla the rabbit:1.3), (anthro:1.3)
 <[model][pony]>source_furry, (sally acorn:1.3), (anthro:1.3)
 <[model][pony]>source_furry, (tikal the echidna:1.3), (anthro:1.3), <lora:checkpoint-e18_s918:1> Tikal, echidna girl, orange fur, peach skin, blue eyes, tiara, gold headband, tail
+<[model][pony]>source_furry, (tikal the echidna:1.3), (anthro:1.3), <lora:checkpoint-e18_s936:1> Tikal, echidna girl, orange fur, peach skin, blue eyes, tiara, gold headband, tail
 <[model][pony]>source_furry, (cream the rabbit:1.3), (anthro:1.3)
 <[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3)
 <[model][pony]>source_furry, (amy rose:1.3), (amy:1.0) <lora:pochincoff.pony:0.75>
 <[model][pony]>source_furry, (cream the rabbit:1.3), (cream:1.0) <lora:pochincoff.pony:0.75>
 <[model][pony]>source_furry, (vanilla the rabbit:1.3), (vanilla:1.0) <lora:pochincoff.pony:0.75>
 <[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3), <lora:Egg_Slave_Tailsko_ChaosCroc:0.8> ESTK, furry, anthro, fox girl, yellow body, yellow fur, white snout, 2 tails, latex tails, red tails, yellow hair, {black||red} eyeshadow, black lipstick, pink nose, {blue||red||purple} eyes, red eyes, long hair
-<[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3), <lora:Miles_Prower_crossgender:1> miles_girl, furry female, fox ears, goggles
-<[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3), <lora:DAGASI_Dagashi_SegaSonic_Miles_Tails_Prower_Character_PonyXL:1> tails \(sonic\)
-<[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3), <lora:[DAGASI (Sega Sonic)] Miles 'Tails' Prower Character 2.0 IllustriousXL:1> dagasitailsil
+<[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3), white fur, orange fur, body fur, fox girl, fox tail, multiple tails, animal ears, animal nose, blue eyes, two tails, <lora:Miles_Prower_crossgender:1> miles_girl, furry female, fox ears, goggles
+<[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3), white fur, orange fur, body fur, fox girl, fox tail, multiple tails, animal ears, animal nose, blue eyes, two tails, <lora:DAGASI_Dagashi_SegaSonic_Miles_Tails_Prower_Character_PonyXL:1> tails \(sonic\)
+<[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3), white fur, orange fur, body fur, fox girl, fox tail, multiple tails, animal ears, animal nose, blue eyes, two tails, <lora:[DAGASI (Sega Sonic)] Miles 'Tails' Prower Character 2.0 IllustriousXL:1> dagasitailsil
+<[model][pony]>source_furry, (miles prower:1.3), (genderswap:1.5), (anthro:1.3), white fur, orange fur, body fur, fox girl, fox tail, multiple tails, animal ears, animal nose, blue eyes, two tails, <lora:[DAGASI (Sega Sonic)] Miles 'Tails' Prower Character V3 IllustriousXL:1> dagasitailsv3il
 <[model][pony]>source_furry, (cosmo the seedrian:1.3), blue eyes, cone hair bun, green hair, <lora:cosmo-il:1> cosmotheseedrian, cosmochild, short hair
 <[model][pony]>source_furry, (cosmo the seedrian:1.3), blue eyes, cone hair bun, green hair, <lora:cosmo-il:1> cosmotheseedrian, cosmoadult, long hair
 <[model][illu]>source_anime, (princess elise:1.3), red hair, blue eyes, short hair, hair ornament, feather, necklace, <lora:Princess_Elise_-_Sonic_06_Illustrious:0.8> princesselise**(yellow skin, orange skin, red skin:1.5)**

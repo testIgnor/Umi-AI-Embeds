@@ -40,7 +40,7 @@
 (Mirabel Madrigal:1.3) <lora:princess_xl_v2:1>
 (Isabela Madrigal:1.3) <lora:princess_xl_v2:1>
 (Dolores Madriga:1.3) <lora:princess_xl_v2:1>
-(Anna:1.3) orange hair, brown hair, twin braids <lora:disney3d-illustrious:1>
+(Anna:1.3), orange hair, brown hair, twin braids <lora:disney3d-illustrious:1>
 (Ariel:1.3) <lora:disney3d-illustrious:1>
 (Elsa:1.3) <lora:disney3d-illustrious:1>
 (Moana:1.3) <lora:disney3d-illustrious:1>
@@ -52,6 +52,18 @@
 (Jasmine:1.3) <lora:disney3d-illustrious:1>
 (Snow White:1.3) <lora:disney3d-illustrious:1>
 (Tiana:1.3) <lora:disney3d-illustrious:1>
+(Anna:1.3), orange hair, brown hair, twin braids <lora:disney3d-ponyxl:1>
+(Ariel:1.3) <lora:disney3d-ponyxl:1>
+(Elsa:1.3) <lora:disney3d-ponyxl:1>
+(Moana:1.3) <lora:disney3d-ponyxl:1>
+(Mulan:1.3) <lora:disney3d-ponyxl:1>
+(Pocahontas:1.3) <lora:disney3d-ponyxl:1>
+(Rapunzel:1.3) <lora:disney3d-ponyxl:1>
+(Belle:1.3) <lora:disney3d-ponyxl:1>
+(Cinderella:1.3) <lora:disney3d-ponyxl:1>
+(Jasmine:1.3) <lora:disney3d-ponyxl:1>
+(Snow White:1.3) <lora:disney3d-ponyxl:1>
+(Tiana:1.3) <lora:disney3d-ponyxl:1>
 (snow white:1.3) <lora:SnowWhite:1>, black hair, curly hair, brown eyes, bob cut
 (cinderella:1.3) <lora:Cinderella:1>, blonde hair, single hair bun, blue eyes
 (aurora:1.3) <lora:Aurora:1>, blonde hair, long hair, blue eyes
@@ -62,6 +74,7 @@
 (mulan:1.3) <lora:Mulan:1>, black hair, long hair, brown eyes
 (tiana:1.3) <lora:Tiana:1> Tiana, black hair, dark-skinned female, brown eyes, single hair bun
 (rapunzel:1.3) <lora:Rapunzel:1>, very long hair, blonde hair, green eyes
+(rapunzel:1.3) <lora:ilrapunzel:1>, very long hair, blonde hair, green eyes
 (merida:1.3) <lora:Merida:1>, long hair, curly hair, orange hair, blue eyes, freckles
 (anna:1.3) <lora:AnnaFrozen:1>, orange hair, twin braids, blue eyes, freckles
 (elsa:1.3) <lora:Elsa frozen:1>, platinum blonde hair, single braid, blue eyes

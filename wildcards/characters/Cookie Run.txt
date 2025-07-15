@@ -5,8 +5,10 @@
 (latte cookie:1.3), cookie run, dark-skinned female, long hair, dark skin, very long hair, white hair, <lora:latte_cookie_(cookie_run)-koto-illustrious test:1> latcokie, latcokie, white hair, dark-skinned female, long hair, brown eyes
 (cocoa cookie:1.3), cookie run, brown hair, brown eyes, long hair, <lora:CocoaCookie:1> CocoaCookie, long hair, brown hair, brown eyes, colored eyelashes, white eyelashes, dark skinned girl
 (milky way cookie:1.3), cookie run, long hair, low twintails, very long hair, colored skin, white hair, twintails, <lora:Milkyway_Cookie:1> m1lkywaycookie, low twintails, black hat, konpeito hairties, white skin, colored skin, purple eyes
-(black pearl cookie:1.3), cookie run, white hair, long hair <lora:black_pearl_cookie:1>
+(black pearl cookie:1.3), cookie run, white hair, long hair, grey skin, grey eyes, eyelashes, white hair, head fins, dot eyes, black pearl, black forehead jewel, mermaid <lora:black_pearl_cookie:1>
+(black pearl cookie:1.3), cookie run, white hair, long hair, grey skin, grey eyes, eyelashes, white hair, head fins, dot eyes, black pearl, black forehead jewel, mermaid <lora:blackpearl:1> bp34r1
 (cream soda cookie:1.3), cookie run, very long hair, blue eyes, blue hair, long hair, <lora:Creamsoda:1> creamsoda
+(cream soda cookie:1.3), cookie run, very long hair, blue eyes, blue hair, long hair, <lora:creamsoda2:1> cresocookie
 (tiger lily cookie:1.3), cookie run, long hair, <lora:Tiger_Lily_Cookie_-_Cookie_Run:1> tigerlilycookie, cookie run, blue hair, long hair, flower in hair, dark-skinned female, orange eyes, aqua hair
 (tiger lily cookie:1.3), cookie run, long hair, <lora:Tiger_Lily_Cookie_illustrious-XL:1> tlc, hair ornament, dark-skinned female, very long hair, facial mark, orange eyes, aqua hair
 (cotton cookie:1.3), cookie run, white hair, blue eyes, <lora:CCRKXL:1> CTCR, CTCR Def

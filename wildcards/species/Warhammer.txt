@@ -2,9 +2,13 @@
 (sister of averlorn:1.3) <lora:Sisters_of_Averlorn:0.8>
 (witch elf:1.3) <lora:WitchElf:0.8>
 (wardancer:1.3) <lora:Wardancer:0.8>
+(wardancer:1.3), <lora:WarDancer_Vpred:0.8> WarDancer
 (death hag:1.3), <lora:Death_Hag:0.8> DeathHag
+(death hag:1.3), <lora:DeathHag_Vpred:0.8> DeathHag
 (frost maiden:1.3), <lora:FrostMaiden:0.8> FrostMaiden
+(frost maiden:1.3), <lora:FrostMaiden_Vpred:0.8> FrostMaiden
 (bloodwrack medusa:1.3) <lora:Bloodwrack_Medusa:0.8>
+(bloodwrack medusa:1.3), <lora:BloodwrackMedusa_Vpred:0.8> BloodwrackMedusa
 (supreme sorceress:1.3) <lora:Supreme_Sorceress:0.8>
 (dark elf dreadlord:1.3), <lora:Dark_Elf_Dreadlord_PonyXL_Total_War_Warhammer:0.8> DreadLord
 (sorceress:1.3), <lora:Sorceress:0.8> DESorceress

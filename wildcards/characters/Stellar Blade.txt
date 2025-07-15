@@ -17,4 +17,5 @@
 (eve \(stellar blade\):1.3), stellar blade, <lora:EveSuitDwnsty:1> sbeve, black hair, brown eyes, ponytail, long hair, blunt bangs
 (eve \(stellar blade\):1.3), stellar blade, <lora:EveSB_Illu_Dwnsty:1> evesb, brown eyes, black hair, ponytail, blunt bangs
 (eve \(stellar blade\):1.3), stellar blade, <lora:SB_EVE-IL:1> sbevedef, black hair, brown eyes, long ponytail, blunt bangs
+(eve \(stellar blade\):1.3), stellar blade, <lora:checkpoint-e22_s682:1> eve \(stellar blade\), black hair, brown eyes, long ponytail, blunt bangs
 (tachy \(stellar blade\):1.3), stellar blade, <lora:SB_Tachy-IL:1> stellartachy, black hair, long hair, black eyes

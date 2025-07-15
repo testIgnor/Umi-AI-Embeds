@@ -13,6 +13,7 @@
 (pack leader highwire:1.3), fortnite, <lora:Highwire_illustriousXL:0.8> Highwire, blue sclera, pink eye, blue mouth, right closed eye
 (pack leader highwire:1.3), fortnite, <lora:pl-highwire:0.8> Plhighwirexl, anthro, black fur, animal ears, animal nose, purple eyes, blue sclera
 (pack leader highwire:1.3), fortnite, <lora:P_highwire:0.8> P Highwire, P Highwire, Anthro black body, white fur, blue inner ear fur, pink eyes, blue sclera, white pupils, pink face markings, blue mouth, wolf tail, wolf ears, fluffy tail, digitigrade, claws, snout
+(pack leader highwire:1.3), fortnite, <lora:HighWire_iLL:0.8> Highwire, Highwire, anthro, black body, white fur, blue inner ear fur, pink eyes, blue sclera, white pupils, pink face markings, blue mouth, wolf tail, wolf ears, fluffy tail, claws, snout
 (kimiko five-tails:1.3), fortnite, <lora:KimikoFiveTailsFPXL:0.8> KimikoFiveTailsFPXL, anthro furry, furry female, body fur, white fur, facial mark, pink eyes, red hair, medium hair, animal ears, animal ear fluff, medium breasts, white tail, fox tail
 (kimiko five-tails:1.3), fortnite, <lora:Kimiko_gobi_fortnite:0.8> Kimiko, anthro, female, tail, breasts, animal nose, fox ears, pink hair, animal ears, pawpads, facial mark, pink eyes, fox tail, hair tie, white fur, two-tone fur
 (kimiko five-tails:1.3), fortnite, <lora:kimiko_fivetails:0.8> kimiko_fivetails, anthro, female, tail, breasts, animal nose, fox ears, pink hair, animal ears, pawpads, facial mark, pink eyes, fox tail, hair tie, white fur, two-tone fur
@@ -26,11 +27,14 @@
 (lexa \(fortnite\):1.3), fortnite, <lora:FN_OldLexa-PONY:0.8> fnlexamch
 (lexa \(fortnite\):1.3), fortnite, <lora:FN_PrincessLexa-PONY:0.8> fnpnclexa
 (lexa \(fortnite\):1.3), fortnite, <lora:FN_PrincessLexa-PONY:0.8> fnhbglexa
+(lexa \(fortnite\):1.3), fortnite, <lora:FN_PrincessLexa-IL:1> fnpnclexa
+(lexa \(fortnite\):1.3), fortnite, <lora:FN_PrincessLexa-IL:1> fnhbglexa
 (helsie \(fortnite\):1.3), fortnite, <lora:Helsie_fortnite_illust:0.8> helsie_fortnite_illust, green eyes, multicolored hair, jewelry, earrings, bracelet, freckles
 (helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:0.8>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, helsiedef, multicolored hair, ponytail,
 (helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:0.8>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, helsiealt, blonde
 (helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:0.8>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, helsiehunt
 (helsie \(fortnite\):1.3), fortnite, <lora:32dim-FN_Helsie-PONY:0.8>, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry, Helsiernd
+(helsie \(fortnite\):1.3), fortnite, <lora:FN_HuntressHelsie-IL:1> fnhunhel, green eyes, earrings, choker, makeup, freckles, bracelets, jewelry
 (aura \(fortnite\):1.3), fortnite, <lora:Fortnite_-_Aura_Pony:0.8> AuraFN, long orange braids
 (penny \(fortnite\):1.3), fortnite, <lora:penny:0.8> pennyil, short hair, blue eyes, pink hair, lips, tattoo
 (hope \(fortnite\):1.3), fortnite, <lora:ShadowBladeHope:0.8> ShadowBladeHopeSDXL, blue eyes, blue hair, ponytail
@@ -45,11 +49,14 @@
 (night rose \(fortnite\):1.3), fortnite, <lora:FortniteMidnightRose:0.8> n1ght_r0se
 (night rose \(fortnite\):1.3), fortnite, <lora:FN_NightRose-PONY:0.8> fnrosedef
 (night rose \(fortnite\):1.3), fortnite, <lora:FN_NightRose-PONY:0.8> fnrosealt
+(night rose \(fortnite\):1.3), fortnite, <lora:FN_NightRose-IL:1> fnrosedef
+(night rose \(fortnite\):1.3), fortnite, <lora:FN_NightRose-IL:1> fnrosealt
 (leelah \(fortnite\):1.3), fortnite, <lora:Leelah:0.8> blue hair, pink hair, short hair, multicolored hair, two-tone hair, light blue hair, ahoge, hair bun, double bun, dark skin, dark-skinned female, blue eyes, makeup, eyeshadow, freckles
 (leelah \(fortnite\):1.3), fortnite, <lora:KMS_Fortnite_Leelah_IL:0.8> fn_leelah, dark skin, blue eyes, blue hair, pink hair, short hair, multicolored hair, two-tone hair, light blue hair, ahoge, hair bun, double bun, makeup, eyeshadow, freckles
 (nemia \(fortnite\):1.3), fortnite, <lora:nemia:0.8> Nemia, red skin, green hair, twin tails, hair between eyes, lilac eyes, horns
 (nemia \(fortnite\):1.3), fortnite, <lora:nemia-10:0.8> NemiaSDXL, blue eyes, hair ornament, hair between eyes, twintails, purple eyes, green hair, horns, hairclip
 (nemia \(fortnite\):1.3), fortnite, <lora:FN_Nemia-PONY:0.8> fnnemia
+(nemia \(fortnite\):1.3), fortnite, <lora:FN_Nemia-IL:1> fnnemia
 (jules \(fortnite\):1.3), fortnite, <lora:julesxl2:0.8> jules_fortnite
 (jules \(fortnite\):1.3), fortnite, <lora:jULESFN:0.8> JulesFN, twin braids, black hair
 (jules \(fortnite\):1.3), fortnite, <lora:jULESFN:0.8> JulesBeach, twin braids, two-tone hair, full-body tattoo
@@ -62,9 +69,12 @@
 (tntina \(fortnite\):1.3), fortnite, <lora:Tntina_Fortnite:0.8> Tntina, short hair, brown hair, brown eyes
 (tntina \(fortnite\):1.3), fortnite, <lora:FN_TNTina-PONY:0.8> tinadef
 (tntina \(fortnite\):1.3), fortnite, <lora:FN_TNTina-PONY:0.8> tinadyn
+(tntina \(fortnite\):1.3), fortnite, <lora:FN_TNTina-IL:1> tinadef
+(tntina \(fortnite\):1.3), fortnite, <lora:FN_TNTina-IL:1> tinadyn
 (zoe clash \(fortnite\):1.3), fortnite, <lora:zoe1:0.8> zoeclash_fortnite
 (daraku \(fortnite\):1.3), fortnite, <lora:Daraku:0.8> Daraku, black hair, long hair, colored inner hair, green eyes, orange eyeshadow, lip piercing
 (daraku \(fortnite\):1.3), fortnite, <lora:32dim-FN_Daraku-PONY:0.8> fndaraku
+(daraku \(fortnite\):1.3), fortnite, <lora:FN_Daraku-IL:1> fndaraku
 (haze \(fortnite\):1.3), fortnite, <lora:HazeFN3:0.8> HazeFN, pink hair, black lipstick, long hair, pink eyes
 (haze \(fortnite\):1.3), fortnite, <lora:HazeFN3:0.8> HazeSW, double bun, pink hair, pink eyes
 (haze \(fortnite\):1.3), fortnite, <lora:HazeFN3:0.8> HazeHarp, pink hair
@@ -118,6 +128,7 @@
 (the mechanist \(fortnite\):1.3), fortnite, <lora:The_Mechanist_Fortnite:0.8> MechanistFort, short hair, black hair
 (the mechanist \(fortnite\):1.3), fortnite, <lora:themachinist:0.8> themachinist_fortnite
 (the mechanist \(fortnite\):1.3), fortnite, <lora:FN_Machinist-PONY:0.8> fnmachinist
+(the mechanist \(fortnite\):1.3), fortnite, <lora:FN_Machinist-IL:1> fnmachinist
 (ruby shadows \(fortnite\):1.3), fortnite, <lora:Ruby_Shadows_Fortnite:0.8> RubyShadows, black hair, long hair
 (marigold \(fortnite\):1.3), fortnite, <lora:Fortnite MarigoldilluLoRA:0.8> mrigld, short hair, heterochromia, scar over eye, golden arm, golden finger, colored skin
 (marigold \(fortnite\):1.3), fortnite, <lora:Fortnite MarigoldPonyLoRA:0.8> mrigld, short hair, heterochromia, scar over eye
@@ -136,6 +147,8 @@
 (aphrodite \(fortnite\):1.3), fortnite <lora:Aphrodite_Fortnite_PONY:0.8>
 (aphrodite \(fortnite\):1.3), fortnite, <lora:FN_Aphrodite-PONY:0.8> aphrodef
 (aphrodite \(fortnite\):1.3), fortnite, <lora:FN_Aphrodite-PONY:0.8> aphroimo
+(aphrodite \(fortnite\):1.3), fortnite, <lora:FN_Aphrodite-IL:1> aphrodef
+(aphrodite \(fortnite\):1.3), fortnite, <lora:FN_Aphrodite-IL:1> aphroimo
 (ice spice \(fortnite\):1.3), fortnite, <lora:Icespice2:0.8> IcespiceFN, long hair, orange hair, blunt bangs
 (serenade \(fortnite\):1.3), fortnite, <lora:SerenadeFortnite:0.8> srndfrtnt
 (aubrey \(fortnite\):1.3), fortnite <lora:Aubrey_Fortnite:0.8>
@@ -170,6 +183,7 @@
 (mizuki \(fortnite\):1.3), fortnite, <lora:Mizuki_Fortnite:0.8> Mizuki_Fortnite, long hair, ponytail, braid, hairclip, blonde hair, white hair, hair ornament, blut bangs, sidelock, makeup, lipstick, blue lips, eyeshadow, dark-skinned female, blue eyes
 (antonia \(fortnite\):1.3), fortnite, <lora:Antonia_Fortnite:0.8> Antonia_Fortnite, dark-skinned female, short hair, brown hair, multicolored hair, two-tone hair, asymmetrical hair, hair over one eye, brown eyes, jewelry, earrings, makeup
 (antonia \(fortnite\):1.3), fortnite, <lora:32dim-FN_Antonia-PONY:0.8> fnantonia
+(antonia \(fortnite\):1.3), fortnite, <lora:FN_Antonia-IL:1> fnantonia
 (slurpentine \(fortnite\):1.3), fortnite, <lora:slurpetine:0.8> lurpetineIL, long hair, black hair, red eyes
 (oblivion \(fortnite\):1.3), fortnite, <lora:oblivon:0.8> oblivonSDXL, science fiction
 (opal \(fortnite\):1.3), fortnite, <lora:FN_Opal-PONY:0.8> fnopal

@@ -8,10 +8,12 @@
 (krystal:1.3), fox anthro, blue eyes, multicolored fur, two tone fur, blue fur, white fur, <lora:Krystall_illu:1> KrystalSDXL, multicoloured fur, blue fur, white fur, tattoo, side locks, fluffy fox ears, makeup
 (krystal:1.3), fox anthro, blue eyes, multicolored fur, two tone fur, blue fur, white fur, <lora:Krystal-Star Fox-PonyXL:1> Krystal_(Star Fox), Light Blue-White Fur, Two-Tone Fur, Leg Markings, Long Tail, Dark Blue Hair, Turquoise Blue Eyes, Silver Tail Rings
 (katt monroe:1.3), fox anthro, <lora:Katt_Monroe:1> Katt Monroe, Pink fur, Blue eyes
+(katt monroe:1.3), fox anthro, <lora:Katt_Monroe_illu:1> Katt Monroe, Blue eyes, Pink fur
 (miyu lynx:1.3), lynx anthro, Brown Fur, Blue Eyes, Dark Brown Ears, Anthro Lynx, Feline, Spotted Fur, <lora:Miyu_Lynx_-_Star_Fox_2:1> Miyu-PonyXL
 (miyu lynx:1.3), lynx anthro, Brown Fur, Blue Eyes, Dark Brown Ears, Anthro Lynx, Feline, Spotted Fur, <lora:Miyu Lynx-Star Fox-Ilustrious:1> miyu_\(star_fox\)
 (miyu lynx:1.3), lynx anthro, Brown Fur, Blue Eyes, Dark Brown Ears, Anthro Lynx, Feline, Spotted Fur, <lora:Miyu Lynx-Star Fox-PonyXL:1> Miyu Lynx_\(Star Fox\), Brown Fur, Light Blue Eyes, Tall pointed black ears, Black dipped Tail, Feline Anthro furry
 (fox mccloud:1.3), fox anthro, (genderswap:1.5), <lora:Fox_McCloud_-_Starfox:1> Fox McCloud, Fox
 (fox mccloud:1.3), fox anthro, (genderswap:1.5), <lora:Fox McCloud-PDXL:1> Fox McCloud_\(Star Fox\), Green Eyes, Orange-Brown Fur, White-highlighted Buzz Cut Hair, Thick Eyebrows, Anthro Fox Furry, White tipped Tail
 (wolf o'donnell:1.3), wolf anthro, (genderswap:1.5), <lora:Wolf_ODonnell:1> Wolf O'Donnell, Red Eye, Right Eyepatch
+(wolf o'donnell:1.3), wolf anthro, (genderswap:1.5), <lora:Wolf_ODonnell_-_Starfox:1> Wolf O'Donnell, Red Eye, Right Eyepatch
 (fay spaniel:1.3), dog anthro, <lora:Fay Spaniel-Star Fox-PonyXL:1> Fay Spaniel_\(Star Fox\), Light Blue Eyes, White Fur, Red Ribbon on Head, Furry Poodle Canine Anthro, Long Ears

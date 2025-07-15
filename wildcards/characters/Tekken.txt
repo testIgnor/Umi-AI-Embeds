@@ -13,6 +13,11 @@
 (lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:liliv1:1> lilit8alt
 (lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:Lili_-_Tekken:1> Lili
 (lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs <lora:lili_tekken8:1>
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:LiliT8-07:1> LiliT8
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:LiliT8-07:1> T8dress
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:LiliT8-07:1> T8minidress
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:LiliT8-07:1> T7dress
+(lili \(tekken\):1.3), tekken, blonde hair, blue eyes, long hair, blunt bangs, <lora:LiliT8-07:1> Asukaoutfit
 (ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:ILTKXiaoyu:1> TKXiaoyu
 (ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:TKXiaoyu:1> TKXiaoyu
 (ling xiaoyu:1.3), tekken, long hair, brown eyes, brown hair, black hair, twintails, <lora:Ling_Xiaoyu_TEKKEN_PONY_XL_by_UOC:1> ling xiaoyu, ling xiaoyu \(tekken\)
@@ -44,6 +49,7 @@
 (kunimitsu \(tekken\):1.3), tekken, blue eyes, red hair, long hair, long ponytail, <lora:Kunimitsu_-_Tekken_7:1> KunimitsuTK
 (kunimitsu \(tekken\):1.3), tekken, blue eyes, red hair, long hair, long ponytail, <lora:Kunimitsu_Tekken_PONY_XL_by_UOC:1> kunimitsu, kunimitsu \(tekken\)
 (kunimitsu \(tekken\):1.3), tekken, blue eyes, red hair, long hair, long ponytail, <lora:KunimitsuTT2:1> Kunimitsu
+(kunimitsu \(tekken\):1.3), tekken, blue eyes, red hair, long hair, long ponytail <lora:KunimitsuT2Xl:1> kunmtsuxl
 (angel \(tekken\):1.3), tekken, blonde hair, blue eyes, braided bun, hair bun, angel wings, white wings, circlet, jewelry <lora:Angel_Tekken:1>
 (lidia sobieska:1.3), tekken, blonde hair, blue eyes, ponytail, <lora:edgLidiaTekkenPony:1> edgLidia
 (mishima kazumi:1.3), tekken, brown hair, black hair, long hair, red eyes, blunt bangs, red eyeshadow, sidelocks, hair ornament, hair bun, <lora:TekkenKazumi:1> TKNKZMI

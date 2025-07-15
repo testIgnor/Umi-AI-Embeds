@@ -35,6 +35,7 @@
 <[model][illu]>source_anime, (guardian \(tew\):1.3), <lora:GuardianXL:1> gdianxl
 <[model][illu]>source_anime, (kuchisake:1.3), <lora:KuchisakeREDxl:1> Kuchisakexl
 <[model][illu]>source_anime, (nureonna:1.3), <lora:NureOnna:1> NureOnna, lamia
+<[model][illu]>source_anime, (nureonna:1.3), <lora:NureOnnaxl:1> nureonnaxl, lamia
 <[model][illu]>source_anime, (sophia sakamoto:1.3), <lora:SophiaSakamotoxl:1> sakamotoxl
 <[model][illu]>source_anime, (skin witch:1.3), <lora:SkinWitchxl:1> sknwtchxl
 <[model][illu]>source_anime, (sphinx \(dragon's dogma\):1.3), <lora:Sphinx:1> Sphinx

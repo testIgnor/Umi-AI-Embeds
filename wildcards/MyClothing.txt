@@ -16,6 +16,7 @@ ruanyi0588, swimsuit, nude, bodypaint, <[ezcovered][get eff_gen _before=[ _after
 4ng3ll1ng, black lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>, <lora:4ng3ll1ngXLP:0.6>
 bodypaint clothes, bodypaint, <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint clothes_pony_V1.0:1>
 center open swimsuit, <lora:open swimwear_illustrious_V1.0:1> open swimwear, center opening, mesh, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:open swimwear_noobai_V1.0:1> open swimwear, center opening, mesh, <[ezcovered][get eff_gen _before=[ _after=]]>
 open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:chainmailbikiniILL:1> chainmail bikini, pelvic curtain
 <lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -35,6 +36,9 @@ breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 business suit bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:venus bikini_noobai_V1.0:1> venus bikini, jewelry on nipples, jewelry on pussy, chain, crotch chain, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:venus bikini_noobai_V1.0:1> venus bikini, jewelry on nipples, jewelry on pussy, chain, crotch chain, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:venus bikini_noobai_V1.0:1> venus bikini, jewelry on nipples, jewelry on pussy, chain, crotch chain, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 <lora:venus-bikini-illustriousxl-lora-nochekaiser:1> <lora:venus-bikini-illustriousxl-lora-nochekaiser:1>, venus bikini, fortune bikini, naked jewelry, navel, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:venus-bikini-illustriousxl-lora-nochekaiser:1> <lora:venus-bikini-illustriousxl-lora-nochekaiser:1>, venus bikini, fortune bikini, naked jewelry, navel, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 <lora:venus-bikini-illustriousxl-lora-nochekaiser:1> <lora:venus-bikini-illustriousxl-lora-nochekaiser:1>, venus bikini, fortune bikini, naked jewelry, navel, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
@@ -67,6 +71,8 @@ bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow g
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]>, o-ring
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[eznude][get eff_gen _before=[ _after=]]>, o-ring
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:bondage outfit_noobai_V1.0:1> bondage outfit, elbow gloves, thighhighs, latex
+<lora:bondage outfit_noobai_V1.0:1> bondage outfit, elbow gloves, thighhighs, latex, skirt
 <lora:Slutty_dress_-_bodycon:1> 5l0tty_dr355_-_b0d1c0n, skindentation, short dress, collarbone, cleavage, bodycon, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:See-through_microskirt:1> S33-thr00gh_m1cr0sk1rt, see-through miniskirt, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 <lora:overwatch-dva-cosplay-ponyxl-lora-nochekaiser:1>, overwatch d.va cosplay, d.va (\overwatch\) (\cosplay\), bodysuit, cosplay, covered navel, skin tight, vertical-striped bodysuit, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -118,6 +124,7 @@ unconventional maid, yuino maid dress, <[ezcovered][get eff_gen _before=[ _after
 <lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, glowing, exhibitionism, neon_lights, bodypaint, bodypaint, glitter, crotchless_panties, cupless_bra, lingerie, <[eznude][get eff_gen _before=[ _after=]]>, [call wildcards/choose_neon]
 bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]> <lora:bodypaint_ero:1>
 glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]> <lora:Glowing_handprint:1>
+glowing, bodypaint, handprints on body, <[eznude][get eff_gen _before=[ _after=]]>, <lora:Glowing_handprints_Concept_for_Illustrious:1> r4v3
 revealing clothes, see-through, (loose t-shirt, crop top, short shorts, mesh tights, mesh sleeves, slutwear:1.2), <[ezcovered][get eff_gen _before=[ _after=]]>, navel
 revealing clothes, see-through, (loose t-shirt, crop top, short shorts, mesh tights, mesh sleeves, slutwear:1.2), <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>, navel
 blackedwear, blackedtext, blackedstrip, blacked, queen of spaces symbol, tattoos, <lora:Lunas-Blackedwear-Concept-SDXL-A1:1>
@@ -449,6 +456,8 @@ olympic gymnastics outfit, sheer clothes, <[ezcovered][get eff_gen _before=[ _af
 <lora:0539 Fubuki fan costume_v1_pony:1> ruanyi0539, fingerless gloves, fur coat, high heel boots, pearl necklace, slingshot swimsuit
 <lora:sport bra_illustrious_V1.0:1> sports bra, sports panties
 <lora:sport bra_illustrious_V1.0:1> sports bra, sports panties, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:sports bra_noobai_V1.0:1> sports bra, sports panties
+<lora:sports bra_noobai_V1.0:1> sports bra, sports panties <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:jewelry bikini_illustrious_V1.0:1> jewelry bikini, jewelry on nipples, jewelry on pussy
 <lora:Loincloth_Aside_XL:1> loincloth aside, <[ezexposure][lower][get eff_gen _before=[ _after=]]>, loincloth lift
 <lora:toybox-xl-ill-v2:1> dildo under clothes
@@ -464,6 +473,7 @@ vibrator under clothes, remote vibrator, vibrator under skirt, no underwear, no 
 <lora:vibrator-under-panties-illustriousxl-lora-nochekaiser:1>, vibrator under panties, vibrator, dildo under panties, sex toy, vibrator bulge, remote control vibrator, sex toy, vibrator cord, wet panties, object insertion, pussy juice
 <lora:vibrator-under-panties-ponyxl-lora-nochekaiser:1>, vibrator under panties, vibrator, dildo under panties, sex toy, vibrator bulge
 <lora:vibrator under clothes_illustrious_V1.0:1>  vibrator under clothes, egg vibrator
+<lora:vibrator under clothes_noobai_V1.0:1> vibrator under clothes, egg vibrator
 exhibitionism, <lora:bw_ero_ilxl:1> body writing, bodypaint \(ero\), <[eznude][get eff_gen _before=[ _after=]]>
 <lora:Nipples_chained_to_clitoris_Illustrious_concept:1> chainedcnp, nipple bar, clitoris piercing, nipple chain, linked piercing, <[eznude][get eff_gen _before=[ _after=]]>
 <[eznude][get eff_gen _before=[ _after=]]>, <lora:Tail plug 2:1> anal object insertion, cat tail

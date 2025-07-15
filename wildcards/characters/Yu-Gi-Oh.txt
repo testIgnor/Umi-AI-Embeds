@@ -65,6 +65,8 @@
 (visas starfrost:1.3), yu-gi-oh!, <lora:visas starfrost illuXL v1:1> visas starfrost
 (tearlaments kitkallos:1.3), yu-gi-oh!, <lora:visas starfrost illuXL v1:1> tearlaments kitkallos
 (diabellstar the sin adjudicator:1.3), yu-gi-oh!, <lora:Diabellstar the Sin Adjudicator illuXL v1.1:1> Diabellstar the Sin Adjudicator
+(diabellstar the sin adjudicator:1.3), yu-gi-oh!, <lora:Diabellstar the Sin Adjudicator & Diabellze the White Witch illusXL v1.2:1> Diabellstar the Sin Adjudicator
+(diabellze the white witch:1.3), yu-gi-oh!, <lora:Diabellstar the Sin Adjudicator & Diabellze the White Witch illusXL v1.2:1> diabellze the white witch
 (amazoness empress:1.3), yu-gi-oh!, <lora:Amazoness empress, golden whip & silver sword master illuXL v1.3:1> amazoness empress
 (amazoness golden whip master:1.3), yu-gi-oh!, <lora:Amazoness empress, golden whip & silver sword master illuXL v1.3:1> amazoness golden whip master
 (amazoness silver sword master:1.3), yu-gi-oh!, <lora:Amazoness empress, golden whip & silver sword master illuXL v1.3:1> amazoness silver sword master
@@ -86,6 +88,12 @@
 (lil la treat:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la illuXL v4:1> lil la treat
 (lil la:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la illuXL v4:1> lil la
 (ka skikil:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la illuXL v4:1> ka sikil
+(lil la sweet:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la and alt illusXL v5:1> lil la sweet
+(lil la treat:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la and alt illusXL v5:1> lil la treat
+(lil la:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la and alt illusXL v5:1> lil la
+(ka skikil:1.3), yu-gi-oh!,<lora:Live Twin Ki-sikil & Lil-la and alt illusXL v5:1> ka sikil
+(lil la:1.3), yu-gi-oh!, <lora:Live Twin Ki-sikil & Lil-la and alt illusXL v5:1> lil-la allt
+(ka skikil:1.3), yu-gi-oh!,<lora:Live Twin Ki-sikil & Lil-la and alt illusXL v5:1> ki-sikil alt
 (fairy tail rella:1.3), yu-gi-oh!, <lora:Fairy Tail - Rella illuXL v1.2:1> fairy tail - rella
 (fairy tail rochka:1.3), yu-gi-oh!, <lora:Fairy Tail - rochka illuXL v1:1> fairy tail - rochka
 (spellbreaker of the ice barrier:1.3), yu-gi-oh!, <lora:Spellbreaker Of The Ice Barrier illuXL v1.1:1> Spellbreaker Of The Ice Barrier
@@ -97,6 +105,8 @@
 (centur ion primera:1.3), yu-gi-oh!, <lora:Centur-ion Primera & Trudea illuXL v1.3:1> centur-ion primera
 (centur ion primera:1.3), yu-gi-oh!, <lora:Centur-ion Primera & Trudea illuXL v1.3:1> centur-ion emeth vi
 (k9-17 ripper:1.3), yu-gi-oh!, <lora:K9-17 Ripper illuXL v1.2:1> K9-17 Ripper
+(k9-17 ripper:1.3), yu-gi-oh!, <lora:K9-17 Ripper & Izuna illusXL v1.33:1> K9-17 Ripper
+(k9-17 izuna:1.3), yu-gi-oh!, <lora:K9-17 Ripper & Izuna illusXL v1.33:1> K9-17 Izuna
 (gagaga clerk:1.3), yu-gi-oh!, <lora:Gagaga clerk illuXL v1:1> gagaga clerk
 (exceed the pendulum:1.3), yu-gi-oh!, <lora:Exceed the Pendulum illuXL v1:1> Exceed the Pendulum
 (malice pawn march hare:1.3), yu-gi-oh!, <lora:MALICE Pawn March Hare illuXL v2:1> malice pawn march hare
@@ -175,6 +185,7 @@
 (neo galaxy eyes tachyon dragon:1.3), yu-gi-oh!, <lora:Galaxy-Eyes Tachyon Dragon illuXL v1:1> neo galaxy-eyes tachyon dragon
 (mizael:1.3), yu-gi-oh!, <lora:Galaxy-Eyes Tachyon Dragon illuXL v1:1> mizael
 (swordsoul of mo ye:1.3), yu-gi-oh!, <lora:Swordsoul of Mo Ye illuXL v1.2:1> Swordsoul of Mo Ye
+(swordsoul of mo ye:1.3), yu-gi-oh!,  <lora:Icejade ran aegirine & Swordsoul of mo ye illusXL v1.1:1> Swordsoul of Mo Ye
 (amazoness queen:1.3), yu-gi-oh!, <lora:Amazoness Queen & Trainee illuXL v1:1> Amazoness Queen, Amazoness Trainee
 (amazoness trainee:1.3), yu-gi-oh!, <lora:Amazoness Queen & Trainee illuXL v1:1> Amazoness Trainee
 (maiden of the aqua:1.3), yu-gi-oh!, <lora:Maiden of the Aqua illuXL v1.2:1> maiden of the aqua
@@ -184,3 +195,5 @@
 (kurikara divincarnate:1.3), yu-gi-oh!, <lora:Kurikara Divincarnate illuXL v1:1> kurikara divincarnate
 (galaxy eyes photon dragon:1.3), yu-gi-oh!, <lora:Galaxy-Eyes Prime Photon Dragon illuXL v2.3:1> galaxy-eyes photon dragon
 (icejade acti:1.3), yu-gi-oh!, <lora:Icejade Acti illuXL v1.2:1> Icejade Acti
+(icejade ran aegirine:1.3), yu-gi-oh!, <lora:Icejade ran aegirine & Swordsoul of mo ye illusXL v1.1:1> icejade ran aegirine
+(icejade gymir aegirine:1.3), yu-gi-oh!, <lora:Icejade ran aegirine & Swordsoul of mo ye illusXL v1.1:1> icejade gymir aegirine

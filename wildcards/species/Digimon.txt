@@ -5,6 +5,7 @@
 (renamon:1.3), <lora:Renamon iLLus:1> renamon, digimon \(creature\), furry, solo, fox ears, blue eyes, black sclera, body fur, yellow fur, white fur, tail, fox tail
 (renamon:1.3), <lora:Renamon-Pokemon-Ilustrious:1> Renamon_\(Digimon\), digimon \(creature\), furry, solo, fox ears, blue eyes, black sclera, body fur, yellow fur, white fur, tail, fox tail
 (renamon:1.3), <lora:digimon_pony_v1_mx3:1> renamon, digimon \(creature\), furry, solo, fox ears, blue eyes, black sclera, body fur, yellow fur, white fur, tail, fox tail
+(renamon:1.3), <lora:Renamon_Digimon_Tamers_-_Pony:1> Renamon, digimon \(creature\), furry, solo, fox ears, blue eyes, black sclera, body fur, yellow fur, white fur, purple elbow gloves, yin yang, fox tail, black claws
 (gatomon:1.3)
 (gatomon:1.3), <lora:Gatomon-Digimon-Ilustrious:1> Gatomon_\(Digimon\), Furry Cat, Anthro Furry, White Fur, Light Blue Eyes
 (gatomon:1.3), <lora:Gatomon:1> gatomon, white fur, big yellow gloves, tail ring
@@ -41,7 +42,9 @@
 (warudamon:1.3), <lora:Warudamon_-_Digimon_v1:1> w4rud4m0n, yellow eyes,  purple hair, pointy ears, colored skin, red claws, fangs, short hair, facial tattoo, symbol-shaped pupils
 (cutemon:1.3), <lora:Cutemon-Digimon-Ilustrious:1> Cutemon_\(Digimon\), Pink skin, Brown Eyes, Long pointy ears, animal ears, rabbit ears, Anthro, bald, no hair
 (mervamon:1.3), <lora:Mervamon_-_Digimon:1> Mervamon, blue hair, twin braids, very long hair
+(mervamon:1.3), <lora:Mervamon_-_Digimon-000009(1):1> Mervamon, blue hair, twin braids, very long hair
 (medusamon:1.3), <lora:MedusamonPony:1> medusamon, gold horns, mask, single eye, low wings, snake hair
+(medusamon:1.3), <lora:MedusamonIllus2:1> medusamon, gold horns, mask, single eye, low wings, snake hair
 (sanzomon:1.3), <lora:SanzomonIL_Digimon:1> sanzomon, blonde hair, long hair
 (minervamon:1.3), <lora:Minervamon_ILus:1> Minervamon, blue hair, braid
 (tinkermon:1.3), <lora:TinkermonIL:1> Tinkermon, long hair, blue eyes, blonde hair, jewelry, ponytail, hair bow, wings
@@ -53,6 +56,7 @@
 (queenbeemon:1.3), <lora:QueenBeemonIllustrious:1> queenbeenmon, antenna, mask, green eyes, purple hair, braided ponytail, hair ornament, energy wings
 (biyomon:1.3), <lora:Biyomon-Digimon-Ilustrious:1> Biyomon_\(Digimon\), Pink Fur, Red Beak, Blue Eyes
 (biyomon:1.3), <lora:Biyomon_ponyV6XL:1> biyomon, Digimon, Pink Fur, Red Beak, Blue Eyes
+(biyomon:1.3), <lora:Biyomon_Digimon_ILXL:1> biyomon, Digimon, Pink Fur, Red Beak, Blue Eyes
 (ranamon:1.3), <lora:Ranamon_Ilus:1> Ranamon, red eyes, blue hair, ahoge, pointy ears, colored skin, green skin, head fins
 (ranamon:1.3), <lora:digimon_ranamon:1> ranamon, red eyes, blue hair, ahoge, pointy ears, colored skin, green skin, head fins
 (ranamon:1.3), <lora:ranamon_1 :1> digimon_\(creature\), ranamon \(digimon\), red eyes, blue hair, ahoge, pointy ears, colored skin, green skin, head fins
@@ -62,4 +66,5 @@
 (chaperomon:1.3), <lora:ChaperomonIllustrious:1> chaperomon, blonde hair
 (ordinemon:1.3), <lora:Ordinemon_Digimon_Adventure_Tri_IL:1> Ordinemon, monster girl, fallen angel, eyeless, noseless, earless, tentacle hair, white body, black wings, feathered wings, angel wings, sharp teeth, big wings
 (palmon:1.3), <lora:palmon:1> palmon, digimon
+(palmon:1.3), <lora:Palmon_Digimon_ILXL:1> palmon, digimon
 (rosemon:1.3), <lora:digimon_pony_v1_mx3:1> rosemon

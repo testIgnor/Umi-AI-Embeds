@@ -9,3 +9,4 @@
 (wisp \(warframe\):1.3), warframe, <lora:Wisp_from_Warframe_-Pony:1> wisp, faceless, smug
 (yareli \(warframe\):1.3), warframe, <lora:Yareli_Warframe__PONY_XL:1> Yareli, robotic humanoid
 (yonta \(warframe\):1.3), warframe, <lora:yonta illustrious:1> yonta, golden headgear, necklace, red hair, green eyes, jewlery
+(aoi \(warframe\):1.3), warframe,  <lora:aoi illustrious:1> Aoi, hair ornament, white hair, multicolored hair, two-tone hair, tied hair, blue eyes

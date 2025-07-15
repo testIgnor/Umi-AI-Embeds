@@ -12,6 +12,7 @@
 (raven \(dc\):1.3)
 (starfire:1.3)
 (she-venom:1.3), symbiote
+(she-venom:1.3), symbiote, <lora:SheVenomFILf:1> v3ilf, colored skin, black skin, shiny skin, claws, sharp teeth
 (she-venom:1.3), symbiote, <lora:She-Venom_Illustrious:1> She-Venom
 (she-venom:1.3), symbiote, <lora:SheVenomFortnite:1> sharp teeth, teeth
 (she-venom:1.3), symbiote <lora:She-Venom_Lewd:1>
@@ -21,6 +22,7 @@
 (venom \(horse\):1.3), symbiote, horse anthro, (genderswap:1.5), <lora:VenomHorse:1> VenomHorse, anthro, anthro horse, glowing eyes, white eyes, black hair, black body, white markings, tail, muscular, claws, sharp teeth, no pupil, black mane, tail
 (venom \(horse\):1.3), symbiote, horse anthro, (genderswap:1.5), <lora:Venom_Horse_marvel:1> venom horse, anthro, anthro horse, glowing eyes, white eyes, black hair, black body, white markings, tail, muscular, claws, sharp teeth, no pupil, black mane, tail
 (venom \(horse\):1.3), symbiote, horse anthro, (genderswap:1.5), <lora:VenomHorsePXL:1> VenomHorsePXL, anthro, anthro horse, glowing eyes, white eyes, black hair, black body, white markings, tail, muscular, claws, sharp teeth, no pupil, black mane, tail
+(venom \(horse\):1.3), symbiote, horse anthro, (genderswap:1.5), <lora:H:1> H0rse V3nom, anthro, anthro horse, glowing eyes, white eyes, black hair, black body, white markings, tail, muscular, claws, sharp teeth, no pupil, black mane, tail
 (april o'neil:1.3)
 (april o'neil:1.3) <lora:April_O_Neil_Fortnite:1>
 (april o'neil:1.3), <lora:Aprilfn:1> Aprilfortnite, brown hair, brown eyes
@@ -29,10 +31,14 @@
 (squirrel girl \(marvel\):1.3), <lora:MR_SquirrelGirl-PONY:1> mrsqrgrl
 (squirrel girl \(marvel\):1.3), <lora:Marvel_Rivals_-_Squirrel_Girl:1> squirrel girl, squirrel ears, squirrel tail, short hair, red hair, freckles, green eyes
 (squirrel girl \(marvel\):1.3), <lora:SquirrelgirlMRxl:1> SqrrelgrlMRxl
+(squirrel girl \(marvel\):1.3), <lora:MR_SquirrelGirl-IL:1> mrsgsun
+(squirrel girl \(marvel\):1.3), <lora:MR_SquirrelGirl-IL:1> mrsgsun
 (bast \(marvel\):1.3)
 (venom \(marvel\):1.3), symbiote, (genderswap:1.5)
 (venom \(marvel\):1.3), symbiote, (genderswap:1.5), <lora:Venom_Fortnite:1> venom_\(marvel\)
 (venom \(marvel\):1.3), symbiote, (genderswap:1.5), <lora:Venom-illustriousXL:1> venom \(marvel\)
+(venom \(marvel\):1.3), symbiote, (genderswap:1.5), <lora:VenomICE-IllustriousXLv40:1> venom \(marvel\), black body
+(venom \(marvel\):1.3), symbiote, (genderswap:1.5), <lora:VenomICE-IllustriousXLv40:1> ice venom \(marvel\), ice black body
 (rogue \(marvel\):1.3) <lora:Rogue_Fortnite:1>
 (black widow \(marvel\):1.3), <lora:weißwidow_and_baclk:1> WidowMarvelRivals, Widowredhair, red hair, Blue eyes
 (black widow \(marvel\):1.3), <lora:weißwidow_and_baclk:1> WidowMarvelRivals, WihiteWidow, Blonde hair, Midhair, medium hair, Blue eyes
@@ -54,6 +60,7 @@
 (galacta \(marvel\):1.3), <lora:Galacta_Marvel_Rivals:1> galacta, purple headpiece, long hair, black hair
 (galacta \(marvel\):1.3), <lora:MR_Galacta-PONY:1> mrgalacta, purple headpiece, long hair, black hair
 (galacta \(marvel\):1.3), <lora:GalactaMRxl:1> glctamrxl, purple headpiece, long hair, black hair
+(galacta \(marvel\):1.3), <lora:MR_Galacta-IL:1> mrgalacta, purple headpiece, long hair, black hair
 (gamora \(marvel\):1.3)
 (hela \(marvel\):1.3), <lora:Hela_Marvel_Rivals_-_PonyXL:1> hela_rivals, default skin, green eyes, glowing eyes, helmet, spiked helmet, green lips
 (hela \(marvel\):1.3), <lora:Marvel_Rivals_-_Hela:1> Hela, helmet, glowing eyes, green eyes, green lipstick

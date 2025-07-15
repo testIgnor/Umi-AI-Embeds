@@ -27,6 +27,7 @@
 (aphrodite:1.3), smite, long hair, blue eyes, blonde hair
 (aphrodite:1.3), smite, long hair, blue eyes, blonde hair, <lora:SmiteAphroditeIllu:1> SmiteAphrodite
 (aphrodite:1.3), smite, long hair, blue eyes, blonde hair, <lora:SmiteAphrodite:1> SmiteAphrodite
+(aphrodite:1.3), smite, long hair, blue eyes, blonde hair, <lora:ILSmiteAphrodite:1> SmiteAphrodite, flower crown
 (oblivion queen discordia:1.3), smite, short hair, multicolored hair, glowing eyes, hair, blue eyes, purple hair
 (pele \(smite\):1.3), smite, long hair, brown hair, orange hair, multicolored hair, hair flower, dark skin, dark-skinned female, orange eyes, <lora:Pele_-_Smite_PDXL:1> PeleSmi
 (vampiress amaterasu:1.3), smite, red eyes, black hair, long hair, pale skin

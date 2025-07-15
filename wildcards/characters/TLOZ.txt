@@ -17,6 +17,7 @@
 (cremia:1.3), brown hair, long hair, blue eyes, red hair, pointy ears,
 (paya \(zelda\):1.3), brown eyes, white hair, grey hair, long hair, pointy ears
 (nabooru:1.3), gerudo, dark-skinned female, tanned skin, yellow eyes, red hair, long hair, ponytail, dark skin, hair pulled back, forehead jewel, pointy ears, zzNabooru <lora:NabooruZelda_PDXL:1>
+(nabooru:1.3), gerudo, dark-skinned female, tanned skin, yellow eyes, red hair, long hair, ponytail, dark skin, hair pulled back, forehead jewel, pointy ears, <lora:NabooruZelda_IXL:1> zzNabooru
 (malon:1.3), brown hair, red hair, long hair, blue eyes, pointy ears,
 (twinrova:1.3), gerudo, dark-skinned female, tanned skin, red eyes, pointy ears, (glowing hair, magical hair:1.4), (multicolored hair:1.4), hair pulled back, hair tubes, sidelocks, (twintails, fire hair, ice hair, asymmetrical hair, different colored hair:1.3), white hair, big hair, very long hair, <lora:TwinrovaIL:1> Twinrova
 (great fairy \(zelda\):1.3), blue eyes, long hair, pink hair <lora:Great_Fairy_Zelda_Pony:1>
@@ -26,6 +27,8 @@
 (epona:1.3), <lora:Epona:1>, horse anthro, white mane, white tail, blue eyes, long eyelashes, brown fur
 (maggie:1.3), <lora:MaggieWW:1> maggieww, maggiepoor, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
 (maggie:1.3), <lora:MaggieWW:1> maggieww, maggierich, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
+(maggie:1.3), <lora:MaggieWWIl:1> MaggieWWIl, maggiepoor, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
+(maggie:1.3), <lora:MaggieWWIl:1> MaggieWWIl, maggierich, pointy ears, red hair, brown hair, blunt bangs, long hair, bangs, freckles, black eyes, mole under right eye
 (sue belle:1.3), <lora:Sue Belle Pony:1> Sue Belle
 (sue belle:1.3), <lora:Sue_Belle_Illus:1> Sue Belle
 (medli:1.3), <lora:Medli_windwaker:1> medli, brown hair, red eyes, beak, pointy ears, ponytail

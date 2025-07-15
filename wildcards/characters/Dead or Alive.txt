@@ -50,6 +50,7 @@
 (kasumi \(doa\):1.3), dead or alive, <lora:merged:0.8> ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
 (kasumi \(doa\):1.3), dead or alive, <lora:kasumiDOA6xl:0.8> kasumixl, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
 (kasumi \(doa\):1.3), dead or alive, <lora:KasumiIllustDOA:0.8> KSMIDOADF, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
+(kasumi \(doa\):1.3), dead or alive, <lora:KasumiNGxl:1> ksmingxl, ponytail, brown hair, brown eyes, lips, long hair, hair ribbon
 (koharu \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-koharu, black hair, side ponytail, hair ornament, hair bell, blunt bangs, jingle bell, brown eyes, black eyes, long hair
 (koharu \(doa\):1.3), dead or alive, <lora:nico_doa_pony:0.8> Koharu \(doa\), black hair, side ponytail, hair ornament, hair bell, blunt bangs, jingle bell, brown eyes, black eyes, long hair
 (kokoro \(doa\):1.3), dead or alive, <lora:doaxvvV2_IXL:0.8> doa-kokoro, black hair, long hair, blue eyes, black eyes, sidelocks, hair tubes

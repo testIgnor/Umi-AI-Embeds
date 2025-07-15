@@ -12,6 +12,7 @@
 (taweret:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
 (wadjet:1.3), egyptian mythology, <[Racethnicity][Egyptian]>
 (AnubisCitronOC:1.3), dark skin, black hair, yellow eyes <lora:Anubis_Citron_OC_P1:0.75>
+(AnubisCitronOC:1.3), <lora:AnubisCitronOC_IXL:1> AnubisCitronOC, dark skin, black hair, yellow eyes
 (hera:1.3), greek mythology, <[Racethnicity][European]>
 (aphrodite:1.3), greek mythology, <[Racethnicity][European]>
 (artemis:1.3), greek mythology, <[Racethnicity][European]>
