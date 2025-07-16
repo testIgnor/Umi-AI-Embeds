@@ -69,11 +69,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Stellar Blade
+Mechagodzilla
 [/choose]
 [/set]
 
-[chance 100]
+[chance 0]
 [set characterType]
 [choose]
 myspecies
@@ -615,6 +615,10 @@ Main function
 [/char-count]
 [/set]
 [/while]
+
+[if "no_lora > 3"]
+[set p_prompt][multiply-lora-by-percent 75][get p_prompt][/multiply-lora-by-percent][/set]
+[/if]
 
 [if "no_lora > 4"]
 [set p_prompt][half-lora][get p_prompt][/half-lora][/set]
