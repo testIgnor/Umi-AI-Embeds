@@ -1,114 +1,3 @@
-[set debugging]0[/set]
-
-
-[##]
-Chooses a franchise from a fixed list
-[/##]
-[function choose_franchise]
-[set characterType]
-[choose]
-characters
-[/choose]
-[/set]
-[set franchise]
-[choose]
-Celebs
-Pstars
-[/choose]
-[/set]
-
-[chance 66]
-[set characterType]
-[choose]
-myspecies
-[/choose]
-[/set]
-[set franchise]
-[choose]
-Royalty
-[/choose]
-[/set]
-[/chance]
-
-[set characterprompt]
-<[get characterType _before=[ _after=]][get franchise _before=[ _after=]]>
-[/set]
-
-[/function]
-
-
-[##]
-Makes the prompt
-[/##]
-[function make_prompt]
-
-[call make_single]
-
-[/function]
-
-
-[##]
-Sets gender_prompt
-[/##]
-[function set_gender]
-[set gender]female[/set]
-
-[switch gender]
-    [case "female"]
-        [set gender_short]1girl[/set]
-        [set eff_gen]female[/set]
-    [/case]
-[/switch]
-
-[/function]
-
-
-[##]
-Sets age range
-[/##]
-[function set_age_range]
-
-[set age_range]
-upper
-[/set]
-
-[chance 80]
-[set age_range]
-lower
-[/set]
-[/chance]
-
-[chance 30]
-[set age_range]
-middle
-[/set]
-[/chance]
-
-[/function]
-
-
-[##]
-Sets age_prompt
-[/##]
-[function set_age gender]
-
-[set ageprompt]
-<[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]]>
-[/set]
-
-[set is_hairless]
-[call wildcards/no_hair]
-[/set]
-
-[if "franchise in is_hairless"]
-[set ageprompt]
-<[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]][--Hairy]>
-[/set]
-[/if]
-
-[/function]
-
-
 [##]
 Filter and choose clothing from myclothing
 [/##]
@@ -135,28 +24,47 @@ Outfit
 [/function]
 
 
-[##]
-Makes a 1character prompt
-[/##]
-[function make_single]
+[function main_function]
 
-[call choose_franchise]
-
-[chance 10]
 [set characterprompt]
-[choose]
-<[model][illu]>source_anime, (virgin mary:1.3), brown hair, wavy hair, long hair, brown eyes, the virgin mary, our lady mary, Holy Mother Mary, Mary of Nazareth, Blessed Virgin Mary, Our lady Mary, Virgin Mary, goddess, holy, divinity, virgin_mary**(yellow skin, orange skin, red skin:1.5)**
-[/choose]
+[call wildcards/characters/Celebsf]
+[/set]
+
+
+[chance 50]
+[set characterprompt]
+[strip-lora][remove-strings asian_ european_ source_anime,][choose _case=0][Umi]<[myspecies][Royalty]>[/Umi][/choose][/remove-strings][/strip-lora]
 [/set]
 [/chance]
 
-[call set_age gender="{get gender}"]
+[set gender]female[/set]
+[set gender_short]1girl[/set]
+[set eff_gen]female[/set]
 
-[call set_gender]
-[call set_age_range]
-[call set_age gender="{get gender}"]
 
-[set character_preset](realistic, photorealistic, photograph:1.3), NSFW, (solo:1.5), [get characterprompt], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance]**(person in background, people in background:2.0)**[/set]
+[set age_range]
+lower
+[/set]
+
+[chance 40]
+[set age_range]
+middle
+[/set]
+[/chance]
+
+
+[set ageprompt]
+[remove-strings loli, Loli,][choose _case=0][Umi]<[ezage][get gender _before=[ _after=]][get age_range _before=[ _after=]]>[/Umi][/choose][/remove-strings]
+[/set]
+
+
+[set no-umi]
+(realistic, photorealistic, photograph:1.3), NSFW, (solo:1.5), [get characterprompt]
+[/set]
+
+[set to-umi]
+[get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance]
+[/set]
 
 [set prompt_suffix]
     [chance 33]
@@ -172,31 +80,17 @@ Makes a 1character prompt
     [/else]
 [/set]
 
-[set umistring][get character_preset], [get prompt_suffix][/set]
 
-[set retrieved_string][Umi _has_options _verbose="{get debugging}" _debug="{get debugging}"][get umistring][/Umi][/set]
-
-[set p_prompt][remove-strings asian_ european_ source_anime,][choose _case=1][get retrieved_string][/choose][/remove-strings][/set]
-
-[/function]
-
-
-[##]
-Main function
-[/##]
-[function main_function]
-
-[call make_prompt]
-
-[set global_lora]
-[choose]
-<lora:NSFW_master:0.8>
-<lora:nsfw_flux_lora_v1:0.8> AiArtV
-<lora:nwsj_flux:0.8>
-[/choose]
+[set umistring]
+[get to-umi], [get prompt_suffix]
 [/set]
 
-[strip-lora][get p_prompt][/strip-lora][chance 0], [get global_lora][/chance]
+[set retrieved_string]
+[strip-lora][choose _case=0][Umi][get umistring][/Umi][/choose][/strip-lora]
+[/set]
+
+
+[get no-umi], [get retrieved_string]
 
 [/function]
 

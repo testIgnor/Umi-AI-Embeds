@@ -1,0 +1,28 @@
+[choose]
+(anya taylor joy:1.3) <lora:anya_taylor_joy:1>
+(ariana grande:1.3) <lora:ariana_grande:1>
+(beyonce:1.3) <lora:beyonce:1>
+(elizabeth olsen:1.3) <lora:elizabeth_olsen:1>
+(emilia clarke:1.3) <lora:emilia_clarke:1>
+(gal godot:1.3) <lora:gal_gadot:1>
+(jennifer lawrence:1.3) <lora:jennifer_lawrence:1>
+(margot robbie:1.3) <lora:margot_robbie:1>
+(megan fox:1.3) <lora:megan_fox:1>
+(rihanna:1.3) <lora:rihanna:1>
+(scarlett johansson:1.3) <lora:scarlett_johansson:1>
+(taylor swift:1.3), <lora:taylor_swift:1> blonde hair, long hair, lips
+(zendaya coleman:1.3) <lora:zendaya:1>
+(allison:1.3), <lora:AllisonMixer_rank16_bf16:1> AllisonMixer
+(brooklyn:1.3), <lora:BrooklynMixer_rank16_bf16:1> BrooklynMixer
+(cerys:1.3), <lora:QuennaTits_rank16_bf16:1> CerysMixer
+(dahlia:1.3), <lora:AQueensTits_rank16_bf16:1> DahliaMixer
+(emma:1.3), <lora:EmmaMixer_rank16_bf16:1> EmmaMixer
+(farrah:1.3), <lora:FarrahMixer_rank16_bf16:1> FarrahMixer
+(gemma:1.3), <lora:GemmaMixer_rank16_bf16:1> GemmaMixer
+(hayden:1.3), <lora:HaydenMixer_rank16_bf16:1> HaydenMixer
+(iris:1.3), <lora:IrisMixer_rank16_bf16:1> IrisMixer
+(jordyn:1.3), <lora:JordynMixer_rank16_bf16:1> JordynMixer
+(kelly:1.3), <lora:KellyMixer_rank16_bf16:1> KellyMixer
+(lei:1.3), <lora:LeiMixer_rank16_bf16:1> LeiMixer
+(nawusijia:1.3) <lora:nwsj_flux:1>
+[/choose]
