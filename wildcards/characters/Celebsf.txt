@@ -1,4 +1,3 @@
-[choose]
 (anya taylor joy:1.3) <lora:anya_taylor_joy:1>
 (ariana grande:1.3) <lora:ariana_grande:1>
 (beyonce:1.3) <lora:beyonce:1>
@@ -25,4 +24,3 @@
 (kelly:1.3), <lora:KellyMixer_rank16_bf16:1> KellyMixer
 (lei:1.3), <lora:LeiMixer_rank16_bf16:1> LeiMixer
 (nawusijia:1.3) <lora:nwsj_flux:1>
-[/choose]

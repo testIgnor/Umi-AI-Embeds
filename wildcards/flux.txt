@@ -27,7 +27,9 @@ Outfit
 [function main_function]
 
 [set characterprompt]
+[choose]
 [call wildcards/characters/Celebsf]
+[/choose]
 [/set]
 
 
