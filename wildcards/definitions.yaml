@@ -16,6 +16,12 @@
   Tags:
     - Model
     - NAI
+'{10%<[Model][Pony]>||23%<[Emotions][neutral]>||<[Model][Illu]>}':
+  Description:
+    - Any Model with Bias
+  Tags:
+    - Model
+    - Any
 
 '{1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}':
   Description:

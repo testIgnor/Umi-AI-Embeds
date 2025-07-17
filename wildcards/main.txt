@@ -289,6 +289,10 @@ Sets sd model based on retrieved_string
 [/##]
 [function set_model]
 
+[set cur_model_type]
+[model-to-type]
+[/set]
+
 [set model]
 [filter_tags model="{get opt}"]
 [choose][call wildcards/models][/choose]
@@ -305,7 +309,12 @@ Sets sd model based on retrieved_string
 [/set]
 
 [if "model not in sd_model"]
-    [set sd_model][get model][/set]
+    [if "model_type in opt"]
+        [chance 10][set sd_model][get model][/set][/chance]
+    [/if]
+    [else]
+        [set sd_model][get model][/set]
+    [/else]
 [/if]
 
 [/function]
