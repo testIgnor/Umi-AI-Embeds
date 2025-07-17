@@ -4,19 +4,22 @@
   Tags:
     - Model
     - Illu
+
 '@@pony@@':
   Description:
     - Pony Model
   Tags:
     - Model
     - Pony
+
 '@@NAI@@':
   Description:
     - Noob Model
   Tags:
     - Model
     - NAI
-'{10%<[Model][Pony]>||23%<[Emotions][neutral]>||<[Model][Illu]>}':
+
+'{10%<[Model][Pony]>||23%<[Model][NAI]>||<[Model][Illu]>}':
   Description:
     - Any Model with Bias
   Tags:
