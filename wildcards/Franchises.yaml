@@ -36,7 +36,7 @@
     - Pokemon
     - MySpecies
     - Feral
-'<[model][illu]>source_furry, _=Species/Palworld=_, palworld, anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
+'<[model][Any]>source_furry, _=Species/Palworld=_, palworld, anthro**(pokeball:2.0), (hair, hat, headwear:2.0)**':
   Description:
     - Palworld Anthro
   Tags:
@@ -107,7 +107,7 @@
   Tags:
     - MySpecies
     - Aeromorphs
-'<[model][illu]>source_anime, _=Species/Monster Girl Encyclopedia=_ <lora:MGE_V6.0_final:1>':
+'<[model][Any]>source_anime, _=Species/Monster Girl Encyclopedia=_ <lora:MGE_V6.0_final:1>':
   Description:
     - Monster Girl Encyclopedia
   Tags:
@@ -137,7 +137,7 @@
   Tags:
     - Myspecies
     - e621
-'<[model][illu]>source_furry, $#_=Species/Primates=_;theanimal#$, $#theanimal#$ anthro, primate**(human:1.3), (yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_furry, $#_=Species/Primates=_;theanimal#$, $#theanimal#$ anthro, primate**(human:1.3), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Primates Species
   Tags:
@@ -155,7 +155,7 @@
   Tags:
     - Myspecies
     - Protogen
-'<[model][illu]>source_anime, _=Species/Evangelion=_**(hair, hat, headwear:2.0)**':
+'<[model][Any]>source_anime, _=Species/Evangelion=_**(hair, hat, headwear:2.0)**':
   Description:
     - Evangelion Characters
   Tags:
@@ -167,43 +167,43 @@
   Tags:
     - Characters
     - Franchise
-'<[model][illu]>source_anime, _=Characters/Ace Attorney=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Ace Attorney=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Ace Attorney Characters
   Tags:
     - Characters
     - Ace Attorney
-'<[model][illu]>source_anime, _=Characters/Arknights=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Arknights=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Arknights Characters
   Tags:
     - Characters
     - Arknights
-'<[model][illu]>source_anime, _=Characters/ATLA=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/ATLA=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Avatar Characters
   Tags:
     - Characters
     - ATLA
-'<[model][illu]>source_anime, _=Characters/Azur Lane=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Azur Lane=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Azur Lane Characters
   Tags:
     - Characters
     - Azur Lane
-'<[model][illu]>source_anime, _=Characters/Blue Archive=_ <lora:blue_archive_all_v3:0.5>**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Blue Archive=_ <lora:blue_archive_all_v3:0.5>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Blue Archive Characters
   Tags:
     - Characters
     - Blue Archive
-'<[model][illu]>source_anime, _=Characters/Bang Dream=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Bang Dream=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Bang Dream Characters
   Tags:
     - Characters
     - Bang Dream
-'<[model][illu]>source_anime, _=Characters/Castlevania=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Castlevania=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Castlevania Characters
   Tags:
@@ -216,7 +216,7 @@
     - Characters
     - Celebrities
     - Celebrity
-'<[model][illu]>source_anime, _=Characters/Celeste=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Celeste=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Celeste Characters
   Tags:
@@ -228,7 +228,7 @@
   Tags:
     - Characters
     - Comics
-'<[model][illu]>source_anime, _=Characters/Darkstalkers=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Darkstalkers=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Darkstalkers Characters
   Tags:
@@ -252,7 +252,7 @@
   Tags:
     - Characters
     - Digimon
-'<[model][illu]>source_anime, _=Characters/Disgaea=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Disgaea=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Disgaea Characters
   Tags:
@@ -264,25 +264,25 @@
   Tags:
     - Characters
     - Disney
-'<[model][illu]>source_anime, _=Characters/Dragon Quest=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Dragon Quest=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Dragon Quest Characters
   Tags:
     - Characters
     - Dragon Quest
-'<[model][illu]>source_anime, _=Characters/Dragonball=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Dragonball=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Dragonball Characters
   Tags:
     - Characters
     - Dragonball
-'<[model][illu]>source_anime, _=Characters/Evangelion=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Evangelion=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Evangelion Characters
   Tags:
     - Characters
     - Evangelion
-'<[model][illu]>source_anime, _=Characters/Fate=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Fate=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Fate Characters
   Tags:
@@ -310,49 +310,49 @@
   Tags:
     - Characters
     - Final Fantasy
-'<[model][illu]>source_anime, _=Characters/Fire Emblem=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Fire Emblem=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Fire Emblem Characters
   Tags:
     - Characters
     - Fire Emblem
-'<[model][illu]>source_anime, _=Characters/Genshin=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Genshin=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Genshin Characters
   Tags:
     - Characters
     - Genshin
-'<[model][illu]>source_anime, _=Characters/Girls Frontline=_**(holding, gun, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Girls Frontline=_**(holding, gun, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Girls Frontline Characters
   Tags:
     - Characters
     - Girls Frontline
-'<[model][illu]>source_anime, _=Characters/Girls und Panzer=_**(holding, gun, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Girls und Panzer=_**(holding, gun, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Girls und Panzer Characters
   Tags:
     - Characters
     - Girls und Panzer
-'<[model][illu]>source_anime, _=Characters/Granblue=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Granblue=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Granblue Characters
   Tags:
     - Characters
     - Granblue
-'<[model][illu]>source_anime, _=Characters/Gravity Rush=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Gravity Rush=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Gravity Rush Characters
   Tags:
     - Characters
     - Gravity Rush
-'<[model][illu]>source_anime, _=Characters/Guilty Gear=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Guilty Gear=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Guilty Gear Characters
   Tags:
     - Characters
     - Guilty Gear
-'<[model][illu]>source_anime, _=Characters/Hololive=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Hololive=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Hololive Characters
   Tags:
@@ -364,37 +364,37 @@
   Tags:
     - Characters
     - Honkai
-'<[model][illu]>source_anime, _=Characters/Idol Master=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Idol Master=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - IdolMaster Characters
   Tags:
     - Characters
     - Idol Master
-'<[model][illu]>source_anime, _=Characters/Kantai Collection=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Kantai Collection=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Kantai Characters
   Tags:
     - Characters
     - Kantai Collection
-'<[model][illu]>source_anime, _=Characters/Kill la Kill=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Kill la Kill=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Kill la Kill Characters
   Tags:
     - Characters
     - Kill la Kill
-'<[model][illu]>source_anime, _=Characters/KoF=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/KoF=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - KoF Characters
   Tags:
     - Characters
     - KoF
-'<[model][illu]>source_anime, _=Characters/Last Origin=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Last Origin=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Last Origin Characters
   Tags:
     - Characters
     - Last Origin
-'<[model][illu]>source_anime, _=Characters/Kemono Friends=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Kemono Friends=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Kemono Friends Characters
   Tags:
@@ -406,25 +406,25 @@
   Tags:
     - Characters
     - LiS
-'<[model][illu]>source_anime, _=Characters/LoL=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/LoL=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - League of Legends Characters
   Tags:
     - Characters
     - LoL
-'<[model][illu]>source_anime, _=Characters/KDA=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/KDA=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - KDA Characters
   Tags:
     - Characters
     - KDA
-'<[model][illu]>source_anime, _=Characters/Love Live=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Love Live=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Love Live Characters
   Tags:
     - Characters
     - Love Live
-'<[model][illu]>source_anime, _=Characters/MahoAko=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/MahoAko=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - MahoAko Characters
   Tags:
@@ -437,7 +437,7 @@
     - Characters
     - MassEffect
     - Mass Effect
-'<[model][illu]>source_anime, _=Characters/Metal Gear=_**(holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Metal Gear=_**(holding, weapon:2.0), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Metal Gear Characters
   Tags:
@@ -449,67 +449,67 @@
   Tags:
     - Characters
     - Misc
-'<[model][illu]>source_anime, _=Characters/MonMusu=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/MonMusu=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - MonMusu Characters
   Tags:
     - Characters
     - MonMusu
-'<[model][illu]>source_anime, _=Characters/Monster Girl Encyclopedia=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Monster Girl Encyclopedia=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Monster Girl Encyclopedia Characters
   Tags:
     - Characters
     - Monster Girl Encyclopedia
-'<[model][illu]>source_anime, _=Characters/Naruto=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Naruto=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Naruto Characters
   Tags:
     - Characters
     - Naruto
-'<[model][illu]>source_anime, _=Characters/Nier=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Nier=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Nier Characters
   Tags:
     - Characters
     - Nier
-'<[model][illu]>source_anime, _=Characters/Nijisanji=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Nijisanji=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Nijisanji Characters
   Tags:
     - Characters
     - Nijisanji
-'<[model][illu]>source_anime, _=Characters/Nikke=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Nikke=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Nikke Characters
   Tags:
     - Characters
     - Nikke
-'<[model][illu]>source_anime, _=Characters/Nintendo=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Nintendo=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Nintendo Characters
   Tags:
     - Characters
     - Nintendo
-'<[model][illu]>source_anime, _=Characters/Peach=_':
+'<[model][Any]>source_anime, _=Characters/Peach=_':
   Description:
     - Peach
   Tags:
     - Characters
     - Peach
-'<[model][illu]>source_anime, _=Characters/Bowsette=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Bowsette=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Bowsette
   Tags:
     - Characters
     - Bowsette
-'<[model][illu]>source_anime, _=Characters/Daisy=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Daisy=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Daisy
   Tags:
     - Characters
     - Daisy
-'<[model][illu]>source_anime, _=Characters/Rosalina=_**(luma:2.0), (yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Rosalina=_**(luma:2.0), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Rosalina
   Tags:
@@ -527,37 +527,37 @@
   Tags:
     - Characters
     - D.Va
-'<[model][illu]>source_anime, _=Characters/Persona=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Persona=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Persona Characters
   Tags:
     - Characters
     - Persona
-'<[model][illu]>source_anime, _=Characters/Pokemon=_**(pokeball:2.0), (yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Pokemon=_**(pokeball:2.0), (yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Pokemon Characters
   Tags:
     - Characters
     - Pokemon
-'<[model][illu]>source_anime, _=Characters/Precure=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Precure=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Precure Characters
   Tags:
     - Characters
     - Precure
-'<[model][illu]>source_anime, _=Characters/Project Sekai=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Project Sekai=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Project Sekai Characters
   Tags:
     - Characters
     - Project Sekai
-'<[model][illu]>source_anime, _=Characters/Queens Blade=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Queens Blade=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Queens Blade Characters
   Tags:
     - Characters
     - Queens Blade
-'<[model][illu]>source_anime, _=Characters/Princess Connect=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Princess Connect=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Princess Connect Characters
   Tags:
@@ -569,7 +569,7 @@
   Tags:
     - Characters
     - Resident Evil
-'<[model][illu]>source_anime, _=Characters/Reverse 1999=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Reverse 1999=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Reverse 1999 Characters
   Tags:
@@ -581,19 +581,19 @@
   Tags:
     - Characters
     - RWBY
-'<[model][illu]>source_anime, _=Characters/Sailor Moon=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Sailor Moon=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Sailor Moon Characters
   Tags:
     - Characters
     - Sailor Moon
-'<[model][illu]>source_anime, _=Characters/SamSho=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/SamSho=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - SamSho Characters
   Tags:
     - Characters
     - SamSho
-'<[model][illu]>source_anime, _=Characters/SAO=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/SAO=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - SAO Characters
   Tags:
@@ -605,7 +605,7 @@
   Tags:
     - Characters
     - She-ra
-'<[model][illu]>source_anime, _=Characters/Shingeki no Kyojin=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Shingeki no Kyojin=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Shingeki no Kyojin Characters
   Tags:
@@ -617,19 +617,19 @@
   Tags:
     - Characters
     - Soulcalibur
-'<[model][illu]>source_anime, _=Characters/Splatoon=_, splatoon \(series\)**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Splatoon=_, splatoon \(series\)**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Splatoon Characters
   Tags:
     - Characters
     - Splatoon
-'<[model][illu]>source_anime, _=Characters/Street Fighter=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Street Fighter=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Street Fighter Characters
   Tags:
     - Characters
     - Street Fighter
-'<[model][illu]>source_anime, _=Characters/Tales=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Tales=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Tales Characters
   Tags:
@@ -641,19 +641,19 @@
   Tags:
     - Characters
     - Tekken
-'<[model][illu]>source_anime, _=Characters/To Heart=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/To Heart=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - To Heart Characters
   Tags:
     - Characters
     - To Heart
-'<[model][illu]>source_anime, _=Characters/Touhou=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Touhou=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Touhou Characters
   Tags:
     - Characters
     - Touhou
-'<[model][illu]>source_anime, _=Characters/Umamusume=_  <lora:UmaDiffusionXL_4th_weighted:1>**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Umamusume=_  <lora:UmaDiffusionXL_4th_weighted:1>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Umamusume Characters
   Tags:
@@ -665,19 +665,19 @@
   Tags:
     - Characters
     - Upsample
-'<[model][illu]>source_anime, _=Characters/Vocaloid=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Vocaloid=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Vocaloid Characters
   Tags:
     - Characters
     - Vocaloid
-'<[model][illu]>source_anime, _=Characters/Vshojo=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Vshojo=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Vshojo Characters
   Tags:
     - Characters
     - Vshojo
-'<[model][illu]>source_anime, _=Characters/Warship Girls R=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Warship Girls R=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Warship Girls R Characters
   Tags:
@@ -689,31 +689,31 @@
   Tags:
     - Characters
     - Witcher
-'<[model][illu]>source_anime, _=Characters/World Witches=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/World Witches=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - World Witches Characters
   Tags:
     - Characters
     - World Witches
-'<[model][illu]>source_anime, _=Characters/Xenoblade=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Xenoblade=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Xenoblade Characters
   Tags:
     - Characters
     - Xenoblade
-'<[model][illu]>source_anime, _=Characters/Yu-Gi-Oh=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Yu-Gi-Oh=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Yu-Gi-Oh Characters
   Tags:
     - Characters
     - Yu-Gi-Oh
-'<[model][illu]>source_anime, _=Characters/Zelda=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Zelda=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Zelda Characters
   Tags:
     - Characters
     - Zelda
-'<[model][illu]>source_anime, _=Characters/TLOZ=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/TLOZ=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - TLOZ Characters
   Tags:
@@ -725,70 +725,70 @@
   Tags:
     - Characters
     - ZZZ
-'<[model][illu]>source_anime, _=Characters/Senran Kagura=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Senran Kagura=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Senran Kagura Characters
   Tags:
     - Characters
     - Senran Kagura
 
-'<[model][illu]>source_anime, _=Characters/Lyrical Nanoha=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Lyrical Nanoha=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Lyrical Nanoha Characters
   Tags:
     - Characters
     - Lyrical Nanoha
 
-'<[model][illu]>source_anime, _=Characters/Madoka=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Madoka=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Madoka Characters
   Tags:
     - Characters
     - Madoka
 
-'<[model][illu]>source_anime, _=Characters/Shantae=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Shantae=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Shantae Characters
   Tags:
     - Characters
     - Shantae
 
-'<[model][illu]>source_anime, _=Characters/MyHero=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/MyHero=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - MyHero Characters
   Tags:
     - Characters
     - MyHero
 
-'<[model][illu]>source_anime, _=Characters/Frieren=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Frieren=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Frieren Characters
   Tags:
     - Characters
     - Frieren
 
-'<[model][illu]>source_anime, _=Characters/DunMeshi=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/DunMeshi=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - DunMeshi Characters
   Tags:
     - Characters
     - DunMeshi
 
-'<[model][illu]>source_anime, _=Characters/Kobayashi=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Kobayashi=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Kobayashi Characters
   Tags:
     - Characters
     - Kobayashi
 
-'<[model][illu]>source_anime, _=Characters/Atelier=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Atelier=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Atelier Characters
   Tags:
     - Characters
     - Atelier
 
-'<[model][illu]>source_anime, _=Characters/Super Robot Wars=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Super Robot Wars=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Super Robot Wars Characters
   Tags:
@@ -802,14 +802,14 @@
     - Characters
     - Warframe
 
-'<[model][illu]>source_anime, _=Characters/Konosuba=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Konosuba=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Konosuba Characters
   Tags:
     - Characters
     - Konosuba
 
-'<[model][illu]>source_anime, _=Characters/Puyopuyo=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Puyopuyo=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Puyopuyo Characters
   Tags:
@@ -837,7 +837,7 @@
     - Characters
     - PStars
 
-'<[model][illu]>source_anime, _=Characters/Divinity=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Divinity=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Divinity Characters
   Tags:
@@ -864,14 +864,14 @@
     - Characters
     - Signalis
 
-'<[model][illu]>source_anime, _=Characters/Mega Man=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Mega Man=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Mega Man Characters
   Tags:
     - Characters
     - Mega Man
 
-'<[model][illu]>source_anime, _=Characters/Ah My Goddess=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Ah My Goddess=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Ah My Goddess Characters
   Tags:
@@ -930,7 +930,7 @@
     - Characters
     - Helltaker
 
-'<[model][illu]>source_anime, _=Characters/Skullgirls=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Skullgirls=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Skullgirls Characters
   Tags:
@@ -944,7 +944,7 @@
     - Characters
     - fnaf
 
-'<[model][illu]>source_anime, _=Characters/Path to Nowhere=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Path to Nowhere=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Path to Nowhere Characters
   Tags:
@@ -965,7 +965,7 @@
     - Characters
     - Cartoons
 
-'<[model][illu]>source_anime, _=Characters/Mana=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Mana=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Mana Characters
   Tags:
@@ -979,7 +979,7 @@
     - Characters
     - Pochincoff
 
-'<[model][illu]>source_anime, _=Characters/Monster Hunter=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Monster Hunter=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Monster Hunter Characters
   Tags:
@@ -1000,7 +1000,7 @@
     - Characters
     - pvz
 
-'<[model][illu]>source_anime, _=Characters/AHiT=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/AHiT=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - AHiT Characters
   Tags:
@@ -1021,7 +1021,7 @@
     - Characters
     - Cookie Run
 
-'<[model][illu]>source_furry, _=Characters/Bloodborne=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_furry, _=Characters/Bloodborne=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Bloodborne Characters
   Tags:
@@ -1035,14 +1035,14 @@
     - Characters
     - GoT
 
-'<[model][illu]>source_anime, _=Characters/Kid Icarus=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Kid Icarus=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Kid Icarus Characters
   Tags:
     - Characters
     - Kid Icarus
 
-'<[model][illu]>source_anime, _=Characters/Nobeta=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Nobeta=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Nobeta Characters
   Tags:
@@ -1063,14 +1063,14 @@
     - Characters
     - Tomb Raider
 
-'<[model][illu]>source_anime, _=Characters/Dishonored=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Dishonored=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Dishonored Characters
   Tags:
     - Characters
     - Dishonored
 
-'<[model][illu]>source_anime, _=Characters/Diablo=_':
+'<[model][Any]>source_anime, _=Characters/Diablo=_':
   Description:
     - Diablo Characters
   Tags:
@@ -1105,7 +1105,7 @@
     - Characters
     - Star Fox
 
-'<[model][illu]>source_anime, _=Characters/Princess Maker=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Princess Maker=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Princess Maker Characters
   Tags:
