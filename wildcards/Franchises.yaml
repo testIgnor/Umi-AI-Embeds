@@ -851,6 +851,13 @@
     - Characters
     - Celebs
 
+'<[model][Any]>source_anime, _=Characters/Celebsf=_**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Celebsf Characters
+  Tags:
+    - Characters
+    - Celebsf
+
 '<[model][pony]>source_furry, _=Characters/Ookami=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Ookami Characters
