@@ -10,7 +10,11 @@ class Shortcode():
 
     def run_atomic(self, pargs, kwargs, context):
 
-        model_fname = self.Unprompted.shortcode_user_vars["sd_model"]
+        try:
+            model_fname = self.Unprompted.shortcode_user_vars["sd_model"]
+        except KeyError:
+            # bodge default
+            return 'illu'
 
         # typical format is filename.safetensors [hash]
         model_name = model_fname.split('.safetensors')[0]

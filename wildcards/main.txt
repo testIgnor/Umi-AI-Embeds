@@ -11,7 +11,7 @@ upper
 [/set]
 [/chance]
 
-[chance 0]
+[chance 100]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -100,7 +100,7 @@ Makes the prompt
 
 [call preprocess]
 
-[chance 15]
+[chance 0]
 [chance 50]
 [call make_double]
 [/chance]
@@ -285,11 +285,27 @@ Sets age_prompt
 
 
 [##]
-Sets sd model based on retrieved_string
+Sets sd model
 [/##]
 [function set_model]
 
-[set cur_model_type]
+[set opt]
+illu
+[/set]
+
+[chance 25]
+[set opt]
+NAI
+[/set]
+[/chance]
+
+[chance 15]
+[set opt]
+pony
+[/set]
+[/chance]
+
+[set sd_model_type]
 [model-to-type]
 [/set]
 
@@ -309,13 +325,17 @@ Sets sd model based on retrieved_string
 [/set]
 
 [if "model not in sd_model"]
-    [if "model_type in opt"]
+    [if "sd_model_type in opt"]
         [chance 10][set sd_model][get model][/set][/chance]
     [/if]
     [else]
         [set sd_model][get model][/set]
     [/else]
 [/if]
+
+[set sd_model_type]
+[model-to-type]
+[/set]
 
 [/function]
 
@@ -324,7 +344,7 @@ Sets sd model based on retrieved_string
 Filter and choose clothing from myclothing
 [/##]
 [function get_clothing clothing_type]
-[filter_tags clothing clothing_type="{get clothing_type}" _must_match="all"]
+[filter_tags clothing_type="{get clothing_type}" _must_match="all"]
 [choose][call wildcards/myclothing][/choose]
 
 [/function]
@@ -382,11 +402,11 @@ Makes a 1character prompt
 [set character_preset]NSFW, (solo:1.5), [get characterprompt], [get artist], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance]**(person in background, people in background:2.0)**[/set]
 
 [set prompt_suffix]
-    [chance 25]
+    [chance 0]
         [call get_preset eff_gen="{get eff_gen}"]
     [/chance]
     [else]
-        [chance 80]
+        [chance 100]
             <[imageformat]>, ([call wildcards/MyLocation]:1.3), [choose][call wildcards/myclothing][/choose]
         [/chance]
         [else]
@@ -401,7 +421,6 @@ Makes a 1character prompt
 
 [set retrieved_string][Umi _has_options _verbose="{get debugging}" _debug="{get debugging}"][get umistring][/Umi][/set]
 
-[set opt][choose _case=0][get retrieved_string][/choose][/set]
 [set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
 [set n_prompt][choose _case=2][get retrieved_string][/choose][/set]
 
@@ -488,8 +507,6 @@ frotting, frottage
 [get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.5)
 [/set]
 
-[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
-
 [/function]
 
 
@@ -533,8 +550,6 @@ NSFW, (solo:1.0), [get ageprompt][get gender_suffix], <[EZEmotion]>, looking at 
 [set n_prompt]
 [get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.5)
 [/set]
-
-[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
 
 [/function]
 
@@ -597,8 +612,6 @@ NSFW, (solo:1.0), source_anime, [get characterprompt], [get ageprompt][get gende
 [get total_neg] ADDCOMM [get char_1n] ADDCOL [get char_2n]
 [/set]
 
-[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
-
 [/function]
 
 
@@ -632,6 +645,10 @@ Main function
 [if "no_lora > 4"]
 [set p_prompt][half-lora][get p_prompt][/half-lora][/set]
 [/if]
+
+[set p_prompt]
+[strip-lora-on-model-mismatch][get p_prompt][/strip-lora-on-model-mismatch]
+[/set]
 
 [get p_style], [get p_prompt]
 

@@ -22,7 +22,7 @@ open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][ge
 <lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Shining_summer:1> 5h1n1ng_50mm3r, bikini, swimsuit, o-ring, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:slingshot_mask:1> 5l1ngsh0t_m45k, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
- <lora:x micro bikini_XL_V1.0:1> x micro bikini, criss-cross halter, highleg, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:x micro bikini_XL_V1.0:1> x micro bikini, criss-cross halter, highleg, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Liberator-Azarin_illus:1> Liberator-Azarin, Liberator-Azarin, thighhighs, high heels, gloves, demon tail, wings, tail, black thighhighs, boots, black gloves, hair ribbon, elbow gloves, pubic tattoo, clothing cutout, demon wings, dark persona, low wings, clothing cutout, garter straps, puffy sleeves, highleg, black skirt, <[ezcovered][get eff_gen _before=[ _after=]]>

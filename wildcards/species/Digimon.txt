@@ -41,8 +41,9 @@
 (jetsilphymon:1.3), <lora:JetSilphymon_Digimon_-_Illustrious:1> JetSilphymon, short hair, red eyes, blue hair, wings, digimon \(creature\)
 (warudamon:1.3), <lora:Warudamon_-_Digimon_v1:1> w4rud4m0n, yellow eyes,  purple hair, pointy ears, colored skin, red claws, fangs, short hair, facial tattoo, symbol-shaped pupils
 (cutemon:1.3), <lora:Cutemon-Digimon-Ilustrious:1> Cutemon_\(Digimon\), Pink skin, Brown Eyes, Long pointy ears, animal ears, rabbit ears, Anthro, bald, no hair
-(mervamon:1.3), <lora:Mervamon_-_Digimon:1> Mervamon, blue hair, twin braids, very long hair
+(mervamon:1.3), <lora:Mervamon_-_Digimon-000009:1> Mervamon, blue hair, twin braids, very long hair
 (mervamon:1.3), <lora:Mervamon_-_Digimon-000009(1):1> Mervamon, blue hair, twin braids, very long hair
+(mervamon:1.3), <lora:Mervamon_-_Digimon-000009(1.5.2):1> Mervamon, blue hair, twin braids, very long hair
 (medusamon:1.3), <lora:MedusamonPony:1> medusamon, gold horns, mask, single eye, low wings, snake hair
 (medusamon:1.3), <lora:MedusamonIllus2:1> medusamon, gold horns, mask, single eye, low wings, snake hair
 (sanzomon:1.3), <lora:SanzomonIL_Digimon:1> sanzomon, blonde hair, long hair
@@ -51,7 +52,7 @@
 (tinkermon:1.3), <lora:Tinkermon:1> Tinkermon, long hair, blue eyes, blonde hair, jewelry, ponytail, hair bow, wings
 (tinkermon:1.3), <lora:tinkermon:1> tinkermon, long hair, blue eyes, blonde hair, jewelry, ponytail, hair bow, wings
 (mastemon:1.3), <lora:Mastemon_Digimon:1> Mastemon, humanoid, angel wings, demon wings, blonde hair, braid, ponytail
-(archnemon:1.3), <lora:Archnemon(human form):1> archnemon \(human form\), lipstick, purple lips, long hair, blue hair, makeup
+(archnemon:1.3), <lora:Archnemon（human form）:1> archnemon \(human form\), lipstick, purple lips, long hair, blue hair, makeup
 (lunamon:1.3), <lora:Lunamon-Digimon-Ilustrious:1> Lunamon_(Digimon), Light Pink Fur, Pointy Ears, Pink Eyes, Blue Ear Markings, Blue shaded Ahoge, Grey Claws
 (queenbeemon:1.3), <lora:QueenBeemonIllustrious:1> queenbeenmon, antenna, mask, green eyes, purple hair, braided ponytail, hair ornament, energy wings
 (biyomon:1.3), <lora:Biyomon-Digimon-Ilustrious:1> Biyomon_\(Digimon\), Pink Fur, Red Beak, Blue Eyes

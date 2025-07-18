@@ -9,7 +9,7 @@
 (ada wong:1.3), resident evil, brown eyes, short hair, black hair, <lora:adawong-re-richy-v1_pdxl:1> adachina
 (alcina dimitrescu:1.3), resident evil, pale skin, short hair, yellow eyes, black hair
 (alcina dimitrescu:1.3), resident evil, pale skin, short hair, yellow eyes, black hair, <lora:AlcinaDimitrescuDw:1> ladydimitrescu
-(alcina dimitrescu:1.3), resident evil, pale skin, short hair, yellow eyes, black hair, <lora:AlcinaDimitrescuxl:1> alcinaxl
+(alcina dimitrescu:1.3), resident evil, pale skin, short hair, yellow eyes, black hair, <lora:AlcinaDimitrescuxl-12-153:1> alcinaxl
 (alcina dimitrescu:1.3), resident evil, pale skin, short hair, yellow eyes, black hair, <lora:AlcinaDimitrescuxl-12v6:1> alcinaxl
 (claire redfield:1.3), resident evil, long hair, blue eyes, short hair, brown hair
 (claire redfield:1.3), resident evil, long hair, blue eyes, short hair, brown hair, <lora:RERClaire:1> RERClaire

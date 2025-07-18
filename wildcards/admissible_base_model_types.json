@@ -1,0 +1,7 @@
+{
+    "Illustrious": ["illu", "pony"],
+    "Pony": ["pony", "illu"],
+    "NoobAI": ["NAI"],
+    "Flux.1 D": ["flux"],
+    "SDXL 1.0": ["sdxl-base", "illu", "pony"]
+}
