@@ -11,7 +11,7 @@ upper
 [/set]
 [/chance]
 
-[chance 0]
+[chance 100]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -100,8 +100,6 @@ Makes the prompt
 
 [call preprocess]
 
-[call set_model]
-
 [chance 0]
 [chance 50]
 [call make_double]
@@ -118,6 +116,8 @@ Makes the prompt
 [else]
 [call make_single]
 [/else]
+
+[call set_model]
 
 [/function]
 
@@ -285,19 +285,27 @@ Sets age_prompt
 
 
 [##]
-Sets sd model based on retrieved_string
+Sets sd model
 [/##]
 [function set_model]
 
 [set opt]
-[choose]
-pony
 illu
-NAI
-[/choose]
 [/set]
 
-[set cur_model_type]
+[chance 25]
+[set opt]
+NAI
+[/set]
+[/chance]
+
+[chance 15]
+[set opt]
+pony
+[/set]
+[/chance]
+
+[set sd_model_type]
 [model-to-type]
 [/set]
 
@@ -317,13 +325,17 @@ NAI
 [/set]
 
 [if "model not in sd_model"]
-    [if "model_type in opt"]
+    [if "sd_model_type in opt"]
         [chance 10][set sd_model][get model][/set][/chance]
     [/if]
     [else]
         [set sd_model][get model][/set]
     [/else]
 [/if]
+
+[set sd_model_type]
+[model-to-type]
+[/set]
 
 [/function]
 
@@ -409,13 +421,8 @@ Makes a 1character prompt
 
 [set retrieved_string][Umi _has_options _verbose="{get debugging}" _debug="{get debugging}"][get umistring][/Umi][/set]
 
-[set opt][choose _case=0][get retrieved_string][/choose][/set]
 [set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
 [set n_prompt][choose _case=2][get retrieved_string][/choose][/set]
-
-[set p_prompt]
-[strip-lora-on-model-mismatch][get p_prompt][/strip-lora-on-model-mismatch]
-[/set]
 
 [/function]
 
@@ -638,6 +645,10 @@ Main function
 [if "no_lora > 4"]
 [set p_prompt][half-lora][get p_prompt][/half-lora][/set]
 [/if]
+
+[set p_prompt]
+[strip-lora-on-model-mismatch][get p_prompt][/strip-lora-on-model-mismatch]
+[/set]
 
 [get p_style], [get p_prompt]
 
