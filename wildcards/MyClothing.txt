@@ -1,4 +1,4 @@
-[tags clothing clothing_type="bikini"]
+[tags clothing_type="bikini"]
 fully clothed, skimpy clothes, see-through bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 sling bikini, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 monokini, <[eztopless]>
@@ -22,7 +22,7 @@ open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][ge
 <lora:AngellingerieILL:0.6> lingerie, bikini, criss-cross halter, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Shining_summer:1> 5h1n1ng_50mm3r, bikini, swimsuit, o-ring, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:slingshot_mask:1> 5l1ngsh0t_m45k, slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
- <lora:x micro bikini_XL_V1.0:1> x micro bikini, criss-cross halter, highleg, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:x micro bikini_XL_V1.0:1> x micro bikini, criss-cross halter, highleg, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Liberator-Azarin_illus:1> Liberator-Azarin, Liberator-Azarin, thighhighs, high heels, gloves, demon tail, wings, tail, black thighhighs, boots, black gloves, hair ribbon, elbow gloves, pubic tattoo, clothing cutout, demon wings, dark persona, low wings, clothing cutout, garter straps, puffy sleeves, highleg, black skirt, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -47,13 +47,13 @@ business suit bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 [/tags]
 
-[tags clothing clothing_type="maleswimwear"]
+[tags clothing_type="maleswimwear"]
 <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2)**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[covered][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 <[eztopless]>, (topless, swim trunks, swimming trunks, male swimwear challenge:1.2), <[ezexposure][lower][get eff_gen _before=[ _after=]]>**(male, man, 1boy, 2boys, 3boys, foreground man, background man:2.0), (bikini top, bra, female underwear, bikini bottom, panties:1.5), (submerged, underwater, standing in water:2.0)**
 [/tags]
 
-[tags clothing clothing_type="bodysuit"]
+[tags clothing_type="bodysuit"]
 biker suit, bodysuit, tight clothes, fully clothed, <[ezcovered][get eff_gen _before=[ _after=]]>**(helmet, headwear, hat:2.0)**
 skinbodysuit, bodysuit, <[ezcovered][get eff_gen _before=[ _after=]]> <lora:skinbodysuit e3:1>
 latex bodysuit, <lora:bodysuit_illustrious_V1.0:1> bodysuit, latex, zipper, unzipping, <[ezexposure][upper][get eff_gen _before=[ _after=]]>,
@@ -96,7 +96,7 @@ mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[ezcovered][get eff_gen 
 <lora:bodystocking noob e1:1> bodystocking
 [/tags]
 
-[tags clothing clothing_type="bunnysuit"]
+[tags clothing_type="bunnysuit"]
 reverse bunnysuit, functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
 <lora:reverse-bunnysuit-illustriousxl-lora-nochekaiser:1>, reverse bunnysuit, heart pasties, heart maebari, crotchless pantyhose, latex legwear, rabbit ears, fake animal ears, rabbit tail, wrist cuffs, navel, functionally nude, <[eznude][get eff_gen _before=[ _after=]]>
 bunnysuit, <[ezcovered][get eff_gen _before=[ _after=]]>, functionally nude
@@ -108,7 +108,7 @@ reverse bunnysuit, heart pasties, <[ezexposure][upper][get eff_gen _before=[ _af
 translucent bunnysuit
 [/tags]
 
-[tags clothing clothing_type="maid"]
+[tags clothing_type="maid"]
 maid, maid uniform, maid headdress, maid apron, <[ezcovered][get eff_gen _before=[ _after=]]>
 unconventional maid, maid bikini, <[ezcovered][get eff_gen _before=[ _after=]]>
 unconventional maid, jersey maid, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -118,7 +118,7 @@ unconventional maid, yuino maid dress, <[ezcovered][get eff_gen _before=[ _after
 <lora:Naked_cook:1> N4k3d_c00k, thighhighs, wrist cuffs, choker, apron, maid headdress, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
-[tags clothing clothing_type="rave"]
+[tags clothing_type="rave"]
 <lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, glowing, exhibitionism, neon_lights, bodypaint, <[eznude][get eff_gen _before=[ _after=]]>, [call wildcards/choose_neon]
 <lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, glowing, exhibitionism, neon_lights, bodypaint, mesh thighhighs, bodypaint, glitter, crotchless_panties, cupless_bra, lingerie, <[eznude][get eff_gen _before=[ _after=]]>, [call wildcards/choose_neon]
 <lora:Neon_Ravegirl_XL:1> n30nr4v3girl, rave_party, glowing, exhibitionism, neon_lights, bodypaint, bodypaint, glitter, crotchless_panties, cupless_bra, lingerie, <[eznude][get eff_gen _before=[ _after=]]>, [call wildcards/choose_neon]
@@ -147,7 +147,7 @@ mesh shorts, mesh shirt, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 mesh shorts, mesh shirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 [/tags]
 
-[tags clothing clothing_type="wedding"]
+[tags clothing_type="wedding"]
 fully clothed, wedding dress, sheer wedding dress, see thruogh wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 wedding dress, bride, wedding, open front dress, exposed crotch dress, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 fully clothed, slutty wedding dress, wedding dress, wedding dress, bride, wedding, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
@@ -190,7 +190,7 @@ bridal lingerie, <lora:bridal_2.0:1> BR1D4LL1NG3R13
 <lora:BridalCape_Illustrious:1> see-through, <[eznude][get eff_gen _before=[ _after=]]>, veil, bridal veil, bridalcape
 [/tags]
 
-[tags clothing clothing_type="bondage"]
+[tags clothing_type="bondage"]
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, topless, <[eznips]>, <[covered][lower][get eff_gen _before=[ _after=]]>
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[covered][upper][get eff_gen _before=[ _after=]]>, <[ezbottomless][get eff_gen _before=[ _after=]]>
 bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow gloves, thighhighs, <[ezcovered][get eff_gen _before=[ _after=]]>, o-ring
@@ -212,7 +212,7 @@ wearing [choose][call wildcards/species/preferred-animals][/choose] shaped mask 
 [/tags]
 
 [# Default]
-[tags clothing]
+[tags]
 naked coat, <[eznude][get eff_gen _before=[ _after=]]>
 nude with lesbian pride flag draped over body, naked flag, wearing flag, lesbian pride flag, pride flag, <[eznude][get eff_gen _before=[ _after=]]>
 fully clothed, [choose][call wildcards/colors][/choose] china dress, qipao, long dress, <[ezcovered][get eff_gen _before=[ _after=]]>
