@@ -11,7 +11,7 @@ upper
 [/set]
 [/chance]
 
-[chance 100]
+[chance 0]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -70,6 +70,7 @@ characters
 [set franchise]
 [choose]
 Mechagodzilla
+Comics
 [/choose]
 [/set]
 
@@ -289,22 +290,6 @@ Sets sd model
 [/##]
 [function set_model]
 
-[set opt]
-illu
-[/set]
-
-[chance 25]
-[set opt]
-NAI
-[/set]
-[/chance]
-
-[chance 15]
-[set opt]
-pony
-[/set]
-[/chance]
-
 [set sd_model_type]
 [model-to-type]
 [/set]
@@ -344,7 +329,7 @@ pony
 Filter and choose clothing from myclothing
 [/##]
 [function get_clothing clothing_type]
-[filter_tags clothing_type="{get clothing_type}" _must_match="all"]
+[filter_tags clothing clothing_type="{get clothing_type}" _must_match="all"]
 [choose][call wildcards/myclothing][/choose]
 
 [/function]
@@ -421,6 +406,7 @@ Makes a 1character prompt
 
 [set retrieved_string][Umi _has_options _verbose="{get debugging}" _debug="{get debugging}"][get umistring][/Umi][/set]
 
+[set opt][choose _case=0][get retrieved_string][/choose][/set]
 [set p_prompt][choose _case=1][get retrieved_string][/choose][/set]
 [set n_prompt][choose _case=2][get retrieved_string][/choose][/set]
 
@@ -507,6 +493,8 @@ frotting, frottage
 [get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.5)
 [/set]
 
+[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
+
 [/function]
 
 
@@ -550,6 +538,8 @@ NSFW, (solo:1.0), [get ageprompt][get gender_suffix], <[EZEmotion]>, looking at 
 [set n_prompt]
 [get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.5)
 [/set]
+
+[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
 
 [/function]
 
@@ -611,6 +601,8 @@ NSFW, (solo:1.0), source_anime, [get characterprompt], [get ageprompt][get gende
 [set n_prompt]
 [get total_neg] ADDCOMM [get char_1n] ADDCOL [get char_2n]
 [/set]
+
+[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
 
 [/function]
 
