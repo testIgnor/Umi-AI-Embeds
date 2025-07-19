@@ -11,6 +11,7 @@
 (scarlett johansson:1.3) <lora:scarlett_johansson:1>
 (taylor swift:1.3), <lora:taylor_swift:1> blonde hair, long hair, lips
 (zendaya coleman:1.3) <lora:zendaya:1>
+(zendaya coleman:1.3) <lora:zendaya_pb40k:1>
 (allison:1.3), <lora:AllisonMixer_rank16_bf16:1> AllisonMixer
 (brooklyn:1.3), <lora:BrooklynMixer_rank16_bf16:1> BrooklynMixer
 (cerys:1.3), <lora:QuennaTits_rank16_bf16:1> CerysMixer
@@ -24,3 +25,7 @@
 (kelly:1.3), <lora:KellyMixer_rank16_bf16:1> KellyMixer
 (lei:1.3), <lora:LeiMixer_rank16_bf16:1> LeiMixer
 (nawusijia:1.3) <lora:nwsj_flux:1>
+(jenna ortega:1.3) <lora:Jenna_Ortega:1>
+(emma watson:1.3) <lora:emma_watson:1>
+(emma stone:1.3) <lora:emma_stone:1>
+(billie eilish:1.3) <lora:Billie_Eilish_Flux:1>

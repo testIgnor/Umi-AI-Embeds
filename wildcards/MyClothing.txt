@@ -484,6 +484,29 @@ exhibitionism, <lora:bw_ero_ilxl:1> body writing, bodypaint \(ero\), <[eznude][g
 <[eznude][get eff_gen _before=[ _after=]]>,  <lora:analtail:1> anal tail, buttplug, uncensored
 <[eznude][get eff_gen _before=[ _after=]]>, <lora:anal tail plug_illustrious_V1.0:1> atp, anal tail, anal object insertion, butt plug, animal ears
 <[eznude][get eff_gen _before=[ _after=]]>, <lora:Anal_Beads_Tail_ILXL:1> tail, anus, sex toy, fake tail, anal tail, butt plug, anal, object insertion, ass focus, anal object insertion
+<lora:Divine_bustierDIm16alpha4V1_1e-5+_illustrious:1> mystical bustier, purple leotard, yellow skirt, elbow gloves, white gloves, garter straps, choker, armlet, mini wings, white thighhighs, thighhighs, purple footwear
+<lora:mai_bj_clothing_15:1> mai bj clothing 15, fishnet pantyhose, china dress, white dress, fingerless gloves, black gloves
+<lora:SuccubusCosplayLingerieILL:1> latex lingerie, bat wing bra, panties
+<lora:Body_harness_with_exposed_nipples_IL:1> Body harness with exposed nipples, white harness bra, white Harness radiates from the long nipples, covered nipples
+<lora:sheer lace open-front lingerie10501632352il:1> sheer lace open-front lingerie, see-through, navel, white negligee, white panties, white garter belt, white thighhighs
+<lora:LatexBunnyGirlCostumeILL:1> frills, puffy sleeves, belt bra, body harness, thighhighs, rabbit ears, short sleeves
+<lora:Cross_Lace_Center_Cutout_Dress:1> cntrCutoutDress, short_dress, cross-laced_cutout, cross-laced_dress, plunging_neckline, see-through_dress, sleeveless
+<lora:AsslessMorticiaDressILL:1> puffy sleeves, side slit, latex dress, red gloves, pasties, chest cutout, red thighhighs, from behind, ass cutout
+<lora:kinky-underwear:1> k1nky-underwear, bra, pantie, k1nky-underwear, transparent lace underwear, transparent lace full cup bra, see-through nipples, transparent lace pantie, transparent lace crotch, seamless pantie, see-through pussy, [choose][call wildcards/colors][/choose] underwear
+<lora:TemptationHanfuLingerieILL:1> see-through, lingerie, hanfu, side slit, chinese clothes
+<lora:MiniFishnetDressILL:1> dress, strapless, fishnet bodycon, bare shoulders, short dress, see-through
+<lora:Mummy_(Clothing)_ILXL:1> bandages, halloween, halloween costume, naked bandage, mummy costume
+<lora:checkpoint-e18_s612:1> 5TR4PPYCR0TCHL35S, string bikini, crotchless bikini, cupless bikini, crotchless, pussy, nipples, breasts, stomach, navel
+<lora:butterfly bikini_noobai_V1.0:1> butterfly bikini
+<lora:aerobics_illustrious_byJaneB:1> leotard, leggings, headband, leg warmers, sneakers, off-shoulder shirt, sash, wristband
+<lora:o-ring_harness:1> o-ring harness, bondage outfit, crotch strap
+<lora:belly dance clothes_noobai_V1.0:1> jyojifuku, veil, midriff, bracelet, earrings, dancer, dancing, see-through
+<lora:ballerina_noobai_V1.0:1>, jyojifuku, ballerina, ballet, pantyhose, ballet slippers, athletic leotard, tutu
+<lora:bra_visible_through_clothes_ilxl_goofy:1> bra visible through clothes
+<lora:see-through underwear_noobai_V1.0:1> see-through underwear, panties, bra, nipples, pubic hair
+<lora:transparent_bunnysuit:1> translucent bunnysuit, rabbit ears, see-through leotard
+<lora:towel_noobai_V1.0:1> towel, naked towel
+<lora:see-through-silhouette-v2-illustriousxl-lora-nochekaiser:1>, see-through silhouette, blush, dress, bare shoulders, sleeveless, armpits, white dress, covered nipples, see-through, sleeveless dress, no bra, no panties, nightgown, see-through dress, backlighting
 [if "'futanari' in eff_gen"]
 <lora:DownbulgeIL:1> down_bulge
 <lora:upbulgeIL:1> north_bulge, curved_bulge
