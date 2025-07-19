@@ -22,5 +22,5 @@ class Shortcode():
         for x in pattern.findall(content):
             name = x.split(':')[0]
             weight = float(x.split(':')[1])
-            newtext = newtext.replace(x, f'{name}:{weight*factor}')
+            newtext = newtext.replace(x, f'{name}:{weight*factor:.2f}')
         return newtext
