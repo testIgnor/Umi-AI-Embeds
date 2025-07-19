@@ -32,10 +32,9 @@ Outfit
 [/choose]
 [/set]
 
-
 [chance 50]
 [set characterprompt]
-[strip-lora][remove-strings asian_ european_ source_anime,][choose _case=0][Umi]<[myspecies][Royalty]>[/Umi][/choose][/remove-strings][/strip-lora]
+(taylor swift:1.3), <lora:taylor_swift:1> blonde hair, long hair, lips
 [/set]
 [/chance]
 
@@ -48,7 +47,7 @@ Outfit
 lower
 [/set]
 
-[chance 40]
+[chance 30]
 [set age_range]
 middle
 [/set]
@@ -88,7 +87,7 @@ middle
 [/set]
 
 [set retrieved_string]
-[strip-lora][choose _case=0][Umi][get umistring][/Umi][/choose][/strip-lora]
+[strip-lora-on-model-mismatch][choose _case=0][Umi][get umistring][/Umi][/choose][/strip-lora-on-model-mismatch]
 [/set]
 
 
