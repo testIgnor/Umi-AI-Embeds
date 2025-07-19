@@ -34,7 +34,10 @@ Outfit
 
 [chance 50]
 [set characterprompt]
+[choose]
 (taylor swift:1.3), <lora:taylor_swift:1> blonde hair, long hair, lips
+(billie eilish:1.3) <lora:Billie_Eilish_Flux:1>
+[/choose]
 [/set]
 [/chance]
 
