@@ -50,7 +50,7 @@ Outfit
 lower
 [/set]
 
-[chance 30]
+[chance 0]
 [set age_range]
 middle
 [/set]
