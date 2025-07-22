@@ -172,6 +172,10 @@
             "ss_name": "A-Bao A Qu, the Lightless Shadow illuXL v1.1",
             "baseModel": "Illustrious"
         },
+        "aa_mayafey_noobAIXL11EPS": {
+            "ss_name": "aa_mayafey_noobAIXL11EPS",
+            "baseModel": "Illustrious"
+        },
         "aerobics_illustrious_byJaneB": {
             "ss_name": "aerobics_illustrious_byJaneB",
             "baseModel": "Illustrious"
@@ -988,6 +992,10 @@
             "ss_name": "Dragonmaid latys illuXL v2",
             "baseModel": "Illustrious"
         },
+        "duchess-er-richy-v1_ixl": {
+            "ss_name": "duchess-er-richy-v1_ixl",
+            "baseModel": "Illustrious"
+        },
         "Dungeon_Squad_IllustriousV5": {
             "ss_name": "Dungeon_Squad_IllustriousV5",
             "baseModel": "Illustrious"
@@ -1056,8 +1064,24 @@
             "ss_name": "EDIME3ILf",
             "baseModel": "Illustrious"
         },
+        "Elden Ring - Queen Marika": {
+            "ss_name": "Elden Ring - Queen Marika",
+            "baseModel": "Illustrious"
+        },
+        "Elden Ring Nightreign Duchess": {
+            "ss_name": "Elden Ring Nightreign Duchess",
+            "baseModel": "Illustrious"
+        },
+        "elden ring nightreign \u5fa9\u8b90\u8005": {
+            "ss_name": "elden ring nightreign \u5fa9\u8b90\u8005",
+            "baseModel": "Illustrious"
+        },
         "elden_beast_girl\u30a8\u30af\u30ec\u30a2\u3062\u3083\u30932": {
             "ss_name": "elden_beast_girl\u30a8\u30af\u30ec\u30a2\u3062\u3083\u30932",
+            "baseModel": "Illustrious"
+        },
+        "elden_ring_style_illustriousXL": {
+            "ss_name": "elden_ring_style_illustriousXL",
             "baseModel": "Illustrious"
         },
         "Eldritch_Monster_Girl-e56_s1176": {
@@ -1632,8 +1656,16 @@
             "ss_name": "ILDVNeve",
             "baseModel": "Illustrious"
         },
+        "iLLDuchessER": {
+            "ss_name": "iLLDuchessER",
+            "baseModel": "Illustrious"
+        },
         "iLLRecluseERN": {
             "ss_name": "iLLRecluseERN",
+            "baseModel": "Illustrious"
+        },
+        "iLLRevenantERN": {
+            "ss_name": "iLLRevenantERN",
             "baseModel": "Illustrious"
         },
         "Illustrious May": {
@@ -2336,6 +2368,10 @@
             "ss_name": "TimeKeeperXL",
             "baseModel": "Illustrious"
         },
+        "Maya Fey-IL V1": {
+            "ss_name": "Maya Fey-IL V1",
+            "baseModel": "Illustrious"
+        },
         "Medusa": {
             "ss_name": "M5",
             "baseModel": "Illustrious"
@@ -2410,6 +2446,10 @@
         },
         "Mia Fey DG illuLoRA": {
             "ss_name": "Mia Fey DG illuLoRA",
+            "baseModel": "Illustrious"
+        },
+        "Mia Fey-IL V1": {
+            "ss_name": "Mia Fey-IL V1",
             "baseModel": "Illustrious"
         },
         "Midnight_Dusk_Fortnite-000007": {
@@ -2824,6 +2864,10 @@
             "ss_name": "P-IL-Bowsette",
             "baseModel": "Illustrious"
         },
+        "P-IL-Melina": {
+            "ss_name": "P-IL-Melina",
+            "baseModel": "Illustrious"
+        },
         "Pack_Leader_Highwire_-_Character": {
             "ss_name": "Pack_Leader_Highwire_-_Character",
             "baseModel": "Illustrious"
@@ -2886,6 +2930,14 @@
         },
         "Pauline_Donkey_Kong_Bananza": {
             "ss_name": "Pauline_Donkey_Kong_Bananza",
+            "baseModel": "Illustrious"
+        },
+        "Pearl Fey-IL V1": {
+            "ss_name": "Pearl Fey-IL V1",
+            "baseModel": "Illustrious"
+        },
+        "Pearl_Fey_IL_v1": {
+            "ss_name": "Pearl_Fey_IL_v1",
             "baseModel": "Illustrious"
         },
         "PenisDownLegIllust": {
@@ -3092,12 +3144,24 @@
             "ss_name": "reashley-illu-nvwls-v1",
             "baseModel": "Illustrious"
         },
+        "recluse-er-richy-v1_ixl": {
+            "ss_name": "recluse-er-richy-v1_ixl",
+            "baseModel": "Illustrious"
+        },
+        "RecluseK112": {
+            "ss_name": "RecluseK112",
+            "baseModel": "Illustrious"
+        },
         "recluse_50_v3_IL20stable": {
             "ss_name": "last",
             "baseModel": "Illustrious"
         },
         "Recluse_Elden_Ring_Nightreign_-_Illustrious_v3": {
             "ss_name": "Recluse_Elden_Ring_Nightreign_-_Illustrious_V3",
+            "baseModel": "Illustrious"
+        },
+        "Recluse_Illu_Dwnsty": {
+            "ss_name": "Recluse_Illu_Dwnsty",
             "baseModel": "Illustrious"
         },
         "Red Archery Girl illuXL v1.1": {
@@ -3138,6 +3202,14 @@
         },
         "Retro_60s_Decarlo_ILXL": {
             "ss_name": "Retro_60s_Decarlo_ILXL",
+            "baseModel": "Illustrious"
+        },
+        "revenant-er-richy-v1_ixl": {
+            "ss_name": "revenant-er-richy-v1_ixl",
+            "baseModel": "Illustrious"
+        },
+        "revenant_er": {
+            "ss_name": "revenant_er",
             "baseModel": "Illustrious"
         },
         "reverse-bunnysuit-illustriousxl-lora-nochekaiser": {
@@ -3210,6 +3282,14 @@
         },
         "rwing illustrious 003": {
             "ss_name": "rwing illustrious 003",
+            "baseModel": "Illustrious"
+        },
+        "Rya ILL": {
+            "ss_name": "Vlad ILL",
+            "baseModel": "Illustrious"
+        },
+        "Rya": {
+            "ss_name": "Rya",
             "baseModel": "Illustrious"
         },
         "rydia dsff4_illustriousXL": {
@@ -4112,12 +4192,20 @@
             "ss_name": "Kiryu_v15-noobxl_eps-02",
             "baseModel": "NoobAI"
         },
+        "Melina - Elden Ring (NoobAI)": {
+            "ss_name": "Melina - Elden Ring (NoobAI)",
+            "baseModel": "NoobAI"
+        },
         "open swimwear_noobai_V1.0": {
             "ss_name": "open swimwear_noobai_V1.0",
             "baseModel": "NoobAI"
         },
         "Pixel_Art_EPS": {
             "ss_name": "Pixel_Art_EPS",
+            "baseModel": "NoobAI"
+        },
+        "Recluse - Elden Ring (NoobAI)": {
+            "ss_name": "Recluse - Elden Ring (NoobAI)",
             "baseModel": "NoobAI"
         },
         "see-through underwear_noobai_V1.0": {
@@ -4246,6 +4334,10 @@
         },
         "aa_mayafey_ponyXL": {
             "ss_name": "aa_mayafey_ponyXL",
+            "baseModel": "Pony"
+        },
+        "aa_miafey_ponyXL": {
+            "ss_name": "aa_miafey_ponyXL",
             "baseModel": "Pony"
         },
         "aa_soj_mayafey_ponyXL": {
@@ -7232,6 +7324,10 @@
             "ss_name": "Mia Fey Spirit PXL v01",
             "baseModel": "Pony"
         },
+        "mia-fey-aa-ponyxl-000070": {
+            "ss_name": "mia-fey-aa-ponyxl",
+            "baseModel": "Pony"
+        },
         "Miao_Ying": {
             "ss_name": "Miao_Ying",
             "baseModel": "Pony"
@@ -9826,6 +9922,9 @@
         "A-Bao A Qu, the Lightless Shadow illuXL v1.1": [
             "A-Bao A Qu, the Lightless Shadow illuXL v1.1"
         ],
+        "aa_mayafey_noobAIXL11EPS": [
+            "aa_mayafey_noobAIXL11EPS"
+        ],
         "aerobics_illustrious_byJaneB": [
             "aerobics_illustrious_byJaneB"
         ],
@@ -10435,6 +10534,9 @@
         "Dragonmaid latys illuXL v2": [
             "Dragonmaid latys illuXL v2"
         ],
+        "duchess-er-richy-v1_ixl": [
+            "duchess-er-richy-v1_ixl"
+        ],
         "Dungeon_Squad_IllustriousV5": [
             "Dungeon_Squad_IllustriousV5"
         ],
@@ -10483,8 +10585,20 @@
         "EDIME3ILf": [
             "EDIME3ILf"
         ],
+        "Elden Ring - Queen Marika": [
+            "Elden Ring - Queen Marika"
+        ],
+        "Elden Ring Nightreign Duchess": [
+            "Elden Ring Nightreign Duchess"
+        ],
+        "elden ring nightreign \u5fa9\u8b90\u8005": [
+            "elden ring nightreign \u5fa9\u8b90\u8005"
+        ],
         "elden_beast_girl\u30a8\u30af\u30ec\u30a2\u3062\u3083\u30932": [
             "elden_beast_girl\u30a8\u30af\u30ec\u30a2\u3062\u3083\u30932"
+        ],
+        "elden_ring_style_illustriousXL": [
+            "elden_ring_style_illustriousXL"
         ],
         "Eldritch_Monster_Girl-e56_s1176": [
             "Eldritch_Monster_Girl-e56_s1176"
@@ -10913,8 +11027,14 @@
         "ILDVNeve": [
             "ILDVNeve"
         ],
+        "iLLDuchessER": [
+            "iLLDuchessER"
+        ],
         "iLLRecluseERN": [
             "iLLRecluseERN"
+        ],
+        "iLLRevenantERN": [
+            "iLLRevenantERN"
         ],
         "Illustrious May": [
             "Illustrious May"
@@ -11445,6 +11565,9 @@
             "MatchaXL",
             "TimeKeeperXL"
         ],
+        "Maya Fey-IL V1": [
+            "Maya Fey-IL V1"
+        ],
         "M5": [
             "Medusa"
         ],
@@ -11497,6 +11620,9 @@
         ],
         "Mia Fey DG illuLoRA": [
             "Mia Fey DG illuLoRA"
+        ],
+        "Mia Fey-IL V1": [
+            "Mia Fey-IL V1"
         ],
         "Midnight_Dusk_Fortnite": [
             "Midnight_Dusk_Fortnite-000007"
@@ -11807,6 +11933,9 @@
         "P-IL-Bowsette": [
             "P-IL-Bowsette"
         ],
+        "P-IL-Melina": [
+            "P-IL-Melina"
+        ],
         "Pack_Leader_Highwire_-_Character": [
             "Pack_Leader_Highwire_-_Character"
         ],
@@ -11854,6 +11983,12 @@
         ],
         "Pauline_Donkey_Kong_Bananza": [
             "Pauline_Donkey_Kong_Bananza"
+        ],
+        "Pearl Fey-IL V1": [
+            "Pearl Fey-IL V1"
+        ],
+        "Pearl_Fey_IL_v1": [
+            "Pearl_Fey_IL_v1"
         ],
         "PenisDownLegV2": [
             "PenisDownLegIllust"
@@ -12009,6 +12144,12 @@
         "reashley-illu-nvwls-v1": [
             "reashley-illu-nvwls-v1"
         ],
+        "recluse-er-richy-v1_ixl": [
+            "recluse-er-richy-v1_ixl"
+        ],
+        "RecluseK112": [
+            "RecluseK112"
+        ],
         "last": [
             "recluse_50_v3_IL20stable",
             "[20th Century Studios] Predalien Xenomorph Character Illustrious",
@@ -12031,6 +12172,9 @@
         ],
         "Recluse_Elden_Ring_Nightreign_-_Illustrious_V3": [
             "Recluse_Elden_Ring_Nightreign_-_Illustrious_v3"
+        ],
+        "Recluse_Illu_Dwnsty": [
+            "Recluse_Illu_Dwnsty"
         ],
         "Red Archery Girl illuXL v1.1": [
             "Red Archery Girl illuXL v1.1"
@@ -12062,6 +12206,12 @@
         ],
         "Retro_60s_Decarlo_ILXL": [
             "Retro_60s_Decarlo_ILXL"
+        ],
+        "revenant-er-richy-v1_ixl": [
+            "revenant-er-richy-v1_ixl"
+        ],
+        "revenant_er": [
+            "revenant_er"
         ],
         "reverse-bunnysuit-illustriousxl-lora-nochekaiser": [
             "reverse-bunnysuit-illustriousxl-lora-nochekaiser"
@@ -12116,6 +12266,12 @@
         ],
         "rwing illustrious 003": [
             "rwing illustrious 003"
+        ],
+        "Vlad ILL": [
+            "Rya ILL"
+        ],
+        "Rya": [
+            "Rya"
         ],
         "rydia dsff4_illustriousXL": [
             "rydia dsff4_illustriousXL"
@@ -12754,11 +12910,17 @@
         "Kiryu_v15-noobxl_eps-02": [
             "Kiryu_v11-noobxl_eps"
         ],
+        "Melina - Elden Ring (NoobAI)": [
+            "Melina - Elden Ring (NoobAI)"
+        ],
         "open swimwear_noobai_V1.0": [
             "open swimwear_noobai_V1.0"
         ],
         "Pixel_Art_EPS": [
             "Pixel_Art_EPS"
+        ],
+        "Recluse - Elden Ring (NoobAI)": [
+            "Recluse - Elden Ring (NoobAI)"
         ],
         "see-through underwear_noobai_V1.0": [
             "see-through underwear_noobai_V1.0"
@@ -12855,6 +13017,9 @@
         ],
         "aa_mayafey_ponyXL": [
             "aa_mayafey_ponyXL"
+        ],
+        "aa_miafey_ponyXL": [
+            "aa_miafey_ponyXL"
         ],
         "aa_soj_mayafey_ponyXL": [
             "aa_soj_mayafey_ponyXL"
@@ -15036,6 +15201,9 @@
         ],
         "Mia Fey Spirit PXL v01": [
             "Mia Fey Spirit PXL v01"
+        ],
+        "mia-fey-aa-ponyxl": [
+            "mia-fey-aa-ponyxl-000070"
         ],
         "Miao_Ying": [
             "Miao_Ying"
