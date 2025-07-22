@@ -1,4 +1,4 @@
-[set debugging]1[/set]
+[set debugging]0[/set]
 
 [##]
 Overrides Prompt Properties
@@ -357,7 +357,9 @@ Choose artist from webartists
 [function get_artist]
 [set artist][choose][call wildcards/webartists][/choose][/set]
 [if "'lora' not in artist"]
+[chance 75]
     [set artist][get artist] <lora:PDXL_artist_tags_v2_big:1>[/set]
+[/chance]
 [/if]
 
 [/function]
