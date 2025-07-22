@@ -1,55 +1,55 @@
-<[model][illu]>source_furry, (scp-1471-A:1.3), <lora:Scp-1471-A-Ilustrious:1> Scp-1471-A_\(Scp\), Dark Grey Fur, Black Hair, wolf's Skull Face, Black Scelera, Colored Scelera, White Eyes, No Pupils, White Iris, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
-<[model][illu]>source_furry, (scp-1471-A:1.3), <lora:SCPMalOPXLv2:1> SCPMalOPXLv2, anthro furry, body fur, black fur, black body, monster skull, sharp teeth, black eyelashes, white eyes, glowing eyes, black sclera, black hair, long hair, hair between eyes, animal ears, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
-<[model][illu]>source_furry, (scp-1471-A:1.3), <lora:Mal01471:1> scp-1471, scp-1471-a, mal01471, black fur, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
-<[model][illu]>source_furry, (scp-1471-A:1.3), <lora:Scp_1741_Mal0_PonyXL:1> anthro, furry, canine, scp-1471, mal0, black fur, black hair, long hair, Black sclera, white iris, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
-<[model][illu]>source_furry, (scp-1471-A:1.3), <lora:SCP1471:1> long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
-<[model][illu]>source_furry, (scp-1471-A:1.3), <lora:Mal0Illust:1> Mal0, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
-<[model][illu]>source_furry, (scp-1471-A:1.3), <lora:Mal0_SCP-1471_Illustrous:1> scp1471, mal0, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
-<[model][illu]>source_furry, (scp-1471-A:1.3), <lora:SCP_1471:1> scp_1471, animal ears, furry
-<[model][illu]>source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair
-<[model][illu]>source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair <lora:yamamura_sadako_pdxl_goofy:1>
-<[model][illu]>source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair <lora:yamamura sadako-PonyXL-lora-Faxtron:1>
-<[model][illu]>source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair, <lora:YamamuraSadakoPonyXL:1> yamamura sadako, the ring
-<[model][illu]>source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair, <lora:sadako:1> SadakoIL, yamamura sadako
-<[model][illu]>source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:m3gan-pxl:1> M3GAN
-<[model][illu]>source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:M3GAN_V1:1> m3gandoll
-<[model][illu]>source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:SheFailedToProtectCady:1> M3GAN
-<[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday:1> black hair, twin braids, brown eyes
-<[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday_Addams_XL_PONY:1> black hair, twin braids, brown eyes
-<[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday Addams:1> black hair, twin braids, brown eyes
-<[model][illu]>source_anime, (wednesday addams:1.3), <lora:Wednesday_v2:1> wednesday, black hair, twin braids, brown eyes
-<[model][illu]>source_anime, (enid sinclair:1.3), blonde hair, blue eyes, short hair, gradient hair, colored tips, blue hair, <lora:Enid_Sinclair_Wednesday_-_Toon_Version:1> enidS1inclair
-<[model][illu]>source_anime, (moth:1.3), monster girl, wings, arthropod girl, extra eyes, black sclera, antennae <lora:mothXLP:1>
-<[model][illu]>source_anime, (sin eater:1.3), final fantasy, sineater <lora:SinEater-Pony:1>
-<[model][illu]>source_anime, (chimera bug:1.3), ChimeraBugMGQ, pink hair, pink eyes, monster girl, arthropod girl, twintails <lora:ChimeraBugMGQ_V1:1>
-<[model][illu]>source_anime, (little sister:1.3), bioshock, <lora:LittleSister:1> LittleSister, glowing eyes, long hair, black hair
-<[model][illu]>source_anime, (little sister:1.3), bioshock, <lora:LittleSister:1> LittleSister, glowing eyes, medium hair, ponytail, black hair
-<[model][illu]>source_anime, (big sister:1.3), bioshock, <lora:BigSister:0.6> BigSister, grey eyes, medium hair, black hair
-<[model][illu]>source_anime, (river goddess:1.3) <lora:River_Goddess_v2:1>
-<[model][illu]>source_anime, (angel \(smt\):1.3), shin megami tensei, angelSMT, long hair, angel wings <lora:AngelSMT-pdxl:1>
-<[model][illu]>source_anime, (spitter \(l4d\):1.3), <lora:The_Spitter_Left_4_DeadGanassa_Version:1> Twin tails, brown hair, saliva, colored skin, Grey skin, colored scelera, Glowing yellow eyes, spittergv
-<[model][illu]>source_anime, (hunter \(l4d\):1.3), <lora:The_Hunter_Left_4_DeadGanassa_Version:1> teeth, hair over one eye, long tongue, colored skin, grey skin, black hair, huntergv
-<[model][illu]>source_anime, (witch \(l4d\):1.3), <lora:The_Witch_Left_4_DeadGanassa_Version:1> long hair, Blonde hair, Lock claw Fingers, colored scelera, glowing red eyes, colored skin, grey skin, Witchgv
-<[model][illu]>source_anime, (witch \(l4d\):1.3), <lora:l4d_witch_ponyXL:1> l4dwitch, grey skin, claws, grey hair
-<[model][illu]>source_anime, (witch \(l4d\):1.3), <lora:witchL4dxl:1> wchl4dxl, grey skin, claws, grey hair
-<[model][illu]>source_anime, (guardian \(tew\):1.3), <lora:GuardianXL:1> gdianxl
-<[model][illu]>source_anime, (kuchisake:1.3), <lora:KuchisakeREDxl:1> Kuchisakexl
-<[model][illu]>source_anime, (nureonna:1.3), <lora:NureOnna:1> NureOnna, lamia
-<[model][illu]>source_anime, (nureonna:1.3), <lora:NureOnnaxl:1> nureonnaxl, lamia
-<[model][illu]>source_anime, (sophia sakamoto:1.3), <lora:SophiaSakamotoxl:1> sakamotoxl
-<[model][illu]>source_anime, (skin witch:1.3), <lora:SkinWitchxl:1> sknwtchxl
-<[model][illu]>source_anime, (sphinx \(dragon's dogma\):1.3), <lora:Sphinx:1> Sphinx
-<[model][illu]>source_anime, (eldritch monster girl:1.3), <lora:Eldritch_Monster_Girl-e56_s1176:1> Eldritch, Monster Girl, tentacles
-<[model][illu]>source_anime, (lava girl:1.3), <lora:Lava_Girl_PDXL:1> zzLavaGirl, black scales, colored skin, monster girl, orange skin, fire, fiery hair, red skin, red hair
-<[model][illu]>source_anime, (mako \(mgi\):1.3), <lora:Mako:1> Mak0_mgi, gradient hair, blue hair, long hair, abs, shark mermaid, shark tail, orange eyes, slit pupils, monster girl, muscular female
-<[model][illu]>source_anime, (monster girl:1.3), <lora:Monster_Girl:1>
-<[model][illu]>source_anime, (monster girl:1.3), <lora:Monster_girl_test:1>
-<[model][illu]>source_anime, (monster girl:1.3), <lora:mon_deepsea_IL_r1:1> monster girl
-<[model][illu]>source_anime, (monster girl:1.3), <lora:Monster Girl Dragon:1> Monster Girl Dragon, dragon horns, dragon tail, dragon wings
-<[model][illu]>source_anime, (monster girl:1.3), <lora:monstergirl:1> monster girl
-<[model][illu]>source_anime, (monster girl:1.3), <lora:cosmongirl_IL:1> monster girl
-<[model][illu]>source_anime, (monster girl:1.3), <lora:mutated_mongirl_IL:1> monster girl
-<[model][illu]>source_anime, (scylla:1.3), <lora:Scylla_ILXL:1> monster girl, octopus, suction cups, scylla, no legs, tentacles, tentacle legs, tentacle hair
-<[model][illu]>source_anime, (zombie:1.3), (zombie girl:1.4), (pale skin:1.5), (empty eyes, no pupils:1.3)**(green skin, blue skin, purple skin, yellow skin, orange skin, red skin:1.5)**
-<[model][illu]>source_anime, (zombie:1.3), <lora:Undead_Girl_-_UHD_-_Pony:1>, sexy beautiful unde4d, undead, necrotic decaying body, exposed bone, black high ponytail, black lips, pale skin, black nails**(green skin, blue skin, purple skin, yellow skin, orange skin, red skin:1.5)**
+source_furry, (scp-1471-A:1.3), <lora:Scp-1471-A-Ilustrious:1> Scp-1471-A_\(Scp\), Dark Grey Fur, Black Hair, wolf's Skull Face, Black Scelera, Colored Scelera, White Eyes, No Pupils, White Iris, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
+source_furry, (scp-1471-A:1.3), <lora:SCPMalOPXLv2:1> SCPMalOPXLv2, anthro furry, body fur, black fur, black body, monster skull, sharp teeth, black eyelashes, white eyes, glowing eyes, black sclera, black hair, long hair, hair between eyes, animal ears, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
+source_furry, (scp-1471-A:1.3), <lora:Mal01471:1> scp-1471, scp-1471-a, mal01471, black fur, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
+source_furry, (scp-1471-A:1.3), <lora:Scp_1741_Mal0_PonyXL:1> anthro, furry, canine, scp-1471, mal0, black fur, black hair, long hair, Black sclera, white iris, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
+source_furry, (scp-1471-A:1.3), <lora:SCP1471:1> long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
+source_furry, (scp-1471-A:1.3), <lora:Mal0Illust:1> Mal0, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
+source_furry, (scp-1471-A:1.3), <lora:Mal0_SCP-1471_Illustrous:1> scp1471, mal0, long hair, black hair, animal ears, tail, wolf ears, furry, dog ears, wolf tail, skull, wolf girl, dog girl, body fur, colored sclera, black sclera, glowing eyes, white pupils, white eyes, teeth, fangs, sharp teeth
+source_furry, (scp-1471-A:1.3), <lora:SCP_1471:1> scp_1471, animal ears, furry
+source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair
+source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair <lora:yamamura_sadako_pdxl_goofy:1>
+source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair <lora:yamamura sadako-PonyXL-lora-Faxtron:1>
+source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair, <lora:YamamuraSadakoPonyXL:1> yamamura sadako, the ring
+source_anime, (yamamura sadako:1.3), pale skin, grey skin, colored skin, hair over eyes, very long hair, long hair, black hair, <lora:sadako:1> SadakoIL, yamamura sadako
+source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:m3gan-pxl:1> M3GAN
+source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:M3GAN_V1:1> m3gandoll
+source_anime, (m3gan:1.3), long hair, blue eyes, blonde hair, parted bangs, split bangs, <lora:SheFailedToProtectCady:1> M3GAN
+source_anime, (wednesday addams:1.3), <lora:Wednesday:1> black hair, twin braids, brown eyes
+source_anime, (wednesday addams:1.3), <lora:Wednesday_Addams_XL_PONY:1> black hair, twin braids, brown eyes
+source_anime, (wednesday addams:1.3), <lora:Wednesday Addams:1> black hair, twin braids, brown eyes
+source_anime, (wednesday addams:1.3), <lora:Wednesday_v2:1> wednesday, black hair, twin braids, brown eyes
+source_anime, (enid sinclair:1.3), blonde hair, blue eyes, short hair, gradient hair, colored tips, blue hair, <lora:Enid_Sinclair_Wednesday_-_Toon_Version:1> enidS1inclair
+source_anime, (moth:1.3), monster girl, wings, arthropod girl, extra eyes, black sclera, antennae <lora:mothXLP:1>
+source_anime, (sin eater:1.3), final fantasy, sineater <lora:SinEater-Pony:1>
+source_anime, (chimera bug:1.3), ChimeraBugMGQ, pink hair, pink eyes, monster girl, arthropod girl, twintails <lora:ChimeraBugMGQ_V1:1>
+source_anime, (little sister:1.3), bioshock, <lora:LittleSister:1> LittleSister, glowing eyes, long hair, black hair
+source_anime, (little sister:1.3), bioshock, <lora:LittleSister:1> LittleSister, glowing eyes, medium hair, ponytail, black hair
+source_anime, (big sister:1.3), bioshock, <lora:BigSister:0.6> BigSister, grey eyes, medium hair, black hair
+source_anime, (river goddess:1.3) <lora:River_Goddess_v2:1>
+source_anime, (angel \(smt\):1.3), shin megami tensei, angelSMT, long hair, angel wings <lora:AngelSMT-pdxl:1>
+source_anime, (spitter \(l4d\):1.3), <lora:The_Spitter_Left_4_DeadGanassa_Version:1> Twin tails, brown hair, saliva, colored skin, Grey skin, colored scelera, Glowing yellow eyes, spittergv
+source_anime, (hunter \(l4d\):1.3), <lora:The_Hunter_Left_4_DeadGanassa_Version:1> teeth, hair over one eye, long tongue, colored skin, grey skin, black hair, huntergv
+source_anime, (witch \(l4d\):1.3), <lora:The_Witch_Left_4_DeadGanassa_Version:1> long hair, Blonde hair, Lock claw Fingers, colored scelera, glowing red eyes, colored skin, grey skin, Witchgv
+source_anime, (witch \(l4d\):1.3), <lora:l4d_witch_ponyXL:1> l4dwitch, grey skin, claws, grey hair
+source_anime, (witch \(l4d\):1.3), <lora:witchL4dxl:1> wchl4dxl, grey skin, claws, grey hair
+source_anime, (guardian \(tew\):1.3), <lora:GuardianXL:1> gdianxl
+source_anime, (kuchisake:1.3), <lora:KuchisakeREDxl:1> Kuchisakexl
+source_anime, (nureonna:1.3), <lora:NureOnna:1> NureOnna, lamia
+source_anime, (nureonna:1.3), <lora:NureOnnaxl:1> nureonnaxl, lamia
+source_anime, (sophia sakamoto:1.3), <lora:SophiaSakamotoxl:1> sakamotoxl
+source_anime, (skin witch:1.3), <lora:SkinWitchxl:1> sknwtchxl
+source_anime, (sphinx \(dragon's dogma\):1.3), <lora:Sphinx:1> Sphinx
+source_anime, (eldritch monster girl:1.3), <lora:Eldritch_Monster_Girl-e56_s1176:1> Eldritch, Monster Girl, tentacles
+source_anime, (lava girl:1.3), <lora:Lava_Girl_PDXL:1> zzLavaGirl, black scales, colored skin, monster girl, orange skin, fire, fiery hair, red skin, red hair
+source_anime, (mako \(mgi\):1.3), <lora:Mako:1> Mak0_mgi, gradient hair, blue hair, long hair, abs, shark mermaid, shark tail, orange eyes, slit pupils, monster girl, muscular female
+source_anime, (monster girl:1.3), <lora:Monster_Girl:1>
+source_anime, (monster girl:1.3), <lora:Monster_girl_test:1>
+source_anime, (monster girl:1.3), <lora:mon_deepsea_IL_r1:1> monster girl
+source_anime, (monster girl:1.3), <lora:Monster Girl Dragon:1> Monster Girl Dragon, dragon horns, dragon tail, dragon wings
+source_anime, (monster girl:1.3), <lora:monstergirl:1> monster girl
+source_anime, (monster girl:1.3), <lora:cosmongirl_IL:1> monster girl
+source_anime, (monster girl:1.3), <lora:mutated_mongirl_IL:1> monster girl
+source_anime, (scylla:1.3), <lora:Scylla_ILXL:1> monster girl, octopus, suction cups, scylla, no legs, tentacles, tentacle legs, tentacle hair
+source_anime, (zombie:1.3), (zombie girl:1.4), (pale skin:1.5), (empty eyes, no pupils:1.3)**(green skin, blue skin, purple skin, yellow skin, orange skin, red skin:1.5)**
+source_anime, (zombie:1.3), <lora:Undead_Girl_-_UHD_-_Pony:1>, sexy beautiful unde4d, undead, necrotic decaying body, exposed bone, black high ponytail, black lips, pale skin, black nails**(green skin, blue skin, purple skin, yellow skin, orange skin, red skin:1.5)**
 

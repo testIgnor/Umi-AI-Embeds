@@ -1,33 +1,33 @@
-<[model][illu]>source_furry, (wilykit:1.3), thundercats, <lora:10_wilykit_Il:1> w1lyk1t, black striped red hair, red eyes, slit pupils
-<[model][illu]>source_furry, (wilykit:1.3), thundercats, <lora:Wilykit_thundercats_2011:0.75> multicolored hair, yellow eyes, tail
-<[model][illu]>source_anime, (gwen tennyson:1.3), <lora:GwenTennyson_Ben10_illustrious_Leaf1:1> Gwen Tennyson, orange hair, short hair, green eyes, earrings
-<[model][illu]>source_anime, (gwen tennyson:1.3), <lora:GwenTen‐Illus:1> Gwendolyn_Tennyson, orange hair, short hair, green eyes, earrings
-<[model][illu]>source_anime, (gwen tennyson:1.3), <lora:GwenTennyson_rule34_ILL:1> gwendolyn_tennyson, orange hair, short hair, green eyes, hair ornament
-<[model][illu]>source_anime, (velma dinkley:1.3), scooby-doo, glasses
-<[model][illu]>source_anime, (daphne blake:1.3), scooby-doo
-<[model][illu]>source_anime, (stevonnie:1.3), <lora:Stevonnie_Steven_Universe:1> (dark skin, dark-skinned female:1.5), dark hair, black hair, long hair, puffy hair, navel gem
-<[model][pony]>source_furry, (brittany miller:1.3), <lora:BrittanyMillerIllustrious1.0JLFO:0.75> brittney, ponytail, brown hair, blue eyes
-<[model][pony]>source_furry, (brittany miller:1.3), <lora:BrittneyPony1.0:0.75> brittney, ponytail, brown hair, blue eyes
-<[model][pony]>source_furry, (jeanette miller:1.3), <lora:JeanetteMillerIllustrious1.0JLFO:0.75> jeanette, brown hair, hair bun, hair ribbon, glasses
-<[model][pony]>source_furry, (elanor miller:1.3), <lora:EleanorMillerillustrious1.0JLFO:0.75> eleanor, brown eyes, blonde hair, short twintails
-<[model][pony]>source_furry, (alvin seville:1.3), <lora:Alvin_Seville_Alvin_and_the_chipmunks_Pony_XL:0.75> blue eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
-<[model][pony]>source_furry, (simon seville:1.3), <lora:Ghu:0.75> blue eyes, glasses, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
-<[model][pony]>source_furry, (theodore seville:1.3), <lora:Theodore_Seville:0.75> Green eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
-<[model][illu]>source_anime, (coraline jones:1.3), <lora:checkpoint-e100_s1000:1> blue hair, bob cut, medium hair, hairclip, brown eyes, freckles
-<[model][illu]>source_anime, (jade chan:1.3), <lora:Jade_Chan_Jackie_Chan_Adventures_Illustrious:1> jade_jca, black hair, short hair, brown eyes
-<[model][illu]>source_anime, (penny gadget:1.3), <lora:PennyNoobXL_byKonan:1> penny, blonde hair, twintails, blunt bangs, blue eyes
-<[model][pony]>source_furry, (kitty katswell:1.3), t.u.f.f. puppy, <lora:kittykatswell-guy-PONYv1:1> kittykatswell, furry, animal ears
-<[model][pony]>source_furry, (brandy harrington:1.3), brandy and mr. whiskers, <lora:BHITS:1> BHITS
-<[model][illu]>source_anime, (mary test:1.3), <lora:MaryTest_LeafXL_1:1> Mary, Red hair, long hair, high ponytail, blue eyes, glasses, crescent hair ornament
-<[model][illu]>source_anime, (mary test:1.3), <lora:MaryTest_illustrious_Leaf1:1> MaryTest, Red hair, long hair, high ponytail, blue eyes, glasses, crescent hair ornament
-<[model][illu]>source_anime, (susan test:1.3), <lora:SusanTest_LeafXL_2:1> Susan, Red hair, long hair, blunt bangs, blue eyes, glasses, star hair ornament
-<[model][illu]>source_anime, (susan test:1.3), <lora:SusanTest_illustrious_Leaf2:1> SusanTest, Red hair, long hair, blunt bangs, blue eyes, glasses, star hair ornament
-<[model][illu]>source_anime, (jenny test:1.3), <lora:JennyTest_illustrious_Leaf6:1> jennyTest, blonde hair, blue eyes
-<[model][illu]>source_anime, (sissy blakely:1.3), <lora:SissyBlakely_Illustrious_Leaf5:1> SissyBlakely, blue eyes, blonde hair, ponytail, hairband
-<[model][illu]>source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:jenny_wakeman:1> jenny_wakeman
-<[model][illu]>source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:XJ-9:1> xj9
-<[model][illu]>source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:Jenny_Wakeman_PDXL_V2:1> Jenny
-<[model][illu]>source_anime, (jenny wakeman:1.3), twintails, twintails, black eyes, blush stickers, red hair, <lora:JennyHSXLP:1> jennyhs
-<[model][illu]>source_anime, (amanda \(invicible\):1.3), <lora:MonsterGirlA:1> amandaxl, brown ponytail, medium hair, bangs, hairpin, grey eyes
-<[model][illu]>source_anime, (amanda \(invicible\):1.3), <lora:MonsterGirlA:1> MonsB, yellow eyes, shaved, pointy ears, bandages, arm wraps, fangs, colored skin, green skin
-<[model][illu]>source_anime, (amanda \(invicible\):1.3), <lora:monster_girlIL:1> m_g, brown ponytail, medium hair, bangs, hairpin, grey eyes
+source_furry, (wilykit:1.3), thundercats, <lora:10_wilykit_Il:1> w1lyk1t, black striped red hair, red eyes, slit pupils
+source_furry, (wilykit:1.3), thundercats, <lora:Wilykit_thundercats_2011:0.75> multicolored hair, yellow eyes, tail
+source_anime, (gwen tennyson:1.3), <lora:GwenTennyson_Ben10_illustrious_Leaf1:1> Gwen Tennyson, orange hair, short hair, green eyes, earrings
+source_anime, (gwen tennyson:1.3), <lora:GwenTen‐Illus:1> Gwendolyn_Tennyson, orange hair, short hair, green eyes, earrings
+source_anime, (gwen tennyson:1.3), <lora:GwenTennyson_rule34_ILL:1> gwendolyn_tennyson, orange hair, short hair, green eyes, hair ornament
+source_anime, (velma dinkley:1.3), scooby-doo, glasses
+source_anime, (daphne blake:1.3), scooby-doo
+source_anime, (stevonnie:1.3), <lora:Stevonnie_Steven_Universe:1> (dark skin, dark-skinned female:1.5), dark hair, black hair, long hair, puffy hair, navel gem
+source_furry, (brittany miller:1.3), <lora:BrittanyMillerIllustrious1.0JLFO:0.75> brittney, ponytail, brown hair, blue eyes
+source_furry, (brittany miller:1.3), <lora:BrittneyPony1.0:0.75> brittney, ponytail, brown hair, blue eyes
+source_furry, (jeanette miller:1.3), <lora:JeanetteMillerIllustrious1.0JLFO:0.75> jeanette, brown hair, hair bun, hair ribbon, glasses
+source_furry, (elanor miller:1.3), <lora:EleanorMillerillustrious1.0JLFO:0.75> eleanor, brown eyes, blonde hair, short twintails
+source_furry, (alvin seville:1.3), <lora:Alvin_Seville_Alvin_and_the_chipmunks_Pony_XL:0.75> blue eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
+source_furry, (simon seville:1.3), <lora:Ghu:0.75> blue eyes, glasses, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
+source_furry, (theodore seville:1.3), <lora:Theodore_Seville:0.75> Green eyes, (genderswap, as a butch lesbian:1.4), lesbian hairstyle**(bald:2.0), (short hair:0.75)**
+source_anime, (coraline jones:1.3), <lora:checkpoint-e100_s1000:1> blue hair, bob cut, medium hair, hairclip, brown eyes, freckles
+source_anime, (jade chan:1.3), <lora:Jade_Chan_Jackie_Chan_Adventures_Illustrious:1> jade_jca, black hair, short hair, brown eyes
+source_anime, (penny gadget:1.3), <lora:PennyNoobXL_byKonan:1> penny, blonde hair, twintails, blunt bangs, blue eyes
+source_furry, (kitty katswell:1.3), t.u.f.f. puppy, <lora:kittykatswell-guy-PONYv1:1> kittykatswell, furry, animal ears
+source_furry, (brandy harrington:1.3), brandy and mr. whiskers, <lora:BHITS:1> BHITS
+source_anime, (mary test:1.3), <lora:MaryTest_LeafXL_1:1> Mary, Red hair, long hair, high ponytail, blue eyes, glasses, crescent hair ornament
+source_anime, (mary test:1.3), <lora:MaryTest_illustrious_Leaf1:1> MaryTest, Red hair, long hair, high ponytail, blue eyes, glasses, crescent hair ornament
+source_anime, (susan test:1.3), <lora:SusanTest_LeafXL_2:1> Susan, Red hair, long hair, blunt bangs, blue eyes, glasses, star hair ornament
+source_anime, (susan test:1.3), <lora:SusanTest_illustrious_Leaf2:1> SusanTest, Red hair, long hair, blunt bangs, blue eyes, glasses, star hair ornament
+source_anime, (jenny test:1.3), <lora:JennyTest_illustrious_Leaf6:1> jennyTest, blonde hair, blue eyes
+source_anime, (sissy blakely:1.3), <lora:SissyBlakely_Illustrious_Leaf5:1> SissyBlakely, blue eyes, blonde hair, ponytail, hairband
+source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:jenny_wakeman:1> jenny_wakeman
+source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:XJ-9:1> xj9
+source_anime, (jenny wakeman:1.3), twintails, colored skin, white skin, pale skin, aqua hair, black eyes, robot girl, robot joints, android, joints, <lora:Jenny_Wakeman_PDXL_V2:1> Jenny
+source_anime, (jenny wakeman:1.3), twintails, twintails, black eyes, blush stickers, red hair, <lora:JennyHSXLP:1> jennyhs
+source_anime, (amanda \(invicible\):1.3), <lora:MonsterGirlA:1> amandaxl, brown ponytail, medium hair, bangs, hairpin, grey eyes
+source_anime, (amanda \(invicible\):1.3), <lora:MonsterGirlA:1> MonsB, yellow eyes, shaved, pointy ears, bandages, arm wraps, fangs, colored skin, green skin
+source_anime, (amanda \(invicible\):1.3), <lora:monster_girlIL:1> m_g, brown ponytail, medium hair, bangs, hairpin, grey eyes

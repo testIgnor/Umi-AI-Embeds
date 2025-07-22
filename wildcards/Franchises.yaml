@@ -288,7 +288,7 @@
   Tags:
     - Characters
     - Fate
-'<[model][pony]>source_pony, _=Characters/FiM=_, my little pony: friendship is magic, pony anthro':
+'<[model][pony|Any]>source_pony, _=Characters/FiM=_, my little pony: friendship is magic, pony anthro':
   Description:
     - Friendship is Magic Characters
   Tags:
@@ -296,7 +296,7 @@
     - FiM
     - Pony
     - Ponies
-'<[model][pony]>source_pony, _=Characters/FiM=_, my little pony: equestria girls, humanized**(pony anthro, anthro:1.5)**':
+'<[model][pony|Any]>source_pony, _=Characters/FiM=_, my little pony: equestria girls, humanized**(pony anthro, anthro:1.5)**':
   Description:
     - Friendship is Magic Characters
   Tags:
@@ -304,7 +304,7 @@
     - FiM
     - Pony
     - Ponies
-'source_anime, _=Characters/Final Fantasy=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Final Fantasy=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Final Fantasy Characters
   Tags:
@@ -443,7 +443,7 @@
   Tags:
     - Characters
     - Metal Gear
-'_=Characters/Misc=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>_=Characters/Misc=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Uncategorized Characters
   Tags:
@@ -816,7 +816,7 @@
     - Characters
     - Puyopuyo
 
-'_=Characters/Warhammer=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][pony|Any]>_=Characters/Warhammer=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Warhammer Characters
   Tags:
@@ -892,7 +892,7 @@
     - Characters
     - VA-11 Hall-A
 
-'_=Characters/Godzilla=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>_=Characters/Godzilla=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Godzilla Characters
   Tags:
@@ -965,7 +965,7 @@
     - Characters
     - WuWa
 
-'_=Characters/Cartoons=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>_=Characters/Cartoons=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Cartoon Characters
   Tags:
@@ -979,7 +979,7 @@
     - Characters
     - Mana
 
-'<[model][Any]>_=Characters/Pochincoff=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][pony]>_=Characters/Pochincoff=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Pochincoff Characters
   Tags:
@@ -1014,7 +1014,7 @@
     - Characters
     - AHiT
 
-'_=Characters/Sonic=_':
+'<[model][pony|Any]>_=Characters/Sonic=_':
   Description:
     - Sonic Characters
   Tags:
@@ -1084,7 +1084,7 @@
     - Characters
     - Diablo
 
-'_=Characters/SCP=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>_=Characters/SCP=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - SCP Characters
   Tags:

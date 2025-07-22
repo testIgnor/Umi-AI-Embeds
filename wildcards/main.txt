@@ -1,4 +1,4 @@
-[set debugging]0[/set]
+[set debugging]1[/set]
 
 [##]
 Overrides Prompt Properties

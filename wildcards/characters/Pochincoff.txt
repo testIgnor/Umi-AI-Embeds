@@ -1,9 +1,9 @@
-<[model][pony]>source_anime, (drossel:1.3) <lora:pochincoff.pony:0.75>
-<[model][pony]>source_anime, (pinkle:1.3) <lora:pochincoff.pony:0.75>
-<[model][pony]>source_anime, (alma:1.3) <lora:pochincoff.pony:0.75>
-<[model][pony]>source_anime, (una:1.3) <lora:pochincoff.pony:0.75>
-<[model][pony]>source_anime, (feiyan:1.3) <lora:pochincoff.pony:0.75>
-<[model][pony]>source_anime, (blazermate:1.3) <lora:pochincoff.pony:0.75>
-<[model][pony]>source_anime, (jennifer:1.3) <lora:pochincoff.pony:0.75>
-<[model][pony]>source_anime, (orca \(pochincoff\):1.0), (orca:1.3) <lora:pochincoff.pony:0.75>
-<[model][pony]>source_anime, (rebecca \(cyberpunk\):1.0), (rebecca:1.3) <lora:pochincoff.pony:0.75>
+source_anime, (drossel:1.3) <lora:pochincoff.pony:0.75>
+source_anime, (pinkle:1.3) <lora:pochincoff.pony:0.75>
+source_anime, (alma:1.3) <lora:pochincoff.pony:0.75>
+source_anime, (una:1.3) <lora:pochincoff.pony:0.75>
+source_anime, (feiyan:1.3) <lora:pochincoff.pony:0.75>
+source_anime, (blazermate:1.3) <lora:pochincoff.pony:0.75>
+source_anime, (jennifer:1.3) <lora:pochincoff.pony:0.75>
+source_anime, (orca \(pochincoff\):1.0), (orca:1.3) <lora:pochincoff.pony:0.75>
+source_anime, (rebecca \(cyberpunk\):1.0), (rebecca:1.3) <lora:pochincoff.pony:0.75>

@@ -1,87 +1,87 @@
-<[model][illu]>(tifa lockhart:1.3), final fantasy, low-tied long hair, brown hair, red eyes, long hair, black hair
-<[model][illu]>(yuffie kisaragi:1.3), final fantasy, brown eyes, brown hair, short hair, long hair, black hair
-<[model][illu]>(terra branford:1.3), final fantasy, blonde hair, long hair, green hair, blue eyes
-<[model][illu]>(terra branford:1.3), final fantasy, blonde hair, long hair, green hair, blue eyes, <lora:Terra:1> t3rr4
-<[model][illu]>(rydia \(ff4\):1.3), final fantasy, long hair, green eyes, green hair, <lora:ffrydia-illu-nvwls-v1:1> ryd1a
-<[model][illu]>(rydia \(ff4\):1.3), final fantasy, long hair, blue eyes, green hair, <lora:rydia dsff4_illustriousXL:1> rydia dsff4
-<[model][illu]>(white mage \(final fantasy\):1.3), final fantasy, blonde hair, short hair, long hair
-<[model][illu]>(lenna charlotte tycoon:1.3), final fantasy, pink hair, purple hair, short hair, long hair, green eyes
-<[model][illu]>(yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, blue eyes, YUNA_\(FF10\) <lora:YunaPony:1>
-<[model][illu]>(celes chere:1.3), final fantasy, blonde hair, blue eyes, long hair
-<[model][illu]>(garnet til alexandros xvii:1.3), final fantasy, brown eyes, low-tied long hair, brown hair, short hair, blonde hair, long hair, black hair
-<[model][illu]>(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>**(serah farron:1.3), (weather, lightning, storm:1.5)**
-<[model][illu]>(y'shtola rhul:1.3), final fantasy, short hair, white hair, grey eyes, yshtola <lora:Yshtola:1>
-<[model][illu]>(y'shtola rhul:1.3), final fantasy, short hair, white hair, grey eyes, <lora:yshtola_rhul:1>
-<[model][illu]>(faris scherwiz:1.3), final fantasy, green eyes, long hair, purple hair, pink hair
-<[model][illu]>(agrias oaks:1.3), final fantasy, blonde hair, blue eyes, long hair
-<[model][illu]>(venat \(ff14\):1.3), final fantasy, long hair, wavy hair, blue eyes, white hair, v3n4t <lora:v3n4tv2:1>
-<[model][illu]>(venat \(ff14\):1.3), final fantasy, long hair, wavy hair, blue eyes, white hair, v3n4t, corrupted <lora:v3n4tv2:1>
-<[model][illu]>(meteion:1.3), final fantasy, short hair, closed eyes, blue hair, blue eyes, black hair
-<[model][illu]>(rikku \(ff10\):1.3), final fantasy, blonde hair, green eyes, long hair
-<[model][illu]>(rosa farrell:1.3), final fantasy, blonde hair, blue eyes, long hair
-<[model][illu]>(rosa farrell:1.3), final fantasy, blonde hair, blue eyes, long hair, <lora:ffrosa-illu-nvwls-v1:1> ffivrf, half updo
-<[model][illu]>(dancer \(final fantasy\):1.3), final fantasy, blonde hair, long hair, blue eyes, short hair
-<[model][illu]>(fran \(ff12\):1.3), final fantasy, dark-skinned female, red eyes, long hair, white hair, dark skin
-<[model][illu]>(freija crescent:1.3), final fantasy, blonde hair, long hair, short hair, white hair
-<[model][illu]>(selphie tilmitt:1.3), final fantasy, green eyes, short hair, brown hair, flipped hair
-<[model][illu]>(tifa lockhart \(refined dress\):1.3), final fantasy, long hair, brown hair, red eyes, black hair
-<[model][illu]>(ashelia b'nargin dalmasca:1.3), final fantasy, blonde hair, short hair
-<[model][illu]>(yotsuyu goe brutus:1.3), final fantasy, straight hair, long hair, green eyes, black hair
-<[model][illu]>(alisaie leveilleur:1.3), final fantasy, long hair, blue eyes, short hair, white hair, alipony <lora:alipony:1>
-<[model][illu]>(penelo:1.3), final fantasy, blonde hair, blue eyes, long hair
-<[model][illu]>(tifa lockhart \(shining spirit\):1.3), final fantasy, red eyes, long hair, black hair
-<[model][illu]>(relm arrowny:1.3), final fantasy, blonde hair, long hair, blue eyes, short hair
-<[model][illu]>(ultima \(fft\):1.3), final fantasy, grey hair, long hair, red eyes, white hair
-<[model][illu]>(shiva \(final fantasy\):1.3), final fantasy, blue skin, long hair, blue hair, colored skin, blue eyes, SHIVA, GLOWING EYES, CROWN <lora:Shiva:1>
-<[model][illu]>(prishe:1.3), final fantasy, long hair, purple hair, blue eyes
-<[model][illu]>(barbariccia:1.3), final fantasy, blonde hair, long hair, very long hair
-<[model][illu]>(barbariccia:1.3), final fantasy, ffxivbarb, long hair, green skin, green hair <lora:FFXIVBarbariccia:1>
-<[model][illu]>(barbariccia:1.3), final fantasy, ffxivbarb, long hair, green skin, green hair <lora:barbaricca_illustrious:1>
-<[model][illu]>(lulu \(ff10\):1.3), final fantasy, long hair, red eyes, black hair
-<[model][illu]>(cindy aurum:1.3), final fantasy, blonde hair, green eyes, short hair
-<[model][illu]>(beatrix \(ff9\):1.3), final fantasy, long hair, brown eyes, curly hair, brown hair
-<[model][illu]>(angelise reiter:1.3), final fantasy, long hair, blue eyes, hair between eyes, white hair
-<[model][illu]>(jessie rasberry:1.3), final fantasy, long hair, brown eyes, brown hair, black hair
-<[model][illu]>(ysayle dangoulain:1.3), final fantasy, grey hair, long hair, blue eyes, white hair
-<[model][illu]>(white mage \(fft\):1.3), final fantasy, blonde hair, long hair
-<[model][illu]>(hydaelyn:1.3), final fantasy, medium hair, wavy hair, long hair, blue hair, colored skin, blue eyes, white hair, white skin, <lora:CrystalMommy:1>
-<[model][illu]>(nophica:1.3), final fantasy, orange hair, wavy hair, long hair, green eyes <lora:nophica:0.6>
-<[model][illu]>(summoner \(final fantasy\):1.3), final fantasy, blonde hair, long hair, short hair
-<[model][illu]>(tifa lockhart \(cowgirl\):1.3), final fantasy, long hair, brown hair, red eyes, black hair
-<[model][illu]>(trance terra branford:1.3), final fantasy, pink hair, pink skin, green hair, long hair, colored skin, blue eyes <lora:Terra:1> 3sper, furry
-<[model][illu]>(serah farron:1.3), final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>
-<[model][illu]>(zero \(ff14\):1.3), final fantasy, grey eyes, short hair, black hair
-<[model][illu]>(shirma:1.3), final fantasy, pink hair, green eyes, short hair, red hair
-<[model][illu]>(elena \(ff7\):1.3), final fantasy, brown eyes, short hair, blonde hair, long hair, facial hair, red hair, black hair
-<[model][illu]>(hilda ware:1.3), final fantasy, red eyes, long hair, hair between eyes, black hair
-<[model][illu]>(minfilia warde:1.3), final fantasy, blonde hair, long hair, blue eyes, m1nf1l14 <lora:m1nf1l14_v2:1>
-<[model][illu]>(ultimecia:1.3), final fantasy, grey hair, long hair, white hair, yellow eyes
-<[model][illu]>(tifa lockhart \(lifeguard\):1.3), final fantasy, low-tied long hair, brown hair, red eyes, long hair, very long hair, black hair
-<[model][illu]>(porom:1.3), final fantasy, long hair, pink hair, brown hair
-<[model][illu]>(sapphira nyx:1.3), final fantasy, long hair, brown eyes, yellow eyes, black hair
-<[model][illu]>(tsukuyomi \(ff14\):1.3), final fantasy, multicolored skin, two-tone hair, black skin, multicolored hair, split-color hair, long hair, colored skin, blue eyes, white hair, straight hair, two-tone skin, white skin, black hair
-<[model][illu]>(lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>|(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]**(weather, lightning, storm:1.5)**
-<[model][illu]>(garuda \(final fantasy\):1.3), final fantasy, colored skin, GARUDA, GLOWING EYES <lora:Garuda:1>
-<[model][pony]>(ameliance leveilleur:1.3), final fantasy, ahoge, blue eyes, grey hair, white hair, pointy ears, long hair, low ponytail, ameliance <lora:ameliancev5:1>
-<[model][illu]>(ameliance leveilleur:1.3), final fantasy, ahoge, blue eyes, grey hair, white hair, pointy ears, long hair, low ponytail, ameliance <lora:amelianceILv6:1>
-<[model][illu]>(garuda \(final fantasy\):1.3), final fantasy, colored skin, edgGaruda, feathered wings, head wings, multiple wings <lora:edgGarudaPonyv1:1>
-<[model][illu]>(feo ul:1.3), final fantasy, blue eyes, twintails, short twintails, pointy ears, short hair, orange hair, feo_ul <lora:feo_ul:1>
-<[model][illu]>(t'kebbe morh:1.3), final fantasy, cat ears, tail, pink hair, animal ears, pink eyes, short hair, twintails, tk3bb3, miqo'te <lora:FFXIV_Tk3bb3_PonyXL_V1:1>
-<[model][illu]>(zhloe aliapoh:1.3), final fantasy, cat ears, tail, ponytail, blue eyes, animal ears, cat tail, grey hair, zhl0e, miqo'te <lora:FFXIV_Zhloe_PonyXL_V1:1>
-<[model][illu]>(honey b. lovely:1.3), final fantasy, medium hair, green eyes, black hair, yellow eyes, multicolored hair, drill hair, two-tone hair, dark-skinned female, dark skin, blonde hair, hnyb, blunt bangs, facial mark, heterochromia, hnybeetail, wings, bee tail <lora:honeybv3:1>
-<[model][illu]>(kan e senna:1.3), final fantasy, short hair, blonde hair, green eyes, KanESen, white horns, braid <lora:Kan-E-Senna:1>
-<[model][illu]>(khloe aliapoh:1.3), final fantasy, cat ears, tail, blue eyes, brown hair, animal ears, short hair, khl0ealiap0h, miqo'te <lora:Khl0eAliap0h_PonyXL_V1:1>
-<[model][illu]>(lyse hext:1.3), final fantasy, blue eyes, ponytail, blonde hair, lyse <lora:lyse:1>
-<[model][illu]>(omega-f:1.3), final fantasy, ponytail, grey hair, white hair, colored skin, white skin, red eyes, long hair, omega_f <lora:omega_f:1>
-<[model][illu]>(ryne waters:1.3), final fantasy, orange hair, long hair, blue eyes <lora:ryne-pdxl-nvwls-v1:1>
-<[model][illu]>(ryne waters:1.3), final fantasy, orange hair, long hair, blue eyes, xivrayne <lora:FF_RyneGaia-PONY:1>
-<[model][illu]>(gaia \(ff14\):1.3), final fantasy, black hair, long hair, blue eyes, xivgaia <lora:FF_RyneGaia-PONY:1>
-<[model][illu]>(wicked thunder \(ff14\):1.3), final fantasy, tail, multicolored hair, horse tail, glowing eyes, grey hair, pink hair, dark-skinned female, animal ears, horse ears, dark skin, gradient hair, w1ck3d, monster girl, hooves, glowing eyes, striped fur <lora:Wicked_thunder_XIV:1>**(weather, lightning, storm:1.5)**
-<[model][pony]>(wicked thunder \(ff14\):1.3), final fantasy, tail, multicolored hair, horse tail, glowing eyes, grey hair, pink hair, dark-skinned female, animal ears, horse ears, dark skin, gradient hair, wckthund3r, monster girl, claws, single horn, anthro, white eyes, no pupils, fluffy tail, hooves <lora:wickedthunder:1>**(weather, lightning, storm:1.5)**
-<[model][illu]>(yaana \(ff14\):1.3), final fantasy, blue hair, cat ears, tail, multicolored hair, pink hair, streaked hair, two-tone hair, dark-skinned female, animal ears, yellow eyes, short hair, cat tail, dark skin, yaana <lora:yaana:1>
-<[model][illu]>(ysayle dangoulain:1.3), final fantasy, blue eyes, grey hair, pointy ears, long hair, ysayle <lora:ysayle:1>
-<[model][illu]>(bahamut:1.3), final fantasy, (genderswap:1.5), (anthro:1.3), <lora:Bahamutv3:1> b4h4_ff7, dragon, mecha, black skin, yellow sclera, no pupils
-<[model][illu]>(bahamut:1.3), final fantasy, (genderswap:1.5), (anthro:1.3), <lora:Bahamutv3:1> b4h4_ffx, dragon, dark skin, yellow sclera, no pupils
-<[model][illu]>(bahamut:1.3), final fantasy, (genderswap:1.5), (anthro:1.3), <lora:Bahamutv3:1> b4h4_ffm, dragon, purple skin, yellow sclera, no pupils
-<[model][illu]>(cloud of darkness:1.3), final fantasy, <lora:cloud_of_darkness:1> cod
-<[model][illu]>(cosmos\(final fantasy\):1.3), final fantasy, <lora:Cosmos:0.8> c0sm0s, blonde hair, blue eyes, long hair**cloud strife, pointed ears, cosmos \(plant\), cosmos \(flower\)**
+(tifa lockhart:1.3), final fantasy, low-tied long hair, brown hair, red eyes, long hair, black hair
+(yuffie kisaragi:1.3), final fantasy, brown eyes, brown hair, short hair, long hair, black hair
+(terra branford:1.3), final fantasy, blonde hair, long hair, green hair, blue eyes
+(terra branford:1.3), final fantasy, blonde hair, long hair, green hair, blue eyes, <lora:Terra:1> t3rr4
+(rydia \(ff4\):1.3), final fantasy, long hair, green eyes, green hair, <lora:ffrydia-illu-nvwls-v1:1> ryd1a
+(rydia \(ff4\):1.3), final fantasy, long hair, blue eyes, green hair, <lora:rydia dsff4_illustriousXL:1> rydia dsff4
+(white mage \(final fantasy\):1.3), final fantasy, blonde hair, short hair, long hair
+(lenna charlotte tycoon:1.3), final fantasy, pink hair, purple hair, short hair, long hair, green eyes
+(yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, blue eyes, YUNA_\(FF10\) <lora:YunaPony:1>
+(celes chere:1.3), final fantasy, blonde hair, blue eyes, long hair
+(garnet til alexandros xvii:1.3), final fantasy, brown eyes, low-tied long hair, brown hair, short hair, blonde hair, long hair, black hair
+(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>**(serah farron:1.3), (weather, lightning, storm:1.5)**
+(y'shtola rhul:1.3), final fantasy, short hair, white hair, grey eyes, yshtola <lora:Yshtola:1>
+(y'shtola rhul:1.3), final fantasy, short hair, white hair, grey eyes, <lora:yshtola_rhul:1>
+(faris scherwiz:1.3), final fantasy, green eyes, long hair, purple hair, pink hair
+(agrias oaks:1.3), final fantasy, blonde hair, blue eyes, long hair
+(venat \(ff14\):1.3), final fantasy, long hair, wavy hair, blue eyes, white hair, v3n4t <lora:v3n4tv2:1>
+(venat \(ff14\):1.3), final fantasy, long hair, wavy hair, blue eyes, white hair, v3n4t, corrupted <lora:v3n4tv2:1>
+(meteion:1.3), final fantasy, short hair, closed eyes, blue hair, blue eyes, black hair
+(rikku \(ff10\):1.3), final fantasy, blonde hair, green eyes, long hair
+(rosa farrell:1.3), final fantasy, blonde hair, blue eyes, long hair
+(rosa farrell:1.3), final fantasy, blonde hair, blue eyes, long hair, <lora:ffrosa-illu-nvwls-v1:1> ffivrf, half updo
+(dancer \(final fantasy\):1.3), final fantasy, blonde hair, long hair, blue eyes, short hair
+(fran \(ff12\):1.3), final fantasy, dark-skinned female, red eyes, long hair, white hair, dark skin
+(freija crescent:1.3), final fantasy, blonde hair, long hair, short hair, white hair
+(selphie tilmitt:1.3), final fantasy, green eyes, short hair, brown hair, flipped hair
+(tifa lockhart \(refined dress\):1.3), final fantasy, long hair, brown hair, red eyes, black hair
+(ashelia b'nargin dalmasca:1.3), final fantasy, blonde hair, short hair
+(yotsuyu goe brutus:1.3), final fantasy, straight hair, long hair, green eyes, black hair
+(alisaie leveilleur:1.3), final fantasy, long hair, blue eyes, short hair, white hair, alipony <lora:alipony:1>
+(penelo:1.3), final fantasy, blonde hair, blue eyes, long hair
+(tifa lockhart \(shining spirit\):1.3), final fantasy, red eyes, long hair, black hair
+(relm arrowny:1.3), final fantasy, blonde hair, long hair, blue eyes, short hair
+(ultima \(fft\):1.3), final fantasy, grey hair, long hair, red eyes, white hair
+(shiva \(final fantasy\):1.3), final fantasy, blue skin, long hair, blue hair, colored skin, blue eyes, SHIVA, GLOWING EYES, CROWN <lora:Shiva:1>
+(prishe:1.3), final fantasy, long hair, purple hair, blue eyes
+(barbariccia:1.3), final fantasy, blonde hair, long hair, very long hair
+(barbariccia:1.3), final fantasy, ffxivbarb, long hair, green skin, green hair <lora:FFXIVBarbariccia:1>
+(barbariccia:1.3), final fantasy, ffxivbarb, long hair, green skin, green hair <lora:barbaricca_illustrious:1>
+(lulu \(ff10\):1.3), final fantasy, long hair, red eyes, black hair
+(cindy aurum:1.3), final fantasy, blonde hair, green eyes, short hair
+(beatrix \(ff9\):1.3), final fantasy, long hair, brown eyes, curly hair, brown hair
+(angelise reiter:1.3), final fantasy, long hair, blue eyes, hair between eyes, white hair
+(jessie rasberry:1.3), final fantasy, long hair, brown eyes, brown hair, black hair
+(ysayle dangoulain:1.3), final fantasy, grey hair, long hair, blue eyes, white hair
+(white mage \(fft\):1.3), final fantasy, blonde hair, long hair
+(hydaelyn:1.3), final fantasy, medium hair, wavy hair, long hair, blue hair, colored skin, blue eyes, white hair, white skin, <lora:CrystalMommy:1>
+(nophica:1.3), final fantasy, orange hair, wavy hair, long hair, green eyes <lora:nophica:0.6>
+(summoner \(final fantasy\):1.3), final fantasy, blonde hair, long hair, short hair
+(tifa lockhart \(cowgirl\):1.3), final fantasy, long hair, brown hair, red eyes, black hair
+(trance terra branford:1.3), final fantasy, pink hair, pink skin, green hair, long hair, colored skin, blue eyes <lora:Terra:1> 3sper, furry
+(serah farron:1.3), final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>
+(zero \(ff14\):1.3), final fantasy, grey eyes, short hair, black hair
+(shirma:1.3), final fantasy, pink hair, green eyes, short hair, red hair
+(elena \(ff7\):1.3), final fantasy, brown eyes, short hair, blonde hair, long hair, facial hair, red hair, black hair
+(hilda ware:1.3), final fantasy, red eyes, long hair, hair between eyes, black hair
+(minfilia warde:1.3), final fantasy, blonde hair, long hair, blue eyes, m1nf1l14 <lora:m1nf1l14_v2:1>
+(ultimecia:1.3), final fantasy, grey hair, long hair, white hair, yellow eyes
+(tifa lockhart \(lifeguard\):1.3), final fantasy, low-tied long hair, brown hair, red eyes, long hair, very long hair, black hair
+(porom:1.3), final fantasy, long hair, pink hair, brown hair
+(sapphira nyx:1.3), final fantasy, long hair, brown eyes, yellow eyes, black hair
+(tsukuyomi \(ff14\):1.3), final fantasy, multicolored skin, two-tone hair, black skin, multicolored hair, split-color hair, long hair, colored skin, blue eyes, white hair, straight hair, two-tone skin, white skin, black hair
+(lumina farron:1.3), [serah farron, final fantasy, pink hair, blue eyes, long hair, side ponytail, SERAH_FARRON <lora:SerahFarron:1>|(claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>]**(weather, lightning, storm:1.5)**
+(garuda \(final fantasy\):1.3), final fantasy, colored skin, GARUDA, GLOWING EYES <lora:Garuda:1>
+(ameliance leveilleur:1.3), final fantasy, ahoge, blue eyes, grey hair, white hair, pointy ears, long hair, low ponytail, ameliance <lora:ameliancev5:1>
+(ameliance leveilleur:1.3), final fantasy, ahoge, blue eyes, grey hair, white hair, pointy ears, long hair, low ponytail, ameliance <lora:amelianceILv6:1>
+(garuda \(final fantasy\):1.3), final fantasy, colored skin, edgGaruda, feathered wings, head wings, multiple wings <lora:edgGarudaPonyv1:1>
+(feo ul:1.3), final fantasy, blue eyes, twintails, short twintails, pointy ears, short hair, orange hair, feo_ul <lora:feo_ul:1>
+(t'kebbe morh:1.3), final fantasy, cat ears, tail, pink hair, animal ears, pink eyes, short hair, twintails, tk3bb3, miqo'te <lora:FFXIV_Tk3bb3_PonyXL_V1:1>
+(zhloe aliapoh:1.3), final fantasy, cat ears, tail, ponytail, blue eyes, animal ears, cat tail, grey hair, zhl0e, miqo'te <lora:FFXIV_Zhloe_PonyXL_V1:1>
+(honey b. lovely:1.3), final fantasy, medium hair, green eyes, black hair, yellow eyes, multicolored hair, drill hair, two-tone hair, dark-skinned female, dark skin, blonde hair, hnyb, blunt bangs, facial mark, heterochromia, hnybeetail, wings, bee tail <lora:honeybv3:1>
+(kan e senna:1.3), final fantasy, short hair, blonde hair, green eyes, KanESen, white horns, braid <lora:Kan-E-Senna:1>
+(khloe aliapoh:1.3), final fantasy, cat ears, tail, blue eyes, brown hair, animal ears, short hair, khl0ealiap0h, miqo'te <lora:Khl0eAliap0h_PonyXL_V1:1>
+(lyse hext:1.3), final fantasy, blue eyes, ponytail, blonde hair, lyse <lora:lyse:1>
+(omega-f:1.3), final fantasy, ponytail, grey hair, white hair, colored skin, white skin, red eyes, long hair, omega_f <lora:omega_f:1>
+(ryne waters:1.3), final fantasy, orange hair, long hair, blue eyes <lora:ryne-pdxl-nvwls-v1:1>
+(ryne waters:1.3), final fantasy, orange hair, long hair, blue eyes, xivrayne <lora:FF_RyneGaia-PONY:1>
+(gaia \(ff14\):1.3), final fantasy, black hair, long hair, blue eyes, xivgaia <lora:FF_RyneGaia-PONY:1>
+(wicked thunder \(ff14\):1.3), final fantasy, tail, multicolored hair, horse tail, glowing eyes, grey hair, pink hair, dark-skinned female, animal ears, horse ears, dark skin, gradient hair, w1ck3d, monster girl, hooves, glowing eyes, striped fur <lora:Wicked_thunder_XIV:1>**(weather, lightning, storm:1.5)**
+(wicked thunder \(ff14\):1.3), final fantasy, tail, multicolored hair, horse tail, glowing eyes, grey hair, pink hair, dark-skinned female, animal ears, horse ears, dark skin, gradient hair, wckthund3r, monster girl, claws, single horn, anthro, white eyes, no pupils, fluffy tail, hooves <lora:wickedthunder:1>**(weather, lightning, storm:1.5)**
+(yaana \(ff14\):1.3), final fantasy, blue hair, cat ears, tail, multicolored hair, pink hair, streaked hair, two-tone hair, dark-skinned female, animal ears, yellow eyes, short hair, cat tail, dark skin, yaana <lora:yaana:1>
+(ysayle dangoulain:1.3), final fantasy, blue eyes, grey hair, pointy ears, long hair, ysayle <lora:ysayle:1>
+(bahamut:1.3), final fantasy, (genderswap:1.5), (anthro:1.3), <lora:Bahamutv3:1> b4h4_ff7, dragon, mecha, black skin, yellow sclera, no pupils
+(bahamut:1.3), final fantasy, (genderswap:1.5), (anthro:1.3), <lora:Bahamutv3:1> b4h4_ffx, dragon, dark skin, yellow sclera, no pupils
+(bahamut:1.3), final fantasy, (genderswap:1.5), (anthro:1.3), <lora:Bahamutv3:1> b4h4_ffm, dragon, purple skin, yellow sclera, no pupils
+(cloud of darkness:1.3), final fantasy, <lora:cloud_of_darkness:1> cod
+(cosmos\(final fantasy\):1.3), final fantasy, <lora:Cosmos:0.8> c0sm0s, blonde hair, blue eyes, long hair**cloud strife, pointed ears, cosmos \(plant\), cosmos \(flower\)**
