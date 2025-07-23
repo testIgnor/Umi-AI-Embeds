@@ -15,9 +15,10 @@
 [(mia fey:1.3), ace attorney, miafeyspiritdg <lora:Mia Fey DG illuLoRA:1>|(maya fey:1.0), ace attorney <lora:aa_mayafey_ponyXL:1>], (black hair:1.2), blunt bangs, long hair, half updo, topknot, low-tied long hair, mole under mouth**(brown hair)**
 (mia fey:1.3), (maya fey:1.0), ace attorney, (black hair:1.2), long hair, blue eyes, half updo, miafeyspiritdg, mole under mouth <lora:Mia Fey DG illuLoRA:1>**(brown hair)**
 (mia fey:1.3), (maya fey:1.0), ace attorney, (black hair:1.2), long hair, blue eyes, half updo, <lora:aa_mayafey_ponyXL:1>, miafeyspiritdg, mole under mouth <lora:Mia Fey DG illuLoRA:1>**(brown hair)**
-(mia fey:1.3), ace attorney, miafeyspiritdg <lora:Mia Fey DG illuLoRA:1>, (pearl fey:1.0), ace attorney, pearlfeyold <lora:PearlFeyXL:1>, pearl fey possessed by mia fey, brown hair, hair rings, short hair, hair beads, asymmetrical sidelocks, brown eyes, mole under mouth**(long hair, half updo:1.5)**
-(mia fey:1.3), (pearl fey:1.0), ace attorney, brown hair, hair rings, short hair, hair beads, asymmetrical sidelocks, brown eyes, <lora:Pearl_Fey_IL_v1:1> channeled mia, mole under mouth, pearl fey possessed by mia fey
+(mia fey:1.3), ace attorney, miafeyspiritdg <lora:Mia Fey DG illuLoRA:1>, (pearl fey:1.0), ace attorney, pearlfeyold <lora:PearlFeyXL:1>, brown hair, hair rings, short hair, hair beads, asymmetrical sidelocks, brown eyes, mole under mouth**(long hair, half updo:1.5)**
+(mia fey:1.3), (pearl fey:0.5), ace attorney, brown hair, hair rings, short hair, hair beads, asymmetrical sidelocks, brown eyes, <lora:Pearl_Fey_IL_v1:1> channeled mia, mole under mouth**(long hair, half updo:1.5)**
 [(mia fey:1.3), ace attorney, miafeyspiritdg <lora:Mia Fey DG illuLoRA:1>|(pearl fey:1.0), ace attorney, pearlfeyold <lora:PearlFeyXL:1>], brown hair, hair rings, short hair, hair beads, asymmetrical sidelocks, brown eyes, mole under mouth**(long hair, half updo:1.5)**
+[(mia fey:1.3), ace attorney, miafeyspiritdg <lora:Mia Fey DG illuLoRA:1>|(mia fey:1.3), (pearl fey:0.5), ace attorney, <lora:Pearl_Fey_IL_v1:1> channeled mia], brown hair, hair rings, short hair, hair beads, asymmetrical sidelocks, brown eyes, mole under mouth**(long hair, half updo:1.5)**
 (mia fey:1.3), ace attorney, brown eyes, brown hair, long hair, mole under mouth
 (mia fey:1.3), ace attorney, brown eyes, brown hair, long hair, miafeyattorneydg, mole under mouth <lora:Mia Fey Attorney PXL v01:1>
 (mia fey:1.3), ace attorney, brown eyes, brown hair, long hair, miafeyattorneydg, mole under mouth <lora:Mia Fey DG illuLoRA:1>
