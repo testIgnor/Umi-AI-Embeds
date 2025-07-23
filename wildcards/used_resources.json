@@ -2164,6 +2164,14 @@
             "ss_name": "Liberator-Azarin_illus",
             "baseModel": "Illustrious"
         },
+        "LightDragonZelda": {
+            "ss_name": "LightDragonZelda",
+            "baseModel": "Illustrious"
+        },
+        "Light_Dragon_Anthro_The_legend_of_Zelda_TOTK-000008": {
+            "ss_name": "Light_Dragon_Anthro_The_legend_of_Zelda_TOTK",
+            "baseModel": "Illustrious"
+        },
         "LiliT8-07": {
             "ss_name": "LiliT8",
             "baseModel": "Illustrious"
@@ -4222,6 +4230,10 @@
         },
         "sports bra_noobai_V1.0": {
             "ss_name": "sports bra_noobai_V1.0",
+            "baseModel": "NoobAI"
+        },
+        "TLOZ_LightDragon_a1_6_NoobXL-eps_spnlora1_th-0.7": {
+            "ss_name": "TLOZ_LightDragon_a1_6_NoobXL-eps",
             "baseModel": "NoobAI"
         },
         "towel_noobai_V1.0": {
@@ -11420,6 +11432,12 @@
         "Liberator-Azarin_illus": [
             "Liberator-Azarin_illus"
         ],
+        "LightDragonZelda": [
+            "LightDragonZelda"
+        ],
+        "Light_Dragon_Anthro_The_legend_of_Zelda_TOTK": [
+            "Light_Dragon_Anthro_The_legend_of_Zelda_TOTK-000008"
+        ],
         "LiliT8": [
             "LiliT8-07",
             "LiliT8-10"
@@ -12941,6 +12959,9 @@
         ],
         "sports bra_noobai_V1.0": [
             "sports bra_noobai_V1.0"
+        ],
+        "TLOZ_LightDragon_a1_6_NoobXL-eps": [
+            "TLOZ_LightDragon_a1_6_NoobXL-eps_spnlora1_th-0.7"
         ],
         "towel_noobai_V1.0": [
             "towel_noobai_V1.0"
