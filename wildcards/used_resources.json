@@ -428,6 +428,14 @@
             "ss_name": "Bahamutv3",
             "baseModel": "Illustrious"
         },
+        "BallerinaGirlyMeshTeddyLingerieILL": {
+            "ss_name": "BallerinaGirlyMeshTeddyLingerieILL",
+            "baseModel": "Illustrious"
+        },
+        "balletdress-winx-IL": {
+            "ss_name": "balletdress-winx-IL",
+            "baseModel": "Illustrious"
+        },
         "barbaricca_illustrious": {
             "ss_name": "barbaricca_illustrious",
             "baseModel": "Illustrious"
@@ -10109,6 +10117,12 @@
         ],
         "Bahamutv3": [
             "Bahamutv3"
+        ],
+        "BallerinaGirlyMeshTeddyLingerieILL": [
+            "BallerinaGirlyMeshTeddyLingerieILL"
+        ],
+        "balletdress-winx-IL": [
+            "balletdress-winx-IL"
         ],
         "barbaricca_illustrious": [
             "barbaricca_illustrious"

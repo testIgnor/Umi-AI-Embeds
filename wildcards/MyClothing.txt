@@ -94,6 +94,10 @@ mecha pilot bodysuit, pilot bodysuit, mech pilot suit, <[ezcovered][get eff_gen 
 <lora:th1nbodysu1t:1> th1nbodysu1t, highleg, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:th1nbodysu1t:1> th1nbodysu1t, highleg, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:bodystocking noob e1:1> bodystocking
+<lora:BallerinaGirlyMeshTeddyLingerieILL:1> lingerie, leotard, cleavage
+<lora:BallerinaGirlyMeshTeddyLingerieILL:1> lingerie, leotard, cleavage, <[covered][lower][get eff_gen _before=[ _after=]]>
+<lora:BallerinaGirlyMeshTeddyLingerieILL:1> lingerie, leotard, cleavage, <[covered][upper][get eff_gen _before=[ _after=]]>
+<lora:BallerinaGirlyMeshTeddyLingerieILL:1> lingerie, leotard, cleavage, <[ezcovered][get eff_gen _before=[ _after=]]>
 [/tags]
 
 [tags clothing clothing_type="bunnysuit"]
@@ -507,6 +511,10 @@ exhibitionism, <lora:bw_ero_ilxl:1> body writing, bodypaint \(ero\), <[eznude][g
 <lora:transparent_bunnysuit:1> translucent bunnysuit, rabbit ears, see-through leotard
 <lora:towel_noobai_V1.0:1> towel, naked towel
 <lora:see-through-silhouette-v2-illustriousxl-lora-nochekaiser:1>, see-through silhouette, blush, dress, bare shoulders, sleeveless, armpits, white dress, covered nipples, see-through, sleeveless dress, no bra, no panties, nightgown, see-through dress, backlighting
+<lora:balletdress-winx-IL:1>, ballet dress, tutu, [choose][call wildcards/colors][/choose] pantyhose, sparkly pantyhose, ballet slippers, xwinxballetx
+<lora:balletdress-winx-IL:1>, ballet dress, tutu, [choose][call wildcards/colors][/choose] pantyhose, sparkly pantyhose, ballet slippers, xwinxballetx, <[covered][lower][get eff_gen _before=[ _after=]]>
+<lora:balletdress-winx-IL:1>, ballet dress, tutu, [choose][call wildcards/colors][/choose] pantyhose, sparkly pantyhose, ballet slippers, xwinxballetx, <[covered][upper][get eff_gen _before=[ _after=]]>
+<lora:balletdress-winx-IL:1>, ballet dress, tutu, [choose][call wildcards/colors][/choose] pantyhose, sparkly pantyhose, ballet slippers, xwinxballetx, <[ezcovered][get eff_gen _before=[ _after=]]>
 [if "'futanari' in eff_gen"]
 <lora:DownbulgeIL:1> down_bulge
 <lora:upbulgeIL:1> north_bulge, curved_bulge
