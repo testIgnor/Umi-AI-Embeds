@@ -398,6 +398,7 @@ by john doe, <lora:john_doe:1> S4s4k1Nsfw
 <lora:RetroXL:1> r3tr0styl3, artist style: urushihara satoshi, 1990s_\(style\), 1980s_\(style\)
 <lora:shojo_artstyle_illustriousXL:1> shojo_artstyle, retro artstyle
 <lora:mahou_shoujo_ai:1> mahou shoujo ai
+<lora:elden_ring_style_illustriousXL:1> elden_ring_style
 [by cian yo, <lora:Earthbound_-_Cian_Yo_Style_-_ILLUSTRIOUSXL:0.8> cianyo_style|by dandon fuga]
 [by john doe, <lora:jdart:1> jdart style|by diathorn, <lora:DiathornILf:1> d1ailf]
 [by john doe, <lora:jdart:1> jdart style|by dandon fuga]

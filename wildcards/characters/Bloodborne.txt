@@ -9,11 +9,18 @@
 (vicar amelia:1.3), bloodborne, covered eyes, <lora:HerrscherAGGA2024_Vicar_Amelia_PONY_V1:0.6> vicar amelia \(bloodborne\), Vicar_Human
 (melina:1.3), elden ring, <lora:Melina - Elden Ring:1> m3lina, scar across eye, facial tattoo, one eye closed, yellow eyes, brown hair, medium hair
 (melina:1.3), elden ring, <lora:Melina_pdxl_Incrs_v2:1> IncrsMelina, scar across eye, facial tattoo, one eye closed, yellow eyes, brown hair, medium hair
+(melina:1.3), elden ring, <lora:Melina - Elden Ring (NoobAI):1>, scar across eye, facial tattoo, one eye closed, yellow eyes, brown hair, medium hair
+(melina:1.3), elden ring, <lora:P-IL-Melina:1>, scar across eye, facial tattoo, one eye closed, yellow eyes, brown hair, medium hair
 (recluse:1.3), elden ring, <lora:PonyRecluseER:1> RecluseER, colored skin, black skin, lips, very long hair, white hair
 (recluse:1.3), elden ring, <lora:Recluse_Elden_Ring_Nightreign_-_Illustrious_V3:1> recluse \(elden ring\), colored skin, black skin, lips, very long hair, white hair
 (recluse:1.3), elden ring, <lora:ER_Recluse-PONY:1> errecluse, colored skin, black skin, lips, very long hair, white hair
 (recluse:1.3), elden ring, <lora:recluse_50_v3_IL20stable:1> recluse \(elden ring\), colored skin, black skin, lips, very long hair, white hair
 (recluse:1.3), elden ring, <lora:iLLRecluseERN:1> iLLRecluseERN, colored skin, black skin, lips, very long hair, white hair
+(recluse:1.3), elden ring, <lora:Recluse - Elden Ring (NoobAI):1>, colored skin, black skin, lips, very long hair, white hair
+(recluse:1.3), elden ring, <lora:Recluse_Illu_Dwnsty:1> r3clus3long, colored skin, black skin, lips, very long hair, white hair
+(recluse:1.3), elden ring, <lora:Recluse_Illu_Dwnsty:1> r3clus3, colored skin, black skin, lips, very long hair, white hair
+(recluse:1.3), elden ring, <lora:RecluseK112:1>, colored skin, black skin, lips, very long hair, white hair
+(recluse:1.3), elden ring, <lora:recluse-er-richy-v1_ixl:1> rcls, colored skin, black skin, lips, very long hair, white hair
 (roderika:1.3), elden ring, <lora:roderika:1> roderika, elden ring
 (hyetta:1.3), elden ring, <lora:T1:1> hyetta \(elden ring\), short ponytail
 (ranni:1.3), elden ring, <lora:Ranni_illusXLNoobAI_Incrs_v1:1> RnnDef, blue eyes, one eye closed, blue hair, wavy hair, (4 arms:1.2), extra faces, ghost face, blue skin, colored skin, cracked skin, doll joints
@@ -25,7 +32,17 @@
 (elden beast:1.3), elden ring, <lora:elden_beast_girlエクレアぢゃん2:1> monster girl, colored skin, yellow eyes, glowing, wings, tentacles
 (elden beast:1.3), elden ring, <lora:EldenBeastF:1> monster, no humans, colored skin, yellow eyes, glowing, wings, tentacles
 (sellen:1.3), elden ring, <lora:ER_Sellen-PONY:1> ersellen
-(rya:1.3), elden ring, <lora:ER_Rya-PONY:1> errya
+(rya:1.3), elden ring, Twin braids, blonde hair, braid, green eyes, braided hair rings, mole under mouth, <lora:ER_Rya-PONY:1> errya
+(rya:1.3), elden ring, Twin braids, blonde hair, braid, green eyes, braided hair rings, mole under mouth, <lora:Vlad ILL:1> Rya
+(rya:1.3), elden ring, Twin braids, blonde hair, braid, green eyes, braided hair rings, mole under mouth, <lora:Rya:1> ry4
 (miquella:1.3), elden ring, <lora:ER_Miquella-PONY:1> ermiquella
-(marika:1.3), elden ring, <lora:ER_Marika-PONY:1> ermarika
-(marika:1.3), elden ring, <lora:ER_MarikaV1-IL:1> ermar1ka
+(queen marika:1.3), elden ring, <lora:ER_Marika-PONY:1> ermarika, blonde hair, braid, long hair, yellow eyes
+(queen marika:1.3), elden ring, <lora:ER_MarikaV1-IL:1> ermar1ka, blonde hair, braid, long hair, yellow eyes
+(queen marika:1.3), elden ring, <lora:Elden Ring - Queen Marika:1> Queen Marika, blonde hair, braid, long hair, yellow eyes
+(revenant \(elden ring\):1.3), elden ring, <lora:revenant_er:1> revenant \(elden ring\), white eyebrows, blue eyes, white hair, long hair, braid, pale skin, blue flower crown, hair ornament
+(revenant \(elden ring\):1.3), elden ring, <lora:iLLRevenantERN:1> iLLRevenantERN, white eyebrows, blue eyes, white hair, long hair, braid, pale skin, blue flower crown, hair ornament
+(revenant \(elden ring\):1.3), elden ring, <lora:revenant-er-richy-v1_ixl:1> rvnt, white eyebrows, blue eyes, white hair, long hair, braid, pale skin, blue flower crown, hair ornament
+(revenant \(elden ring\):1.3), elden ring, <lora:elden ring nightreign 復讐者:1> nightreign-revenant, white eyebrows, blue eyes, white hair, long hair, braid, pale skin, blue flower crown, hair ornament
+(duchess \(elden ring\):1.3), elden ring, eye mask, covered eyes, blonde hair, long hair, ponytail, <lora:iLLDuchessER:1> DuchessER
+(duchess \(elden ring\):1.3), elden ring, eye mask, covered eyes, blonde hair, long hair, ponytail, <lora:duchess-er-richy-v1_ixl:1> dchss
+(duchess \(elden ring\):1.3), elden ring, eye mask, covered eyes, blonde hair, long hair, ponytail, <lora:Elden Ring Nightreign Duchess:1> Duchess
