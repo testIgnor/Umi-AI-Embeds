@@ -13,7 +13,7 @@ upper
 [/set]
 [/chance]
 
-[chance 0]
+[chance 50]
 [call choose_franchise_simple]
 [call set_age gender="{get gender}"]
 [/chance]
@@ -70,11 +70,13 @@ characters
 [/set]
 [set franchise]
 [choose]
-Warhammer
+Zelda
+Bloodborne
+Ace Attorney
 [/choose]
 [/set]
 
-[chance 50]
+[chance 0]
 [set characterType]
 [choose]
 myspecies
