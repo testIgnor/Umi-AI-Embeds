@@ -70,13 +70,27 @@ characters
 [/set]
 [set franchise]
 [choose]
-Zelda
-Bloodborne
-Ace Attorney
+Godzilla
+SCP
 [/choose]
 [/set]
 
-[chance 0]
+[chance 10]
+[set characterType]
+[choose]
+characters
+[/choose]
+[/set]
+[set franchise]
+[choose]
+Mechagodzilla
+Fortnite
+Ookami
+[/choose]
+[/set]
+[/chance]
+
+[chance 25]
 [set characterType]
 [choose]
 myspecies
@@ -84,7 +98,7 @@ myspecies
 [/set]
 [set franchise]
 [choose]
-Warhammer
+Franxx
 [/choose]
 [/set]
 [/chance]
