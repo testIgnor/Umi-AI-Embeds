@@ -6,7 +6,10 @@
 (rydia \(ff4\):1.3), final fantasy, long hair, blue eyes, green hair, <lora:rydia dsff4_illustriousXL:1> rydia dsff4
 (white mage \(final fantasy\):1.3), final fantasy, blonde hair, short hair, long hair
 (lenna charlotte tycoon:1.3), final fantasy, pink hair, purple hair, short hair, long hair, green eyes
-(yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, green eyes, blue eyes, YUNA_\(FF10\) <lora:YunaPony:1>
+(yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, asymmetrical hair, heterochromia, green eyes, blue eyes, YUNA_\(FF10\) <lora:YunaPony:1>
+(yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, asymmetrical hair, heterochromia, green eyes, blue eyes, <lora:YunaFFXSongstress:1> FFXS0NG
+(yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, asymmetrical hair, heterochromia, green eyes, blue eyes, <lora:YunaFFX-2Illustrious:1> YNAFFX2
+(yuna \(ff10\):1.3), final fantasy, brown hair, short hair, blonde hair, asymmetrical hair, heterochromia, green eyes, blue eyes, <lora:YunaSummonerIllustrious:1> YNFFX
 (celes chere:1.3), final fantasy, blonde hair, blue eyes, long hair
 (garnet til alexandros xvii:1.3), final fantasy, brown eyes, low-tied long hair, brown hair, short hair, blonde hair, long hair, black hair
 (claire farron:1.3), lightning farron, final fantasy, pink hair, blue eyes, long hair, lightningfarron <lora:ffxiii_lightning_ponyXL:1>**(serah farron:1.3), (weather, lightning, storm:1.5)**

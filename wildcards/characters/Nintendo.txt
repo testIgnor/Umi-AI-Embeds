@@ -1,6 +1,7 @@
-(booette:1.3), princess king boo, red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes, <lora:shiBowsetteV1:1> shiprinrng**(boo:2.0)**
-(booette:1.3), princess king boo, red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes, <lora:NSBooetteMari:1> NSBooetteMari**(boo:2.0)**
-(booette:1.3), princess king boo, red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes, <lora:princess-king-boo-ponyxl-lora-nochekaiser:1> princess king boo**(boo:2.0)**
+(booette:1.3), princess king boo, red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes, sharp teeth, <lora:shiBowsetteV1:1> shiprinrng**(boo:2.0)**
+(booette:1.3), princess king boo, red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes, sharp teeth, <lora:NSBooetteMari:1> NSBooetteMari**(boo:2.0)**
+(booette:1.3), princess king boo, red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes, sharp teeth, <lora:princess-king-boo-ponyxl-lora-nochekaiser:1> princess king boo**(boo:2.0)**
+(booette:1.3), princess king boo, red eyes, long hair, hair between eyes, white hair, very long hair, purple eyes, sharp teeth, <lora:Princess_King_Boo:1> k1ngb00**(boo:2.0)**
 (chompette:1.3), princess chain chomp, black eyes, long hair, short hair, black hair, sharp teeth, <lora:ChompettePonyXL:1> chomp3tt3
 (chompette:1.3), princess chain chomp, black eyes, long hair, short hair, black hair, sharp teeth, <lora:Mario_Bros_-_ChainChomp_Princess__by__AnimeToons__IL:1> ChainChomp_Princess
 (pauline \(mario\):1.3), long hair, blue eyes, brown hair, long hair, makeup, lipstick, eyeshadow, <lora:Pauline:1> PaulineUAI

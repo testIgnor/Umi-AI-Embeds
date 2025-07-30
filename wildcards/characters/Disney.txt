@@ -65,23 +65,41 @@
 (Snow White:1.3) <lora:disney3d-ponyxl:1>
 (Tiana:1.3) <lora:disney3d-ponyxl:1>
 (snow white:1.3) <lora:SnowWhite:1>, black hair, curly hair, brown eyes, bob cut
+(snow white:1.3) <lora:ilsnowwhite:1>, black hair, curly hair, brown eyes, bob cut
 (cinderella:1.3) <lora:Cinderella:1>, blonde hair, single hair bun, blue eyes
+(cinderella:1.3) <lora:ilcinderella:1>, blonde hair, single hair bun, blue eyes
 (aurora:1.3) <lora:Aurora:1>, blonde hair, long hair, blue eyes
+(aurora:1.3) <lora:ilaurorasb:1>, blonde hair, long hair, blue eyes
 (ariel:1.3) <lora:Ariel:1>, long hair, red hair, blue eyes, red lips
+(ariel:1.3) <lora:ilarielmermaid:1>, long hair, red hair, blue eyes, red lips
 (belle:1.3) <lora:Belle:1>, brown hair, long hair, single hair bun, hazel eyes
+(belle:1.3) <lora:ilbelletbatb:1>, brown hair, long hair, single hair bun, hazel eyes
 (jasmine:1.3) <lora:Jasmine:1>, dark-skinned female, black hair long hair, single braid, brown eyes
+(jasmine:1.3) <lora:iljasmine:1>, dark-skinned female, black hair long hair, single braid, brown eyes
 (pocahontas:1.3) <lora:Pocahontas:1>, dark-skinned female, long hair, black hair, brown eyes, arm tattoo
+(pocahontas:1.3) <lora:ilpocahontas:1>, dark-skinned female, long hair, black hair, brown eyes, arm tattoo
 (mulan:1.3) <lora:Mulan:1>, black hair, long hair, brown eyes
-(tiana:1.3) <lora:Tiana:1> Tiana, black hair, dark-skinned female, brown eyes, single hair bun
+(mulan:1.3) <lora:ilmulan:1>, black hair, long hair, brown eyes
+(tiana:1.3) <lora:Tiana:1>, black hair, dark-skinned female, brown eyes, single hair bun
+(tiana:1.3) <lora:iltiana:1>, black hair, dark-skinned female, brown eyes, single hair bun
 (rapunzel:1.3) <lora:Rapunzel:1>, very long hair, blonde hair, green eyes
 (rapunzel:1.3) <lora:ilrapunzel:1>, very long hair, blonde hair, green eyes
 (merida:1.3) <lora:Merida:1>, long hair, curly hair, orange hair, blue eyes, freckles
+(merida:1.3) <lora:ilmerida:1>, long hair, curly hair, orange hair, blue eyes, freckles
+(Tiana:1.3) <lora:iltiana:1>, curly hair, black hair, single hair bun, very dark skin, brown eyes, red lips
+(anna:1.3) <lora:ilannafrozen:1>, orange hair, twin braids, blue eyes, freckles
 (anna:1.3) <lora:AnnaFrozen:1>, orange hair, twin braids, blue eyes, freckles
 (elsa:1.3) <lora:Elsa frozen:1>, platinum blonde hair, single braid, blue eyes
+(elsa:1.3) <lora:ilelsafrozen:1>, platinum blonde hair, single braid, blue eyes
 (moana:1.3) <lora:Moana:1>, dark skin, dark brown hair, curly hair, brown eyes
+(moana:1.3) <lora:ilmoana:1>, dark skin, dark brown hair, curly hair, brown eyes
 (chip:1.3), genderswap, <lora:Femchip:1> Femchip, furry, anthro, chipmunk girl, brown fur, brown eyes, chipmunk tail, black nose, brown hair, long hair, buckteeth
 (dale:1.3), genderswap, <lora:femdale:1> Femdale, furry, anthro, chipmunk girl, brown fur, blue eyes, chipmunk tail, red nose, brown hair, short hair, bangs
 (tiger lily:1.3), <lora:TigerLily_PXL_Leaf1:1> TigerLily, black hair, twin braids, brown eyes, dark skin, blue headband, feather hair ornament
 (wendy darling:1.3), <lora:WendyDarling_PXL_Leaf1:1> WendyDarling, brown hair, hairbow, blue eyes, lipstick
 (shanti:1.3), <lora:Shanti_JungleBook1_illustrious_Leaf2:1> shanti, black hair, Twintails, brown eyes, dark skin, hair bow, hoop earrings
-(alice:1.3), <lora:AliceInWonderland_PXL_Leaf1:1> Alice, blonde hair, long hair, blue eyes, headband, ribbon hairbow
+(alice:1.3), <lora:AliceInWonderland_PXL_Leaf1:1> Alice, blonde hair, long hair, blue eyes, headband, ribbon hairbow, bow hairband, black hairband
+(alice:1.3), <lora:ilaliceinwonderland:1> Alice, blonde hair, long hair, blue eyes, headband, ribbon hairbow, bow hairband, black hairband
+(Esmerada:1.3) <lora:ilesmeralda:1>, dark-skinned female, long hair, wavy hair, black hair, green eyes, lipstick, pink hairband
+(Kida:1.3) <lora:ilkida:1>, dark-skinned female, long hair, white hair, blunt bangs, side low ponytail, blue eyes, facial tattoo
+(Megera:1.3) <lora:ilmegarafromhercules:1>, curly hair, long hair, brown hair, high ponytail, gold hairband, purple eyes, purple eyeshadow, lipstick

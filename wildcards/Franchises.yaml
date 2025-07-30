@@ -107,7 +107,7 @@
   Tags:
     - MySpecies
     - Aeromorphs
-'<[model][Any]>source_anime, _=Species/Monster Girl Encyclopedia=_ <lora:MGE_V6.0_final:1>':
+'<[model][illu]>source_anime, _=Species/Monster Girl Encyclopedia=_ <lora:MGE_V6.1_IL_Final_R1:1>':
   Description:
     - Monster Girl Encyclopedia
   Tags:
@@ -653,7 +653,13 @@
   Tags:
     - Characters
     - Touhou
-'<[model][Any]>source_anime, _=Characters/Umamusume=_  <lora:UmaDiffusionXL_4th_weighted:1>**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, _=Characters/Umamusume=_ <lora:UmaDiffusionXL_4th_weighted:1>**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Umamusume Characters
+  Tags:
+    - Characters
+    - Umamusume
+'<[model][illu]>source_anime, _=Characters/Umamusume=_ <lora:37in1umamusumeillv1.1:1>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Umamusume Characters
   Tags:

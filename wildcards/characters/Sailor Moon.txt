@@ -1,25 +1,48 @@
-(tsukino usagi:1.3), bishoujo senshi sailor moon, very long hair, blonde hair, blue eyes, long hair
-(sailor moon:1.3), bishoujo senshi sailor moon, very long hair, blonde hair, blue eyes, long hair
-(aino minako:1.3), bishoujo senshi sailor moon, short hair, blue hair, blue eyes, long hair, brown hair, black hair, very long hair, blonde hair
-(mizuno ami:1.3), bishoujo senshi sailor moon, short hair, blue hair, blue eyes, long hair, brown hair, black hair, blonde hair
-(chibi usa:1.3), bishoujo senshi sailor moon, short hair, red eyes, blue eyes, long hair, pink hair, blonde hair
-(sailor mercury:1.3), bishoujo senshi sailor moon, short hair, blue hair, blue eyes, long hair, brown hair, black hair, blonde hair
-(sailor venus:1.3), bishoujo senshi sailor moon, short hair, blue hair, blue eyes, long hair, brown hair, black hair, very long hair, blonde hair
-(tomoe hotaru:1.3), bishoujo senshi sailor moon, short hair, black hair, long hair, purple eyes, purple hair
-(sailor saturn:1.3), bishoujo senshi sailor moon, purple eyes, purple hair, short hair, black hair
-(princess serenity:1.3), bishoujo senshi sailor moon, very long hair, blonde hair, blue eyes, long hair
-(luna \(sailor moon\):1.3), bishoujo senshi sailor moon, short hair, blue eyes, long hair, black hair, very long hair, blonde hair
-(super sailor moon:1.3), bishoujo senshi sailor moon, short hair, blue eyes, long hair, very long hair, pink hair, blonde hair
-(black lady \(sailor moon\):1.3), bishoujo senshi sailor moon, pink hair, red eyes, very long hair, long hair
-(artemis \(sailor moon\):1.3), bishoujo senshi sailor moon, short hair, blue hair, blue eyes, long hair, brown hair, black hair, very long hair, blonde hair
-(super sailor venus:1.3), bishoujo senshi sailor moon, short hair, blue hair, blue eyes, long hair, brown hair, black hair, very long hair, blonde hair
-(super sailor mercury:1.3), bishoujo senshi sailor moon, short hair, blue hair, blue eyes, long hair, brown hair, black hair, blonde hair
-(luna-p:1.3), bishoujo senshi sailor moon, pink hair, red eyes, short hair, long hair
-(eternal sailor moon:1.3), bishoujo senshi sailor moon, very long hair, blonde hair, blue eyes, long hair
-(super sailor mars:1.3), bishoujo senshi sailor moon, short hair, blue hair, blue eyes, black hair, long hair, purple eyes, brown hair, very long hair, blonde hair
-(small lady serenity:1.3), bishoujo senshi sailor moon, short hair, red eyes, blue eyes, long hair, very long hair, pink hair, blonde hair
-(super sailor saturn:1.3), bishoujo senshi sailor moon, short hair, red eyes, blue eyes, black hair, long hair, purple eyes, purple hair, pink hair
-(luna \(sailor moon\) \(human\):1.3), bishoujo senshi sailor moon, wavy hair, blue eyes, black hair, long hair, very long hair
-(sailor cosmos:1.3), bishoujo senshi sailor moon, blue eyes, white hair, long hair, very long hair
-(neo queen serenity:1.3), bishoujo senshi sailor moon, blue eyes, long hair, very long hair, closed eyes, blonde hair
-(sailor v:1.3), bishoujo senshi sailor moon, very long hair, blonde hair, blue eyes, long hair
+(tsukino usagi:1.3), very long hair, blonde hair, blue eyes, long hair
+(tsukino usagi:1.3), very long hair, blonde hair, blue eyes, long hair <lora:Usagi:1>
+(tsukino usagi:1.3), very long hair, blonde hair, blue eyes, long hair <lora:ilusagisailormoon:1>
+(sailor moon:1.3), very long hair, blonde hair, blue eyes, long hair
+(sailor moon:1.3), very long hair, blonde hair, blue eyes, long hair <lora:Usagi:1>
+(sailor moon:1.3), very long hair, blonde hair, blue eyes, long hair <lora:ilusagisailormoon:1>
+(aino minako:1.3), short hair, blue hair, blue eyes, long hair, brown hair, black hair, very long hair, blonde hair
+(mizuno ami:1.3), short hair, blue hair, blue eyes
+(chibi usa:1.3), short hair, pink hair, cone hair bun, twintails, hairpin, red eyes
+(chibi usa:1.3), short hair, pink hair, cone hair bun, twintails, hairpin, red eyes, <lora:Chibiusa:1> chibiusa
+(chibi usa:1.3), short hair, pink hair, cone hair bun, twintails, hairpin, red eyes, <lora:ilchibiusa:1> chibiusa
+(sailor mercury:1.3), short hair, blue hair, blue eyes
+(sailor mercury:1.3), short hair, blue hair, blue eyes <lora:Sailor mercury:1>
+(sailor mercury:1.3), short hair, blue hair, blue eyes <lora:ilsailormercury:1>
+(sailor venus:1.3), blue eyes, long hair, very long hair, blonde hair
+(sailor venus:1.3), blue eyes, long hair, very long hair, blonde hair <lora:Venus:1>
+(sailor venus:1.3), blue eyes, long hair, very long hair, blonde hair <lora:ilsailorvenus:1>
+(tomoe hotaru:1.3), short hair, black hair, long hair, purple eyes, purple hair
+(sailor saturn:1.3), bob cut, purple eyes, purple hair, short hair, black hair
+(sailor saturn:1.3), bob cut, purple eyes, purple hair, short hair, black hair <lora:SaturnHotaru:1>
+(sailor saturn:1.3), bob cut, purple eyes, purple hair, short hair, black hair <lora:ilsailorsaturn:1>
+(princess serenity:1.3), very long hair, blonde hair, blue eyes, long hair
+(princess serenity:1.3), very long hair, blonde hair, blue eyes, long hair <lora:Usagi:1>
+(luna \(sailor moon\):1.3), short hair, blue eyes, long hair, black hair, very long hair, blonde hair
+(super sailor moon:1.3), short hair, blue eyes, long hair, very long hair, pink hair, blonde hair
+(black lady \(sailor moon\):1.3), pink hair, red eyes, very long hair, long hair
+(artemis \(sailor moon\):1.3), short hair, blue hair, blue eyes, long hair, brown hair, black hair, very long hair, blonde hair
+(super sailor venus:1.3), short hair, blue hair, blue eyes, long hair, brown hair, black hair, very long hair, blonde hair
+(super sailor mercury:1.3), short hair, blue hair, blue eyes
+(luna-p:1.3), pink hair, red eyes, short hair, long hair
+(eternal sailor moon:1.3), very long hair, blonde hair, blue eyes, long hair
+(super sailor mars:1.3), short hair, blue hair, blue eyes, black hair, long hair, purple eyes, brown hair, very long hair, blonde hair
+(small lady serenity:1.3), short hair, red eyes, blue eyes, long hair, very long hair, pink hair, blonde hair
+(super sailor saturn:1.3), short hair, red eyes, blue eyes, black hair, long hair, purple eyes, purple hair, pink hair
+(luna \(sailor moon\) \(human\):1.3), wavy hair, blue eyes, black hair, long hair, very long hair
+(sailor cosmos:1.3), blue eyes, white hair, long hair, very long hair
+(neo queen serenity:1.3), blue eyes, long hair, very long hair, closed eyes, blonde hair
+(sailor v:1.3), very long hair, blonde hair, blue eyes, long hair
+(sailor neptune:1.3), medium hair, teal hair, curly hair, blue eyes <lora:sailor neptune:1>
+(sailor neptune:1.3), medium hair, teal hair, curly hair, blue eyes <lora:ilsailorneptune:1>
+(sailor pluto:1.3), long hair, green hair, single hair bun, red eyes <lora:checkpoint-e90_s1350:1>
+(sailor pluto:1.3), long hair, green hair, single hair bun, red eyes <lora:ilsailorpluto:1>
+(sailor uranus:1.3), short hair, blonde hair, blue eyes <lora:Ur Anus:1>
+(sailor uranus:1.3), short hair, blonde hair, blue eyes <lora:ilsailoruranus:1>
+(sailor jupiter:1.3), brown hair, ponytail, green eyes <lora:Jupiter:1>
+(sailor jupiter:1.3), brown hair, ponytail, green eyes <lora:ilsailorjupiter:1>
+(sailor mars:1.3), long hair, black hair, purple eyes <lora:Mars:1>
+(sailor mars:1.3), long hair, black hair, purple eyes <lora:ilsailormars:1>

@@ -1,5 +1,6 @@
 (anis \(nikke\):1.3), goddess of victory: nikke, brown eyes, short hair, brown hair, yellow eyes
-(elegg \(nikke\):1.3), goddess of victory: nikke, short hair, multicolored hair, purple eyes, two-tone hair, blonde hair, hair over eyes
+(elegg \(nikke\):1.3), goddess of victory: nikke, short hair, multicolored hair, purple eyes, two-tone hair, blonde hair, hair over eyes, blunt bangs, ahoge, hair intakes
+(elegg \(nikke\):1.3), goddess of victory: nikke, short hair, multicolored hair, purple eyes, two-tone hair, blonde hair, hair over eyes, blunt bangs, ahoge, hair intakes, <lora:EleggV2:1> eleggboom
 (rapi \(nikke\):1.3), goddess of victory: nikke, short hair, brown hair, red eyes, long hair
 (viper \(nikke\):1.3), goddess of victory: nikke, rabbit ears, pink eyes, red eyes, long hair, light brown hair, fake animal ears, animal ears
 (alice \(nikke\):1.3), goddess of victory: nikke, pink eyes, grey hair, long hair, skin tight, fake animal ears, animal ears, pink hair
@@ -62,3 +63,4 @@
 (nihilister \(nikke\):1.3), goddess of victory: nikke, hair between eyes, red hair, red eyes, long hair
 (mass-produced nikke:1.3), goddess of victory: nikke, long hair, brown hair, red eyes, <lora:massproduced-nikke-richy-v1_pdxl:1> mssprd, head-mounted display, covered eyes
 (mass-produced nikke:1.3), goddess of victory: nikke, long hair, pink hair, red eyes, <lora:massproduced-nikke-richy-v1_pdxl:1> mssprd, head-mounted display, covered eyes
+(sora \(nikke\):1.3), goddess of victory: nikke, <lora:sora_nikke_ilxl_goofy:1> black hair, red eyes, twintails, two side up, choker
