@@ -192,10 +192,6 @@
             "ss_name": "AfrobullIXL",
             "baseModel": "Illustrious"
         },
-        "AfrobullNAI": {
-            "ss_name": "AfrobullNAI",
-            "baseModel": "NoobAI"
-        },
         "afuchan": {
             "ss_name": "afuchan",
             "baseModel": "Illustrious"
@@ -214,15 +210,11 @@
         },
         "AlejandraIllustrious2.0JLFO": {
             "ss_name": "AlejandraIllustrious2.0JLFO",
-            "baseModel": "Pony"
+            "baseModel": "Illustrious"
         },
         "Alexia_ashford_-_illustrious": {
             "ss_name": "Alexia_ashford_-_illustrious",
-            "baseModel": "Pony"
-        },
-        "AliceDBHILf": {
-            "ss_name": "AliceDBHILf",
-            "baseModel": "Pony"
+            "baseModel": "Illustrious"
         },
         "alice_gehabich": {
             "ss_name": "alice_gehabich",
@@ -246,10 +238,6 @@
         },
         "Alyssa_-_illustrious-000019": {
             "ss_name": "Alyssa_-_illustrious",
-            "baseModel": "Illustrious"
-        },
-        "Amaterasu_Dimwitdog_Version_Okami_Illustrious": {
-            "ss_name": "Amaterasu_Dimwitdog_Version__Okami_Illustrious",
             "baseModel": "Illustrious"
         },
         "Amaterasu_Dimwitdog_Version__Okami_Illustrious": {
@@ -314,7 +302,7 @@
         },
         "AngellingerieILL": {
             "ss_name": "AngellingerieILL",
-            "baseModel": "Pony"
+            "baseModel": "Illustrious"
         },
         "angel_body_horror_style-000008": {
             "ss_name": "angel_body_horror_style",
@@ -532,10 +520,6 @@
             "ss_name": "bondage outfit_illustrious_V1.0",
             "baseModel": "Illustrious"
         },
-        "bondage outfit_noobai_V1.0": {
-            "ss_name": "bondage outfit_noobai_V1.0",
-            "baseModel": "NoobAI"
-        },
         "Bowsette": {
             "ss_name": "Bowsette",
             "baseModel": "Pony"
@@ -595,10 +579,6 @@
         "BrittanyMillerIllustrious1.0JLFO": {
             "ss_name": "BrittanyMillerIllustrious1.0JLFO",
             "baseModel": "Illustrious"
-        },
-        "BrittneyPony1.0": {
-            "ss_name": "BrittneyPony1.0",
-            "baseModel": "Pony"
         },
         "Burger_Kiss_Style_-_Illustrious": {
             "ss_name": "Burger_Kiss_Style_-_Illustrious",
@@ -676,10 +656,6 @@
             "ss_name": "Centaurfuta-NOOB 1.0-drop0.1-st11",
             "baseModel": "Illustrious"
         },
-        "centaurfuta-NOOB-VPRED1.0-V2-loha-32-drop0.1-": {
-            "ss_name": "centaurfuta-NOOB-VPRED1.0-V2-loha-32-drop0.1-",
-            "baseModel": "NoobAI"
-        },
         "Centaurfuta_NOOB_V-PRED1.0_V2_dim32-000008": {
             "ss_name": "Centaurfuta_NOOB_V-PRED1.0_V2_dim32",
             "baseModel": "Illustrious"
@@ -723,10 +699,6 @@
         "ChamFireflyIllustriousXL": {
             "ss_name": "ChamFireflyIllustriousXL",
             "baseModel": "Illustrious"
-        },
-        "ChamFireflyNoob": {
-            "ss_name": "ChamFireflyNoob",
-            "baseModel": "NoobAI"
         },
         "ChaperomonIllustrious-000009": {
             "ss_name": "ChaperomonIllustrious",
@@ -968,6 +940,10 @@
             "ss_name": "DiathornILf",
             "baseModel": "Illustrious"
         },
+        "Diathorn_Illustrious V1.5": {
+            "ss_name": "Diathorn_Illustrious",
+            "baseModel": "Illustrious"
+        },
         "diathorn_style_illustrious01_v3-000038": {
             "ss_name": "diathorn_style_illustrious01_v3",
             "baseModel": "Illustrious"
@@ -991,10 +967,6 @@
         "disney3d-illustrious-000042": {
             "ss_name": "disney3d-illustrious",
             "baseModel": "Illustrious"
-        },
-        "disney3d-ponyxl": {
-            "ss_name": "disney3d-ponyxl",
-            "baseModel": "Pony"
         },
         "Divine_bustierDIm16alpha4V1_1e-5+_illustrious": {
             "ss_name": "Divine_bustierDIm16alpha4V1_1e-5+_illustrious",
@@ -1208,10 +1180,6 @@
             "ss_name": "emmaFrostRivals_illustrious_byJaneB2",
             "baseModel": "Illustrious"
         },
-        "emmaFrostRivals_pony_byJaneB": {
-            "ss_name": "emmaFrostRivals_pony_byJaneB",
-            "baseModel": "Pony"
-        },
         "Emma_Frost": {
             "ss_name": "Emma_Frost",
             "baseModel": "Illustrious"
@@ -1386,7 +1354,7 @@
         },
         "FN_Antonia-IL": {
             "ss_name": "FN_Antonia-IL",
-            "baseModel": "Pony"
+            "baseModel": "Illustrious"
         },
         "FN_Aphrodite-IL": {
             "ss_name": "FN_Aphrodite-IL",
@@ -1394,11 +1362,11 @@
         },
         "FN_Daraku-IL": {
             "ss_name": "FN_Daraku-IL",
-            "baseModel": "Pony"
+            "baseModel": "Illustrious"
         },
         "FN_HuntressHelsie-IL": {
             "ss_name": "FN_HuntressHelsie-IL",
-            "baseModel": "Pony"
+            "baseModel": "Illustrious"
         },
         "FN_Katalina": {
             "ss_name": "lora",
@@ -2190,7 +2158,7 @@
         },
         "KDAAHRIIL-17": {
             "ss_name": "KDAAHRIIL",
-            "baseModel": "Pony"
+            "baseModel": "Illustrious"
         },
         "KDAAkaliIlluLoRA": {
             "ss_name": "KDAAkaliIlluLoRA",
@@ -2904,10 +2872,6 @@
             "ss_name": "open swimwear_illustrious_V1.0",
             "baseModel": "Illustrious"
         },
-        "open swimwear_noobai_V1.0": {
-            "ss_name": "open swimwear_noobai_V1.0",
-            "baseModel": "NoobAI"
-        },
         "Open_Lingerie": {
             "ss_name": "Open_Lingerie",
             "baseModel": "Illustrious"
@@ -3392,10 +3356,6 @@
             "ss_name": "Renamon_Digimon_Tamers",
             "baseModel": "Illustrious"
         },
-        "Renamon_Digimon_Tamers_-_Pony": {
-            "ss_name": "Renamon_Digimon_Tamers_-_Pony",
-            "baseModel": "Pony"
-        },
         "Renamon_illust": {
             "ss_name": "Renamon_illust",
             "baseModel": "Illustrious"
@@ -3800,10 +3760,6 @@
             "ss_name": "sport bra_illustrious_V1.0",
             "baseModel": "Illustrious"
         },
-        "sports bra_noobai_V1.0": {
-            "ss_name": "sports bra_noobai_V1.0",
-            "baseModel": "NoobAI"
-        },
         "Spright Carrot illuXL v1.11": {
             "ss_name": "Spright Carrot illuXL v1.11",
             "baseModel": "Illustrious"
@@ -4144,10 +4100,6 @@
             "ss_name": "Venom_Horse_marvel",
             "baseModel": "Illustrious"
         },
-        "venus bikini_noobai_V1.0": {
-            "ss_name": "venus bikini_noobai_V1.0",
-            "baseModel": "NoobAI"
-        },
         "venus-bikini-illustriousxl-lora-nochekaiser": {
             "ss_name": "venus-bikini-illustriousxl-lora-nochekaiser",
             "baseModel": "Illustrious"
@@ -4163,10 +4115,6 @@
         "vibrator under clothes_illustrious_V1.0": {
             "ss_name": "vibrator under clothes_illustrious_V1.0",
             "baseModel": "Illustrious"
-        },
-        "vibrator under clothes_noobai_V1.0": {
-            "ss_name": "vibrator under clothes_noobai_V1.0",
-            "baseModel": "NoobAI"
         },
         "vibrator-under-panties-illustriousxl-lora-nochekaiser": {
             "ss_name": "vibrator-under-panties-illustriousxl-lora-nochekaiser",
@@ -4392,6 +4340,10 @@
             "ss_name": "None",
             "baseModel": "Illustrious"
         },
+        "AfrobullNAI": {
+            "ss_name": "AfrobullNAI",
+            "baseModel": "NoobAI"
+        },
         "ballerina_noobai_V1.0": {
             "ss_name": "ballerina_noobai_V1.0",
             "baseModel": "NoobAI"
@@ -4404,8 +4356,20 @@
             "ss_name": "BloodwrackMedusa_Vpred",
             "baseModel": "NoobAI"
         },
+        "bondage outfit_noobai_V1.0": {
+            "ss_name": "bondage outfit_noobai_V1.0",
+            "baseModel": "NoobAI"
+        },
         "butterfly bikini_noobai_V1.0": {
             "ss_name": "butterfly bikini_noobai_V1.0",
+            "baseModel": "NoobAI"
+        },
+        "centaurfuta-NOOB-VPRED1.0-V2-loha-32-drop0.1-": {
+            "ss_name": "centaurfuta-NOOB-VPRED1.0-V2-loha-32-drop0.1-",
+            "baseModel": "NoobAI"
+        },
+        "ChamFireflyNoob": {
+            "ss_name": "ChamFireflyNoob",
             "baseModel": "NoobAI"
         },
         "DeathHag_Vpred": {
@@ -4424,6 +4388,10 @@
             "ss_name": "Melina - Elden Ring (NoobAI)",
             "baseModel": "NoobAI"
         },
+        "open swimwear_noobai_V1.0": {
+            "ss_name": "open swimwear_noobai_V1.0",
+            "baseModel": "NoobAI"
+        },
         "Pixel_Art_EPS": {
             "ss_name": "Pixel_Art_EPS",
             "baseModel": "NoobAI"
@@ -4436,12 +4404,24 @@
             "ss_name": "see-through underwear_noobai_V1.0",
             "baseModel": "NoobAI"
         },
+        "sports bra_noobai_V1.0": {
+            "ss_name": "sports bra_noobai_V1.0",
+            "baseModel": "NoobAI"
+        },
         "TLOZ_LightDragon_a1_6_NoobXL-eps_spnlora1_th-0.7": {
             "ss_name": "TLOZ_LightDragon_a1_6_NoobXL-eps",
             "baseModel": "NoobAI"
         },
         "towel_noobai_V1.0": {
             "ss_name": "towel_noobai_V1.0",
+            "baseModel": "NoobAI"
+        },
+        "venus bikini_noobai_V1.0": {
+            "ss_name": "venus bikini_noobai_V1.0",
+            "baseModel": "NoobAI"
+        },
+        "vibrator under clothes_noobai_V1.0": {
+            "ss_name": "vibrator under clothes_noobai_V1.0",
             "baseModel": "NoobAI"
         },
         "WarDancer_Vpred": {
@@ -4654,6 +4634,10 @@
         },
         "AliceDBH": {
             "ss_name": "AliceDBH",
+            "baseModel": "Pony"
+        },
+        "AliceDBHILf": {
+            "ss_name": "AliceDBHILf",
             "baseModel": "Pony"
         },
         "AliceInWonderland_PXL_Leaf1": {
@@ -5090,6 +5074,10 @@
         },
         "BretonnianProphetess": {
             "ss_name": "BretonnianProphetess",
+            "baseModel": "Pony"
+        },
+        "BrittneyPony1.0": {
+            "ss_name": "BrittneyPony1.0",
             "baseModel": "Pony"
         },
         "bulleta_pony": {
@@ -5530,7 +5518,7 @@
         },
         "Diathorn_PDXL_V1.5": {
             "ss_name": "Diathorn_PDXL",
-            "baseModel": "SDXL 1.0"
+            "baseModel": "Pony"
         },
         "dicksucking_creature": {
             "ss_name": "dicksucking_creature",
@@ -5558,6 +5546,10 @@
         },
         "DiscordiaSmite-000012": {
             "ss_name": "DiscordiaSmite",
+            "baseModel": "Pony"
+        },
+        "disney3d-ponyxl": {
+            "ss_name": "disney3d-ponyxl",
             "baseModel": "Pony"
         },
         "DI_Belle_Delphine_pony": {
@@ -5850,6 +5842,10 @@
         },
         "emmafrostMRxl-12v6": {
             "ss_name": "emmafrostMRxl",
+            "baseModel": "Pony"
+        },
+        "emmaFrostRivals_pony_byJaneB": {
+            "ss_name": "emmaFrostRivals_pony_byJaneB",
             "baseModel": "Pony"
         },
         "Emma_from_Dragon_Quest_XI_Pony": {
@@ -8588,6 +8584,10 @@
             "ss_name": "Renamon",
             "baseModel": "Pony"
         },
+        "Renamon_Digimon_Tamers_-_Pony": {
+            "ss_name": "Renamon_Digimon_Tamers_-_Pony",
+            "baseModel": "Pony"
+        },
         "Renegade_Raider-000005": {
             "ss_name": "Renegade_Raider",
             "baseModel": "Pony"
@@ -9836,10 +9836,6 @@
             "ss_name": "Yamamura_Sadako_Pony",
             "baseModel": "Pony"
         },
-        "Yareli_Warframe_PONY_XL": {
-            "ss_name": "Yareli_Warframe__PONY_XL",
-            "baseModel": "Pony"
-        },
         "Yareli_Warframe__PONY_XL": {
             "ss_name": "Yareli_Warframe__PONY_XL",
             "baseModel": "Pony"
@@ -9974,10 +9970,6 @@
         },
         "DarkElfSorceress_Vpred": {
             "ss_name": "DarkElfSorceress_Vpred",
-            "baseModel": "SDXL 1.0"
-        },
-        "Diathorn_Illustrious V1.5": {
-            "ss_name": "Diathorn_Illustrious",
             "baseModel": "SDXL 1.0"
         },
         "Dreadlord_Vpred": {
@@ -10178,10 +10170,6 @@
         "AfrobullIXL": [
             "AfrobullIXL_v1"
         ],
-        "AfrobullNAI": [
-            "AfrobullNAI",
-            "AfrobullNAI"
-        ],
         "afuchan": [
             "afuchan"
         ],
@@ -10195,16 +10183,10 @@
             "akoya matama_illustrious-000026"
         ],
         "AlejandraIllustrious2.0JLFO": [
-            "AlejandraIllustrious2.0JLFO",
             "AlejandraIllustrious2.0JLFO"
         ],
         "Alexia_ashford_-_illustrious": [
-            "Alexia_ashford_-_illustrious",
             "Alexia_ashford_-_illustrious"
-        ],
-        "AliceDBHILf": [
-            "AliceDBHILf",
-            "AliceDBHILf"
         ],
         "alice_gehabich": [
             "alice_gehabich"
@@ -10225,7 +10207,6 @@
             "Alyssa_-_illustrious-000019"
         ],
         "Amaterasu_Dimwitdog_Version__Okami_Illustrious": [
-            "Amaterasu_Dimwitdog_Version_Okami_Illustrious",
             "Amaterasu_Dimwitdog_Version__Okami_Illustrious"
         ],
         "Amazoness Archer illuXL v1.11": [
@@ -10271,7 +10252,6 @@
             "Anemo Nemo_illustrious-000036"
         ],
         "AngellingerieILL": [
-            "AngellingerieILL",
             "AngellingerieILL"
         ],
         "angel_body_horror_style": [
@@ -10434,10 +10414,6 @@
         "bondage outfit_illustrious_V1.0": [
             "bondage outfit_illustrious_V1.0"
         ],
-        "bondage outfit_noobai_V1.0": [
-            "bondage outfit_noobai_V1.0",
-            "bondage outfit_noobai_V1.0"
-        ],
         "Bowsette": [
             "Bowsette",
             "Bowsette-2",
@@ -10488,10 +10464,6 @@
         ],
         "BrittanyMillerIllustrious1.0JLFO": [
             "BrittanyMillerIllustrious1.0JLFO"
-        ],
-        "BrittneyPony1.0": [
-            "BrittneyPony1.0",
-            "BrittneyPony1.0"
         ],
         "Burger_Kiss_Style_-_Illustrious": [
             "Burger_Kiss_Style_-_Illustrious"
@@ -10550,10 +10522,6 @@
         "Centaurfuta-NOOB 1.0-drop0.1-st11": [
             "Centaurfuta-NOOB 1.0-drop0.1-st11"
         ],
-        "centaurfuta-NOOB-VPRED1.0-V2-loha-32-drop0.1-": [
-            "centaurfuta-NOOB-VPRED1.0-V2-loha-32-drop0.1-",
-            "centaurfuta-NOOB-VPRED1.0-V2-loha-32-drop0.1-"
-        ],
         "Centaurfuta_NOOB_V-PRED1.0_V2_dim32": [
             "Centaurfuta_NOOB_V-PRED1.0_V2_dim32-000008"
         ],
@@ -10586,10 +10554,6 @@
         ],
         "ChamFireflyIllustriousXL": [
             "ChamFireflyIllustriousXL"
-        ],
-        "ChamFireflyNoob": [
-            "ChamFireflyNoob",
-            "ChamFireflyNoob"
         ],
         "ChaperomonIllustrious": [
             "ChaperomonIllustrious-000009"
@@ -10771,6 +10735,9 @@
         "DiathornILf": [
             "DiathornILf"
         ],
+        "Diathorn_Illustrious": [
+            "Diathorn_Illustrious V1.5"
+        ],
         "diathorn_style_illustrious01_v3": [
             "diathorn_style_illustrious01_v3-000038"
         ],
@@ -10788,10 +10755,6 @@
         ],
         "disney3d-illustrious": [
             "disney3d-illustrious-000042"
-        ],
-        "disney3d-ponyxl": [
-            "disney3d-ponyxl",
-            "disney3d-ponyxl"
         ],
         "Divine_bustierDIm16alpha4V1_1e-5+_illustrious": [
             "Divine_bustierDIm16alpha4V1_1e-5+_illustrious"
@@ -10946,10 +10909,6 @@
         "emmaFrostRivals_illustrious_byJaneB2": [
             "emmaFrostRivals_illustrious_byJaneB"
         ],
-        "emmaFrostRivals_pony_byJaneB": [
-            "emmaFrostRivals_pony_byJaneB",
-            "emmaFrostRivals_pony_byJaneB"
-        ],
         "Emma_Frost": [
             "Emma_Frost"
         ],
@@ -11068,18 +11027,15 @@
             "fnslone IL"
         ],
         "FN_Antonia-IL": [
-            "FN_Antonia-IL",
             "FN_Antonia-IL"
         ],
         "FN_Aphrodite-IL": [
             "FN_Aphrodite-IL"
         ],
         "FN_Daraku-IL": [
-            "FN_Daraku-IL",
             "FN_Daraku-IL"
         ],
         "FN_HuntressHelsie-IL": [
-            "FN_HuntressHelsie-IL",
             "FN_HuntressHelsie-IL"
         ],
         "lora": [
@@ -11686,7 +11642,6 @@
             "kda-popstar-kaisa-illust"
         ],
         "KDAAHRIIL": [
-            "KDAAHRIIL-17",
             "KDAAHRIIL-17"
         ],
         "KDAAkaliIlluLoRA": [
@@ -12221,10 +12176,6 @@
         "open swimwear_illustrious_V1.0": [
             "open swimwear_illustrious_V1.0"
         ],
-        "open swimwear_noobai_V1.0": [
-            "open swimwear_noobai_V1.0",
-            "open swimwear_noobai_V1.0"
-        ],
         "Open_Lingerie": [
             "Open_Lingerie"
         ],
@@ -12606,10 +12557,6 @@
         "Renamon_Digimon_Tamers": [
             "Renamon_Digimon_Tamers"
         ],
-        "Renamon_Digimon_Tamers_-_Pony": [
-            "Renamon_Digimon_Tamers_-_Pony",
-            "Renamon_Digimon_Tamers_-_Pony"
-        ],
         "Renamon_illust": [
             "Renamon_illust"
         ],
@@ -12914,10 +12861,6 @@
         "sport bra_illustrious_V1.0": [
             "sport bra_illustrious_V1.0"
         ],
-        "sports bra_noobai_V1.0": [
-            "sports bra_noobai_V1.0",
-            "sports bra_noobai_V1.0"
-        ],
         "Spright Carrot illuXL v1.11": [
             "Spright Carrot illuXL v1.11"
         ],
@@ -13167,10 +13110,6 @@
         "Venom_Horse_marvel": [
             "Venom_Horse_marvel"
         ],
-        "venus bikini_noobai_V1.0": [
-            "venus bikini_noobai_V1.0",
-            "venus bikini_noobai_V1.0"
-        ],
         "venus-bikini-illustriousxl-lora-nochekaiser": [
             "venus-bikini-illustriousxl-lora-nochekaiser"
         ],
@@ -13182,10 +13121,6 @@
         ],
         "vibrator under clothes_illustrious_V1.0": [
             "vibrator under clothes_illustrious_V1.0"
-        ],
-        "vibrator under clothes_noobai_V1.0": [
-            "vibrator under clothes_noobai_V1.0",
-            "vibrator under clothes_noobai_V1.0"
         ],
         "vibrator-under-panties-illustriousxl-lora-nochekaiser": [
             "vibrator-under-panties-illustriousxl-lora-nochekaiser"
@@ -13322,6 +13257,9 @@
         "fortnite_miku_v2": [
             "[Illustrious] Neko & Brite Miku (Fortnite) v2 (MikuMasterRace)"
         ],
+        "AfrobullNAI": [
+            "AfrobullNAI"
+        ],
         "ballerina_noobai_V1.0": [
             "ballerina_noobai_V1.0"
         ],
@@ -13331,8 +13269,17 @@
         "BloodwrackMedusa_Vpred": [
             "BloodwrackMedusa_Vpred"
         ],
+        "bondage outfit_noobai_V1.0": [
+            "bondage outfit_noobai_V1.0"
+        ],
         "butterfly bikini_noobai_V1.0": [
             "butterfly bikini_noobai_V1.0"
+        ],
+        "centaurfuta-NOOB-VPRED1.0-V2-loha-32-drop0.1-": [
+            "centaurfuta-NOOB-VPRED1.0-V2-loha-32-drop0.1-"
+        ],
+        "ChamFireflyNoob": [
+            "ChamFireflyNoob"
         ],
         "DeathHag_Vpred": [
             "DeathHag_Vpred"
@@ -13346,6 +13293,9 @@
         "Melina - Elden Ring (NoobAI)": [
             "Melina - Elden Ring (NoobAI)"
         ],
+        "open swimwear_noobai_V1.0": [
+            "open swimwear_noobai_V1.0"
+        ],
         "Pixel_Art_EPS": [
             "Pixel_Art_EPS"
         ],
@@ -13355,11 +13305,20 @@
         "see-through underwear_noobai_V1.0": [
             "see-through underwear_noobai_V1.0"
         ],
+        "sports bra_noobai_V1.0": [
+            "sports bra_noobai_V1.0"
+        ],
         "TLOZ_LightDragon_a1_6_NoobXL-eps": [
             "TLOZ_LightDragon_a1_6_NoobXL-eps_spnlora1_th-0.7"
         ],
         "towel_noobai_V1.0": [
             "towel_noobai_V1.0"
+        ],
+        "venus bikini_noobai_V1.0": [
+            "venus bikini_noobai_V1.0"
+        ],
+        "vibrator under clothes_noobai_V1.0": [
+            "vibrator under clothes_noobai_V1.0"
         ],
         "WarDancer_Vpred": [
             "WarDancer_Vpred"
@@ -13511,6 +13470,9 @@
         ],
         "AliceDBH": [
             "AliceDBH"
+        ],
+        "AliceDBHILf": [
+            "AliceDBHILf"
         ],
         "AliceInWonderland_PXL_Leaf1": [
             "AliceInWonderland_PXL_Leaf1"
@@ -13820,6 +13782,9 @@
         ],
         "BretonnianProphetess": [
             "BretonnianProphetess"
+        ],
+        "BrittneyPony1.0": [
+            "BrittneyPony1.0"
         ],
         "bulleta_pony": [
             "bulleta_pony"
@@ -14144,7 +14109,6 @@
             "DiabloD3"
         ],
         "Diathorn_PDXL": [
-            "Diathorn_PDXL_V1.5",
             "Diathorn_PDXL_V1.5"
         ],
         "dicksucking_creature": [
@@ -14164,6 +14128,9 @@
         ],
         "DiscordiaSmite": [
             "DiscordiaSmite-000012"
+        ],
+        "disney3d-ponyxl": [
+            "disney3d-ponyxl"
         ],
         "DI_Belle_Delphine_pony": [
             "DI_Belle_Delphine_pony"
@@ -14380,6 +14347,9 @@
         ],
         "emmafrostMRxl": [
             "emmafrostMRxl-12v6"
+        ],
+        "emmaFrostRivals_pony_byJaneB": [
+            "emmaFrostRivals_pony_byJaneB"
         ],
         "Emma_from_Dragon_Quest_XI_Pony": [
             "Emma_from_Dragon_Quest_XI_Pony"
@@ -16387,6 +16357,9 @@
         "renamon": [
             "renamon-05"
         ],
+        "Renamon_Digimon_Tamers_-_Pony": [
+            "Renamon_Digimon_Tamers_-_Pony"
+        ],
         "Renegade_Raider": [
             "Renegade_Raider-000005"
         ],
@@ -17304,7 +17277,6 @@
             "Yamamura_Sadako_Pony"
         ],
         "Yareli_Warframe__PONY_XL": [
-            "Yareli_Warframe_PONY_XL",
             "Yareli_Warframe__PONY_XL"
         ],
         "Yemoja_Pony_Test_2": [
@@ -17384,9 +17356,6 @@
         ],
         "DarkElfSorceress_Vpred": [
             "DarkElfSorceress_Vpred"
-        ],
-        "Diathorn_Illustrious": [
-            "Diathorn_Illustrious V1.5"
         ],
         "Dreadlord_Vpred": [
             "Dreadlord_Vpred"

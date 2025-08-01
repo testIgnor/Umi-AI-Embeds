@@ -19,7 +19,7 @@
     - Model
     - NAI
 
-'{10%<[Model][Pony]>||0%<[Model][NAI]>||<[Model][Illu]>}':
+'{30%<[Model][Pony]>||10%<[Model][NAI]>||<[Model][Illu]>}':
   Description:
     - Any Model with Bias
   Tags:
