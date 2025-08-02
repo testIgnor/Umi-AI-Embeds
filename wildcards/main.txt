@@ -24,7 +24,7 @@ upper
 [(mia fey:1.3), ace attorney, miafeyspiritdg <lora:Mia Fey DG illuLoRA:1>|(mia fey:1.3), (pearl fey:0.5), ace attorney, <lora:Pearl_Fey_IL_v1:1> channeled mia], brown hair, hair rings, short hair, hair beads, asymmetrical sidelocks, brown eyes, mole under mouth**(long hair, half updo:1.5)**
 [/choose]
 [/set]
-[set characterprompt]<[model]>source_anime, [get characterprompt]**(yellow skin, orange skin, red skin:1.5)**[/set]
+[set characterprompt]<[model|Any]>source_anime, [get characterprompt]**(yellow skin, orange skin, red skin:1.5)**[/set]
 [call set_age gender="{get gender}"]
 [/chance]
 
@@ -70,12 +70,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Godzilla
-SCP
+Rosalina
 [/choose]
 [/set]
 
-[chance 10]
+[chance 0]
 [set characterType]
 [choose]
 characters
@@ -90,7 +89,7 @@ Ookami
 [/set]
 [/chance]
 
-[chance 25]
+[chance 0]
 [set characterType]
 [choose]
 myspecies
@@ -511,7 +510,7 @@ frotting, frottage
 [get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.5)
 [/set]
 
-[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu]>[/Umi][/choose][/set]
+[set opt]illu[/set]
 
 [/function]
 
@@ -557,7 +556,7 @@ NSFW, (solo:1.0), [get ageprompt][get gender_suffix], <[EZEmotion]>, looking at 
 [get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.5)
 [/set]
 
-[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu|pony]>[/Umi][/choose][/set]
+[set opt]illu[/set]
 
 [/function]
 
@@ -620,7 +619,7 @@ NSFW, (solo:1.0), source_anime, [get characterprompt], [get ageprompt][get gende
 [get total_neg] ADDCOMM [get char_1n] ADDCOL [get char_2n]
 [/set]
 
-[set opt][choose _case=0][Umi _has_options _verbose=0]<[model][Illu|pony]>[/Umi][/choose][/set]
+[set opt]illu[/choose][/set]
 
 [/function]
 
