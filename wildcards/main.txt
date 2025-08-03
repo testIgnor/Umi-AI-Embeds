@@ -21,10 +21,16 @@ upper
 [chance 0]
 [set characterprompt]
 [choose]
-[(mia fey:1.3), ace attorney, miafeyspiritdg <lora:Mia Fey DG illuLoRA:1>|(mia fey:1.3), (pearl fey:0.5), ace attorney, <lora:Pearl_Fey_IL_v1:1> channeled mia], brown hair, hair rings, short hair, hair beads, asymmetrical sidelocks, brown eyes, mole under mouth**(long hair, half updo:1.5)**
+(pack leader highwire:1.3), fortnite, <lora:Pack_Leader_Highwire_-_Character:0.8> PLHighwire, fluffy tail, blue inner ear, blue inner ear fur, purple eyes, blue mouth, animal nose, white pupils, animal ears, pink face markings, black fur, pink eyes, black body, digitigrade, wolf tail, blue sclera, snout, wolf ears, anthro, pink eye, right closed eye, claws, white fur
+(pack leader highwire:1.3), fortnite, <lora:Highwire_from_fortnite_furry_Pony_Diffussion_ver.:0.8> Highwire, fluffy tail, blue inner ear, blue inner ear fur, purple eyes, blue mouth, animal nose, white pupils, animal ears, pink face markings, black fur, pink eyes, black body, digitigrade, wolf tail, blue sclera, snout, wolf ears, anthro, pink eye, right closed eye, claws, white fur
+(pack leader highwire:1.3), fortnite, <lora:Highwire_pack_leader_illust:0.8> highwire_pack_leader_illust, fluffy tail, blue inner ear, blue inner ear fur, purple eyes, blue mouth, animal nose, white pupils, animal ears, pink face markings, black fur, pink eyes, black body, digitigrade, wolf tail, blue sclera, snout, wolf ears, anthro, pink eye, right closed eye, claws, white fur
+(pack leader highwire:1.3), fortnite, <lora:Highwire_illustriousXL:0.8> Highwire, fluffy tail, blue inner ear, blue inner ear fur, purple eyes, blue mouth, animal nose, white pupils, animal ears, pink face markings, black fur, pink eyes, black body, digitigrade, wolf tail, blue sclera, snout, wolf ears, anthro, pink eye, right closed eye, claws, white fur
+(pack leader highwire:1.3), fortnite, <lora:pl-highwire:0.8> Plhighwirexl, fluffy tail, blue inner ear, blue inner ear fur, purple eyes, blue mouth, animal nose, white pupils, animal ears, pink face markings, black fur, pink eyes, black body, digitigrade, wolf tail, blue sclera, snout, wolf ears, anthro, pink eye, right closed eye, claws, white fur
+(pack leader highwire:1.3), fortnite, <lora:P_highwire:0.8> P Highwire, P Highwire, fluffy tail, blue inner ear, blue inner ear fur, purple eyes, blue mouth, animal nose, white pupils, animal ears, pink face markings, black fur, pink eyes, black body, digitigrade, wolf tail, blue sclera, snout, wolf ears, anthro, pink eye, right closed eye, claws, white fur
+(pack leader highwire:1.3), fortnite, <lora:HighWire_iLL:0.8> Highwire, Highwire, fluffy tail, blue inner ear, blue inner ear fur, purple eyes, blue mouth, animal nose, white pupils, animal ears, pink face markings, black fur, pink eyes, black body, digitigrade, wolf tail, blue sclera, snout, wolf ears, anthro, pink eye, right closed eye, claws, white fur
 [/choose]
 [/set]
-[set characterprompt]<[model|Any]>source_anime, [get characterprompt]**(yellow skin, orange skin, red skin:1.5)**[/set]
+[set characterprompt]<[model][Any]>source_anime, [get characterprompt]**(yellow skin, orange skin, red skin:1.5)**[/set]
 [call set_age gender="{get gender}"]
 [/chance]
 
