@@ -8,6 +8,7 @@ Overrides Prompt Properties
 [chance 0]
 [set age_range]
 [choose]
+middle
 upper
 [/choose]
 [/set]
@@ -76,7 +77,11 @@ characters
 [/set]
 [set franchise]
 [choose]
-Rosalina
+Street Fighter
+Tekken
+KoF
+Soulcalibur
+Guilty Gear
 [/choose]
 [/set]
 

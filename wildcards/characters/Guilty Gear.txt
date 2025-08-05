@@ -1,6 +1,17 @@
 (dizzy \(guilty gear\):1.3), guilty gear, red eyes, blue hair, long hair
 (ramlethal valentine:1.3), guilty gear, dark-skinned female, yellow eyes, orange eyes, blonde hair, long hair, white hair, dark skin
-(elphelt valentine:1.3), guilty gear, pink hair, blue eyes, short hair, white hair
+(ramlethal valentine:1.3), guilty gear, dark-skinned female, yellow eyes, orange eyes, blonde hair, long hair, white hair, dark skin, <lora:guiltygear_strive_ramlethal_ponyXL-CAME:1> rmlthlvltne
+(ramlethal valentine:1.3), guilty gear, dark-skinned female, yellow eyes, orange eyes, blonde hair, long hair, white hair, dark skin, <lora:RamXrd:1> ramlethal valentine
+(ramlethal valentine:1.3), guilty gear, dark-skinned female, yellow eyes, orange eyes, blonde hair, long hair, white hair, dark skin, <lora:Ramlethal DG iIlluLoRA:1> ramlethaldg
+(ramlethal valentine:1.3), guilty gear, dark-skinned female, yellow eyes, orange eyes, blonde hair, long hair, white hair, dark skin,  <lora:RamlethalValentineIXL:1> zzRamlethal
+(ramlethal valentine:1.3), guilty gear, dark-skinned female, yellow eyes, orange eyes, blonde hair, long hair, white hair, dark skin, <lora:guiltygear_ramlethal_noobAIXL11EPS-STRIVE:1>
+(elphelt valentine:1.3), guilty gear, pink hair, blue eyes, short hair, white hair, bob cut, hair between eyes
+(elphelt valentine:1.3), guilty gear, pink hair, blue eyes, short hair, white hair, bob cut, hair between eyes, <lora:elpheltStriveILM:1> elphelt valentine
+(elphelt valentine:1.3), guilty gear, pink hair, blue eyes, short hair, white hair, bob cut, hair between eyes, <lora:EPggElphelt:1> EPggElphelt
+(elphelt valentine:1.3), guilty gear, pink hair, blue eyes, short hair, white hair, bob cut, hair between eyes, <lora:EPggElphelt:1> EPggElpheltrelevator
+(elphelt valentine:1.3), guilty gear, pink hair, blue eyes, short hair, white hair, bob cut, hair between eyes, <lora:EPggElphelt:1> EPggElpheltsign
+(elphelt valentine:1.3), guilty gear, pink hair, blue eyes, short hair, white hair, bob cut, hair between eyes, <lora:Elphelt Valentine_pony:1> elphelt_valentine
+(elphelt valentine:1.3), guilty gear, pink hair, blue eyes, short hair, white hair, bob cut, hair between eyes, <lora:ElpheltValentine_IXL_v1:1> aaElphelt
 (baiken:1.3), guilty gear, pink hair, big hair, long hair, red eyes
 (may \(guilty gear\):1.3), guilty gear, long hair, brown eyes, brown hair, <lora:May Guilty Gear  (Autism SDXL):1>
 (may \(guilty gear\):1.3), guilty gear, long hair, brown eyes, brown hair, <lora:may_strive:1> may_strive
@@ -9,13 +20,13 @@
 (millia rage:1.3), guilty gear, very long hair, blonde hair, blue eyes, long hair
 (i-no:1.3), guilty gear, short hair, black hair
 (kuradoberi jam:1.3), guilty gear, very long hair, long hair, brown eyes, brown hair
-(lucifero \(guilty gear\):1.3), guilty gear, dark-skinned female, orange eyes, blonde hair, long hair, white hair, dark skin
 (giovanna \(guilty gear\):1.3), guilty gear, dark-skinned female, short hair, blue eyes, dark skin, red hair
-(necro \(guilty gear\):1.3), guilty gear, red eyes, blue hair, long hair
-(undine \(guilty gear\):1.3), guilty gear, red eyes, blue hair, long hair
 (a.b.a:1.3), guilty gear, green hair, short hair, long hair, green eyes, bags under eyes, red hair
-(paracelsus \(guilty gear\):1.3), guilty gear, green hair, short hair, long hair, green eyes, bags under eyes, red hair
-(rei \(guilty gear\):1.3), guilty gear, dark-skinned female, short hair, blue eyes, dark skin, red hair
 (queen dizzy:1.3), guilty gear, long hair, blue hair, red eyes
 (bridget \(guilty gear\):1.3), guilty gear, green eyes, aqua eyes, medium hair, blonde hair, blue eyes
 (bridget \(guilty gear\):1.3), guilty gear, green eyes, aqua eyes, medium hair, blonde hair, blue eyes <lora:Bridget Lillustrious:1>
+(bridget \(guilty gear\):1.3), guilty gear, green eyes, aqua eyes, medium hair, blonde hair, blue eyes, <lora:Guilty_Gear_Strive_-_Dual_Rulers:1> Bridget
+(bridget \(guilty gear\):1.3), guilty gear, green eyes, aqua eyes, medium hair, blonde hair, blue eyes, <lora:Bridget:1> Bridget
+(bridget \(guilty gear\):1.3), guilty gear, green eyes, aqua eyes, medium hair, blonde hair, blue eyes, <lora:PonyXL OG bridgetGG V3:1> bridgetgg
+(bridget \(guilty gear\):1.3), guilty gear, green eyes, aqua eyes, medium hair, blonde hair, blue eyes, <lora:bridget:1> bridgetSDXL
+(bridget \(guilty gear\):1.3), guilty gear, green eyes, aqua eyes, medium hair, blonde hair, blue eyes, <lora:Bridget Guilty Gear (Autism SDXL):1>

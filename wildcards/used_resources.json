@@ -324,6 +324,22 @@
             "ss_name": "Animal Mecha [IL]",
             "baseModel": "Illustrious"
         },
+        "AnnaT6_Illu_Dwnsty": {
+            "ss_name": "AnnaT6_Illu_Dwnsty",
+            "baseModel": "Illustrious"
+        },
+        "AnnaT8-10": {
+            "ss_name": "AnnaT8",
+            "baseModel": "Illustrious"
+        },
+        "Anna_Williamstk8": {
+            "ss_name": "Anna_Williamstk8",
+            "baseModel": "Illustrious"
+        },
+        "Anna_Williams_tekken": {
+            "ss_name": "Anna_Williams_tekken",
+            "baseModel": "Illustrious"
+        },
         "Anthro_Furry_Lora_Judy_Hopps_Zootopia": {
             "ss_name": "Anthro_Furry_Lora_Juddy_Hopps_Zootopia",
             "baseModel": "Illustrious"
@@ -398,6 +414,18 @@
         },
         "AsslessMorticiaDressILL": {
             "ss_name": "AsslessMorticiaDressILL",
+            "baseModel": "Illustrious"
+        },
+        "AsukaT8-10": {
+            "ss_name": "AsukaT8",
+            "baseModel": "Illustrious"
+        },
+        "Asuka_Kazama_ILXL": {
+            "ss_name": "Asuka_Kazama_ILXL",
+            "baseModel": "Illustrious"
+        },
+        "Asuka_Kazama_tekken_8": {
+            "ss_name": "Asuka_Kazama_tekken_8",
             "baseModel": "Illustrious"
         },
         "asuna_yuuki_illust_scarxzys": {
@@ -570,6 +598,10 @@
         },
         "Bridget [IllustriousXL]": {
             "ss_name": "Bridget Lillustrious",
+            "baseModel": "Illustrious"
+        },
+        "Bridget": {
+            "ss_name": "Bridget",
             "baseModel": "Illustrious"
         },
         "Brig kpop illus-000035": {
@@ -1152,6 +1184,14 @@
             "ss_name": "EllieTLOU1ILf",
             "baseModel": "Illustrious"
         },
+        "elpheltStriveILM": {
+            "ss_name": "elpheltStriveILM",
+            "baseModel": "Illustrious"
+        },
+        "ElpheltValentine_IXL_v1": {
+            "ss_name": "ElpheltValentine_IXL_v1",
+            "baseModel": "Illustrious"
+        },
         "eltole": {
             "ss_name": "eltole",
             "baseModel": "Illustrious"
@@ -1504,6 +1544,10 @@
             "ss_name": "Guardian Eatos illuXL v1",
             "baseModel": "Illustrious"
         },
+        "Guilty_Gear_Strive_-_Dual_Rulers_-_Bridget_-_illustrious": {
+            "ss_name": "Guilty_Gear_Strive_-_Dual_Rulers",
+            "baseModel": "Illustrious"
+        },
         "GwenTennyson_Ben10_illustrious_Leaf1-000019_R2": {
             "ss_name": "GwenTennyson_Ben10_illustrious_Leaf1",
             "baseModel": "Illustrious"
@@ -1824,8 +1868,16 @@
             "ss_name": "ilsnowwhite",
             "baseModel": "Illustrious"
         },
+        "ILT8Lili": {
+            "ss_name": "ILT8Lili",
+            "baseModel": "Illustrious"
+        },
         "iltiana": {
             "ss_name": "iltiana",
+            "baseModel": "Illustrious"
+        },
+        "ILTKReina": {
+            "ss_name": "ILTKReina",
             "baseModel": "Illustrious"
         },
         "ILTKXiaoyu": {
@@ -2014,6 +2066,14 @@
         },
         "Junk Warrior illuXL v1": {
             "ss_name": "Junk Warrior illuXL v1",
+            "baseModel": "Illustrious"
+        },
+        "JunT8-10": {
+            "ss_name": "JunT8",
+            "baseModel": "Illustrious"
+        },
+        "jun_kazama-guy90-Illust-LoraV201": {
+            "ss_name": "jun_kazama-guy90-Illust-LoraV201",
             "baseModel": "Illustrious"
         },
         "Juri_Street_Fighter-000009": {
@@ -2320,8 +2380,16 @@
             "ss_name": "Lilith_Aensland_IL",
             "baseModel": "Illustrious"
         },
+        "Lili_Emilie_de_Rochefort_-_Tekken-000004": {
+            "ss_name": "Lili_Emilie_de_Rochefort_-_Tekken",
+            "baseModel": "Illustrious"
+        },
         "lili_tekken8": {
             "ss_name": "lili_tekken8",
+            "baseModel": "Illustrious"
+        },
+        "Lili\u30ea\u30ea\u9244\u62f3": {
+            "ss_name": "Lili\u30ea\u30ea\u9244\u62f3",
             "baseModel": "Illustrious"
         },
         "lilpenispeekIllustV1": {
@@ -2367,6 +2435,14 @@
         "Lovely labrynth of the silver castle illuXL v1": {
             "ss_name": "Lovely labrynth of the silver castle illuXL v1",
             "baseModel": "Illustrious"
+        },
+        "lucky_chloe_tekken": {
+            "ss_name": "lucky_chloe_tekken",
+            "baseModel": "Illustrious"
+        },
+        "Lucky_Chloe_Tekken_PONY_XL_by_UOC": {
+            "ss_name": "Lucky_Chloe_Tekken_PONY_XL_by_UOC",
+            "baseModel": "Pony"
         },
         "lugia-05": {
             "ss_name": "lugia",
@@ -2802,6 +2878,14 @@
         },
         "NightRoseApexAiIllustrious-10": {
             "ss_name": "NightRoseApexAiIllustrious",
+            "baseModel": "Illustrious"
+        },
+        "NinaT8-10": {
+            "ss_name": "NinaT8",
+            "baseModel": "Illustrious"
+        },
+        "Nina_Williams_Tekken_8": {
+            "ss_name": "Nina_Williams_Tekken_8",
             "baseModel": "Illustrious"
         },
         "NinetalesPokedexIXL": {
@@ -3272,6 +3356,14 @@
             "ss_name": "RaelStellar",
             "baseModel": "Illustrious"
         },
+        "Ramlethal DG iIlluLoRA": {
+            "ss_name": "Ramlethal DG iIlluLoRA",
+            "baseModel": "Illustrious"
+        },
+        "RamlethalValentineIXL": {
+            "ss_name": "RamlethalValentineIXL",
+            "baseModel": "Illustrious"
+        },
         "Ranamon_Ilus-05": {
             "ss_name": "Ranamon_Ilus",
             "baseModel": "Illustrious"
@@ -3334,6 +3426,14 @@
         },
         "Red Blossoms from Underroot illuXL v1": {
             "ss_name": "Red Blossoms from Underroot illuXL v1",
+            "baseModel": "Illustrious"
+        },
+        "Reinav2_Illu_Dwnsty": {
+            "ss_name": "Reinav2_Illu_Dwnsty",
+            "baseModel": "Illustrious"
+        },
+        "Reina_tekken": {
+            "ss_name": "Reina_tekken",
             "baseModel": "Illustrious"
         },
         "Remi_V2": {
@@ -4380,6 +4480,10 @@
             "ss_name": "FrostMaiden_Vpred",
             "baseModel": "NoobAI"
         },
+        "guiltygear_ramlethal_noobAIXL11EPS-STRIVE": {
+            "ss_name": "guiltygear_ramlethal_noobAIXL11EPS-STRIVE",
+            "baseModel": "NoobAI"
+        },
         "Kiryu_v11-noobxl_eps": {
             "ss_name": "Kiryu_v15-noobxl_eps-02",
             "baseModel": "NoobAI"
@@ -5074,6 +5178,14 @@
         },
         "BretonnianProphetess": {
             "ss_name": "BretonnianProphetess",
+            "baseModel": "Pony"
+        },
+        "Bridget Guilty Gear (Autism SDXL)": {
+            "ss_name": "Bridget Guilty Gear (Autism SDXL)",
+            "baseModel": "Pony"
+        },
+        "bridget-10": {
+            "ss_name": "bridget",
             "baseModel": "Pony"
         },
         "BrittneyPony1.0": {
@@ -5812,6 +5924,10 @@
             "ss_name": "elma_pony_v2",
             "baseModel": "Pony"
         },
+        "Elphelt Valentine_pony": {
+            "ss_name": "Elphelt Valentine_pony",
+            "baseModel": "Pony"
+        },
         "Elsa frozen ": {
             "ss_name": "Elsa frozen",
             "baseModel": "Pony"
@@ -5826,6 +5942,14 @@
         },
         "emilie-09": {
             "ss_name": "emilie",
+            "baseModel": "Pony"
+        },
+        "Emilie_de_Rochefort": {
+            "ss_name": "Emilie_de_Rochefort",
+            "baseModel": "Pony"
+        },
+        "Emilie_de_Rochefort_ILXL": {
+            "ss_name": "Emilie_de_Rochefort_ILXL",
             "baseModel": "Pony"
         },
         "emily_kaldwin": {
@@ -5874,6 +5998,10 @@
         },
         "EntraptaSheraPDXL": {
             "ss_name": "EntraptaSheraPDXL_v2",
+            "baseModel": "Pony"
+        },
+        "EPggElphelt": {
+            "ss_name": "EPggElphelt",
             "baseModel": "Pony"
         },
         "Epona": {
@@ -6344,6 +6472,10 @@
             "ss_name": "GuardianXL",
             "baseModel": "Pony"
         },
+        "guiltygear_strive_ramlethal_ponyXL-CAME": {
+            "ss_name": "guiltygear_strive_ramlethal_ponyXL-CAME",
+            "baseModel": "Pony"
+        },
         "gwenom-08": {
             "ss_name": "gwenom",
             "baseModel": "Pony"
@@ -6662,6 +6794,14 @@
         },
         "junomon-pdxl-nvwls-v1": {
             "ss_name": "junomon-pdxl-nvwls-v1",
+            "baseModel": "Pony"
+        },
+        "Jun_Kazama_TEKKEN_PONY_XL_by_UOC": {
+            "ss_name": "Jun_Kazama_TEKKEN_PONY_XL_by_UOC",
+            "baseModel": "Pony"
+        },
+        "Jun_Kazama__Tekken_games-000002": {
+            "ss_name": "Jun_Kazama__Tekken_games",
             "baseModel": "Pony"
         },
         "Jupiter": {
@@ -7024,6 +7164,14 @@
             "ss_name": "LennoxRoseFOPXL",
             "baseModel": "Pony"
         },
+        "LeoKT8-12v6": {
+            "ss_name": "LeoKT8",
+            "baseModel": "Pony"
+        },
+        "Leo_Kliesen_-_Tekken-000018": {
+            "ss_name": "Leo_Kliesen_-_Tekken",
+            "baseModel": "Pony"
+        },
         "Lettie-Warframe": {
             "ss_name": "Lettie",
             "baseModel": "Pony"
@@ -7152,8 +7300,8 @@
             "ss_name": "luce",
             "baseModel": "Pony"
         },
-        "Lucky_Chloe_Tekken_PONY_XL_by_UOC": {
-            "ss_name": "Lucky_Chloe_Tekken_PONY_XL_by_UOC",
+        "Lucky_Chloe_-_Tekken": {
+            "ss_name": "Lucky_Chloe_-_Tekken",
             "baseModel": "Pony"
         },
         "lugia-04": {
@@ -8240,8 +8388,16 @@
             "ss_name": "sakuemonq",
             "baseModel": "Pony"
         },
+        "PonyAnn4W": {
+            "ss_name": "PonyAnn4W",
+            "baseModel": "Pony"
+        },
         "PonyRecluseER": {
             "ss_name": "PonyRecluseER",
+            "baseModel": "Pony"
+        },
+        "PonyXL OG bridgetGG V3": {
+            "ss_name": "PonyXL OG bridgetGG V3",
             "baseModel": "Pony"
         },
         "PONYXL_CammyWhite_ownwaifu": {
@@ -8496,6 +8652,10 @@
             "ss_name": "ramirez",
             "baseModel": "Pony"
         },
+        "RamXrd-000006": {
+            "ss_name": "RamXrd",
+            "baseModel": "Pony"
+        },
         "ranamon (Digimon) - XL ": {
             "ss_name": "ranamon_1",
             "baseModel": "Pony"
@@ -8562,6 +8722,18 @@
         },
         "ReikaDOAXVVPony": {
             "ss_name": "ReikaDOAXVVPony",
+            "baseModel": "Pony"
+        },
+        "reina-10 (1)": {
+            "ss_name": "reina",
+            "baseModel": "Pony"
+        },
+        "ReinaMXL-TK12v6": {
+            "ss_name": "ReinaMXL",
+            "baseModel": "Pony"
+        },
+        "Reina_Mishima_TEKKEN_PONY_XL_by_UOC": {
+            "ss_name": "Reina_Mishima_TEKKEN_PONY_XL_by_UOC",
             "baseModel": "Pony"
         },
         "Reina_XL-10": {
@@ -9406,6 +9578,10 @@
         },
         "under_the_table_peek": {
             "ss_name": "under_the_table_peak",
+            "baseModel": "Pony"
+        },
+        "unknownTKXL-12v6": {
+            "ss_name": "unknownTKXL",
             "baseModel": "Pony"
         },
         "Unusual_Penis": {
@@ -10269,6 +10445,18 @@
         "Animal Mecha [IL]": [
             "Animal Mecha [IL]"
         ],
+        "AnnaT6_Illu_Dwnsty": [
+            "AnnaT6_Illu_Dwnsty"
+        ],
+        "AnnaT8": [
+            "AnnaT8-10"
+        ],
+        "Anna_Williamstk8": [
+            "Anna_Williamstk8"
+        ],
+        "Anna_Williams_tekken": [
+            "Anna_Williams_tekken"
+        ],
         "Anthro_Furry_Lora_Juddy_Hopps_Zootopia": [
             "Anthro_Furry_Lora_Judy_Hopps_Zootopia"
         ],
@@ -10323,6 +10511,15 @@
         ],
         "AsslessMorticiaDressILL": [
             "AsslessMorticiaDressILL"
+        ],
+        "AsukaT8": [
+            "AsukaT8-10"
+        ],
+        "Asuka_Kazama_ILXL": [
+            "Asuka_Kazama_ILXL"
+        ],
+        "Asuka_Kazama_tekken_8": [
+            "Asuka_Kazama_tekken_8"
         ],
         "asuna_yuuki_illust_scarxzys": [
             "asuna_yuuki_illust_scarxzys"
@@ -10458,6 +10655,9 @@
         ],
         "Bridget Lillustrious": [
             "Bridget [IllustriousXL]"
+        ],
+        "Bridget": [
+            "Bridget"
         ],
         "Brig kpop illus": [
             "Brig kpop illus-000035"
@@ -10888,6 +11088,12 @@
         "EllieTLOU1ILf": [
             "EllieTLOU1ILf"
         ],
+        "elpheltStriveILM": [
+            "elpheltStriveILM"
+        ],
+        "ElpheltValentine_IXL_v1": [
+            "ElpheltValentine_IXL_v1"
+        ],
         "eltole": [
             "eltole"
         ],
@@ -11150,6 +11356,9 @@
         "Guardian Eatos illuXL v1": [
             "Guardian Eatos illuXL v1"
         ],
+        "Guilty_Gear_Strive_-_Dual_Rulers": [
+            "Guilty_Gear_Strive_-_Dual_Rulers_-_Bridget_-_illustrious"
+        ],
         "GwenTennyson_Ben10_illustrious_Leaf1": [
             "GwenTennyson_Ben10_illustrious_Leaf1-000019_R2"
         ],
@@ -11390,8 +11599,14 @@
         "ilsnowwhite": [
             "ilsnowwhite"
         ],
+        "ILT8Lili": [
+            "ILT8Lili"
+        ],
         "iltiana": [
             "iltiana"
+        ],
+        "ILTKReina": [
+            "ILTKReina"
         ],
         "ILTKXiaoyu": [
             "ILTKXiaoyu"
@@ -11534,6 +11749,12 @@
         ],
         "Junk Warrior illuXL v1": [
             "Junk Warrior illuXL v1"
+        ],
+        "JunT8": [
+            "JunT8-10"
+        ],
+        "jun_kazama-guy90-Illust-LoraV201": [
+            "jun_kazama-guy90-Illust-LoraV201"
         ],
         "Juri_Street_Fighter": [
             "Juri_Street_Fighter-000009"
@@ -11767,8 +11988,14 @@
         "Lilith_Aensland_IL": [
             "Lilith_Aensland_IL"
         ],
+        "Lili_Emilie_de_Rochefort_-_Tekken": [
+            "Lili_Emilie_de_Rochefort_-_Tekken-000004"
+        ],
         "lili_tekken8": [
             "lili_tekken8"
+        ],
+        "Lili\u30ea\u30ea\u9244\u62f3": [
+            "Lili\u30ea\u30ea\u9244\u62f3"
         ],
         "lilpenispeekIllust": [
             "lilpenispeekIllustV1"
@@ -11799,6 +12026,13 @@
         ],
         "Lovely labrynth of the silver castle illuXL v1": [
             "Lovely labrynth of the silver castle illuXL v1"
+        ],
+        "lucky_chloe_tekken": [
+            "lucky_chloe_tekken"
+        ],
+        "Lucky_Chloe_Tekken_PONY_XL_by_UOC": [
+            "Lucky_Chloe_Tekken_PONY_XL_by_UOC",
+            "Lucky_Chloe_Tekken_PONY_XL_by_UOC"
         ],
         "lugia": [
             "lugia-05",
@@ -12124,6 +12358,12 @@
         ],
         "NightRoseApexAiIllustrious": [
             "NightRoseApexAiIllustrious-10"
+        ],
+        "NinaT8": [
+            "NinaT8-10"
+        ],
+        "Nina_Williams_Tekken_8": [
+            "Nina_Williams_Tekken_8"
         ],
         "NinetalesPokedexIXL": [
             "NinetalesPokedexIXL"
@@ -12476,6 +12716,12 @@
         "RaelStellar": [
             "RaelStellar-10"
         ],
+        "Ramlethal DG iIlluLoRA": [
+            "Ramlethal DG iIlluLoRA"
+        ],
+        "RamlethalValentineIXL": [
+            "RamlethalValentineIXL"
+        ],
         "Ranamon_Ilus": [
             "Ranamon_Ilus-05"
         ],
@@ -12540,6 +12786,12 @@
         ],
         "Red Blossoms from Underroot illuXL v1": [
             "Red Blossoms from Underroot illuXL v1"
+        ],
+        "Reinav2_Illu_Dwnsty": [
+            "Reinav2_Illu_Dwnsty"
+        ],
+        "Reina_tekken": [
+            "Reina_tekken"
         ],
         "Remi_V2": [
             "Remi_V2"
@@ -13287,6 +13539,9 @@
         "FrostMaiden_Vpred": [
             "FrostMaiden_Vpred"
         ],
+        "guiltygear_ramlethal_noobAIXL11EPS-STRIVE": [
+            "guiltygear_ramlethal_noobAIXL11EPS-STRIVE"
+        ],
         "Kiryu_v15-noobxl_eps-02": [
             "Kiryu_v11-noobxl_eps"
         ],
@@ -13782,6 +14037,12 @@
         ],
         "BretonnianProphetess": [
             "BretonnianProphetess"
+        ],
+        "Bridget Guilty Gear (Autism SDXL)": [
+            "Bridget Guilty Gear (Autism SDXL)"
+        ],
+        "bridget": [
+            "bridget-10"
         ],
         "BrittneyPony1.0": [
             "BrittneyPony1.0"
@@ -14327,6 +14588,9 @@
         "elma_pony_v2": [
             "elma_pony_v2"
         ],
+        "Elphelt Valentine_pony": [
+            "Elphelt Valentine_pony"
+        ],
         "Elsa frozen": [
             "Elsa frozen "
         ],
@@ -14338,6 +14602,12 @@
         ],
         "emilie": [
             "emilie-09"
+        ],
+        "Emilie_de_Rochefort": [
+            "Emilie_de_Rochefort"
+        ],
+        "Emilie_de_Rochefort_ILXL": [
+            "Emilie_de_Rochefort_ILXL"
         ],
         "Emily_Overwatch": [
             "Emily_Overwatch"
@@ -14371,6 +14641,9 @@
         ],
         "EntraptaSheraPDXL_v2": [
             "EntraptaSheraPDXL"
+        ],
+        "EPggElphelt": [
+            "EPggElphelt"
         ],
         "Epona": [
             "Epona"
@@ -14720,6 +14993,9 @@
         "GuardianXL": [
             "GuardianXL-TEW12"
         ],
+        "guiltygear_strive_ramlethal_ponyXL-CAME": [
+            "guiltygear_strive_ramlethal_ponyXL-CAME"
+        ],
         "gwenom": [
             "gwenom-08"
         ],
@@ -14959,6 +15235,12 @@
         ],
         "junomon-pdxl-nvwls-v1": [
             "junomon-pdxl-nvwls-v1"
+        ],
+        "Jun_Kazama_TEKKEN_PONY_XL_by_UOC": [
+            "Jun_Kazama_TEKKEN_PONY_XL_by_UOC"
+        ],
+        "Jun_Kazama__Tekken_games": [
+            "Jun_Kazama__Tekken_games-000002"
         ],
         "Jupiter": [
             "Jupiter"
@@ -15224,6 +15506,12 @@
         "LennoxRoseFOPXL": [
             "LennoxRoseFOPXL - by KillerUwU13_AI"
         ],
+        "LeoKT8": [
+            "LeoKT8-12v6"
+        ],
+        "Leo_Kliesen_-_Tekken": [
+            "Leo_Kliesen_-_Tekken-000018"
+        ],
         "Lettie": [
             "Lettie-Warframe"
         ],
@@ -15314,8 +15602,8 @@
         "luce": [
             "luce_pony"
         ],
-        "Lucky_Chloe_Tekken_PONY_XL_by_UOC": [
-            "Lucky_Chloe_Tekken_PONY_XL_by_UOC"
+        "Lucky_Chloe_-_Tekken": [
+            "Lucky_Chloe_-_Tekken"
         ],
         "Lunaris": [
             "Lunaris (Illustrious)"
@@ -16113,8 +16401,14 @@
         "sakuemonq": [
             "Pony6.sakuemonq.10"
         ],
+        "PonyAnn4W": [
+            "PonyAnn4W"
+        ],
         "PonyRecluseER": [
             "PonyRecluseER"
+        ],
+        "PonyXL OG bridgetGG V3": [
+            "PonyXL OG bridgetGG V3"
         ],
         "PONYXL_CammyWhite_ownwaifu": [
             "PONYXL_CammyWhite_ownwaifu"
@@ -16294,6 +16588,9 @@
         "ramirez": [
             "ramirez-06"
         ],
+        "RamXrd": [
+            "RamXrd-000006"
+        ],
         "ranamon_1": [
             "ranamon (Digimon) - XL "
         ],
@@ -16344,6 +16641,15 @@
         ],
         "ReikaDOAXVVPony": [
             "ReikaDOAXVVPony"
+        ],
+        "reina": [
+            "reina-10 (1)"
+        ],
+        "ReinaMXL": [
+            "ReinaMXL-TK12v6"
+        ],
+        "Reina_Mishima_TEKKEN_PONY_XL_by_UOC": [
+            "Reina_Mishima_TEKKEN_PONY_XL_by_UOC"
         ],
         "Reina_XL": [
             "Reina_XL-10"
@@ -16957,6 +17263,9 @@
         ],
         "under_the_table_peak": [
             "under_the_table_peek"
+        ],
+        "unknownTKXL": [
+            "unknownTKXL-12v6"
         ],
         "Unusual_Penis": [
             "Unusual_Penis"
