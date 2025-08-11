@@ -1536,6 +1536,14 @@
             "ss_name": "Godzilla_-_Fortnite__Illustrious_",
             "baseModel": "Illustrious"
         },
+        "Godzilla_illu": {
+            "ss_name": "Godzilla",
+            "baseModel": "Illustrious"
+        },
+        "Godzilla_illustrious_V2-1": {
+            "ss_name": "Godzilla_illustrious_V2",
+            "baseModel": "Illustrious"
+        },
         "gothicsheerleotardILL": {
             "ss_name": "gothicsheerleotardILL",
             "baseModel": "Illustrious"
@@ -4484,6 +4492,10 @@
             "ss_name": "guiltygear_ramlethal_noobAIXL11EPS-STRIVE",
             "baseModel": "NoobAI"
         },
+        "GxK_Godzilla_a1_4_NoobXL-eps_spnlora1_th-0.7": {
+            "ss_name": "GxK_Godzilla_a1_4_NoobXL-eps",
+            "baseModel": "NoobAI"
+        },
         "Kiryu_v11-noobxl_eps": {
             "ss_name": "Kiryu_v15-noobxl_eps-02",
             "baseModel": "NoobAI"
@@ -6432,8 +6444,16 @@
             "ss_name": "Glowing_handprint",
             "baseModel": "Pony"
         },
+        "godzilla-10": {
+            "ss_name": "godzilla",
+            "baseModel": "Pony"
+        },
         "Godzilla_Personified": {
             "ss_name": "Godzilla_Personified",
+            "baseModel": "Pony"
+        },
+        "Godzilla_pony": {
+            "ss_name": "Godzilla",
             "baseModel": "Pony"
         },
         "Godzilla_PONY_XL_Ver": {
@@ -9156,6 +9176,10 @@
             "ss_name": "Shimmerdusk",
             "baseModel": "Pony"
         },
+        "shimo_-_godzilla_x_kong_the_new_empire_-_yamaraim-000007": {
+            "ss_name": "shimo_-_godzilla_x_kong_the_new_empire_-_yamaraim",
+            "baseModel": "Pony"
+        },
         "Shin-ryeonng dva-000025": {
             "ss_name": "Shin-ryeonng dva",
             "baseModel": "Pony"
@@ -11350,6 +11374,13 @@
         "Godzilla_-_Fortnite__Illustrious_": [
             "Godzilla_-_Fortnite__Illustrious_"
         ],
+        "Godzilla": [
+            "Godzilla_illu",
+            "Godzilla_pony"
+        ],
+        "Godzilla_illustrious_V2": [
+            "Godzilla_illustrious_V2-1"
+        ],
         "gothicsheerleotardILL": [
             "gothicsheerleotardILL"
         ],
@@ -13542,6 +13573,9 @@
         "guiltygear_ramlethal_noobAIXL11EPS-STRIVE": [
             "guiltygear_ramlethal_noobAIXL11EPS-STRIVE"
         ],
+        "GxK_Godzilla_a1_4_NoobXL-eps": [
+            "GxK_Godzilla_a1_4_NoobXL-eps_spnlora1_th-0.7"
+        ],
         "Kiryu_v15-noobxl_eps-02": [
             "Kiryu_v11-noobxl_eps"
         ],
@@ -14962,6 +14996,9 @@
         ],
         "Glowing_handprint": [
             "Glowing_handprint"
+        ],
+        "godzilla": [
+            "godzilla-10"
         ],
         "Godzilla_Personified": [
             "Godzilla_Personified"
@@ -16954,6 +16991,9 @@
         ],
         "Shimmerdusk": [
             "Shimmerdusk"
+        ],
+        "shimo_-_godzilla_x_kong_the_new_empire_-_yamaraim": [
+            "shimo_-_godzilla_x_kong_the_new_empire_-_yamaraim-000007"
         ],
         "Shin-ryeonng dva": [
             "Shin-ryeonng dva-000025"
