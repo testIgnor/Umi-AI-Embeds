@@ -1,64 +1,65 @@
-(mercy \(overwatch\):1.3), overwatch, blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch, Overwatch 1 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(mercy \(overwatch\):1.3), overwatch, blonde hair, ponytail, blue eyes, long hair, <lora:ow-mercy:0.8> xmercyx
-(mercy \(overwatch\):1.3), overwatch, blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch, Overwatch 2 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(mercy \(overwatch\):1.3), overwatch, blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch, Dr. Ziegler <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(mercy \(overwatch\):1.3), overwatch, blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch, 2019 Atlantic All-Stars <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(mercy \(overwatch\):1.3), overwatch, blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch, Eidgenossin <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(witch mercy:1.3), overwatch, long hair, blonde hair, ponytail, blue eyes, Mercy_Overwatch, Witch <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(pink mercy:1.3), overwatch, blonde hair, blue eyes, long hair, twintails, Mercy_Overwatch, Pink <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(devil mercy:1.3), overwatch, long hair, ponytail, purple eyes, black hair
-(lifeguard mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Lifeguard <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(sugar plum fairy mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Sugar Plum Fairy <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(Combat Medic Ziegler:1.3), mercy \(overwatch\), overwatch, Mercy_Overwatch, <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(winged victory mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Winged Victory <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(imp mercy \(overwatch\):1.3), overwatch, Mercy_Overwatch, Imp <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
-(tracer \(overwatch\):1.3), overwatch, brown eyes, brown hair, short hair, spiked hair, freckles
-(tracer \(overwatch\):1.3), overwatch, brown eyes, brown hair, short hair, spiked hair, freckles, <lora:ow-tracer:0.8> xtracerx
-(synthwave tracer \(overwatch\):1.3), overwatch, overwatch, brown eyes, dark blue hair, short hair, spiked hair
-(punk tracer \(overwatch\):1.3), overwatch, brown eyes, pink hair, short hair, spiked hair
-(graffiti tracer \(overwatch\):1.3), overwatch, brown eyes, blue hair, purple hair, short hair, spiked hair
-(eveningwear tracer \(overwatch\):1.3), overwatch, brown eyes, blonde hair, short hair <lora:Eveningwear_Tracer_Overwatch:1>
-(operative oxton:1.3), tracer \(overwatch\), overwatch, brown eyes, multicolored hair, black hair, green hair, short hair, spiked hair, <lora:OW_TalonTracer-PONY:1> ow_oxton
-(operative oxton:1.3), tracer \(overwatch\), overwatch, brown eyes, multicolored hair, black hair, green hair, short hair, spiked hair, <lora:OW_TalonTracer-IL:1> ow_oxton
-(tracer \(overwatch\):1.3), overwatch, le sserafim tracer, overwatch tracer, short hair, spiky hair, blonde hair <lora:Overwatch_-_Le_Sserafim_-_Tracer:1>
-(widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair, long ponytail, tattoo
-(widowmaker \(overwatch\):1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair, long ponytail, tattoo, <lora:ow-widowmaker:0.8> xwidowmakerx
-(cote d'azur widowmaker:1.3), overwatch, yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair**ponytail**
+(mercy \(overwatch\):1.3), blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch 1 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), blonde hair, ponytail, blue eyes, long hair, <lora:ow-mercy:0.8> xmercyx
+(mercy \(overwatch\):1.3), blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch 2 <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch, Dr. Ziegler <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch, 2019 Atlantic All-Stars <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(mercy \(overwatch\):1.3), blonde hair, ponytail, blue eyes, long hair, Mercy_Overwatch, Eidgenossin <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(witch mercy:1.3), long hair, blonde hair, ponytail, blue eyes, Mercy_Overwatch, Witch <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(pink mercy:1.3), blonde hair, blue eyes, long hair, twintails, Mercy_Overwatch, Pink <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(devil mercy:1.3), long hair, ponytail, purple eyes, black hair
+(lifeguard mercy \(overwatch\):1.3), Mercy_Overwatch, Lifeguard <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(sugar plum fairy mercy \(overwatch\):1.3), Mercy_Overwatch, Sugar Plum Fairy <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(Combat Medic Ziegler:1.3), mercy \(overwatch\), Mercy_Overwatch, <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(winged victory mercy \(overwatch\):1.3), Mercy_Overwatch, Winged Victory <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(imp mercy \(overwatch\):1.3), Mercy_Overwatch, Imp <lora:Mercy_Overwatch_Ultimate_Pack_PonyXL_LoRA:1>
+(tracer \(overwatch\):1.3), brown eyes, brown hair, short hair, spiked hair, freckles
+(tracer \(overwatch\):1.3), brown eyes, brown hair, short hair, spiked hair, freckles, <lora:ow-tracer:0.8> xtracerx
+(synthwave tracer \(overwatch\):1.3), brown eyes, dark blue hair, short hair, spiked hair
+(punk tracer \(overwatch\):1.3), brown eyes, pink hair, short hair, spiked hair
+(graffiti tracer \(overwatch\):1.3), brown eyes, blue hair, purple hair, short hair, spiked hair
+(eveningwear tracer \(overwatch\):1.3), brown eyes, blonde hair, short hair <lora:Eveningwear_Tracer_Overwatch:1>
+(operative oxton:1.3), tracer \(overwatch\), brown eyes, multicolored hair, black hair, green hair, short hair, spiked hair, <lora:OW_TalonTracer-PONY:1> ow_oxton
+(operative oxton:1.3), tracer \(overwatch\), brown eyes, multicolored hair, black hair, green hair, short hair, spiked hair, <lora:OW_TalonTracer-IL:1> ow_oxton
+(tracer \(overwatch\):1.3), le sserafim tracer tracer, short hair, spiky hair, blonde hair <lora:Overwatch_-_Le_Sserafim_-_Tracer:1>
+(widowmaker \(overwatch\):1.3), yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair, long ponytail, tattoo
+(widowmaker \(overwatch\):1.3), yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair, long ponytail, tattoo, <lora:ow-widowmaker:0.8> xwidowmakerx
+(cote d'azur widowmaker:1.3), yellow eyes, purple hair, (purple skin, colored skin:1.5), long hair**ponytail**
 (Amélie Lacroix:1.3), widowmaker \(overwatch\), yellow eyes, black hair, long hair, ponytail**(purple skin, colored skin:1.5)**
-(emily \(overwatch\):1.3), overwatch, red hair, freckles, medium hair, ginger, green eyes, red hair
-(emily \(overwatch\):1.3), overwatch, freckles, medium hair, ginger, <lora:Emily_Overwatch:1> Emily_\(Overwatch\), long hair, orange hair, green eyes, red hair
-(sombra \(overwatch\):1.3), overwatch, two-tone hair, (dark skin, dark-skinned female:1.3), multicolored hair, undercut, two-tone hair, purple hair, brown hair, purple eyes, makeup, lipstick, earrings, mole under eye, asymmetrical hair
-(sombra \(overwatch\):1.3), overwatch, two-tone hair, (dark skin, dark-skinned female:1.3), multicolored hair, undercut, two-tone hair, purple hair, brown hair, purple eyes, makeup, lipstick, earrings, mole under eye, asymmetrical hair, <lora:ow-sombra:1> xsombrax
-(sombra \(overwatch\):1.3), overwatch, (dark skin, dark-skinned female:1.3), Le Sserafim Sombra, Overwatch Sombra, purple gradient hair <lora:Overwatch_-_Le_Sserafim_-_Sombra:1>
-(sombra \(overwatch\):1.3), overwatch, (dark skin, dark-skinned female:1.3), Le Sserafim Sombra, Overwatch Sombra, purple gradient hair, <lora:Sombra kpop illus:1> sombra kpop
-(ana \(overwatch\):1.3), overwatch, (dark skin, dark-skinned female:1.3), brown eyes, long hair, black hair
-(captain amari:1.3), ana \(overwatch\), overwatch, (dark skin, dark-skinned female:1.3), brown eyes, brown hair, long hair, black hair
-(kiriko \(overwatch\):1.3), overwatch, green hair, topknot, brown eyes, facial mark
-(kiriko \(overwatch\):1.3), overwatch, green hair, topknot, brown eyes, facial mark, <lora:ow-kiriko:0.8> xkirikox, green hair, topknot, brown eyes, facial mark
-(kiriko \(overwatch\):1.3), overwatch, Le Sserafim Kiriko, Overwatch Kiriko, Short Blue Hair <lora:Overwatch_-_Le_Sserafim_-_Kiriko:1>
-(kiriko \(overwatch\):1.3), overwatch, Le Sserafim Kiriko, Overwatch Kiriko, Short Blue Hair, <lora:Kiriko lesseraffim illus:1> kiriko kpop
-(brigitte \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair, ponytail, sidelocks, freckles
-(brigitte \(overwatch\):1.3), overwatch, long hair, brown eyes, brown hair, ponytail, sidelocks, freckles, <lora:ow-brigitte:0.8> xbrigittex
-(brigitte \(overwatch\):1.3), overwatch, le sserafim brigitte, overwatch brigitte, red hair, high ponytail, braided bangs, brown eyes <lora:Overwatch_-_Le_Sserafim_-_Brigitte:1>
-(brigitte \(overwatch\):1.3), overwatch, le sserafim brigitte, overwatch brigitte, red hair, high ponytail, braided bangs, brown eyes, <lora:Brig kpop illus:1> brig kpop
-(pharah \(overwatch\):1.3), overwatch, (dark skin, dark-skinned female:1.3), brown eyes, short hair, black hair, facial mark, side braids, hair tube
-(pharah \(overwatch\):1.3), overwatch, (dark skin, dark-skinned female:1.3), brown eyes, short hair, black hair, facial mark, side braids, hair tube, <lora:ow-phara:0.8> xpharax
-(mei \(overwatch\):1.3), overwatch, brown eyes, short hair, brown hair
-(symmetra \(overwatch\):1.3), overwatch, (dark skin, dark-skinned female:1.3), black hair, long hair, brown eyes, headgear, single mechanical arm
-(symmetra \(overwatch\):1.3), overwatch, (dark skin, dark-skinned female:1.3), black hair, long hair, brown eyes, headgear, single mechanical arm, <lora:ow-symmetra-rd:0.8> xsymmetrax
-(ashe \(overwatch\):1.3), overwatch, red eyes, medium hair, short hair, white hair, makeup, lipstick, eyeshadow, earrings
-(ashe \(overwatch\):1.3), overwatch, red eyes, medium hair, short hair, white hair, makeup, lipstick, eyeshadow, earrings, <lora:ow-ashe:0.8> xashex
-(zarya \(overwatch\):1.3), overwatch, green eyes, pink hair, short hair
-(junker queen \(overwatch\):1.3), overwatch, (dark skin, dark-skinned female:1.3), blue hair, mohawk, braid, dark-skinned female, red eyes, earrings, <lora:ow-junkerqueen:0.8> xjunkerqueenx
-(d.mon \(overwatch\):1.3), Yuna Lee, black hair, medium hair, korean, green eyes <lora:Dmon ill-000045:1>
-(juno \(overwatch\):1.3), overwatch, short hair, multicolored hair, pink hair, purple hair, brown eyes, blunt bangs, junoSDXL <lora:juno:1>
-(juno \(overwatch\):1.3), overwatch, short hair, multicolored hair, pink hair, purple hair, brown eyes, blunt bangs, <lora:ow-juno:0.8> xjunox
-(sojourn \(overwatch\):1.3), overwatch, sojournSDXL, blue eyes, facial mark, white hair, (dark skin, dark-skinned female:1.3), science fiction, joints, cyborg, robot joints, very dark skin, dreadlocks, mechanical legs <lora:sojourn:1>
-(sojourn \(overwatch\):1.3), overwatch, blue eyes, facial mark, white hair, (dark skin, dark-skinned female:1.3), science fiction, joints, cyborg, robot joints, very dark skin, dreadlocks, mechanical legs, <lora:Sojourn:1>, SojournIL
-(alejandra \(overwatch\):1.3), overwatch, ale, brown hair, (dark skin, dark-skinned female:1.3), twin braids <lora:AlejandraPony1.1:1>
-(alejandra \(overwatch\):1.3), overwatch, ale, brown hair, (dark skin, dark-skinned female:1.3), twin braids, <lora:AlejandraIllustrious2.0JLFO:1> alejandra
-(efi oladele \(overwatch\):1.3), overwatch, <lora:Efi_Oladele_Overwatch_for_PonyXL:1> efi_oladele, dark-skinned female, very dark skin, facepaint, dreadlocks, black hair, short hair**(kiriko \(overwatch\):1.5)**
-(echo \(overwatch\):1.3), overwatch, <lora:EchoStealth:1> mecha, no humans, science fiction, wings, mechanical wings, humanoid robot
-(echo \(overwatch\):1.3), overwatch, <lora:ow-echo:0.8> xechox, blue skin, humanoid robot, robot joints, detached wings
-(freja \(overwatch\):1.3), overwatch, <lora:ow-freja:0.8> xfrejax, orange hair, short hair, braid, single hair bun, hair ribbon, green eyes, freckles, facial mark
-(illari \(overwatch\):1.3), overwatch, <lora:ow-illari:0.8> xillarix, dark-skinned female, black hair, long hair, twin braids, hair ornament, brown eyes, facial mark, earrings
+(emily \(overwatch\):1.3), red hair, freckles, medium hair, ginger, green eyes, orange hair**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
+(emily \(overwatch\):1.3), freckles, medium hair, ginger, <lora:Emily_Overwatch:1> Emily_\(Overwatch\), long hair, orange hair, green eyes, red hair**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
+(sombra \(overwatch\):1.3), two-tone hair, (dark skin, dark-skinned female:1.3), multicolored hair, undercut, two-tone hair, purple hair, brown hair, purple eyes, makeup, lipstick, earrings, mole under eye, asymmetrical hair
+(sombra \(overwatch\):1.3), two-tone hair, (dark skin, dark-skinned female:1.3), multicolored hair, undercut, two-tone hair, purple hair, brown hair, purple eyes, makeup, lipstick, earrings, mole under eye, asymmetrical hair, <lora:ow-sombra:1> xsombrax
+(sombra \(overwatch\):1.3), (dark skin, dark-skinned female:1.3), Le Sserafim Sombra Sombra, purple gradient hair <lora:Overwatch_-_Le_Sserafim_-_Sombra:1>
+(sombra \(overwatch\):1.3), (dark skin, dark-skinned female:1.3), Le Sserafim Sombra Sombra, purple gradient hair, <lora:Sombra kpop illus:1> sombra kpop
+(ana \(overwatch\):1.3), (dark skin, dark-skinned female:1.3), brown eyes, long hair, black hair
+(captain amari:1.3), ana \(overwatch\), (dark skin, dark-skinned female:1.3), brown eyes, brown hair, long hair, black hair
+(kiriko \(overwatch\):1.3), green hair, topknot, brown eyes, facial mark
+(kiriko \(overwatch\):1.3), green hair, topknot, brown eyes, facial mark, <lora:ow-kiriko:0.8> xkirikox, green hair, topknot, brown eyes, facial mark
+(kiriko \(overwatch\):1.3), Le Sserafim Kiriko Kiriko, Short Blue Hair <lora:Overwatch_-_Le_Sserafim_-_Kiriko:1>
+(kiriko \(overwatch\):1.3), Le Sserafim Kiriko Kiriko, Short Blue Hair, <lora:Kiriko lesseraffim illus:1> kiriko kpop
+(brigitte \(overwatch\):1.3), long hair, brown eyes, brown hair, ponytail, sidelocks, freckles
+(brigitte \(overwatch\):1.3), long hair, brown eyes, brown hair, ponytail, sidelocks, freckles, <lora:ow-brigitte:0.8> xbrigittex
+(brigitte \(overwatch\):1.3), le sserafim brigitte brigitte, red hair, high ponytail, braided bangs, brown eyes <lora:Overwatch_-_Le_Sserafim_-_Brigitte:1>
+(brigitte \(overwatch\):1.3), le sserafim brigitte brigitte, red hair, high ponytail, braided bangs, brown eyes, <lora:Brig kpop illus:1> brig kpop
+(pharah \(overwatch\):1.3), (dark skin, dark-skinned female:1.3), brown eyes, short hair, black hair, facial mark, side braids, hair tube
+(pharah \(overwatch\):1.3), (dark skin, dark-skinned female:1.3), brown eyes, short hair, black hair, facial mark, side braids, hair tube, <lora:ow-phara:0.8> xpharax
+(mei \(overwatch\):1.3), brown eyes, short hair, brown hair
+(symmetra \(overwatch\):1.3), (dark skin, dark-skinned female:1.3), black hair, long hair, brown eyes, headgear, single mechanical arm
+(symmetra \(overwatch\):1.3), (dark skin, dark-skinned female:1.3), black hair, long hair, brown eyes, headgear, single mechanical arm, <lora:ow-symmetra-rd:0.8> xsymmetrax
+(ashe \(overwatch\):1.3), red eyes, medium hair, short hair, white hair, makeup, lipstick, eyeshadow, earrings
+(ashe \(overwatch\):1.3), red eyes, medium hair, short hair, white hair, makeup, lipstick, eyeshadow, earrings, <lora:ow-ashe:0.8> xashex
+(zarya \(overwatch\):1.3), green eyes, pink hair, short hair
+(junker queen \(overwatch\):1.3), (dark skin, dark-skinned female:1.3), blue hair, mohawk, braid, dark-skinned female, red eyes, earrings, <lora:ow-junkerqueen:0.8> xjunkerqueenx
+(d.mon \(overwatch\):0.0), Yuna Lee, black hair, medium hair, korean, green eyes, Dmon <lora:Dmon ill-000045:1>**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
+(d.mon \(overwatch\):0.0), Yuna Lee, black hair, medium hair, korean, green eyes, d.mon <lora:Dmon:1>**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
+(juno \(overwatch\):1.3), short hair, multicolored hair, pink hair, purple hair, brown eyes, blunt bangs, junoSDXL <lora:juno:1>
+(juno \(overwatch\):1.3), short hair, multicolored hair, pink hair, purple hair, brown eyes, blunt bangs, <lora:ow-juno:0.8> xjunox
+(sojourn \(overwatch\):1.3), sojournSDXL, blue eyes, facial mark, white hair, (dark skin, dark-skinned female:1.3), science fiction, joints, cyborg, robot joints, very dark skin, dreadlocks, mechanical legs <lora:sojourn:1>
+(sojourn \(overwatch\):1.3), blue eyes, facial mark, white hair, (dark skin, dark-skinned female:1.3), science fiction, joints, cyborg, robot joints, very dark skin, dreadlocks, mechanical legs, <lora:Sojourn:1>, SojournIL
+(alejandra \(overwatch\):0.0), ale, brown hair, dark skin, dark-skinned female, twin braids, brown eyes, <lora:AlejandraPony1.1:1>, alejandra**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
+(alejandra \(overwatch\):0.0), brown hair, dark skin, dark-skinned female, twin braids, brown eyes, <lora:AlejandraIllustrious2.0JLFO:1> alejandra**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
+(efi oladele \(overwatch\):0.0), <lora:Efi_Oladele_Overwatch_for_PonyXL:1> efi_oladele, dark-skinned female, very dark skin, facepaint, dreadlocks, black hair, short hair, brown eyes**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
+(echo \(overwatch\):1.3), <lora:EchoStealth:1> mecha, no humans, science fiction, wings, mechanical wings, humanoid robot
+(echo \(overwatch\):1.3), <lora:ow-echo:0.8> xechox, blue skin, humanoid robot, robot joints, detached wings
+(freja \(overwatch\):1.3), <lora:ow-freja:0.8> xfrejax, orange hair, short hair, braid, single hair bun, hair ribbon, green eyes, freckles, facial mark
+(illari \(overwatch\):1.3), <lora:ow-illari:0.8> xillarix, dark-skinned female, black hair, long hair, twin braids, hair ornament, brown eyes, facial mark, earrings
