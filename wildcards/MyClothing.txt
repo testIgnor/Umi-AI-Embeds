@@ -26,7 +26,7 @@ open towel, <lora:OpenTowel_T1V0-TMIL:1> open towel, holding towel, <[eznude][ge
 <lora:Cross_Swimsuit:1> Cr055_5w1ms01t, o-ring swimsuit, skindentation, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:o-ring_slingshot:1> 0-r1ng_sl1ngsh0t,  o-ring swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
 <lora:Liberator-Azarin_illus:1> Liberator-Azarin, Liberator-Azarin, thighhighs, high heels, gloves, demon tail, wings, tail, black thighhighs, boots, black gloves, hair ribbon, elbow gloves, pubic tattoo, clothing cutout, demon wings, dark persona, low wings, clothing cutout, garter straps, puffy sleeves, highleg, black skirt, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Liberator-Azarin_illus:1> Liberator-Azarin, Liberator-Azarin, thighhighs, high heels, gloves, demon tail, wings, tail, black thighhighs, boots, black gloves, hair ribbon, elbow gloves, pubic tattoo, clothing cutout, demon wings, dark persona, low wings, clothing cutout, garter straps, puffy sleeves, highleg, black skirt, <[ezcovered][get eff_gen _before=[ _after=]]>, areola slip
+<lora:Liberator-Azarin_illus:1> Liberator-Azarin, Liberator-Azarin, thighhighs, high heels, gloves, demon tail, wings, tail, black thighhighs, boots, black gloves, hair ribbon, elbow gloves, pubic tattoo, clothing cutout, demon wings, dark persona, low wings, clothing cutout, garter straps, puffy sleeves, highleg, black skirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
 <lora:mogador swimXLNAI:1> mogador (\swim\), halterneck, micro bikini, black bikini, black one-piece swimsuit, strap between breasts, mole on breast, bracelet, choker, navel
 <lora:UIMXLNAI:1> knee boots, high heel boots, UIM(\azur\), black jacket, open jacket, black choker, cropped jacket, highleg
 tankini, tank top, bikini bottom, <[ezcovered][get eff_gen _before=[ _after=]]>
@@ -515,6 +515,12 @@ exhibitionism, <lora:bw_ero_ilxl:1> body writing, bodypaint \(ero\), <[eznude][g
 <lora:balletdress-winx-IL:1>, ballet dress, tutu, [choose][call wildcards/colors][/choose] pantyhose, sparkly pantyhose, ballet slippers, xwinxballetx, <[covered][lower][get eff_gen _before=[ _after=]]>
 <lora:balletdress-winx-IL:1>, ballet dress, tutu, [choose][call wildcards/colors][/choose] pantyhose, sparkly pantyhose, ballet slippers, xwinxballetx, <[covered][upper][get eff_gen _before=[ _after=]]>
 <lora:balletdress-winx-IL:1>, ballet dress, tutu, [choose][call wildcards/colors][/choose] pantyhose, sparkly pantyhose, ballet slippers, xwinxballetx, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:naked-hoodie-illustriousxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:naked-hoodie-illustriousxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:naked-hoodie-illustriousxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:naked-hoodie-ponyxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:naked-hoodie-ponyxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:naked-hoodie-ponyxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 [if "'futanari' in eff_gen"]
 <lora:DownbulgeIL:1> down_bulge
 <lora:upbulgeIL:1> north_bulge, curved_bulge

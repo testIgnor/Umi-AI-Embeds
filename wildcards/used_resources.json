@@ -2856,6 +2856,10 @@
             "ss_name": "NabooruZelda_IXL",
             "baseModel": "Illustrious"
         },
+        "naked-hoodie-illustriousxl-lora-nochekaiser": {
+            "ss_name": "naked-hoodie-illustriousxl-lora-nochekaiser",
+            "baseModel": "Illustrious"
+        },
         "Naked_cook": {
             "ss_name": "Naked_cook",
             "baseModel": "Illustrious"
@@ -7904,6 +7908,10 @@
             "ss_name": "nagisa_doa_pony",
             "baseModel": "Pony"
         },
+        "naked-hoodie-ponyxl-lora-nochekaiser": {
+            "ss_name": "naked-hoodie-ponyxl-lora-nochekaiser",
+            "baseModel": "Pony"
+        },
         "NanamiDOAXVV": {
             "ss_name": "NanamiDOAXVV",
             "baseModel": "Pony"
@@ -12359,6 +12367,9 @@
         "NabooruZelda_IXL": [
             "NabooruZelda_IXL"
         ],
+        "naked-hoodie-illustriousxl-lora-nochekaiser": [
+            "naked-hoodie-illustriousxl-lora-nochekaiser"
+        ],
         "Naked_cook": [
             "Naked_cook"
         ],
@@ -16063,6 +16074,9 @@
         ],
         "nagisa_doa_pony": [
             "nagisa_doa_pony v1.0"
+        ],
+        "naked-hoodie-ponyxl-lora-nochekaiser": [
+            "naked-hoodie-ponyxl-lora-nochekaiser"
         ],
         "NanamiDOAXVV": [
             "NanamiDOAXVV"
