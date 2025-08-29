@@ -2432,6 +2432,10 @@
             "ss_name": "Loose_clothing_IL",
             "baseModel": "Illustrious"
         },
+        "loose_tank_top_ilxl_goofy": {
+            "ss_name": "loose_tank_top_ilxl_goofy",
+            "baseModel": "Illustrious"
+        },
         "Lord Enorme_illustrious-000028": {
             "ss_name": "Lord Enorme_illustrious",
             "baseModel": "Illustrious"
@@ -12053,6 +12057,9 @@
         ],
         "Loose_clothing_IL": [
             "Loose_clothing_IL"
+        ],
+        "loose_tank_top_ilxl_goofy": [
+            "loose_tank_top_ilxl_goofy"
         ],
         "Lord Enorme_illustrious": [
             "Lord Enorme_illustrious-000028"

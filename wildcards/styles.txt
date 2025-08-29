@@ -11,7 +11,6 @@ masterpiece, best quality, amazing quality, very aesthetic, high resolution, ult
 masterpiece, best quality, amazing quality, very awa,absurdres,newest,very aesthetic,depth of field, highres
 masterpiece, best quality, newest, absurdres, highres
 [/tags]
-
 [tags style="negative" model="pony"]
 zPDXL2-neg, score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:2.0), (person in background, people in background:2.0), (person in foreground, people in foreground:2.0), monochrome, blurry, lowres, low-res, watermark, text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), (old man, ojisan, ugly bastard, foreground man:2.0)
 zPDXL2-neg, score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
