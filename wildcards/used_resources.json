@@ -2064,6 +2064,18 @@
             "ss_name": "john_doe",
             "baseModel": "Illustrious"
         },
+        "jtveemo-10": {
+            "ss_name": "jtveemo",
+            "baseModel": "Illustrious"
+        },
+        "JTVeemoStyleILXL - by KillerUwU13_AI": {
+            "ss_name": "JTVeemoStyleILXL",
+            "baseModel": "Illustrious"
+        },
+        "Jtveemo_Illus_Test1_Mnoise-000018": {
+            "ss_name": "Jtveemo_Illus_Test1_Mnoise",
+            "baseModel": "Illustrious"
+        },
         "Julie_makimoto_Illustrious_V1": {
             "ss_name": "Julie_makimoto",
             "baseModel": "Illustrious"
@@ -4436,6 +4448,10 @@
             "ss_name": "last",
             "baseModel": "Illustrious"
         },
+        "[jtveemo] Artist Style Illustrious": {
+            "ss_name": "last",
+            "baseModel": "Illustrious"
+        },
         "[Legoman (LMSketch)] Colored Pics by Roa80H Artist Style Illustrious": {
             "ss_name": "last",
             "baseModel": "Illustrious"
@@ -6794,6 +6810,14 @@
         },
         "Josie_Rizal_TEKKEN_PONY_XL_by_UOC": {
             "ss_name": "Josie_Rizal_TEKKEN_PONY_XL_by_UOC",
+            "baseModel": "Pony"
+        },
+        "jtveemo": {
+            "ss_name": "jtveemo",
+            "baseModel": "Pony"
+        },
+        "JTVeemoStylePXL by KillerUwU13_AI": {
+            "ss_name": "JTVeemoStylePXL",
             "baseModel": "Pony"
         },
         "JulesFN": {
@@ -11778,6 +11802,16 @@
         "john_doe": [
             "john_doe"
         ],
+        "jtveemo": [
+            "jtveemo-10",
+            "jtveemo"
+        ],
+        "JTVeemoStyleILXL": [
+            "JTVeemoStyleILXL - by KillerUwU13_AI"
+        ],
+        "Jtveemo_Illus_Test1_Mnoise": [
+            "Jtveemo_Illus_Test1_Mnoise-000018"
+        ],
         "Julie_makimoto": [
             "Julie_makimoto_Illustrious_V1"
         ],
@@ -12811,6 +12845,7 @@
             "[DAGASI (Sega Sonic)] Miles 'Tails' Prower Character 2.0 IllustriousXL",
             "[DAGASI (Sega Sonic)] Miles 'Tails' Prower Character IllustriousXL",
             "[incise soul (Team Ninja Dead Or Alive)] Marie Rose Character Illustrious",
+            "[jtveemo] Artist Style Illustrious",
             "[Legoman (LMSketch)] Colored Pics by Roa80H Artist Style Illustrious",
             "[Pixiqueenie] Marvel Rivals Collection Western ImageSet Style Illustrious",
             "[Zone] 2006-2008 Artist Style Illustrious",
@@ -15269,6 +15304,9 @@
         ],
         "Josie_Rizal_TEKKEN_PONY_XL_by_UOC": [
             "Josie_Rizal_TEKKEN_PONY_XL_by_UOC"
+        ],
+        "JTVeemoStylePXL": [
+            "JTVeemoStylePXL by KillerUwU13_AI"
         ],
         "jULESFN": [
             "JulesFN"

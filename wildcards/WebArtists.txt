@@ -142,6 +142,12 @@ by melonart, <lora:MelonArt_Style_Lora_Illustrious:1> by melonart
 by john doe, <lora:jdart:1> jdart style
 by john doe, <lora:john_doe:1> S4s4k1Nsfw
 by gagala, <lora:PONYXL_STYLE_Gagala_ownwaifu:1> PONYXL_STYLE_Gagala_ownwaifu
+by jtveemo, <lora:Jtveemo_Illus_Test1_Mnoise:1> jtveemostyle
+by jtveemo, <lora:jtveemo:1>
+by jtveemo, <lora:[jtveemo] Artist Style Illustrious:1> jtveemo_style
+by jtveemo, <lora:jtveemo-10:1> jtveemo
+by jtveemo, <lora:JTVeemoStyleILXL:1> JTVeemoStyleILXL
+by jtveemo, <lora:JTVeemoStylePXL:1> JTVeemoStylePXL
 <lora:1990sPCstyle_IL_v4:1> 1990's PC, oekaki, retro_artstyle, 1990s_\(style\), halftone, game screen shot of a video game
 <lora:DK4Style_SDXL:1> DKPCEStyle
 <lora:fepds_XL-v2.0_il:1> fepds, pixel art, retro artstyle
