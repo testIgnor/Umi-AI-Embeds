@@ -669,11 +669,11 @@ Main function
 [/set]
 [/while]
 
-[if "no_lora > 3"]
+[if "no_lora > 4"]
 [set p_prompt][multiply-lora-by-percent 75][get p_prompt][/multiply-lora-by-percent][/set]
 [/if]
 
-[if "no_lora > 4"]
+[if "no_lora > 5"]
 [set p_prompt][half-lora][get p_prompt][/half-lora][/set]
 [/if]
 
