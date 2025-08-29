@@ -1,9 +1,7 @@
 [tags style="positive" model="pony"]
-score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_explicit, zPDXL3
 score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_explicit
 [/tags]
 [tags style="positive" model="illu"]
-masterpiece, best quality, amazing quality, zPDXL3
 masterpiece, best quality, amazing quality
 masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery
 [/tags]
@@ -12,15 +10,11 @@ masterpiece, best quality, amazing quality, very awa,absurdres,newest,very aesth
 masterpiece, best quality, newest, absurdres, highres
 [/tags]
 [tags style="negative" model="pony"]
-zPDXL2-neg, score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:2.0), (person in background, people in background:2.0), (person in foreground, people in foreground:2.0), monochrome, blurry, lowres, low-res, watermark, text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), (old man, ojisan, ugly bastard, foreground man:2.0)
-zPDXL2-neg, score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
 score 6, score 5, score 4, source_cartoon, worst quality, bad quality, jpeg artifacts, 3d, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
 score_6, score_5, score_4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs
 score_6, score_5, score_4, simplified, abstract, unrealistic, impressionistic, low resolution, lowres, bad anatomy, bad hands, missing fingers, worst quality, low quality, normal quality, cartoon, anime, drawing, sketch, illustration, artificial, poor quality
 [/tags]
 [tags style="negative" model="illu"]
-zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5), (first person perspective, pov:2.0), (person in background, people in background:2.0), (person in foreground, people in foreground:2.0), text, english text, japanese text, korean text, chinese text, (submerged, underwater, standing in water, wading:2.0), (old man, ojisan, ugly bastard, foreground man:2.0)
-zPDXL2-neg, Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
 Base:bad quality, worst quality, worst detail, sketch, (censor, censored, censorship, bar censor, mosaic censoring:1.5)
 modern, recent, old, oldest, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured, long body, lowres, bad anatomy, bad hands, missing fingers, extra digits, fewer digits, cropped, very displeasing, (worst quality, bad quality:1.2), bad anatomy, sketch, jpeg artifacts, signature, watermark, username, signature, simple background, conjoined,bad ai-generated
 [/tags]
