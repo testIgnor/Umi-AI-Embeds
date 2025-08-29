@@ -204,7 +204,6 @@ bondage outfit, <lora:bondage outfit_illustrious_V1.0:1> bondage outfit, elbow g
 fully clothed, skimpy clothes, wedding dress, bondage outfit, latex wedding dress, bride, wedding, <[ezcovered][get eff_gen _before=[ _after=]]>
 wearing latex bondage outfit, bondage, bound, BDSM, shibari, ring gag, <[eznude][get eff_gen _before=[ _after=]]>
 wearing latex bondage outfit, bondage, bound, BDSM, shibari, ball gag, <[eznude][get eff_gen _before=[ _after=]]>
-bondage outfit, bondage clothing, HDA_BondageOutfitXL
 dominatrix outfit, bondage outfit, bondage clothing
 blindfold, covered eyes, chain, collar, bondage outfit, underboob, black short shorts
 bondage harness, belt collar, arms behind back, o-ring, <lora:better_bondage_pdxl_goofy:1> betterBondage, bondage, bdsm
@@ -343,7 +342,6 @@ maid, maid uniform, maid headdress, maid apron
 unconventional maid, tactical maid
 unconventional maid, wa maid, traditional japanese maid
 unconventional maid
-bondage outfit, bondage clothing, HDA_BondageOutfitXL
 <lora:harem-outfit-illustriousxl-lora-nochekaiser:1>, harem outfit, white veil, arabian clothes, neck ring, mouth veil, circlet, harem pants, thighlet, gold trim
 <lora:harem-outfit-illustriousxl-lora-nochekaiser:1>, harem outfit, white veil, arabian clothes, neck ring, mouth veil, circlet, harem pants, thighlet, gold trim, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 <lora:harem-outfit-illustriousxl-lora-nochekaiser:1>, harem outfit, white veil, arabian clothes, neck ring, mouth veil, circlet, harem pants, thighlet, gold trim, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
