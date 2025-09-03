@@ -545,19 +545,23 @@ Makes a split character prompt
 [call set_overrides_pre]
 
 [set prefix0]
-NSFW, (solo:1.0), [get ageprompt][get gender_suffix], <[EZEmotion]>, looking at viewer, [get artist], (full body:1.0), (centered, symmetry:1.5), <[eznude][get eff_gen _before=[ _after=]]>, (nude:1.5)[chance 10], <[ezpreg]>[/chance], ([call wildcards/MyLocation]:1.3), (split character:0.0), solo**(harsh shadows, tanlines, close-up, extreme close-up, close up, extreme close up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0), (clothes, clothing:1.5), picture frame**
+NSFW, (solo:1.0)
+[/set]
+
+[set prefix]
+[get ageprompt][get gender_suffix], <[EZEmotion]>, looking at viewer, [get artist], (full body:1.0), (centered, symmetry:1.5), <[eznude][get eff_gen _before=[ _after=]]>, (nude:1.5)[chance 10], <[ezpreg]>[/chance], ([call wildcards/MyLocation]:1.3), (split character:0.0), solo**(harsh shadows, tanlines, close-up, extreme close-up, close up, extreme close up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0), (clothes, clothing:1.5), picture frame**
 [/set]
 
 [set processed_prefix]
 [half-lora]
 [Umi _verbose="{get debugging}" _debug="{get debugging}"]
-[get prefix0]
+[get prefix]
 [/Umi]
 [/half-lora]
 [/set]
 
-[set total_prefix][choose _case=0][get processed_prefix][/choose], <lora:SplitScreen_illusXL_Incrs_v1:0.75> (SplitScreen, split screen:0.8)[/set]
-[set total_neg][choose _case=1][get processed_prefix][/choose], (dividing line, vertical line, horizontal line:1.7)[/set]
+[set total_prefix][choose _case=0][get processed_prefix][/choose][/set]
+[set total_neg][choose _case=1][get processed_prefix][/choose][/set]
 
 [set char_1][Umi _sync_seed=0 _verbose="{get debugging}" _debug="{get debugging}"][get characterprompt][/Umi][/set]
 [set char_1p][choose _case=0][get char_1][/choose][/set]
@@ -571,11 +575,11 @@ NSFW, (solo:1.0), [get ageprompt][get gender_suffix], <[EZEmotion]>, looking at 
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
 [set p_prompt]
-[half-lora][get total_prefix] ADDCOMM [get char_1p] ADDCOL [get char_2p][/half-lora]
+<lora:SplitScreen_illusXL_Incrs_v1:0.75> (SplitScreen, split screen:0.8) ADDCOMM [half-lora][get prefix0], [get char_1p], [get total_prefix] ADDCOL [get prefix0], [get char_2p], [get total_prefix][/half-lora]
 [/set]
 
 [set n_prompt]
-[get total_neg] ADDCOMM [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.5)
+(dividing line, vertical line, horizontal line:1.7) ADDCOMM [get total_neg], [get char_1n], ([strip-lora][get char_2p][/strip-lora]:1.5) ADDCOL [get total_neg], [get char_2n], ([strip-lora][get char_1p][/strip-lora]:1.5)
 [/set]
 
 [set opt]illu[/set]
@@ -606,10 +610,14 @@ _=Species/Royalty=_
 [/set]
 
 [set prefix0]
-NSFW, (solo:1.0), source_anime, [get characterprompt], [get ageprompt][get gender_suffix], <[EZEmotion]>, looking at viewer, [get artist], (full body:1.0), (centered, symmetry:1.5), <[eznude][get eff_gen _before=[ _after=]]>, (nude:1.5)[chance 10], <[ezpreg]>[/chance], (two-tone skin, multicolored hair, heterochromia:1.0), regal, elegant, royal family, royal, crown, tiara, ([call wildcards/MyLocation]:1.3), (split character:0.0), solo**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5), (harsh shadows, tanlines, close-up, extreme close-up, close up, extreme close up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0), (clothes, clothing:1.5), picture frame**
+NSFW, (solo:1.0), source_anime, [get characterprompt]
 [/set]
 
-[set processed_prefix]
+[set prefix1]
+[get ageprompt][get gender_suffix], <[EZEmotion]>, looking at viewer, [get artist], (full body:1.0), (centered, symmetry:1.5), <[eznude][get eff_gen _before=[ _after=]]>, (nude:1.5)[chance 10], <[ezpreg]>[/chance], (two-tone skin, multicolored hair, heterochromia:1.0), regal, elegant, royal family, royal, crown, tiara, ([call wildcards/MyLocation]:1.3), (split character:0.0), solo**(animal ears, tail:2.0), (evil, ugly, holding:1.7), (yellow skin, orange skin, red skin:1.5), (harsh shadows, tanlines, close-up, extreme close-up, close up, extreme close up, zoomed in, zoom:2.0), (face out of frame, no eyes, no mouth:2.0), (clothes, clothing:1.5), picture frame**
+[/set]
+
+[set processed_prefix0]
 [half-lora]
 [Umi _verbose="{get debugging}" _debug="{get debugging}"]
 [get prefix0]
@@ -617,9 +625,21 @@ NSFW, (solo:1.0), source_anime, [get characterprompt], [get ageprompt][get gende
 [/half-lora]
 [/set]
 
-[set total_prefix][choose _case=0][get processed_prefix][/choose], <lora:SplitScreen_illusXL_Incrs_v1:0.75> (SplitScreen, split screen:0.8)[/set]
+[set processed_prefix1]
+[half-lora]
+[Umi _verbose="{get debugging}" _debug="{get debugging}"]
+[get prefix1]
+[/Umi]
+[/half-lora]
+[/set]
 
-[set total_neg][choose _case=1][get processed_prefix][/choose], (dividing line, vertical line, horizontal line:1.7)[/set]
+[set total_prefix0][choose _case=0][get processed_prefix0][/choose][/set]
+
+[set total_neg0][choose _case=1][get processed_prefix0][/choose][/set]
+
+[set total_prefix1][choose _case=0][get processed_prefix1][/choose][/set]
+
+[set total_neg1][choose _case=1][get processed_prefix1][/choose][/set]
 
 [set char_1][Umi _sync_seed=0 _verbose="{get debugging}" _debug="{get debugging}"]<[Racethnicity][light]>, <[HairColor][Natural]>[/Umi][/set]
 [set char_1i][choose _case=0][get char_1][/choose][/set]
@@ -634,11 +654,11 @@ NSFW, (solo:1.0), source_anime, [get characterprompt], [get ageprompt][get gende
 [set char_2n]([strip-lora][get char_1i][/strip-lora]:1.2)[/set]
 
 [set p_prompt]
-[get total_prefix], <lora:Racethnicity2.35-Ill:0.8>ADDCOMM [get char_1p] ADDCOL [get char_2p]
+<lora:SplitScreen_illusXL_Incrs_v1:0.75> (SplitScreen, split screen:0.8), <lora:Racethnicity2.35-Ill:0.8> ADDCOMM [get total_prefix0], [get char_1p], [get total_prefix1], ADDCOL [get total_prefix0], [get char_2p], [get total_prefix1]
 [/set]
 
 [set n_prompt]
-[get total_neg] ADDCOMM [get char_1n] ADDCOL [get char_2n]
+(dividing line, vertical line, horizontal line:1.7) ADDCOMM [get char_1n], [get total_neg0], [get total_neg1] ADDCOL [get char_2n], [get total_neg0], [get total_neg1]
 [/set]
 
 [set opt]illu[/set]
