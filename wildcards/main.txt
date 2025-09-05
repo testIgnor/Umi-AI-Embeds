@@ -575,7 +575,7 @@ NSFW, (solo:1.0)
 [set char_2n][choose _case=1][get char_2][/choose][/set]
 
 [set p_prompt]
-<lora:SplitScreen_illusXL_Incrs_v1:0.75> (SplitScreen, split screen:0.8) ADDCOMM [half-lora][get prefix0], [get char_1p], [get total_prefix] ADDCOL [get prefix0], [get char_2p], [get total_prefix][/half-lora]
+<lora:SplitScreen_illusXL_Incrs_v1:1> (SplitScreen, split screen:0.8) ADDCOMM [half-lora][get prefix0], [get char_1p], [get total_prefix] ADDCOL [get prefix0], [get char_2p], [get total_prefix][/half-lora]
 [/set]
 
 [set n_prompt]
@@ -654,7 +654,7 @@ NSFW, (solo:1.0), source_anime, [get characterprompt]
 [set char_2n]([strip-lora][get char_1i][/strip-lora]:1.2)[/set]
 
 [set p_prompt]
-<lora:SplitScreen_illusXL_Incrs_v1:0.75> (SplitScreen, split screen:0.8), <lora:Racethnicity2.35-Ill:0.8> ADDCOMM [get total_prefix0], [get char_1p], [get total_prefix1], ADDCOL [get total_prefix0], [get char_2p], [get total_prefix1]
+<lora:SplitScreen_illusXL_Incrs_v1:1> (SplitScreen, split screen:0.8), <lora:Racethnicity2.35-Ill:0.8> ADDCOMM [get total_prefix0], [get char_1p], [get total_prefix1], ADDCOL [get total_prefix0], [get char_2p], [get total_prefix1]
 [/set]
 
 [set n_prompt]
@@ -679,7 +679,7 @@ Main function
 [/char-count]
 [/set]
 
-[while "no_lora > 6"]
+[while "no_lora > 10"]
 [call make_prompt]
 
 [set no_lora]
@@ -689,11 +689,11 @@ Main function
 [/set]
 [/while]
 
-[if "no_lora > 4"]
+[if "no_lora > 6"]
 [set p_prompt][multiply-lora-by-percent 75][get p_prompt][/multiply-lora-by-percent][/set]
 [/if]
 
-[if "no_lora > 5"]
+[if "no_lora > 8"]
 [set p_prompt][half-lora][get p_prompt][/half-lora][/set]
 [/if]
 
