@@ -1,6 +1,6 @@
-(judy hopps:1.3), zootopia, rabbit anthro
-(skye \(zootopia\):1.3), zootopia, fox anthro
-(dawn bellwether:1.3), zootopia, sheep anthro**(dawn \(pokemon\):2.0)**
-(mrs. otterton:1.3), zootopia, otter anthro
-(gazelle \(zootopia\):1.3), zootopia, gazelle anthro
-(judy hopps:1.3), zootopia, rabbit anthro, <lora:Anthro_Furry_Lora_Juddy_Hopps_Zootopia:1> (judy hopps, anthro rabbit:1.1), two tone fur, rabbit ears, grey fur, white fur, purple eyes
+(judy hopps:1.3), rabbit anthro
+(skye \(zootopia\):1.3), fox anthro
+(dawn bellwether:1.3), sheep anthro**(dawn \(pokemon\):2.0)**
+(mrs. otterton:1.3), otter anthro
+(gazelle \(zootopia\):1.3), gazelle anthro
+(judy hopps:1.3), rabbit anthro, <lora:Anthro_Furry_Lora_Juddy_Hopps_Zootopia:1> (judy hopps, anthro rabbit:1.1), two tone fur, rabbit ears, grey fur, white fur, purple eyes
