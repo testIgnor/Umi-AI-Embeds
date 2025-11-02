@@ -1388,6 +1388,22 @@
             "ss_name": "Flame_Atronach_Illustrious",
             "baseModel": "Illustrious"
         },
+        "fluffydango-guy90-Illust-Lycorisv1": {
+            "ss_name": "fluffydango-guy90-Illust-Lycorisv1",
+            "baseModel": "Illustrious"
+        },
+        "FluffyDango_illu": {
+            "ss_name": "FluffyDango_illu",
+            "baseModel": "Illustrious"
+        },
+        "FluffyDango_Style": {
+            "ss_name": "FluffyDango_Style",
+            "baseModel": "Illustrious"
+        },
+        "fluffydango_v2": {
+            "ss_name": "fluffydango_v2",
+            "baseModel": "Illustrious"
+        },
         "fnslone IL": {
             "ss_name": "fnslone IL",
             "baseModel": "Illustrious"
@@ -6218,6 +6234,18 @@
         },
         "Floatzel": {
             "ss_name": "Floatzel",
+            "baseModel": "Pony"
+        },
+        "fluffydango-artist-richy-v1_pdxl": {
+            "ss_name": "fluffydango-artist-richy-v1_pdxl",
+            "baseModel": "Pony"
+        },
+        "FluffyDango": {
+            "ss_name": "FluffyDango",
+            "baseModel": "Pony"
+        },
+        "fluffydangoPonyxl_v20": {
+            "ss_name": "fluffydango-guy-PONY-DORAv2",
             "baseModel": "Pony"
         },
         "Flutter_Mane_Pony": {
@@ -11283,6 +11311,18 @@
         "Flame_Atronach_Illustrious": [
             "Flame_Atronach_Illustrious"
         ],
+        "fluffydango-guy90-Illust-Lycorisv1": [
+            "fluffydango-guy90-Illust-Lycorisv1"
+        ],
+        "FluffyDango_illu": [
+            "FluffyDango_illu"
+        ],
+        "FluffyDango_Style": [
+            "FluffyDango_Style"
+        ],
+        "fluffydango_v2": [
+            "fluffydango_v2"
+        ],
         "fnslone IL": [
             "fnslone IL"
         ],
@@ -14866,6 +14906,15 @@
         ],
         "Floatzel": [
             "Floatzel"
+        ],
+        "fluffydango-artist-richy-v1_pdxl": [
+            "fluffydango-artist-richy-v1_pdxl"
+        ],
+        "FluffyDango": [
+            "FluffyDango"
+        ],
+        "fluffydango-guy-PONY-DORAv2": [
+            "fluffydangoPonyxl_v20"
         ],
         "Flutter_Mane_Pony": [
             "Flutter_Mane_Pony"
