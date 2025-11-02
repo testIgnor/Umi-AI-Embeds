@@ -1,12 +1,12 @@
 [tags style="positive" model="pony"]
 score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_explicit
-score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_explicit, <lora:illustriousXLv01_stabilizer_v1.198:1>
+score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, rating_explicit, <lora:illustriousXLv01_stabilizer_v1.198:0.5>
 [/tags]
 [tags style="positive" model="illu"]
 masterpiece, best quality, amazing quality
 masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery
-masterpiece, best quality, amazing quality, <lora:illustriousXLv01_stabilizer_v1.198:1>
-masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, <lora:illustriousXLv01_stabilizer_v1.198:1>
+masterpiece, best quality, amazing quality, <lora:illustriousXLv01_stabilizer_v1.198:0.5>
+masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, <lora:illustriousXLv01_stabilizer_v1.198:0.5>
 [/tags]
 [tags style="positive" model="NAI"]
 masterpiece, best quality, amazing quality, very awa,absurdres,newest,very aesthetic,depth of field, highres
