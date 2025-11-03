@@ -4316,6 +4316,26 @@
             "ss_name": "wei\u00dfwidow_and_baclk",
             "baseModel": "Illustrious"
         },
+        "Wendigo for Illustrious": {
+            "ss_name": "Wendigo_for_Illustrious",
+            "baseModel": "Illustrious"
+        },
+        "Wendigo1.5-000009": {
+            "ss_name": "Wendigo1.5",
+            "baseModel": "Illustrious"
+        },
+        "WendigoILL": {
+            "ss_name": "WendigoILL",
+            "baseModel": "Illustrious"
+        },
+        "Wendigo_Girl_-_VulgarVictor583": {
+            "ss_name": "Wendigo_Girl_-_VulgarVictor583",
+            "baseModel": "Illustrious"
+        },
+        "Wendigo_LoRA": {
+            "ss_name": "Wendigo_LoRA",
+            "baseModel": "Illustrious"
+        },
         "whisperfootILLUS": {
             "ss_name": "whisperfootILLUS",
             "baseModel": "Illustrious"
@@ -9832,6 +9852,14 @@
             "ss_name": "Wednesday_v2",
             "baseModel": "Pony"
         },
+        "Wendigo-000008": {
+            "ss_name": "Wendigo",
+            "baseModel": "Pony"
+        },
+        "Wendigo_2": {
+            "ss_name": "Wendigo_2",
+            "baseModel": "Pony"
+        },
         "WendyDarling_PXL_Leaf1": {
             "ss_name": "WendyDarling_PXL_Leaf1",
             "baseModel": "Pony"
@@ -13535,6 +13563,21 @@
         ],
         "wei\u00dfwidow_and_baclk": [
             "wei\u00dfwidow_and_baclk-000027"
+        ],
+        "Wendigo_for_Illustrious": [
+            "Wendigo for Illustrious"
+        ],
+        "Wendigo1.5": [
+            "Wendigo1.5-000009"
+        ],
+        "WendigoILL": [
+            "WendigoILL"
+        ],
+        "Wendigo_Girl_-_VulgarVictor583": [
+            "Wendigo_Girl_-_VulgarVictor583"
+        ],
+        "Wendigo_LoRA": [
+            "Wendigo_LoRA"
         ],
         "whisperfootILLUS": [
             "whisperfootILLUS"
@@ -17528,6 +17571,12 @@
         ],
         "Wednesday_v2": [
             "Wednesday_v2"
+        ],
+        "Wendigo": [
+            "Wendigo-000008"
+        ],
+        "Wendigo_2": [
+            "Wendigo_2"
         ],
         "WendyDarling_PXL_Leaf1": [
             "WendyDarling_PXL_Leaf1"
