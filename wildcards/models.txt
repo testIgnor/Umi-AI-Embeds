@@ -4,7 +4,7 @@ prefectPonyXL_v6
 fucktastic25DCheckpointPony_30
 [/tags]
 [tags model="illu"]
-waiNSFWIllustrious_v140
+waiIllustriousSDXL_v150
 catCitronAnimeTreasure_ilV9
 novaAnimeXL_ilV100
 [/tags]
