@@ -1820,10 +1820,6 @@
             "ss_name": "illustrious-angewomon 04 1216x1216",
             "baseModel": "Illustrious"
         },
-        "illustriousXLv01_stabilizer_v1.198": {
-            "ss_name": "illustriousXLv01_stabilizer_v1.198",
-            "baseModel": "Illustrious"
-        },
         "ILLU_The_Lady_of_the_Forest_DAO_by_SulfurSniffer": {
             "ss_name": "ILLU_The_Lady_of_the_Forest_DAO_by_SulfurSniffer",
             "baseModel": "Illustrious"
@@ -4546,10 +4542,6 @@
         },
         "Melina - Elden Ring (NoobAI)": {
             "ss_name": "Melina - Elden Ring (NoobAI)",
-            "baseModel": "NoobAI"
-        },
-        "noobai_vp10_stabilizer_v0.280a_fp16": {
-            "ss_name": "noobai_vp10_stabilizer_v0.280a_fp16",
             "baseModel": "NoobAI"
         },
         "open swimwear_noobai_V1.0": {
@@ -11654,9 +11646,6 @@
         "illustrious-angewomon 04 1216x1216": [
             "illustrious-angewomon 04 1216x1216-000010"
         ],
-        "illustriousXLv01_stabilizer_v1.198": [
-            "illustriousXLv01_stabilizer_v1.198"
-        ],
         "ILLU_The_Lady_of_the_Forest_DAO_by_SulfurSniffer": [
             "ILLU_The_Lady_of_the_Forest_DAO_by_SulfurSniffer"
         ],
@@ -13681,9 +13670,6 @@
         ],
         "Melina - Elden Ring (NoobAI)": [
             "Melina - Elden Ring (NoobAI)"
-        ],
-        "noobai_vp10_stabilizer_v0.280a_fp16": [
-            "noobai_vp10_stabilizer_v0.280a_fp16"
         ],
         "open swimwear_noobai_V1.0": [
             "open swimwear_noobai_V1.0"
