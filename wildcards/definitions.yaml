@@ -52,16 +52,6 @@
     - Teen
     - Female
     - Futanari
-'<[EZWoman]>':
-  Description:
-    - Adult Age
-  Tags:
-    - EZAge
-    - Middle
-    - Upper
-    - Adult
-    - Female
-    - Futanari
 '(<[EZTeenGirl]>:1.3), pubic hair':
   Description:
     - Teen Age
@@ -73,6 +63,16 @@
     - Female
     - Futanari
     - Hairy
+'<[EZWoman]>':
+  Description:
+    - Adult Age
+  Tags:
+    - EZAge
+    - Middle
+    - Upper
+    - Adult
+    - Female
+    - Futanari
 '<[EZWoman]>, pubic hair':
   Description:
     - Adult Age
@@ -143,7 +143,6 @@
     - EZAge
     - Lower
     - Middle
-    - Upper
     - Top
     - Teen
     - Male
@@ -154,8 +153,6 @@
     - EZAge
     - Lower
     - Middle
-    - Upper
-    - Top
     - Teen
     - Male
     - Hairy
