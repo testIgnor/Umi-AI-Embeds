@@ -1,12 +1,12 @@
-(dawn \(pokemon\):1.3), pokemon, blue hair, black hair, long hair, blue eyes
+(dawn \(pokemon\):1.3), pokemon, dark blue hair, long hair, blue eyes
 (rosa \(pokemon\):1.3), pokemon, brown hair, long hair, blue eyes
 (lillie \(pokemon\):1.3), pokemon, blonde hair, green eyes, long hair
 (hilda \(pokemon\):1.3), pokemon, brown hair, long hair, blue eyes
 (may \(pokemon\):1.3), pokemon, brown hair, long hair, blue eyes
-(marnie \(pokemon\):1.3), pokemon, medium hair, long hair, green eyes, black hair
-(selene \(pokemon\):1.3), pokemon, blonde hair, short hair, long hair, black hair
+(marnie \(pokemon\):1.3), pokemon, medium hair, green eyes, black hair
+(selene \(pokemon\):1.3), pokemon, short hair, black hair
 (gloria \(pokemon\):1.3), pokemon, brown hair, brown eyes, short hair
-(serena \(pokemon\):1.3), pokemon, blue eyes, brown hair, blonde hair, short hair, long hair
+(serena \(pokemon\):1.3), pokemon, blue eyes, blonde hair, long hair
 (cynthia \(pokemon\):1.3), pokemon, blonde hair, very long hair, long hair, grey eyes
 (akari \(pokemon\):1.3), pokemon, grey eyes, long hair, black hair
 (misty \(pokemon\):1.3), pokemon, short hair, orange hair, green eyes, blue eyes
@@ -23,9 +23,9 @@
 (lusamine \(pokemon\):1.3), pokemon, blonde hair, green eyes, long hair, very long hair
 (sonia \(pokemon\):1.3), pokemon, green eyes, dark skin, aqua eyes, orange hair, long hair
 (carmine \(pokemon\):1.3), pokemon, hair between eyes, red hair, colored inner hair, black hair, two-tone hair, multicolored hair, yellow eyes, long hair
-(mallow \(pokemon\):1.3), pokemon, green hair, green eyes, blue hair, blonde hair, dark skin, dark-skinned female, short hair, long hair
+(mallow \(pokemon\):1.3), pokemon, green hair, green eyes, blue hair, blonde hair, dark skin, dark-skinned female, long hair
 (irida \(pokemon\):1.3), pokemon, blonde hair, hair between eyes, short hair, blue eyes
-(elesa \(pokemon\):1.3), pokemon, blue eyes, black hair, blonde hair, short hair, long hair
+(elesa \(pokemon\):1.3), pokemon, blue eyes, black hair, blonde hair, long hair
 (bianca \(pokemon\):1.3), pokemon, green eyes, black hair, brown hair, blonde hair, short hair
 (nemona \(pokemon\):1.3), pokemon, green hair, brown eyes, orange eyes, black hair, two-tone hair, multicolored hair, brown hair, dark skin, dark-skinned female, long hair, streaked hair
 (liko \(pokemon\):1.3), pokemon, multicolored hair, blue eyes, short hair, black hair
@@ -38,7 +38,7 @@
 (melony \(pokemon\):1.3), pokemon, blue eyes, multicolored hair, blonde hair, long hair, streaked hair
 (jasmine \(pokemon\):1.3), pokemon, brown hair, brown eyes, long hair
 (whitney \(pokemon\):1.3), pokemon, pink eyes, pink hair, long hair
-(penny \(pokemon\):1.3), pokemon, red hair, blue hair, grey eyes, black hair, two-tone hair, multicolored hair, brown hair, short hair, long hair
+(penny \(pokemon\):1.3), pokemon, red hair, blue hair, grey eyes, black hair, two-tone hair, multicolored hair, brown hair, short hair
 (flannery \(pokemon\):1.3), pokemon, red eyes, red hair, long hair
 (erika \(pokemon\):1.3), pokemon, short hair, black hair
 (roxie \(pokemon\):1.3), pokemon, white hair, short hair, blue eyes
@@ -56,7 +56,7 @@
 (shauntal \(pokemon\):1.3), pokemon, purple hair, short hair, purple eyes
 (joy \(pokemon\):1.3), pokemon, pink hair, long hair, blue eyes
 (yellow \(pokemon\):1.3), pokemon, blonde hair, long hair
-(lass \(pokemon\):1.3), pokemon, brown eyes, blue eyes, brown hair, blonde hair, short hair, long hair
+(lass \(pokemon\):1.3), pokemon, brown eyes, blue eyes, brown hair, blonde hair, long hair
 (ace trainer \(pokemon\):1.3), pokemon, brown hair, blonde hair, long hair, blue eyes
 (karen \(pokemon\):1.3), pokemon, blue eyes, wavy hair, blue hair, light blue hair, long hair
 (cogita \(pokemon\):1.3), pokemon, grey hair, white hair, blonde hair, grey eyes
@@ -70,6 +70,6 @@
 (chloe \(pokemon\):1.3), pokemon, green eyes, blue eyes, black hair, brown hair, long hair
 (coral \(pokemon\):1.3), pokemon, black eyes, pink hair, grey eyes
 (mina \(pokemon\):1.3), pokemon, blue eyes, grey eyes, blonde hair, half-closed eyes, long hair
-(delia ketchum:1.3), delia scarlet \(pokemon\), pokemon, brown eyes, brown hair, closed eyes, black hair, short hair, long hair
+(delia ketchum:1.3), delia scarlet \(pokemon\), pokemon, brown eyes, brown hair, closed eyes, black hair, long hair
 (jenny \(pokemon\):1.3), pokemon, long hair, green hair
 (shaymin:1.3), <lora:Shaymin_Human:1> Shaymin_Human
