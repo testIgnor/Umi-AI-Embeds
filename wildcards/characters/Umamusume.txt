@@ -1,90 +1,204 @@
-(agnes tachyon \(umamusume\):1.3), umamusume, short hair, horse ears, medium hair, hair between eyes, red eyes, brown hair, long hair, animal ears
-(manhattan cafe \(umamusume\):1.3), umamusume, yellow eyes, white hair, horse ears, hair between eyes, multicolored hair, black hair, long hair, brown hair, animal ears
-(rice shower \(umamusume\):1.3), umamusume, horse ears, long hair, brown hair, purple eyes, black hair, animal ears
-(daiwa scarlet \(umamusume\):1.3), umamusume, horse ears, hair between eyes, red eyes, long hair, brown hair, very long hair, animal ears
-(tokai teio \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, streaked hair, hair between eyes, blue eyes, long hair, brown hair, animal ears, two-tone hair
-(silence suzuka \(umamusume\):1.3), umamusume, horse ears, orange hair, blue eyes, long hair, brown hair, green eyes, animal ears
-(nice nature \(umamusume\):1.3), umamusume, brown eyes, horse ears, medium hair, multicolored hair, streaked hair, red hair, brown hair, long hair, animal ears
-(satono diamond \(umamusume\):1.3), umamusume, brown eyes, white hair, horse ears, hair between eyes, multicolored hair, streaked hair, long hair, brown hair, black hair, very long hair, animal ears
-(kitasan black \(umamusume\):1.3), umamusume, white hair, short hair, horse ears, multicolored hair, streaked hair, red eyes, hair between eyes, black hair, brown hair, long hair, animal ears
-(twin turbo \(umamusume\):1.3), umamusume, horse ears, blue hair, multicolored hair, blue eyes, long hair, brown hair, purple eyes, very long hair, animal ears, two-tone hair, aqua hair
-(king halo \(umamusume\):1.3), umamusume, horse ears, red eyes, long hair, brown hair, animal ears
-(mayano top gun \(umamusume\):1.3), umamusume, orange eyes, horse ears, orange hair, hair between eyes, long hair, brown hair, animal ears
-(seiun sky \(umamusume\):1.3), umamusume, short hair, horse ears, hair between eyes, grey hair, blue eyes, brown hair, animal ears
-(mihono bourbon \(umamusume\):1.3), umamusume, horse ears, hair between eyes, blue eyes, long hair, brown hair, animal ears
-(admire vega \(umamusume\):1.3), umamusume, horse ears, hair between eyes, long hair, brown hair, purple eyes, animal ears
-(sirius symboli \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, hair between eyes, red eyes, streaked hair, long hair, brown hair, very long hair, animal ears
-(curren chan \(umamusume\):1.3), umamusume, short hair, horse ears, hair between eyes, grey hair, brown hair, long hair, purple eyes, animal ears
-(eishin flash \(umamusume\):1.3), umamusume, short hair, horse ears, medium hair, hair between eyes, blue eyes, black hair, animal ears
-(mr. c.b. \(umamusume\):1.3), umamusume, horse ears, hair between eyes, multicolored hair, streaked hair, blue eyes, long hair, brown hair, green eyes, black hair, animal ears
-(grass wonder \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, blue eyes, long hair, brown hair, animal ears
-(matikane tannhauser \(umamusume\):1.3), umamusume, brown eyes, yellow eyes, horse ears, medium hair, multicolored hair, streaked hair, brown hair, long hair, animal ears
-(cheval grand \(umamusume\):1.3), umamusume, white hair, horse ears, medium hair, hair between eyes, multicolored hair, streaked hair, blue eyes, brown hair, long hair, animal ears
-(fine motion \(umamusume\):1.3), umamusume, white hair, short hair, horse ears, hair between eyes, multicolored hair, brown hair, long hair, green eyes, black hair, animal ears, two-tone hair
-(daitaku helios \(umamusume\):1.3), umamusume, yellow eyes, horse ears, blue hair, multicolored hair, streaked hair, hair between eyes, brown hair, long hair, animal ears, two-tone hair, closed eyes, colored inner hair
-(gentildonna \(umamusume\):1.3), umamusume, horse ears, medium hair, hair between eyes, red eyes, long hair, brown hair, animal ears
-(super creek \(umamusume\):1.3), umamusume, white hair, horse ears, hair between eyes, multicolored hair, grey hair, blue eyes, long hair, brown hair, very long hair, animal ears
-(mejiro dober \(umamusume\):1.3), umamusume, horse ears, hair between eyes, long hair, brown hair, purple eyes, black hair, animal ears
-(matikanefukukitaru \(umamusume\):1.3), umamusume, yellow eyes, short hair, horse ears, orange hair, hair between eyes, brown hair, flipped hair, animal ears
-(mejiro ardan \(umamusume\):1.3), umamusume, horse ears, blue hair, long hair, purple eyes, animal ears
-(vivlos \(umamusume\):1.3), umamusume, white hair, horse ears, hair between eyes, multicolored hair, streaked hair, blue eyes, long hair, brown hair, purple eyes, animal ears
-(hishi miracle \(umamusume\):1.3), umamusume, brown eyes, horse ears, medium hair, grey hair, brown hair, animal ears
-(katsuragi ace \(umamusume\):1.3), umamusume, white hair, short hair, horse ears, medium hair, multicolored hair, streaked hair, hair between eyes, blue eyes, black hair, long hair, brown hair, animal ears
-(sweep tosho \(umamusume\):1.3), umamusume, horse ears, long hair, brown hair, purple eyes, black hair, animal ears
-(hokko tarumae \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, streaked hair, long hair, brown hair, purple eyes, black hair, animal ears
-(fuji kiseki \(umamusume\):1.3), umamusume, white hair, short hair, horse ears, multicolored hair, hair between eyes, streaked hair, blue eyes, black hair, brown hair, long hair, animal ears, two-tone hair
-(dantsu flame \(umamusume\):1.3), umamusume, brown eyes, white hair, yellow eyes, horse ears, medium hair, multicolored hair, hair between eyes, brown hair, animal ears
-(neo universe \(umamusume\):1.3), umamusume, horse ears, blue hair, multicolored hair, hair between eyes, blue eyes, long hair, animal ears, two-tone hair, blonde hair, colored inner hair
-(copano rickey \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, hair between eyes, streaked hair, long hair, brown hair, purple eyes, animal ears, two-tone hair
-(aston machan \(umamusume\):1.3), umamusume, horse ears, medium hair, hair between eyes, brown hair, long hair, green eyes, animal ears
-(daiichi ruby \(umamusume\):1.3), umamusume, drill hair, horse ears, multicolored hair, long hair, brown hair, purple eyes, black hair, animal ears
-(sakura chiyono o \(umamusume\):1.3), umamusume, horse ears, medium hair, hair between eyes, blue eyes, brown hair, animal ears, pink hair
-(maruzensky \(umamusume\):1.3), umamusume, horse ears, hair between eyes, blue eyes, long hair, brown hair, green eyes, animal ears
-(sakura bakushin o \(umamusume\):1.3), umamusume, horse ears, long hair, brown hair, purple eyes, animal ears
-(gold city \(umamusume\):1.3), umamusume, horse ears, blue eyes, long hair, brown hair, animal ears, blonde hair
-(hishi amazon \(umamusume\):1.3), umamusume, horse ears, blue hair, hair between eyes, red eyes, long hair, black hair, dark skin, animal ears, very long hair, dark-skinned female
-(mejiro ramonu \(umamusume\):1.3), umamusume, white hair, short hair, horse ears, multicolored hair, streaked hair, black hair, long hair, purple eyes, brown hair, animal ears
-(taiki shuttle \(umamusume\):1.3), umamusume, short hair, horse ears, hair between eyes, blue eyes, long hair, brown hair, animal ears
-(sakura laurel \(umamusume\):1.3), umamusume, short hair, horse ears, pink eyes, brown hair, long hair, purple eyes, animal ears
-(still in love \(umamusume\):1.3), umamusume, horse ears, hair between eyes, red eyes, brown hair, long hair, animal ears
-(mejiro bright \(umamusume\):1.3), umamusume, brown eyes, horse ears, hair between eyes, long hair, brown hair, animal ears
-(daring tact \(umamusume\):1.3), umamusume, horse ears, medium hair, hair between eyes, blue eyes, black hair, long hair, brown hair, animal ears
-(ines fujin \(umamusume\):1.3), umamusume, horse ears, long hair, brown hair, green eyes, animal ears
-(transcend \(umamusume\):1.3), umamusume, white hair, short hair, horse ears, multicolored hair, red eyes, brown hair, animal ears
-(k.s.miracle \(umamusume\):1.3), umamusume, short hair, horse ears, blue hair, hair between eyes, blue eyes, long hair, purple eyes, animal ears
-(rice shower \(make up vampire!\) \(umamusume\):1.3), umamusume, horse ears, long hair, brown hair, purple eyes, black hair, animal ears
-(gold ship \(run revolt launcher\) \(umamusume\):1.3), umamusume, horse ears, grey hair, long hair, purple eyes, animal ears, purple hair
-(win variation \(umamusume\):1.3), umamusume, horse ears, hair between eyes, red hair, long hair, green eyes, animal ears
-(wonder acute \(umamusume\):1.3), umamusume, horse ears, hair between eyes, grey hair, multicolored hair, blue eyes, long hair, brown hair, streaked hair, animal ears
-(marvelous sunday \(umamusume\):1.3), umamusume, yellow eyes, horse ears, black hair, long hair, brown hair, animal ears
-(satono crown \(umamusume\):1.3), umamusume, white hair, horse ears, hair between eyes, multicolored hair, streaked hair, black hair, long hair, green eyes, brown hair, animal ears
-(yamanin zephyr \(umamusume\):1.3), umamusume, brown eyes, white hair, yellow eyes, horse ears, multicolored hair, hair between eyes, streaked hair, long hair, brown hair, animal ears, two-tone hair
-(rhein kraft \(umamusume\):1.3), umamusume, horse ears, medium hair, hair between eyes, brown hair, green eyes, animal ears
-(mejiro mcqueen \(ripple fairlady\) \(umamusume\):1.3), umamusume, horse ears, long hair, purple eyes, animal ears, purple hair
-(agnes tachyon \(lunatic lab\) \(umamusume\):1.3), umamusume, brown eyes, short hair, horse ears, hair between eyes, red eyes, brown hair, animal ears
-(duramente \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, streaked hair, hair between eyes, blue eyes, long hair, brown hair, black hair, animal ears
-(dream journey \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, hair between eyes, blue eyes, long hair, brown hair, black hair, animal ears, blonde hair
-(tap dance city \(umamusume\):1.3), umamusume, short hair, horse ears, hair between eyes, multicolored hair, streaked hair, brown hair, black hair, purple eyes, long hair, animal ears
-(maruzensky \(blasting off summer night\) \(umamusume\):1.3), umamusume, horse ears, hair between eyes, blue eyes, long hair, brown hair, green eyes, animal ears
-(daiwa scarlet \(trifle vacation\) \(umamusume\):1.3), umamusume, horse ears, hair between eyes, red eyes, long hair, brown hair, very long hair, animal ears
-(silence suzuka \(emerald on the waves\) \(umamusume\):1.3), umamusume, horse ears, orange hair, blue eyes, long hair, brown hair, animal ears, aqua eyes
-(no reason \(umamusume\):1.3), umamusume, yellow eyes, antenna hair, horse ears, hair between eyes, long hair, brown hair, animal ears
-(venus paques \(umamusume\):1.3), umamusume, horse ears, medium hair, hair between eyes, blue eyes, brown hair, animal ears
-(special week \(hopping vitamin heart\) \(umamusume\):1.3), umamusume, white hair, short hair, horse ears, multicolored hair, brown hair, long hair, purple eyes, animal ears, two-tone hair
-(buena vista \(umamusume\):1.3), umamusume, horse ears, medium hair, hair between eyes, brown hair, long hair, purple eyes, animal ears
-(kii-kun \(agnes tachyon\) \(umamusume\):1.3), umamusume, brown eyes, short hair, horse ears, hair between eyes, red eyes, brown hair, animal ears
-(durandal \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, hair between eyes, blue eyes, long hair, animal ears, two-tone hair, blonde hair
-(super creek \(chiffon ribbon mummy\) \(umamusume\):1.3), umamusume, horse ears, hair between eyes, blue eyes, long hair, brown hair, very long hair, animal ears
-(light hello \(umamusume\):1.3), umamusume, horse ears, medium hair, long hair, brown hair, animal ears
-(north flight \(umamusume\):1.3), umamusume, brown eyes, horse ears, medium hair, hair between eyes, brown hair, long hair, animal ears
-(agnes digital \(lovely jiangshi\) \(umamusume\):1.3), umamusume, horse ears, blue eyes, long hair, brown hair, animal ears, pink hair
-(calstone light o \(umamusume\):1.3), umamusume, yellow eyes, white hair, horse ears, multicolored hair, black hair, long hair, animal ears
-(tokai teio \(beyond the horizon\) \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, streaked hair, hair between eyes, blue eyes, long hair, brown hair, animal ears, two-tone hair
-(mayano top gun \(sunlight bouquet\) \(umamusume\):1.3), umamusume, brown eyes, orange eyes, horse ears, orange hair, hair between eyes, long hair, brown hair, animal ears
-(daiwa scarlet \(scarlet nuit etoile\) \(umamusume\):1.3), umamusume, horse ears, hair between eyes, red eyes, long hair, brown hair, very long hair, animal ears
-(mejiro mcqueen \(end of sky\) \(umamusume\):1.3), umamusume, horse ears, long hair, purple eyes, animal ears, purple hair
-(curren chan \(sakutsuki ma cherie\) \(umamusume\):1.3), umamusume, short hair, horse ears, grey hair, purple eyes, animal ears
-(manhattan cafe \(verdant night\) \(umamusume\):1.3), umamusume, yellow eyes, white hair, horse ears, hair between eyes, multicolored hair, black hair, long hair, animal ears
-(mejiro palmer \(devil in the moonlight\) \(umamusume\):1.3), umamusume, white hair, horse ears, multicolored hair, streaked hair, hair between eyes, blue eyes, long hair, brown hair, animal ears
-(bamboo memory \(umamusume\):1.3), umamusume, white hair, short hair, horse ears, multicolored hair, hair between eyes, streaked hair, blue eyes, brown hair, long hair, animal ears
-(gold ship \(racehorse\):1.3), umamusume, grey hair, long hair, animal ears, horse ears
+(agnes tachyon \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, hair between eyes, horse tail, short hair, long hair, ahoge, animal ears, medium hair
+(manhattan cafe \(umamusume\):1.3), umamusume, tail, black hair, horse ears, hair between eyes, long hair, horse tail, white hair, yellow eyes, ahoge, animal ears, multicolored hair
+(daiwa scarlet \(umamusume\):1.3), umamusume, tail, brown hair, very long hair, red eyes, horse ears, long hair, horse tail, hair between eyes, animal ears, twintails
+(rice shower \(umamusume\):1.3), umamusume, tail, brown hair, flipped hair, horse ears, long hair, horse tail, purple eyes, animal ears
+(silence suzuka \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, orange hair, animal ears
+(satono diamond \(umamusume\):1.3), umamusume, tail, brown hair, very long hair, streaked hair, horse ears, long hair, hair between eyes, horse tail, animal ears, brown eyes, multicolored hair
+(nice nature \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, horse tail, long hair, medium hair, animal ears, brown eyes, multicolored hair, twintails
+(kitasan black \(umamusume\):1.3), umamusume, tail, black hair, brown hair, red eyes, streaked hair, horse ears, horse tail, short hair, hair between eyes, white hair, long hair, ahoge, animal ears, multicolored hair
+(agnes tachyon \(tach-nology\) \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, hair between eyes, horse tail, short hair, ahoge, animal ears
+(king halo \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, horse tail, long hair, animal ears
+(admire vega \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, purple eyes, animal ears, ponytail
+(mihono bourbon \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, blue eyes, ahoge, animal ears
+(haru urara \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, pink hair, animal ears, pink eyes, ponytail
+(mayano top gun \(umamusume\):1.3), umamusume, tail, orange eyes, horse ears, long hair, horse tail, orange hair, animal ears
+(grass wonder \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, white hair, blue eyes, animal ears, multicolored hair
+(sirius symboli \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, streaked hair, horse ears, long hair, hair between eyes, horse tail, white hair, animal ears, multicolored hair
+(twin turbo \(umamusume\):1.3), umamusume, tail, two-tone hair, horse ears, long hair, horse tail, blue eyes, ahoge, blue hair, purple eyes, animal ears, multicolored hair, twintails
+(seiun sky \(umamusume\):1.3), umamusume, tail, grey hair, brown hair, horse ears, horse tail, short hair, hair between eyes, blue eyes, animal ears
+(curren chan \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, horse tail, short hair, purple eyes, animal ears
+(gentildonna \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, long hair, horse tail, hair between eyes, animal ears
+(cheval grand \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, hair between eyes, horse tail, white hair, blue eyes, animal ears, multicolored hair
+(mr. c.b. \(umamusume\):1.3), umamusume, tail, black hair, brown hair, green eyes, horse ears, long hair, horse tail, hair between eyes, blue eyes, ahoge, animal ears
+(eishin flash \(umamusume\):1.3), umamusume, tail, black hair, horse ears, hair between eyes, short hair, horse tail, blue eyes, animal ears
+(super creek \(umamusume\):1.3), umamusume, tail, brown hair, very long hair, streaked hair, horse ears, long hair, horse tail, hair between eyes, white hair, blue eyes, animal ears, multicolored hair
+(dantsu flame \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, hair between eyes, white hair, ahoge, animal ears, brown eyes, multicolored hair
+(matikanetannhauser \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, horse tail, long hair, multicolored hair, animal ears, medium hair
+(vivlos \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, long hair, hair between eyes, horse tail, blue eyes, purple eyes, animal ears, multicolored hair, twintails
+(fine motion \(umamusume\):1.3), umamusume, tail, brown hair, green eyes, horse ears, horse tail, hair between eyes, long hair, white hair, trimmed tail, animal ears, multicolored hair
+(mejiro ardan \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, purple eyes, blue hair, animal ears
+(rice shower \(rosy dreams\) \(umamusume\):1.3), umamusume, tail, brown hair, flipped hair, horse ears, long hair, horse tail, purple eyes, animal ears
+(tokai teio \(peak joy\) \(umamusume\):1.3), umamusume, tail, two-tone hair, brown hair, streaked hair, horse ears, long hair, horse tail, hair between eyes, white hair, blue eyes, high ponytail, animal ears, multicolored hair, ponytail
+(gold ship \(red strife\) \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, long hair, horse tail, purple eyes, animal ears
+(daitaku helios \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, horse tail, long hair, side ponytail, hair between eyes, yellow eyes, blue hair, animal ears, multicolored hair
+(daiwa scarlet \(peak blue\) \(umamusume\):1.3), umamusume, tail, brown hair, very long hair, red eyes, horse ears, long hair, horse tail, hair between eyes, animal ears, twintails
+(matikanefukukitaru \(umamusume\):1.3), umamusume, tail, flipped hair, horse ears, horse tail, short hair, hair between eyes, orange hair, animal ears
+(katsuragi ace \(umamusume\):1.3), umamusume, tail, black hair, brown hair, streaked hair, horse ears, hair between eyes, horse tail, long hair, white hair, blue eyes, medium hair, animal ears, multicolored hair, ponytail
+(hishi miracle \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, horse tail, animal ears, brown eyes, medium hair
+(mejiro dober \(umamusume\):1.3), umamusume, tail, black hair, brown hair, horse ears, long hair, horse tail, purple eyes, animal ears
+(fuji kiseki \(umamusume\):1.3), umamusume, tail, black hair, horse ears, horse tail, short hair, hair between eyes, white hair, blue eyes, ahoge, animal ears, multicolored hair
+(sakura chiyono o \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, hair between eyes, horse tail, pink hair, blue eyes, animal ears, medium hair
+(silence suzuka \(innocent silence\) \(umamusume\):1.3), umamusume, tail, green eyes, horse ears, long hair, horse tail, orange hair, animal ears
+(maruzensky \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, blue eyes, animal ears
+(aston machan \(umamusume\):1.3), umamusume, tail, brown hair, green eyes, horse ears, horse tail, hair between eyes, animal ears, medium hair
+(sweep tosho \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, purple eyes, animal ears, twintails
+(still in love \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, long hair, hair between eyes, horse tail, animal ears
+(hishi amazon \(umamusume\):1.3), umamusume, tail, black hair, red eyes, very long hair, horse ears, long hair, hair between eyes, horse tail, dark skin, blue hair, animal ears, dark-skinned female
+(neo universe \(umamusume\):1.3), umamusume, tail, two-tone hair, horse ears, long hair, horse tail, hair between eyes, blue eyes, blonde hair, ahoge, blue hair, colored inner hair, animal ears, multicolored hair
+(sakura bakushin o \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, purple eyes, animal ears, ponytail
+(mejiro mcqueen \(frontline elegance\) \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, purple hair, purple eyes, animal ears
+(oguri cap \(starlight beat\) \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, long hair, horse tail, hair between eyes, blue eyes, ahoge, animal ears, multicolored hair
+(hokko tarumae \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, white hair, purple eyes, animal ears, multicolored hair
+(kitasan black \(crowning ooban\) \(umamusume\):1.3), umamusume, tail, black hair, red eyes, streaked hair, horse ears, horse tail, short hair, hair between eyes, white hair, ahoge, animal ears, multicolored hair
+(mayano top gun \(scramble zone\) \(umamusume\):1.3), umamusume, tail, orange eyes, horse ears, long hair, horse tail, hair between eyes, orange hair, animal ears
+(gold city \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, blue eyes, blonde hair, animal ears
+(mejiro ramonu \(umamusume\):1.3), umamusume, tail, black hair, streaked hair, horse ears, horse tail, long hair, white hair, purple eyes, animal ears, multicolored hair
+(twin turbo \(blast mode! turbo engine\) \(umamusume\):1.3), umamusume, tail, two-tone hair, very long hair, aqua hair, horse ears, long hair, horse tail, blue eyes, ahoge, blue hair, purple eyes, animal ears, multicolored hair, twintails
+(taiki shuttle \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, long hair, hair between eyes, blue eyes, animal ears, ponytail
+(copano rickey \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, long hair, horse tail, hair between eyes, white hair, ahoge, purple eyes, animal ears, multicolored hair
+(manhattan cafe \(creeping black\) \(umamusume\):1.3), umamusume, tail, black hair, very long hair, horse ears, long hair, hair between eyes, horse tail, white hair, yellow eyes, ahoge, animal ears, multicolored hair
+(king halo \(king of emeralds\) \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, horse tail, long hair, animal ears
+(haru urara \(bestest prize\) \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, pink hair, animal ears, pink eyes, ponytail
+(almond eye \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, blue eyes, colored inner hair, animal ears, multicolored hair
+(win variation \(umamusume\):1.3), umamusume, tail, red hair, green eyes, horse ears, hair between eyes, long hair, low twintails, horse tail, animal ears, twintails
+(daring tact \(umamusume\):1.3), umamusume, tail, black hair, brown hair, horse ears, horse tail, long hair, hair between eyes, blue eyes, ahoge, animal ears
+(transcend \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, horse tail, short hair, white hair, animal ears, multicolored hair
+(t.m. opera o \(o sole suo!\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, short hair, hair between eyes, orange hair, purple eyes, animal ears
+(daiichi ruby \(umamusume\):1.3), umamusume, drill hair, tail, black hair, brown hair, horse ears, long hair, horse tail, purple eyes, animal ears
+(symboli rudolf \(emperor's path\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, long hair, horse tail, hair between eyes, white hair, purple eyes, animal ears, multicolored hair
+(chrono genesis \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, hair between eyes, long hair, horse tail, blue eyes, animal ears
+(k.s.miracle \(umamusume\):1.3), umamusume, tail, horse ears, horse tail, short hair, hair between eyes, blue eyes, blue hair, animal ears
+(mejiro bright \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, hair between eyes, horse tail, ahoge, animal ears, brown eyes
+(sakura laurel \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, short hair, long hair, purple eyes, animal ears, pink eyes
+(satono diamond \(natural brilliance\) \(umamusume\):1.3), umamusume, brown hair, very long hair, streaked hair, horse ears, long hair, hair between eyes, animal ears, brown eyes, multicolored hair
+(eishin flash \(meisterschaft\) \(umamusume\):1.3), umamusume, tail, black hair, horse ears, hair between eyes, short hair, horse tail, blue eyes, animal ears
+(fuji kiseki \(shooting star revue\) \(umamusume\):1.3), umamusume, tail, black hair, horse ears, horse tail, short hair, hair between eyes, white hair, blue eyes, ahoge, animal ears, multicolored hair
+(dantsu flame \(center spotlight\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, hair between eyes, white hair, yellow eyes, ahoge, animal ears, brown eyes, multicolored hair
+(vodka \(wild top gear\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, white hair, animal ears, brown eyes, multicolored hair, ponytail, twintails
+(satono crown \(umamusume\):1.3), umamusume, tail, black hair, green eyes, streaked hair, horse ears, long hair, side ponytail, hair between eyes, horse tail, white hair, animal ears, multicolored hair
+(gentildonna \(regina dei fiori\) \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, long hair, hair between eyes, horse tail, animal ears
+(mr. c.b. \(clear bliss\) \(umamusume\):1.3), umamusume, tail, brown hair, green eyes, horse ears, long hair, hair between eyes, horse tail, blue eyes, ahoge, animal ears
+(rice shower \(make up vampire!\) \(umamusume\):1.3), umamusume, tail, brown hair, flipped hair, horse ears, long hair, horse tail, purple eyes, animal ears
+(ines fujin \(umamusume\):1.3), umamusume, tail, brown hair, green eyes, horse ears, horse tail, side ponytail, long hair, animal ears
+(mihono bourbon \(mb-19890425\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, blue eyes, ahoge, animal ears
+(durandal \(umamusume\):1.3), umamusume, tail, two-tone hair, horse ears, long hair, hair between eyes, horse tail, white hair, blue eyes, blonde hair, animal ears, multicolored hair
+(nice nature \(poinsettia ribbon\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, horse tail, medium hair, animal ears, brown eyes, multicolored hair, twintails
+(gold ship \(run revolt launcher\) \(umamusume\):1.3), umamusume, tail, grey hair, horse ears, horse tail, long hair, purple hair, purple eyes, animal ears
+(wonder acute \(umamusume\):1.3), umamusume, grey hair, tail, brown hair, streaked hair, horse ears, hair between eyes, long hair, horse tail, blue eyes, animal ears, multicolored hair
+(grass wonder \(stone-piercing blue\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, white hair, blue eyes, animal ears, multicolored hair
+(tamamo cross \(with lightning speed\) \(umamusume\):1.3), umamusume, grey hair, tail, very long hair, horse ears, long hair, horse tail, hair between eyes, blue eyes, animal ears
+(still in love \(scarlet vow raiment\) \(umamusume\):1.3), umamusume, brown hair, red eyes, horse ears, hair between eyes, long hair, animal ears
+(curren chan \(fille eclair\) \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, horse tail, short hair, purple eyes, animal ears
+(meisho doto \(turbulent blue\) \(umamusume\):1.3), umamusume, tail, medium hair, two-tone hair, brown hair, horse ears, hair between eyes, horse tail, short hair, white hair, ahoge, purple eyes, animal ears, multicolored hair
+(yamanin zephyr \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, low twintails, horse tail, hair between eyes, white hair, animal ears, brown eyes, multicolored hair, twintails
+(tap dance city \(umamusume\):1.3), umamusume, tail, black hair, brown hair, horse ears, horse tail, short hair, hair between eyes, long hair, purple eyes, animal ears, multicolored hair
+(admire vega \(starry nocturne\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, purple eyes, animal ears, low ponytail, ponytail
+(cheval grand \(grand itineraire\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, hair between eyes, horse tail, white hair, blue eyes, animal ears, multicolored hair
+(marvelous sunday \(umamusume\):1.3), umamusume, tail, black hair, brown hair, horse ears, long hair, horse tail, yellow eyes, animal ears, twintails
+(taiki shuttle \(wild frontier\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, long hair, hair between eyes, blue eyes, animal ears, ponytail
+(rhein kraft \(umamusume\):1.3), umamusume, tail, brown hair, green eyes, horse ears, hair between eyes, horse tail, ahoge, animal ears, medium hair
+(neo universe \(universe-naut\) \(umamusume\):1.3), umamusume, tail, blue hair, two-tone hair, horse ears, long hair, horse tail, hair between eyes, blue eyes, blonde hair, ahoge, colored inner hair, animal ears, multicolored hair
+(seiun sky \(reeling in the big one\) \(umamusume\):1.3), umamusume, tail, grey hair, horse ears, horse tail, short hair, hair between eyes, blue eyes, animal ears
+(el condor pasa \(el numero 1\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, blue eyes, animal ears, ponytail
+(mejiro dober \(twisted line\) \(umamusume\):1.3), umamusume, tail, black hair, brown hair, horse ears, long hair, horse tail, purple eyes, animal ears
+(matikanefukukitaru \(rising fortune\) \(umamusume\):1.3), umamusume, tail, flipped hair, horse ears, horse tail, short hair, hair between eyes, orange hair, yellow eyes, animal ears
+(calstone light o \(umamusume\):1.3), umamusume, tail, black hair, horse ears, long hair, horse tail, white hair, yellow eyes, ahoge, animal ears, multicolored hair
+(katsuragi ace \(dragon rising to the top\) \(umamusume\):1.3), umamusume, tail, black hair, streaked hair, horse ears, hair between eyes, horse tail, white hair, blue eyes, medium hair, animal ears, multicolored hair, ponytail
+(agnes tachyon \(lunatic lab\) \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, hair between eyes, horse tail, short hair, ahoge, animal ears, ponytail
+(gold city \(authentic/1928\) \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, blue eyes, blonde hair, animal ears
+(narita brian \(maverick\) \(umamusume\):1.3), umamusume, tail, black hair, horse ears, long hair, horse tail, hair between eyes, yellow eyes, animal ears, ponytail
+(belno light \(umamusume\):1.3), umamusume, tail, grey hair, two-tone hair, brown hair, horse ears, horse tail, short hair, long hair, white hair, animal ears, multicolored hair
+(mejiro mcqueen \(ripple fairlady\) \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, purple hair, purple eyes, animal ears
+(maruzensky \(hot summer night\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, animal ears, ponytail
+(daitaku helios \(fun fun party night\) \(umamusume\):1.3), umamusume, tail, two-tone hair, brown hair, streaked hair, horse ears, horse tail, long hair, hair between eyes, side ponytail, yellow eyes, colored inner hair, blue hair, animal ears, multicolored hair
+(daiwa scarlet \(casual\) \(umamusume\):1.3), umamusume, tail, brown hair, very long hair, red eyes, horse ears, long hair, horse tail, hair between eyes, animal ears, twintails
+(copano rickey \(yin-yang bagua lucky costume\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, long hair, hair between eyes, horse tail, white hair, ahoge, purple eyes, animal ears, multicolored hair
+(vivlos \(voyage etincelant\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, long hair, hair between eyes, horse tail, white hair, blue eyes, purple eyes, animal ears, multicolored hair, twintails
+(sugar lights \(umamusume\):1.3), umamusume, tail, aqua hair, horse ears, purple eyes, ahoge, animal ears, medium hair
+(matikanetannhauser \(panpaka tiltott\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, horse tail, long hair, yellow eyes, multicolored hair, animal ears, medium hair
+(curren bouquetd'or \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, hair between eyes, long hair, horse tail, animal ears
+(buena vista \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, hair between eyes, horse tail, purple eyes, animal ears, medium hair
+(sakura bakushin o \(blossom in learning\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, purple eyes, animal ears, ponytail
+(narita top road \(the proud road\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, short hair, long hair, blonde hair, purple eyes, animal ears, medium hair
+(daiwa scarlet \(mini vacation\) \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, very long hair, horse ears, long hair, horse tail, hair between eyes, low twintails, animal ears, twintails
+(super creek \(murmuring stream\) \(umamusume\):1.3), umamusume, tail, braided ponytail, brown hair, very long hair, streaked hair, horse ears, long hair, hair between eyes, horse tail, white hair, blue eyes, animal ears, multicolored hair
+(light hello \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, long hair, animal ears, medium hair
+(shinko windy \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, horse tail, short hair, hair between eyes, white hair, long hair, purple eyes, animal ears, multicolored hair
+(verxina \(le beau sommet\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, hair between eyes, long hair, horse tail, blue eyes, purple eyes, blue hair, animal ears
+(fujimasa march \(umamusume\):1.3), umamusume, tail, grey hair, horse ears, horse tail, long hair, short hair, yellow eyes, animal ears
+(duramente \(red in black\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, long hair, horse tail, hair between eyes, white hair, blue eyes, ahoge, animal ears, multicolored hair
+(sweep tosho \(platanus witch\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, purple eyes, animal ears, twintails
+(sakura chiyono o \(hinoshita kaisan hana akari\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, hair between eyes, horse tail, pink hair, blue eyes, animal ears, medium hair
+(smart falcon \(love 4ever\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, hair between eyes, long hair, animal ears, brown eyes, twintails
+(agnes tachyon \(casual\) \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, hair between eyes, horse tail, short hair, ahoge, animal ears, medium hair
+(maruzensky \(formula r\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, blue eyes, animal ears
+(dream journey \(reminder of dreamland\) \(umamusume\):1.3), umamusume, tail, black hair, brown hair, horse ears, long hair, hair between eyes, horse tail, white hair, blue eyes, blonde hair, ahoge, animal ears, multicolored hair
+(satono crown \(emerald journey\) \(umamusume\):1.3), umamusume, tail, black hair, green eyes, streaked hair, side ponytail, horse ears, long hair, hair between eyes, white hair, horse tail, animal ears, multicolored hair
+(air shakur \(unsigned\) \(umamusume\):1.3), umamusume, tail, black hair, horse ears, long hair, horse tail, yellow eyes, animal ears
+(lucky lilac \(umamusume\):1.3), umamusume, tail, brown hair, side ponytail, horse ears, long hair, horse tail, hair between eyes, purple eyes, animal ears, multicolored hair
+(mejiro ardan \(clinochlore line\) \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, purple eyes, blue hair, animal ears
+(no reason \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, hair between eyes, long hair, horse tail, yellow eyes, animal ears, antenna hair
+(daiichi ruby \(brilliant red gemstone\) \(umamusume\):1.3), umamusume, drill hair, black hair, tail, brown hair, horse ears, long hair, horse tail, purple eyes, animal ears
+(hokko tarumae \(star light ship\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, long hair, horse tail, white hair, purple eyes, animal ears, multicolored hair
+(venus paques \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, hair between eyes, blue eyes, animal ears
+(agnes digital \(super express! full color special\) \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, pink hair, blue eyes, animal ears
+(narita taishin \(nevertheless\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, short hair, hair between eyes, blue eyes, animal ears
+(north flight \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, hair between eyes, animal ears, brown eyes, medium hair
+(fine motion \(noble seamair\) \(umamusume\):1.3), umamusume, tail, two-tone hair, brown hair, green eyes, horse ears, hair between eyes, horse tail, short hair, white hair, animal ears, multicolored hair
+(mejiro ramonu \(onyx line\) \(umamusume\):1.3), umamusume, tail, black hair, streaked hair, horse ears, horse tail, long hair, white hair, purple eyes, animal ears, multicolored hair
+(aston machan \(flare\) \(umamusume\):1.3), umamusume, tail, brown hair, green eyes, horse ears, horse tail, hair between eyes, animal ears, medium hair
+(win variation \(dramatic tutu\) \(umamusume\):1.3), umamusume, tail, red hair, green eyes, horse ears, long hair, low twintails, hair between eyes, horse tail, animal ears, twintails
+(mejiro ryan \(down the line\) \(umamusume\):1.3), umamusume, tail, two-tone hair, brown hair, horse ears, horse tail, short hair, long hair, white hair, blue eyes, purple eyes, animal ears, multicolored hair
+(red desire \(umamusume\):1.3), umamusume, tail, red hair, horse ears, long hair, hair between eyes, horse tail, yellow eyes, ahoge, animal ears
+(k.s.miracle \(prism\) \(umamusume\):1.3), umamusume, tail, horse ears, hair between eyes, short hair, horse tail, blue eyes, blue hair, animal ears
+(rice shower \(casual\) \(umamusume\):1.3), umamusume, tail, black hair, brown hair, flipped hair, horse ears, long hair, horse tail, purple eyes, animal ears
+(gran alegria \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, hair between eyes, horse tail, ahoge, animal ears, brown eyes, medium hair
+(super creek \(chiffon ribbon mummy\) \(umamusume\):1.3), umamusume, tail, brown hair, very long hair, horse ears, long hair, hair between eyes, horse tail, blue eyes, animal ears
+(manhattan cafe \(verdant night\) \(umamusume\):1.3), umamusume, tail, black hair, horse ears, long hair, hair between eyes, horse tail, white hair, yellow eyes, ahoge, animal ears, multicolored hair
+(symboli kris s \(onyx soldier\) \(umamusume\):1.3), umamusume, tail, black hair, brown hair, horse ears, long hair, hair between eyes, horse tail, dark skin, blue eyes, animal ears, dark-skinned female, ponytail
+(hishi amazon \(azure amazon\) \(umamusume\):1.3), umamusume, tail, black hair, red eyes, very long hair, horse ears, long hair, hair between eyes, horse tail, dark skin, blue hair, animal ears, dark-skinned female
+(nakayama festa \(shichuukyuukatsu\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, hair between eyes, purple eyes, animal ears
+(tosen jordan \(pop joker\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, blue eyes, animal ears, twintails
+(meisho doto \(dot-o'-lantern\) \(umamusume\):1.3), umamusume, medium hair, tail, two-tone hair, brown hair, horse ears, hair between eyes, horse tail, short hair, white hair, purple eyes, ahoge, animal ears, multicolored hair
+(chrono genesis \(prismatic curator\) \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, hair between eyes, long hair, horse tail, blue eyes, animal ears
+(tap dance city \(glitter!\) \(umamusume\):1.3), umamusume, tail, black hair, brown hair, horse ears, hair between eyes, short hair, horse tail, purple eyes, animal ears, multicolored hair
+(admire vega \(casual\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, hair between eyes, long hair, horse tail, purple eyes, animal ears, ponytail
+(kii-kun \(agnes tachyon\) \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, hair between eyes, horse tail, short hair, ahoge, animal ears, ponytail
+(agnes digital \(lovely jiangshi\) \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, pink hair, blue eyes, animal ears
+(hishi miracle \(miracle make-up!\) \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, horse tail, animal ears, brown eyes, medium hair
+(mayano top gun \(sunlight bouquet\) \(umamusume\):1.3), umamusume, tail, orange eyes, horse ears, long hair, horse tail, orange hair, animal ears
+(satono diamond \(floral star prosperous green\) \(umamusume\):1.3), umamusume, tail, brown hair, very long hair, streaked hair, horse ears, long hair, hair between eyes, horse tail, white hair, animal ears, brown eyes, multicolored hair, ponytail
+(mejiro palmer \(line breakthrough\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, long hair, horse tail, hair between eyes, white hair, blue eyes, animal ears, multicolored hair, ponytail
+(silence suzuka \(emerald on the waves\) \(umamusume\):1.3), umamusume, tail, horse ears, horse tail, long hair, orange hair, animal ears
+(admire groove \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, long hair, horse tail, white hair, purple eyes, blue hair, animal ears, multicolored hair
+(air groove \(empress road\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, short hair, hair between eyes, long hair, blue eyes, animal ears
+(special week \(hopp'n happy heart\) \(umamusume\):1.3), umamusume, tail, two-tone hair, brown hair, horse ears, horse tail, short hair, long hair, white hair, purple eyes, animal ears, multicolored hair
+(transcend \(zoku-zoku gizmo\) \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, horse tail, short hair, white hair, animal ears, multicolored hair
+(yamanin zephyr \(fluttertail spirit\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, low twintails, hair between eyes, horse tail, white hair, animal ears, brown eyes, multicolored hair, twintails
+(espoir city \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, blue eyes, orange hair, animal ears, multicolored hair
+(haru urara \(casual\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, closed eyes, pink hair, animal ears, pink eyes, ponytail
+(curren chan \(casual\) \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, horse tail, short hair, hair between eyes, purple eyes, animal ears
+(wonder acute \(butterfly sting\) \(umamusume\):1.3), umamusume, grey hair, tail, brown hair, streaked hair, horse ears, hair between eyes, long hair, horse tail, blue eyes, animal ears, multicolored hair
+(daiwa scarlet \(scarlet nuit etoile\) \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, very long hair, horse ears, long hair, hair between eyes, horse tail, animal ears
+(gold ship \(umamusume\):1.3), long hair, horse ears, purple hair, grey hair, animal ears, horse tail, purple eyes, tail
+(tanino gimlet \(embodiment of keravnos\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, horse tail, short hair, hair between eyes, white hair, yellow eyes, animal ears, multicolored hair
+(mejiro mcqueen \(end of the skies\) \(umamusume\):1.3), umamusume, tail, horse ears, long hair, horse tail, purple hair, purple eyes, animal ears
+(fusaichi pandora \(umamusume\):1.3), umamusume, tail, brown hair, red eyes, horse ears, hair between eyes, horse tail, long hair, blonde hair, ahoge, animal ears, multicolored hair, twintails
+(tokai teio \(beyond the horizon\) \(umamusume\):1.3), umamusume, tail, two-tone hair, brown hair, streaked hair, horse ears, long hair, horse tail, hair between eyes, white hair, blue eyes, animal ears, multicolored hair, ponytail
+(sakura laurel \(saisir le reve\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, horse tail, short hair, purple eyes, animal ears, pink eyes
+(mejiro palmer \(devil in the moonlight\) \(umamusume\):1.3), umamusume, tail, brown hair, streaked hair, horse ears, horse tail, long hair, blue eyes, animal ears, multicolored hair, ponytail
+(nice nature \(casual\) \(umamusume\):1.3), umamusume, tail, red hair, brown hair, streaked hair, horse ears, horse tail, medium hair, animal ears, brown eyes, multicolored hair, twintails
+(ines fujin \(all-time fever\) \(umamusume\):1.3), umamusume, tail, brown hair, green eyes, side ponytail, horse ears, horse tail, animal ears
+(furioso \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, hair between eyes, long hair, horse tail, yellow eyes, animal ears
+(satono diamond \(chevalier bleu\) \(umamusume\):1.3), umamusume, tail, brown hair, long hair, hair between eyes, horse ears, horse tail, animal ears, brown eyes
+(mejiro bright \(brunissage line\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, hair between eyes, horse tail, ahoge, animal ears, brown eyes
+(winning ticket \(get to winning!\) \(umamusume\):1.3), umamusume, tail, black hair, brown hair, red eyes, horse ears, horse tail, short hair, long hair, animal ears
+(curren chan \(sakutsuki ma cherie\) \(umamusume\):1.3), umamusume, grey hair, tail, horse ears, horse tail, short hair, purple eyes, animal ears
+(inari one \(inari yukari edomurasaki\) \(umamusume\):1.3), umamusume, tail, brown hair, green eyes, horse ears, horse tail, hair between eyes, animal ears, twintails
+(durandal \(chevalier fidele\) \(umamusume\):1.3), umamusume, tail, two-tone hair, horse ears, long hair, horse tail, hair between eyes, white hair, blue eyes, blonde hair, animal ears, multicolored hair, ponytail
+(calstone light o \(one true path\) \(umamusume\):1.3), umamusume, tail, black hair, horse ears, long hair, horse tail, white hair, yellow eyes, ahoge, animal ears, multicolored hair
+(yaeno muteki \(attack of the four white meteors\) \(umamusume\):1.3), umamusume, tail, two-tone hair, brown hair, streaked hair, horse ears, hair between eyes, short hair, horse tail, white hair, animal ears, brown eyes, multicolored hair
+(agnes digital \(casual\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, horse tail, pink hair, blue eyes, animal ears
+(aston machan \(casual\) \(umamusume\):1.3), umamusume, tail, brown hair, green eyes, horse ears, horse tail, animal ears, medium hair
+(kawakami princess \(princess of pink\) \(umamusume\):1.3), umamusume, tail, brown hair, horse ears, long hair, curtained hair, horse tail, blue eyes, animal ears
+(mejiro mcqueen \(umamusume\):1.3), long hair, horse ears, purple hair, brown hair, animal ears, purple eyes, horse tail, tail

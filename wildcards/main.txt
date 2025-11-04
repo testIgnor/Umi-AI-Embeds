@@ -21,10 +21,7 @@ middle
 [chance 0]
 [set characterprompt]
 [choose]
-(emily \(overwatch\):1.3), red hair, freckles, medium hair, ginger, green eyes, orange hair**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
-(emily \(overwatch\):1.3), freckles, medium hair, ginger, <lora:Emily_Overwatch:1> Emily_\(Overwatch\), long hair, orange hair, green eyes, red hair**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
-(d.mon \(overwatch\):0.0), Yuna Lee, black hair, medium hair, korean, green eyes, Dmon <lora:Dmon ill-000045:1>**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
-(d.mon \(overwatch\):0.0), Yuna Lee, black hair, medium hair, korean, green eyes, d.mon <lora:Dmon:1>**(kiriko \(overwatch\), d.va \(overwatch\), tracer \(overwatch\), lucio \(overwatch\), mercy \(overwatch\), widowmaker \(overwatch\), symmetra \(overwatch\):1.5)**
+(haru urara \(umamusume\):1.3), purple eyes, animal ears, tail, pink hair, horse tail, long hair, ponytail, horse ears
 [/choose]
 [/set]
 [set characterprompt]<[model][Any]>source_anime, [get characterprompt]**(yellow skin, orange skin, red skin:1.5)**[/set]
@@ -54,15 +51,9 @@ Overrides Prompt Properties
 [chance 0]
 [set prompt_suffix]
 [choose]
-<lora:towel_noobai_V1.0:1> towel, naked towel
-<lora:see-through-silhouette-v2-illustriousxl-lora-nochekaiser:1>, see-through silhouette, blush, dress, bare shoulders, sleeveless, armpits, white dress, covered nipples, see-through, sleeveless dress, no bra, no panties, nightgown, see-through dress, backlighting
-<lora:naked-hoodie-illustriousxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
-<lora:naked-hoodie-illustriousxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
-<lora:naked-hoodie-illustriousxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
-<lora:naked-hoodie-ponyxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
-<lora:naked-hoodie-ponyxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
-<lora:naked-hoodie-ponyxl-lora-nochekaiser:1>, naked hoodie, hoodie, open hoodie, long sleeves, unzipped, midriff, navel, areola, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
-<lora:loose_tank_top_ilxl_goofy:1> loose tank top, loose shirt, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+tattered dress, ruined dress, ripped dress, exposed breasts, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+tattered dress, ruined dress, ripped dress, breasts visible through ripped clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+tattered dress, ruined dress, ripped dress, one breast visible through ripped clothes, <[eznips]>
 [/choose]
 [/set]
 
@@ -86,7 +77,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-Mechagodzilla
+Umamusume
 [/choose]
 [/set]
 
@@ -112,6 +103,7 @@ myspecies
 [set franchise]
 [choose]
 Franxx
+Pokemon
 [/choose]
 [/set]
 [/chance]
@@ -348,7 +340,7 @@ NULL
 
 [if "model not in sd_model"]
     [if "sd_model_type in opt"]
-        [chance 5][set sd_model][get model][/set][/chance]
+        [chance 15][set sd_model][get model][/set][/chance]
     [/if]
     [else]
         [set sd_model][get model][/set]
