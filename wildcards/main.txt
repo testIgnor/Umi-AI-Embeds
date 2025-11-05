@@ -180,13 +180,13 @@ Sets gender_prompt
 [function set_gender]
 [set gender]female[/set]
 
-[chance 25]
+[chance 15]
 [set gender]
 male
 [/set]
 [/chance]
 
-[chance 20]
+[chance 15]
 [set gender]
 futanari
 [/set]
@@ -248,6 +248,12 @@ aberration
 [set gender_suffix]
 , <[FutaAddon][get futa_type _before=[ _after=]]>
 [/set]
+
+[chance 0]
+[set gender_suffix]
+, <[FutaAddon][ezhorsefuta]>
+[/set]
+[/chance]
 
 [if "'Mechagodzilla' in franchise"]
 [chance 80]

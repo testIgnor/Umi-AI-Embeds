@@ -1676,6 +1676,10 @@
             "ss_name": "Hope__Fortnite",
             "baseModel": "Illustrious"
         },
+        "horse_penis_illustrious": {
+            "ss_name": "lora",
+            "baseModel": "Illustrious"
+        },
         "House dragonmaid illuXL v1": {
             "ss_name": "House dragonmaid illuXL v1",
             "baseModel": "Illustrious"
@@ -6568,6 +6572,10 @@
             "ss_name": "gwenom",
             "baseModel": "Pony"
         },
+        "h0rs3_p3nis_pony": {
+            "ss_name": "lora",
+            "baseModel": "Pony"
+        },
         "hanafn-guy-PONY-LyCorisV1": {
             "ss_name": "hanafn-guy-PONY-LyCorisV1",
             "baseModel": "Pony"
@@ -6686,6 +6694,14 @@
         },
         "hornyx_pony": {
             "ss_name": "hornyx_pony",
+            "baseModel": "Pony"
+        },
+        "Horse_cock_futa_pony": {
+            "ss_name": "Horse_cock_futa_pony",
+            "baseModel": "Pony"
+        },
+        "horse_penis_pdxl_goofy": {
+            "ss_name": "horse_penis_pdxl_goofy",
             "baseModel": "Pony"
         },
         "hud_dk_mdressXLP": {
@@ -11368,6 +11384,7 @@
         ],
         "lora": [
             "FN_Katalina",
+            "horse_penis_illustrious",
             "lore",
             "Stella",
             "akumajocharlotteaulinpony",
@@ -11375,6 +11392,7 @@
             "dina",
             "emily_kaldwin",
             "Garuda",
+            "h0rs3_p3nis_pony",
             "Monster Girl Dragon",
             "SerahFarron",
             "Shiva",
@@ -15267,6 +15285,12 @@
         ],
         "hornyx_pony": [
             "hornyx_pony"
+        ],
+        "Horse_cock_futa_pony": [
+            "Horse_cock_futa_pony"
+        ],
+        "horse_penis_pdxl_goofy": [
+            "horse_penis_pdxl_goofy"
         ],
         "hud_dk_mdressXLPfix": [
             "hud_dk_mdressXLP"
