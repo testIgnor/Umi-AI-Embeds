@@ -659,12 +659,6 @@
   Tags:
     - Characters
     - Umamusume
-'<[model][illu]>source_anime, _=Characters/Umamusume=_ <lora:37in1umamusumeillv1.1:1>**(yellow skin, orange skin, red skin:1.5)**':
-  Description:
-    - Umamusume Characters
-  Tags:
-    - Characters
-    - Umamusume
 '<[model][Any]>source_anime, _=Characters/Upsample=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Danbooru Upsample Characters
