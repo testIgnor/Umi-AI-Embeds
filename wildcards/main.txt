@@ -77,11 +77,12 @@ characters
 [/set]
 [set franchise]
 [choose]
-Umamusume
+Azur Lane
+Kantai Collection
 [/choose]
 [/set]
 
-[chance 0]
+[chance 20]
 [set characterType]
 [choose]
 characters
@@ -89,7 +90,14 @@ characters
 [/set]
 [set franchise]
 [choose]
-Ookami
+Arknights
+Blue Archive
+Genshin
+Granblue
+Honkai Impact 3rd
+Honkai Star rail
+Nikke
+Princess Connect
 [/choose]
 [/set]
 [/chance]
@@ -122,7 +130,7 @@ Makes the prompt
 
 [call preprocess]
 
-[chance 10]
+[chance 5]
 [chance 50]
 [call make_double]
 [/chance]
@@ -180,13 +188,13 @@ Sets gender_prompt
 [function set_gender]
 [set gender]female[/set]
 
-[chance 15]
+[chance 10]
 [set gender]
 male
 [/set]
 [/chance]
 
-[chance 15]
+[chance 10]
 [set gender]
 futanari
 [/set]
