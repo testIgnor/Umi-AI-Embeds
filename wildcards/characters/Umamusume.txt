@@ -1,12 +1,12 @@
 (air messiah \(umamusume\):1.3), hair ornament, hair between eyes, horse ears, animal ears, tail, green hair, medium hair, hairclip, purple eyes, horse tail
 (anshinzawa sasami:1.3), blue eyes, blonde hair, eye mask, long hair, ahoge
 (bitter glasse \(umamusume\):1.3), ear ornament, hair between eyes, earrings, dark skin, brown hair, hair bow, animal ears, brown eyes, tail, dark-skinned female, horse tail, short hair, horse ears
-(hayakawa tazuna:1.3), green eyes, brown hair, closed eyes, long hair
-(kashimoto riko:1.3), long hair, black hair, brown eyes
-(kiryuin aoi:1.3), short hair, hairclip, black hair, purple eyes
+(hayakawa tazuna:1.3), green eyes, brown hair, closed eyes, long hair**(horse ears, animal ears, tail, horse tail:2.0)**
+(kashimoto riko:1.3), long hair, black hair, brown eyes**(horse ears, animal ears, tail, horse tail:2.0)**
+(kiryuin aoi:1.3), short hair, hairclip, black hair, purple eyes**(horse ears, animal ears, tail, horse tail:2.0)**
 (matikanetannhauser \(umamusume\):1.3), brown eyes, medium hair, horse tail, multicolored hair, yellow eyes, hair ornament, streaked hair, ears through headwear, animal ears, brown hair, long hair, hairclip, tail, horse ears
-(satake mei:1.3), short hair, brown hair, brown eyes
-(tsurugi ryoka:1.3), hair between eyes, long hair, side ponytail, purple eyes, purple hair
+(satake mei:1.3), short hair, brown hair, brown eyes**(horse ears, animal ears, tail, horse tail:2.0)**
+(tsurugi ryoka:1.3), hair between eyes, long hair, side ponytail, purple eyes, purple hair**(horse ears, animal ears, tail, horse tail:2.0)**
 (venus paques \(umamusume\):1.3), blue eyes, brown hair, hair between eyes, horse ears, animal ears, tail, ears through headwear, braid, horse tail
 (admire vega \(umamusume\):1.3), horse tail, ear covers, horse ears, ponytail, animal ears, brown hair, hair between eyes, tail, long hair, purple eyes, single ear cover
 (agnes digital \(umamusume\):1.3), horse tail, blue eyes, pink hair, hair bow, horse ears, animal ears, tail, long hair
