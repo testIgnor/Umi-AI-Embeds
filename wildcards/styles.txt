@@ -6,7 +6,7 @@ masterpiece, best quality, amazing quality
 masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery
 [/tags]
 [tags style="positive" model="NAI"]
-masterpiece, best quality, amazing quality, very awa,absurdres,newest,very aesthetic,depth of field, highres
+masterpiece, best quality, amazing quality, very awa, absurdres, newest, very aesthetic, depth of field, highres
 masterpiece, best quality, newest, absurdres, highres
 [/tags]
 [tags style="negative" model="pony"]
@@ -20,5 +20,5 @@ modern, recent, old, oldest, cartoon, graphic, text, painting, crayon, graphite,
 [/tags]
 [tags style="negative" model="NAI"]
 worst quality, old, early, low quality, lowres, signature, username, logo, bad hands, mutated hands
-worst quality,normal quality,anatomical nonsense,bad anatomy,interlocked fingers,extra fingers,watermark,simple background,transparent,low quality,logo,text,signature,face backlighting,backlighting
+worst quality, normal quality, anatomical nonsense, bad anatomy, interlocked fingers, extra fingers, watermark, simple background, transparent, low quality, logo, text, signature, face backlighting, backlighting
 [/tags]
