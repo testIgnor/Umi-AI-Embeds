@@ -146,3 +146,404 @@
 (janus \(kancolle\):1.3), kantai collection, blonde hair, long hair, blue eyes, short hair
 (i-13 \(kancolle\):1.3), kantai collection, brown eyes, short hair, hair between eyes, black hair, asymmetrical hair
 (suzuya kai ni \(kancolle\):1.3), kantai collection, aqua eyes, green hair, long hair, green eyes, hair between eyes, aqua hair
+(kunashiri \(kancolle\):1.3), short hair, black hair, multicolored hair, pink hair, two-tone hair
+(hachijou \(kancolle\):1.3), short hair, hair ribbon, brown hair, blue eyes
+(ishigaki \(kancolle\):1.3), short hair, black hair, purple eyes, hair ribbon
+(etorofu \(kancolle\):1.3), short hair, red hair, gradient hair, braid, purple eyes, multicolored hair, twin braids
+(matsuwa \(kancolle\):1.3), gradient hair, green eyes, black hair, multicolored hair, purple hair, long hair
+(sado \(kancolle\):1.3), gradient hair, red eyes, blue hair, multicolored hair, long hair, blonde hair
+(tsushima \(kancolle\):1.3), short hair, gradient hair, hair ornament, purple eyes, multicolored hair, purple hair, long hair
+(hirato \(kancolle\):1.3), short hair, brown eyes, grey hair
+(fukae \(kancolle\):1.3), short hair, gradient hair, long hair, blue hair, multicolored hair, brown eyes, side ponytail
+(hiburi \(kancolle\):1.3), short hair, low ponytail, black hair, ponytail, brown eyes
+(daitou \(kancolle\):1.3), short hair, black hair, ponytail
+(shounan \(kancolle\):1.3), short hair, black hair, twintails, purple eyes
+(samuel b. roberts \(kancolle\):1.3), hair bun, blue hair, short hair
+(mikura \(kancolle\):1.3), twintails, grey hair, green eyes, low twintails, long hair
+(noumi \(kancolle\):1.3), long hair, green hair, low ponytail, ponytail
+(yashiro \(kancolle\):1.3), long hair, wavy hair, brown eyes, brown hair
+(kurahashi \(kancolle\):1.3), twintails, black hair, red eyes, medium hair, long hair, brown hair
+(kaiboukan no. 4 \(kancolle\):1.3), short hair, twintails, hair rings, low twintails, long hair, brown hair
+(kaiboukan no. 22 \(kancolle\):1.3), twintails, hair ornament, black hair, low twintails, blue eyes, long hair
+(kaiboukan no. 30 \(kancolle\):1.3), short hair, long hair, grey hair
+(ukuru \(kancolle\):1.3), short hair with long locks, short hair, black hair, brown eyes, brown hair
+(inagi \(kancolle\):1.3), hair ribbon, twintails, hair ornament, black hair, hairclip, brown eyes, hair between eyes, long hair
+(kamikaze \(kancolle\):1.3), purple hair, long hair, purple eyes, hair bow
+(harukaze \(kancolle\):1.3), red eyes, hair bow, drill hair, long hair, brown hair
+(asakaze \(kancolle\):1.3), wavy hair, blue eyes, hair bow, long hair, parted bangs, brown hair
+(matsukaze \(kancolle\):1.3), short hair, green eyes, black hair, wavy hair, ahoge, long hair
+(hatakaze \(kancolle\):1.3), hair ribbon, hair between eyes, blue eyes, drill hair, ponytail, long hair, brown hair
+(mutsuki \(kancolle\):1.3), short hair, long hair, brown hair
+(kisaragi \(kancolle\):1.3), long hair, purple eyes, hair ornament, brown hair
+(yayoi \(kancolle\):1.3), short hair with long locks, short hair, hair ornament, crescent hair ornament, blue eyes, purple hair, long hair
+(uzuki \(kancolle\):1.3), hair ornament, crescent hair ornament, rabbit hair ornament, long hair, ahoge, pink hair
+(satsuki \(kancolle\):1.3), twintails, low twintails, yellow eyes, long hair, blonde hair
+(minazuki \(kancolle\):1.3), short hair, asymmetrical hair, blue hair, blue eyes, long hair
+(fumizuki \(kancolle\):1.3), long hair, brown eyes, brown hair, ponytail
+(nagatsuki \(kancolle\):1.3), hair ornament, green eyes, crescent hair ornament, green hair, long hair
+(kikuzuki \(kancolle\):1.3), white hair, long hair, hair ornament
+(mikazuki \(kancolle\):1.3), yellow eyes, long hair, black hair, ahoge
+(mochizuki \(kancolle\):1.3), red-framed eyewear, long hair, brown eyes, brown hair
+(fubuki \(kancolle\):1.3), long hair, black hair, ponytail
+(shirayuki \(kancolle\):1.3), short hair, twintails, low twintails, brown eyes, long hair, brown hair
+(hatsuyuki \(kancolle\):1.3), long hair, black hair, blunt bangs
+(miyuki \(kancolle\):1.3), short hair, long hair, black hair
+(murakumo \(kancolle\):1.3), long hair, hair ribbon, headgear
+(usugumo \(kancolle\):1.3), hair ribbon, grey hair, brown eyes, ponytail, long hair
+(shirakumo \(kancolle\):1.3), white hair, long hair, blunt bangs, grey eyes
+(isonami \(kancolle\):1.3), long hair, braid, black hair
+(uranami \(kancolle\):1.3), braid, single braid, brown eyes, long hair, brown hair
+(ayanami \(kancolle\):1.3), hair ribbon, ponytail, long hair, brown hair, side ponytail
+(shikinami \(kancolle\):1.3), short hair, hair ribbon, long hair, ponytail, brown eyes, brown hair
+(amagiri \(kancolle\):1.3), grey eyes, grey hair, hair between eyes, very long hair, ponytail, long hair
+(sagiri \(kancolle\):1.3), long hair, purple eyes, hairband, grey hair
+(oboro \(kancolle\):1.3), short hair, hair ornament, ahoge, long hair, brown hair
+(akebono \(kancolle\):1.3), hair ornament, hair bell, purple eyes, hair flower, purple hair, long hair, side ponytail
+(sazanami \(kancolle\):1.3), short hair, twintails, hair ornament, long hair, hair bobbles, pink hair
+(ushio \(kancolle\):1.3), long hair, black hair, hair ornament, ahoge
+(akatsuki \(kancolle\):1.3), long hair
+(hibiki \(kancolle\):1.3), long hair, blue eyes, grey hair
+(verniy \(kancolle\):1.3), long hair, blue eyes, grey hair
+(ikazuchi \(kancolle\):1.3), short hair, hair ornament, hairclip, brown eyes, fang, folded ponytail, long hair, brown hair
+(inazuma \(kancolle\):1.3), short hair, long hair, folded ponytail, brown hair
+(hatsuharu \(kancolle\):1.3), hair ribbon, purple eyes, very long hair, ponytail, purple hair, long hair
+(nenohi \(kancolle\):1.3), braid, single braid, long hair, ahoge, pink hair, headgear
+(wakaba \(kancolle\):1.3), short hair, long hair, brown eyes, brown hair
+(hatsushimo \(kancolle\):1.3), long hair, black hair, low-tied long hair, red eyes
+(ariake \(kancolle\):1.3), black hair, purple eyes, hair over one eye, ponytail, purple hair, long hair
+(yuugure \(kancolle\):1.3), gradient hair, hairband, purple eyes, white hairband, multicolored hair, drill hair, purple hair, orange hair, long hair
+(shiratsuyu \(kancolle\):1.3), short hair, hairband, brown eyes, hair flaps, ahoge, long hair, brown hair
+(shigure \(kancolle\):1.3), hair over shoulder, hair ornament, braid, black hair, single braid, blue eyes, hair flaps, ahoge, long hair, brown hair
+(murasame \(kancolle\):1.3), hair ribbon, twintails, red eyes, brown eyes, hair flaps, long hair, brown hair
+(yuudachi \(kancolle\):1.3), hair ribbon, hair ornament, hairclip, red eyes, hair flaps, long hair, blonde hair
+(the yuudachi-like creature \(kancolle\):1.3)
+(harusame \(kancolle\):1.3), pink hair, hair ribbon, gradient hair, hair ornament, red eyes, blue hair, multicolored hair, long hair, side ponytail
+(samidare \(kancolle\):1.3), long hair, blue hair, very long hair, blue eyes
+(umikaze \(kancolle\):1.3), grey hair, braid, single braid, blue eyes, very long hair, mole under eye, long hair
+(yamakaze \(kancolle\):1.3), hair ribbon, hair ornament, green eyes, hairclip, hair between eyes, green hair, ponytail, long hair
+(kawakaze \(kancolle\):1.3), red hair, hair ribbon, twintails, hairband, braid, low twintails, blue eyes, hair flaps, very long hair, ahoge, long hair
+(suzukaze \(kancolle\):1.3), hair ribbon, twintails, green eyes, low twintails, blue hair, long hair
+(asashio \(kancolle\):1.3), long hair, black hair, blue eyes
+(ooshio \(kancolle\):1.3), short hair, long hair, hair ribbon, twintails
+(michishio \(kancolle\):1.3), short hair, twintails, hair bun, long hair, brown hair
+(arashio \(kancolle\):1.3), long hair, brown eyes, brown hair
+(yamagumo \(kancolle\):1.3), twintails, grey hair, braid, hairband, long hair, brown hair
+(asagumo \(kancolle\):1.3), long hair, hair ribbon, twintails, brown hair
+(minegumo \(kancolle\):1.3), braid, cloud hair ornament, red eyes, long hair, twin braids, brown hair
+(arare \(kancolle\):1.3), short hair, long hair, black hair, brown eyes
+(kasumi \(kancolle\):1.3), hair ribbon, grey hair, brown eyes, long hair, side ponytail
+(kagerou \(kancolle\):1.3), hair ribbon, twintails, ahoge, long hair, brown hair
+(shiranui \(kancolle\):1.3), short hair, hair ornament, blue eyes, ponytail, pink hair
+(kuroshio \(kancolle\):1.3), short hair, black hair, hairclip, hair ornament
+(oyashio \(kancolle\):1.3), long hair, hairclip, black hair, hair ornament
+(hayashio \(kancolle\):1.3), long hair, black hair, brown eyes, mole under eye
+(hatsukaze \(kancolle\):1.3), long hair, blue hair, blue eyes
+(yukikaze \(kancolle\):1.3), short hair, headgear, radar hair ornament, long hair, brown eyes, brown hair
+(tan yang \(kancolle\):1.3), short hair, brown eyes, brown hair
+(amatsukaze \(kancolle\):1.3), lifebuoy ornament, grey hair, hair tubes, brown eyes, smokestack hair ornament, long hair
+(rensouhou-kun \(kancolle\):1.3)
+(tokitsukaze \(kancolle\):1.3), short hair, short hair with long locks, black hair, multicolored hair, brown eyes
+(urakaze \(kancolle\):1.3), hair bun, long hair, blue hair, blue eyes
+(isokaze \(kancolle\):1.3), hair ribbon, long hair, black hair, red eyes
+(hamakaze \(kancolle\):1.3), short hair, hair ornament, grey hair, hairclip, blue eyes, hair over one eye
+(tanikaze \(kancolle\):1.3), short hair, hair ornament, hairband, black hair, long hair, brown hair
+(nowaki \(kancolle\):1.3), grey eyes, long hair, asymmetrical hair, grey hair
+(arashi \(kancolle\):1.3), long hair, red hair, ahoge
+(hagikaze \(kancolle\):1.3), purple hair, long hair, brown eyes, ahoge
+(maikaze \(kancolle\):1.3), short hair, long hair, blonde hair, ponytail
+(akigumo \(kancolle\):1.3), hair ribbon, green eyes, ponytail, long hair, brown hair
+(yuugumo \(kancolle\):1.3), braid, single braid, blue eyes, green hair, ahoge, very long hair, long hair
+(makigumo \(kancolle\):1.3), twintails, yellow eyes, long hair, ahoge, hair bun, pink hair
+(kazagumo \(kancolle\):1.3), hair ribbon, blue eyes, ponytail, long hair, brown hair
+(naganami \(kancolle\):1.3), black hair, long hair, wavy hair, multicolored hair, pink hair, two-tone hair
+(makinami \(kancolle\):1.3), hair ornament, black hair, multicolored hair, ahoge, green hair, hair bun, long hair
+(takanami \(kancolle\):1.3), short hair, braid, long hair, green hair, brown eyes
+(tamanami \(kancolle\):1.3), short hair, yellow eyes, swept bangs, grey hair
+(suzunami \(kancolle\):1.3), hair ribbon, green hair, multicolored hair, medium hair, long hair
+(fujinami \(kancolle\):1.3), hair ribbon, black hair, ahoge, yellow eyes, long hair, side ponytail
+(hayanami \(kancolle\):1.3), short hair, hair ribbon, purple hair, grey hair, black hair, ahoge, ponytail, yellow eyes, long hair, side ponytail
+(hamanami \(kancolle\):1.3), hair over eyes, hair ribbon, grey hair, braid, single braid, brown eyes, ahoge, long hair
+(okinami \(kancolle\):1.3), short hair, green eyes, black hair, long hair, multicolored hair, ahoge, pink hair, blue-framed eyewear, brown hair
+(kishinami \(kancolle\):1.3), short hair, blunt bangs, wavy hair, ahoge, brown eyes, brown hair
+(asashimo \(kancolle\):1.3), grey hair, ponytail, ahoge, hair over one eye, long hair
+(hayashimo \(kancolle\):1.3), hair ribbon, black hair, very long hair, hair over one eye, long hair
+(akishimo \(kancolle\):1.3), short hair, short hair with long locks, asymmetrical hair, hair ornament, gradient hair, grey hair, grey eyes, multicolored hair, leaf hair ornament, long hair, brown hair
+(kiyoshimo \(kancolle\):1.3), twintails, grey hair, hair between eyes, low twintails, very long hair, ahoge, long hair
+(akizuki \(kancolle\):1.3), long hair, black hair, ponytail
+(chou-10cm-hou-chan \(kancolle\):1.3)
+(teruzuki \(kancolle\):1.3), propeller hair ornament, hair ornament, braid, hairband, blue eyes, long hair, twin braids, brown hair
+(hatsuzuki \(kancolle\):1.3), short hair, hairband, hair flaps, brown hair
+(suzutsuki \(kancolle\):1.3), long hair, hair between eyes, grey hair
+(fuyutsuki \(kancolle\):1.3), grey eyes, long hair, grey hair
+(shimakaze \(kancolle\):1.3), long hair, blonde hair, underwear, hairband
+(rensouhou-chan \(kancolle\):1.3)
+(matsu \(kancolle\):1.3), green eyes, long hair, antenna hair, green hair
+(take \(kancolle\):1.3), short hair, antenna hair, streaked hair, multicolored hair, green hair, ahoge, purple hair, long hair
+(ume \(kancolle\):1.3), short hair, streaked hair, red eyes, pink-framed eyewear, multicolored hair, green hair, ponytail, ahoge, pink hair
+(momo \(kancolle\):1.3), twintails, gradient hair, red eyes, fang, long hair, multicolored hair, ahoge, green hair, pink hair
+(z1 leberecht maass \(kancolle\):1.3), short hair, blue eyes, grey hair
+(z3 max schultz \(kancolle\):1.3), short hair, brown eyes, brown hair
+(maestrale \(kancolle\):1.3), hair ribbon, hair ornament, grey hair, green eyes, long hair
+(grecale \(kancolle\):1.3), green eyes, long hair, hair bow, blonde hair
+(libeccio \(kancolle\):1.3), twintails, brown eyes, dark-skinned female, dark skin, long hair, brown hair
+(scirocco \(kancolle\):1.3), short hair, hair ornament, green eyes, hairclip, black hair, mole under eye, long hair
+(fletcher \(kancolle\):1.3), hair ornament, hairband, star hair ornament, blue eyes, hair bun, long hair, blonde hair
+(johnston \(kancolle\):1.3), long hair, brown eyes, brown hair
+(heywood l. edwards \(kancolle\):1.3), long hair, blue eyes, ahoge, grey hair
+(jervis \(kancolle\):1.3), long hair, blue eyes, blonde hair
+(janus \(kancolle\):1.3), short hair, long hair, blue eyes, blonde hair
+(javelin \(kancolle\):1.3), long hair, blue eyes, grey hair
+(tashkent \(kancolle\):1.3), twintails, hair ornament, hairclip, hair between eyes, low twintails, brown eyes, hair bow, long hair, brown hair
+(mogador \(kancolle\):1.3), green eyes, hairband, long hair, blue hairband, brown hair
+(tenryuu \(kancolle\):1.3), short hair, eyepatch, purple hair, yellow eyes, headgear
+(tatsuta \(kancolle\):1.3), short hair, glaive \(polearm\), eyepatch, purple hair, headgear
+(kuma \(kancolle\):1.3), long hair, brown hair, ahoge
+(tama \(kancolle\):1.3), short hair, long hair
+(kitakami \(kancolle\):1.3), long hair, black hair, blunt bangs, braid
+(ooi \(kancolle\):1.3), long hair, brown hair
+(kiso \(kancolle\):1.3), short hair, long hair, eyepatch, green hair
+(nagara \(kancolle\):1.3), short hair, long hair, black hair, brown eyes
+(isuzu \(kancolle\):1.3), long hair, hair ribbon, twintails
+(natori \(kancolle\):1.3), short hair, hairband, long hair, white hairband, brown eyes, brown hair
+(yura \(kancolle\):1.3), hair ribbon, long hair, hair flaps, very long hair, ponytail, pink hair
+(kinu \(kancolle\):1.3), short hair, red hair, long hair
+(abukuma \(kancolle\):1.3), twintails, hair rings, blue eyes, hair bun, long hair, blonde hair
+(sendai \(kancolle\):1.3), short hair, brown eyes, hair ornament, brown hair
+(jintsuu \(kancolle\):1.3), long hair, brown eyes, brown hair
+(naka \(kancolle\):1.3), short hair, antenna hair, brown eyes, hair bun, long hair, brown hair
+(katori \(kancolle\):1.3), green eyes, long hair, folded ponytail, brown hair
+(kashima \(kancolle\):1.3), twintails, grey hair, wavy hair, blue eyes, long hair
+(agano \(kancolle\):1.3), green eyes, long hair, black hair
+(noshiro \(kancolle\):1.3), green eyes, braid, long hair, twin braids, brown hair
+(yahagi \(kancolle\):1.3), long hair, black hair, red eyes, ponytail
+(sakawa \(kancolle\):1.3), short hair, long hair, purple hair
+(yuubari \(kancolle\):1.3), long hair, hair bow, ponytail
+(ooyodo \(kancolle\):1.3), long hair, black hair, hairband
+(luigi di savoia duca degli abruzzi \(kancolle\):1.3), pink hair, long hair, pink eyes
+(giuseppe garibaldi \(kancolle\):1.3), short hair, pink hair, pink eyes, long hair
+(gotland \(kancolle\):1.3), hair between eyes, blue hair, blue eyes, mole under eye, long hair
+(de ruyter \(kancolle\):1.3), red hair, blunt bangs, green eyes, braid, hairband, long hair
+(perth \(kancolle\):1.3), short hair, braid, purple eyes, braided bangs, braided bun, hair bun, long hair, blonde hair
+(atlanta \(kancolle\):1.3), earrings, grey eyes, long hair, brown hair, star earrings
+(brooklyn \(kancolle\):1.3), hair ornament, hair flower, red eyes, long hair, blonde hair
+(phoenix \(kancolle\):1.3), long hair, red hair, red eyes, headgear
+(general belgrano \(kancolle\):1.3), red hair, hair between eyes, red eyes, long hair, headgear
+(honolulu \(kancolle\):1.3), twintails, blue eyes, drill hair, long hair, blonde hair
+(helena \(kancolle\):1.3), green eyes, long hair, blunt bangs, brown hair
+(sheffield \(kancolle\):1.3), long hair, blue eyes, brown hair, messy hair
+(gloire \(kancolle\):1.3), short hair, colored inner hair, blue eyes, blue hair, multicolored hair, blonde hair
+(furutaka \(kancolle\):1.3), short hair, hair ornament, yellow eyes, brown hair
+(kako \(kancolle\):1.3), short hair, hair ornament, black hair, ahoge, ponytail, long hair, brown hair
+(aoba \(kancolle\):1.3), short hair, long hair, ponytail
+(kinugasa \(kancolle\):1.3), green eyes, antenna hair, long hair, grey hair
+(myoukou \(kancolle\):1.3), short hair, hair ornament, black hair, brown eyes, long hair
+(nachi \(kancolle\):1.3), long hair, black hair, side ponytail
+(ashigara \(kancolle\):1.3), long hair, brown eyes, brown hair, hairband
+(haguro \(kancolle\):1.3), short hair, brown eyes, black hair, hair ornament
+(takao \(kancolle\):1.3), short hair, long hair, black hair, red eyes
+(atago \(kancolle\):1.3), long hair, blonde hair
+(maya \(kancolle\):1.3), short hair, blue eyes, hair ornament, brown hair
+(choukai \(kancolle\):1.3), hair ornament, black hair, red eyes, long hair, rimless eyewear
+(mogami \(kancolle\):1.3), short hair, long hair, black hair
+(mikuma \(kancolle\):1.3), short hair, hair ribbon, twintails, black hair, long hair
+(suzuya \(kancolle\):1.3), aqua hair, hair ornament, hairclip, christmas tree hair ornament, long hair
+(kumano \(kancolle\):1.3), long hair, hair ornament, brown hair, ponytail
+(tone \(kancolle\):1.3), long hair, hair ribbon, twintails, brown hair
+(chikuma \(kancolle\):1.3), long hair, black hair, twintails
+(prinz eugen \(kancolle\):1.3), twintails, hair ornament, long hair, anchor hair ornament, blonde hair
+(zara \(kancolle\):1.3), braid, brown eyes, wavy hair, long hair, blonde hair
+(pola \(kancolle\):1.3), grey hair, hair between eyes, brown eyes, wavy hair, long hair
+(northampton \(kancolle\):1.3), green eyes, long hair, blonde hair, semi-rimless eyewear
+(houston \(kancolle\):1.3), long hair, brown eyes, brown hair, blonde hair
+(tuscaloosa \(kancolle\):1.3), hair ornament, hair between eyes, hairclip, blue eyes, medium hair, blonde hair
+(kongou \(kancolle\):1.3), hairband, brown hair, ahoge, hair bun, long hair, headgear
+(hiei \(kancolle\):1.3), short hair, headgear, hairband, long hair, brown hair
+(haruna \(kancolle\):1.3), hair ornament, hairband, black hair, hairclip, brown eyes, long hair, headgear
+(kirishima \(kancolle\):1.3), short hair, hairband, black hair, long hair, headgear
+(fusou \(kancolle\):1.3), short hair, hair ornament, black hair, red eyes, long hair
+(yamashiro \(kancolle\):1.3), short hair, hair ornament, black hair, red eyes, long hair
+(ise \(kancolle\):1.3), short hair, hair ribbon, brown eyes, ponytail, long hair, brown hair
+(hyuuga \(kancolle\):1.3), short hair, long hair, brown hair
+(nagato \(kancolle\):1.3), long hair, black hair, headgear
+(mutsu \(kancolle\):1.3), short hair, headgear, green eyes, long hair, brown hair
+(yamato \(kancolle\):1.3), hair ornament, hair flower, brown eyes, very long hair, ponytail, long hair, brown hair
+(musashi \(kancolle\):1.3), twintails, dark-skinned female, red eyes, dark skin, long hair
+(bismarck \(kancolle\):1.3), long hair, blue eyes, blonde hair
+(littorio \(kancolle\):1.3), long hair, brown eyes, brown hair, ponytail
+(italia \(kancolle\):1.3), long hair, brown eyes, brown hair
+(roma \(kancolle\):1.3), short hair, brown eyes, brown hair, long hair
+(iowa \(kancolle\):1.3), long hair, blue eyes, hair between eyes, blonde hair
+(warspite \(kancolle\):1.3), half up braid, braid, hairband, blue eyes, long hair, blonde hair
+(valiant \(kancolle\):1.3), earrings, hairband, hair between eyes, blue eyes, long hair, blonde hair
+(gangut \(kancolle\):1.3), long hair, hair between eyes, grey hair
+(oktyabrskaya revolyutsiya \(kancolle\):1.3), long hair, grey hair
+(richelieu \(kancolle\):1.3), hair between eyes, blue eyes, mole under eye, long hair, blonde hair
+(jean bart \(kancolle\):1.3), short hair, gradient hair, blue eyes, blue hair, multicolored hair, mole under eye, blonde hair
+(nelson \(kancolle\):1.3), long hair, blue eyes, blonde hair, headgear
+(rodney \(kancolle\):1.3), short hair, blue eyes, blonde hair, headgear
+(colorado \(kancolle\):1.3), short hair, headgear, braid, blue eyes, side braids, blonde hair
+(maryland \(kancolle\):1.3), twintails, blonde hair, low twintails, brown hair, blue eyes, long hair, headgear
+(south dakota \(kancolle\):1.3), red hair, blue hair, multicolored hair, white hair, long hair
+(massachusetts \(kancolle\):1.3), red hair, headgear, streaked hair, red eyes, multicolored hair, long hair, blonde hair
+(washington \(kancolle\):1.3), grey eyes, long hair, ahoge, grey hair
+(conte di cavour \(kancolle\):1.3), long hair, brown eyes, grey hair
+(nevada \(kancolle\):1.3), red hair, braid, single braid, red eyes, long hair
+(houshou \(kancolle\):1.3), long hair, black hair, ponytail
+(ryuujou \(kancolle\):1.3), long hair, twintails, brown hair, brown eyes
+(taigei \(kancolle\):1.3), twintails, red eyes, low twintails, hair flaps, ahoge, purple hair, long hair
+(ryuuhou \(kancolle\):1.3), twintails, hair ornament, hairband, red eyes, low twintails, hair flaps, ahoge, purple hair, long hair
+(hiyou \(kancolle\):1.3), long hair, black hair, hair ribbon
+(jun'you \(kancolle\):1.3), purple hair, long hair, spiked hair
+(shouhou \(kancolle\):1.3), long hair, black hair, brown eyes, ahoge
+(zuihou \(kancolle\):1.3), brown eyes, ponytail, long hair, high ponytail, brown hair
+(chitose \(carrier\) \(kancolle\):1.3)
+(chiyoda \(carrier\) \(kancolle\):1.3)
+(taihou \(kancolle\):1.3), short hair, brown eyes, brown hair, headgear
+(kasuga maru \(kancolle\):1.3), hair ribbon, black hair, brown eyes, folded ponytail, long hair, brown hair
+(taiyou \(kancolle\):1.3), hair ribbon, black hair, brown eyes, folded ponytail, long hair, brown hair
+(yamata maru \(kancolle\):1.3)
+(un'you \(kancolle\):1.3), blunt bangs, braid, black hair, long hair, hair bun, brown eyes, twin braids, brown hair
+(gambier bay \(kancolle\):1.3), twintails, hairband, hair between eyes, blue eyes, long hair, blonde hair
+(shinyou \(kancolle\):1.3)
+(yamashio maru \(kancolle\):1.3), gradient hair, braid, black hair, single braid, black eyes, multicolored hair, long hair, brown hair
+(kumano maru \(kancolle\):1.3), long hair, black hair, red eyes, hair over one eye
+(langley \(kancolle\):1.3), purple hair, blue eyes, hair ribbon, medium hair
+(akagi \(kancolle\):1.3), long hair, brown hair, side ponytail
+(kaga \(kancolle\):1.3), long hair, brown hair, side ponytail
+(souryuu \(kancolle\):1.3), short hair, hair ribbon, twintails, blue hair, blue eyes, long hair
+(hiryuu \(kancolle\):1.3), short hair, twintails, brown eyes, long hair, brown hair
+(shoukaku \(kancolle\):1.3), white hair, long hair, twintails, hairband
+(zuikaku \(kancolle\):1.3), long hair, hair ribbon, twintails
+(unryuu \(kancolle\):1.3), asymmetrical hair, braid, yellow eyes, single braid, very long hair, white hair, long hair
+(amagi \(kancolle\):1.3), hair ornament, hair flower, brown eyes, mole under eye, ponytail, long hair, brown hair
+(katsuragi \(kancolle\):1.3), hair ribbon, black hair, blue eyes, ponytail, long hair
+(graf zeppelin \(kancolle\):1.3), twintails, hair between eyes, blue eyes, long hair, blonde hair
+(aquila \(kancolle\):1.3), twintails, hair ornament, hairclip, ponytail, orange hair, long hair, high ponytail, blonde hair
+(lexington \(kancolle\):1.3), short hair, purple eyes, medium hair, purple hair, headgear
+(saratoga \(kancolle\):1.3), high side ponytail, hair between eyes, blue eyes, ponytail, long hair, brown hair, side ponytail
+(ark royal \(kancolle\):1.3), short hair, red hair, hairband, blue eyes, long hair, blonde hair
+(intrepid \(kancolle\):1.3), short hair, blue eyes, brown hair, ponytail
+(hornet \(kancolle\):1.3), long hair, blue eyes, blonde hair
+(victorious \(kancolle\):1.3), long hair, blue eyes, blonde hair
+(ranger \(kancolle\):1.3), braid, blonde hair, blue eyes, hair bun, long hair, brown hair
+(i-8 \(kancolle\):1.3), twintails, red-framed eyewear, ahoge, long hair, blonde hair
+(i-19 \(kancolle\):1.3), hair ribbon, twintails, red eyes, blue hair, long hair
+(i-26 \(kancolle\):1.3), hairband, brown eyes, two-tone hairband, long hair, brown hair
+(i-36 \(kancolle\):1.3), short hair, twintails, grey hair, blue eyes, headgear
+(i-58 \(kancolle\):1.3), short hair, pink hair, hair ornament, ahoge, long hair
+(i-168 \(kancolle\):1.3), red hair, hair ribbon, red eyes, ahoge, ponytail, long hair
+(i-400 \(kancolle\):1.3), long hair, black hair, headgear
+(i-401 \(kancolle\):1.3), short hair, brown eyes, brown hair, ponytail
+(maru-yu \(kancolle\):1.3), short hair, black hair
+(u-511 \(kancolle\):1.3), long hair, blue eyes, blonde hair
+(ro-500 \(kancolle\):1.3), hair ornament, hair flower, blue eyes, long hair, blonde hair
+(i-13 \(kancolle\):1.3), short hair, asymmetrical hair, black hair, hair between eyes, brown eyes
+(i-14 \(kancolle\):1.3), short hair, asymmetrical hair, black hair, hair between eyes, brown eyes
+(luigi torelli \(kancolle\):1.3), short hair, green eyes, hairband, white hairband, blonde hair
+(uit-25 \(kancolle\):1.3), short hair, green eyes, hairband, black hairband, medium hair, blonde hair
+(i-504 \(kancolle\):1.3), short hair, green eyes, hairband, white hairband, blonde hair
+(i-47 \(kancolle\):1.3), hair ribbon, green eyes, black hair, low-tied long hair, long hair, headgear
+(i-201 \(kancolle\):1.3), hair ornament, grey eyes, grey hair, x hair ornament, horned headwear, long hair
+(i-203 \(kancolle\):1.3), blue eyes, horned headwear, blue hair, long hair, headgear
+(drum \(kancolle\):1.3), hair ornament, grey eyes, star hair ornament, hair rings, long hair, very long hair, pink hair, headgear
+(scamp \(kancolle\):1.3), hair ribbon, hair ornament, grey hair, star hair ornament, long hair, side ponytail
+(salmon \(kancolle\):1.3), orange hair, long hair, blue eyes, headgear
+(comandante cappellini \(kancolle\):1.3), twintails, green eyes, streaked hair, dark-skinned female, long hair, dark skin, multicolored hair, pink hair
+(uit-24 \(kancolle\):1.3), hair ribbon, twintails, green eyes, streaked hair, dark-skinned female, long hair, dark skin, multicolored hair, ahoge, pink hair
+(i-503 \(kancolle\):1.3), twintails, green eyes, streaked hair, dark-skinned female, long hair, dark skin, multicolored hair, pink hair
+(i-41 \(kancolle\):1.3), short hair, black hair, black eyes, ponytail, headgear
+(chitose \(kancolle\):1.3), short hair, long hair, grey hair, ponytail
+(chiyoda \(kancolle\):1.3), short hair, brown eyes, brown hair, long hair
+(mizuho \(kancolle\):1.3), hair ribbon, hair ornament, hair tubes, black hair, very long hair, long hair
+(nisshin \(kancolle\):1.3), multi-tied hair, black hair, thick eyebrows, brown eyes, very long hair, ponytail, long hair, high ponytail, short eyebrows, headgear
+(akitsushima \(kancolle\):1.3), grey hair, purple eyes, ahoge, long hair, side ponytail
+(commandant teste \(kancolle\):1.3), red hair, streaked hair, blue hair, blue eyes, multicolored hair, white hair, long hair, blonde hair
+(kamoi \(kancolle\):1.3), thick eyebrows, hair between eyes, blue eyes, folded ponytail, white hair, long hair
+(jingei \(kancolle\):1.3), hair ornament, black hair, red eyes, hair flaps, ponytail, long hair
+(chougei \(kancolle\):1.3), hair ornament, grey eyes, braid, hair rings, ahoge, long hair, twin braids, brown hair, braided hair rings
+(heian maru \(kancolle\):1.3), long hair, black hair, round eyewear
+(akitsu maru \(kancolle\):1.3), short hair, black hair
+(shinshuu maru \(kancolle\):1.3), braid, brown eyes, long hair, twin braids, brown hair
+(akashi \(kancolle\):1.3), pink hair, long hair, hair ribbon, green eyes
+(asahi \(kancolle\):1.3), short hair, hair ribbon, grey eyes, braid, single braid, brown hair
+(hayasui \(kancolle\):1.3), short hair, black hair
+(irako \(kancolle\):1.3), hair ribbon, green eyes, green hair, ponytail, long hair
+(mamiya \(kancolle\):1.3), hair ribbon, hair ornament, hairclip, ahoge, long hair, brown hair
+(souya \(kancolle\):1.3), braid, orange eyes, single braid, long hair, brown hair
+(landing ship no. 101 \(kancolle\):1.3), twintails, braid, black hair, low twintails, long hair, twin braids
+(abyssal shipsdestroyer \(kancolle\):1.3)
+(i-class destroyer \(kancolle\):1.3)
+(ro-class destroyer \(kancolle\):1.3)
+(ha-class destroyer \(kancolle\):1.3)
+(ni-class destroyer \(kancolle\):1.3)
+(na-class destroyer \(kancolle\):1.3)
+(destroyer princess \(kancolle\):1.3)
+(air defense princess \(kancolle\):1.3)
+(destroyer water oni \(kancolle\):1.3)
+(ancient destroyer oni \(kancolle\):1.3)
+(ancient destroyer princess \(kancolle\):1.3)
+(abyssal nimbus princess \(kancolle\):1.3)
+(ho-class light cruiser \(kancolle\):1.3)
+(he-class light cruiser \(kancolle\):1.3)
+(to-class light cruiser \(kancolle\):1.3)
+(tsu-class light cruiser \(kancolle\):1.3)
+(light cruiser oni \(kancolle\):1.3)
+(light cruiser princess \(kancolle\):1.3)
+(chi-class torpedo cruiser \(kancolle\):1.3)
+(ri-class heavy cruiser \(kancolle\):1.3)
+(ne-class heavy cruiser \(kancolle\):1.3)
+(heavy cruiser princess \(kancolle\):1.3)
+(heavy cruiser summer princess \(kancolle\):1.3)
+(light aircraft carrier \(kancolle\):1.3)
+(nu-class light aircraft carrier \(kancolle\):1.3)
+(escort princess \(kancolle\):1.3)
+(seaplane tender princess \(kancolle\):1.3)
+(seaplane tender water princess \(kancolle\):1.3)
+(wo-class aircraft carrier \(kancolle\):1.3)
+(aircraft carrier oni \(kancolle\):1.3)
+(aircraft carrier princess \(kancolle\):1.3)
+(aircraft carrier water oni \(kancolle\):1.3)
+(abyssal jellyfish princess \(kancolle\):1.3)
+(wa-class transport ship \(kancolle\):1.3)
+(ka-class submarine \(kancolle\):1.3)
+(so-class submarine \(kancolle\):1.3)
+(yo-class submarine \(kancolle\):1.3)
+(submarine princess \(kancolle\):1.3)
+(ru-class battleship \(kancolle\):1.3)
+(ta-class battleship \(kancolle\):1.3)
+(battleship princess \(kancolle\):1.3)
+(battleship summer princess \(kancolle\):1.3)
+(battleship water oni \(kancolle\):1.3)
+(aviation battleship \(kancolle\):1.3)
+(re-class battleship \(kancolle\):1.3)
+(armored aircraft carrier oni \(kancolle\):1.3)
+(armored aircraft carrier princess \(kancolle\):1.3)
+(southern ocean oni \(kancolle\):1.3)
+(southern ocean war oni \(kancolle\):1.3)
+(southern ocean war princess \(kancolle\):1.3)
+(anchorage oni \(kancolle\):1.3)
+(anchorage princess \(kancolle\):1.3)
+(abyssal twin hime \(kancolle\):1.3)
+(northern water princess \(kancolle\):1.3)
+(european princess \(kancolle\):1.3)
+(abyssal sun princess \(kancolle\):1.3)
+(airfield princess \(kancolle\):1.3)
+(seaport princess \(kancolle\):1.3)
+(seaport summer princess \(kancolle\):1.3)
+(isolated island oni \(kancolle\):1.3)
+(northern ocean princess \(kancolle\):1.3)
+(midway princess \(kancolle\):1.3)
+(seaport water oni \(kancolle\):1.3)
+(anchorage water oni \(kancolle\):1.3)
+(supply depot princess \(kancolle\):1.3)
+(isolated island princess \(kancolle\):1.3)
+(artillery imp \(kancolle\):1.3)
+(central princess \(kancolle\):1.3)
+(lycoris princess \(kancolle\):1.3)
+(floating fortress \(kancolle\):1.3), white hair, long hair
+(escort fortress \(kancolle\):1.3), white hair, long hair, red eyes
+(fairy \(kancolle\):1.3), long hair
+(ryuusei \(kancolle\):1.3), long hair, brown hair
+(shinden kai \(kancolle\):1.3)
+(tenzan \(kancolle\):1.3), short hair, long hair, brown hair
+(rashinban musume \(compass girls\) \(kancolle\):1.3)

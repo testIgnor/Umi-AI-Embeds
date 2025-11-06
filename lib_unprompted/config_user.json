@@ -73,7 +73,7 @@
 		"batch_count_method":"standard",
 		"batch_size_method":"standard",
 		"show_extra_generation_params":true,
-		"template_editor":true,
+		"template_editor":false,
 		"cached_images_limit":4,
 		"resolutions":{"sd1":512,"sd2":768,"sdxl":1024,"none":1024},
 		"controlnet":

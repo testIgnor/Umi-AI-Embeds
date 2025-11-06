@@ -226,3 +226,231 @@
 (rumi \(small\) \(blue archive\):1.3), blue archive, orange hair, brown hair, hair between eyes, long hair, purple eyes, black hair
 (shiroko \(young\) \(blue archive\):1.3), blue archive, medium hair, short hair, grey hair, hair between eyes, long hair, blue eyes
 (hoshino \(second year\) \(blue archive\):1.3), blue archive, yellow eyes, pink hair, short hair, long hair, hair between eyes, blue eyes
+(airi \(blue archive\):1.3), ice cream hair ornament, animal ears, green eyes, black hair, long hair, multicolored hair, pink hair, cat ears, brown hair
+(akane \(blue archive\):1.3), animal ears, rabbit ears, hair between eyes, long hair, cleaning & clearing \(blue archive\), brown eyes, fake animal ears, brown hair
+(akari \(blue archive\):1.3), ahoge, long hair, blonde hair, gourmet research society \(blue archive\), blue eyes
+(aru \(blue archive\):1.3), pink hair, long hair
+(asuna \(blue archive\):1.3), very long hair, animal ears, long hair, blonde hair, cleaning & clearing \(blue archive\), blue eyes, hair over one eye
+(ayane \(blue archive\):1.3), red-framed eyewear, hair ornament, animal ears, wolf ears, black hair, long hair, pointy ears, short hair, cat ears
+(chinatsu \(blue archive\):1.3), brown hair, long hair, pointy ears
+(chise \(blue archive\):1.3), hair ornament, hair flower, long hair, blue hair, red eyes
+(eimi \(blue archive\):1.3), purple eyes, pink hair, pink eyes, long hair
+(fuuka \(blue archive\):1.3), twintails, black hair, long hair, hair on horn, gourmet research society \(blue archive\), red eyes
+(hanae \(blue archive\):1.3), hair ornament, twintails, purple hair, fang, long hair, blue eyes, heart
+(hare \(blue archive\):1.3), hair ornament, green eyes, ponytail, long hair, grey hair
+(haruka \(blue archive\):1.3), hair ornament, purple hair, hair between eyes, long hair, purple eyes
+(haruna \(blue archive\):1.3), braid, long hair, grey hair, gourmet research society \(blue archive\), red eyes, tail
+(hasumi \(blue archive\):1.3), very long hair, black hair, hair between eyes, long hair, mole under eye, red eyes
+(hibiki \(blue archive\):1.3), dog tail, animal ears, eyewear on head, black hair, long hair, blue eyes, dog ears, tail
+(hifumi \(blue archive\):1.3), twintails, yellow eyes, low twintails, long hair, brown hair
+(hina \(blue archive\):1.3), purple eyes, white hair, long hair, ahoge
+(hoshino \(blue archive\):1.3), yellow eyes, ahoge, hair between eyes, long hair, pink hair, blue eyes
+(iori \(blue archive\):1.3), very long hair, twintails, dark skin, long hair, pointy ears, grey hair, hair over one eye, dark-skinned female, demon tail, red eyes, tail
+(izumi \(blue archive\):1.3), hair ornament, twintails, ahoge, long hair, grey hair, gourmet research society \(blue archive\)
+(junko \(blue archive\):1.3), twintails, long hair, gourmet research society \(blue archive\), red hair, red eyes
+(juri \(blue archive\):1.3), pink hair, hair between eyes, long hair, pointy ears
+(karin \(blue archive\):1.3), very long hair, yellow eyes, dark skin, animal ears, black hair, rabbit ears, ponytail, long hair, cleaning & clearing \(blue archive\), dark-skinned female, fake animal ears
+(kayoko \(blue archive\):1.3), black hair, hair between eyes, two-tone hair, multicolored hair, long hair, white hair, red eyes
+(kotama \(blue archive\):1.3), hair ornament, ahoge, ponytail, long hair, black-framed eyewear, blonde hair, purple eyes
+(kotori \(blue archive\):1.3), twintails, ahoge, braid, blonde hair, red eyes
+(maki \(blue archive\):1.3), ahoge, blue eyes, long hair, red hair
+(mutsuki \(blue archive\):1.3), hair ornament, long hair, grey hair, white hair, purple eyes, side ponytail
+(neru \(blue archive\):1.3), animal ears, ahoge, single braid, braid, cleaning & clearing \(blue archive\), mole under eye, red eyes, orange hair
+(nonomi \(blue archive\):1.3), green eyes, long hair, brown hair
+(pina \(blue archive\):1.3), blonde hair, blue eyes, long hair
+(saya \(blue archive\):1.3), animal ears, long hair, grey hair, ear tag, mouse ears, red eyes
+(serika \(blue archive\):1.3), twintails, animal ears, black hair, long hair, animal ear fluff, cat ears, red eyes
+(serina \(blue archive\):1.3), pink hair, pink eyes
+(shimiko \(blue archive\):1.3), very long hair, ahoge, braid, long hair, blue eyes, orange hair
+(shiroko \(blue archive\):1.3), medium hair, hair ornament, extra ears, animal ears, wolf ears, animal ear fluff, grey hair, blue eyes, cross hair ornament
+(shun \(blue archive\):1.3), tiger ears, twintails, animal ears, green eyes, black hair, long hair, animal ear fluff
+(sumire \(blue archive\):1.3), very long hair, hair ornament, black hair, ponytail, long hair, purple eyes
+(suzumi \(blue archive\):1.3), very long hair, hair between eyes, long hair, white hair, red eyes
+(tsubaki \(blue archive\):1.3), raccoon ears, short hair, black hair, animal ears
+(tsurugi \(blue archive\):1.3), black hair, red eyes, long hair, antenna hair
+(utaha \(blue archive\):1.3), animal ears, purple hair, headgear, long hair, purple eyes
+(yoshimi \(blue archive\):1.3), blonde hair, twintails, long hair, ahoge
+(yuuka \(blue archive\):1.3), purple eyes, long hair, purple hair
+(mashiro \(blue archive\):1.3), purple eyes, black hair, short hair, long hair
+(izuna \(blue archive\):1.3), hair ornament, yellow eyes, animal ears, fang, ninjutsu research club \(blue archive\), animal ear fluff, fox hair ornament, fox tail, fox ears, short hair, tail, brown hair
+(shizuko \(blue archive\):1.3), hair ornament, twintails, animal ears, hair flower, long hair, purple eyes, brown hair
+(aris \(blue archive\):1.3), very long hair, black hair, hair between eyes, long hair, blue eyes
+(midori \(blue archive\):1.3), animal ear headphones, animal ears, green eyes, cat ear headphones, hair bow, blonde hair, short hair, cat ears, fake animal ears, tail
+(momoi \(blue archive\):1.3), animal ear headphones, animal ears, cat ear headphones, hair bow, blonde hair, short hair, cat ears, fake animal ears, tail
+(cherino \(blue archive\):1.3), white hair, blue eyes, long hair, fake facial hair
+(nodoka \(blue archive\):1.3), blonde hair, red eyes, long hair, animal ears
+(yuzu \(blue archive\):1.3), very long hair, blue eyes, long hair, red hair
+(azusa \(blue archive\):1.3), hair ornament, hair flower, hair between eyes, long hair, white hair, purple eyes
+(hanako \(blue archive\):1.3), ahoge, green eyes, braid, long hair, hair bow, pink hair
+(koharu \(blue archive\):1.3), long hair, pink hair, pink eyes, twintails
+(kirino \(blue archive\):1.3), ahoge, long hair, braid, white hair, blue eyes
+(mari \(blue archive\):1.3), hair ornament, animal ears, hair flower, long hair, animal ear fluff, blue eyes, orange hair
+(natsu \(blue archive\):1.3), ahoge, long hair, pink hair, red eyes, side ponytail
+(ako \(blue archive\):1.3), hair between eyes, long hair, hairband, blue eyes, blue hair
+(tomoe \(blue archive\):1.3), hair bun, pink hair, pink eyes, long hair
+(fubuki \(blue archive\):1.3), long hair, multicolored hair, hair bun, blue hair, red eyes, antenna hair
+(wakamo \(blue archive\):1.3), hair ornament, yellow eyes, animal ears, black hair, long hair, animal ear fluff, multicolored hair, tail flower, fox tail, fox ears, tail
+(chihiro \(blue archive\):1.3), hair ornament, green eyes, black hair, semi-rimless eyewear, short hair
+(sena \(blue archive\):1.3), yellow eyes, short hair, white hair
+(mimori \(blue archive\):1.3), hair bun, pink hair, blue eyes, long hair
+(hinata \(blue archive\):1.3), hair over one eye, black hair, red eyes, long hair
+(ui \(blue archive\):1.3), very long hair, black hair, hair between eyes, long hair, bags under eyes, hairband
+(marina \(blue archive\):1.3), blonde hair, yellow eyes, short hair
+(miyako \(blue archive\):1.3), animal ears, long hair, grey hair, white hair, purple eyes
+(saki \(blue archive\):1.3), short hair, purple hair
+(miyu \(blue archive\):1.3), animal ears, black hair, rabbit ears, long hair, red eyes, fake animal ears
+(iroha \(blue archive\):1.3), grey eyes, hair between eyes, long hair, red hair
+(kaede \(blue archive\):1.3), yellow eyes, animal ears, ahoge, fang, black hair, short hair, hair bun
+(michiru \(blue archive\):1.3), twintails, yellow eyes, raccoon hair ornament, animal ears, long hair, grey hair, raccoon ears, raccoon tail, tail, ninjutsu research club \(blue archive\)
+(tsukuyo \(blue archive\):1.3), animal ears, purple hair, rabbit ears, long hair, multicolored hair, hair over one eye, purple eyes, lop rabbit ears, ninjutsu research club \(blue archive\)
+(hiyori \(blue archive\):1.3), aqua hair, hair ornament, long hair, hair over one eye, side ponytail
+(misaki \(blue archive\):1.3), short hair, black hair
+(atsuko \(blue archive\):1.3), red eyes, long hair, purple hair
+(saori \(blue archive\):1.3), black hair, long hair, multicolored hair, blue eyes, blue hair
+(kazusa \(blue archive\):1.3), extra ears, colored inner animal ears, animal ears, black hair, multicolored hair, two-tone hair, pink hair, short hair, cat ears, colored inner hair, red eyes
+(moe \(blue archive\):1.3), twintails, animal ears, round eyewear, long hair, fake animal ears, brown hair
+(kokona \(blue archive\):1.3), tiger ears, very long hair, streaked hair, animal ears, black hair, long hair, multicolored hair, grey hair
+(noa \(blue archive\):1.3), very long hair, long hair, grey hair, white hair, purple eyes
+(himari \(blue archive\):1.3), hair ornament, hair flower, long hair, pointy ears, white hair, hairband, powered wheelchair, mole under eye, purple eyes
+(shigure \(blue archive\):1.3), animal ears, green hair, hair between eyes, weasel tail, weasel ears, short hair, purple eyes, tail
+(mine \(blue archive\):1.3), green eyes, blue hair, long hair, pointy ears
+(mika \(blue archive\):1.3), hair ornament, yellow eyes, hair flower, long hair, pink hair, wing ornament, hair bun
+(kanna \(blue archive\):1.3), animal ears, long hair, animal ear fluff, blonde hair, blue eyes, hair over one eye, dog ears
+(megu \(blue archive\):1.3), hair ornament, ponytail, long hair, pointy ears, blue eyes, red hair, demon tail, tail
+(sakurako \(blue archive\):1.3), grey hair, purple eyes, hair between eyes, long hair
+(nagisa \(blue archive\):1.3), hair ornament, yellow eyes, hair flower, long hair, brown hair
+(toki \(blue archive\):1.3), animal ears, rabbit ears, long hair, braid, blonde hair, cleaning & clearing \(blue archive\), blue eyes, fake animal ears
+(koyuki \(blue archive\):1.3), twintails, hair between eyes, long hair, pink hair, pink eyes
+(kaho \(blue archive\):1.3), extra ears, yellow eyes, animal ears, long hair, blonde hair, thick eyebrows, fox ears, hairband, hair over one eye
+(reisa \(blue archive\):1.3), hair ornament, twintails, ahoge, star hair ornament, long hair, multicolored hair, two-tone hair, pink hair, purple eyes, blue hair
+(mina \(blue archive\):1.3), hair ornament, green hair, eyewear on head, long hair, hair over one eye
+(rumi \(blue archive\):1.3), crossed bangs, animal ears, hair between eyes, long hair, fox ears, purple eyes, brown hair
+(minori \(blue archive\):1.3), black hair, long hair
+(meru \(blue archive\):1.3), hair ornament, green hair, ahoge, long hair, blue eyes, hairclip
+(momiji \(blue archive\):1.3), green eyes, long hair, green hair
+(ichika \(blue archive\):1.3), hair ornament, closed eyes, black hair, long hair, hairclip
+(kasumi \(blue archive\):1.3), yellow eyes, ahoge, black hair, long hair, hair intakes, tail
+(yukari \(blue archive\):1.3), hair ornament, purple hair, fang, hair flower, long hair, purple eyes
+(kikyou \(blue archive\):1.3), animal ears, black hair, multiple tails, two tails, short hair, cat ears, black eyes, cat tail, tail
+(renge \(blue archive\):1.3), dragon tail, ponytail, long hair, red hair, red eyes, tail
+(ibuki \(blue archive\):1.3), yellow eyes, long hair, pointy ears, blonde hair, demon tail, tail
+(makoto \(blue archive\):1.3), grey hair, hair over one eye, long hair, pointy ears
+(general student council president \(blue archive\):1.3), very long hair, multicolored hair, long hair, braid, two-tone hair, pink hair, single braid, blue eyes, hair over one eye, blue hair, colored inner hair
+(rin \(blue archive\):1.3), very long hair, black hair, multicolored hair, long hair, pointy ears, blue eyes, blue hair, colored inner hair
+(ayumu \(blue archive\):1.3), very long hair, green eyes, black hair, long hair, pointy ears, blonde hair, pink hair
+(momoka \(blue archive\):1.3), twintails, ahoge, green eyes, long hair, pointy ears, pink hair, tail
+(kaya \(blue archive\):1.3), green eyes, pink hair, long hair, ahoge
+(aoi \(blue archive\):1.3), pointy ears, short hair, blue eyes, mole under eye, blue hair
+(sora \(blue archive\):1.3), blonde hair, blue eyes, long hair
+(erika \(blue archive\):1.3), long hair, pink hair, white hair, short hair, blue eyes, hair bun, demon tail, tail
+(kirara \(blue archive\):1.3), fang, long hair, pink hair, hair bun, pink eyes
+(kisaki \(blue archive\):1.3), grey eyes, hair ornament, twintails, black hair, long hair, hair bun, butterfly hair ornament
+(yukino \(blue archive\):1.3), animal ears, black hair, hair between eyes, long hair, animal ear fluff, fox ears, red eyes
+(niko \(blue archive\):1.3), animal ears, animal ear fluff, pink hair, short hair, fox ears, blue eyes
+(otogi \(blue archive\):1.3), animal ears, ahoge, green eyes, long hair, braid, fox ears, brown hair
+(kurumi \(blue archive\):1.3), very long hair, animal ears, green eyes, hair between eyes, long hair, animal ear fluff, blonde hair, fox ears
+(rabu \(blue archive\):1.3), very long hair, hair between eyes, long hair, red hair, red eyes
+(sumomo \(blue archive\):1.3), dark skin, ahoge, long hair, pointy ears, multicolored hair, white hair, orange eyes, dark-skinned female, tail
+(rio \(blue archive\):1.3), very long hair, hair ornament, black hair, long hair, hairclip, red eyes
+(shiroko \(swimsuit\) \(blue archive\):1.3), medium hair, hair ornament, extra ears, animal ears, wolf ears, ponytail, animal ear fluff, grey hair, blue eyes, cross hair ornament
+(shiroko terror \(blue archive\):1.3), hair ornament, extra ears, animal ears, wolf ears, hair between eyes, long hair, animal ear fluff, grey hair, blue eyes, cross hair ornament
+(shiroko \(cycling\) \(blue archive\):1.3), medium hair, hair ornament, extra ears, animal ears, wolf ears, animal ear fluff, grey hair, blue eyes, cross hair ornament
+(hoshino \(swimsuit\) \(blue archive\):1.3), hair bobbles, hair ornament, twintails, yellow eyes, low twintails, ahoge, eyewear on head, long hair, pink hair, blue eyes
+(nonomi \(swimsuit\) \(blue archive\):1.3), green eyes, long hair, brown hair
+(serika \(new year\) \(blue archive\):1.3), animal ears, black hair, ponytail, long hair, animal ear fluff, cat ears, red eyes
+(serika \(swimsuit\) \(blue archive\):1.3), twintails, extra ears, animal ears, black hair, long hair, animal ear fluff, cat ears, red eyes
+(ayane \(swimsuit\) \(blue archive\):1.3), red-framed eyewear, hair ornament, yellow eyes, animal ears, black hair, long hair, pointy ears, short hair
+(makoto \(dress\) \(blue archive\):1.3), earrings, long hair, pointy ears, grey hair, hair over one eye
+(satsuki \(blue archive\):1.3), pink hair, underwear, long hair
+(hina \(swimsuit\) \(blue archive\):1.3), very long hair, hair ornament, ahoge, long hair, white hair, hairclip, purple eyes, parted bangs
+(hina \(dress\) \(blue archive\):1.3), official alternate hairstyle, earrings, long hair, white hair, purple eyes
+(hina \(pajamas\) \(blue archive\):1.3), ahoge, hair between eyes, long hair, white hair, purple eyes
+(ako \(track\) \(blue archive\):1.3), hair between eyes, long hair, hairband, blue eyes, blue hair
+(ako \(dress\) \(blue archive\):1.3), blue hair, hair between eyes, blue eyes, long hair
+(iori \(swimsuit\) \(blue archive\):1.3), very long hair, twintails, dark skin, eyewear on head, long hair, pointy ears, grey hair, hair over one eye, dark-skinned female, demon tail, red eyes, tail
+(chinatsu \(hot spring\) \(blue archive\):1.3), brown hair, hairband, long hair, pointy ears
+(aru \(new year\) \(blue archive\):1.3), hair ornament, yellow eyes, hair flower, long hair, pink hair
+(aru \(dress\) \(blue archive\):1.3), earrings, pink hair, long hair
+(kayoko \(new year\) \(blue archive\):1.3), hair ornament, black hair, hair flower, long hair, multicolored hair, two-tone hair, white hair, hairclip, red eyes
+(kayoko \(dress\) \(blue archive\):1.3), black hair, hair between eyes, long hair, multicolored hair, two-tone hair, ear piercing, white hair, red eyes
+(mutsuki \(new year\) \(blue archive\):1.3), hair ornament, hair flower, long hair, white hair, hair bun, purple eyes
+(mutsuki \(dress\) \(blue archive\):1.3), earrings, black hairband, long hair, pointy ears, grey hair, white hair, hairband
+(mutsuki \(suit\) \(blue archive\):1.3), grey hair, ponytail, long hair, pointy ears
+(haruka \(new year\) \(blue archive\):1.3), hair ornament, purple hair, hair flower, hair between eyes, long hair, hairband, purple eyes
+(haruka \(dress\) \(blue archive\):1.3), earrings, purple hair, hair between eyes, long hair, purple eyes
+(haruka \(suit\) \(blue archive\):1.3), purple eyes, hair between eyes, long hair, purple hair
+(haruna \(new year\) \(blue archive\):1.3), hair ornament, hair flower, braid, long hair, grey hair, hair bun, red eyes
+(haruna \(swimsuit\) \(blue archive\):1.3), long hair, braid, grey hair, hair bun, red eyes, tail
+(haruna \(track\) \(blue archive\):1.3), eyewear on head, braid, long hair, grey hair, red eyes, tail
+(izumi \(swimsuit\) \(blue archive\):1.3), hair ornament, yellow eyes, ahoge, long hair, grey hair, hairclip
+(junko \(new year\) \(blue archive\):1.3), twintails, long hair, pointy ears, red hair, red eyes
+(fuuka \(new year\) \(blue archive\):1.3), hair ornament, hair flower, black hair, long hair, hair on horn, hair bun, red eyes
+(hasumi \(track\) \(blue archive\):1.3), very long hair, black hair, hair between eyes, ponytail, long hair, mole under eye, red eyes
+(mashiro \(swimsuit\) \(blue archive\):1.3), black hair, short hair, hairband, white hairband, purple eyes
+(hinata \(swimsuit\) \(blue archive\):1.3), black hair, braid, long hair, hair over one eye, red eyes
+(mari \(swimsuit\) \(blue archive\):1.3), hair ornament, animal ears, twin braids, hair flower, long hair, animal ear fluff, braid, blue eyes, cat ears, orange hair
+(mari \(track\) \(blue archive\):1.3), hair ornament, animal ears, hair flower, long hair, animal ear fluff, hairband, blue eyes, white hairband, orange hair
+(hifumi \(swimsuit\) \(blue archive\):1.3), twintails, yellow eyes, low twintails, eyewear on head, long hair, brown hair
+(hanako \(swimsuit\) \(blue archive\):1.3), ahoge, green eyes, braid, long hair, hair bow, pink hair
+(azusa \(swimsuit\) \(blue archive\):1.3), hair ornament, hair flower, hair between eyes, long hair, white hair, purple eyes
+(koharu \(swimsuit\) \(blue archive\):1.3), twintails, low twintails, hair bow, long hair, pink hair, pink eyes
+(serina \(christmas\) \(blue archive\):1.3), hair bun, pink hair, pink eyes
+(serina \(nurse\) \(blue archive\):1.3), pink hair, pink eyes
+(hanae \(christmas\) \(blue archive\):1.3), hair ornament, twintails, purple hair, heart hair ornament, long hair, blue eyes, heart, hairclip
+(hanae \(cheer squad\) \(blue archive\):1.3), hair ornament, purple hair, fang, long hair, blue eyes, heart, skin fang
+(ui \(swimsuit\) \(blue archive\):1.3), very long hair, black hair, ponytail, hair between eyes, long hair, bags under eyes, hairband
+(saori \(dress\) \(blue archive\):1.3), black hair, multicolored hair, long hair, blue eyes, blue hair, colored inner hair
+(yuuka \(track\) \(blue archive\):1.3), purple eyes, ponytail, long hair, purple hair
+(neru \(bunny\) \(blue archive\):1.3), animal ears, ahoge, rabbit ears, braid, single braid, short hair, mole under eye, red eyes, fake animal ears
+(neru \(swimsuit\) \(blue archive\):1.3), ahoge, eyewear on head, braid, single braid, short hair, mole under eye, red eyes, orange hair
+(asuna \(bunny\) \(blue archive\):1.3), very long hair, animal ears, rabbit ears, long hair, blonde hair, blue eyes, hair over one eye, fake animal ears
+(karin \(bunny\) \(blue archive\):1.3), very long hair, yellow eyes, dark skin, animal ears, black hair, rabbit ears, ponytail, long hair, rabbit tail, dark-skinned female, fake animal ears, tail
+(akane \(bunny\) \(blue archive\):1.3), animal ears, rabbit ears, hair between eyes, long hair, brown eyes, fake animal ears, brown hair
+(toki \(bunny\) \(blue archive\):1.3), very long hair, animal ears, rabbit ears, long hair, braid, blonde hair, rabbit tail, blue eyes, fake animal ears, tail
+(yuzu \(maid\) \(blue archive\):1.3), very long hair, ponytail, long hair, red hair, purple eyes
+(momoi \(maid\) \(blue archive\):1.3), animal ear headphones, animal ears, green eyes, cat ear headphones, blonde hair, short hair, cat ears, cat tail, fake animal ears, tail
+(aris \(maid\) \(blue archive\):1.3), very long hair, black hair, ponytail, long hair, blue eyes
+(utaha \(cheer squad\) \(blue archive\):1.3), animal ears, purple hair, black hair, ponytail, long hair, purple eyes, dog ears
+(hibiki \(cheer squad\) \(blue archive\):1.3), dog tail, animal ears, eyewear on head, black hair, long hair, blue eyes, dog ears, tail
+(chihiro \(camp\) \(blue archive\):1.3), official alternate hairstyle, twin braids, green eyes, black hair, hair between eyes, ponytail, long hair, braid, short hair, blue eyes, red hair
+(kotama \(camp\) \(blue archive\):1.3), ahoge, ponytail, black-framed eyewear, long hair, blonde hair, red hair, purple eyes
+(hare \(camp\) \(blue archive\):1.3), grey hair, green eyes, ponytail, long hair
+(maki \(camp\) \(blue archive\):1.3), official alternate hairstyle, twin braids, hair between eyes, braid, long hair, blue eyes, red hair
+(eimi \(swimsuit\) \(blue archive\):1.3), pink hair, ponytail, pink eyes, long hair
+(cherino \(hot spring\) \(blue archive\):1.3), white hair, blue eyes, long hair, fake facial hair
+(shigure \(hot spring\) \(blue archive\):1.3), tail, weasel ears, animal ears, weasel tail, short hair, hair between eyes, purple eyes, green hair
+(nodoka \(hot spring\) \(blue archive\):1.3), blonde hair, hair bun, short hair, red eyes
+(chise \(swimsuit\) \(blue archive\):1.3), very long hair, hair ornament, hair flower, long hair, blue hair, red eyes, side ponytail
+(mimori \(swimsuit\) \(blue archive\):1.3), hair ornament, long hair, pink hair, blue eyes, hair bun
+(shizuko \(swimsuit\) \(blue archive\):1.3), very long hair, hair ornament, twintails, animal ears, hair flower, long hair, purple eyes, brown hair
+(izuna \(swimsuit\) \(blue archive\):1.3), hair ornament, yellow eyes, animal ears, fang, animal ear fluff, fox tail, fox ears, short hair, tail, brown hair
+(wakamo \(swimsuit\) \(blue archive\):1.3), hair ornament, yellow eyes, animal ears, hair flower, black hair, long hair, animal ear fluff, fox tail, fox ears, tail
+(shun \(small\) \(blue archive\):1.3), tiger ears, twintails, animal ears, green eyes, black hair, long hair, animal ear fluff
+(miyako \(swimsuit\) \(blue archive\):1.3), purple eyes, white hair, ponytail, long hair
+(saki \(swimsuit\) \(blue archive\):1.3), short hair, purple hair
+(akane \(blue archive\):1.3), animal ears, rabbit ears, hair between eyes, long hair, cleaning & clearing \(blue archive\), brown eyes, fake animal ears, brown hair
+(aoi \(blue archive\):1.3), pointy ears, short hair, blue eyes, mole under eye, blue hair
+(arona \(blue archive\):1.3), multicolored hair, braid, single braid, pink hair, short hair, hairband, blue eyes, hair over one eye, white hairband, heart halo, blue hair, colored inner hair
+(miyu \(swimsuit\) \(blue archive\):1.3), ahoge, twin braids, black hair, long hair, braid, red eyes
+(niko \(blue archive\):1.3), animal ears, animal ear fluff, pink hair, short hair, fox ears, blue eyes
+(plana \(blue archive\):1.3), black hairband, black eyes, multicolored hair, long hair, braid, single braid, pink hair, white hair, hairband, heart halo, hair over one eye, colored inner hair
+(reijo \(blue archive\):1.3), hair between eyes, long hair, red hair, mole under eye, hair bun, red eyes
+(seia \(blue archive\):1.3), ear wreath, animal ears, long hair, animal ear fluff, blonde hair, fox ears, long-tailed tit
+(yume \(blue archive\):1.3), aqua hair, yellow eyes, ahoge, closed eyes, hair between eyes, long hair, pink hair
+(kurumi \(blue archive\):1.3), very long hair, animal ears, green eyes, hair between eyes, long hair, animal ear fluff, blonde hair, fox ears
+(midori \(maid\) \(blue archive\):1.3), animal ear headphones, animal ears, green eyes, cat ear headphones, blonde hair, short hair, cat ears, cat tail, fake animal ears, tail
+(miyu \(swimsuit\) \(blue archive\):1.3), ahoge, twin braids, black hair, long hair, braid, red eyes
+(otogi \(blue archive\):1.3), animal ears, ahoge, green eyes, long hair, braid, fox ears, brown hair
+(sumomo \(blue archive\):1.3), dark skin, ahoge, long hair, pointy ears, multicolored hair, white hair, orange eyes, dark-skinned female, tail
+(tsurugi \(swimsuit\) \(blue archive\):1.3), very long hair, hair ornament, black hair, ponytail, long hair, red eyes
+(nagusa \(blue archive\):1.3), grey eyes, hair ornament, white hair, long hair
+(yukino \(blue archive\):1.3), animal ears, black hair, hair between eyes, long hair, animal ear fluff, fox ears, red eyes
+(akari \(new year\) \(blue archive\):1.3), hair ornament, ahoge, long hair, blonde hair, blue eyes
+(airi \(band\) \(blue archive\):1.3), animal ears, green eyes, black hair, long hair, brown hair
+(kazusa \(band\) \(blue archive\):1.3), extra ears, colored inner animal ears, animal ears, black hair, multicolored hair, two-tone hair, pink hair, short hair, cat ears, colored inner hair, red eyes
+(natsu \(band\) \(blue archive\):1.3), pink hair, red eyes, long hair, ahoge
+(yoshimi \(band\) \(blue archive\):1.3), twintails, low twintails, ahoge, long hair, hair ribbon, blonde hair, pink hair
+(erika \(blue archive\):1.3), long hair, pink hair, white hair, short hair, blue eyes, hair bun, demon tail, tail
+(kirara \(blue archive\):1.3), fang, long hair, pink hair, hair bun, pink eyes
+(hikari \(blue archive\):1.3), twintails, yellow eyes, green hair, long hair, pointy ears, demon tail, tail
+(nozomi \(blue archive\):1.3), twintails, yellow eyes, green hair, fang, long hair, pointy ears, demon tail, tail

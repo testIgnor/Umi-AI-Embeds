@@ -1,66 +1,123 @@
-(anis \(nikke\):1.3), goddess of victory: nikke, brown eyes, short hair, brown hair, yellow eyes
-(elegg \(nikke\):1.3), goddess of victory: nikke, short hair, multicolored hair, purple eyes, two-tone hair, blonde hair, hair over eyes, blunt bangs, ahoge, hair intakes
-(elegg \(nikke\):1.3), goddess of victory: nikke, short hair, multicolored hair, purple eyes, two-tone hair, blonde hair, hair over eyes, blunt bangs, ahoge, hair intakes, <lora:EleggV2:1> eleggboom
-(rapi \(nikke\):1.3), goddess of victory: nikke, short hair, brown hair, red eyes, long hair
-(viper \(nikke\):1.3), goddess of victory: nikke, rabbit ears, pink eyes, red eyes, long hair, light brown hair, fake animal ears, animal ears
-(alice \(nikke\):1.3), goddess of victory: nikke, pink eyes, grey hair, long hair, skin tight, fake animal ears, animal ears, pink hair
-(anis \(sparkling summer\) \(nikke\):1.3), goddess of victory: nikke, brown eyes, brown hair, yellow eyes, short hair
-(red hood \(nikke\):1.3), goddess of victory: nikke, yellow eyes, hair between eyes, red hair, long hair, very long hair
-(helm \(nikke\):1.3), goddess of victory: nikke, blue hair, blue eyes, long hair
-(noir \(nikke\):1.3), goddess of victory: nikke, brown eyes, rabbit ears, yellow eyes, white hair, long hair, brown hair, fake animal ears, dark skin, animal ears, very long hair, dark-skinned female
-(rupee \(nikke\):1.3), goddess of victory: nikke, rabbit ears, hair between eyes, long hair, green eyes, fake animal ears, animal ears, blonde hair
-(soda \(nikke\):1.3), goddess of victory: nikke, rabbit ears, antenna hair, pink eyes, long hair, purple eyes, fake animal ears, very long hair, animal ears, green hair
-(dorothy \(nikke\):1.3), goddess of victory: nikke, long hair, purple eyes, very long hair, pink hair, flower-shaped hair
-(scarlet \(nikke\):1.3), goddess of victory: nikke, hair between eyes, grey hair, yellow eyes, long hair
-(modernia \(nikke\):1.3), goddess of victory: nikke, grey hair, red eyes, white hair, long hair
-(bay \(nikke\):1.3), goddess of victory: nikke, brown eyes, multicolored hair, streaked hair, red hair, hair between eyes, black hair, long hair, dark skin, very long hair, dark-skinned female
-(mary \(nikke\):1.3), goddess of victory: nikke, rabbit ears, long hair, black hair, fake animal ears, animal ears, closed eyes
-(brid \(nikke\):1.3), goddess of victory: nikke, hair between eyes, grey hair, multicolored hair, blue eyes, long hair, green hair, two-tone hair
-(helm \(aqua marine\) \(nikke\):1.3), goddess of victory: nikke, blue hair, blue eyes, long hair
-(rosanna \(nikke\):1.3), goddess of victory: nikke, white hair, multicolored hair, red eyes, two-tone hair, long hair, black hair, split-color hair
-(marciana \(nikke\):1.3), goddess of victory: nikke, brown eyes, black hair, brown hair, long hair, very long hair
-(privaty \(nikke\):1.3), goddess of victory: nikke, yellow eyes, blue hair, long hair, very long hair, animal ears, aqua hair, cat ears
-(syuen \(nikke\):1.3), goddess of victory: nikke, short hair, multicolored hair, streaked hair, black hair, purple eyes, purple hair
-(naga \(nikke\):1.3), goddess of victory: nikke, brown eyes, yellow eyes, brown hair, long hair, black hair, dark skin, dark-skinned female, blonde hair
-(rapunzel \(nikke\):1.3), goddess of victory: nikke, white hair, yellow eyes, hair between eyes, grey hair, red hair, blue eyes, long hair, very long hair, pink hair, blonde hair
-(crown \(nikke\):1.3), goddess of victory: nikke, drill hair, blue eyes, long hair, very long hair, blonde hair
-(rosanna \(chic ocean\) \(nikke\):1.3), goddess of victory: nikke, white hair, multicolored hair, red eyes, split-color hair, long hair, black hair, two-tone hair
-(d \(nikke\):1.3), goddess of victory: nikke, long hair, red eyes, black hair
-(tia \(nikke\):1.3), goddess of victory: nikke, brown eyes, long hair, brown hair, dark skin, dark-skinned female, blonde hair
-(viper \(toxic rabbit\) \(nikke\):1.3), goddess of victory: nikke, rabbit ears, pink eyes, red eyes, long hair, light brown hair, fake animal ears, very long hair, animal ears, blonde hair
-(drake \(nikke\):1.3), goddess of victory: nikke, white hair, short hair, red eyes, blue eyes, long hair, blonde hair
-(scarlet \(black shadow\) \(nikke\):1.3), goddess of victory: nikke, hair between eyes, grey hair, red eyes, long hair, very long hair, pink hair
-(ludmilla \(nikke\):1.3), goddess of victory: nikke, blonde hair, red eyes, long hair
-(mast \(nikke\):1.3), goddess of victory: nikke, multicolored hair, streaked hair, red hair, pink eyes, long hair, black hair, purple eyes, pink hair, skin fang
-(viper \(shine of love\) \(nikke\):1.3), goddess of victory: nikke, pink eyes, red eyes, long hair, brown hair, light brown hair
-(mary \(medical rabbit\) \(nikke\):1.3), goddess of victory: nikke, rabbit ears, black hair, long hair, fake animal ears, animal ears, closed eyes
-(volume \(nikke\):1.3), goddess of victory: nikke, yellow eyes, orange eyes, red hair, long hair, dark skin, dark-skinned female
-(soda \(twinkling bunny\) \(nikke\):1.3), goddess of victory: nikke, rabbit ears, antenna hair, pink eyes, long hair, purple eyes, fake animal ears, very long hair, animal ears, green hair
-(laplace \(nikke\):1.3), goddess of victory: nikke, white hair, short hair, hair between eyes, blue eyes, long hair, blonde hair
-(quency \(nikke\):1.3), goddess of victory: nikke, multicolored hair, streaked hair, red eyes, black hair, long hair, two-tone hair, pink hair
-(d \(killer wife\) \(nikke\):1.3), goddess of victory: nikke, long hair, red eyes, black hair
-(privaty \(unkind maid\) \(nikke\):1.3), goddess of victory: nikke, yellow eyes, blue hair, long hair, very long hair, animal ears, aqua hair, cat ears
-(maiden \(nikke\):1.3), goddess of victory: nikke, black hair, red eyes, very long hair, long hair
-(alice \(wonderland bunny\) \(nikke\):1.3), goddess of victory: nikke, rabbit ears, pink eyes, long hair, fake animal ears, very long hair, animal ears, pink hair
-(sakura \(nikke\):1.3), goddess of victory: nikke, long hair, red eyes, black hair, brown hair
-(maxwell \(nikke\):1.3), goddess of victory: nikke, white hair, short hair, hair between eyes, red eyes, blue eyes, long hair, blonde hair
-(rapi \(classic vacation\) \(nikke\):1.3), goddess of victory: nikke, light brown hair, brown hair, red eyes, long hair
-(poli \(nikke\):1.3), goddess of victory: nikke, very long hair, blue eyes, long hair, white hair
-(guilty \(nikke\):1.3), goddess of victory: nikke, multicolored hair, green hair, hair between eyes, black hair, long hair, purple eyes, brown hair, very long hair, two-tone hair
-(clay \(nikke\):1.3), goddess of victory: nikke, hair between eyes, red eyes, black hair, long hair, dark skin, dark-skinned female, blonde hair
-(cinderella \(nikke\):1.3), goddess of victory: nikke, very long hair, red eyes, white hair, long hair
-(exia \(nikke\):1.3), goddess of victory: nikke, hair between eyes, black hair, long hair, purple eyes, long hair between eyes, bags under eyes
-(quency \(escape queen\) \(nikke\):1.3), goddess of victory: nikke, multicolored hair, streaked hair, red eyes, black hair, two-tone hair
-(diesel \(nikke\):1.3), goddess of victory: nikke, black hair, brown eyes, brown hair, long hair
-(emma \(nikke\):1.3), goddess of victory: nikke, brown hair, yellow eyes, long hair, blonde hair
-(red hood \(nonsense red\) \(nikke\):1.3), goddess of victory: nikke, yellow eyes, antenna hair, hair between eyes, red hair, long hair, very long hair
-(jackal \(nikke\):1.3), goddess of victory: nikke, white hair, multicolored hair, pink eyes, red eyes, streaked hair, long hair, black hair, gradient hair, pink hair, blonde hair
-(noise \(nikke\):1.3), goddess of victory: nikke, multicolored hair, hair between eyes, blue eyes, black hair, long hair, dark skin, two-tone hair, dark-skinned female, blonde hair, colored inner hair
-(doro \(nikke\):1.3), goddess of victory: nikke, purple eyes, pink hair, long hair
-(ludmilla \(winter owner\) \(nikke\):1.3), goddess of victory: nikke, blonde hair, red eyes, long hair
-(liter \(nikke\):1.3), goddess of victory: nikke, long hair, blonde hair, yellow eyes, short hair
-(yuni \(nikke\):1.3), goddess of victory: nikke, purple eyes, pink hair, long hair
-(nihilister \(nikke\):1.3), goddess of victory: nikke, hair between eyes, red hair, red eyes, long hair
-(mass-produced nikke:1.3), goddess of victory: nikke, long hair, brown hair, red eyes, <lora:massproduced-nikke-richy-v1_pdxl:1> mssprd, head-mounted display, covered eyes
-(mass-produced nikke:1.3), goddess of victory: nikke, long hair, pink hair, red eyes, <lora:massproduced-nikke-richy-v1_pdxl:1> mssprd, head-mounted display, covered eyes
-(sora \(nikke\):1.3), goddess of victory: nikke, <lora:sora_nikke_ilxl_goofy:1> black hair, red eyes, twintails, two side up, choker
+(anis \(nikke\):1.3), brown eyes, short hair, brown hair, yellow eyes
+(elegg \(nikke\):1.3), short hair, multicolored hair, purple eyes, two-tone hair, blonde hair, hair over eyes, blunt bangs, ahoge, hair intakes
+(elegg \(nikke\):1.3), short hair, multicolored hair, purple eyes, two-tone hair, blonde hair, hair over eyes, blunt bangs, ahoge, hair intakes, <lora:EleggV2:1> eleggboom
+(rapi \(nikke\):1.3), short hair, brown hair, red eyes, long hair
+(viper \(nikke\):1.3), rabbit ears, pink eyes, red eyes, long hair, light brown hair, fake animal ears, animal ears
+(alice \(nikke\):1.3), pink eyes, grey hair, long hair, skin tight, fake animal ears, animal ears, pink hair
+(anis \(sparkling summer\) \(nikke\):1.3), brown eyes, brown hair, yellow eyes, short hair
+(red hood \(nikke\):1.3), yellow eyes, hair between eyes, red hair, long hair, very long hair
+(helm \(nikke\):1.3), blue hair, blue eyes, long hair
+(noir \(nikke\):1.3), brown eyes, rabbit ears, yellow eyes, white hair, long hair, brown hair, fake animal ears, dark skin, animal ears, very long hair, dark-skinned female
+(rupee \(nikke\):1.3), rabbit ears, hair between eyes, long hair, green eyes, fake animal ears, animal ears, blonde hair
+(soda \(nikke\):1.3), rabbit ears, antenna hair, pink eyes, long hair, purple eyes, fake animal ears, very long hair, animal ears, green hair
+(dorothy \(nikke\):1.3), long hair, purple eyes, very long hair, pink hair, flower-shaped hair
+(scarlet \(nikke\):1.3), hair between eyes, grey hair, yellow eyes, long hair
+(modernia \(nikke\):1.3), grey hair, red eyes, white hair, long hair
+(bay \(nikke\):1.3), brown eyes, multicolored hair, streaked hair, red hair, hair between eyes, black hair, long hair, dark skin, very long hair, dark-skinned female
+(mary \(nikke\):1.3), rabbit ears, long hair, black hair, fake animal ears, animal ears, closed eyes
+(brid \(nikke\):1.3), hair between eyes, grey hair, multicolored hair, blue eyes, long hair, green hair, two-tone hair
+(helm \(aqua marine\) \(nikke\):1.3), blue hair, blue eyes, long hair
+(rosanna \(nikke\):1.3), white hair, multicolored hair, red eyes, two-tone hair, long hair, black hair, split-color hair
+(marciana \(nikke\):1.3), brown eyes, black hair, brown hair, long hair, very long hair
+(privaty \(nikke\):1.3), yellow eyes, blue hair, long hair, very long hair, animal ears, aqua hair, cat ears
+(syuen \(nikke\):1.3), short hair, multicolored hair, streaked hair, black hair, purple eyes, purple hair
+(naga \(nikke\):1.3), brown eyes, yellow eyes, brown hair, long hair, black hair, dark skin, dark-skinned female, blonde hair
+(rapunzel \(nikke\):1.3), white hair, yellow eyes, hair between eyes, grey hair, red hair, blue eyes, long hair, very long hair, pink hair, blonde hair
+(crown \(nikke\):1.3), drill hair, blue eyes, long hair, very long hair, blonde hair
+(rosanna \(chic ocean\) \(nikke\):1.3), white hair, multicolored hair, red eyes, split-color hair, long hair, black hair, two-tone hair
+(d \(nikke\):1.3), long hair, red eyes, black hair
+(tia \(nikke\):1.3), brown eyes, long hair, brown hair, dark skin, dark-skinned female, blonde hair
+(viper \(toxic rabbit\) \(nikke\):1.3), rabbit ears, pink eyes, red eyes, long hair, light brown hair, fake animal ears, very long hair, animal ears, blonde hair
+(drake \(nikke\):1.3), white hair, short hair, red eyes, blue eyes, long hair, blonde hair
+(scarlet \(black shadow\) \(nikke\):1.3), hair between eyes, grey hair, red eyes, long hair, very long hair, pink hair
+(ludmilla \(nikke\):1.3), blonde hair, red eyes, long hair
+(mast \(nikke\):1.3), multicolored hair, streaked hair, red hair, pink eyes, long hair, black hair, purple eyes, pink hair, skin fang
+(viper \(shine of love\) \(nikke\):1.3), pink eyes, red eyes, long hair, brown hair, light brown hair
+(mary \(medical rabbit\) \(nikke\):1.3), rabbit ears, black hair, long hair, fake animal ears, animal ears, closed eyes
+(volume \(nikke\):1.3), yellow eyes, orange eyes, red hair, long hair, dark skin, dark-skinned female
+(soda \(twinkling bunny\) \(nikke\):1.3), rabbit ears, antenna hair, pink eyes, long hair, purple eyes, fake animal ears, very long hair, animal ears, green hair
+(laplace \(nikke\):1.3), white hair, short hair, hair between eyes, blue eyes, long hair, blonde hair
+(quency \(nikke\):1.3), multicolored hair, streaked hair, red eyes, black hair, long hair, two-tone hair, pink hair
+(d \(killer wife\) \(nikke\):1.3), long hair, red eyes, black hair
+(privaty \(unkind maid\) \(nikke\):1.3), yellow eyes, blue hair, long hair, very long hair, animal ears, aqua hair, cat ears
+(maiden \(nikke\):1.3), black hair, red eyes, very long hair, long hair
+(alice \(wonderland bunny\) \(nikke\):1.3), rabbit ears, pink eyes, long hair, fake animal ears, very long hair, animal ears, pink hair
+(sakura \(nikke\):1.3), long hair, red eyes, black hair, brown hair
+(maxwell \(nikke\):1.3), white hair, short hair, hair between eyes, red eyes, blue eyes, long hair, blonde hair
+(rapi \(classic vacation\) \(nikke\):1.3), light brown hair, brown hair, red eyes, long hair
+(poli \(nikke\):1.3), very long hair, blue eyes, long hair, white hair
+(guilty \(nikke\):1.3), multicolored hair, green hair, hair between eyes, black hair, long hair, purple eyes, brown hair, very long hair, two-tone hair
+(clay \(nikke\):1.3), hair between eyes, red eyes, black hair, long hair, dark skin, dark-skinned female, blonde hair
+(cinderella \(nikke\):1.3), very long hair, red eyes, white hair, long hair
+(exia \(nikke\):1.3), hair between eyes, black hair, long hair, purple eyes, long hair between eyes, bags under eyes
+(quency \(escape queen\) \(nikke\):1.3), multicolored hair, streaked hair, red eyes, black hair, two-tone hair
+(diesel \(nikke\):1.3), black hair, brown eyes, brown hair, long hair
+(emma \(nikke\):1.3), brown hair, yellow eyes, long hair, blonde hair
+(red hood \(nonsense red\) \(nikke\):1.3), yellow eyes, antenna hair, hair between eyes, red hair, long hair, very long hair
+(jackal \(nikke\):1.3), white hair, multicolored hair, pink eyes, red eyes, streaked hair, long hair, black hair, gradient hair, pink hair, blonde hair
+(noise \(nikke\):1.3), multicolored hair, hair between eyes, blue eyes, black hair, long hair, dark skin, two-tone hair, dark-skinned female, blonde hair, colored inner hair
+(doro \(nikke\):1.3), purple eyes, pink hair, long hair
+(ludmilla \(winter owner\) \(nikke\):1.3), blonde hair, red eyes, long hair
+(liter \(nikke\):1.3), long hair, blonde hair, yellow eyes, short hair
+(yuni \(nikke\):1.3), purple eyes, pink hair, long hair
+(nihilister \(nikke\):1.3), hair between eyes, red hair, red eyes, long hair
+(mass-produced nikke:1.3), long hair, brown hair, red eyes, <lora:massproduced-nikke-richy-v1_pdxl:1> mssprd, head-mounted display, covered eyes
+(mass-produced nikke:1.3), long hair, pink hair, red eyes, <lora:massproduced-nikke-richy-v1_pdxl:1> mssprd, head-mounted display, covered eyes
+(sora \(nikke\):1.3), <lora:sora_nikke_ilxl_goofy:1> black hair, red eyes, twintails, two side up, choker
+(alice \(nikke\):1.3), name tag hair ornament, twintails, animal ears, pink eyes, animal ear headphones, long hair, fake animal ears
+(anis \(nikke\):1.3), short hair, brown hair, ahoge
+(anis \(sparkling summer\) \(nikke\):1.3), short hair, eyewear on head, eyepatch bikini, ahoge, tinted eyewear, brown hair
+(commander \(nikke\):1.3), long hair
+(elegg \(nikke\):1.3), short hair, hair over eyes, hair intakes, multicolored hair, ahoge, blonde hair
+(helm \(nikke\):1.3), long hair, blue hair, blue eyes
+(rapi \(nikke\):1.3), long hair, red hair, red eyes, brown hair
+(red hood \(nikke\):1.3), long hair, red hair, yellow eyes, hair between eyes
+(rupee \(nikke\):1.3), animal ears, green eyes, fang, long hair, blonde hair
+(snow white \(innocent days\) \(nikke\):1.3), red hair, hair between eyes, ahoge, yellow eyes, long hair, white hair
+(soda \(nikke\):1.3), hair ornament, animal ears, antenna hair, purple eyes, rabbit ears, green hair, very long hair, long hair
+(viper \(nikke\):1.3), long hair, brown hair, red eyes
+(bay \(nikke\):1.3), red hair, hair intakes, underwear, streaked hair, black hair, hairband, dark-skinned female, dark skin, multicolored hair, ponytail, long hair
+(blanc \(nikke\):1.3), animal ears, yellow eyes, rabbit ears, dark-skinned female, dark skin, very long hair, white hair, long hair, fake animal ears, brown hair
+(brid \(nikke\):1.3), earrings, grey hair, hair between eyes, blue eyes, multicolored hair, hair over one eye, ponytail, long hair
+(dorothy \(nikke\):1.3), long hair, pink hair, purple eyes, hair bun
+(d \(nikke\):1.3), long hair, underwear, black hair, red eyes
+(helm \(aqua marine\) \(nikke\):1.3), long hair, blue hair, blue eyes, ponytail
+(marciana \(nikke\):1.3), long hair, brown eyes, brown hair
+(mary \(medical rabbit\) \(nikke\):1.3), braided ponytail, hair ornament, animal ears, braid, black hair, rabbit hair ornament, rabbit ears, closed eyes, long hair, fake animal ears
+(mary \(nikke\):1.3), hair ornament, animal ears, braid, black hair, rabbit ears, closed eyes, long hair, fake animal ears
+(modernia \(nikke\):1.3), long hair, hair ribbon, red eyes, grey hair
+(noir \(nikke\):1.3), animal ears, dark-skinned female, rabbit ears, dark skin, very long hair, yellow eyes, long hair, fake animal ears, brown hair
+(privaty \(nikke\):1.3), cat ears, twintails, animal ears, blue hair, very long hair, yellow eyes, long hair
+(scarlet \(nikke\):1.3), long hair, hair between eyes, grey hair
+(syuen \(nikke\):1.3), short hair, earrings, streaked hair, black hair, purple eyes, multicolored hair, mole under eye, purple hair
+(viper \(toxic rabbit\) \(nikke\):1.3), tail, animal ears, pink eyes, rabbit ears, rabbit tail, long hair, fake animal ears, brown hair
+(crown \(nikke\):1.3), long hair, blue eyes, drill hair, blonde hair
+(d \(killer wife\) \(nikke\):1.3), hair ornament, underwear, black hair, red eyes, long hair
+(exia \(nikke\):1.3), long hair, black hair, hair between eyes, purple eyes
+(ludmilla \(nikke\):1.3), long hair, blonde hair, red eyes
+(mast \(nikke\):1.3), heart, skull hair ornament, hair ornament, skin fang, pink eyes, fang, long hair, pink hair
+(naga \(nikke\):1.3), hair ornament, dark-skinned female, brown eyes, dark skin, hair over one eye, long hair, brown hair
+(neon \(nikke\):1.3), green eyes, long hair, brown hair, short hair
+(privaty \(unkind maid\) \(nikke\):1.3), tail, cat ears, twintails, animal ears, blue hair, very long hair, yellow eyes, long hair
+(rosanna \(chic ocean\) \(nikke\):1.3), hair ornament, black hair, split-color hair, red eyes, multicolored hair, white hair, long hair, two-tone hair
+(soda \(twinkling bunny\) \(nikke\):1.3), hair ornament, animal ears, antenna hair, purple eyes, rabbit ears, green hair, very long hair, long hair, fake animal ears
+(tia \(nikke\):1.3), long hair, hair ornament, blonde hair, brown eyes
+(viper \(shine of love\) \(nikke\):1.3), long hair, hair ornament, brown hair, red eyes
+(volume \(nikke\):1.3), yellow eyes, long hair, red hair, eyewear on head
+(alice \(wonderland bunny\) \(nikke\):1.3), pink hair, name tag hair ornament, tail, twintails, hair ornament, animal ears, carrot hair ornament, rabbit ears, pink eyes, food-themed hair ornament, rabbit tail, long hair, fake animal ears
+(diesel \(nikke\):1.3), earrings, black hair, brown eyes, long hair, brown hair
+(drake \(nikke\):1.3), short hair, hair ornament, white hair, red eyes
+(jackal \(nikke\):1.3), heart, twintails, hair ornament, red eyes, heart tattoo, long hair, multicolored hair, pink hair
+(laplace \(nikke\):1.3), twintails, fang, blue eyes, long hair, blonde hair
+(maiden \(nikke\):1.3), long hair, black hair, very long hair, red eyes
+(maxwell \(nikke\):1.3), short hair, short hair with long locks, hair between eyes, blue eyes, blonde hair
+(noise \(nikke\):1.3), earrings, black hair, dark-skinned female, colored inner hair, dark skin, blue eyes, multicolored hair, ponytail, long hair, two-tone hair, blonde hair
+(rapi \(classic vacation\) \(nikke\):1.3), long hair, brown hair, red eyes
+(rapunzel \(nikke\):1.3), braid, blue eyes, very long hair, long hair, blonde hair
+(scarlet \(black shadow\) \(nikke\):1.3), long hair, red eyes, grey hair
+(snow white \(nikke\):1.3), white hair, long hair, yellow eyes, hair between eyes
+(clay \(nikke\):1.3), hair intakes, underwear, red eyes, long hair, blonde hair
+(emma \(nikke\):1.3), long hair, brown hair
+(guilty \(nikke\):1.3), black hair, purple eyes, hair between eyes, green hair, multicolored hair, very long hair, long hair, two-tone hair
+(shifty \(nikke\):1.3), animal ears, animal ear headphones, blue hair, blue eyes, long hair, fake animal ears
+(poli \(nikke\):1.3), white hair, long hair, blue eyes, very long hair

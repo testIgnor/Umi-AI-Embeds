@@ -226,3 +226,294 @@
 (hiei \(azur lane\):1.3), azur lane, brown hair, yellow eyes, long hair, very long hair, black hair
 (intrepid \(azur lane\):1.3), azur lane, grey hair, long hair, hair between eyes, blue eyes, very long hair
 (tennessee \(azur lane\):1.3), azur lane, blonde hair, hair between eyes, very long hair, dark-skinned female, long hair, blue eyes, dark skin
+(bremerton \(azur lane\):1.3), twintails, hair ornament, streaked hair, lifebuoy ornament, hair between eyes, long hair, multicolored hair, two-tone hair, grey hair, pink hair, mole under eye, pink eyes
+(formidable \(azur lane\):1.3), very long hair, twintails, long hair, hair ribbon, grey hair, red eyes
+(taihou \(azur lane\):1.3), very long hair, ahoge, black hair, hair between eyes, long hair, red eyes
+(sirius \(azur lane\):1.3), hair between eyes, short hair, white hair, red eyes, lace-trimmed hairband
+(prinz eugen \(azur lane\):1.3), very long hair, streaked hair, multicolored hair, long hair, white hair, red hair, antenna hair
+(belfast \(azur lane\):1.3), braid, white hair, blue eyes, long hair
+(atago \(azur lane\):1.3), extra ears, animal ears, black hair, long hair, mole under eye, brown eyes
+(ayanami \(azur lane\):1.3), hair ornament, headgear, hair between eyes, ponytail, long hair, blonde hair
+(le malin \(azur lane\):1.3), very long hair, animal ears, twin braids, rabbit ears, long hair, braid, white hair, blue eyes, hair bun
+(illustrious \(azur lane\):1.3), hair ornament, long hair, white hair, blue eyes, mole under eye
+(bremerton \(scorching-hot training\) \(azur lane\):1.3), twintails, hair ornament, streaked hair, hair between eyes, long hair, multicolored hair, grey hair, two-tone hair, pink hair, sportswear, heart, hairclip, pink eyes, x hair ornament
+(sirius \(azure horizons\) \(azur lane\):1.3), hair ornament, hair flower, hair between eyes, braid, short hair, white hair, red eyes
+(baltimore \(azur lane\):1.3), yellow eyes, ahoge, hair between eyes, braid, short hair, brown hair
+(kashino \(azur lane\):1.3), hair ornament, cow ears, animal ears, hair flower, long hair, purple eyes, brown hair
+(dido \(azur lane\):1.3), black hairband, long hair, grey hair, hairband, purple eyes
+(cheshire \(azur lane\):1.3), black hair, streaked hair, multicolored hair, animal ears
+(shinano \(azur lane\):1.3), very long hair, animal ears, multiple tails, long hair, animal ear fluff, fox tail, fox ears, blue eyes, white hair, tail
+(unicorn \(azur lane\):1.3), very long hair, ahoge, purple hair, single hair bun, long hair, hair ribbon, hair bun, purple eyes
+(st. louis \(azur lane\):1.3), purple eyes, blue hair, side ponytail, long hair
+(le malin \(listless lapin\) \(azur lane\):1.3), very long hair, animal ears, twin braids, rabbit ears, long hair, braid, white hair, rabbit tail, blue eyes, fake animal ears, tail
+(new jersey \(azur lane\):1.3), very long hair, animal ears, rabbit ears, long hair, blue eyes, blue hair
+(laffey \(azur lane\):1.3), very long hair, twintails, hair ornament, animal ears, rabbit ears, hair between eyes, long hair, white hair, hairband, red eyes, fake animal ears
+(enterprise \(azur lane\):1.3), purple eyes, white hair, long hair
+(aegir \(azur lane\):1.3), very long hair, yellow eyes, streaked hair, hair between eyes, long hair, multicolored hair, white hair, red hair
+(zara \(azur lane\):1.3), side ponytail, long hair, red hair
+(taihou \(enraptured companion\) \(azur lane\):1.3), ahoge, eyewear on head, black hair, hair between eyes, long hair, crossed bangs, red eyes
+(implacable \(azur lane\):1.3), very long hair, hair between eyes, long hair, blonde hair, red eyes
+(implacable \(shepherd of the "lost"\) \(azur lane\):1.3), red eyes, hair between eyes, blonde hair, long hair, very long hair
+(z23 \(azur lane\):1.3), short hair, hair bow, brown hair
+(st. louis \(luxurious wheels\) \(azur lane\):1.3), hair ornament, earrings, blue hair, side ponytail
+(perseus \(azur lane\):1.3), very long hair, twintails, long hair, pink hair, pink eyes
+(zara \(poolside coincidence\) \(azur lane\):1.3), long hair, ahoge, side ponytail, red hair
+(kashino \(hot springs relaxation\) \(azur lane\):1.3), hair ornament, cow ears, animal ears, hair flower, cow tail, long hair, purple eyes, tail, brown hair
+(takao \(azur lane\):1.3), very long hair, animal ears, black hair, ponytail, hair bow, long hair, brown eyes
+(akagi \(azur lane\):1.3), animal ears, multiple tails, long hair, fox tail, fox ears, red eyes, tail, brown hair
+(atago \(stunning speedster\) \(azur lane\):1.3), extra ears, animal ears, black hair, long hair, mole under eye, brown eyes
+(bismarck \(azur lane\):1.3), blonde hair, hair between eyes, blue eyes, long hair
+(honolulu \(azur lane\):1.3), twintails, hair ribbon, long hair, red hair, red eyes
+(indomitable \(azur lane\):1.3), very long hair, hair spread out, green eyes, black hair, long hair
+(tashkent \(azur lane\):1.3), very long hair, animal ears, purple hair, long hair, blue eyes, fake animal ears
+(prinz eugen \(unfading smile\) \(azur lane\):1.3), very long hair, streaked hair, hair between eyes, multicolored hair, long hair, hair ribbon, white hair, red hair
+(nagato \(azur lane\):1.3), very long hair, hair ornament, yellow eyes, animal ears, black hair, long hair, animal ear fluff, fox ears
+(kaga \(azur lane\):1.3), animal ears, multiple tails, long hair, white hair, fox tail, fox ears, short hair, blue eyes, tail
+(javelin \(azur lane\):1.3), hair ornament, purple hair, hair between eyes, ponytail, long hair, hair ribbon, javelin \(spear\)
+(musashi \(azur lane\):1.3), very long hair, yellow eyes, animal ears, purple hair, black hair, long hair, animal ear fluff, fox ears, tail
+(pamiat merkuria \(azur lane\):1.3), purple eyes, black hair, long hair
+(ulrich von hutten \(azur lane\):1.3), yellow eyes, black hair, hair between eyes, multicolored hair, short hair, white hair
+(august von parseval \(azur lane\):1.3), very long hair, purple hair, long hair, hair over one eye, purple eyes
+(noshiro \(azur lane\):1.3), very long hair, hair ornament, black hair, long hair, purple eyes
+(belfast \(shopping with the head maid\) \(azur lane\):1.3), earrings, hoop earrings, long hair, white hair, purple eyes
+(bache \(azur lane\):1.3), blonde hair, fang, purple eyes, long hair
+(ayanami \(retrofit\) \(azur lane\):1.3), hair ornament, headgear, ponytail, hair between eyes, long hair, blonde hair, orange eyes
+(roon \(azur lane\):1.3), streaked hair, headgear, hair between eyes, multicolored hair, blonde hair, short hair, red hair
+(owari \(azur lane\):1.3), very long hair, yellow eyes, dark skin, twin braids, horn ornament, braid, long hair, blonde hair, hair over one eye, dark-skinned female
+(amagi \(azur lane\):1.3), hair ornament, animal ears, multiple tails, long hair, fox tail, fox ears, purple eyes, tail, brown hair
+(unzen \(azur lane\):1.3), very long hair, streaked hair, purple hair, multicolored hair, long hair, white hair, hair over one eye, purple eyes
+(new jersey \(exhilarating steps!\) \(azur lane\):1.3), very long hair, animal ears, rabbit ears, long hair, blue eyes, blue hair, fake animal ears
+(sirius \(scorching-hot seirios\) \(azur lane\):1.3), heart-shaped eyewear, eyewear on head, hair between eyes, white hair, short hair, heart, red eyes
+(formidable \(the lady of the beach\) \(azur lane\):1.3), very long hair, ahoge, braid, long hair, braided bun, hair bun, red eyes
+(bremerton \(kung fu cruiser\) \(azur lane\):1.3), underwear, streaked hair, eyewear on head, round eyewear, hair between eyes, long hair, multicolored hair, two-tone hair, braid, pink hair, grey hair, braided bun, mole under eye, hair bun, hair intakes, pink eyes
+(friedrich der grosse \(azur lane\):1.3), very long hair, yellow eyes, black hair, long hair, hair over one eye
+(shimakaze \(azur lane\):1.3), very long hair, yellow eyes, animal ears, rabbit ears, long hair, white hair, hairband
+(yamashiro \(azur lane\):1.3), animal ears, fang, black hair, animal ear fluff, short hair, cat ears, red eyes
+(helena \(azur lane\):1.3), very long hair, ahoge, long hair, purple eyes, blue hair
+(prinz eugen \(final lap\) \(azur lane\):1.3), very long hair, yellow eyes, streaked hair, underwear, multicolored hair, long hair, white hair, red hair
+(admiral graf spee \(azur lane\):1.3), streaked hair, multicolored hair, white hair, short hair, blue eyes, red hair
+(taihou \(temptation on the sea breeze\) \(azur lane\):1.3), very long hair, earrings, hair ornament, ahoge, black hair, hair between eyes, long hair, red eyes
+(reno \(azur lane\):1.3), hair between eyes, grey hair, short hair, hairband, purple eyes
+(perseus \(unfamiliar duties\) \(azur lane\):1.3), very long hair, twintails, hair ornament, long hair, pink hair, pink eyes
+(chapayev \(azur lane\):1.3), hair ornament, blue hair, short hair, blue eyes
+(prinz heinrich \(azur lane\):1.3), very long hair, long hair, white hair, mole under eye, red eyes
+(hindenburg \(azur lane\):1.3), very long hair, animal ears, rabbit ears, long hair, pointy ears, hairband, red hair, red eyes, fake animal ears
+(graf zeppelin \(azur lane\):1.3), very long hair, hair between eyes, long hair, white hair, red eyes
+(jean bart \(azur lane\):1.3), very long hair, earrings, ponytail, hair between eyes, long hair, red eyes, brown hair
+(meowfficer \(azur lane\):1.3), long hair, animal ears
+(unzen \(sojourn through clear seas\) \(azur lane\):1.3), very long hair, streaked hair, purple hair, ponytail, multicolored hair, long hair, white hair, hair over one eye, purple eyes
+(taihou \(sweet time after school\) \(azur lane\):1.3), very long hair, underwear, ahoge, black hair, long hair, red eyes
+(sheffield \(azur lane\):1.3), yellow eyes, braid, blonde hair, short hair, hair over one eye
+(pola \(azur lane\):1.3), twintails, red eyes, long hair, purple hair
+(azuma \(azur lane\):1.3), very long hair, hair ornament, yellow eyes, black hair, hair between eyes, hair flower, long hair
+(indomitable \(ms. motivationless maid\) \(azur lane\):1.3), very long hair, hair spread out, green eyes, black hair, hair between eyes, long hair
+(essex \(azur lane\):1.3), twintails, blue hair, long hair
+(richelieu \(azur lane\):1.3), blonde hair, very long hair, red eyes, long hair
+(elbe \(azur lane\):1.3), very long hair, streaked hair, black hair, multicolored hair, long hair, white hair, purple eyes
+(taihou \(forbidden feast\) \(azur lane\):1.3), very long hair, hair ornament, cocktail dress, ahoge, black hair, hair between eyes, long hair, red eyes
+(saint-louis \(azur lane\):1.3), hair ornament, hair between eyes, long hair, grey hair, mole under eye, red eyes
+(shoukaku \(azur lane\):1.3), hair ornament, long hair, white hair, blue eyes, mole under eye
+(tosa \(azur lane\):1.3), animal ears, hair between eyes, long hair, grey hair, fox tail, fox ears, tail
+(dunkerque \(azur lane\):1.3), hair ornament, long hair, grey hair, butterfly hair ornament, red eyes
+(vittorio veneto \(azur lane\):1.3), very long hair, grey eyes, braid, long hair, grey hair
+(baltimore \(finish line flagbearer\) \(azur lane\):1.3), hair between eyes, yellow eyes, short hair, brown hair
+(chen hai \(azur lane\):1.3), hair ornament, black hair, red eyes, long hair
+(anchorage \(azur lane\):1.3), very long hair, twintails, long hair, brown hair
+(zuikaku \(azur lane\):1.3), very long hair, hair ornament, ponytail, long hair, brown hair
+(taihou \(phoenix's spring song\) \(azur lane\):1.3), very long hair, hair ornament, ahoge, black hair, hair between eyes, long hair, crossed bangs, red eyes
+(bismarck zwei \(azur lane\):1.3), very long hair, hair between eyes, long hair, blonde hair, blue eyes
+(clemenceau \(azur lane\):1.3), hair between eyes, red eyes, long hair, brown hair
+(siren \(azur lane\):1.3), yellow eyes, white hair, long hair
+(regensburg \(azur lane\):1.3), twintails, yellow eyes, mechanical tail, long hair, pointy ears, blue hair, tail
+(yuudachi \(azur lane\):1.3), animal ears, wolf ears, long hair, braid, grey hair, thick eyebrows, red eyes, tail
+(hammann \(azur lane\):1.3), very long hair, animal ears, american flag neckwear, long hair, hair bow, white hair, blue eyes, cat ears
+(bremerton \(day-off date\) \(azur lane\):1.3), eyewear hang, twintails, streaked hair, hair between eyes, multicolored hair, long hair, grey hair, two-tone hair, pink hair, unworn eyewear, pink eyes
+(hermione \(azur lane\):1.3), very long hair, yellow eyes, twin braids, hair between eyes, braid, long hair, white hair
+(taihou \(seaside daydreams\) \(azur lane\):1.3), very long hair, ahoge, black hair, hair between eyes, long hair, red eyes
+(formidable \(timeless classics\) \(azur lane\):1.3), very long hair, twintails, hair ornament, long hair, grey hair, red eyes
+(sovetskaya rossiya \(azur lane\):1.3), very long hair, hair between eyes, long hair, white hair, mole under eye, red eyes
+(baltimore \(after-school ace\) \(azur lane\):1.3), yellow eyes, ahoge, hair between eyes, braid, short hair, brown hair
+(shinano \(dreams of the hazy moon\) \(azur lane\):1.3), very long hair, hair ornament, large tail, animal ears, multiple tails, long hair, animal ear fluff, grey hair, white tail, fox ears, blue eyes, tail
+(tosa \(hometown zest\) \(azur lane\):1.3), animal ears, eyewear on head, long hair, grey hair, fox tail, tail
+(gascogne \(azur lane\):1.3), hair ornament, yellow eyes, headgear, short hair, blue hair
+(massachusetts \(azur lane\):1.3), dark skin, long hair, white hair, dark-skinned female, red eyes
+(joffre \(azur lane\):1.3), hair ornament, twintails, long hair, grey hair, red eyes
+(cleveland \(azur lane\):1.3), blonde hair, red eyes, long hair
+(monarch \(azur lane\):1.3), hair between eyes, braid, long hair, red hair, purple eyes
+(admiral hipper \(azur lane\):1.3), ahoge, green eyes, hair between eyes, long hair, blonde hair
+(swiftsure \(azur lane\):1.3), very long hair, hair ribbon, long hair, red eyes, brown hair
+(cygnet \(azur lane\):1.3), hair bun, white hair, red eyes, long hair
+(bismarck zwei \(crystal-clear holiday\) \(azur lane\):1.3), very long hair, eyewear on head, hair between eyes, ponytail, long hair, blonde hair, blue eyes
+(north carolina \(azur lane\):1.3), animal ears, rabbit ears, long hair, blonde hair, hairband, blue eyes, fake animal ears
+(deutschland \(azur lane\):1.3), very long hair, streaked hair, black hair, long hair, multicolored hair, white hair, blue eyes, red hair
+(illustrious \(maiden lily's radiance\) \(azur lane\):1.3), hair ornament, long hair, white hair, blue eyes, mole under eye
+(august von parseval \(the conquered unhulde\) \(azur lane\):1.3), very long hair, purple hair, long hair, hair over one eye, purple eyes
+(minneapolis \(azur lane\):1.3), very long hair, dark skin, high ponytail, hair between eyes, ponytail, long hair, white hair, dark-skinned female, crossed bangs, red eyes
+(plymouth \(azur lane\):1.3), hair ornament, purple eyes, long hair, purple hair
+(charybdis \(azur lane\):1.3), grey hair, grey eyes, long hair
+(kearsarge \(azur lane\):1.3), very long hair, hair between eyes, long hair, white hair, purple eyes
+(hood \(azur lane\):1.3), blonde hair, earrings, blue eyes, long hair
+(surcouf \(azur lane\):1.3), very long hair, green eyes, hair between eyes, long hair, red hair
+(hakuryuu \(azur lane\):1.3), earrings, white hair, white eyes, long hair
+(marseillaise \(azur lane\):1.3), very long hair, white hair, red eyes, long hair
+(algerie \(azur lane\):1.3), long hair, grey hair, mole under eye, purple eyes, drill hair
+(cheshire \(summery date!\) \(azur lane\):1.3), streaked hair, animal ears, eyewear on head, black hair, multicolored hair, short hair, fake animal ears
+(z46 \(azur lane\):1.3), very long hair, yellow eyes, long hair, grey hair, mole under eye
+(hanazuki \(azur lane\):1.3), hair ornament, animal ears, green eyes, hair flower, long hair, pink hair, fox tail, fox ears, hairband, tail
+(kawakaze \(azur lane\):1.3), animal ears, long hair, grey hair, white hair, fox ears, blue eyes, fox tail, tail
+(hindenburg \(delirious duel\) \(azur lane\):1.3), very long hair, animal ears, rabbit ears, long hair, pointy ears, hairband, red hair, red eyes, fake animal ears
+(albion \(azur lane\):1.3), very long hair, hair ornament, long hair, pointy ears, white hair, blue eyes, butterfly hair ornament
+(akashi \(azur lane\):1.3), very long hair, hair ornament, yellow eyes, animal ears, ahoge, green hair, hair between eyes, long hair, cat ears
+(amagi-chan \(azur lane\):1.3), twintails, hair ornament, animal ears, multiple tails, long hair, animal ear fluff, thick eyebrows, fox tail, fox ears, purple eyes, tail, brown hair
+(hatsuzuki \(azur lane\):1.3), twintails, black hair, long hair, multicolored hair, two-tone hair, red hair, colored inner hair, red eyes
+(regensburg \(dark dragon brilliant beach\) \(azur lane\):1.3), twintails, yellow eyes, eyewear on head, mechanical tail, long hair, blue hair, tail
+(grim \(azur lane\):1.3), purple eyes, white hair, long hair
+(surcouf \(loisirs balneaires\) \(azur lane\):1.3), very long hair, green eyes, tinted eyewear, orange-tinted eyewear, hair between eyes, long hair, red hair
+(pola \(seaside coincidence\) \(azur lane\):1.3), twintails, purple hair, eyewear on head, long hair, red eyes
+(kumano \(azur lane\):1.3), blonde hair, hair ornament, purple eyes, long hair
+(unicorn \(long-awaited date\) \(azur lane\):1.3), very long hair, hair ornament, twintails, low twintails, purple hair, ahoge, long hair, hair scrunchie, purple eyes, x hair ornament
+(baltimore \(black ace\) \(azur lane\):1.3), yellow eyes, ahoge, hair between eyes, braid, short hair, brown hair
+(glorious \(azur lane\):1.3), hair ornament, braid, long hair, blonde hair, blue eyes
+(shinano \(moonlit chrome\) \(azur lane\):1.3), very long hair, animal ears, multiple tails, long hair, animal ear fluff, fox tail, fox ears, blue eyes, white hair, tail
+(takao \(full throttle charmer\) \(azur lane\):1.3), animal ears, black hair, ponytail, long hair, hair bow, brown eyes
+(aquila \(azur lane\):1.3), very long hair, green eyes, braid, long hair, grey hair
+(drake \(azur lane\):1.3), grey hair, yellow eyes, ponytail, long hair
+(marseillaise \(fighting angel's regimen\) \(azur lane\):1.3), very long hair, white hair, red eyes, long hair
+(prinz eugen \(cordial cornflower\) \(azur lane\):1.3), very long hair, streaked hair, hair between eyes, multicolored hair, long hair, white hair, red hair, antenna hair
+(u-47 \(azur lane\):1.3), earrings, streaked hair, black hair, hair between eyes, long hair, multicolored hair, white hair, red eyes
+(duca degli abruzzi \(azur lane\):1.3), red eyes, long hair
+(i-19 \(azur lane\):1.3), twintails, animal ears, fang, long hair, red hair, cat ears, cat tail, red eyes, tail
+(neptune \(azur lane\):1.3), hair ornament, blue hair, yellow eyes, long hair
+(vittorio veneto \(the flower of la spezia\) \(azur lane\):1.3), very long hair, grey eyes, hair ornament, hair flower, hair bow, long hair, grey hair
+(atago \(summer march\) \(azur lane\):1.3), hair ornament, extra ears, animal ears, black hair, hair flower, long hair, mole under eye, brown eyes
+(south dakota \(azur lane\):1.3), hair ornament, dark skin, black hair, hair between eyes, long hair, braid, dark-skinned female, brown eyes
+(massachusetts \(dressed to impress\) \(azur lane\):1.3), cocktail dress, dark skin, long hair, white hair, dark-skinned female
+(honolulu \(umbrella girl\) \(azur lane\):1.3), very long hair, twintails, underwear, hair ribbon, long hair, red hair, red eyes
+(tashkent \(the bound cruiser\) \(azur lane\):1.3), very long hair, hair spread out, purple hair, ponytail, hair ribbon, long hair, blue eyes
+(le malin \(mercredi at the secret base\) \(azur lane\):1.3), very long hair, hair spread out, long hair, white hair, blue eyes, hair bun
+(richelieu \(fleuron of the waves\) \(azur lane\):1.3), blonde hair, very long hair, red eyes, long hair
+(joffre \(sublime elysium\) \(azur lane\):1.3), hair ornament, ponytail, long hair, hair bow, grey hair, hair scrunchie, red eyes
+(queen elizabeth \(azur lane\):1.3), blonde hair, hairband, blue eyes, long hair
+(peter strasser \(azur lane\):1.3), very long hair, twintails, black hair, long hair, purple eyes
+(sovetskaya belorussiya \(azur lane\):1.3), very long hair, long hair, blue eyes, blue hair, parted bangs
+(essex \(craft fairytail\) \(azur lane\):1.3), blue hair, twintails, long hair
+(kronshtadt \(azur lane\):1.3), very long hair, underwear, long hair, blonde hair, blue eyes
+(aegir \(iron blood's dragon maid\) \(azur lane\):1.3), very long hair, yellow eyes, streaked hair, hair between eyes, long hair, multicolored hair, white hair, red hair
+(aegir \(golden dragon among auspicious clouds\) \(azur lane\):1.3), very long hair, yellow eyes, streaked hair, horn ornament, hair between eyes, long hair, multicolored hair, white hair, red hair
+(shoukaku \(sororal wings\) \(azur lane\):1.3), very long hair, long hair, white hair, blue eyes, mole under eye
+(amagi \(wending waters serene lotus\) \(azur lane\):1.3), very long hair, animal ears, long hair, animal ear fluff, fox ears, purple eyes, tail, brown hair
+(kisaragi \(azur lane\):1.3), animal ears, tail ornament, long hair, animal ear fluff, pink hair, cat ears, cat tail, pink eyes, tail
+(reno \(reno bunnino\) \(azur lane\):1.3), animal ears, rabbit ears, long hair, grey hair, purple eyes, fake animal ears
+(chen hai \(vestibule of wonders\) \(azur lane\):1.3), hair ornament, black hair, hair flower, long hair, red eyes
+(guam \(azur lane\):1.3), very long hair, twintails, long hair, blonde hair, blue eyes, heart
+(nagato \(great fox's respite\) \(azur lane\):1.3), very long hair, underwear, yellow eyes, animal ears, black hair, long hair, animal ear fluff, fox ears
+(hatsuzuki \(august's first romance\) \(azur lane\):1.3), twintails, black hair, long hair, multicolored hair, two-tone hair, red hair, colored inner hair, red eyes
+(ibuki \(azur lane\):1.3), blue hair, red eyes, blue eyes, long hair
+(abercrombie \(azur lane\):1.3), blonde hair, hair ornament, blue eyes, long hair
+(gneisenau \(azur lane\):1.3), very long hair, red-framed eyewear, purple hair, long hair, blue eyes, demon tail, tail
+(sovetsky soyuz \(azur lane\):1.3), very long hair, hair between eyes, long hair, white hair, blue eyes
+(taihou \(muse\) \(azur lane\):1.3), very long hair, hair ornament, twintails, ahoge, black hair, hair between eyes, long hair, crossed bangs, red eyes
+(enterprise \(wind catcher\) \(azur lane\):1.3), very long hair, ponytail, long hair, eyewear on headwear, white hair, purple eyes
+(littorio \(azur lane\):1.3), streaked hair, green hair, multicolored hair, long hair, red eyes
+(saratoga \(azur lane\):1.3), twintails, ahoge, long hair, pink hair, purple eyes
+(eldridge \(azur lane\):1.3), very long hair, hair ornament, twintails, ahoge, long hair, blonde hair, red eyes
+(indianapolis \(azur lane\):1.3), very long hair, twintails, yellow eyes, dark skin, ahoge, hair between eyes, long hair, pink hair, blue eyes, heart ahoge, heart, dark-skinned female
+(duke of york \(azur lane\):1.3), pink hair, blue eyes, long hair, pointy ears
+(long island \(azur lane\):1.3), very long hair, blue eyes, long hair, brown hair
+(painleve \(azur lane\):1.3), blonde hair, very long hair, blue eyes, long hair
+(shinano \(dreamy white sands\) \(azur lane\):1.3), very long hair, animal ears, multiple tails, long hair, animal ear fluff, fox tail, fox ears, white hair, blue eyes, tail
+(hornet \(azur lane\):1.3), very long hair, twintails, green eyes, long hair, blonde hair
+(kinu \(azur lane\):1.3), short hair, yellow eyes, hair between eyes, white hair
+(saint-louis \(holy knight's resplendence\) \(azur lane\):1.3), earrings, cross earrings, long hair, grey hair, mole under eye, red eyes
+(glorious \(pungent plum\) \(azur lane\):1.3), hair ornament, single hair bun, hair stick, hair flower, long hair, braid, blonde hair, blue eyes, hair bun
+(elbing \(azur lane\):1.3), very long hair, long hair, white hair, blue eyes, red eyes
+(janus \(azur lane\):1.3), very long hair, animal ears, long hair, blue eyes, blue hair
+(nelson \(azur lane\):1.3), very long hair, twintails, long hair, hair ribbon, blonde hair, red eyes
+(abercrombie \(mischief on the rocks\) \(azur lane\):1.3), hair ornament, animal ears, rabbit ears, long hair, blonde hair, blue eyes, fake animal ears, x hair ornament
+(bremerton \(relaxation consultation\) \(azur lane\):1.3), official alternate hairstyle, streaked hair, hair between eyes, long hair, multicolored hair, two-tone hair, grey hair, pink hair, mole under eye, pink eyes, hair down
+(intrepid \(azur lane\):1.3), very long hair, hair ornament, twintails, hair between eyes, long hair, grey hair, blue eyes
+(albion \(scent of spring in the red pavilion\) \(azur lane\):1.3), very long hair, hair ornament, long pointy ears, hair flower, long hair, pointy ears, blue eyes, butterfly hair ornament
+(alabama \(azur lane\):1.3), very long hair, twintails, dark skin, hair between eyes, long hair, white hair, dark-skinned female, red eyes
+(chikuma \(azur lane\):1.3), hair ornament, animal ears, rabbit ears, hair between eyes, long hair, braid, brown hair
+(kashino \(maid for mayhem\) \(azur lane\):1.3), cow ears, animal ears, long hair, purple eyes, brown hair
+(scylla \(azur lane\):1.3), white hair, red eyes, long hair
+(owari \(shimmering forsythia\) \(azur lane\):1.3), very long hair, yellow eyes, low twin braids, dark skin, twin braids, horn ornament, braid, long hair, blonde hair, hair over one eye, dark-skinned female
+(atago \(school traumerei\) \(azur lane\):1.3), extra ears, underwear, animal ears, black hair, long hair, hair ribbon, mole under eye, swept bangs
+(yorktown \(azur lane\):1.3), very long hair, white hair, blue eyes, long hair
+(reno \(biggest little cheerleader\) \(azur lane\):1.3), black hairband, hair between eyes, grey hair, short hair, hairband, purple eyes
+(howe \(azur lane\):1.3), blonde hair, braid, blue eyes, long hair
+(north carolina \(the heart's desire\) \(azur lane\):1.3), very long hair, animal ears, rabbit ears, long hair, blonde hair, blue eyes, fake animal ears
+(brest \(azur lane\):1.3), very long hair, long hair, pointy ears, blonde hair, blue eyes
+(yukikaze \(azur lane\):1.3), twintails, animal ears, fang, long hair, hair bow, animal ear fluff, white hair, cat ears, red eyes
+(la galissonniere \(azur lane\):1.3), very long hair, twintails, long hair, pink hair, pink eyes
+(charybdis \(red chamber of healing\) \(azur lane\):1.3), grey hair, grey eyes, long hair
+(sovetskaya rossiya \(the lackadaisical lookout\) \(azur lane\):1.3), very long hair, hair between eyes, long hair, grey hair, white hair, mole under eye, red eyes
+(aquila \(a sip of sardegnian elegance\) \(azur lane\):1.3), very long hair, green eyes, long hair, grey hair, tilted headwear
+(gneisenau \(nightmarish succubus\) \(azur lane\):1.3), very long hair, red-framed eyewear, purple hair, long hair, blue eyes, skindentation, demon tail, tail, rectangular eyewear
+(new jersey \(snow-white ceremony\) \(azur lane\):1.3), very long hair, animal ears, rabbit ears, long hair, blue eyes, blue hair, fake animal ears
+(justice \(azur lane\):1.3), animal ears, purple hair, long hair, blue eyes, red hair, cat ears
+(painleve \(team stretching\) \(azur lane\):1.3), blonde hair, ponytail, blue eyes, long hair
+(champagne \(azur lane\):1.3), very long hair, hair ornament, hair spread out, closed eyes, long hair, blue hair, cross hair ornament
+(marco polo \(azur lane\):1.3), blue hair, red eyes, long hair
+(golden hind \(azur lane\):1.3), very long hair, black hair, blue eyes, long hair
+(ark royal \(azur lane\):1.3), black hair, long hair, short hair, blue eyes, hair over one eye
+(takao \(beach rhapsody\) \(azur lane\):1.3), very long hair, hair ornament, black hair, ponytail, hair flower, hair bow, long hair, brown eyes
+(dunkerque \(summer sucre\) \(azur lane\):1.3), hair ornament, ponytail, long hair, grey hair, hairband, butterfly hair ornament, red eyes
+(murmansk \(azur lane\):1.3), purple eyes, blue eyes, long hair
+(foch \(azur lane\):1.3), ahoge, purple hair, hair between eyes, multicolored hair, long hair, red eyes
+(ulrich von hutten \(mayhem maid\) \(azur lane\):1.3), hair ornament, yellow eyes, black hair, short hair, cat hair ornament, x hair ornament
+(azuma \(soft voice of spring\) \(azur lane\):1.3), very long hair, hair ornament, yellow eyes, hair flower, black hair, hair between eyes, long hair
+(bache \(showy sports star\) \(azur lane\):1.3), very long hair, long hair, blonde hair, sportswear, purple eyes
+(algerie \(white sand paradise\) \(azur lane\):1.3), long hair, grey hair, mole under eye, purple eyes, drill hair
+(dido \(anxious bisque doll\) \(azur lane\):1.3), long hair, grey hair, hairband, purple eyes, purple hairband
+(tallinn \(azur lane\):1.3), streaked hair, long hair, multicolored hair, white hair, red hair, red eyes
+(prince of wales \(azur lane\):1.3), earrings, braid, long hair, blonde hair, short hair, red eyes, crown braid
+(hibiki \(azur lane\):1.3), hair ornament, ahoge, long hair, grey hair, red eyes
+(jeanne d'arc \(azur lane\):1.3), blonde hair, hair bun, blue eyes, long hair
+(prinz rupprecht \(azur lane\):1.3), long hair, pink hair, hair on horn, hairband, hair over one eye, purple eyes
+(tirpitz \(azur lane\):1.3), earrings, hair between eyes, long hair, short hair, white hair, blue eyes
+(sims \(azur lane\):1.3), animal ears, green eyes, long hair, animal ear fluff, white hair, cat ears
+(suruga \(azur lane\):1.3), hair ornament, animal ears, hair flower, long hair, purple eyes, brown hair
+(kasumi \(azur lane\):1.3), very long hair, animal ears, long hair, animal ear fluff, white hair, fox ears, blue eyes, hair over one eye, fox tail, tail
+(belfast \(piping-hot perfection\) \(azur lane\):1.3), very long hair, hair ornament, ponytail, braid, long hair, white hair, blue eyes, purple eyes
+(nuernberg \(azur lane\):1.3), very long hair, twin braids, braid, long hair, grey hair, red eyes
+(sirius \(azur lane\) \(cosplay\):1.3), long hair
+(tb \(azur lane\):1.3), streaked hair, white skin, multicolored hair, two-tone hair, pale skin, white hair, blue eyes, hair over one eye, blue hair, colored skin
+(trieste \(azur lane\):1.3), earrings, green eyes, ponytail, long hair, pink hair, hair over one eye
+(mainz \(azur lane\):1.3), white hair, hairband, blue eyes, long hair
+(luetzow \(azur lane\):1.3), grey hair, drill hair, long hair
+(zuikaku \(the wind's true name\) \(azur lane\):1.3), very long hair, long hair, brown hair
+(rodney \(azur lane\):1.3), very long hair, purple hair, braid, long hair, purple eyes
+(mikasa \(azur lane\):1.3), yellow eyes, black hair, hair between eyes, long hair, brown hair
+(cheshire \(cait sith crooner\) \(azur lane\):1.3), streaked hair, animal ears, multicolored hair, short hair, blue eyes, blue hair
+(prinz eugen \(symphonic fate\) \(azur lane\):1.3), very long hair, streaked hair, headgear, multicolored hair, long hair, white hair, red hair, antenna hair
+(prinz eugen \(profusion of flowers\) \(azur lane\):1.3), underwear, streaked hair, headgear, multicolored hair, long hair, white hair, red hair, antenna hair
+(shimanto \(azur lane\):1.3), very long hair, dragon tail, long hair, hair on horn, white hair, red eyes, tail
+(vampire \(azur lane\):1.3), very long hair, twintails, underwear, fang, hair between eyes, long hair, hair ribbon, white hair, red eyes
+(gangut \(azur lane\):1.3), very long hair, hair between eyes, long hair, grey hair, white hair, red eyes
+(illustrious \(muse\) \(azur lane\):1.3), very long hair, hair ornament, long hair, white hair, blue eyes
+(louisville \(azur lane\):1.3), hair ornament, animal ears, purple hair, rabbit ears, long hair, braid, pink hair, hair over one eye, fake animal ears
+(honolulu \(summer accident?!\) \(azur lane\):1.3), very long hair, twintails, hair ornament, eyewear on head, hair ribbon, long hair, red hair, red eyes
+(hermione \(pure white holiday\) \(azur lane\):1.3), very long hair, yellow eyes, hair between eyes, long hair, hair bow, braid, white hair
+(roon \(muse\) \(azur lane\):1.3), streaked hair, headgear, hair between eyes, multicolored hair, blonde hair, short hair, red hair
+(boise \(azur lane\):1.3), yellow eyes, animal ears, rabbit ears, long hair, braid, blue hair, fake animal ears
+(laffey ii \(azur lane\):1.3), very long hair, twintails, animal ears, rabbit ears, long hair, white hair, hairband, crossed bangs, red eyes, fake animal ears
+(jade \(azur lane\):1.3), hair ornament, hair between eyes, grey hair, white hair, blue eyes, mole under eye, hair bun
+(le temeraire \(azur lane\):1.3), very long hair, ahoge, green eyes, long hair, braid, blonde hair
+(jean bart \(private apres midi\) \(azur lane\):1.3), very long hair, earrings, anchor earrings, hair between eyes, long hair, red eyes, brown hair
+(belfast \(the noble attendant\) \(azur lane\):1.3), half up braid, braid, long hair, hair ribbon, white hair, purple eyes
+(drake \(the golden hind's respite\) \(azur lane\):1.3), yellow eyes, ponytail, hair bow, long hair, grey hair
+(victorious \(azur lane\):1.3), very long hair, hair ornament, long hair, blonde hair, blue eyes
+(colorado \(azur lane\):1.3), long hair, white hair, hairband, hair over one eye, red eyes
+(illustrious \(morning star of love and hope\) \(azur lane\):1.3), hair ornament, long hair, white hair, blue eyes, mole under eye
+(leander \(azur lane\):1.3), blonde hair, hairband, blue eyes, long hair
+(marblehead \(azur lane\):1.3), hair ornament, multicolored hair, two-tone hair, blonde hair, pink hair, blue eyes, hairclip, short hair with long locks
+(st. louis \(azur lane\) \(cosplay\):1.3), long hair
+(yorktown ii \(azur lane\):1.3), very long hair, white hair, blue eyes, long hair
+(swiftsure \(midsummer special service\) \(azur lane\):1.3), very long hair, long hair, hairband, red eyes, brown hair
+(bellona \(azur lane\):1.3), purple hair, hair between eyes, grey hair, short hair, purple eyes
+(le malin \(sleepy sunday\) \(azur lane\):1.3), very long hair, hair between eyes, long hair, white hair, blue eyes, hair bun
+(le malin \(muse\) \(azur lane\):1.3), very long hair, long hair, white hair, blue eyes, hair bun
+(helena \(meta\) \(azur lane\):1.3), very long hair, ahoge, hair between eyes, long hair, blue hair, red eyes
+(yorck \(azur lane\):1.3), white hair, red eyes, long hair
+(kongou \(azur lane\):1.3), blonde hair, braid, blue eyes, long hair

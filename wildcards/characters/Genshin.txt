@@ -1,104 +1,216 @@
-(ganyu \(genshin impact\):1.3), genshin impact, long hair, blue hair, purple eyes, hair between eyes
-(raiden shogun:1.3), genshin impact, low-tied long hair, low-braided long hair, purple hair, long hair, very long hair, purple eyes
-(lumine \(genshin impact\):1.3), genshin impact, yellow eyes, short hair, blonde hair, long hair, hair between eyes
-(hu tao \(genshin impact\):1.3), genshin impact, brown hair, red eyes, hair between eyes, long hair, very long hair
-(yae miko:1.3), genshin impact, pink hair, purple hair, long hair, hair between eyes, very long hair, purple eyes
-(furina \(genshin impact\):1.3), genshin impact, multicolored hair, streaked hair, long hair, hair between eyes, blue hair, blue eyes, light blue hair, white hair
-(nahida \(genshin impact\):1.3), genshin impact, gradient hair, multicolored hair, green hair, long hair, green eyes, hair between eyes, white hair
-(keqing \(genshin impact\):1.3), genshin impact, long hair, purple hair, purple eyes
-(mona \(genshin impact\):1.3), genshin impact, purple hair, long hair, green eyes, black hair
-(kamisato ayaka:1.3), genshin impact, long hair, blue hair, blue eyes, light blue hair
-(klee \(genshin impact\):1.3), genshin impact, red eyes, blonde hair, long hair, hair between eyes, light brown hair
-(eula \(genshin impact\):1.3), genshin impact, medium hair, yellow eyes, long hair, hair between eyes, blue hair, purple eyes
-(boo tao \(genshin impact\):1.3), genshin impact, brown hair, red eyes, hair between eyes, long hair, very long hair
-(shenhe \(genshin impact\):1.3), genshin impact, low-tied long hair, low-braided long hair, grey hair, long hair, blue hair, blue eyes, white hair, very long hair
-(yelan \(genshin impact\):1.3), genshin impact, multicolored hair, short hair, green eyes, blue hair, black hair
-(nilou \(genshin impact\):1.3), genshin impact, aqua eyes, long hair, blue eyes, very long hair, red hair
-(sangonomiya kokomi:1.3), genshin impact, gradient hair, multicolored hair, pink hair, long hair, blue hair, blue eyes, very long hair, bow-shaped hair, purple eyes
-(arlecchino \(genshin impact\):1.3), genshin impact, two-tone hair, multicolored hair, short hair, streaked hair, black eyes, grey hair, long hair, hair between eyes, white hair, black hair
-(fischl \(genshin impact\):1.3), genshin impact, blonde hair, green eyes, long hair
-(jean \(genshin impact\):1.3), genshin impact, blonde hair, blue eyes, long hair, hair between eyes
-(barbara \(genshin impact\):1.3), genshin impact, drill hair, blonde hair, long hair, hair between eyes, blue eyes
-(amber \(genshin impact\):1.3), genshin impact, hair between eyes, long hair, brown eyes, brown hair
-(ningguang \(genshin impact\):1.3), genshin impact, very long hair, long hair, red eyes, white hair
-(yoimiya \(genshin impact\):1.3), genshin impact, yellow eyes, orange eyes, blonde hair, long hair, hair between eyes
-(qiqi \(genshin impact\):1.3), genshin impact, long hair, purple hair, purple eyes, hair between eyes
-(kujou sara:1.3), genshin impact, yellow eyes, purple hair, short hair, long hair, purple eyes, black hair
-(dodoco \(genshin impact\):1.3), genshin impact, red eyes, orange eyes, blonde hair, long hair, hair between eyes, light brown hair
-(clorinde \(genshin impact\):1.3), genshin impact, purple hair, long hair, blonde hair, blue hair, hair between eyes, very long hair, purple eyes
-(noelle \(genshin impact\):1.3), genshin impact, grey hair, green eyes, short hair
-(slime \(genshin impact\):1.3), genshin impact, blonde hair, long hair, multicolored hair, hair between eyes
-(lynette \(genshin impact\):1.3), genshin impact, multicolored hair, short hair, grey hair, long hair, blonde hair, purple eyes
-(dehya \(genshin impact\):1.3), genshin impact, two-tone hair, dark-skinned female, multicolored hair, brown hair, streaked hair, long hair, hair between eyes, blonde hair, blue eyes, dark skin, black hair
-(navia \(genshin impact\):1.3), genshin impact, drill hair, blonde hair, long hair, blue eyes, very long hair
-(beidou \(genshin impact\):1.3), genshin impact, brown hair, red eyes, long hair, white hair, black hair
-(lisa \(genshin impact\):1.3), genshin impact, brown hair, hair between eyes, long hair, green eyes, blonde hair
-(yanfei \(genshin impact\):1.3), genshin impact, pink hair, green eyes, long hair, hair between eyes
-(jumpy dumpty:1.3), genshin impact, red eyes, orange eyes, blonde hair, long hair, hair between eyes, light brown hair
-(aranara \(genshin impact\):1.3), genshin impact, gradient hair, multicolored hair, green hair, hair between eyes, long hair, green eyes, white hair
-(xiangling \(genshin impact\):1.3), genshin impact, brown hair, yellow eyes, short hair, long hair, blue hair, black hair
-(kirara \(genshin impact\):1.3), genshin impact, blonde hair, long hair, green eyes, brown hair
-(kuki shinobu:1.3), genshin impact, hair between eyes, green hair, long hair, purple eyes
-(rosaria \(genshin impact\):1.3), genshin impact, multicolored hair, red eyes, purple hair, short hair, streaked hair, hair between eyes, long hair, purple eyes, red hair
-(crystalfly \(genshin impact\):1.3), genshin impact, gradient hair, multicolored hair, green hair, hair between eyes, long hair, green eyes, white hair
-(keqing \(opulent splendor\) \(genshin impact\):1.3), genshin impact, long hair, purple hair, purple eyes
-(layla \(genshin impact\):1.3), genshin impact, drill hair, yellow eyes, long hair, hair between eyes, blue hair, very long hair
-(mavuika \(genshin impact\):1.3), genshin impact, orange hair, two-tone hair, multicolored hair, orange eyes, long hair, blonde hair, hair between eyes, very long hair, red hair
-(xianyun \(genshin impact\):1.3), genshin impact, two-tone hair, multicolored hair, aqua eyes, green hair, long hair, blue hair, very long hair, colored inner hair, black hair
-(chiori \(genshin impact\):1.3), genshin impact, drill hair, multicolored hair, brown hair, red eyes, long hair, blonde hair
-(kamisato ayaka \(springbloom missive\):1.3), genshin impact, long hair, blue hair, blue eyes, light blue hair
-(collei \(genshin impact\):1.3), genshin impact, multicolored hair, green hair, short hair, long hair, hair between eyes, purple eyes
-(sucrose \(genshin impact\):1.3), genshin impact, multicolored hair, yellow eyes, green hair, streaked hair, orange eyes, hair between eyes, long hair
-(guoba \(genshin impact\):1.3), genshin impact, brown hair, yellow eyes, short hair, closed eyes, long hair, hair between eyes, blue hair, black hair
-(yae miko \(fox\):1.3), genshin impact, long hair, purple hair, purple eyes, closed eyes
-(sigewinne \(genshin impact\):1.3), genshin impact, medium hair, multicolored hair, red eyes, purple hair, short hair, hair between eyes, long hair, blue hair, black hair
-(faruzan \(genshin impact\):1.3), genshin impact, long hair, green eyes, blue hair, aqua hair
-(surintendante chevalmarin:1.3), genshin impact, multicolored hair, short hair, streaked hair, hair between eyes, long hair, blue hair, blue eyes, light blue hair, white hair
-(yun jin \(genshin impact\):1.3), genshin impact, long hair, purple hair, red eyes, black hair
-(candace \(genshin impact\):1.3), genshin impact, dark-skinned female, yellow eyes, purple hair, long hair, blue hair, blue eyes, dark skin
-(sayu \(genshin impact\):1.3), genshin impact, red eyes, short hair, grey hair, long hair, hair between eyes, purple eyes
-(mualani \(genshin impact\):1.3), genshin impact, multicolored hair, red eyes, long hair, blue hair, white hair, dark skin
-(diona \(genshin impact\):1.3), genshin impact, pink hair, green eyes, long hair, short hair
-(focalors \(genshin impact\):1.3), genshin impact, multicolored hair, streaked hair, closed eyes, long hair, hair between eyes, blue hair, blue eyes, light blue hair, white hair, very long hair
-(charlotte \(genshin impact\):1.3), genshin impact, medium hair, aqua eyes, pink hair, short hair, long hair, green eyes, blue eyes
-(signora \(genshin impact\):1.3), genshin impact, blonde hair, blue eyes, long hair
-(baron bunny \(genshin impact\):1.3), genshin impact, hair between eyes, long hair, brown eyes, brown hair
-(columbina \(genshin impact\):1.3), genshin impact, two-tone hair, multicolored hair, pink hair, streaked hair, closed eyes, long hair, very long hair, red hair, black hair
-(klee \(blossoming starlight\) \(genshin impact\):1.3), genshin impact, hair between eyes, blonde hair, long hair, red eyes
-(gentilhomme usher:1.3), genshin impact, multicolored hair, short hair, streaked hair, hair between eyes, long hair, blue hair, blue eyes, light blue hair, white hair
-(mademoiselle crabaletta:1.3), genshin impact, multicolored hair, short hair, streaked hair, hair between eyes, long hair, blue hair, blue eyes, light blue hair, white hair
-(ningguang \(orchid's evening gown\) \(genshin impact\):1.3), genshin impact, very long hair, long hair, red eyes, white hair
-(emilie \(genshin impact\):1.3), genshin impact, multicolored hair, pink hair, short hair, blonde hair, pink eyes
-(yaoyao \(genshin impact\):1.3), genshin impact, brown eyes, brown hair, red eyes, short hair, long hair, bow-shaped hair
-(barbara \(summertime sparkle\) \(genshin impact\):1.3), genshin impact, drill hair, blonde hair, long hair, hair between eyes, blue eyes
-(fungi \(genshin impact\):1.3), genshin impact, gradient hair, multicolored hair, green hair, hair between eyes, long hair, green eyes, white hair
-(yuegui \(genshin impact\):1.3), genshin impact, brown eyes, brown hair, short hair, long hair, bow-shaped hair
-(nilou \(breeze of sabaa\) \(genshin impact\):1.3), genshin impact, very long hair, long hair, aqua eyes, red hair
-(shenhe \(frostflower dew\) \(genshin impact\):1.3), genshin impact, grey hair, long hair, blue hair, blue eyes, white hair, very long hair
-(oz \(genshin impact\):1.3), genshin impact, blonde hair, green eyes, long hair
-(guizhong \(genshin impact\):1.3), genshin impact, brown hair, multicolored hair, yellow eyes, closed eyes, grey hair, long hair, hair between eyes, blue eyes, black hair
-(jean \(sea breeze dandelion\) \(genshin impact\):1.3), genshin impact, blonde hair, blue eyes, long hair, hair between eyes
-(chevreuse \(genshin impact\):1.3), genshin impact, two-tone hair, multicolored hair, purple hair, streaked hair, pointy hair, long hair, hair between eyes, white hair, very long hair, purple eyes
-(xilonen \(genshin impact\):1.3), genshin impact, multicolored hair, blonde hair, green eyes, long hair, hair between eyes, dark skin
-(citlali \(genshin impact\):1.3), genshin impact, multicolored hair, pink hair, purple hair, long hair, hair between eyes, blue eyes, very long hair
-(rukkhadevata \(genshin impact\):1.3), genshin impact, gradient hair, multicolored hair, green hair, long hair, green eyes, hair between eyes, white hair, very long hair
-(ganyu \(twilight blossom\) \(genshin impact\):1.3), genshin impact, long hair, blue hair, purple eyes
-(cicin mage \(genshin impact\):1.3), genshin impact, green hair, short hair
-(raiden shogun \(magatsu mitake narukami no mikoto\):1.3), genshin impact, very long hair, long hair, purple hair, purple eyes
-(keqing \(lantern rite\) \(genshin impact\):1.3), genshin impact, long hair, purple hair, purple eyes, hair between eyes
-(arama \(genshin impact\):1.3), genshin impact, gradient hair, multicolored hair, green hair, long hair, green eyes, hair between eyes, blonde hair, white hair
-(fischl \(ein immernachtstraum\) \(genshin impact\):1.3), genshin impact, blonde hair, long hair, red eyes
-(skirk \(genshin impact\):1.3), genshin impact, red eyes, grey hair, long hair, hair between eyes, very long hair, pink eyes
-(dori \(genshin impact\):1.3), genshin impact, multicolored hair, yellow eyes, pink hair, green hair, short hair, long hair, hair between eyes, blonde hair
-(abyss mage \(genshin impact\):1.3), genshin impact, blonde hair, long hair, hair between eyes
-(noelle \(kfc\) \(genshin impact\):1.3), genshin impact, grey hair, green eyes, short hair
-(electro cicin mage \(genshin impact\):1.3), genshin impact, green hair, short hair
-(mona \(pact of stars and moon\) \(genshin impact\):1.3), genshin impact, purple hair, long hair, green eyes, hair between eyes, blue eyes, black hair
-(hina \(genshin impact\):1.3), genshin impact, two-tone hair, brown hair, multicolored hair, streaked hair, hair between eyes, long hair, green eyes, white hair
-(ganyu \(china merchants bank\) \(genshin impact\):1.3), genshin impact, long hair, blue hair, purple eyes
-(kamisato ayaka \(heytea\):1.3), genshin impact, long hair, blue hair, blue eyes, light blue hair, white hair, very long hair
-(mirror maiden \(genshin impact\):1.3), genshin impact, blonde hair, long hair, covered eyes
-(lisa \(a sobriquet under shade\) \(genshin impact\):1.3), genshin impact, medium hair, brown hair, hair between eyes, green eyes, long hair
-(ganyu \(young\) \(genshin impact\):1.3), genshin impact, hair between eyes, blue hair, long hair, purple eyes
-(muji-muji daruma \(genshin impact\):1.3), genshin impact, red eyes, short hair, grey hair, long hair, hair between eyes, purple eyes
-(kirara \(phantom in boots\) \(genshin impact\):1.3), genshin impact, blonde hair, long hair, green eyes, very long hair, red hair
+(ganyu \(genshin impact\):1.3), long hair, blue hair, purple eyes, hair between eyes
+(raiden shogun:1.3), low-tied long hair, low-braided long hair, purple hair, long hair, very long hair, purple eyes
+(lumine \(genshin impact\):1.3), yellow eyes, short hair, blonde hair, long hair, hair between eyes
+(hu tao \(genshin impact\):1.3), brown hair, red eyes, hair between eyes, long hair, very long hair
+(yae miko:1.3), pink hair, purple hair, long hair, hair between eyes, very long hair, purple eyes
+(furina \(genshin impact\):1.3), multicolored hair, streaked hair, long hair, hair between eyes, blue hair, blue eyes, light blue hair, white hair
+(nahida \(genshin impact\):1.3), gradient hair, multicolored hair, green hair, long hair, green eyes, hair between eyes, white hair
+(keqing \(genshin impact\):1.3), long hair, purple hair, purple eyes
+(mona \(genshin impact\):1.3), purple hair, long hair, green eyes, black hair
+(kamisato ayaka:1.3), long hair, blue hair, blue eyes, light blue hair
+(klee \(genshin impact\):1.3), red eyes, blonde hair, long hair, hair between eyes, light brown hair
+(eula \(genshin impact\):1.3), medium hair, yellow eyes, long hair, hair between eyes, blue hair, purple eyes
+(boo tao \(genshin impact\):1.3), brown hair, red eyes, hair between eyes, long hair, very long hair
+(shenhe \(genshin impact\):1.3), low-tied long hair, low-braided long hair, grey hair, long hair, blue hair, blue eyes, white hair, very long hair
+(yelan \(genshin impact\):1.3), multicolored hair, short hair, green eyes, blue hair, black hair
+(nilou \(genshin impact\):1.3), aqua eyes, long hair, blue eyes, very long hair, red hair
+(sangonomiya kokomi:1.3), gradient hair, multicolored hair, pink hair, long hair, blue hair, blue eyes, very long hair, bow-shaped hair, purple eyes
+(arlecchino \(genshin impact\):1.3), two-tone hair, multicolored hair, short hair, streaked hair, black eyes, grey hair, long hair, hair between eyes, white hair, black hair
+(fischl \(genshin impact\):1.3), blonde hair, green eyes, long hair
+(jean \(genshin impact\):1.3), blonde hair, blue eyes, long hair, hair between eyes
+(barbara \(genshin impact\):1.3), drill hair, blonde hair, long hair, hair between eyes, blue eyes
+(amber \(genshin impact\):1.3), hair between eyes, long hair, brown eyes, brown hair
+(ningguang \(genshin impact\):1.3), very long hair, long hair, red eyes, white hair
+(yoimiya \(genshin impact\):1.3), yellow eyes, orange eyes, blonde hair, long hair, hair between eyes
+(qiqi \(genshin impact\):1.3), long hair, purple hair, purple eyes, hair between eyes
+(kujou sara:1.3), yellow eyes, purple hair, short hair, long hair, purple eyes, black hair
+(dodoco \(genshin impact\):1.3), red eyes, orange eyes, blonde hair, long hair, hair between eyes, light brown hair
+(clorinde \(genshin impact\):1.3), purple hair, long hair, blonde hair, blue hair, hair between eyes, very long hair, purple eyes
+(noelle \(genshin impact\):1.3), grey hair, green eyes, short hair
+(slime \(genshin impact\):1.3), blonde hair, long hair, multicolored hair, hair between eyes
+(lynette \(genshin impact\):1.3), multicolored hair, short hair, grey hair, long hair, blonde hair, purple eyes
+(dehya \(genshin impact\):1.3), two-tone hair, dark-skinned female, multicolored hair, brown hair, streaked hair, long hair, hair between eyes, blonde hair, blue eyes, dark skin, black hair
+(navia \(genshin impact\):1.3), drill hair, blonde hair, long hair, blue eyes, very long hair
+(beidou \(genshin impact\):1.3), brown hair, red eyes, long hair, white hair, black hair
+(lisa \(genshin impact\):1.3), brown hair, hair between eyes, long hair, green eyes, blonde hair
+(yanfei \(genshin impact\):1.3), pink hair, green eyes, long hair, hair between eyes
+(jumpy dumpty:1.3), red eyes, orange eyes, blonde hair, long hair, hair between eyes, light brown hair
+(aranara \(genshin impact\):1.3), gradient hair, multicolored hair, green hair, hair between eyes, long hair, green eyes, white hair
+(xiangling \(genshin impact\):1.3), brown hair, yellow eyes, short hair, long hair, blue hair, black hair
+(kirara \(genshin impact\):1.3), blonde hair, long hair, green eyes, brown hair
+(kuki shinobu:1.3), hair between eyes, green hair, long hair, purple eyes
+(rosaria \(genshin impact\):1.3), multicolored hair, red eyes, purple hair, short hair, streaked hair, hair between eyes, long hair, purple eyes, red hair
+(crystalfly \(genshin impact\):1.3), gradient hair, multicolored hair, green hair, hair between eyes, long hair, green eyes, white hair
+(keqing \(opulent splendor\) \(genshin impact\):1.3), long hair, purple hair, purple eyes
+(layla \(genshin impact\):1.3), drill hair, yellow eyes, long hair, hair between eyes, blue hair, very long hair
+(mavuika \(genshin impact\):1.3), orange hair, two-tone hair, multicolored hair, orange eyes, long hair, blonde hair, hair between eyes, very long hair, red hair
+(xianyun \(genshin impact\):1.3), two-tone hair, multicolored hair, aqua eyes, green hair, long hair, blue hair, very long hair, colored inner hair, black hair
+(chiori \(genshin impact\):1.3), drill hair, multicolored hair, brown hair, red eyes, long hair, blonde hair
+(kamisato ayaka \(springbloom missive\):1.3), long hair, blue hair, blue eyes, light blue hair
+(collei \(genshin impact\):1.3), multicolored hair, green hair, short hair, long hair, hair between eyes, purple eyes
+(sucrose \(genshin impact\):1.3), multicolored hair, yellow eyes, green hair, streaked hair, orange eyes, hair between eyes, long hair
+(guoba \(genshin impact\):1.3), brown hair, yellow eyes, short hair, closed eyes, long hair, hair between eyes, blue hair, black hair
+(yae miko \(fox\):1.3), long hair, purple hair, purple eyes, closed eyes
+(sigewinne \(genshin impact\):1.3), medium hair, multicolored hair, red eyes, purple hair, short hair, hair between eyes, long hair, blue hair, black hair
+(faruzan \(genshin impact\):1.3), long hair, green eyes, blue hair, aqua hair
+(surintendante chevalmarin:1.3), multicolored hair, short hair, streaked hair, hair between eyes, long hair, blue hair, blue eyes, light blue hair, white hair
+(yun jin \(genshin impact\):1.3), long hair, purple hair, red eyes, black hair
+(candace \(genshin impact\):1.3), dark-skinned female, yellow eyes, purple hair, long hair, blue hair, blue eyes, dark skin
+(sayu \(genshin impact\):1.3), red eyes, short hair, grey hair, long hair, hair between eyes, purple eyes
+(mualani \(genshin impact\):1.3), multicolored hair, red eyes, long hair, blue hair, white hair, dark skin
+(diona \(genshin impact\):1.3), pink hair, green eyes, long hair, short hair
+(focalors \(genshin impact\):1.3), multicolored hair, streaked hair, closed eyes, long hair, hair between eyes, blue hair, blue eyes, light blue hair, white hair, very long hair
+(charlotte \(genshin impact\):1.3), medium hair, aqua eyes, pink hair, short hair, long hair, green eyes, blue eyes
+(signora \(genshin impact\):1.3), blonde hair, blue eyes, long hair
+(baron bunny \(genshin impact\):1.3), hair between eyes, long hair, brown eyes, brown hair
+(columbina \(genshin impact\):1.3), two-tone hair, multicolored hair, pink hair, streaked hair, closed eyes, long hair, very long hair, red hair, black hair
+(klee \(blossoming starlight\) \(genshin impact\):1.3), hair between eyes, blonde hair, long hair, red eyes
+(gentilhomme usher:1.3), multicolored hair, short hair, streaked hair, hair between eyes, long hair, blue hair, blue eyes, light blue hair, white hair
+(mademoiselle crabaletta:1.3), multicolored hair, short hair, streaked hair, hair between eyes, long hair, blue hair, blue eyes, light blue hair, white hair
+(ningguang \(orchid's evening gown\) \(genshin impact\):1.3), very long hair, long hair, red eyes, white hair
+(emilie \(genshin impact\):1.3), multicolored hair, pink hair, short hair, blonde hair, pink eyes
+(yaoyao \(genshin impact\):1.3), brown eyes, brown hair, red eyes, short hair, long hair, bow-shaped hair
+(barbara \(summertime sparkle\) \(genshin impact\):1.3), drill hair, blonde hair, long hair, hair between eyes, blue eyes
+(fungi \(genshin impact\):1.3), gradient hair, multicolored hair, green hair, hair between eyes, long hair, green eyes, white hair
+(yuegui \(genshin impact\):1.3), brown eyes, brown hair, short hair, long hair, bow-shaped hair
+(nilou \(breeze of sabaa\) \(genshin impact\):1.3), very long hair, long hair, aqua eyes, red hair
+(shenhe \(frostflower dew\) \(genshin impact\):1.3), grey hair, long hair, blue hair, blue eyes, white hair, very long hair
+(oz \(genshin impact\):1.3), blonde hair, green eyes, long hair
+(guizhong \(genshin impact\):1.3), brown hair, multicolored hair, yellow eyes, closed eyes, grey hair, long hair, hair between eyes, blue eyes, black hair
+(jean \(sea breeze dandelion\) \(genshin impact\):1.3), blonde hair, blue eyes, long hair, hair between eyes
+(chevreuse \(genshin impact\):1.3), two-tone hair, multicolored hair, purple hair, streaked hair, pointy hair, long hair, hair between eyes, white hair, very long hair, purple eyes
+(xilonen \(genshin impact\):1.3), multicolored hair, blonde hair, green eyes, long hair, hair between eyes, dark skin
+(citlali \(genshin impact\):1.3), multicolored hair, pink hair, purple hair, long hair, hair between eyes, blue eyes, very long hair
+(rukkhadevata \(genshin impact\):1.3), gradient hair, multicolored hair, green hair, long hair, green eyes, hair between eyes, white hair, very long hair
+(ganyu \(twilight blossom\) \(genshin impact\):1.3), long hair, blue hair, purple eyes
+(cicin mage \(genshin impact\):1.3), green hair, short hair
+(raiden shogun \(magatsu mitake narukami no mikoto\):1.3), very long hair, long hair, purple hair, purple eyes
+(keqing \(lantern rite\) \(genshin impact\):1.3), long hair, purple hair, purple eyes, hair between eyes
+(arama \(genshin impact\):1.3), gradient hair, multicolored hair, green hair, long hair, green eyes, hair between eyes, blonde hair, white hair
+(fischl \(ein immernachtstraum\) \(genshin impact\):1.3), blonde hair, long hair, red eyes
+(skirk \(genshin impact\):1.3), red eyes, grey hair, long hair, hair between eyes, very long hair, pink eyes
+(dori \(genshin impact\):1.3), multicolored hair, yellow eyes, pink hair, green hair, short hair, long hair, hair between eyes, blonde hair
+(abyss mage \(genshin impact\):1.3), blonde hair, long hair, hair between eyes
+(noelle \(kfc\) \(genshin impact\):1.3), grey hair, green eyes, short hair
+(electro cicin mage \(genshin impact\):1.3), green hair, short hair
+(mona \(pact of stars and moon\) \(genshin impact\):1.3), purple hair, long hair, green eyes, hair between eyes, blue eyes, black hair
+(hina \(genshin impact\):1.3), two-tone hair, brown hair, multicolored hair, streaked hair, hair between eyes, long hair, green eyes, white hair
+(ganyu \(china merchants bank\) \(genshin impact\):1.3), long hair, blue hair, purple eyes
+(kamisato ayaka \(heytea\):1.3), long hair, blue hair, blue eyes, light blue hair, white hair, very long hair
+(mirror maiden \(genshin impact\):1.3), blonde hair, long hair, covered eyes
+(lisa \(a sobriquet under shade\) \(genshin impact\):1.3), medium hair, brown hair, hair between eyes, green eyes, long hair
+(ganyu \(young\) \(genshin impact\):1.3), hair between eyes, blue hair, long hair, purple eyes
+(muji-muji daruma \(genshin impact\):1.3), red eyes, short hair, grey hair, long hair, hair between eyes, purple eyes
+(kirara \(phantom in boots\) \(genshin impact\):1.3), blonde hair, long hair, green eyes, very long hair, red hair
+(aether \(genshin impact\):1.3), braid, hair between eyes, ahoge, long hair, blonde hair
+(lumine \(genshin impact\):1.3), short hair with long locks, hair ornament, hair between eyes, hair flower, yellow eyes, blonde hair
+(paimon \(genshin impact\):1.3), hair ornament, hair between eyes, white hair, long hair, blonde hair
+(albedo \(genshin impact\):1.3), hair between eyes, blonde hair
+(mika \(genshin impact\):1.3), short hair, blue eyes, hair between eyes, blonde hair
+(lisa \(a sobriquet under shade\) \(genshin impact\):1.3), hair ornament, green eyes, braid, hair flower, long hair, twin braids, brown hair
+(klee \(blossoming starlight\) \(genshin impact\):1.3), twintails, hair between eyes, red eyes, ahoge, long hair, pointy ears, blonde hair
+(jean \(sea breeze dandelion\) \(genshin impact\):1.3), hair between eyes, blue eyes, hair bow, ponytail, long hair, blonde hair
+(fischl \(ein immernachtstraum\) \(genshin impact\):1.3), red eyes, eyepatch, hair over one eye, long hair, blonde hair
+(diluc \(red dead of night\) \(genshin impact\):1.3), red hair, hair between eyes, red eyes, ponytail, long hair
+(barbara \(summertime sparkle\) \(genshin impact\):1.3), twintails, hair ornament, blue eyes, drill hair, long hair, blonde hair
+(venti \(genshin impact\):1.3), gradient hair, green eyes, braid, black hair, blue hair, multicolored hair, twin braids
+(sucrose \(genshin impact\):1.3), animal ears, hair between eyes, semi-rimless eyewear, multicolored hair, green hair, long hair
+(razor \(genshin impact\):1.3), long hair, hair between eyes, red eyes, grey hair
+(rosaria \(genshin impact\):1.3), purple hair, red hair, multicolored hair, short hair
+(noelle \(genshin impact\):1.3), short hair, hair ornament, grey hair, green eyes, braid, hair flower
+(mona \(genshin impact\):1.3), long hair, ponytail holder, black hair, twintails
+(lisa \(genshin impact\):1.3), green eyes, long hair, hair ornament, brown hair
+(klee \(genshin impact\):1.3), twintails, hair between eyes, low twintails, red eyes, ahoge, long hair, pointy ears, blonde hair
+(jean \(genshin impact\):1.3), hair between eyes, blue eyes, ponytail, long hair, blonde hair
+(fischl \(genshin impact\):1.3), hair ribbon, green eyes, eyepatch, hair over one eye, bat ornament, long hair, blonde hair
+(eula \(genshin impact\):1.3), hair ornament, hairband, black hairband, blue hair, medium hair
+(diluc \(genshin impact\):1.3), red hair, hair between eyes, red eyes, ponytail, long hair
+(diona \(genshin impact\):1.3), tail, short hair, cat tail, cat ears, animal ears, bangs pinned back, green eyes, animal ear fluff, pink hair
+(bennett \(genshin impact\):1.3), short hair, green eyes, hair between eyes, white hair, long hair, blonde hair
+(collei \(genshin impact\):1.3), hair ornament, hair between eyes, purple eyes, green hair, long hair
+(barbara \(genshin impact\):1.3), twintails, blue eyes, drill hair, long hair, blonde hair
+(amber \(genshin impact\):1.3), long hair, hair between eyes, brown hair
+(baizhu \(genshin impact\):1.3), hair ornament, braid, hair between eyes, green hair, yellow eyes, long hair
+(xingqiu \(bamboo rain\) \(genshin impact\):1.3), short hair, hair between eyes, blue hair, ponytail, yellow eyes, short ponytail
+(makoto \(genshin impact\):1.3), blunt bangs, hair ornament, braid, purple eyes, purple hair, long hair
+(keqing \(opulent splendor\) \(genshin impact\):1.3), cone hair bun, twintails, purple eyes, hair bun, purple hair, long hair
+(ganyu \(twilight blossom\) \(genshin impact\):1.3), hair ornament, purple eyes, blue hair, ahoge, long hair
+(gaming \(genshin impact\):1.3), red hair, hair between eyes, multicolored hair, ahoge, brown eyes, brown hair
+(guizhong \(genshin impact\):1.3), hair ornament, grey hair, blue eyes, long hair, brown hair
+(zhongli \(archon\) \(genshin impact\):1.3), gradient hair, hair between eyes, black hair, multicolored hair, ponytail, yellow eyes, long hair, brown hair
+(yun jin \(genshin impact\):1.3), long hair, black hair, blunt bangs, red eyes
+(yanfei \(genshin impact\):1.3), long hair, pink hair, hair between eyes, green eyes
+(yaoyao \(genshin impact\):1.3), hair ornament, braid, hair bell, long hair, bow-shaped hair, brown eyes, brown hair
+(yelan \(genshin impact\):1.3), short hair, green eyes, black hair, blue hair, diagonal bangs
+(xinyan \(genshin impact\):1.3), red hair, twintails, streaked hair, black hair, dark-skinned female, dark skin, multicolored hair, yellow eyes, long hair, brown hair
+(xingqiu \(genshin impact\):1.3), short hair, blue hair, earrings, yellow eyes
+(xianyun \(genshin impact\):1.3), hair ornament, red-framed eyewear, black hair, colored inner hair, multicolored hair, green hair, long hair
+(xiangling \(genshin impact\):1.3), short hair, hair ornament, braid, hair rings, blue hair, yellow eyes, long hair
+(shenhe \(genshin impact\):1.3), hair ornament, braid, blue eyes, hair over one eye, white hair, long hair
+(ningguang \(genshin impact\):1.3), white hair, long hair, hair ornament, red eyes
+(ningguang \(orchid's evening gown\) \(genshin impact\):1.3), hair ornament, red eyes, tassel hair ornament, white hair, long hair
+(qiqi \(genshin impact\):1.3), hair ornament, braid, coin hair ornament, purple eyes, purple hair, long hair
+(keqing \(genshin impact\):1.3), cone hair bun, twintails, hair ornament, purple eyes, hair bun, purple hair, long hair
+(guoba \(genshin impact\):1.3), short hair, hair ornament, braid, blue hair, yellow eyes, long hair
+(hu tao \(genshin impact\):1.3), twintails, hair between eyes, red eyes, long hair, brown hair
+(ganyu \(genshin impact\):1.3), long hair, blue hair, purple eyes, ahoge
+(chongyun \(genshin impact\):1.3), short hair, blue hair, hair between eyes, blue eyes
+(beidou \(genshin impact\):1.3), hair ornament, red eyes, eyepatch, long hair, brown hair, colored eyepatch
+(madame ping \(genshin impact\):1.3), hair ornament, grey hair, blue hair, long hair, brown hair
+(indarias \(genshin impact\):1.3), red hair, closed eyes, blue hair, multicolored hair, long hair
+(zhiqiong \(genshin impact\):1.3), hair bun, black hair
+(hina \(genshin impact\):1.3), tail, dog ears, hair ornament, animal ears, green eyes, dog tail, streaked hair, hair between eyes, multicolored hair, white hair, long hair, brown hair
+(kitsune saiguu:1.3), short hair, hair ornament, animal ears, hair between eyes, purple eyes, fox ears, purple hair, white hair, long hair
+(kamisato ayaka \(heytea\):1.3), hair ribbon, blunt bangs, blue eyes, blue hair, hair bow, mole under eye, ponytail, long hair
+(kamisato ayaka \(springbloom missive\):1.3), blunt bangs, hair ornament, braid, butterfly hair ornament, hair flower, blue hair, blue eyes, mole under eye, official alternate hairstyle
+(yoimiya \(genshin impact\):1.3), yellow eyes, hair ornament, blonde hair, ponytail
+(yae miko:1.3), earrings, hair ornament, animal ears, hair between eyes, purple eyes, long hair, fox ears, pink hair
+(thoma \(genshin impact\):1.3), green eyes, hair between eyes, ahoge, ponytail, long hair, blonde hair
+(shikanoin heizou:1.3), red hair, green eyes, streaked hair, hair between eyes, multicolored hair, mole under eye, ponytail, ahoge, long hair
+(sayu \(genshin impact\):1.3), short hair, tail, blunt bangs, animal ears, grey hair, purple eyes, raccoon ears, fake animal ears
+(raiden shogun:1.3), hair ornament, low-braided long hair, braid, purple eyes, mole under eye, fan hair ornament, purple hair, long hair
+(kujou sara:1.3), short hair, long hair, black hair, yellow eyes
+(kuki shinobu:1.3), hair between eyes, purple eyes, green hair, ponytail
+(kirara \(genshin impact\):1.3), tail, cat tail, cat ears, hair ornament, animal ears, green eyes, blonde hair, multiple tails, two tails, ahoge, long hair, brown hair
+(kamisato ayaka:1.3), hair ribbon, blunt bangs, hair ornament, blue hair, blue eyes, mole under eye, ponytail, long hair
+(kamisato ayato:1.3), long hair, blue hair, hair between eyes, blue eyes
+(kaedehara kazuha:1.3), red hair, streaked hair, hair between eyes, red eyes, multicolored hair, ponytail, white hair
+(gorou \(genshin impact\):1.3), tail, dog ears, hair ornament, animal ears, dog tail, streaked hair, hair between eyes, multicolored hair, white hair, brown hair
+(arataki itto:1.3), multicolored hair, red eyes, red hair, long hair, white hair
+(raiden shogun \(magatsu mitake narukami no mikoto\):1.3), purple hair, mole under eye, hair ornament, long hair, purple eyes
+(chiori \(genshin impact\):1.3), hair ornament, blonde hair, red eyes, multicolored hair, drill hair, long hair, brown hair
+(alhaitham \(genshin impact\):1.3), short hair, grey hair, green eyes, hair between eyes, multicolored hair, hair over one eye, blonde hair
+(rukkhadevata \(genshin impact\):1.3), hair ornament, gradient hair, green eyes, braid, hair between eyes, multicolored hair, green hair, very long hair, white hair, long hair, leaf hair ornament, pointy ears
+(sethos \(genshin impact\):1.3), hair ornament, grey hair, green eyes, hair between eyes, dark-skinned male, dark skin, multicolored hair, long hair, brown hair
+(tighnari \(genshin impact\):1.3), short hair, tail, animal ears, green eyes, streaked hair, black hair, hair between eyes, fox ears, multicolored hair, green hair, animal ear fluff
+(nahida \(genshin impact\):1.3), half crown braid, hair ornament, gradient hair, green eyes, hair between eyes, stirrup footwear, multicolored hair, green hair, leaf hair ornament, white hair, long hair, pointy ears, side ponytail
+(nilou \(genshin impact\):1.3), long hair, red hair, twintails
+(faruzan \(genshin impact\):1.3), aqua hair, twintails, hair ornament, green eyes, x hair ornament, long hair
+(layla \(genshin impact\):1.3), hair between eyes, blue hair, drill hair, very long hair, yellow eyes, long hair, pointy ears
+(kaveh \(genshin impact\):1.3), short hair, earrings, hair ornament, grey hair, hair between eyes, feather hair ornament, red eyes, long hair, blonde hair
+(dori \(genshin impact\):1.3), hair ornament, hair between eyes, long hair, ahoge, yellow eyes, pink hair, tinted eyewear
+(dehya \(genshin impact\):1.3), earrings, streaked hair, hair between eyes, black hair, dark-skinned female, blue eyes, dark skin, multicolored hair, long hair, blonde hair, crossed bangs
+(candace \(genshin impact\):1.3), short hair with long locks, hair ornament, dark-skinned female, eye of horus, blue hair, dark skin, blue eyes, yellow eyes, long hair
+(cyno \(genshin impact\):1.3), animal ears, red eyes, dark-skinned male, dark skin, fox ears, multicolored hair, hair over one eye, green hair, white hair, long hair
+(chevreuse \(genshin impact\):1.3), pointy hair, earmuffs around neck, streaked hair, purple eyes, earmuffs, eyepatch, multicolored hair, very long hair, purple hair, long hair, white hair, two-tone hair
+(sigewinne \(genshin impact\):1.3), twintails, hair ornament, animal ears, hair between eyes, red eyes, low twintails, blue hair, multicolored hair
+(wriothesley \(genshin impact\):1.3), short hair, earrings, grey hair, streaked hair, black hair, hair between eyes, blue eyes, multicolored hair
+(focalors \(genshin impact\):1.3), streaked hair, hair between eyes, blue hair, blue eyes, multicolored hair, ahoge, white hair, long hair
+(navia \(genshin impact\):1.3), ship's wheel ornament, blue eyes, very long hair, drill hair, long hair, blonde hair
+(neuvillette \(genshin impact\):1.3), streaked hair, hair between eyes, blue hair, multicolored hair, white hair, long hair
+(lynette \(genshin impact\):1.3), tail, cat tail, cat ears, animal ears, grey hair, purple eyes, long hair
+(lyney \(genshin impact\):1.3), short hair, cat ears, animal ears, grey hair, purple eyes, teardrop facial mark, blonde hair
+(freminet \(genshin impact\):1.3), short hair, blue eyes, blonde hair, hair over one eye
+(furina \(genshin impact\):1.3), streaked hair, hair between eyes, eyelash ornament, blue hair, blue eyes, multicolored hair, ahoge, white hair, long hair
+(charlotte \(genshin impact\):1.3), short hair, pink hair
+(clorinde \(genshin impact\):1.3), long hair, blue hair, purple eyes
+(arlecchino \(genshin impact\):1.3), streaked hair, black hair, black eyes, multicolored hair, white hair, long hair
+(clervie \(genshin impact\):1.3), pink hair, short hair, hairband, streaked hair, black hair, white hairband, black eyes, multicolored hair, ahoge, white hair, long hair, two-tone hair
+(dottore \(genshin impact\):1.3), short hair, blue hair, earrings
+(tartaglia \(genshin impact\):1.3), short hair, earrings, hair between eyes, blue eyes, orange hair
+(signora \(genshin impact\):1.3), long hair, blue eyes, blonde hair, lace-trimmed eyepatch
+(columbina \(genshin impact\):1.3), pink hair, black hair, closed eyes, x-shaped eyewear, multicolored hair, long hair, eye mask
+(dainsleif \(genshin impact\):1.3), short hair, hair between eyes, blue eyes, half eye mask, blonde hair
+(kaeya alberich:1.3), earrings, hair between eyes, dark-skinned male, blue hair, eyepatch, dark skin, blue eyes, ponytail, long hair
+(kaeya \(sailwind shadow\) \(genshin impact\):1.3), hair over shoulder, one eye covered, earrings, braid, streaked hair, hair between eyes, single braid, dark-skinned male, blue hair, eyepatch, dark skin, blue eyes, multicolored hair, long hair, parted bangs
+(skirk \(genshin impact\):1.3), hair ornament, grey hair, hair between eyes, red eyes, very long hair, white hair, long hair

@@ -1,220 +1,363 @@
-(doctor \(arknights\):1.3), arknights, long hair, animal ears
-(amiya \(arknights\):1.3), arknights, rabbit ears, hair between eyes, blue eyes, long hair, brown hair, animal ears
-(texas \(arknights\):1.3), arknights, wolf ears, hair between eyes, red hair, long hair, black hair, animal ears
-(lappland \(arknights\):1.3), arknights, grey eyes, white hair, wolf ears, hair between eyes, grey hair, long hair, black hair, very long hair, animal ears
-(skadi \(arknights\):1.3), arknights, white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
-(suzuran \(arknights\):1.3), arknights, white hair, multicolored hair, two-tone hair, long hair, green eyes, blonde hair, animal ears, fox ears
-(kal'tsit \(arknights\):1.3), arknights, short hair, grey hair, long hair, green eyes, animal ears, green hair, cat ears
-(ch'en \(arknights\):1.3), arknights, blue hair, hair between eyes, red eyes, long hair
-(exusiai \(arknights\):1.3), arknights, short hair, hair between eyes, red hair, red eyes, long hair, animal ears
-(mudrock \(arknights\):1.3), arknights, white hair, grey hair, pointy ears, red eyes, long hair
-(surtr \(arknights\):1.3), arknights, hair between eyes, red hair, long hair, purple eyes, very long hair
-(w \(arknights\):1.3), arknights, antenna hair, short hair, multicolored hair, red hair, grey hair, red eyes
-(saria \(arknights\):1.3), arknights, grey hair, brown hair, orange eyes, long hair
-(mostima \(arknights\):1.3), arknights, short hair, blue hair, hair between eyes, red hair, blue eyes, long hair
-(nian \(arknights\):1.3), arknights, colored skin, white hair, multicolored hair, streaked hair, pointy ears, red hair, long hair, black hair, purple eyes, red skin
-(dusk \(arknights\):1.3), arknights, colored skin, multicolored hair, streaked hair, pointy ears, red eyes, long hair, black hair, green skin, very long hair
-(specter \(arknights\):1.3), arknights, white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
-(angelina \(arknights\):1.3), arknights, red eyes, long hair, brown hair, animal ears, fox ears
-(skadi the corrupting heart \(arknights\):1.3), arknights, white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
-(goldenglow \(arknights\):1.3), arknights, yellow eyes, long hair, animal ears, floppy ears, pink hair, cat ears
-(blue poison \(arknights\):1.3), arknights, pink hair, blue eyes, long hair
-(irene \(arknights\):1.3), arknights, grey eyes, grey hair, very long hair, long hair
-(shu \(arknights\):1.3), arknights, grey eyes, white hair, blue hair, multicolored hair, grey hair, pointy ears, hair between eyes, long hair, very long hair, purple hair, blonde hair
-(eyjafjalla \(arknights\):1.3), arknights, pink eyes, red eyes, long hair, brown hair, sheep ears, animal ears
-(schwarz \(arknights\):1.3), arknights, yellow eyes, hair between eyes, grey hair, long hair, very long hair, animal ears, cat ears
-(hoshiguma \(arknights\):1.3), arknights, yellow eyes, blue hair, hair between eyes, red eyes, long hair, skin-covered horns, green hair
-(sussurro \(arknights\):1.3), arknights, short hair, blue eyes, brown hair, animal ears, fox ears
-(siege \(arknights\):1.3), arknights, brown eyes, yellow eyes, hair between eyes, long hair, brown hair, animal ears, blonde hair, lion ears
-(blaze \(arknights\):1.3), arknights, hair between eyes, blue eyes, black hair, long hair, very long hair, animal ears, cat ears
-(ceobe \(arknights\):1.3), arknights, hair between eyes, red eyes, long hair, brown hair, very long hair, animal ears, dog ears
-(swire \(arknights\):1.3), arknights, drill hair, blue hair, long hair, green eyes, very long hair, animal ears, tiger ears, blonde hair
-(virtuosa \(arknights\):1.3), arknights, multicolored hair, grey hair, two-tone hair, black hair, long hair, black eyes, very long hair, pale skin, straight hair, colored inner hair
-(jessica \(arknights\):1.3), arknights, blue hair, multicolored hair, long hair, black hair, green eyes, animal ears, purple hair, cat ears
-(fiammetta \(arknights\):1.3), arknights, short hair, blue hair, bird ears, red hair, red eyes, hair between eyes, long hair, animal ears
-(penance \(arknights\):1.3), arknights, yellow eyes, wolf ears, hair between eyes, grey hair, long hair, brown hair, extra ears, animal ears
-(ho'olheyak \(arknights\):1.3), arknights, medium hair, aqua eyes, hair between eyes, grey hair
-(utage \(arknights\):1.3), arknights, short hair, brown hair, purple eyes, animal ears, blonde hair, skin fang
-(pramanix \(arknights\):1.3), arknights, grey eyes, white hair, snow leopard ears, hair between eyes, grey hair, long hair, leopard ears, very long hair, animal ears
-(muelsyse \(arknights\):1.3), arknights, yellow eyes, pointy ears, long hair, brown hair, very long hair
-(ptilopsis \(arknights\):1.3), arknights, white hair, orange eyes, yellow eyes, grey hair, long hair, owl ears, animal ears, feather hair
-(platinum \(arknights\):1.3), arknights, brown eyes, yellow eyes, white hair, horse ears, long hair, very long hair, animal ears
-(la pluma \(arknights\):1.3), arknights, feather hair, black eyes, short hair, black hair
-(blue poison \(shoal beat\) \(arknights\):1.3), arknights, pink hair, blue eyes, long hair
-(projekt red \(arknights\):1.3), arknights, yellow eyes, wolf ears, hair between eyes, grey hair, long hair, animal ears
-(bagpipe \(arknights\):1.3), arknights, purple eyes, orange hair, very long hair, long hair
-(tomimi \(arknights\):1.3), arknights, yellow eyes, white hair, multicolored hair, grey hair, pointy ears, long hair
-(texas the omertosa \(arknights\):1.3), arknights, yellow eyes, wolf ears, hair between eyes, long hair, black hair, animal ears
-(ling \(arknights\):1.3), arknights, white hair, blue hair, multicolored hair, streaked hair, pointy ears, blue eyes, long hair, purple eyes, very long hair
-(specter the unchained \(arknights\):1.3), arknights, white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
-(astesia \(arknights\):1.3), arknights, blue hair, blue eyes, long hair
-(lin \(arknights\):1.3), arknights, pink eyes, hair between eyes, long hair, mouse ears, purple eyes, animal ears, pink hair
-(saga \(arknights\):1.3), arknights, brown eyes, black hair, long hair, very long hair, animal ears, dog ears
-(mudrock \(elite ii\) \(arknights\):1.3), arknights, white hair, grey hair, pointy ears, red eyes, long hair
-(aurora \(arknights\):1.3), arknights, white hair, eyes visible through hair, grey hair, blue eyes, long hair, very long hair, animal ears, bear ears
-(frostnova \(arknights\):1.3), arknights, grey eyes, rabbit ears, white hair, grey hair, long hair, animal ears
-(gravel \(arknights\):1.3), arknights, brown eyes, hair between eyes, long hair, very long hair, animal ears, pink hair
-(rosmontis \(arknights\):1.3), arknights, white hair, rabbit ears, grey hair, blue eyes, long hair, brown hair, green eyes, animal ears, cat ears
-(magallan \(arknights\):1.3), arknights, white hair, short hair, yellow eyes, multicolored hair, streaked hair, hair between eyes, brown hair, two-tone hair
-(myrtle \(arknights\):1.3), arknights, red hair, pointy ears, long hair, brown hair, green eyes, very long hair
-(feater \(arknights\):1.3), arknights, multicolored hair, grey hair, streaked hair, panda ears, black hair, long hair, red eyes, animal ears, two-tone hair
-(whislash \(arknights\):1.3), arknights, horse ears, blue eyes, long hair, animal ears, blonde hair
-(gavial \(arknights\):1.3), arknights, yellow eyes, antenna hair, hair between eyes, pointy ears, long hair, green hair
-(texas \(willpower\) \(arknights\):1.3), arknights, wolf ears, hair between eyes, red eyes, black hair, long hair, animal ears
-(lappland \(refined horrormare\) \(arknights\):1.3), arknights, grey eyes, white hair, wolf ears, hair between eyes, grey hair, blue eyes, long hair, black hair, animal ears
-(eunectes \(arknights\):1.3), arknights, short hair, blue hair, multicolored hair, pointy ears, blue eyes, black hair
-(suzuran \(spring praise\) \(arknights\):1.3), arknights, white hair, multicolored hair, two-tone hair, long hair, green eyes, blonde hair, animal ears, fox ears
-(weedy \(arknights\):1.3), arknights, white hair, grey hair, red eyes, long hair, very long hair
-(gladiia \(arknights\):1.3), arknights, white hair, grey hair, pointy ears, red eyes, long hair, very long hair
-(reed \(arknights\):1.3), arknights, green eyes, blonde hair, long hair
-(frostleaf \(arknights\):1.3), arknights, white hair, grey hair, red eyes, long hair, implied extra ears, animal ears, fox ears
-(skadi \(waverider\) \(arknights\):1.3), arknights, white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
-(warfarin \(arknights\):1.3), arknights, white hair, hair between eyes, grey hair, pointy ears, red eyes, long hair, very long hair, animal ears
-(shining \(arknights\):1.3), arknights, brown eyes, white hair, hair between eyes, grey hair, pointy ears, red eyes, long hair, very long hair, blonde hair
-(rosa \(arknights\):1.3), arknights, white hair, blue hair, multicolored hair, streaked hair, red eyes, blue eyes, long hair, hair between eyes, red hair, very long hair, animal ears, bear ears
-(theresa \(arknights\):1.3), arknights, hair between eyes, long hair, brown hair, very long hair, animal ears, pink hair
-(kroos \(arknights\):1.3), arknights, rabbit ears, long hair, animal ears, closed eyes, blonde hair
-(beeswax \(arknights\):1.3), arknights, goat ears, yellow eyes, white hair, hair between eyes, long hair, dark skin, animal ears, dark-skinned female
-(harmonie \(arknights\):1.3), arknights, long hair, green eyes, very long hair, animal ears, green hair, cat ears
-(ch'en the holungday \(arknights\):1.3), arknights, blue hair, hair between eyes, red eyes, long hair
-(vigna \(arknights\):1.3), arknights, red hair, pointy ears, red eyes, long hair, very long hair
-(carnelian \(arknights\):1.3), arknights, goat ears, white hair, short hair, grey hair, red eyes, dark skin, animal ears, dark-skinned female
-(provence \(arknights\):1.3), arknights, yellow eyes, wolf ears, hair between eyes, grey hair, long hair, animal ears, purple hair
-(dorothy \(arknights\):1.3), arknights, yellow eyes, hair between eyes, long hair, mouse ears, very long hair, animal ears, blonde hair
-(surtr \(liberte echec\) \(arknights\):1.3), arknights, hair between eyes, red hair, long hair, purple eyes, very long hair
-(texas \(winter messenger\) \(arknights\):1.3), arknights, brown eyes, orange eyes, wolf ears, multicolored hair, red hair, hair between eyes, long hair, black hair, animal ears, two-tone hair, colored inner hair
-(mudrock \(silent night\) \(arknights\):1.3), arknights, white hair, grey hair, pointy ears, red eyes, long hair, very long hair
-(saileach \(arknights\):1.3), arknights, hair between eyes, pointy ears, blue eyes, long hair, very long hair, blonde hair
-(eyjafjalla \(summer flower\) \(arknights\):1.3), arknights, pink eyes, red eyes, long hair, brown hair, sheep ears, animal ears
-(hibiscus \(arknights\):1.3), arknights, short hair, pointy ears, long hair, purple eyes, animal ears, closed eyes, purple hair
-(viviana \(arknights\):1.3), arknights, hair between eyes, deer ears, blue eyes, long hair, very long hair, animal ears, blonde hair
-(robin \(arknights\):1.3), arknights, yellow eyes, hair between eyes, multicolored hair, long hair, brown hair, raccoon ears, animal ears
-(nightingale \(arknights\):1.3), arknights, blue eyes, long hair, very long hair, animal ears, blonde hair
-(shamare \(arknights\):1.3), arknights, short hair, hair between eyes, pink eyes, red eyes, long hair, animal ears, blonde hair, purple hair, pink hair, fox ears
-(waai fu \(arknights\):1.3), arknights, white hair, short hair, orange eyes, orange hair, multicolored hair, hair between eyes, black hair, animal ears, tiger ears
-(pozyomka \(arknights\):1.3), arknights, wolf ears, pink eyes, hair between eyes, long hair, very long hair, animal ears, pink hair
-(surtr \(colorful wonderland\) \(arknights\):1.3), arknights, hair between eyes, red hair, long hair, purple eyes, very long hair
-(nian \(unfettered freedom\) \(arknights\):1.3), arknights, colored skin, white hair, multicolored hair, streaked hair, pointy ears, red hair, long hair, purple eyes, gradient skin, red skin
-(utage \(summer flowers\) \(arknights\):1.3), arknights, short hair, long hair, brown hair, purple eyes, animal ears, blonde hair, skin fang
-(sideroca \(arknights\):1.3), arknights, cow ears, yellow eyes, short hair, animal ears, purple hair
-(flametail \(arknights\):1.3), arknights, squirrel ears, brown eyes, red hair, red eyes, long hair, animal ears
-(nearl the radiant knight \(arknights\):1.3), arknights, yellow eyes, horse ears, long hair, implied extra ears, animal ears, blonde hair
-(dobermann \(arknights\):1.3), arknights, brown eyes, black hair, long hair, animal ears, dog ears
-(perfumer \(arknights\):1.3), arknights, brown eyes, long hair, brown hair, animal ears, fox ears
-(kroos the keen glint \(arknights\):1.3), arknights, rabbit ears, long hair, very long hair, animal ears, closed eyes, blonde hair
-(typhon \(arknights\):1.3), arknights, pink eyes, hair between eyes, red eyes, long hair, purple eyes, very long hair, purple hair
-(horn \(arknights\):1.3), arknights, wolf ears, blue eyes, long hair, very long hair, animal ears, blonde hair
-(whisperain \(arknights\):1.3), arknights, short hair, blue eyes, long hair, purple eyes, purple hair
-(manticore \(arknights\):1.3), arknights, purple eyes, purple hair, pointy ears, long hair
-(archetto \(arknights\):1.3), arknights, red eyes, blue eyes, long hair, brown hair, very long hair, animal ears, blonde hair
-(suzuran \(yukibare\) \(arknights\):1.3), arknights, white hair, multicolored hair, two-tone hair, long hair, green eyes, blonde hair, animal ears, fox ears
-(ray \(arknights\):1.3), arknights, rabbit ears, red hair, long hair, purple eyes, very long hair, animal ears, purple hair
-(degenbrecher \(arknights\):1.3), arknights, yellow eyes, hair between eyes, long hair, very long hair, animal ears, goat ears, blonde hair
-(ines \(arknights\):1.3), arknights, very long hair, long hair, yellow eyes, black hair
-(pinecone \(arknights\):1.3), arknights, feather hair, orange hair, brown eyes, long hair
-(angelina \(distinguished visitor\) \(arknights\):1.3), arknights, red eyes, long hair, brown hair, very long hair, animal ears, fox ears
-(goldenglow \(summer flowers\) \(arknights\):1.3), arknights, yellow eyes, short hair, long hair, animal ears, floppy ears, pink hair, cat ears
-(vermeil \(arknights\):1.3), arknights, short hair, orange eyes, hair between eyes, blonde hair, animal ears, fox ears
-(shaw \(arknights\):1.3), arknights, squirrel ears, brown eyes, short hair, brown hair, animal ears
-(plume \(arknights\):1.3), arknights, white hair, short hair, yellow eyes, hair between eyes, multicolored hair, brown hair, two-tone hair
-(meteor \(arknights\):1.3), arknights, horse ears, hair between eyes, long hair, brown hair, green eyes, black hair, animal ears
-(yato \(arknights\):1.3), arknights, multicolored hair, hair between eyes, pointy ears, blue eyes, long hair, brown hair
-(bagpipe \(queen no. 1\) \(arknights\):1.3), arknights, purple eyes, orange hair, very long hair, long hair
-(mudrock \(obsidian\) \(arknights\):1.3), arknights, white hair, grey hair, pointy ears, red eyes, long hair, very long hair
-(morte \(arknights\):1.3), arknights, short hair, pink eyes, hair between eyes, red eyes, long hair, animal ears, blonde hair, pink hair, fox ears
-(amiya \(newsgirl\) \(arknights\):1.3), arknights, rabbit ears, hair between eyes, blue eyes, long hair, brown hair, very long hair, animal ears
-(pallas \(arknights\):1.3), arknights, cow ears, hair between eyes, brown hair, long hair, green eyes, animal ears
-(mulberry \(arknights\):1.3), arknights, white hair, hair between eyes, grey hair, blue eyes, long hair, very long hair
-(beanstalk \(arknights\):1.3), arknights, hair between eyes, red eyes, long hair, brown hair, hyena ears, animal ears
-(fartooth \(arknights\):1.3), arknights, yellow eyes, grey hair, brown hair, long hair, very long hair, animal ears, feather hair
-(sideroca \(light breeze\) \(arknights\):1.3), arknights, cow ears, yellow eyes, short hair, hair between eyes, animal ears, purple hair
-(swire the elegant wit \(arknights\):1.3), arknights, drill hair, long hair, green eyes, very long hair, animal ears, tiger ears, blonde hair
-(firewatch \(arknights\):1.3), arknights, hair between eyes, grey hair, long hair, green eyes, animal ears
-(kirin r yato \(arknights\):1.3), arknights, white hair, multicolored hair, hair between eyes, pointy ears, blue eyes, long hair, brown hair
-(priestess \(arknights\):1.3), arknights, purple eyes, brown hair, long hair, black hair
-(skadi \(elite ii\) \(arknights\):1.3), arknights, white hair, hair between eyes, grey hair, red eyes, long hair, very long hair, low-tied long hair
-(reed the flame shadow \(arknights\):1.3), arknights, green eyes, blonde hair, long hair
-(skyfire \(arknights\):1.3), arknights, brown eyes, hair between eyes, long hair, brown hair, animal ears, cat ears
-(surtr's golem \(arknights\):1.3), arknights, hair between eyes, red hair, long hair, purple eyes, very long hair
-(skadi the corrupting heart \(sublimation\) \(arknights\):1.3), arknights, white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
-(gavial the invincible \(arknights\):1.3), arknights, yellow eyes, pointy ears, long hair, very long hair, green hair
-(eunectes \(forgemaster\) \(arknights\):1.3), arknights, short hair, blue hair, multicolored hair, pointy ears, blue eyes, black hair, colored inner hair
-(saria \(the law\) \(arknights\):1.3), arknights, hair between eyes, grey hair, orange eyes, long hair
-(platinum \(shimmering dew\) \(arknights\):1.3), arknights, brown eyes, white hair, yellow eyes, horse ears, long hair, very long hair, animal ears
-(shining \(silent night\) \(arknights\):1.3), arknights, white hair, hair between eyes, pointy ears, red eyes, long hair, very long hair
-(indigo \(arknights\):1.3), arknights, hair between eyes, pointy ears, long hair, brown hair, purple eyes, very long hair, blonde hair
-(la pluma \(summer flowers\) \(arknights\):1.3), arknights, feather hair, black eyes, short hair, black hair
-(dusk \(everything is a miracle\) \(arknights\):1.3), arknights, colored skin, multicolored hair, streaked hair, pointy ears, red eyes, long hair, black hair, green skin, gradient skin, very long hair, blue skin
-(female tourist c \(arknights\):1.3), arknights, blue hair, hair between eyes, red eyes, long hair
-(sussurro \(summer flower\) \(arknights\):1.3), arknights, short hair, hair between eyes, blue eyes, brown hair, extra ears, animal ears, fox ears
-(mon3tr \(arknights\):1.3), arknights, short hair, grey hair, long hair, green eyes, animal ears, green hair, cat ears
-(scene \(arknights\):1.3), arknights, grey hair, blonde hair, yellow eyes, short hair
-(savage \(arknights\):1.3), arknights, grey eyes, rabbit ears, hair between eyes, grey hair, blue eyes, long hair, brown hair, very long hair, animal ears
-(jessica the liberated \(arknights\):1.3), arknights, multicolored hair, long hair, black hair, green eyes, animal ears, purple hair, cat ears
-(mint \(arknights\):1.3), arknights, grey hair, blue eyes, long hair, animal ears, cat ears
-(april \(arknights\):1.3), arknights, rabbit ears, hair between eyes, long hair, brown hair, purple eyes, black hair, very long hair, animal ears
-(closure \(arknights\):1.3), arknights, hair between eyes, pointy ears, red eyes, long hair, black hair, animal ears
-(absinthe \(arknights\):1.3), arknights, short hair, grey hair, red eyes, brown hair, animal ears, bear ears
-(melantha \(arknights\):1.3), arknights, short hair, hair between eyes, long hair, purple eyes, animal ears, purple hair, cat ears
-(projekt red \(light breeze\) \(arknights\):1.3), arknights, yellow eyes, wolf ears, hair between eyes, grey hair, long hair, animal ears
-(irene \(the adjudicatrix and her resolve\) \(arknights\):1.3), arknights, grey eyes, white hair, medium hair, grey hair, long hair
-(ceobe \(unfettered\) \(arknights\):1.3), arknights, red eyes, long hair, brown hair, very long hair, animal ears, dog ears
-(asbestos \(arknights\):1.3), arknights, short hair, blue hair, multicolored hair, black hair, green eyes, animal ears, two-tone hair, purple hair
-(penance \(occasionally flushed\) \(arknights\):1.3), arknights, yellow eyes, wolf ears, hair between eyes, long hair, brown hair, extra ears, animal ears, very long hair
-(scavenger \(arknights\):1.3), arknights, yellow eyes, short hair, wolf ears, hair between eyes, grey hair, long hair, mouse ears, animal ears
-(goldenglow \(maiden for the bright night\) \(arknights\):1.3), arknights, yellow eyes, long hair, animal ears, floppy ears, pink hair, cat ears
-(schwarz \(skyline\) \(arknights\):1.3), arknights, yellow eyes, hair between eyes, grey hair, long hair, very long hair, animal ears, cat ears
-(suzuran \(lostlands flowering\) \(arknights\):1.3), arknights, long hair, green eyes, blonde hair, animal ears, fox ears
-(angelina \(summer flower\) \(arknights\):1.3), arknights, red eyes, long hair, brown hair, animal ears, fox ears
-(cardigan \(arknights\):1.3), arknights, multicolored hair, streaked hair, hair between eyes, long hair, brown hair, purple eyes, animal ears, dog ears
-(eyjafjalla the hvit aska \(arknights\):1.3), arknights, pink eyes, red eyes, long hair, brown hair, very long hair, sheep ears, animal ears
-(originium slug \(arknights\):1.3), arknights, short hair, pointy ears, red eyes, long hair, brown hair, animal ears, blonde hair
-(snowsant \(arknights\):1.3), arknights, white hair, orange eyes, multicolored hair, grey hair, red eyes, black hair, long hair, animal ears, two-tone hair, blonde hair
-(perlica \(arknights\):1.3), arknights, grey hair, long hair, blue eyes, animal ears
-(meteorite \(arknights\):1.3), arknights, brown eyes, yellow eyes, pointy ears, long hair, brown hair, very long hair, animal ears, blonde hair
-(ch'en the holungday \(elite ii\) \(arknights\):1.3), arknights, blue hair, hair between eyes, red eyes, long hair
-(mandragora \(arknights\):1.3), arknights, yellow eyes, short hair, black hair, animal ears, cat ears
-(amiya \(guard\) \(arknights\):1.3), arknights, rabbit ears, hair between eyes, blue eyes, long hair, brown hair, very long hair, animal ears
-(rope \(arknights\):1.3), arknights, grey eyes, rabbit ears, long hair, animal ears, purple hair
-(kjera \(arknights\):1.3), arknights, white hair, short hair, blue hair, multicolored hair, blue eyes, black hair, long hair, animal ears
-(mousse \(arknights\):1.3), arknights, white hair, short hair, orange hair, multicolored hair, brown hair, green eyes, animal ears, blonde hair, cat ears
-(hoshiguma \(ronin huntress\) \(arknights\):1.3), arknights, yellow eyes, hair between eyes, long hair, skin-covered horns, green hair
-(pepe \(arknights\):1.3), arknights, long hair, animal ears, blue eyes, brown hair
-(eblana \(arknights\):1.3), arknights, blue eyes, long hair, green eyes, very long hair, blonde hair
-(myrtle \(summer flowers\) \(arknights\):1.3), arknights, red hair, pointy ears, long hair, green eyes, very long hair
-(flint \(arknights\):1.3), arknights, hair between eyes, blue eyes, black hair, long hair, dark skin, animal ears, dark-skinned female
-(heidi \(arknights\):1.3), arknights, hair between eyes, blue eyes, long hair, brown hair, animal ears, pink hair, cat ears
-(kirara \(arknights\):1.3), arknights, short hair, multicolored hair, pink eyes, pointy ears, purple eyes, animal ears, pink hair
-(deepcolor \(arknights\):1.3), arknights, short hair, blue hair, multicolored hair, blue eyes, brown hair, animal ears, purple hair
-(u-official \(arknights\):1.3), arknights, drill hair, pink eyes, multicolored hair, hair between eyes, long hair, animal ears, purple hair, pink hair
-(vulpisfoglia \(arknights\):1.3), arknights, white hair, orange eyes, yellow eyes, multicolored hair, hair between eyes, long hair, animal ears, fox ears, blonde hair
-(aurora \(elite ii\) \(arknights\):1.3), arknights, white hair, eyes visible through hair, blue eyes, long hair, very long hair, animal ears, bear ears
-(ptilopsis \(elite ii\) \(arknights\):1.3), arknights, white hair, orange eyes, yellow eyes, grey hair, long hair, owl ears, feather hair
-(highmore \(arknights\):1.3), arknights, blue hair, multicolored hair, pointy ears, blue eyes, black hair, long hair, very long hair
-(ch'en \(ageless afterglow\) \(arknights\):1.3), arknights, blue hair, hair between eyes, red eyes, long hair
-(irene \(voyage of feathers\) \(arknights\):1.3), arknights, grey eyes, grey hair, very long hair, long hair
-(andreana \(arknights\):1.3), arknights, purple hair, long hair, blue eyes, short hair
-(ambriel \(arknights\):1.3), arknights, purple eyes, pink hair, very long hair, long hair
-(roberta \(arknights\):1.3), arknights, brown eyes, otter ears, short hair, brown hair, animal ears
-(utage \(disguise\) \(arknights\):1.3), arknights, short hair, medium hair, brown hair, purple eyes, animal ears, blonde hair
-(heavyrain \(arknights\):1.3), arknights, white hair, horse ears, zebra ears, grey hair, long hair, purple eyes, animal ears
-(w \(wanted\) \(arknights\):1.3), arknights, yellow eyes, antenna hair, short hair, red hair, grey hair
-(podenco \(arknights\):1.3), arknights, hair between eyes, long hair, brown hair, green eyes, animal ears, closed eyes, dog ears, blonde hair
-(leizi \(arknights\):1.3), arknights, hair between eyes, pointy ears, blue eyes, long hair, purple eyes, very long hair, blonde hair
-(tomimi \(silent night\) \(arknights\):1.3), arknights, white hair, yellow eyes, hair between eyes, pointy ears, long hair
-(hibiscus the purifier \(arknights\):1.3), arknights, purple eyes, purple hair, pointy ears, long hair
-(click \(arknights\):1.3), arknights, short hair, hair between eyes, grey hair, blue eyes, mouse ears, animal ears
-(manticore \(under a veil\) \(arknights\):1.3), arknights, pointy ears, long hair, purple eyes, very long hair, purple hair
-(vigna \(casual vacation\) \(arknights\):1.3), arknights, red hair, pointy ears, red eyes, long hair, very long hair
-(carnelian \(shimmering dew\) \(arknights\):1.3), arknights, goat ears, white hair, short hair, grey hair, red eyes, dark skin, animal ears, dark-skinned female
-(mostima \(spellbreaker\) \(arknights\):1.3), arknights, blue hair, hair between eyes, blue eyes, long hair
-(rosa \(masterpiece\) \(arknights\):1.3), arknights, white hair, hair between eyes, red eyes, blue eyes, long hair, very long hair, animal ears, bear ears
-(ceobe \(summer flowers\) \(arknights\):1.3), arknights, hair between eyes, red eyes, long hair, brown hair, very long hair, animal ears, dog ears
-(silence the paradigmatic \(arknights\):1.3), arknights, brown eyes, yellow eyes, hair between eyes, long hair, brown hair, owl ears, feather hair
-(metal crab \(arknights\):1.3), arknights, hair between eyes, grey hair, red eyes, long hair, brown hair, hyena ears, animal ears
-(nine-colored deer:1.3), arknights, white hair, blue hair, multicolored hair, red hair, deer ears, blue eyes, long hair, grey hair, streaked hair, very long hair, animal ears
-(high priest \(arknights\):1.3), arknights, short hair, blue hair, multicolored hair, pointy ears, blue eyes, black hair
-(beanstalk \(gift uncompleted\) \(arknights\):1.3), arknights, hair between eyes, red eyes, long hair, brown hair, hyena ears, animal ears
-(kafka \(arknights\):1.3), arknights, very long hair, brown hair, yellow eyes, long hair
-(astesia \(starseeker\) \(arknights\):1.3), arknights, blue hair, blue eyes, long hair
-(aciddrop \(arknights\):1.3), arknights, short hair, bird ears, blue eyes, long hair, brown hair, animal ears
+(doctor \(arknights\):1.3), long hair, animal ears
+(amiya \(arknights\):1.3), rabbit ears, hair between eyes, blue eyes, long hair, brown hair, animal ears
+(texas \(arknights\):1.3), wolf ears, hair between eyes, red hair, long hair, black hair, animal ears
+(lappland \(arknights\):1.3), grey eyes, white hair, wolf ears, hair between eyes, grey hair, long hair, black hair, very long hair, animal ears
+(skadi \(arknights\):1.3), white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
+(suzuran \(arknights\):1.3), white hair, multicolored hair, two-tone hair, long hair, green eyes, blonde hair, animal ears, fox ears
+(kal'tsit \(arknights\):1.3), short hair, grey hair, long hair, green eyes, animal ears, green hair, cat ears
+(ch'en \(arknights\):1.3), blue hair, hair between eyes, red eyes, long hair
+(exusiai \(arknights\):1.3), short hair, hair between eyes, red hair, red eyes, long hair, animal ears
+(mudrock \(arknights\):1.3), white hair, grey hair, pointy ears, red eyes, long hair
+(surtr \(arknights\):1.3), hair between eyes, red hair, long hair, purple eyes, very long hair
+(w \(arknights\):1.3), antenna hair, short hair, multicolored hair, red hair, grey hair, red eyes
+(saria \(arknights\):1.3), grey hair, brown hair, orange eyes, long hair
+(mostima \(arknights\):1.3), short hair, blue hair, hair between eyes, red hair, blue eyes, long hair
+(nian \(arknights\):1.3), colored skin, white hair, multicolored hair, streaked hair, pointy ears, red hair, long hair, black hair, purple eyes, red skin
+(dusk \(arknights\):1.3), colored skin, multicolored hair, streaked hair, pointy ears, red eyes, long hair, black hair, green skin, very long hair
+(specter \(arknights\):1.3), white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
+(angelina \(arknights\):1.3), red eyes, long hair, brown hair, animal ears, fox ears
+(skadi the corrupting heart \(arknights\):1.3), white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
+(goldenglow \(arknights\):1.3), yellow eyes, long hair, animal ears, floppy ears, pink hair, cat ears
+(blue poison \(arknights\):1.3), pink hair, blue eyes, long hair
+(irene \(arknights\):1.3), grey eyes, grey hair, very long hair, long hair
+(shu \(arknights\):1.3), grey eyes, white hair, blue hair, multicolored hair, grey hair, pointy ears, hair between eyes, long hair, very long hair, purple hair, blonde hair
+(eyjafjalla \(arknights\):1.3), pink eyes, red eyes, long hair, brown hair, sheep ears, animal ears
+(schwarz \(arknights\):1.3), yellow eyes, hair between eyes, grey hair, long hair, very long hair, animal ears, cat ears
+(hoshiguma \(arknights\):1.3), yellow eyes, blue hair, hair between eyes, red eyes, long hair, skin-covered horns, green hair
+(sussurro \(arknights\):1.3), short hair, blue eyes, brown hair, animal ears, fox ears
+(siege \(arknights\):1.3), brown eyes, yellow eyes, hair between eyes, long hair, brown hair, animal ears, blonde hair, lion ears
+(blaze \(arknights\):1.3), hair between eyes, blue eyes, black hair, long hair, very long hair, animal ears, cat ears
+(ceobe \(arknights\):1.3), hair between eyes, red eyes, long hair, brown hair, very long hair, animal ears, dog ears
+(swire \(arknights\):1.3), drill hair, blue hair, long hair, green eyes, very long hair, animal ears, tiger ears, blonde hair
+(virtuosa \(arknights\):1.3), multicolored hair, grey hair, two-tone hair, black hair, long hair, black eyes, very long hair, pale skin, straight hair, colored inner hair
+(jessica \(arknights\):1.3), blue hair, multicolored hair, long hair, black hair, green eyes, animal ears, purple hair, cat ears
+(fiammetta \(arknights\):1.3), short hair, blue hair, bird ears, red hair, red eyes, hair between eyes, long hair, animal ears
+(penance \(arknights\):1.3), yellow eyes, wolf ears, hair between eyes, grey hair, long hair, brown hair, extra ears, animal ears
+(ho'olheyak \(arknights\):1.3), medium hair, aqua eyes, hair between eyes, grey hair
+(utage \(arknights\):1.3), short hair, brown hair, purple eyes, animal ears, blonde hair, skin fang
+(pramanix \(arknights\):1.3), grey eyes, white hair, snow leopard ears, hair between eyes, grey hair, long hair, leopard ears, very long hair, animal ears
+(muelsyse \(arknights\):1.3), yellow eyes, pointy ears, long hair, brown hair, very long hair
+(ptilopsis \(arknights\):1.3), white hair, orange eyes, yellow eyes, grey hair, long hair, owl ears, animal ears, feather hair
+(platinum \(arknights\):1.3), brown eyes, yellow eyes, white hair, horse ears, long hair, very long hair, animal ears
+(la pluma \(arknights\):1.3), feather hair, black eyes, short hair, black hair
+(blue poison \(shoal beat\) \(arknights\):1.3), pink hair, blue eyes, long hair
+(projekt red \(arknights\):1.3), yellow eyes, wolf ears, hair between eyes, grey hair, long hair, animal ears
+(bagpipe \(arknights\):1.3), purple eyes, orange hair, very long hair, long hair
+(tomimi \(arknights\):1.3), yellow eyes, white hair, multicolored hair, grey hair, pointy ears, long hair
+(texas the omertosa \(arknights\):1.3), yellow eyes, wolf ears, hair between eyes, long hair, black hair, animal ears
+(ling \(arknights\):1.3), white hair, blue hair, multicolored hair, streaked hair, pointy ears, blue eyes, long hair, purple eyes, very long hair
+(specter the unchained \(arknights\):1.3), white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
+(astesia \(arknights\):1.3), blue hair, blue eyes, long hair
+(lin \(arknights\):1.3), pink eyes, hair between eyes, long hair, mouse ears, purple eyes, animal ears, pink hair
+(saga \(arknights\):1.3), brown eyes, black hair, long hair, very long hair, animal ears, dog ears
+(mudrock \(elite ii\) \(arknights\):1.3), white hair, grey hair, pointy ears, red eyes, long hair
+(aurora \(arknights\):1.3), white hair, eyes visible through hair, grey hair, blue eyes, long hair, very long hair, animal ears, bear ears
+(frostnova \(arknights\):1.3), grey eyes, rabbit ears, white hair, grey hair, long hair, animal ears
+(gravel \(arknights\):1.3), brown eyes, hair between eyes, long hair, very long hair, animal ears, pink hair
+(rosmontis \(arknights\):1.3), white hair, rabbit ears, grey hair, blue eyes, long hair, brown hair, green eyes, animal ears, cat ears
+(magallan \(arknights\):1.3), white hair, short hair, yellow eyes, multicolored hair, streaked hair, hair between eyes, brown hair, two-tone hair
+(myrtle \(arknights\):1.3), red hair, pointy ears, long hair, brown hair, green eyes, very long hair
+(feater \(arknights\):1.3), multicolored hair, grey hair, streaked hair, panda ears, black hair, long hair, red eyes, animal ears, two-tone hair
+(whislash \(arknights\):1.3), horse ears, blue eyes, long hair, animal ears, blonde hair
+(gavial \(arknights\):1.3), yellow eyes, antenna hair, hair between eyes, pointy ears, long hair, green hair
+(texas \(willpower\) \(arknights\):1.3), wolf ears, hair between eyes, red eyes, black hair, long hair, animal ears
+(lappland \(refined horrormare\) \(arknights\):1.3), grey eyes, white hair, wolf ears, hair between eyes, grey hair, blue eyes, long hair, black hair, animal ears
+(eunectes \(arknights\):1.3), short hair, blue hair, multicolored hair, pointy ears, blue eyes, black hair
+(suzuran \(spring praise\) \(arknights\):1.3), white hair, multicolored hair, two-tone hair, long hair, green eyes, blonde hair, animal ears, fox ears
+(weedy \(arknights\):1.3), white hair, grey hair, red eyes, long hair, very long hair
+(gladiia \(arknights\):1.3), white hair, grey hair, pointy ears, red eyes, long hair, very long hair
+(reed \(arknights\):1.3), green eyes, blonde hair, long hair
+(frostleaf \(arknights\):1.3), white hair, grey hair, red eyes, long hair, implied extra ears, animal ears, fox ears
+(skadi \(waverider\) \(arknights\):1.3), white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
+(warfarin \(arknights\):1.3), white hair, hair between eyes, grey hair, pointy ears, red eyes, long hair, very long hair, animal ears
+(shining \(arknights\):1.3), brown eyes, white hair, hair between eyes, grey hair, pointy ears, red eyes, long hair, very long hair, blonde hair
+(rosa \(arknights\):1.3), white hair, blue hair, multicolored hair, streaked hair, red eyes, blue eyes, long hair, hair between eyes, red hair, very long hair, animal ears, bear ears
+(theresa \(arknights\):1.3), hair between eyes, long hair, brown hair, very long hair, animal ears, pink hair
+(kroos \(arknights\):1.3), rabbit ears, long hair, animal ears, closed eyes, blonde hair
+(beeswax \(arknights\):1.3), goat ears, yellow eyes, white hair, hair between eyes, long hair, dark skin, animal ears, dark-skinned female
+(harmonie \(arknights\):1.3), long hair, green eyes, very long hair, animal ears, green hair, cat ears
+(ch'en the holungday \(arknights\):1.3), blue hair, hair between eyes, red eyes, long hair
+(vigna \(arknights\):1.3), red hair, pointy ears, red eyes, long hair, very long hair
+(carnelian \(arknights\):1.3), goat ears, white hair, short hair, grey hair, red eyes, dark skin, animal ears, dark-skinned female
+(provence \(arknights\):1.3), yellow eyes, wolf ears, hair between eyes, grey hair, long hair, animal ears, purple hair
+(dorothy \(arknights\):1.3), yellow eyes, hair between eyes, long hair, mouse ears, very long hair, animal ears, blonde hair
+(surtr \(liberte echec\) \(arknights\):1.3), hair between eyes, red hair, long hair, purple eyes, very long hair
+(texas \(winter messenger\) \(arknights\):1.3), brown eyes, orange eyes, wolf ears, multicolored hair, red hair, hair between eyes, long hair, black hair, animal ears, two-tone hair, colored inner hair
+(mudrock \(silent night\) \(arknights\):1.3), white hair, grey hair, pointy ears, red eyes, long hair, very long hair
+(saileach \(arknights\):1.3), hair between eyes, pointy ears, blue eyes, long hair, very long hair, blonde hair
+(eyjafjalla \(summer flower\) \(arknights\):1.3), pink eyes, red eyes, long hair, brown hair, sheep ears, animal ears
+(hibiscus \(arknights\):1.3), short hair, pointy ears, long hair, purple eyes, animal ears, closed eyes, purple hair
+(viviana \(arknights\):1.3), hair between eyes, deer ears, blue eyes, long hair, very long hair, animal ears, blonde hair
+(robin \(arknights\):1.3), yellow eyes, hair between eyes, multicolored hair, long hair, brown hair, raccoon ears, animal ears
+(nightingale \(arknights\):1.3), blue eyes, long hair, very long hair, animal ears, blonde hair
+(shamare \(arknights\):1.3), short hair, hair between eyes, pink eyes, red eyes, long hair, animal ears, blonde hair, purple hair, pink hair, fox ears
+(waai fu \(arknights\):1.3), white hair, short hair, orange eyes, orange hair, multicolored hair, hair between eyes, black hair, animal ears, tiger ears
+(pozyomka \(arknights\):1.3), wolf ears, pink eyes, hair between eyes, long hair, very long hair, animal ears, pink hair
+(surtr \(colorful wonderland\) \(arknights\):1.3), hair between eyes, red hair, long hair, purple eyes, very long hair
+(nian \(unfettered freedom\) \(arknights\):1.3), colored skin, white hair, multicolored hair, streaked hair, pointy ears, red hair, long hair, purple eyes, gradient skin, red skin
+(utage \(summer flowers\) \(arknights\):1.3), short hair, long hair, brown hair, purple eyes, animal ears, blonde hair, skin fang
+(sideroca \(arknights\):1.3), cow ears, yellow eyes, short hair, animal ears, purple hair
+(flametail \(arknights\):1.3), squirrel ears, brown eyes, red hair, red eyes, long hair, animal ears
+(nearl the radiant knight \(arknights\):1.3), yellow eyes, horse ears, long hair, implied extra ears, animal ears, blonde hair
+(dobermann \(arknights\):1.3), brown eyes, black hair, long hair, animal ears, dog ears
+(perfumer \(arknights\):1.3), brown eyes, long hair, brown hair, animal ears, fox ears
+(kroos the keen glint \(arknights\):1.3), rabbit ears, long hair, very long hair, animal ears, closed eyes, blonde hair
+(typhon \(arknights\):1.3), pink eyes, hair between eyes, red eyes, long hair, purple eyes, very long hair, purple hair
+(horn \(arknights\):1.3), wolf ears, blue eyes, long hair, very long hair, animal ears, blonde hair
+(whisperain \(arknights\):1.3), short hair, blue eyes, long hair, purple eyes, purple hair
+(manticore \(arknights\):1.3), purple eyes, purple hair, pointy ears, long hair
+(archetto \(arknights\):1.3), red eyes, blue eyes, long hair, brown hair, very long hair, animal ears, blonde hair
+(suzuran \(yukibare\) \(arknights\):1.3), white hair, multicolored hair, two-tone hair, long hair, green eyes, blonde hair, animal ears, fox ears
+(ray \(arknights\):1.3), rabbit ears, red hair, long hair, purple eyes, very long hair, animal ears, purple hair
+(degenbrecher \(arknights\):1.3), yellow eyes, hair between eyes, long hair, very long hair, animal ears, goat ears, blonde hair
+(ines \(arknights\):1.3), very long hair, long hair, yellow eyes, black hair
+(pinecone \(arknights\):1.3), feather hair, orange hair, brown eyes, long hair
+(angelina \(distinguished visitor\) \(arknights\):1.3), red eyes, long hair, brown hair, very long hair, animal ears, fox ears
+(goldenglow \(summer flowers\) \(arknights\):1.3), yellow eyes, short hair, long hair, animal ears, floppy ears, pink hair, cat ears
+(vermeil \(arknights\):1.3), short hair, orange eyes, hair between eyes, blonde hair, animal ears, fox ears
+(shaw \(arknights\):1.3), squirrel ears, brown eyes, short hair, brown hair, animal ears
+(plume \(arknights\):1.3), white hair, short hair, yellow eyes, hair between eyes, multicolored hair, brown hair, two-tone hair
+(meteor \(arknights\):1.3), horse ears, hair between eyes, long hair, brown hair, green eyes, black hair, animal ears
+(yato \(arknights\):1.3), multicolored hair, hair between eyes, pointy ears, blue eyes, long hair, brown hair
+(bagpipe \(queen no. 1\) \(arknights\):1.3), purple eyes, orange hair, very long hair, long hair
+(mudrock \(obsidian\) \(arknights\):1.3), white hair, grey hair, pointy ears, red eyes, long hair, very long hair
+(morte \(arknights\):1.3), short hair, pink eyes, hair between eyes, red eyes, long hair, animal ears, blonde hair, pink hair, fox ears
+(amiya \(newsgirl\) \(arknights\):1.3), rabbit ears, hair between eyes, blue eyes, long hair, brown hair, very long hair, animal ears
+(pallas \(arknights\):1.3), cow ears, hair between eyes, brown hair, long hair, green eyes, animal ears
+(mulberry \(arknights\):1.3), white hair, hair between eyes, grey hair, blue eyes, long hair, very long hair
+(beanstalk \(arknights\):1.3), hair between eyes, red eyes, long hair, brown hair, hyena ears, animal ears
+(fartooth \(arknights\):1.3), yellow eyes, grey hair, brown hair, long hair, very long hair, animal ears, feather hair
+(sideroca \(light breeze\) \(arknights\):1.3), cow ears, yellow eyes, short hair, hair between eyes, animal ears, purple hair
+(swire the elegant wit \(arknights\):1.3), drill hair, long hair, green eyes, very long hair, animal ears, tiger ears, blonde hair
+(firewatch \(arknights\):1.3), hair between eyes, grey hair, long hair, green eyes, animal ears
+(kirin r yato \(arknights\):1.3), white hair, multicolored hair, hair between eyes, pointy ears, blue eyes, long hair, brown hair
+(priestess \(arknights\):1.3), purple eyes, brown hair, long hair, black hair
+(skadi \(elite ii\) \(arknights\):1.3), white hair, hair between eyes, grey hair, red eyes, long hair, very long hair, low-tied long hair
+(reed the flame shadow \(arknights\):1.3), green eyes, blonde hair, long hair
+(skyfire \(arknights\):1.3), brown eyes, hair between eyes, long hair, brown hair, animal ears, cat ears
+(surtr's golem \(arknights\):1.3), hair between eyes, red hair, long hair, purple eyes, very long hair
+(skadi the corrupting heart \(sublimation\) \(arknights\):1.3), white hair, hair between eyes, grey hair, red eyes, long hair, very long hair
+(gavial the invincible \(arknights\):1.3), yellow eyes, pointy ears, long hair, very long hair, green hair
+(eunectes \(forgemaster\) \(arknights\):1.3), short hair, blue hair, multicolored hair, pointy ears, blue eyes, black hair, colored inner hair
+(saria \(the law\) \(arknights\):1.3), hair between eyes, grey hair, orange eyes, long hair
+(platinum \(shimmering dew\) \(arknights\):1.3), brown eyes, white hair, yellow eyes, horse ears, long hair, very long hair, animal ears
+(shining \(silent night\) \(arknights\):1.3), white hair, hair between eyes, pointy ears, red eyes, long hair, very long hair
+(indigo \(arknights\):1.3), hair between eyes, pointy ears, long hair, brown hair, purple eyes, very long hair, blonde hair
+(la pluma \(summer flowers\) \(arknights\):1.3), feather hair, black eyes, short hair, black hair
+(dusk \(everything is a miracle\) \(arknights\):1.3), colored skin, multicolored hair, streaked hair, pointy ears, red eyes, long hair, black hair, green skin, gradient skin, very long hair, blue skin
+(female tourist c \(arknights\):1.3), blue hair, hair between eyes, red eyes, long hair
+(sussurro \(summer flower\) \(arknights\):1.3), short hair, hair between eyes, blue eyes, brown hair, extra ears, animal ears, fox ears
+(mon3tr \(arknights\):1.3), short hair, grey hair, long hair, green eyes, animal ears, green hair, cat ears
+(scene \(arknights\):1.3), grey hair, blonde hair, yellow eyes, short hair
+(savage \(arknights\):1.3), grey eyes, rabbit ears, hair between eyes, grey hair, blue eyes, long hair, brown hair, very long hair, animal ears
+(jessica the liberated \(arknights\):1.3), multicolored hair, long hair, black hair, green eyes, animal ears, purple hair, cat ears
+(mint \(arknights\):1.3), grey hair, blue eyes, long hair, animal ears, cat ears
+(april \(arknights\):1.3), rabbit ears, hair between eyes, long hair, brown hair, purple eyes, black hair, very long hair, animal ears
+(closure \(arknights\):1.3), hair between eyes, pointy ears, red eyes, long hair, black hair, animal ears
+(absinthe \(arknights\):1.3), short hair, grey hair, red eyes, brown hair, animal ears, bear ears
+(melantha \(arknights\):1.3), short hair, hair between eyes, long hair, purple eyes, animal ears, purple hair, cat ears
+(projekt red \(light breeze\) \(arknights\):1.3), yellow eyes, wolf ears, hair between eyes, grey hair, long hair, animal ears
+(irene \(the adjudicatrix and her resolve\) \(arknights\):1.3), grey eyes, white hair, medium hair, grey hair, long hair
+(ceobe \(unfettered\) \(arknights\):1.3), red eyes, long hair, brown hair, very long hair, animal ears, dog ears
+(asbestos \(arknights\):1.3), short hair, blue hair, multicolored hair, black hair, green eyes, animal ears, two-tone hair, purple hair
+(penance \(occasionally flushed\) \(arknights\):1.3), yellow eyes, wolf ears, hair between eyes, long hair, brown hair, extra ears, animal ears, very long hair
+(scavenger \(arknights\):1.3), yellow eyes, short hair, wolf ears, hair between eyes, grey hair, long hair, mouse ears, animal ears
+(goldenglow \(maiden for the bright night\) \(arknights\):1.3), yellow eyes, long hair, animal ears, floppy ears, pink hair, cat ears
+(schwarz \(skyline\) \(arknights\):1.3), yellow eyes, hair between eyes, grey hair, long hair, very long hair, animal ears, cat ears
+(suzuran \(lostlands flowering\) \(arknights\):1.3), long hair, green eyes, blonde hair, animal ears, fox ears
+(angelina \(summer flower\) \(arknights\):1.3), red eyes, long hair, brown hair, animal ears, fox ears
+(cardigan \(arknights\):1.3), multicolored hair, streaked hair, hair between eyes, long hair, brown hair, purple eyes, animal ears, dog ears
+(eyjafjalla the hvit aska \(arknights\):1.3), pink eyes, red eyes, long hair, brown hair, very long hair, sheep ears, animal ears
+(originium slug \(arknights\):1.3), short hair, pointy ears, red eyes, long hair, brown hair, animal ears, blonde hair
+(snowsant \(arknights\):1.3), white hair, orange eyes, multicolored hair, grey hair, red eyes, black hair, long hair, animal ears, two-tone hair, blonde hair
+(perlica \(arknights\):1.3), grey hair, long hair, blue eyes, animal ears
+(meteorite \(arknights\):1.3), brown eyes, yellow eyes, pointy ears, long hair, brown hair, very long hair, animal ears, blonde hair
+(ch'en the holungday \(elite ii\) \(arknights\):1.3), blue hair, hair between eyes, red eyes, long hair
+(mandragora \(arknights\):1.3), yellow eyes, short hair, black hair, animal ears, cat ears
+(amiya \(guard\) \(arknights\):1.3), rabbit ears, hair between eyes, blue eyes, long hair, brown hair, very long hair, animal ears
+(rope \(arknights\):1.3), grey eyes, rabbit ears, long hair, animal ears, purple hair
+(kjera \(arknights\):1.3), white hair, short hair, blue hair, multicolored hair, blue eyes, black hair, long hair, animal ears
+(mousse \(arknights\):1.3), white hair, short hair, orange hair, multicolored hair, brown hair, green eyes, animal ears, blonde hair, cat ears
+(hoshiguma \(ronin huntress\) \(arknights\):1.3), yellow eyes, hair between eyes, long hair, skin-covered horns, green hair
+(pepe \(arknights\):1.3), long hair, animal ears, blue eyes, brown hair
+(eblana \(arknights\):1.3), blue eyes, long hair, green eyes, very long hair, blonde hair
+(myrtle \(summer flowers\) \(arknights\):1.3), red hair, pointy ears, long hair, green eyes, very long hair
+(flint \(arknights\):1.3), hair between eyes, blue eyes, black hair, long hair, dark skin, animal ears, dark-skinned female
+(heidi \(arknights\):1.3), hair between eyes, blue eyes, long hair, brown hair, animal ears, pink hair, cat ears
+(kirara \(arknights\):1.3), short hair, multicolored hair, pink eyes, pointy ears, purple eyes, animal ears, pink hair
+(deepcolor \(arknights\):1.3), short hair, blue hair, multicolored hair, blue eyes, brown hair, animal ears, purple hair
+(u-official \(arknights\):1.3), drill hair, pink eyes, multicolored hair, hair between eyes, long hair, animal ears, purple hair, pink hair
+(vulpisfoglia \(arknights\):1.3), white hair, orange eyes, yellow eyes, multicolored hair, hair between eyes, long hair, animal ears, fox ears, blonde hair
+(aurora \(elite ii\) \(arknights\):1.3), white hair, eyes visible through hair, blue eyes, long hair, very long hair, animal ears, bear ears
+(ptilopsis \(elite ii\) \(arknights\):1.3), white hair, orange eyes, yellow eyes, grey hair, long hair, owl ears, feather hair
+(highmore \(arknights\):1.3), blue hair, multicolored hair, pointy ears, blue eyes, black hair, long hair, very long hair
+(ch'en \(ageless afterglow\) \(arknights\):1.3), blue hair, hair between eyes, red eyes, long hair
+(irene \(voyage of feathers\) \(arknights\):1.3), grey eyes, grey hair, very long hair, long hair
+(andreana \(arknights\):1.3), purple hair, long hair, blue eyes, short hair
+(ambriel \(arknights\):1.3), purple eyes, pink hair, very long hair, long hair
+(roberta \(arknights\):1.3), brown eyes, otter ears, short hair, brown hair, animal ears
+(utage \(disguise\) \(arknights\):1.3), short hair, medium hair, brown hair, purple eyes, animal ears, blonde hair
+(heavyrain \(arknights\):1.3), white hair, horse ears, zebra ears, grey hair, long hair, purple eyes, animal ears
+(w \(wanted\) \(arknights\):1.3), yellow eyes, antenna hair, short hair, red hair, grey hair
+(podenco \(arknights\):1.3), hair between eyes, long hair, brown hair, green eyes, animal ears, closed eyes, dog ears, blonde hair
+(leizi \(arknights\):1.3), hair between eyes, pointy ears, blue eyes, long hair, purple eyes, very long hair, blonde hair
+(tomimi \(silent night\) \(arknights\):1.3), white hair, yellow eyes, hair between eyes, pointy ears, long hair
+(hibiscus the purifier \(arknights\):1.3), purple eyes, purple hair, pointy ears, long hair
+(click \(arknights\):1.3), short hair, hair between eyes, grey hair, blue eyes, mouse ears, animal ears
+(manticore \(under a veil\) \(arknights\):1.3), pointy ears, long hair, purple eyes, very long hair, purple hair
+(vigna \(casual vacation\) \(arknights\):1.3), red hair, pointy ears, red eyes, long hair, very long hair
+(carnelian \(shimmering dew\) \(arknights\):1.3), goat ears, white hair, short hair, grey hair, red eyes, dark skin, animal ears, dark-skinned female
+(mostima \(spellbreaker\) \(arknights\):1.3), blue hair, hair between eyes, blue eyes, long hair
+(rosa \(masterpiece\) \(arknights\):1.3), white hair, hair between eyes, red eyes, blue eyes, long hair, very long hair, animal ears, bear ears
+(ceobe \(summer flowers\) \(arknights\):1.3), hair between eyes, red eyes, long hair, brown hair, very long hair, animal ears, dog ears
+(silence the paradigmatic \(arknights\):1.3), brown eyes, yellow eyes, hair between eyes, long hair, brown hair, owl ears, feather hair
+(metal crab \(arknights\):1.3), hair between eyes, grey hair, red eyes, long hair, brown hair, hyena ears, animal ears
+(nine-colored deer:1.3), white hair, blue hair, multicolored hair, red hair, deer ears, blue eyes, long hair, grey hair, streaked hair, very long hair, animal ears
+(high priest \(arknights\):1.3), short hair, blue hair, multicolored hair, pointy ears, blue eyes, black hair
+(beanstalk \(gift uncompleted\) \(arknights\):1.3), hair between eyes, red eyes, long hair, brown hair, hyena ears, animal ears
+(kafka \(arknights\):1.3), very long hair, brown hair, yellow eyes, long hair
+(astesia \(starseeker\) \(arknights\):1.3), blue hair, blue eyes, long hair
+(aciddrop \(arknights\):1.3), short hair, bird ears, blue eyes, long hair, brown hair, animal ears
+(viviana \(arknights\):1.3), hair between eyes, blue eyes, long hair, blonde hair, animal ears, deer ears
+(thorns \(arknights\):1.3), dark-skinned male, short hair, black hair, dark skin
+(sideroca \(light breeze\) \(arknights\):1.3), yellow eyes, tail, short hair, purple hair, animal ears, cow ears
+(sideroca \(arknights\):1.3), yellow eyes, tail, short hair, purple hair, animal ears, cow ears
+(pallas \(arknights\):1.3), hair between eyes, brown hair, animal ears, green eyes, cow ears
+(nearl the radiant knight \(arknights\):1.3), horse ears, tail, long hair, blonde hair, animal ears, animal ear fluff
+(lappland \(refined horrormare\) \(arknights\):1.3), grey eyes, hair between eyes, hairclip, long hair, grey hair, wolf ears, animal ears, scar across eye, hair ornament
+(gavial the invincible \(arknights\):1.3), yellow eyes, tail, long hair, green hair, pointy ears, crocodilian tail
+(franka \(arknights\):1.3), fox ears, tail, long hair, brown hair, fox tail, animal ears, animal ear fluff
+(degenbrecher \(arknights\):1.3), yellow eyes, hair between eyes, very long hair, long hair, blonde hair, animal ears, goat ears
+(amiya \(guard\) \(arknights\):1.3), hair between eyes, blue eyes, long hair, rabbit ears, brown hair, animal ears
+(ch'en \(ageless afterglow\) \(arknights\):1.3), hair between eyes, red eyes, tail, long hair, hair bun, blue hair, dragon tail
+(chong yue \(arknights\):1.3), multicolored hair, red eyes, tail, earrings, long hair, ponytail, dragon tail, pointy ears, streaked hair
+(ch'en \(arknights\):1.3), tail, red eyes, blue hair, hair between eyes, dragon tail, long hair
+(swire \(arknights\):1.3), tail, tiger ears, long hair, tiger tail, blonde hair, animal ears, green eyes
+(whislash \(arknights\):1.3), horse ears, blue eyes, tail, long hair, blonde hair, animal ears, horse tail, animal ear fluff
+(utage \(summer flowers\) \(arknights\):1.3), tail, eyewear on head, blonde hair, braid, purple eyes, animal ears, hair ornament, animal ear fluff
+(astesia \(arknights\):1.3), blue hair, blue eyes, long hair
+(surtr \(colorful wonderland\) \(arknights\):1.3), very long hair, long hair, red hair, hair rings, purple eyes
+(surtr \(liberte echec\) \(arknights\):1.3), red hair, purple eyes, very long hair, long hair
+(specter \(arknights\):1.3), hair between eyes, red eyes, very long hair, long hair, grey hair
+(surtr \(arknights\):1.3), hair between eyes, red hair, purple eyes, long hair
+(skadi \(arknights\):1.3), hair between eyes, red eyes, very long hair, long hair, grey hair, orca hair ornament
+(utage \(arknights\):1.3), tail, blonde hair, brown hair, purple eyes, animal ears, short hair, hair ornament, animal ear fluff
+(blaze \(arknights\):1.3), blue eyes, tail, long hair, cat ears, hairband, red hairband, animal ears, black hair
+(irene \(arknights\):1.3), earrings, long hair, grey hair, scar across eye, grey eyes
+(lappland \(arknights\):1.3), grey eyes, hair between eyes, hairclip, long hair, grey hair, wolf ears, animal ears, scar across eye, hair ornament
+(mountain \(arknights\):1.3), tiger ears, white hair, thick eyebrows, short hair, animal ears, scar across eye
+(gavial \(arknights\):1.3), yellow eyes, tail, long hair, green hair, pointy ears, crocodilian tail
+(skadi \(elite ii\) \(arknights\):1.3), hair between eyes, red eyes, very long hair, long hair, grey hair
+(skadi \(waverider\) \(arknights\):1.3), hair between eyes, red eyes, very long hair, long hair, grey hair, eyewear on head, orca hair ornament
+(frostleaf \(arknights\):1.3), fox ears, red eyes, ears through headwear, tail, long hair, grey hair, animal ears
+(la pluma \(arknights\):1.3), hairclip, short hair, ahoge, black hair, hair ornament
+(la pluma \(summer flowers\) \(arknights\):1.3), hairclip, short hair, ahoge, black hair, hair ornament
+(vermeil \(arknights\):1.3), fox ears, tail, hairclip, notched ear, blonde hair, orange eyes, fox tail, short hair, animal ears, hair ornament, animal ear fluff
+(typhon \(arknights\):1.3), very long hair, black hairband, long hair, hairband, purple hair
+(meteor \(arknights\):1.3), horse ears, hair between eyes, long hair, brown hair, animal ears, green eyes
+(kroos \(arknights\):1.3), long hair, rabbit ears, blonde hair, closed eyes, braid, animal ears
+(fartooth \(arknights\):1.3), grey hair, feather hair, yellow eyes, long hair
+(archetto \(arknights\):1.3), red eyes, blue eyes, tail, long hair, blonde hair, animal ears
+(blue poison \(arknights\):1.3), blue eyes, long hair, pink hair, twintails, braid
+(blue poison \(shoal beat\) \(arknights\):1.3), twin braids, blue eyes, earrings, hairband, braid, long hair, pink hair
+(jessica \(arknights\):1.3), multicolored hair, tail, long hair, ponytail, cat tail, cat ears, animal ears, green eyes, black hair
+(w \(arknights\):1.3), grey hair, antenna hair, tail, short hair
+(ch'en the holungday \(arknights\):1.3), hair between eyes, red eyes, tail, blue hair, long hair, dragon tail
+(exusiai \(arknights\):1.3), red hair, short hair, long hair
+(rosa \(arknights\):1.3), multicolored hair, red eyes, blue eyes, very long hair, long hair, blue hair, white hair, bear ears, animal ears, streaked hair
+(rosmontis \(arknights\):1.3), tail, long hair, grey hair, cat ears, animal ears, green eyes, animal ear fluff
+(fiammetta \(arknights\):1.3), red hair, short hair, red eyes
+(schwarz \(arknights\):1.3), yellow eyes, tail, long hair, grey hair, ponytail, cat ears, animal ears
+(pinecone \(arknights\):1.3), feather hair, long hair, ponytail, mole under eye, orange hair
+(platinum \(arknights\):1.3), horse ears, tail, long hair, white hair, animal ears, animal ear fluff
+(pozyomka \(arknights\):1.3), very long hair, long hair, pink hair, wolf ears, pink eyes, animal ears, hair ornament, animal ear fluff
+(whisperain \(arknights\):1.3), x hair ornament, long hair, hair over one eye, eyepatch, purple eyes, purple hair, hair ornament
+(sussurro \(summer flower\) \(arknights\):1.3), fox ears, blue eyes, tail, hairclip, twintails, fox tail, animal ears, short hair, ahoge, hair ornament
+(silence \(arknights\):1.3), short hair, feather hair, brown hair, long hair
+(shining \(arknights\):1.3), hair between eyes, very long hair, long hair, white hair, pointy ears
+(reed the flame shadow \(arknights\):1.3), green eyes, tail, blonde hair, long hair
+(perfumer \(arknights\):1.3), hair bow, fox ears, tail, long hair, ponytail, brown eyes, brown hair, animal ears
+(mulberry \(arknights\):1.3), blue eyes, very long hair, long hair, grey hair, white hair
+(kal'tsit \(arknights\):1.3), cat ears, green eyes, animal ear fluff, animal ears
+(sussurro \(arknights\):1.3), fox ears, blue eyes, tail, fox tail, animal ears, short hair, ahoge
+(ptilopsis \(arknights\):1.3), long hair, grey hair, white hair, owl ears, orange eyes
+(reed \(arknights\):1.3), tail, long hair, light in heart, blonde hair, green eyes
+(absinthe \(arknights\):1.3), red eyes, grey hair, bear girl, brown hair, short hair, bear ears, animal ears
+(skyfire \(arknights\):1.3), tail, long hair, cat tail, cat ears, brown hair, animal ears
+(kjera \(arknights\):1.3), multicolored hair, blue eyes, tail, blue hair, short hair, black hair
+(indigo \(arknights\):1.3), very long hair, long hair, blonde hair, brown hair, pointy ears, purple eyes
+(ifrit \(arknights\):1.3), long hair, blonde hair, twintails, orange eyes, short hair
+(harmonie \(arknights\):1.3), tail, long hair, cat tail, cat ears, green hair, animal ears, green eyes, animal ear fluff
+(ceobe \(unfettered\) \(arknights\):1.3), dog ears, red eyes, ears through headwear, twin braids, tail, long hair, brown hair, braid, animal ears
+(beeswax \(arknights\):1.3), yellow eyes, dark skin, long hair, white hair, animal ears, goat ears, dark-skinned female
+(dusk \(everything is a miracle\) \(arknights\):1.3), multicolored hair, colored skin, red eyes, tail, earrings, long hair, dragon tail, tassel earrings, pointy ears, black hair, streaked hair
+(amiya \(arknights\):1.3), blue eyes, animal ears, rabbit ears, brown hair, hair between eyes, ponytail, long hair
+(carnelian \(arknights\):1.3), red eyes, dark skin, white hair, short hair, animal ears, goat ears, dark-skinned female
+(ho'olheyak \(arknights\):1.3), hair between eyes, tail, snake tail, grey hair, aqua eyes
+(dusk \(arknights\):1.3), multicolored hair, colored skin, red eyes, tail, earrings, long hair, dragon tail, pointy ears, black hair, hair over one eye, streaked hair
+(eyjafjalla \(summer flower\) \(arknights\):1.3), long hair, brown hair, sheep ears, pink eyes, animal ears, hair flower, hair ornament
+(ceobe \(arknights\):1.3), dog ears, red eyes, tail, long hair, brown hair, animal ears
+(mostima \(arknights\):1.3), long hair, blue eyes, blue hair
+(lin \(arknights\):1.3), long hair, pink hair, hairband, animal ears, mouse ears
+(eyjafjalla \(arknights\):1.3), sheep ears, animal ears, brown hair, long hair
+(goldenglow \(arknights\):1.3), yellow eyes, hair bow, tail, black hairband, long hair, cat tail, pink hair, cat ears, hairband, braid, animal ears, print hairband
+(tomimi \(arknights\):1.3), yellow eyes, tail, long hair, grey hair, pointy ears, crocodilian tail, ahoge
+(gladiia \(arknights\):1.3), red eyes, long hair, grey hair, pointy ears, hair over one eye
+(weedy \(arknights\):1.3), grey hair, red eyes, very long hair, long hair
+(projekt red \(light breeze\) \(arknights\):1.3), yellow eyes, hair between eyes, ears through headwear, tail, grey hair, wolf tail, wolf ears, animal ears
+(manticore \(arknights\):1.3), tail, long hair, scorpion tail, twintails, pointy ears, purple hair, purple eyes, hair ornament
+(robin \(arknights\):1.3), yellow eyes, hair between eyes, tail, raccoon tail, long hair, raccoon ears, ponytail, brown hair, animal ears
+(dorothy \(arknights\):1.3), yellow eyes, hair between eyes, long hair, blonde hair, animal ears, mouse ears
+(specter the unchained \(arknights\):1.3), hair between eyes, red eyes, very long hair, long hair, grey hair
+(feater \(arknights\):1.3), multicolored hair, long hair, grey hair, eyewear on head, twintails, panda ears, animal ears, black hair, hair over one eye, streaked hair
+(projekt red \(arknights\):1.3), yellow eyes, hair between eyes, tail, long hair, grey hair, wolf tail, wolf ears, animal ears
+(texas the omertosa \(arknights\):1.3), long hair, wolf ears, animal ears, black hair, animal ear fluff
+(mizuki \(arknights\):1.3), long hair, hair between eyes, pink eyes, blue hair
+(saria \(the law\) \(arknights\):1.3), grey hair, orange eyes, long hair
+(mudrock \(obsidian\) \(arknights\):1.3), red eyes, earrings, long hair, grey hair, white hair, pointy ears
+(liskarm \(arknights\):1.3), fox ears, tail, long hair, grey hair, ponytail, animal ears
+(horn \(arknights\):1.3), black hairband, long hair, hairband, blonde hair, wolf ears, animal ears
+(gummy \(arknights\):1.3), blonde hair, short hair, bear ears, animal ears, food-themed hair ornament, hair ornament, candy hair ornament
+(eunectes \(forgemaster\) \(arknights\):1.3), multicolored hair, blue eyes, tail, snake tail, blue hair, pointy ears, short hair, black hair
+(blemishine \(arknights\):1.3), yellow eyes, horse ears, tail, long hair, ponytail, blonde hair, animal ears, horse tail, animal ear fluff
+(aurora \(arknights\):1.3), blue eyes, very long hair, black hairband, long hair, white hair, hairband, bear ears, animal ears, hair over one eye
+(eunectes \(arknights\):1.3), blue eyes, tail, snake tail, pointy ears, short hair, black hair
+(hoshiguma \(arknights\):1.3), skin-covered horns, green hair, long hair
+(shu \(arknights\):1.3), multicolored hair, hair between eyes, earrings, tail, fruit earrings, long hair, blue hair, grey hair, blonde hair, pointy ears, hair intakes, orange eyeliner
+(mudrock \(arknights\):1.3), red eyes, white hair, pointy ears, long hair
+(mudrock \(elite ii\) \(arknights\):1.3), red eyes, white hair, pointy ears, long hair
+(mudrock \(silent night\) \(arknights\):1.3), red eyes, very long hair, long hair, grey hair, white hair, pointy ears, hair flower, hair ornament
+(nian \(arknights\):1.3), multicolored hair, tail, long hair, red hair, white hair, dragon tail, purple eyes, pointy ears, streaked hair
+(nian \(unfettered freedom\) \(arknights\):1.3), multicolored hair, colored skin, tail, long hair, red hair, white hair, dragon tail, braid, red skin, pointy ears, purple eyes, streaked hair
+(nearl \(arknights\):1.3), yellow eyes, horse ears, tail, long hair, ponytail, blonde hair, animal ears, horse tail, animal ear fluff
+(saria \(arknights\):1.3), grey hair, orange eyes, tail, long hair
+(grani \(arknights\):1.3), horse ears, hair between eyes, long hair, grey hair, ponytail, animal ears
+(zima \(arknights\):1.3), multicolored hair, blue eyes, long hair, red hair, brown hair, bear ears, animal ears, streaked hair
+(vigna \(arknights\):1.3), red eyes, very long hair, tail, long hair, red hair, pointy ears
+(texas \(winter messenger\) \(arknights\):1.3), multicolored hair, hair between eyes, long hair, red hair, wolf ears, animal ears, black hair, animal ear fluff
+(bagpipe \(queen no. 1\) \(arknights\):1.3), purple eyes, very long hair, orange hair, long hair
+(beanstalk \(arknights\):1.3), hair between eyes, red eyes, long hair, brown hair, braid, hyena ears, animal ears
+(flametail \(arknights\):1.3), tail, squirrel ears, long hair, red hair, squirrel tail, animal ears
+(saga \(arknights\):1.3), black hair, animal ears, dog ears, long hair
+(siege \(arknights\):1.3), tail, long hair, ponytail, blonde hair, animal ears, lion ears
+(saileach \(arknights\):1.3), blue eyes, very long hair, long hair, blue hairband, blonde hair, hairband, pointy ears
+(texas \(arknights\):1.3), hair between eyes, tail, long hair, wolf ears, animal ears, black hair, animal ear fluff
+(texas \(willpower\) \(arknights\):1.3), hair between eyes, long hair, ponytail, wolf ears, animal ears, black hair
+(bagpipe \(arknights\):1.3), purple eyes, very long hair, orange hair, long hair
+(muelsyse \(arknights\):1.3), yellow eyes, long hair, mole under eye, brown hair, pointy ears
+(myrtle \(arknights\):1.3), long hair, red hair, pointy ears, ahoge, green eyes
+(angelina \(arknights\):1.3), fox ears, red eyes, long hair, brown hair, hairband, twintails, red hairband, animal ears
+(ling \(arknights\):1.3), multicolored hair, blue eyes, tail, earrings, blue hair, long hair, dragon tail, pointy ears
+(skadi the corrupting heart \(arknights\):1.3), hair between eyes, red eyes, very long hair, long hair, grey hair, white hair
+(suzuran \(arknights\):1.3), fox ears, tail, long hair, blue hairband, blonde hair, hairband, fox tail, animal ears, green eyes, multiple tails, animal ear fluff
+(magallan \(arknights\):1.3), multicolored hair, yellow eyes, earrings, white hair, brown hair, short hair, streaked hair
+(pramanix \(arknights\):1.3), twin braids, tail, animal ear fluff, long hair, grey hair, white hair, braid, animal ears, grey eyes, leopard ears
+(suzuran \(spring praise\) \(arknights\):1.3), multicolored hair, fox ears, tail, long hair, frilled hairband, blue hairband, hairband, blonde hair, white hair, fox tail, animal ears, green eyes, multiple tails
+(virtuosa \(arknights\):1.3), straight hair, very long hair, long hair, mole under eye, hime cut, black eyes, blunt bangs, black hair
+(frostnova \(arknights\):1.3), grey eyes, hairclip, long hair, rabbit ears, grey hair, white hair, hair over one eye, animal ears, hair ornament
+(originium arts \(arknights\):1.3), animal ears, long hair
+(choshanland plushy \(arknights\):1.3), animal ears, long hair
+(originium \(arknights\):1.3), animal ears, long hair
+(doctor \(arknights\):1.3), animal ears, long hair
+(surtr's golem \(arknights\):1.3), red hair, purple eyes, very long hair, long hair
+(elite ii \(arknights\):1.3), tail, animal ears, long hair

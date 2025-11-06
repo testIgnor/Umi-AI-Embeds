@@ -3924,6 +3924,10 @@
             "ss_name": "St._Louis_Luxurious_Wheels",
             "baseModel": "Illustrious"
         },
+        "star_rail_all-000014": {
+            "ss_name": "star_rail_all",
+            "baseModel": "Illustrious"
+        },
         "Statue_of_Liberty_IL": {
             "ss_name": "Statue_of_Liberty_IL",
             "baseModel": "Illustrious"
@@ -4968,6 +4972,10 @@
             "ss_name": "Ariel",
             "baseModel": "Pony"
         },
+        "arknights_all_v4_0711": {
+            "ss_name": "arknights_all_v4",
+            "baseModel": "Pony"
+        },
         "Ark_Fortnite_PXL_Leaf1-000010": {
             "ss_name": "Ark_Fortnite_PXL_Leaf1",
             "baseModel": "Pony"
@@ -5070,6 +5078,10 @@
         },
         "Azula_TheLastAirbender_PXL_Leaf1": {
             "ss_name": "Azula_TheLastAirbender_PXL_Leaf1",
+            "baseModel": "Pony"
+        },
+        "azur_lane_all_v1": {
+            "ss_name": "azur_lane_all_v1",
             "baseModel": "Pony"
         },
         "Baby_SL_model_fnaf-000003": {
@@ -6252,6 +6264,10 @@
             "ss_name": "Fiona_xenoblade_3",
             "baseModel": "Pony"
         },
+        "fire_emblem_all_v1": {
+            "ss_name": "fire_emblem_all_v1",
+            "baseModel": "Pony"
+        },
         "FirolianLyco": {
             "ss_name": "FirolianLyco",
             "baseModel": "Pony"
@@ -6484,6 +6500,10 @@
             "ss_name": "Genista_-_Light_Armor_\u30b8\u30a7\u30cb\u30b9\u30bf_-_\u8efd\u88c5\u7532_-_Darling_in_the_FranXX",
             "baseModel": "Pony"
         },
+        "genshin_v4": {
+            "ss_name": "genshin_v4",
+            "baseModel": "Pony"
+        },
         "Ghu": {
             "ss_name": "Ghu",
             "baseModel": "Pony"
@@ -6538,6 +6558,10 @@
         },
         "goodra": {
             "ss_name": "goodra",
+            "baseModel": "Pony"
+        },
+        "granblue_fantasy_all": {
+            "ss_name": "granblue_fantasy_all",
             "baseModel": "Pony"
         },
         "gravityrush_kat_ponyXL-000004": {
@@ -6688,6 +6712,10 @@
             "ss_name": "honeybv3",
             "baseModel": "Pony"
         },
+        "honkai_impact_3rd_v1": {
+            "ss_name": "honkai_impact_3rd_v1",
+            "baseModel": "Pony"
+        },
         "Hoobamon": {
             "ss_name": "Hoobamon",
             "baseModel": "Pony"
@@ -6726,6 +6754,10 @@
         },
         "Ichigo_-_Darling_in_the_Franxx": {
             "ss_name": "Ichigo_-_Darling_in_the_Franxx",
+            "baseModel": "Pony"
+        },
+        "idolmaster_shiny_colors": {
+            "ss_name": "idolmaster_shiny_colors",
             "baseModel": "Pony"
         },
         "IkkiXLv2": {
@@ -6974,6 +7006,10 @@
         },
         "Kan-E-Senna": {
             "ss_name": "Kan-E-Senna",
+            "baseModel": "Pony"
+        },
+        "kancolle_442": {
+            "ss_name": "kancolle_442",
             "baseModel": "Pony"
         },
         "Kanna": {
@@ -8096,6 +8132,10 @@
             "ss_name": "Nidoqueen",
             "baseModel": "Pony"
         },
+        "nike_base": {
+            "ss_name": "nike_base",
+            "baseModel": "Pony"
+        },
         "Nina_Williams__TEKKEN_PONY_XL_by_UOC": {
             "ss_name": "Nina_Williams__TEKKEN_PONY_XL_by_UOC",
             "baseModel": "Pony"
@@ -8638,6 +8678,10 @@
         },
         "PrincessPeach_XLPD": {
             "ss_name": "PrincessPeach_XLPD",
+            "baseModel": "Pony"
+        },
+        "princess_connect": {
+            "ss_name": "rincess_connect",
             "baseModel": "Pony"
         },
         "Princess_Elise_-_Sonic_06": {
@@ -13291,6 +13335,9 @@
         "St._Louis_Luxurious_Wheels": [
             "St._Louis_Luxurious_Wheels"
         ],
+        "star_rail_all": [
+            "star_rail_all-000014"
+        ],
         "Statue_of_Liberty_IL": [
             "Statue_of_Liberty_IL"
         ],
@@ -14024,6 +14071,9 @@
         "Ariel": [
             "Ariel"
         ],
+        "arknights_all_v4": [
+            "arknights_all_v4_0711"
+        ],
         "Ark_Fortnite_PXL_Leaf1": [
             "Ark_Fortnite_PXL_Leaf1-000010"
         ],
@@ -14101,6 +14151,9 @@
         ],
         "Azula_TheLastAirbender_PXL_Leaf1": [
             "Azula_TheLastAirbender_PXL_Leaf1"
+        ],
+        "azur_lane_all_v1": [
+            "azur_lane_all_v1"
         ],
         "Baby_SL_model_fnaf": [
             "Baby_SL_model_fnaf-000003"
@@ -14962,6 +15015,9 @@
         "Fiona_xenoblade_3": [
             "Fiona_xenoblade_3-10"
         ],
+        "fire_emblem_all_v1": [
+            "fire_emblem_all_v1"
+        ],
         "FirolianLyco": [
             "FirolianLyco"
         ],
@@ -15133,6 +15189,9 @@
         "Genista_-_Light_Armor_\u30b8\u30a7\u30cb\u30b9\u30bf_-_\u8efd\u88c5\u7532_-_Darling_in_the_FranXX": [
             "Genista_-_Light_Armor_\u30b8\u30a7\u30cb\u30b9\u30bf_-_\u8efd\u88c5\u7532_-_Darling_in_the_FranXX"
         ],
+        "genshin_v4": [
+            "genshin_v4"
+        ],
         "Ghu": [
             "Ghu"
         ],
@@ -15171,6 +15230,9 @@
         ],
         "goodra": [
             "goodra"
+        ],
+        "granblue_fantasy_all": [
+            "granblue_fantasy_all"
         ],
         "gravityrush_kat_ponyXL": [
             "gravityrush_kat_ponyXL-000004"
@@ -15280,6 +15342,9 @@
         "honeybv3": [
             "honeybv3"
         ],
+        "honkai_impact_3rd_v1": [
+            "honkai_impact_3rd_v1"
+        ],
         "Hoobamon": [
             "Hoobamon"
         ],
@@ -15309,6 +15374,9 @@
         ],
         "Ichigo_-_Darling_in_the_Franxx": [
             "Ichigo_-_Darling_in_the_Franxx"
+        ],
+        "idolmaster_shiny_colors": [
+            "idolmaster_shiny_colors"
         ],
         "IkkiXLv2": [
             "IkkiXLv2"
@@ -15492,6 +15560,9 @@
         ],
         "Kan-E-Senna": [
             "Kan-E-Senna"
+        ],
+        "kancolle_442": [
+            "kancolle_442"
         ],
         "Kanna": [
             "Kanna"
@@ -16306,6 +16377,9 @@
         "Nidoqueen": [
             "Nidoqueen"
         ],
+        "nike_base": [
+            "nike_base"
+        ],
         "Nina_Williams__TEKKEN_PONY_XL_by_UOC": [
             "Nina_Williams__TEKKEN_PONY_XL_by_UOC"
         ],
@@ -16705,6 +16779,9 @@
         ],
         "PrincessPeach_XLPD": [
             "PrincessPeach_XLPD"
+        ],
+        "rincess_connect": [
+            "princess_connect"
         ],
         "Princess_Lexa_-_Fortnite_Skin_SDXL__Pony": [
             "Princess_Lexa_-_Fortnite_Skin_SDXL__Pony"

@@ -52,3 +52,62 @@
 (akino \(princess connect!\):1.3), princess connect!, red hair, pointy ears, blue eyes, long hair, purple eyes, blonde hair
 (pecorine \(new year\) \(princess connect!\):1.3), princess connect!, orange hair, hair between eyes, blue eyes, long hair, black hair, animal ears, cat ears
 (misato \(summer\) \(princess connect!\):1.3), princess connect!, red hair, pointy ears, blue eyes, long hair, brown hair, very long hair
+(karyl \(princess connect!\):1.3), very long hair, twintails, streaked hair, low twintails, animal ears, green eyes, black hair, multicolored hair, animal ear fluff, long hair, white hair, cat ears, cat tail, tail
+(pecorine \(princess connect!\):1.3), very long hair, ahoge, braid, long hair, blue eyes, orange hair
+(kokkoro \(princess connect!\):1.3), hair ornament, hair flower, hair between eyes, pointy ears, grey hair, short hair, white hair, antenna hair
+(saren \(princess connect!\):1.3), hair ornament, hair bow, long hair, blonde hair, pointy ears, blue eyes
+(yui \(princess connect!\):1.3), hair ornament, pink hair, short hair, blue eyes
+(chloe \(princess connect!\):1.3), twintails, long hair, pointy ears, blonde hair, purple eyes
+(yuni \(princess connect!\):1.3), twin braids, hair between eyes, long hair, braid, purple eyes, orange hair, brown hair
+(saren \(summer\) \(princess connect!\):1.3), hair ornament, hair flower, ponytail, long hair, hair bow, blonde hair, pointy ears, blue eyes, hair up
+(pecorine \(summer\) \(princess connect!\):1.3), very long hair, hair ornament, ahoge, hair flower, hair between eyes, long hair, braid, hairband, blue eyes, orange hair
+(yuuki \(princess connect!\):1.3), black hair, short hair, long hair
+(karyl \(summer\) \(princess connect!\):1.3), very long hair, twintails, streaked hair, low twintails, animal ears, green eyes, eyewear on head, black hair, long hair, animal ear fluff, multicolored hair, white hair, cat ears, cat tail, tail
+(chieru \(princess connect!\):1.3), hair ornament, yellow eyes, symbol in eye, ahoge, star hair ornament, bow hairband, star in eye, hair bow, pink hair, short hair, hairband
+(eriko \(princess connect!\):1.3), spiked tail, short hair, purple eyes, tail, brown hair
+(kyoka \(princess connect!\):1.3), very long hair, twintails, purple hair, long hair, pointy ears
+(shiori \(princess connect!\):1.3), tiger ears, yellow eyes, animal ears, black hair, hair between eyes, long hair, multicolored hair, animal ear fluff, gradient hair, tiger tail, tail
+(hatsune \(princess connect!\):1.3), hair rings, hair ornament, star hair ornament, long hair, pointy ears, hair ribbon, pink hair, purple eyes
+(shizuru \(princess connect!\):1.3), hair between eyes, blue eyes, long hair, purple hair
+(makoto \(princess connect!\):1.3), yellow eyes, animal ears, purple hair, wolf ears, wolf tail, long hair, animal ear fluff, tail
+(yui \(ceremonial\) \(princess connect!\):1.3), hair rings, hair ornament, braided hair rings, braid, pink hair, short hair, blue eyes
+(nozomi \(princess connect!\):1.3), brown eyes, long hair, brown hair
+(tsumugi \(princess connect!\):1.3), pink hair, twintails, purple eyes, long hair
+(misora \(princess connect!\):1.3), medium hair, hair ornament, purple hair, bow hairband, hairband, blue eyes, hairclip
+(kasumi \(princess connect!\):1.3), blunt bangs, extra ears, animal ears, purple hair, long hair, animal ear fluff, purple eyes, dog ears
+(misato \(princess connect!\):1.3), braid, long hair, pointy ears, blue eyes, red hair
+(chloe \(school festival\) \(princess connect!\):1.3), ponytail, hair bow, pointy ears, blonde hair, long hair, purple eyes
+(mimi \(princess connect!\):1.3), hair ornament, twintails, animal ears, twin braids, hair flower, rabbit ears, long hair, braid, pink hair, hairband
+(illya \(princess connect!\):1.3), hair between eyes, black hair, red eyes, long hair
+(rei \(princess connect!\):1.3), blue hair, long hair
+(hatsune \(summer\) \(princess connect!\):1.3), hair rings, hair ornament, star hair ornament, long hair, pointy ears, hair ribbon, pink hair, purple eyes
+(kokkoro \(summer\) \(princess connect!\):1.3), hair ornament, hair flower, hair between eyes, pointy ears, grey hair, short hair, white hair, antenna hair
+(neneka \(princess connect!\):1.3), very long hair, long hair, pointy ears, pink hair, pink eyes
+(saren \(christmas\) \(princess connect!\):1.3), hair ornament, hair bow, long hair, blonde hair, pointy ears, blue eyes
+(kokkoro \(ceremonial\) \(princess connect!\):1.3), hair between eyes, pointy ears, cone hair bun, grey hair, short hair, white hair, hair bun, antenna hair
+(misogi \(princess connect!\):1.3), orange hair, side ponytail, long hair
+(akari \(princess connect!\):1.3), twintails, grey hair, short hair, hairband, blue eyes, short twintails, demon tail, tail
+(aoi \(princess connect!\):1.3), green hair, green eyes, pointy ears, short hair, hair over one eye
+(shizuru \(summer\) \(princess connect!\):1.3), purple hair, twin braids, hair between eyes, braid, long hair, blue eyes
+(rino \(princess connect!\):1.3), hair rings, hair ornament, green eyes, orange hair, brown hair
+(makoto \(summer\) \(princess connect!\):1.3), yellow eyes, purple tail, animal ears, purple hair, wolf ears, wolf tail, animal ear fluff, tail
+(io \(princess connect!\):1.3), long hair, pink hair, red hair, demon tail, red eyes, tail
+(misato \(summer\) \(princess connect!\):1.3), braid, long hair, pointy ears, blue eyes, red hair
+(maho \(princess connect!\):1.3), blunt bangs, animal ears, green eyes, long hair, animal ear fluff, fox tail, fox ears, tail, brown hair
+(eriko \(summer\) \(princess connect!\):1.3), hair ornament, purple tail, spiked tail, hair flower, short hair, heart, purple eyes, tail, brown hair
+(kaori \(princess connect!\):1.3), dark skin, animal ears, fang, long hair, dark-skinned female, tail, brown hair
+(saren \(real\) \(princess connect!\):1.3), blunt bangs, yellow eyes, hair bow, long hair, blonde hair
+(sheffy \(princess connect!\):1.3), hair between eyes, long hair, braid, pointy ears, purple eyes, blue hair, tail
+(karyl \(new year\) \(princess connect!\):1.3), hair ornament, streaked hair, animal ears, green eyes, black hair, hair flower, multicolored hair, animal ear fluff, long hair, braid, white hair, cat ears, cat tail, tail
+(christina \(princess connect!\):1.3), hair between eyes, ponytail, long hair, blonde hair, parted bangs
+(chieru \(school festival\) \(princess connect!\):1.3), hair ornament, symbol in eye, yellow eyes, ahoge, star hair ornament, bow hairband, star in eye, pink hair, short hair, hairband
+(suzume \(princess connect!\):1.3), hair bun, brown eyes, long hair, brown hair
+(ameth \(princess connect!\):1.3), very long hair, blunt bangs, hair ornament, purple hair, green hair, hair flower, two-tone hair, pointy ears, multicolored hair, long hair, blue eyes, drill hair
+(hiyori \(princess connect!\):1.3), hair ornament, yellow eyes, animal ears, hairclip, tail, animal ear fluff, blonde hair, pink hair, short hair, cat ears, cat tail, orange hair
+(pecorine \(new year\) \(princess connect!\):1.3), hair ornament, ahoge, hair flower, long hair, braid, blue eyes, orange hair
+(yui \(summer\) \(princess connect!\):1.3), hair ornament, hair flower, braid, pink hair, short hair, blue eyes, sunflower hair ornament
+(akino \(princess connect!\):1.3), ponytail, hair bow, long hair, red hair, purple eyes, parted bangs
+(yukari \(princess connect!\):1.3), long hair, pointy ears, blonde hair, purple eyes, parted bangs
+(pecorine \(real\) \(princess connect!\):1.3), very long hair, ahoge, hair between eyes, braid, long hair, blue eyes, orange hair
+(yuni \(real\) \(princess connect!\):1.3), green hair, twin braids, ahoge, hair between eyes, braid, long hair, blue eyes
+(suzuna \(princess connect!\):1.3), long hair, tail, pink hair, blue eyes, heart, side ponytail

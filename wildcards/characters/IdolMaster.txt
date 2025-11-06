@@ -229,3 +229,31 @@
 (blitzen:1.3), idolmaster, yellow eyes, long hair, white hair
 (pero \(idolmaster cinderella girls\):1.3), idolmaster, black hair, blue hair, red eyes, long hair
 (inumi:1.3), idolmaster, antenna hair, long hair, blue eyes, black hair
+(hachimiya meguru:1.3), idolmaster, blonde hair, low twintails, ahoge, blue eyes, hair flaps <lora:idolmaster_shiny_colors:1>
+(kazano hiori:1.3), idolmaster, black hair, ponytail, blue eyes, mole under mouth <lora:idolmaster_shiny_colors:1>
+(sakuragi mano:1.3), idolmaster, brown hair, brown eyes <lora:idolmaster_shiny_colors:1>
+(mitsumine yuika:1.3), idolmaster, black hair, glasses, blue eyes, twintails <lora:idolmaster_shiny_colors:1>
+(shirase sakuya:1.3), idolmaster, black hair, yellow eyes, ponytail, hair between eyes <lora:idolmaster_shiny_colors:1>
+(tanaka mamimi:1.3), idolmaster, purple hair, purple eyes, diagonal bangs, short twintails <lora:idolmaster_shiny_colors:1>
+(tsukioka kogane:1.3), idolmaster, brown hair, brown eyes, pink eyes <lora:idolmaster_shiny_colors:1>
+(yukoku kiriko:1.3), idolmaster, silver hair, grey hair, purple eyes, long hair, twintails <lora:idolmaster_shiny_colors:1>
+(kuwayama chiyuki:1.3), idolmaster, brown eyes, brown hair, yellow eyes, braid, ahoge <lora:idolmaster_shiny_colors:1>
+(osaki amana:1.3), idolmaster, long hair, brown hair, yellow eyes <lora:idolmaster_shiny_colors:1>
+(osaki tenka:1.3), idolmaster, long hair, brown hair, yellow eyes <lora:idolmaster_shiny_colors:1>
+(arisugawa natsuha:1.3), idolmaster, long hair, red hair, black eyes, ringlets <lora:idolmaster_shiny_colors:1>
+(komiya kaho:1.3), idolmaster, long hair, pink eyes, pink hair, red hair, ahoge <lora:idolmaster_shiny_colors:1>
+(morino rinze:1.3), idolmaster, blue hair, red eyes, short hair <lora:idolmaster_shiny_colors:1>
+(saijo juri:1.3), idolmaster, short hair, blonde hair, purple eyes, tsurime <lora:idolmaster_shiny_colors:1>
+(sonoda chiyoko:1.3), idolmaster, double bun, red eyes, brown hair, short twintails <lora:idolmaster_shiny_colors:1>
+(izumi mei:1.3), idolmaster, multicolored hair, earrings, brown hair, blonde hair, dark skin, long hair, dark-skinned female, gradient hair <lora:idolmaster_shiny_colors:1>
+(mayuzumi fuyuko:1.3), idolmaster, long hair, black hair, two side up, brown eyes <lora:idolmaster_shiny_colors:1>
+(serizawa asahi:1.3), idolmaster, short hair, light brown hair, grey hair, bob cut, blue eyes <lora:idolmaster_shiny_colors:1>
+(asakura toru:1.3), idolmaster, parted bangs, pixie cut, short hair, gradient hair, two-tone grey hair, aqua hair, aqua eyes, ahoge, single earring, ear piercing, tomboy <lora:idolmaster_shiny_colors:1>
+(fukumaru koito:1.3), idolmaster, black hair, twintails, purple eyes <lora:idolmaster_shiny_colors:1>
+(higuchi madoka:1.3), idolmaster, short hair, brown hair, swept bangs, mole under eye, purple eyes, hairclip, nail polish, red nails, purple nails <lora:idolmaster_shiny_colors:1>
+(ichikawa hinana:1.3), idolmaster, single side bun, single hair bun, long brown hair, brown eyes, hair ribbon <lora:idolmaster_shiny_colors:1>
+(aketa mikoto:1.3), idolmaster, medium hair, brown hair, blonde hair, multicolored hair, earrings, blue eyes, brown eyes <lora:idolmaster_shiny_colors:1>
+(nanakusa nichika:1.3), idolmaster, short hair, green hair, brown hair, green eyes, brown eyes <lora:idolmaster_shiny_colors:1>
+(ikaruga luca:1.3), idolmaster, multicolored hair, medium hair, black hair, blonde hair, yellow eyes <lora:idolmaster_shiny_colors:1>
+(ikuta haruki:1.3), idolmaster, brown hair, short hair, yellow eyes <lora:idolmaster_shiny_colors:1>
+(suzuki hana:1.3), idolmaster, blue hair, long hair, crossed bangs, purple eyes, black hairband <lora:idolmaster_shiny_colors:1>

@@ -107,3 +107,238 @@
 (lich \(granblue fantasy\):1.3), granblue fantasy, long hair, hair between eyes, bags under eyes, purple eyes, black hair
 (aster \(granblue fantasy\):1.3), granblue fantasy, long hair, brown eyes, brown hair
 (ogre \(granblue fantasy\):1.3), granblue fantasy, blonde hair, brown eyes, short hair
+(narmaya \(granblue fantasy\):1.3), pink hair, hair ornament, braid, blue eyes, hair over one eye, long hair, pointy ears
+(djeeta \(granblue fantasy\):1.3), short hair, hairband, brown eyes, blonde hair
+(zeta \(granblue fantasy\):1.3), twintails, hairband, blue eyes, long hair, blonde hair
+(ferry \(granblue fantasy\):1.3), earrings, animal ears, wavy hair, blue hair, yellow eyes, long hair
+(anila \(granblue fantasy\):1.3), thick eyebrows, ahoge, yellow eyes, long hair, blonde hair
+(cagliostro \(granblue fantasy\):1.3), long hair, purple eyes, blonde hair
+(vikala \(granblue fantasy\):1.3), short hair, mouse ears, hair ornament, animal ears, red eyes
+(clarisse \(granblue fantasy\):1.3), hair ribbon, green eyes, ponytail, long hair, brown hair
+(zooey \(granblue fantasy\):1.3), hair between eyes, dark-skinned female, red eyes, dark skin, ahoge, white hair, long hair
+(andira \(granblue fantasy\):1.3), short hair, tail, monkey tail, animal ears, red eyes, monkey ears, blonde hair
+(vira \(granblue fantasy\):1.3), red eyes, hair bow, ponytail, long hair, blonde hair
+(vane \(granblue fantasy\):1.3), short hair, blonde hair, green eyes
+(jeanne d'arc \(granblue fantasy\):1.3), hair ornament, hairband, hair flower, blue eyes, long hair, blonde hair
+(narmaya \(summer\) \(granblue fantasy\):1.3), pink hair, earrings, hair ornament, blue eyes, hair over one eye, hair bun, long hair, pointy ears
+(yuel \(granblue fantasy\):1.3), tail, hair ornament, animal ears, hair bell, black hair, red eyes, fox ears, fox tail, long hair
+(beatrix \(granblue fantasy\):1.3), long hair, brown hair, ponytail
+(fighter \(granblue fantasy\):1.3), short hair, hairband, brown eyes, blonde hair
+(vajra \(granblue fantasy\):1.3), short hair, tail, dog ears, hair ornament, animal ears, braid, blonde hair
+(catura \(granblue fantasy\):1.3), ear piercing, animal ears, cow ears, blue hair, long hair, pointy ears
+(silva \(granblue fantasy\):1.3), grey hair, braid, very long hair, ahoge, yellow eyes, long hair, twin braids
+(sen \(granblue fantasy\):1.3), long hair, hair between eyes, animal ears, grey hair
+(galleon \(granblue fantasy\):1.3), animal ears, streaked hair, closed eyes, multicolored hair, extra ears, long hair, pointy ears, brown hair
+(charlotta \(granblue fantasy\):1.3), blue eyes, very long hair, long hair, pointy ears, blonde hair
+(nier \(granblue fantasy\):1.3), animal ears, black hair, hair between eyes, red eyes, long hair
+(lyria \(granblue fantasy\):1.3), blue hair, blue eyes, very long hair, ahoge, long hair
+(tweyen \(granblue fantasy\):1.3), long hair, hair ornament, brown hair
+(zooey \(summer\) \(granblue fantasy\):1.3), hair ornament, hair between eyes, hair flower, dark-skinned female, red eyes, dark skin, ahoge, white hair, long hair
+(kumbhira \(granblue fantasy\):1.3), dark-skinned female, dark skin, yellow eyes, long hair, pointy ears, blonde hair
+(rosetta \(granblue fantasy\):1.3), hair ornament, hair between eyes, purple eyes, hair flower, long hair, brown hair
+(magisa \(granblue fantasy\):1.3), long hair, hair between eyes, grey hair
+(europa \(granblue fantasy\):1.3), short hair, hair ornament, hair between eyes, hair flower, blue eyes, blonde hair
+(zeta \(summer\) \(granblue fantasy\):1.3), twintails, eyewear on head, hair ornament, hair flower, blue eyes, long hair, blonde hair
+(anila \(summer\) \(granblue fantasy\):1.3), thick eyebrows, very long hair, ahoge, yellow eyes, long hair, short eyebrows, blonde hair
+(yuisis \(granblue fantasy\):1.3), long hair, braid, blonde hair, animal ears
+(gran \(granblue fantasy\):1.3), short hair, long hair, brown hair
+(threo \(granblue fantasy\):1.3), grey hair, hair between eyes, red eyes, very long hair, long hair
+(mahira \(granblue fantasy\):1.3), hair ornament, animal ears, red eyes, long hair, blonde hair
+(sandalphon \(granblue fantasy\):1.3), short hair, hair between eyes, red eyes, ahoge, messy hair, brown hair
+(ilsa \(granblue fantasy\):1.3), animal ears, black hair, hair between eyes, red eyes, long hair
+(sara \(granblue fantasy\):1.3), orange hair, long hair, blue eyes, hairband
+(metera \(granblue fantasy\):1.3), long hair, hair ornament, animal ears, brown hair
+(yggdrasil \(granblue fantasy\):1.3), twintails, hair ornament, hair between eyes, long hair, pink hair, pointy ears
+(nicola \(granblue fantasy\):1.3), earrings, animal ears, wavy hair, blue hair, yellow eyes, long hair
+(jeanne d'arc \(summer\) \(granblue fantasy\):1.3), hair ornament, hairband, hair flower, blue eyes, long hair, blonde hair
+(aliza \(granblue fantasy\):1.3), grey hair, red eyes, hair pulled back, ponytail, long hair, pointy ears
+(lecia \(granblue fantasy\):1.3), long hair, blue eyes, brown hair, braid
+(cucouroux \(granblue fantasy\):1.3), hair ribbon, twintails, blue eyes, long hair, blonde hair
+(alicia \(granblue fantasy\):1.3), earrings, grey hair, red eyes, long hair, pointy ears
+(scathacha \(granblue fantasy\):1.3), animal ears, red eyes, ears through headwear, white hair, long hair
+(sage \(granblue fantasy\):1.3), short hair, hair ornament, animal ears, hairband, rabbit ears, hair flower, brown eyes, fake animal ears, blonde hair
+(danua \(summer\) \(granblue fantasy\):1.3), horn ornament, antenna hair, black hair, hair between eyes, red eyes, long hair, pointy ears
+(societte \(granblue fantasy\):1.3), tail, hair ornament, animal ears, fox ears, blue eyes, fox tail, very long hair, white hair, long hair
+(sophia \(granblue fantasy\):1.3), long hair, blue hair, twintails
+(vira \(summer\) \(granblue fantasy\):1.3), hair ornament, hair flower, red eyes, hair bow, ponytail, long hair, blonde hair
+(sturm \(granblue fantasy\):1.3), short hair, red hair, earrings, animal ears, cow ears, pointy ears
+(fediel \(granblue fantasy\):1.3), grey hair, purple eyes, dark-skinned female, dark skin, long hair
+(yaia \(granblue fantasy\):1.3), short hair, hairband, brown eyes, brown hair
+(hansel \(granblue fantasy\):1.3), horn ornament, antenna hair, hair between eyes, black hair, red eyes, long hair, pointy ears
+(gretel \(granblue fantasy\):1.3), horn ornament, antenna hair, hair between eyes, black hair, red eyes, long hair, pointy ears
+(fugee \(granblue fantasy\):1.3), earrings, animal ears, brown eyes, wavy hair, blue hair, yellow eyes, long hair
+(niyon \(granblue fantasy\):1.3), hair ornament, hair over one eye, ponytail, purple hair, long hair, pointy ears
+(payila \(granblue fantasy\):1.3), horn ornament, hair ornament, gradient hair, multicolored eyes, two-tone eyes, green eyes, black hair, red eyes, tassel hair ornament, colored inner hair, green hair, multicolored hair, very long hair, long hair, pointy ears, two-tone hair
+(vyrn \(granblue fantasy\):1.3), long hair, blonde hair
+(jessica \(granblue fantasy\):1.3), long hair, black hair, black eyes
+(io \(granblue fantasy\):1.3), twintails, hair ornament, blue eyes, multicolored hair, long hair, blonde hair
+(vikala \(blooming summer wallflower\) \(granblue fantasy\):1.3), short hair, mouse ears, hair ornament, animal ears, red eyes, hair flower, white hair, fake animal ears, star-shaped eyewear
+(pengy \(granblue fantasy\):1.3), short hair, twintails, short twintails, blue eyes, ahoge, blonde hair
+(katalina \(granblue fantasy\):1.3), red eyes, long hair, brown hair, blonde hair
+(heles \(summer\) \(granblue fantasy\):1.3), cat ears, animal ears, grey hair, braid, hair tubes, hair between eyes, single braid, brown eyes, ears through headwear, very long hair, yellow eyes, long hair
+(narmaya \(valentine\) \(granblue fantasy\):1.3), pink hair, heart cutout, heart, hair ornament, braid, heart hair ornament, blue eyes, hair bow, hair over one eye, long hair, pointy ears
+(tweyen \(eternal's summer vacation\) \(granblue fantasy\):1.3), hair ornament, braid, hair flower, brown eyes, long hair, brown hair
+(narmaya \(holiday\) \(granblue fantasy\):1.3), pink hair, hair ornament, snowman hair ornament, braid, blue eyes, very long hair, hair over one eye, long hair, pointy ears
+(belial \(granblue fantasy\):1.3), short hair, black hair, red eyes
+(warlock \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair, hairband
+(lily \(granblue fantasy\):1.3), long hair, pointy ears, blue eyes, blue hair
+(geegee \(granblue fantasy\):1.3), earrings, animal ears, brown eyes, wavy hair, blue hair, long hair
+(cupitan \(granblue fantasy\):1.3), twintails, gradient hair, hair ornament, hair between eyes, low twintails, multicolored hair, very long hair, long hair, rainbow hair
+(alexiel \(summer\) \(granblue fantasy\):1.3), red hair, hair ornament, hair between eyes, blue eyes, very long hair, long hair
+(zeta \(dark\) \(granblue fantasy\):1.3), twintails, eyewear on head, hairband, blue eyes, long hair, blonde hair
+(korwa \(summer\) \(granblue fantasy\):1.3), blunt bangs, hair ornament, animal ears, grey hair, hair flower, blue eyes, long hair
+(percival \(granblue fantasy\):1.3), short hair, red hair, red eyes, blonde hair
+(makura \(granblue fantasy\):1.3), animal ears, yellow eyes, dark-skinned female, rabbit ears, dark skin, very long hair, white hair, long hair
+(satyr \(granblue fantasy\):1.3), twintails, animal ears, purple eyes, very long hair, purple hair, long hair
+(ouroboros \(granblue fantasy\):1.3), long hair, purple eyes, blonde hair, hairband
+(diola \(granblue fantasy\):1.3), long hair, blonde hair
+(lunalu \(granblue fantasy\):1.3), long hair, black hair, pointy ears, eyepatch
+(therese \(granblue fantasy\):1.3), animal ears, rabbit ears, blue hair, blue eyes, long hair, fake animal ears
+(andira \(summer\) \(granblue fantasy\):1.3), tail, short hair, monkey tail, hair ornament, animal ears, hair flower, red eyes, monkey ears, ahoge, hair bun, blonde hair
+(wamdus \(granblue fantasy\):1.3), short hair, blue eyes, ahoge, animal ears
+(tien \(granblue fantasy\):1.3), animal ears, braid, long hair, blue eyes, very long hair, pink hair
+(alter ego malevolent \(granblue fantasy\):1.3), short hair, hair ornament, grey hair, red eyes, x hair ornament
+(cagliostro \(halloween\) \(granblue fantasy\):1.3), one eye closed, hairband, purple eyes, long hair, blonde hair
+(kou \(granblue fantasy\):1.3), tail, hair ornament, animal ears, fox ears, fox tail, hair over one eye, long hair, blonde hair
+(europa \(summer\) \(granblue fantasy\):1.3), short hair, hair ornament, hair flower, blue eyes, blonde hair
+(berserker \(granblue fantasy\):1.3), short hair, blonde hair
+(farrah \(granblue fantasy\):1.3), short hair, blue eyes, grey hair
+(carmelina \(granblue fantasy\):1.3), hair ornament, green eyes, braid, very long hair, long hair, twin braids, pointy ears, brown hair
+(beppo \(granblue fantasy\):1.3), earrings, animal ears, brown eyes, wavy hair, blue hair, yellow eyes, long hair
+(momo \(granblue fantasy\):1.3), animal ears, brown eyes, wavy hair, blue hair, long hair
+(noa \(granblue fantasy\):1.3), braid, hair between eyes, single braid, pale skin, blue eyes, white hair, long hair
+(mirin \(granblue fantasy\):1.3), long hair, blue eyes, hair ornament, blonde hair
+(nier \(lover by the lily lake\) \(granblue fantasy\):1.3), animal ears, braid, black hair, red eyes, long hair, twin braids
+(lich \(granblue fantasy\):1.3), bags under eyes, black hair, purple eyes, hair over one eye, long hair
+(athena \(granblue fantasy\):1.3), braid, purple eyes, very long hair, long hair, twin braids, blonde hair
+(lecia \(summer\) \(granblue fantasy\):1.3), long hair, blue eyes, brown hair, braid
+(ferry \(summer\) \(granblue fantasy\):1.3), earrings, hair ornament, animal ears, hair flower, wavy hair, blue hair, ponytail, yellow eyes, long hair
+(izmir \(summer\) \(granblue fantasy\):1.3), hair ornament, hair between eyes, red eyes, hair flower, blue hair, very long hair, ponytail, long hair, pointy ears
+(ogre \(granblue fantasy\):1.3), short hair, hairband, blonde hair
+(drum master \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair
+(anna \(granblue fantasy\):1.3), long hair, red hair, very long hair, hair over one eye
+(granblue fantasy \(style\):1.3), long hair
+(aster \(granblue fantasy\):1.3), long hair, brown eyes, brown hair, animal ears
+(sutera \(granblue fantasy\):1.3), short hair, hair ornament, animal ears, grey hair, brown hair
+(mary \(granblue fantasy\):1.3), orange hair, long hair
+(ferry \(halloween\) \(granblue fantasy\):1.3), long hair, blue hair, rabbit ears, animal ears
+(almeida \(granblue fantasy\):1.3), earrings, dark-skinned female, dark skin, very long hair, long hair, pointy ears, blonde hair
+(jamil \(granblue fantasy\):1.3), short hair, black hair, dark-skinned male, dark skin, yellow eyes
+(kolulu \(granblue fantasy\):1.3), green eyes, dark-skinned female, dark skin, green hair, hair over one eye, long hair
+(olivia \(summer\) \(granblue fantasy\):1.3), hair ornament, hair flower, red eyes, long hair, blonde hair
+(ilsa \(summer\) \(granblue fantasy\):1.3), hair ribbon, eyewear on head, hair ornament, animal ears, black hair, hair between eyes, red eyes, hair flower, long hair
+(teena \(granblue fantasy\):1.3), short hair, earrings, blonde hair, green eyes
+(diantha \(granblue fantasy\):1.3), hair ornament, brown eyes, long hair, brown hair, side ponytail
+(siegfried \(granblue fantasy\):1.3), long hair, brown hair
+(beatrix \(halloween\) \(granblue fantasy\):1.3), long hair, brown hair
+(narmaya \(the black butterfly\) \(granblue fantasy\):1.3), pink hair, hair ornament, butterfly hair ornament, blue eyes, hair over one eye, long hair, pointy ears
+(clarisse \(valentine\) \(granblue fantasy\):1.3), hair ribbon, twintails, green eyes, hairband, low twintails, orange hair, long hair
+(cagliostro \(summer\) \(granblue fantasy\):1.3), heart-shaped eyewear, heart, eyewear on head, hair ornament, purple eyes, ponytail, long hair, blonde hair
+(black knight \(granblue fantasy\):1.3), short hair, brown hair
+(maria theresa \(granblue fantasy\):1.3), earrings, brown eyes, drill hair, long hair, pointy ears, blonde hair
+(cupitan \(summer\) \(granblue fantasy\):1.3), twintails, gradient hair, hair ornament, hair between eyes, low twintails, multicolored hair, very long hair, long hair, rainbow hair
+(vane \(halloween\) \(granblue fantasy\):1.3), short hair, tail, wolf tail, animal ears, green eyes, wolf ears, blonde hair
+(djeeta \(granblue fantasy\) \(cosplay\):1.3), short hair, long hair
+(sarya \(granblue fantasy\):1.3), blonde hair, ponytail, long hair, pointy ears, brown hair
+(ferry \(santa minidress\) \(granblue fantasy\):1.3), earrings, animal ears, wavy hair, blue hair, hair bow, very long hair, yellow eyes, long hair, single earring
+(io \(summer\) \(granblue fantasy\):1.3), twintails, hair ornament, hair flower, blue eyes, multicolored hair, long hair, blonde hair
+(lancelot \(granblue fantasy\):1.3), short hair, black hair, blue eyes, long hair, blonde hair
+(cagliostro \(youthful uniform\) \(granblue fantasy\):1.3), long hair, purple eyes, blonde hair, hairband
+(leona \(granblue fantasy\):1.3), long hair, blue eyes, hair ornament, brown hair
+(eugen \(granblue fantasy\):1.3), short hair, facial hair, beard, brown eyes, eyepatch, long hair, brown hair
+(you \(granblue fantasy\):1.3), tail, short hair, hair ornament, animal ears, multiple tails, hair between eyes, red eyes, fox ears, fox tail, blue hair
+(vajra \(summer\) \(granblue fantasy\):1.3), short hair, tail, dog ears, hair ornament, animal ears, dog tail, hair flower, blonde hair
+(assassin \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair
+(silva \(gentian blue\) \(granblue fantasy\):1.3), grey hair, braid, hair between eyes, wavy hair, very long hair, ahoge, ponytail, yellow eyes, long hair, twin braids
+(anthuria \(yukata\) \(granblue fantasy\):1.3), red hair, hair ornament, animal ears, braid, hair between eyes, red eyes, hair flower, long hair
+(rosetta \(summer\) \(granblue fantasy\):1.3), hair between eyes, purple eyes, blue eyes, very long hair, long hair, brown hair
+(kolulu \(summer\) \(granblue fantasy\):1.3), green eyes, dark-skinned female, dark skin, green hair, hair over one eye, long hair
+(kumbhira \(summer\) \(granblue fantasy\):1.3), horn ornament, hair ornament, dark-skinned female, hair flower, dark skin, multicolored hair, yellow eyes, long hair, pointy ears, blonde hair
+(wilnas \(granblue fantasy\):1.3), white hair, long hair, red hair, multicolored hair
+(superstar \(granblue fantasy\):1.3), short hair, hairband, heart, blonde hair
+(gunslinger \(granblue fantasy\):1.3), short hair, earrings, hairband, brown eyes, blonde hair
+(catherine \(granblue fantasy\):1.3), pink hair, long hair, pink eyes, animal ears
+(colossus \(granblue fantasy\):1.3), hair between eyes, red eyes, white hair, long hair, pointy ears
+(djeeta \(summer\) \(granblue fantasy\):1.3), short hair, hair ornament, hairband, brown eyes, blonde hair
+(threo \(eternal's summer vacation\) \(granblue fantasy\):1.3), hair ornament, grey hair, hair between eyes, red eyes, hair flower, very long hair, ahoge, long hair
+(glorybringer \(granblue fantasy\):1.3), short hair, hair ornament, hair flower, brown eyes, blonde hair
+(daetta \(granblue fantasy\):1.3), long hair, brown hair, blonde hair, grey hair
+(rosamia \(granblue fantasy\):1.3), black hair, hair between eyes, yellow eyes, purple hair, long hair
+(phoebe \(granblue fantasy\):1.3), hair ribbon, yellow eyes, blue hair, very long hair, drill hair, purple hair, long hair, blonde hair
+(cagliostro \(dark\) \(granblue fantasy\):1.3), long hair, purple eyes, blonde hair, hairband
+(mechanic \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair
+(clarisse \(soleil blanc\) \(granblue fantasy\):1.3), hair ribbon, earrings, hair ornament, green eyes, hair flower, hair bow, orange hair, long hair
+(luchador \(granblue fantasy\):1.3), short hair, long hair, blonde hair
+(gabriel \(granblue fantasy\):1.3), pink hair, long hair, blue eyes, blonde hair
+(rei \(granblue fantasy\):1.3), black hair, closed eyes, very long hair, long hair, pointy ears
+(nehan \(granblue fantasy\):1.3), short hair, blue eyes, animal ears, grey hair
+(azusa \(granblue fantasy\):1.3), braid, red eyes, ponytail, white hair, long hair, pointy ears
+(tanya \(granblue fantasy\):1.3), short hair, brown eyes, eyepatch, grey hair
+(eustace \(granblue fantasy\):1.3), short hair, animal ears, dark-skinned male, dark skin, hair over one eye, white hair
+(aglovale \(granblue fantasy\):1.3), long hair, blonde hair, red eyes
+(vane \(summer\) \(granblue fantasy\):1.3), short hair, green eyes, blonde hair, male swimwear
+(helel ben shalem \(summer\) \(granblue fantasy\):1.3), cat ears, hair ornament, animal ears, braid, dark-skinned female, red eyes, dark skin, very long hair, long hair, blonde hair
+(lu woh \(granblue fantasy\):1.3), animal ears, braid, asymmetrical eyewear, closed eyes, heterochromatic eyewear, yellow eyes, long hair, tinted eyewear, blonde hair
+(galleon \(life's compassionate observer\) \(granblue fantasy\):1.3), animal ears, streaked hair, blue hair, multicolored hair, extra ears, long hair, pointy ears, brown hair
+(augusta \(granblue fantasy\):1.3), hair ornament, grey hair, black hair, brown hair, very long hair, hair over one eye, long hair, pointy ears, blonde hair
+(elysian \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair, braid
+(lucilius \(granblue fantasy\):1.3), short hair, hair between eyes, blue eyes, messy hair, white hair
+(shura \(granblue fantasy\):1.3), long hair, hair ornament, braid, brown hair
+(vikala \(summer\) \(granblue fantasy\):1.3), twintails, hair ornament, black hair, red eyes, low twintails, short twintails, hair bow, hair bobbles, long hair
+(harie \(granblue fantasy\):1.3), long hair, brown hair, blonde hair
+(seofon \(granblue fantasy\):1.3), short hair, blonde hair
+(glorybringer \(granblue fantasy\) \(cosplay\):1.3), blonde hair, hair flower, brown eyes, hair ornament
+(narmaya \(granblue fantasy\) \(cosplay\):1.3), long hair, hair ornament
+(nekomancer \(granblue fantasy\) \(cosplay\):1.3), tail, short hair, cat tail, cat ears, animal ears, brown eyes, blonde hair
+(nier \(tormented lover\) \(granblue fantasy\):1.3), hair ornament, animal ears, black hair, red eyes, long hair
+(lamorak \(granblue fantasy\):1.3), earrings, braid, red eyes, long hair, brown hair, long bangs
+(magus \(granblue fantasy\):1.3), green eyes, long hair, black hair, short bangs
+(tiamat \(granblue fantasy\):1.3), long hair, pointy ears, blue hair
+(laguna \(granblue fantasy\):1.3), short hair, very long hair, hair over one eye, long hair, pointy ears, blonde hair
+(la coiffe \(granblue fantasy\):1.3), hair ornament, animal ears, leaf hair ornament, long hair, brown hair
+(apsaras \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair
+(heles \(irestill evening dress\) \(granblue fantasy\):1.3), cat ears, animal ears, grey hair, braid, hair tubes, hair between eyes, single braid, brown eyes, very long hair, yellow eyes, long hair, white hair
+(kengo \(granblue fantasy\):1.3), short hair, hair ornament, hair flower, brown eyes, blonde hair
+(lyria \(daughter of pearl\) \(granblue fantasy\):1.3), hair ornament, braid, hair flower, blue hair, blue eyes, very long hair, long hair, twin braids
+(silva \(summer\) \(granblue fantasy\):1.3), grey hair, braid, ahoge, yellow eyes, long hair, twin braids
+(enyo \(granblue fantasy\):1.3), green eyes, long hair, blonde hair, hairband
+(medusa \(summer\) \(granblue fantasy\):1.3), yellow eyes, long hair, pointy ears, very long hair
+(ninja \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair
+(seox \(granblue fantasy\):1.3), short hair, animal ears, grey hair
+(kaguya \(granblue fantasy\):1.3), hair ornament, animal ears, red eyes, rabbit ears, very long hair, long hair
+(chloe \(granblue fantasy\):1.3), short hair, animal ears, purple eyes, dark-skinned female, dark skin, multicolored hair, purple hair, white hair, two-tone hair
+(erin \(granblue fantasy\):1.3), blunt bangs, hair ornament, blue eyes, blue hair, long hair, pointy ears
+(doctor \(granblue fantasy\):1.3), short hair, blonde hair, hairband, brown eyes, brown hair
+(lich \(halloween\) \(granblue fantasy\):1.3), bags under eyes, hair ornament, black hair, purple eyes, hair over one eye, long hair
+(hermit \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair
+(carren \(granblue fantasy\):1.3), hair ornament, braid, blue eyes, long hair, brown hair
+(feower \(granblue fantasy\):1.3), pink hair, short hair, animal ears, braid, purple hair, long hair
+(lucio \(granblue fantasy\):1.3), short hair, hair between eyes, blue eyes, white hair, long hair, brown hair
+(djeeta \(back to school essentials\) \(granblue fantasy\):1.3), short hair, hairband, braid, brown eyes, twin braids, blonde hair
+(relic buster \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair, hairband
+(lobelia \(granblue fantasy\):1.3), short hair, brown hair
+(vampy \(yukata\) \(granblue fantasy\):1.3), hair ornament, hairclip, red eyes, hair flower, fang, long hair, pointy ears, blonde hair
+(arcana dueler \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair
+(morax \(granblue fantasy\):1.3), long hair, hair between eyes, grey hair
+(alchemist \(granblue fantasy\):1.3), short hair, hairband, round eyewear, brown eyes, blonde hair
+(cagliostro \(granblue fantasy\) \(cosplay\):1.3), short hair, long hair, blonde hair, green eyes
+(chaos ruler \(granblue fantasy\):1.3), short hair, blonde hair
+(zeta \(halloween\) \(granblue fantasy\):1.3), twintails, hairband, blue eyes, long hair, blonde hair
+(alter ego conjurer \(granblue fantasy\):1.3), white hair, hairband, red eyes, short hair
+(cucouroux \(halloween\) \(granblue fantasy\):1.3), twintails, one eye closed, blue eyes, long hair, blonde hair
+(iatromantis \(granblue fantasy\):1.3), short hair, brown eyes, blonde hair
+(fediel \(soul soother's finery\) \(granblue fantasy\):1.3), grey hair, round eyewear, purple eyes, dark-skinned female, fang, dark skin, ponytail, white hair, long hair, pointy ears
+(azusa \(summer\) \(granblue fantasy\):1.3), braided ponytail, hair ornament, grey hair, braid, red eyes, long hair, pointy ears, official alternate hairstyle
+(anila \(yukata\) \(granblue fantasy\):1.3), blunt bangs, thick eyebrows, ahoge, ponytail, yellow eyes, long hair, short eyebrows, blonde hair
+(claudia \(granblue fantasy\):1.3), short hair, black hair, hair bun, single hair bun, brown hair
+(juliet \(granblue fantasy\):1.3), braid, blue eyes, blunt bangs, brown hair
+(lilele \(granblue fantasy\):1.3), grey hair, blue eyes, hair bow, long hair, pointy ears
+(vira \(scarlet camellia kimono\) \(granblue fantasy\):1.3), hair ornament, red eyes, hair flower, ponytail, long hair, blonde hair
+(vira \(festive princess\) \(granblue fantasy\):1.3), red eyes, hair bow, ponytail, long hair, blonde hair
+(predator \(granblue fantasy\):1.3), long hair, earrings, blonde hair, hair over one eye
+(narmaya \(visions of butterflies\) \(granblue fantasy\):1.3), pink hair, hair ornament, braid, single braid, blue eyes, very long hair, hair over one eye, long hair, pointy ears
+(chrysaor \(granblue fantasy\):1.3), short hair, hairband, brown eyes, blonde hair
+(vane \(the dragon knights\) \(granblue fantasy\):1.3), green eyes, blonde hair, short hair
+(lantana \(granblue fantasy\):1.3), short hair, facial hair, dark-skinned male, dark skin, orange hair, pointy ears
+(alba \(granblue fantasy\):1.3), earrings, butterfly earrings, very long hair, long hair, pointy ears, blonde hair
+(forbidden alter ego \(granblue fantasy\):1.3), short hair, hair ornament, grey hair, red eyes, x hair ornament

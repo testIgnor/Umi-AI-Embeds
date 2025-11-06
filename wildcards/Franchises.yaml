@@ -107,7 +107,7 @@
   Tags:
     - MySpecies
     - Aeromorphs
-'<[model][illu]>source_anime, _=Species/Monster Girl Encyclopedia=_ <lora:MGE_V6.1_IL_Final_R1:1>':
+'<[model][illu]>source_anime, _=Species/Monster Girl Encyclopedia=_ <lora:MGE_V6.1_IL_Final_R1:0.8>':
   Description:
     - Monster Girl Encyclopedia
   Tags:
@@ -173,7 +173,7 @@
   Tags:
     - Characters
     - Ace Attorney
-'<[model][Any]>source_anime, _=Characters/Arknights=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Arknights=_ <lora:arknights_all_v4:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Arknights Characters
   Tags:
@@ -185,13 +185,13 @@
   Tags:
     - Characters
     - ATLA
-'<[model][Any]>source_anime, _=Characters/Azur Lane=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Azur Lane=_ <lora:azur_lane_all_v1:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Azur Lane Characters
   Tags:
     - Characters
     - Azur Lane
-'<[model][Any]>source_anime, _=Characters/Blue Archive=_ <lora:blue_archive_all_v3:0.5>**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Blue Archive=_ <lora:blue_archive_all_v3:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Blue Archive Characters
   Tags:
@@ -310,13 +310,13 @@
   Tags:
     - Characters
     - Final Fantasy
-'<[model][Any]>source_anime, _=Characters/Fire Emblem=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Fire Emblem=_ <lora:fire_emblem_all_v1:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Fire Emblem Characters
   Tags:
     - Characters
     - Fire Emblem
-'<[model][Any]>source_anime, _=Characters/Genshin=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Genshin=_ <lora:genshin_v4:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Genshin Characters
   Tags:
@@ -334,7 +334,7 @@
   Tags:
     - Characters
     - Girls und Panzer
-'<[model][Any]>source_anime, _=Characters/Granblue=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Granblue=_ <lora:granblue_fantasy_all:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Granblue Characters
   Tags:
@@ -358,19 +358,13 @@
   Tags:
     - Characters
     - Hololive
-'<[model][Any]>source_anime, _=Characters/Honkai=_**(yellow skin, orange skin, red skin:1.5)**':
-  Description:
-    - Honkai Characters
-  Tags:
-    - Characters
-    - Honkai
-'<[model][Any]>source_anime, _=Characters/Idol Master=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/IdolMaster=_**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - IdolMaster Characters
   Tags:
     - Characters
     - Idol Master
-'<[model][Any]>source_anime, _=Characters/Kantai Collection=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Kantai Collection=_ <lora:kancolle_442:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Kantai Characters
   Tags:
@@ -479,7 +473,7 @@
   Tags:
     - Characters
     - Nijisanji
-'<[model][Any]>source_anime, _=Characters/Nikke=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Nikke=_ <lora:nike_base:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Nikke Characters
   Tags:
@@ -557,7 +551,7 @@
   Tags:
     - Characters
     - Queens Blade
-'<[model][Any]>source_anime, _=Characters/Princess Connect=_**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/Princess Connect=_ <lora:rincess_connect:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Princess Connect Characters
   Tags:
@@ -653,7 +647,7 @@
   Tags:
     - Characters
     - Touhou
-'<[model][illu]>source_anime, _=Characters/Umamusume=_ <lora:UmaDiffusionXL_4th_weighted:1>**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][illu]>source_anime, _=Characters/Umamusume=_ <lora:UmaDiffusionXL_4th_weighted:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - Umamusume Characters
   Tags:
@@ -719,7 +713,7 @@
   Tags:
     - Characters
     - TLOZ
-'<[model][Any]>source_anime, _=Characters/ZZZ=_ <lora:zzz-v6-illustrious:1>**(yellow skin, orange skin, red skin:1.5)**':
+'<[model][Any]>source_anime, _=Characters/ZZZ=_ <lora:zzz-v6-illustrious:0.8>**(yellow skin, orange skin, red skin:1.5)**':
   Description:
     - ZZZ Characters
   Tags:
@@ -1130,3 +1124,16 @@
   Tags:
     - Characters
     - Stellar Blade
+'<[model][Any]>source_anime, _=Characters/Honkai Star Rail=_ <lora:star_rail_all:0.8>**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Honkai Star Rail Characters
+  Tags:
+    - Characters
+    - Honkai Star Rail
+
+'<[model][Any]>source_anime, _=Characters/Honkai Impact 3rd=_ <lora:honkai_impact_3rd_v1:0.8>**(yellow skin, orange skin, red skin:1.5)**':
+  Description:
+    - Honkai Impact 3rd Characters
+  Tags:
+    - Characters
+    - Honkai Impact 3rd
