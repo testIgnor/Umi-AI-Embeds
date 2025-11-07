@@ -872,6 +872,10 @@
             "ss_name": "Cross_Swimsuit",
             "baseModel": "Illustrious"
         },
+        "Crying_Wolf__Metal_Gear_Solid_4": {
+            "ss_name": "Crying_Wolf__Metal_Gear_Solid_4",
+            "baseModel": "Illustrious"
+        },
         "crystal-10": {
             "ss_name": "crystal",
             "baseModel": "Illustrious"
@@ -2364,6 +2368,14 @@
             "ss_name": "latte_cookie_(cookie_run)-koto-illustrious test",
             "baseModel": "Illustrious"
         },
+        "Laughing OctopusilluLora": {
+            "ss_name": "Laughing OctopusilluLora",
+            "baseModel": "Illustrious"
+        },
+        "Laughing_Octopus_Metal_Gear_Solid_4": {
+            "ss_name": "Laughing_Octopus_Metal_Gear_Solid_4",
+            "baseModel": "Illustrious"
+        },
         "laundry dragonmaid & eldlich the golden lord illuXL v1": {
             "ss_name": "laundry dragonmaid & eldlich the golden lord illuXL v1",
             "baseModel": "Illustrious"
@@ -3696,6 +3708,10 @@
             "ss_name": "SCP_1471",
             "baseModel": "Illustrious"
         },
+        "Screaming_Mantis_Metal_Gear_Solid_4": {
+            "ss_name": "Screaming_Mantis_Metal_Gear_Solid_4",
+            "baseModel": "Illustrious"
+        },
         "Scylla_ILXL": {
             "ss_name": "Scylla_ILXL",
             "baseModel": "Illustrious"
@@ -3958,6 +3974,10 @@
         },
         "StrawCrepe2XL": {
             "ss_name": "StrawCrepe2XL",
+            "baseModel": "Illustrious"
+        },
+        "stutter_neet": {
+            "ss_name": "stutter_neet",
             "baseModel": "Illustrious"
         },
         "SuccubusCosplayLingerieILL": {
@@ -7824,6 +7844,22 @@
             "ss_name": "Mewtwo",
             "baseModel": "Pony"
         },
+        "MGS4_Crying_Wolf": {
+            "ss_name": "MGS4_Crying_Wolf",
+            "baseModel": "Pony"
+        },
+        "MGS4_laughing_octopus": {
+            "ss_name": "MGS4_laughing_octopus",
+            "baseModel": "Pony"
+        },
+        "MGS4_Raging_Raven": {
+            "ss_name": "MGS4_Raging_Raven",
+            "baseModel": "Pony"
+        },
+        "MGS4_Screaming_Mantis": {
+            "ss_name": "MGS4_Screaming_Mantis",
+            "baseModel": "Pony"
+        },
         "Mia Fey Attorney PXL v01": {
             "ss_name": "Mia Fey Attorney PXL v01",
             "baseModel": "Pony"
@@ -11030,6 +11066,9 @@
         "Cross_Swimsuit": [
             "Cross_Swimsuit"
         ],
+        "Crying_Wolf__Metal_Gear_Solid_4": [
+            "Crying_Wolf__Metal_Gear_Solid_4"
+        ],
         "crystal": [
             "crystal-10"
         ],
@@ -12145,6 +12184,12 @@
         "latte_cookie_(cookie_run)-koto-illustrious test": [
             "latte_cookie_(cookie_run)-koto-illustrious"
         ],
+        "Laughing OctopusilluLora": [
+            "Laughing OctopusilluLora"
+        ],
+        "Laughing_Octopus_Metal_Gear_Solid_4": [
+            "Laughing_Octopus_Metal_Gear_Solid_4"
+        ],
         "laundry dragonmaid & eldlich the golden lord illuXL v1": [
             "laundry dragonmaid & eldlich the golden lord illuXL v1"
         ],
@@ -13163,6 +13208,9 @@
         "SCP_1471": [
             "SCP_1471"
         ],
+        "Screaming_Mantis_Metal_Gear_Solid_4": [
+            "Screaming_Mantis_Metal_Gear_Solid_4"
+        ],
         "Scylla_ILXL": [
             "Scylla_ILXL"
         ],
@@ -13358,6 +13406,9 @@
         ],
         "StrawCrepe2XL": [
             "StrawCrepe2XL"
+        ],
+        "stutter_neet": [
+            "stutter_neet"
         ],
         "SuccubusCosplayLingerieILL": [
             "SuccubusCosplayLingerieILL"
@@ -16154,6 +16205,18 @@
         ],
         "Mewtwo": [
             "Mewtwo"
+        ],
+        "MGS4_Crying_Wolf": [
+            "MGS4_Crying_Wolf"
+        ],
+        "MGS4_laughing_octopus": [
+            "MGS4_laughing_octopus"
+        ],
+        "MGS4_Raging_Raven": [
+            "MGS4_Raging_Raven"
+        ],
+        "MGS4_Screaming_Mantis": [
+            "MGS4_Screaming_Mantis"
         ],
         "Mia Fey Attorney PXL v01": [
             "Mia Fey Attorney PXL v01"

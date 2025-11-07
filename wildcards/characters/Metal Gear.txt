@@ -1,4 +1,13 @@
 (quiet \(metal gear\):1.3), metal gear \(series\), brown hair, long hair
 (sunny emmerich:1.3), metal gear \(series\), brown eyes, grey hair, long hair, short hair
+(sunny emmerich:1.3), metal gear \(series\), brown eyes, grey hair, long hair, short hair, <lora:stutter_neet:1> SunnyMGR, silver hair, brown eyes, hair flower
 (meryl silverburgh:1.3), metal gear \(series\), blue eyes, brown hair, red hair, short hair
 (sniper wolf:1.3), metal gear \(series\), long hair, blonde hair
+(laughing octopus:1.3), metal gear \(series\), <lora:Laughing OctopusilluLora:1> LauOcto, short hair, White hair, blue eyes
+(laughing octopus:1.3), metal gear \(series\), <lora:MGS4_laughing_octopus:1> MGS4_Laughing_Octopus, short hair, grey hair, grey eyes, dark smoky eyes
+(laughing octopus:1.3), metal gear \(series\), <lora:Laughing_Octopus_Metal_Gear_Solid_4:1> Laughing_Octopus, short hair, blonde hair, blue eyes
+(screaming mantis:1.3), metal gear \(series\), <lora:MGS4_Screaming_Mantis:1> MGS4_Screaming_Mantis, black hair, short hair, grey eyes
+(screaming mantis:1.3), metal gear \(series\), <lora:Screaming_Mantis_Metal_Gear_Solid_4:1> Screaming_Mantis, short hair, black hair
+(crying wolf:1.3), metal gear \(series\), <lora:MGS4_Crying_Wolf:1> MGS4_CW, black hair, long hair
+(crying wolf:1.3), metal gear \(series\), <lora:Crying_Wolf__Metal_Gear_Solid_4:1> Crying Wolf, long hair, black hair, brown eyes
+(raging raven:1.3), metal gear \(series\), <lora:MGS4_Raging_Raven:1> MGS4_Raging_Raven, brown eyes, black hair, long hair
