@@ -1,4 +1,5 @@
 [set debugging]0[/set]
+[set double_prompt_enable]0[/set]
 
 [##]
 Overrides Prompt Properties
@@ -78,11 +79,10 @@ characters
 [set franchise]
 [choose]
 Azur Lane
-Kantai Collection
 [/choose]
 [/set]
 
-[chance 20]
+[chance 0]
 [set characterType]
 [choose]
 characters
@@ -90,6 +90,7 @@ characters
 [/set]
 [set franchise]
 [choose]
+Kantai Collection
 Arknights
 Blue Archive
 Genshin
@@ -130,7 +131,9 @@ Makes the prompt
 
 [call preprocess]
 
-[chance 5]
+[if double_prompt_enable]
+
+[chance 15]
 [chance 50]
 [call make_double]
 [/chance]
@@ -143,6 +146,11 @@ Makes the prompt
 [/else]
 [/else]
 [/chance]
+[else]
+[call make_single]
+[/else]
+
+[/if]
 [else]
 [call make_single]
 [/else]
