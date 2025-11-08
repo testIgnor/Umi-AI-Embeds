@@ -1,26 +1,62 @@
-(ellen joe:1.3), zenless zone zero, multicolored hair, red eyes, black hair, colored inner hair, red hair, hair between eyes, two-tone hair, short hair
-(jane doe \(zenless zone zero\):1.3), zenless zone zero, multicolored hair, black hair, two-tone hair, red hair, green eyes, mouse ears, animal ears, long hair, green hair
-(nicole demara:1.3), zenless zone zero, pink hair, green eyes, long hair
-(zhu yuan:1.3), zenless zone zero, multicolored hair, black hair, red eyes, red hair, hair between eyes, streaked hair, orange eyes, two-tone hair, long hair
-(belle \(zenless zone zero\):1.3), zenless zone zero, black hair, blue hair, hair between eyes, green eyes, short hair
-(grace howard:1.3), zenless zone zero, orange eyes, long hair, hair between eyes, black hair
-(burnice white:1.3), zenless zone zero, red eyes, blonde hair, hair between eyes, long hair, short hair
-(qingyi \(zenless zone zero\):1.3), zenless zone zero, multicolored hair, black hair, green eyes, long hair, green hair
-(luciana de montefio:1.3), zenless zone zero, blonde hair, hair between eyes, long hair, red eyes
-(eous \(zenless zone zero\):1.3), zenless zone zero, black hair, red eyes, blue hair, hair between eyes, green eyes, long hair, short hair
-(corin wickes:1.3), zenless zone zero, red eyes, black hair, hair between eyes, purple eyes, long hair, green hair
-(caesar king \(zenless zone zero\):1.3), zenless zone zero, yellow eyes, hair between eyes, long hair, short hair, green hair
-(anby demara:1.3), zenless zone zero, pink hair, white hair, grey hair, green eyes, orange eyes, long hair, short hair
-(amillion \(zenless zone zero\):1.3), zenless zone zero, pink hair, green eyes, very long hair, long hair
-(hoshimi miyabi:1.3), zenless zone zero, red eyes, black hair, fox ears, animal ears, long hair
-(alexandrina sebastiane:1.3), zenless zone zero, low-tied long hair, red eyes, black hair, hair between eyes, very long hair, grey hair, long hair, short hair
-(koleda belobog:1.3), zenless zone zero, red eyes, black hair, red hair, bear ears, hair between eyes, fake animal ears, animal ears, long hair
-(nekomiya mana:1.3), zenless zone zero, pink hair, cat ears, red eyes, black hair, dark-skinned female, dark skin, animal ears, long hair, short hair
-(piper wheel:1.3), zenless zone zero, blonde hair, green eyes, long hair
-(soukaku \(zenless zone zero\):1.3), zenless zone zero, red eyes, white hair, skin-covered horns, hair between eyes, colored skin, pointy ears, short hair, blue skin
-(sharkboo \(zenless zone zero\):1.3), zenless zone zero, multicolored hair, red eyes, black hair, colored inner hair, red hair, hair between eyes, two-tone hair, short hair
-(drusilla \(zenless zone zero\):1.3), zenless zone zero, low-tied long hair, red eyes, black hair, hair between eyes, very long hair, grey hair, long hair
-(anastella \(zenless zone zero\):1.3), zenless zone zero, low-tied long hair, red eyes, black hair, hair between eyes, very long hair, grey hair, long hair
-(tsukishiro yanagi:1.3), zenless zone zero, pink hair, pink eyes, black hair, red eyes, fox ears, hair between eyes, purple eyes, animal ears, long hair
-(soldier 11 \(zenless zone zero\):1.3), zenless zone zero, white hair, hair between eyes, grey hair, orange eyes, long hair, short hair
-(securityboo \(zenless zone zero\):1.3), zenless zone zero, multicolored hair, black hair, red eyes, red hair, streaked hair, green eyes, long hair, green hair
+(ellen joe:1.3), zenless zone zero, multicolored hair, fish tail, razor blade hair ornament, black hair, shark tail, red eyes, red hair, mole under eye, scar on tail, colored inner hair, short hair, tail
+(hoshimi miyabi:1.3), zenless zone zero, comically large ears, black hair, blunt bangs, animal ears, fox ears, red eyes, long hair, animal ear fluff
+(belle \(zenless zone zero\):1.3), zenless zone zero, letter hair ornament, hair ornament, green eyes, short hair, blue hair
+(jane doe \(zenless zone zero\):1.3), zenless zone zero, sharp tail, multicolored hair, mouse ears, black hair, animal ears, red hair, long hair, green eyes, mouse tail, tail
+(nicole demara:1.3), zenless zone zero, hairclip, hair ribbon, pink hair, hair ornament, long hair, mole under eye, green eyes
+(tsukishiro yanagi:1.3), zenless zone zero, pink eyes, pink hair, long hair, hourglass earrings, hair between eyes
+(zhu yuan:1.3), zenless zone zero, multicolored hair, streaked hair, black hair, red eyes, red hair, long hair, ponytail
+(vivian banshee:1.3), zenless zone zero, multicolored hair, purple hair, red eyes, long hair, mole under eye, pointy ears
+(evelyn chevalier:1.3), zenless zone zero, purple eyes, blonde hair
+(burnice white:1.3), zenless zone zero, red eyes, eyewear on head, twintails, blonde hair
+(ukinami yuzuha:1.3), zenless zone zero, braid, twintails, hair ornament, animal ears, red hair, long hair, green eyes, sphere hair ornament, hearing aid
+(eous \(zenless zone zero\):1.3), zenless zone zero, bangboo \(zenless zone zero\)
+(astra yao:1.3), zenless zone zero, uneven bangs, black hair, blonde hair, red eyes, long hair, earrings, white hairband, hairband
+(alice thymefield:1.3), zenless zone zero, low twintails, braid, yellow eyes, blonde hair, twintails, animal ears, hair ornament, red eyes, long hair, rabbit ears, sphere hair ornament
+(yixuan \(zenless zone zero\):1.3), zenless zone zero, hair ornament, white hair, long hair, yellow eyes
+(anby demara:1.3), zenless zone zero, short hair, grey hair
+(luciana de montefio:1.3), zenless zone zero, red eyes, side ponytail, long hair, blonde hair
+(ju fufu:1.3), zenless zone zero, tiger tail, multicolored hair, white hair, tiger ears, blonde hair, animal ears, long hair, animal ear fluff, green eyes, tail
+(caesar king \(zenless zone zero\):1.3), zenless zone zero, yellow eyes, long hair, green hair, hair between eyes
+(corin wickes:1.3), zenless zone zero, hair between eyes, twintails, long hair, bear bag, screw hair ornament, purple eyes, green hair
+(qingyi \(zenless zone zero\):1.3), zenless zone zero, twintails, hair ornament, long hair, sphere hair ornament, green eyes, green hair
+(grace howard:1.3), zenless zone zero, ahoge, black hair, hair between eyes, long hair, orange eyes
+(nekomiya mana:1.3), zenless zone zero, multiple tails, dark skin, two tails, cat tail, mechanical tail, black hair, animal ears, red eyes, cat ears, long hair, dark-skinned female, animal ear fluff, cable tail, tail
+(tailless \(zenless zone zero\):1.3), zenless zone zero, black hair, blunt bangs, animal ears, fox ears, red eyes, long hair, animal ear fluff
+(ellen joe \(on campus\):1.3), zenless zone zero, multicolored hair, fish tail, black hair, shark tail, hair ornament, red eyes, red hair, mole under eye, colored inner hair, short hair, tail
+(piper wheel:1.3), zenless zone zero, green eyes, long hair, blonde hair
+(alexandrina sebastiane:1.3), zenless zone zero, red eyes, long hair, hair between eyes, grey hair
+(amillion \(zenless zone zero\):1.3), zenless zone zero, bangboo \(zenless zone zero\), hairclip, hair ribbon, pink hair, hair ornament, long hair, mole under eye, green eyes
+(trigger \(zenless zone zero\):1.3), zenless zone zero, hair ornament, ponytail, long hair, blonde hair
+(pulchra fellini:1.3), zenless zone zero, cat tail, blonde hair, animal ears, cat ears, long hair, animal ear fluff, green eyes, tail
+(koleda belobog:1.3), zenless zone zero, eyepatch, twintails, hair between eyes, hair ornament, red eyes, red hair, long hair, animal ears, bear ears, fake animal ears, sphere hair ornament
+(orphie magnusson:1.3), zenless zone zero, mechanical tail, twintails, long hair, green eyes, orange hair, tail, pointy ears
+(alice thymefield \(sea of thyme\):1.3), zenless zone zero, low twintails, braid, yellow eyes, blonde hair, twintails, hair ornament, animal ears, red eyes, long hair, rabbit ears, sphere hair ornament
+(ukinami yuzuha \(tanuki in broad daylight\):1.3), zenless zone zero, twin braids, eyewear on head, heart-shaped eyewear, braid, very long hair, twintails, hair ornament, animal ears, red hair, long hair, green eyes, sphere hair ornament, heart
+(kamanosuke \(zenless zone zero\):1.3), zenless zone zero, braid, twintails, hair ornament, animal ears, red hair, long hair, green eyes, sphere hair ornament
+(seed \(zenless zone zero\):1.3), zenless zone zero, hair ornament, long hair, blue hair
+(belle \(summer skies\) \(zenless zone zero\):1.3), zenless zone zero, green eyes, short hair, hair ornament, blue hair
+(sharkboo \(zenless zone zero\):1.3), zenless zone zero, bangboo \(zenless zone zero\), multicolored hair, fish tail, black hair, shark tail, hair ornament, red eyes, red hair, colored inner hair, short hair, tail
+(magus \(zenless zone zero\):1.3), zenless zone zero, tail, orange pupils, mechanical tail, twintails, long hair, green eyes, orange hair, pointy ears
+(vivian banshee \(iris of the shore\):1.3), zenless zone zero, multicolored hair, purple hair, heart cutout, streaked hair, drill hair, red eyes, long hair, mole under eye, hair bow, pointy ears
+(sweety \(zenless zone zero\):1.3), zenless zone zero, eyewear on head, hair over one eye, yellow-tinted eyewear, blonde hair, purple eyes, tinted eyewear
+(yidhari murphy:1.3), zenless zone zero, purple eyes, short hair, blonde hair, tentacle tail
+(lucy's crew \(zenless zone zero\):1.3), zenless zone zero, side ponytail, blonde hair, red eyes, long hair, hair between eyes
+(yixuan \(trails of ink\) \(zenless zone zero\):1.3), zenless zone zero, ahoge, white hair, yellow eyes, hair ornament, long hair
+(anby demara \(silver soldier\):1.3), zenless zone zero, braid, grey hair, black hairband, orange eyes, short hair, hairband
+(lucia elowen:1.3), zenless zone zero, braid, yellow eyes, animal ears, long hair, hair between eyes, blue hair, pointy ears
+(drusilla \(zenless zone zero\):1.3), zenless zone zero, bangboo \(zenless zone zero\), grey hair, red eyes, long hair, hair between eyes
+(chinatsu remiel:1.3), zenless zone zero, hairclip, hair ornament, long hair, green eyes, green hair
+(anastella \(zenless zone zero\):1.3), zenless zone zero, bangboo \(zenless zone zero\), grey hair, red eyes, long hair, hair between eyes
+(astra yao \(chandelier\):1.3), zenless zone zero, black hair, red eyes, long hair, earrings, white hairband, hairband
+(zhao \(zenless zone zero\):1.3), zenless zone zero, twin braids, ear piercing, thick eyebrows, bright pupils, ahoge, braid, pink hair, animal ears, red eyes, long hair, white pupils, animal ear fluff, rabbit ears
+(ellen joe:1.3), ellen, black hair, ear piercing, hairclip, spiked collar, maid headdress, black dress, puffy short sleeves, maid apron, wrist cuffs, pantyhose, shark tail
+(ellen joe:1.3), ellen, black hair, ear piercing, hairclip, choker, dress shirt, pantyhose, high-waist skirt, shark tail
+(zhu yuan:1.3), zhuyuan, ponytail, cropped jacket, collared shirt, green necktie, black gloves, belt, pants
+(qingyi \(zenless zone zero\):1.3),  qingyi, green hair, twintails, green eyes, hair ornament, crop top, sleeveless, elbow gloves, fingerless gloves, robot joints, short shorts
+(jane doe \(zenless zone zero\):1.3), jnedw, gradient hair, black hair, red hair, fur-trimmed jacket, necktie, fingerless gloves, high-waist shorts, single garter strap, torn pantyhose, mouse tail
+(nicole demara:1.3), nic07d3m, pink hair, hair ribbon, earrings, hairclip, tube top, shoulder cutout, bare shoulders, cleavage, detached sleeves, micro shorts, cutoffs, thigh strap, single thighhigh, torn thighhighs
+(anby demara:1.3), zzzanby, headphones, choker, detached sleeves, sleeveless jacket, midriff, fingerless gloves, belt, pleated skirt, thigh strap, thighhighs, panty straps
+(belle \(zenless zone zero\):1.3), belle, hair ornament, earrings, necklace, hooded jacket, skirt, asymmetrical legwear
+(caesar king \(zenless zone zero\):1.3), c4esark1ng, hair ornament, gloves, fur-trimmed jacket, short dress, cleavage, belt, thighhighs
+(tsukishiro yanagi:1.3), yanagi, pink eyes, pink hair, semi-rimless eyewear, dress shirt, collared shirt, black neck ribbon, shoulder armor, underbust, belt, black gloves, id card, high-waist skirt
+(hoshimi miyabi:1.3), miyabi, red eyes, green jacket, necktie, black necktie, white shirt, id card, hakama skirt, pantyhose, katana, high heel boots
