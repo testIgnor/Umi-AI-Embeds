@@ -26,6 +26,13 @@
     - Model
     - Any
 
+'{30%<[Model][Pony]>||<[Model][Illu]>}':
+  Description:
+    - Non-NAI Model with Bias
+  Tags:
+    - Model
+    - Non-NAI
+
 '{1%<[Emotions][negative]>||32%<[Emotions][neutral]>||<[Emotions][positive]>}':
   Description:
     - Ez random emotions
