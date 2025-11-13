@@ -64,6 +64,17 @@ tattered dress, ruined dress, ripped dress, one breast visible through ripped cl
 
 [/chance]
 
+[chance 0]
+[set prompt_suffix]
+[call get_clothing clothing_type="wedding"]
+[/set]
+
+[set prompt_suffix]
+<[imageformat]>, ([call wildcards/MyLocation]:1.3), [get prompt_suffix]
+[/set]
+
+[/chance]
+
 [/function]
 
 
@@ -78,7 +89,16 @@ characters
 [/set]
 [set franchise]
 [choose]
+Nikke
+Blue Archive
+Honkai Star Rail
+Honkai Impact 3rd
+ZZZ
+Genshin
 Azur Lane
+Kantai Collection
+Arknights
+Granblue
 [/choose]
 [/set]
 
@@ -90,15 +110,10 @@ characters
 [/set]
 [set franchise]
 [choose]
+Azur Lane
 Kantai Collection
 Arknights
-Blue Archive
-Genshin
 Granblue
-Honkai Impact 3rd
-Honkai Star rail
-Nikke
-Princess Connect
 [/choose]
 [/set]
 [/chance]
