@@ -170,25 +170,25 @@ ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingsho
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]> <lora:0765 flower wedding_v1_pony:1>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezexposure][lower][get eff_gen _before=[ _after=]]> <lora:0765 flower wedding_v1_pony:1>
 ruanyi0765, bridal garter, bridal veil, revealing clothes, see-through, slingshot, <[ezexposure][upper][get eff_gen _before=[ _after=]]> <lora:0765 flower wedding_v1_pony:1>
-white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
-<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
-<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
-<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][get eff_gen _before=[ _after=]]>
-<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, <[eznude][get eff_gen _before=[ _after=]]>
-<lora:Lace_Slingshot:1> L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Lace_Slingshot:1> L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
-<lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, <[eznude][get eff_gen _before=[ _after=]]>
-<lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
-<lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown, <[ezcovered][get eff_gen _before=[ _after=]]>
-<lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown
+wedding lingerie, white bodysuit, <lora:g0thsh33rb0dysu1tXLP:0.6> g0thsh33rb0dysu1t, thigh boots, see-through leotard, wide sleeves, long sleeves, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, wedding lingerie, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, wedding lingerie, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:Open_Lingerie:1> 0p3nl1ng3r13, nipples, thighhighs, garter straps, garter belt, bra, wedding lingerie, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, wedding lingerie, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Breast_exposure:1> Br345t_3xp0s0r3, lingerie, nipples, pussy, leotard, wedding lingerie, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Lace_Slingshot:1> L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, wedding lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Lace_Slingshot:1> L4c3_5l1ngsh0t, see-through, lace slingshot swimsuit, wedding lingerie, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:NudeLaceCutOutBodyconDressILL:1> nlcob dress, cleavage cutout, see-through, lace, wedding lingerie, <[eznude][get eff_gen _before=[ _after=]]>
+<lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, wedding lingerie, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Outfit_soph-ZeldaBride-ILXL:1> white leotard, gold garter straps, gold trim, blue trim, mesh midriff, triforce, navel, halter neck, clothing cutout, white thighhighs, thighs, cleavage, white gloves, elbow gloves, high heels, wedding lingerie, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
+<lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown, skimpy wedding dress, slutty wedding dress, <[ezcovered][get eff_gen _before=[ _after=]]>
+<lora:Earthbound_-_Cinderella_Glass_Princess_Cosplay_-_IllustriousXL:1> cinderella_dress, high heels, panties, crown, skimpy wedding dress, slutty wedding dress,
 skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes
 skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 skimpy wedding dress, slutty wedding dress, breast curtains, pelvic curtain, translucent clothes, transparent clothes, loose-fitting clothes, <[ezexposure][upper][get eff_gen _before=[ _after=]]>
-<lora:hud_dk_mdressXLPfix:1> hud_dk_mdress, see-through white loose fit lace mod dress, short dress, baggy clothes, long sleeves, white hairband, earrings
-<lora:hud_dk_mdressXLPfix:1> hud_dk_mdress, see-through white loose fit lace mod dress, short dress, baggy clothes, long sleeves, white hairband, earrings, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
+<lora:hud_dk_mdressXLPfix:1> hud_dk_mdress, see-through white loose fit lace mod dress, short dress, baggy clothes, long sleeves, white hairband, earrings, skimpy wedding dress, slutty wedding dress,
+<lora:hud_dk_mdressXLPfix:1> hud_dk_mdress, see-through white loose fit lace mod dress, short dress, baggy clothes, long sleeves, white hairband, earrings, skimpy wedding dress, slutty wedding dress, <[ezexposure][upper][get eff_gen _before=[ _after=]]>, <[ezexposure][lower][get eff_gen _before=[ _after=]]>
 bridal lingerie, <lora:bridal_2.0:1> BR1D4LL1NG3R13
 <lora:lbc_pony_wedding dress_126:1> lbc_gd_wedding dress
 <lora:BridalCape_Illustrious:1> see-through, <[eznude][get eff_gen _before=[ _after=]]>, veil, bridal veil, bridalcape
