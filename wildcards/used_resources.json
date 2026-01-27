@@ -2352,6 +2352,10 @@
             "ss_name": "Ladydevimon_Digimon_-_Illustrious",
             "baseModel": "Illustrious"
         },
+        "Lady_Liberty__fujimoto_artstyle_illus": {
+            "ss_name": "Lady_Liberty__fujimoto_artstyle_illus",
+            "baseModel": "Illustrious"
+        },
         "Laimu__Limealicious": {
             "ss_name": "Laimu__Limealicious",
             "baseModel": "Illustrious"
@@ -3946,6 +3950,10 @@
         },
         "Statue_of_Liberty_IL": {
             "ss_name": "Statue_of_Liberty_IL",
+            "baseModel": "Illustrious"
+        },
+        "Statue_of_Liberty_Illustrious_V1.00": {
+            "ss_name": "Statue_of_Liberty_Illustrious_V1.00",
             "baseModel": "Illustrious"
         },
         "Stella": {
@@ -7354,6 +7362,10 @@
         },
         "libertyy": {
             "ss_name": "libertyy",
+            "baseModel": "Pony"
+        },
+        "Liberty_fujimoto_artstyle": {
+            "ss_name": "Liberty_fujimoto_artstyle",
             "baseModel": "Pony"
         },
         "Licker_Resident_evil": {
@@ -12172,6 +12184,9 @@
         "Ladydevimon_Digimon_-_Illustrious": [
             "Ladydevimon_Digimon_-_Illustrious"
         ],
+        "Lady_Liberty__fujimoto_artstyle_illus": [
+            "Lady_Liberty__fujimoto_artstyle_illus"
+        ],
         "Laimu__Limealicious": [
             "Laimu__Limealicious"
         ],
@@ -13388,6 +13403,9 @@
         ],
         "Statue_of_Liberty_IL": [
             "Statue_of_Liberty_IL"
+        ],
+        "Statue_of_Liberty_Illustrious_V1.00": [
+            "Statue_of_Liberty_Illustrious_V1.00"
         ],
         "stevencarson": [
             "stevencarson"
@@ -15848,6 +15866,9 @@
         ],
         "libertyy": [
             "libertyy"
+        ],
+        "Liberty_fujimoto_artstyle": [
+            "Liberty_fujimoto_artstyle"
         ],
         "Licker_Resident_evil": [
             "Licker_Resident_evil"
