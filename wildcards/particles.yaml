@@ -951,6 +951,27 @@
     - Particle
     - ShotFormat
     - Closeup
+'selfie':
+  Description:
+    - Closeup
+  Tags:
+    - Particle
+    - ShotFormat
+    - Closeup
+'mirror selfie':
+  Description:
+    - Closeup
+  Tags:
+    - Particle
+    - ShotFormat
+    - Closeup
+'(from far away, far away, voyeuristic shot, voyeurism:1.5)':
+  Description:
+    - Closeup
+  Tags:
+    - Particle
+    - ShotFormat
+    - FarAway
 '(from side:1.2)':
   Description:
     - From Side
@@ -972,7 +993,7 @@
     - Particle
     - AngleFormat
     - FromBehind
-'(from behind:1.2)':
+'(from behind:1.4)':
   Description:
     - From Behind
   Tags:
