@@ -921,57 +921,113 @@
     - Cowboy Shot
   Tags:
     - Particle
-    - ImageFormat
+    - ShotFormat
     - CowboyShot
 'full body':
   Description:
     - Full Body
   Tags:
     - Particle
-    - ImageFormat
+    - ShotFormat
     - FullBody
-'(full body, quarter turn, from side:1.2)':
-  Description:
-    - Full Body, From Side
-  Tags:
-    - Particle
-    - ImageFormat
-    - FromSide
-'(full body, quarter turn, from behind:1.2)':
-  Description:
-    - Full Body, From Behind
-  Tags:
-    - Particle
-    - ImageFormat
-    - FromBehind
-'from above':
-  Description:
-    - From Above
-  Tags:
-    - Particle
-    - ImageFormat
-    - FromAbove
-'from below':
+"child's POV, from below":
   Description:
     - From Below
   Tags:
     - Particle
-    - ImageFormat
+    - ShotFormat
     - FromBelow
 'closeup':
   Description:
     - Closeup
   Tags:
     - Particle
-    - ImageFormat
+    - ShotFormat
     - Closeup
-'<[ImageFormat]>, pinup':
+'POV shot':
+  Description:
+    - Closeup
+  Tags:
+    - Particle
+    - ShotFormat
+    - Closeup
+'(from side:1.2)':
+  Description:
+    - From Side
+  Tags:
+    - Particle
+    - AngleFormat
+    - FromSide
+'(quarter turn, from side:1.2)':
+  Description:
+    - Quarter Turn, From Side
+  Tags:
+    - Particle
+    - AngleFormat
+    - FromSide
+'(quarter turn, from behind:1.2)':
+  Description:
+    - Quarter Turn, From Behind
+  Tags:
+    - Particle
+    - AngleFormat
+    - FromBehind
+'(from behind:1.2)':
+  Description:
+    - From Behind
+  Tags:
+    - Particle
+    - AngleFormat
+    - FromBehind
+'from above':
+  Description:
+    - From Above
+  Tags:
+    - Particle
+    - AngleFormat
+    - FromAbove
+'from front':
+  Description:
+    - From Front
+  Tags:
+    - Particle
+    - AngleFormat
+    - FromFront
+'<[ShotFormat]>, pinup':
   Description:
     - Pinup Addon
   Tags:
     - Particle
+    - ShotFormat
+'<[ShotFormat]>, <[AngleFormat][FromBehind]>':
+  Description:
+    - Specific Perspective
+  Tags:
+    - Particle
     - ImageFormat
-'facing viewer, looking at viewer':
+    - FromBehind
+'<[ShotFormat]>, <[AngleFormat][FromSide]>':
+  Description:
+    - Specific Perspective
+  Tags:
+    - Particle
+    - ImageFormat
+    - FromSide
+'<[ShotFormat]>, <[AngleFormat][FromFront]>':
+  Description:
+    - Specific Perspective
+  Tags:
+    - Particle
+    - ImageFormat
+    - FromFront
+'<[ShotFormat]>':
+  Description:
+    - Specific Perspective
+  Tags:
+    - Particle
+    - ImageFormat
+    - FromFront
+'looking at viewer':
   Description:
     - Looking at viewer
   Tags:
@@ -983,7 +1039,7 @@
   Tags:
     - Particle
     - GazeFormat
-'looking away':
+'looking away, looking away from viewer':
   Description:
     - Looking at away
   Tags:

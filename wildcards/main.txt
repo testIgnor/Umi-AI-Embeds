@@ -211,15 +211,12 @@ Sets gender_prompt
 [function set_gender]
 [set gender]female[/set]
 
-[chance 10]
+[chance 15]
 [set gender]
+[choose]
 male
-[/set]
-[/chance]
-
-[chance 10]
-[set gender]
 futanari
+[/choose]
 [/set]
 [/chance]
 
@@ -458,7 +455,7 @@ Makes a 1character prompt
 
 [call set_overrides_pre]
 
-[set character_preset]NSFW, (solo:1.5), [get characterprompt], [get artist], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance]**(person in background, people in background:2.0)**[/set]
+[set character_preset]NSFW, (solo:1.5), [get characterprompt], [get artist], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 10], <[ezpreg]>[/chance][chance 10], <[Meta][Pose]>[/chance]**(person in background, people in background:2.0)**[/set]
 
 [set prompt_suffix]
     [chance 0]
