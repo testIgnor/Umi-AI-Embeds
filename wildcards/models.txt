@@ -3,12 +3,12 @@ waiANINSFWPONYXL_v140
 prefectPonyXL_v6
 [/tags]
 [tags model="illu"]
-waiIllustriousSDXL_v150
-catCitronAnimeTreasure_ilV9
-novaAnimeXL_ilV100
+waiIllustriousSDXL_v160
+catCitronAnimeTreasure_ilV10
+novaAnimeXL_ilV160
+oneObsession_v19Atypical
 [/tags]
 [tags model="NAI"]
-catCitronAnimeTreasure_naiV2
-oneObsession_v16Noobai
 newERANewEstheticRetro_v63
+waiSHUFFLENOOB_vPred04
 [/tags]
