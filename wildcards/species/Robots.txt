@@ -11,3 +11,5 @@
 (mecha musume:1.3), <lora:wrenchsmechsxl:1> wrenchsmechs, _=Colors=_ mecha, mechanical arms, mechanical legs, mechanical eyes, mechanical halo, mechanical wings, visor
 (mecha musume:1.3), <lora:wrenchsmechsxl:1> wrenchsmechs, _=Colors=_ mecha, mechanical arms, mechanical legs, mechanical eyes, mechanical halo, mechanical wings
 (mecha musume:1.3), <lora:wrenchsmechsxl:1> wrenchsmechs, _=Colors=_ mecha, mechanical arms, mechanical legs, mechanical eyes
+(mecha dog:1.3), domestic dog, canine mecha, mecha, giant mecha, robot feral, 30 meters tall, white paintjob, canine, JSDF, sci-fi, robot, mechanical, mechanical parts
+(mecha horse:1.3), domestic horse, equine mecha, mecha, giant mecha, robot feral, 30 meters tall, white paintjob, equine, JSDF, sci-fi, robot, mechanical, mechanical parts

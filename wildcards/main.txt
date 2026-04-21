@@ -22,7 +22,7 @@ middle
 [chance 0]
 [set characterprompt]
 [choose]
-(haru urara \(umamusume\):1.3), purple eyes, animal ears, tail, pink hair, horse tail, long hair, ponytail, horse ears
+(mecha dog:1.3), mecha, canine, giantess, JSDF, sci-fi, robot, mechanical, mechanical parts, biological mimicry
 [/choose]
 [/set]
 [set characterprompt]<[model][Any]>source_anime, [get characterprompt]**(yellow skin, orange skin, red skin:1.5)**[/set]
