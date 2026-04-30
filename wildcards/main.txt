@@ -6,7 +6,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides_pre]
 
-[chance 0]
+[chance 100]
 [set age_range]
 [choose]
 middle
@@ -89,16 +89,7 @@ characters
 [/set]
 [set franchise]
 [choose]
-Nikke
-Blue Archive
-Honkai Star Rail
-Honkai Impact 3rd
-ZZZ
-Genshin
-Azur Lane
-Kantai Collection
-Arknights
-Granblue
+Mechagodzilla
 [/choose]
 [/set]
 
@@ -442,7 +433,6 @@ Common Preprocessing Steps
 [call choose_franchise]
 [call set_gender]
 [call set_age_range]
-[call set_age gender="{get gender}"]
 [call get_artist]
 
 [/function]
@@ -454,6 +444,7 @@ Makes a 1character prompt
 [function make_single]
 
 [call set_overrides_pre]
+[call set_age gender="{get gender}"]
 
 [set character_preset]NSFW, (solo:1.5), [get characterprompt], [get artist], [get ageprompt][get gender_suffix], <[EZEmotion]>, <[GazeFormat]>[chance 20], <[ezpreg]>[/chance][chance 30], <[Meta][Pose]>[/chance]**(person in background, people in background:2.0)**[/set]
 
@@ -490,6 +481,7 @@ Makes a 2character prompt
 [function make_double]
 
 [call set_overrides_pre]
+[call set_age gender="{get gender}"]
 
 [switch gender]
     [case "female"]
@@ -575,6 +567,7 @@ Makes a split character prompt
 [function make_split]
 
 [call set_overrides_pre]
+[call set_age gender="{get gender}"]
 
 [set prefix0]
 NSFW, (solo:1.0)

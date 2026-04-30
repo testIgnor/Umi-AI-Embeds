@@ -1644,6 +1644,10 @@
             "ss_name": "Helsie_fortnite_illust",
             "baseModel": "Illustrious"
         },
+        "HeMeGo_(Godzilla)_(Illustrious)_(AD)": {
+            "ss_name": "HeMeGo_(Godzilla)_(Illustrious)_(AD)",
+            "baseModel": "Illustrious"
+        },
         "HighWire_iLL": {
             "ss_name": "HighWire_iLL",
             "baseModel": "Illustrious"
@@ -2300,6 +2304,10 @@
             "ss_name": "Kiriko lesseraffim illus",
             "baseModel": "Illustrious"
         },
+        "Kiryu_(Godzilla)_(Illustrious)_(AD)": {
+            "ss_name": "Kiryu_(Godzilla)_(Illustrious)_(AD)",
+            "baseModel": "Illustrious"
+        },
         "Kissing_Penis": {
             "ss_name": "Kissing_Penis",
             "baseModel": "Illustrious"
@@ -2660,6 +2668,10 @@
             "ss_name": "Maya Fey-IL V1",
             "baseModel": "Illustrious"
         },
+        "mechagodzilla1974ILV1": {
+            "ss_name": "mechagodzilla1974ILV1",
+            "baseModel": "Illustrious"
+        },
         "Medusa": {
             "ss_name": "M5",
             "baseModel": "Illustrious"
@@ -2890,6 +2902,10 @@
         },
         "mutated_mongirl_IL": {
             "ss_name": "mutated_mongirl_IL",
+            "baseModel": "Illustrious"
+        },
+        "MVMeGo_(Godzilla)_(Illustrious)_(AD)": {
+            "ss_name": "MVMeGo_(Godzilla)_(Illustrious)_(AD)",
             "baseModel": "Illustrious"
         },
         "Mylene_Farrow_v2": {
@@ -3818,6 +3834,10 @@
         },
         "shojo_artstyle_illustriousXL": {
             "ss_name": "shojo_artstyle_illustriousXL",
+            "baseModel": "Illustrious"
+        },
+        "ShoMeGo_(Godzilla)_(Illustrious)_(AD)": {
+            "ss_name": "ShoMeGo_(Godzilla)_(Illustrious)_(AD)",
             "baseModel": "Illustrious"
         },
         "Shygal_-_Minus8_IL": {
@@ -11652,6 +11672,9 @@
         "Helsie_fortnite_illust": [
             "Helsie_fortnite_illust"
         ],
+        "HeMeGo_(Godzilla)_(Illustrious)_(AD)": [
+            "HeMeGo_(Godzilla)_(Illustrious)_(AD)"
+        ],
         "HighWire_iLL": [
             "HighWire_iLL"
         ],
@@ -12145,6 +12168,9 @@
         "Kiriko lesseraffim illus": [
             "Kiriko lesseraffim illus"
         ],
+        "Kiryu_(Godzilla)_(Illustrious)_(AD)": [
+            "Kiryu_(Godzilla)_(Illustrious)_(AD)"
+        ],
         "Kissing_Penis": [
             "Kissing_Penis"
         ],
@@ -12416,6 +12442,9 @@
         "Maya Fey-IL V1": [
             "Maya Fey-IL V1"
         ],
+        "mechagodzilla1974ILV1": [
+            "mechagodzilla1974ILV1"
+        ],
         "M5": [
             "Medusa"
         ],
@@ -12585,6 +12614,9 @@
         ],
         "mutated_mongirl_IL": [
             "mutated_mongirl_IL"
+        ],
+        "MVMeGo_(Godzilla)_(Illustrious)_(AD)": [
+            "MVMeGo_(Godzilla)_(Illustrious)_(AD)"
         ],
         "Mylene_Farrow": [
             "Mylene_Farrow_v2"
@@ -13303,6 +13335,9 @@
         ],
         "shojo_artstyle_illustriousXL": [
             "shojo_artstyle_illustriousXL"
+        ],
+        "ShoMeGo_(Godzilla)_(Illustrious)_(AD)": [
+            "ShoMeGo_(Godzilla)_(Illustrious)_(AD)"
         ],
         "Shygal_-_Minus8_IL": [
             "Shygal_-_Minus8_IL"
