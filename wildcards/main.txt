@@ -6,7 +6,7 @@ Overrides Prompt Properties
 [/##]
 [function set_overrides_pre]
 
-[chance 100]
+[chance 0]
 [set age_range]
 [choose]
 middle
@@ -89,7 +89,9 @@ characters
 [/set]
 [set franchise]
 [choose]
-Mechagodzilla
+Peach
+Daisy
+Rosalina
 [/choose]
 [/set]
 
