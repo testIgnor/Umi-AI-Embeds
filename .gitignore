@@ -2,3 +2,4 @@
 .env
 *.pyc
 test.*
+/wildcards/test_prompts
