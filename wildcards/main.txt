@@ -343,13 +343,11 @@ Sets sd model
 [/set]
 
 [set p_style]
-[filter_tags style=positive model="illu" _must_match=all]
-[choose][call wildcards/styles][/choose]
+masterpiece, best quality, score_7
 [/set]
 
 [set n_style]
-[filter_tags style=negative model="illu" _must_match=all]
-[choose][call wildcards/styles][/choose]
+worst quality, low quality, score_1, score_2, score_3, artist name, blurry, jpeg artifacts, lowres, censor
 [/set]
 
 [set p_style]
